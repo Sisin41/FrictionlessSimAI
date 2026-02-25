@@ -1,0 +1,71 @@
+{
+  "tick": 5,
+  "agent_id": "young_gig_worker",
+  "agent_name": "Zoe Martinez",
+  "response": {
+    "internal_assessment": "I have $1,188 in savings and zero income coming in. My expenses are over $2,400 a month. That means I have maybe two weeks before I am completely broke. The Coursera cert is 12% done and I already paid for it — I am not quitting that — but it is not going to pay my rent this month or next month. I lost my employment status somehow after tick 4, which means the cafe situation has either dried up or I walked away from something I should not have. Either way I have to treat this moment like the emergency it is. The grant I applied for in tick 2 should be real money if it comes through — 12 people just enrolled in retraining, which means the program is alive. I need to find out if my application is being processed. And I need to be on every gig platform I can sign up for right now: DoorDash, Uber Eats, Instacart, whatever is hiring. The social media angle from tick 1 might also matter here — if I have any following from that RoboRide post, I can try to monetize it or at least signal to the freelance market that I exist. But income is the only variable that matters right now.",
+    "inbox_interpretation": "The market data confirms what I already feel: unemployment is up to 10%, consumer spending is at 69, and the economy around me is contracting. RoboRide is still growing — 7% regular users, more robotaxis visible. That is not my problem; I already made my peace with not owning a car. What I see in the news is that everyone around me is adapting under pressure: Carlos doing EV cert, Priya being honest with her manager about the shrinking book, Jake trying to close units before the savings bleed gets worse, Tamika building a freelance client base. Even Angela is quietly building a consulting entity on the side. The common thread is: nobody is waiting for someone to save them. The grant program is real — 12 new enrollments this month. My application is in. I need to follow up and make sure it did not get lost. The $2,500 would buy me roughly one month of runway. That is not a solution but it is a bridge.",
+    "chosen_actions": [
+      {
+        "type": "TRANSFORMATION",
+        "description": "Immediately reactivate and maximize gig economy income streams. Sign up for every available platform operating in Millfield: DoorDash (already have account), add Uber Eats and Instacart this week. Commit to 25-30 hours of gig shifts per week on top of any cafe hours available. This is triage. The Coursera cert continues in whatever hours remain, but income comes first.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "give",
+          "amount": 25,
+          "detail": "25-30 hours per week across multiple gig platforms. Delivery, rideshare support, whatever pays. Targeting $800-1,100 in gig income this month to cover essential expenses and stop the savings bleed."
+        },
+        "economic_effects": {
+          "income_change": 900,
+          "expense_change": 0,
+          "savings_change": -1504,
+          "asset_change": "none",
+          "employment_change": "hired"
+        },
+        "reasoning": "I have no income and $1,188 in savings. My monthly essentials are $1,400. I cannot think my way out of this — I have to work my way out. Gig work is the fastest way to generate cash without a job offer, interview process, or training period. I already know how to do it. I did it in tick 0. I do it again, harder, now."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Follow up directly with Maria Santos's council office on the retraining grant application submitted in tick 2. Reference my application, ask for a status update, confirm whether service sector workers in my employment situation qualify given that I am now formally unemployed. The news that 12 people enrolled in retraining this month means the program is funded and active. My application needs to be in that pipeline, not forgotten.",
+        "target_agent": "council_member",
+        "resources": {
+          "type": "political_capital",
+          "direction": "give",
+          "amount": 1,
+          "detail": "One phone call or in-person visit to the council office. Low cost, potentially $2,500 return. This is the single highest-leverage action I can take this week other than gig shifts."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I applied for this grant three ticks ago and have heard nothing back. The program is visibly active — 12 new enrollments just this month. Either my application is in review and I need to confirm it, or it got lost and I need to resubmit. A $2,500 grant at this moment would change my runway from two weeks to six weeks. That is worth one uncomfortable phone call."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Post one piece of short-form content on TikTok or Instagram using the small following built from the tick 1 RoboRide post. Angle: 'Month 5 of building a digital marketing career while working gig jobs — here is what I actually spend money on and what I cut.' Authentic, financially honest, positions me as a real person navigating this economy. Low effort, keeps the brand warm, and may generate small sponsorship or affiliate inquiries over time.",
+        "target_agent": null,
+        "resources": {
+          "type": "skill",
+          "direction": "give",
+          "amount": 2,
+          "detail": "Two hours of content creation using social_media and tech_savvy skills. No cost. Potential slow-burn return on brand building."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I am not monetized yet and will not be this month, but the only way to eventually make the digital marketing pivot real is to have a visible presence when that time comes. Two hours is proportionate given my crisis. I am not pouring energy into this — I am keeping it alive."
+      }
+    ],
+    "emotional_state": "anxious",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Okay. The number is $1,188. That is real. That is not a drill anymore — that is two weeks of rent. I made a decision last month that I believed in and I still believe in it, but I cannot eat a Coursera certificate and my landlord does not care about my skill development arc. Get on the apps. Get the shifts. Follow up on the grant. Keep moving. I am not going to freeze — I have seen what freezing looks like and it is not me."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tick": 5,
+  "from_agent": "truck_owner",
+  "to_agent": "community_organizer",
+  "type": "SIGNAL",
+  "description": "Dale Cooper reaches out to Lisa Freeman — brief, low-key message noting he is a local contractor and if the AV impact task force wants informal perspective from the trades, he is available as a quiet resource. No commitment requested, no political posture. Just a door left open.",
+  "resources": {
+    "type": "reputation",
+    "direction": "give",
+    "amount": 1,
+    "detail": "Voluntary informal availability signal to community task force via trusted contact"
+  },
+  "expected_outcome": "Relationship with Lisa Freeman modestly strengthened. Dale positioned as a credible, low-drama voice from the construction trades within Lisa's network. No immediate economic effect."
+}
