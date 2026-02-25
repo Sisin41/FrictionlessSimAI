@@ -1,0 +1,47 @@
+{
+  "tick": 7,
+  "from": "community_organizer",
+  "target": "loan_officer",
+  "type": "program_confirmation",
+  "subject": "Office hours confirmed — Thursday evenings, back meeting room, starting next week",
+  "message": "Kevin — confirmed. Back meeting room, Thursday evenings, first 90 minutes of Community Connection Night. I am putting it on every channel I have tonight: text to the regulars, note on the sign-in sheet, word of mouth to the retraining enrollees I know by name. I am framing it as a standing monthly resource, not a one-time event — 'First Community Bank office hours, once a month, free, no pressure, just a banker in the room.' That framing matters. These are people who have been told by institutions that they don't qualify. I want them to walk in expecting a straight answer, not a sales pitch. You said no application pressure. I am holding you to that and also making it your brand. I am also notifying Maria Santos so the task force knows this infrastructure exists and can route people here directly. Thank you for following through on this. See you next Thursday.",
+  "transaction_type": "relationship_and_program_action",
+  "financial_value": 0,
+  "relationship_effect": {
+    "trust_delta": 0.06,
+    "notes": "Lisa confirms logistics, sets framing expectations, expands the program's visibility to Maria Santos's task force network, and creates accountability around the 'no application pressure' commitment. Deepens the institutional relationship between the community center and the bank's retraining-facing products."
+  },
+  "secondary_targets": [
+    {
+      "target": "young_gig_worker",
+      "type": "crisis_outreach",
+      "message": "Zoe — it's Lisa Freeman from the community center. I heard you are between things right now. I want you to come in this week, any evening, no agenda. I have some information about what is available to you right now — a grant program that just changed its rules, a bank office hours session starting next Thursday, and a mutual aid fund that can cover the cost of a certificate program subscription for someone in your situation. You do not have to be in crisis to walk in. You just have to walk in. I will be here.",
+      "financial_value": 49,
+      "note": "Lisa will use mutual aid fund to cover Zoe's $49/month Coursera subscription as an emergency micro-grant, contingent on Zoe coming in.",
+      "relationship_effect": {
+        "trust_delta": 0.08,
+        "notes": "Direct personal outreach from a known community figure to a person at survival threat level 1. Reduces isolation, surfaces available resources, and creates a warm handoff to Kevin's office hours."
+      }
+    },
+    {
+      "target": "diner_owner",
+      "type": "direct_peer_contact",
+      "message": "Betty — it's Lisa. I wanted to walk over before the week gets away from me. The council motion to lower the grant threshold to 10% for auto row businesses is moving. When it passes, you will almost certainly qualify based on what you told the task force. I brought the application materials so you can look them over and be ready to move the moment it goes through — no scrambling. I also want to tell you about something starting next Thursday at the center: a loan officer from First Community Bank is holding open office hours once a month, free, no pressure. Worth knowing about. Can I sit down for a few minutes?",
+      "financial_value": 0,
+      "relationship_effect": {
+        "trust_delta": 0.07,
+        "notes": "Proactive in-person outreach that translates abstract policy movement into a concrete action Betty can take now. Relieves pressure by making the path visible without adding to the meeting load of someone already in anger-stage grief."
+      }
+    },
+    {
+      "target": "council_member",
+      "type": "program_notification",
+      "message": "Maria — wanted to let you know: Kevin O'Brien from First Community Bank is starting monthly office hours at the community center beginning next Thursday, specifically for retraining program participants and anyone navigating their financial options during the transition. One hour, open door, no application pressure. It is a standing monthly resource. If anyone comes through your task force channels who needs to understand what bank products are available to them, you can send them here directly. Also confirming the listening session outcomes are continuing to move — twelve retraining enrollees, one-page resource in circulation, and now this. The center is holding.",
+      "financial_value": 0,
+      "relationship_effect": {
+        "trust_delta": 0.04,
+        "notes": "Lisa keeps Maria Santos informed of the infrastructure she is building so the task force can actively route people to it. Reinforces the community center as a named operational node in the Millfield transition response."
+      }
+    }
+  ]
+}

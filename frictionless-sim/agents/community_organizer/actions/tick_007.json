@@ -1,0 +1,56 @@
+{
+  "agent_id": "community_organizer",
+  "tick": 7,
+  "timestamp": "tick_007",
+  "psychological_state": {
+    "stress_level": 0.17,
+    "agency": 0.62,
+    "grief_stage": "none",
+    "sentiment": "purposeful and alert — the work is compounding in ways I built toward and also revealing cracks I need to address directly. Kevin confirmed the office hours. Zoe Martinez has nothing. Betty Kowalski has four and a half months. The community center itself is not immune. I am holding all of this with intention, not panic."
+  },
+  "chosen_actions": [
+    {
+      "type": "program_formalization",
+      "description": "Confirm and formalize Kevin O'Brien's monthly financial products office hours at the Community Center, starting next week. Respond to Kevin directly: confirm the room (the quiet back meeting room, not the main hall), confirm the time (Thursday evening, first 90 minutes of Community Connection Night, so the same people who come for connection are already there when Kevin arrives), and confirm I will add it to every channel I have — the Community Connection Night regulars by text and word of mouth, the retraining program enrollees directly, the bulletin board, and a handwritten note on the sign-in sheet. This is not a one-off event. I frame it publicly and internally as a recurring, structured resource: First Community Bank office hours, once a month, free, no application pressure, just a banker in the room who knows the small-dollar products and can give straight answers. I also notify Maria Santos that this is now a standing program at the center — she should know her task force recommendations are being operationalized in a physical space she can point people to.",
+      "resources_required": {"time_hours": 4, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 0
+      }
+    },
+    {
+      "type": "crisis_outreach",
+      "description": "Make direct, personal contact with Zoe Martinez this week. Not through a flyer. Not through a referral. I reach out to her myself — I know who she is from the Community Connection Night network — and I ask her to come in. I do not frame it as a crisis intervention. I frame it as: 'I heard you are between things right now and I want to make sure you know what is available.' Specifically: I walk her through the grant threshold reduction to 10% and whether she qualifies as a gig worker whose income has declined; I introduce her to the First Community Bank office hours starting next week with Kevin O'Brien, who can walk through whether any secured or small-dollar credit products could bridge a very short gap; I confirm whether she is still enrolled in the Google Digital Marketing certificate and whether the community center can help with the $49/month subscription fee as an emergency micro-grant from the mutual aid fund; and I check whether she has eaten. If she has not, I feed her. This is L0 triage. Zoe is 22 years old with zero savings and zero income. The community center exists precisely for this moment.",
+      "resources_required": {"time_hours": 3, "money": 49},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 49
+      }
+    },
+    {
+      "type": "peer_outreach",
+      "description": "Reach out to Betty Kowalski — not formally, just a walk over to the diner. Betty testified before the council. She did something hard and public and the response has been a motion in committee, which is real but slow. What she needs right now is to know the threshold change is coming and to understand what it means for her specifically. I walk over during a slow hour, sit down with coffee, and tell her directly: the 10% threshold motion is moving, it's for auto row businesses specifically, and when it passes she will almost certainly qualify based on her revenue decline. I bring the grant application materials so she can review them and be ready to move the moment the motion passes — not scrambling after the fact. I also tell her about Kevin O'Brien's office hours next week at the center, in case there is any conversation worth having about bridge financing options. Betty is at 4.5 months runway and in the anger stage of grief. She does not need another meeting. She needs someone to sit across the table from her and tell her clearly what is coming and what she can do.",
+      "resources_required": {"time_hours": 2, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 0
+      }
+    },
+    {
+      "type": "institutional_resilience",
+      "description": "Begin drafting a one-page impact document for the community center — not for external publication, not yet, but as a tool I can have ready if a budget conversation happens. The center's role_security is 0.57. I have seen what happens when community institutions become invisible to the people who hold the budget: they get cut precisely when they are most needed because they are not documenting what they do. This document captures: the number of people who have come through Community Connection Night since tick 0, the services they were connected to (retraining enrollment, grant referrals, bank product information), the measurable downstream outcomes (twelve retraining enrollees this month, one-page resource in thirty-plus hands after the listening session), and the unique role the center plays that no other institution in Millfield replicates — the informal, stigma-free point of first contact for people who are not yet ready to identify as displaced or in crisis. I do not circulate this document this tick. I write it so that if I am called into a budget conversation next tick, I walk in with evidence, not a plea.",
+      "resources_required": {"time_hours": 3, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 0
+      }
+    }
+  ],
+  "internal_monologue": "Kevin came through. That matters more than I let myself say out loud — six ticks ago I was a community center director who had expanded the evening hours and hoped someone with institutional reach would notice. Now I have a loan officer who proposed himself as a resource, who knows the products, who will sit in my back meeting room once a month because he sees the same thing I see: there is a gap between the people who need to understand their options and the institutions that have those options to offer, and closing that gap requires a human being in a room with a folding chair and a willingness to answer honest questions. That is the community center's whole theory of change. He just named it back to me in a message. I am putting it on the calendar immediately.\n\nZoe Martinez has nothing. Zero. I have to say that plainly to myself before I can decide what to do about it. She is 22 years old, she has been doing everything right by any reasonable standard — enrolled in a retraining certificate, not asking for help she doesn't need, staying in Millfield — and she is at threat level 1. The system did not fail her visibly and dramatically. It failed her quietly, the way it always does with young women in gig work: no income floor, no savings buffer, no employer to call, no obvious door to knock on. I am her door. I reach out to her directly this week.\n\nBetty I will walk to. She testified in public. That was an act of courage for someone who has been in business for thirty years and does not use words like 'vulnerable.' She sat in front of the task force and told the truth about what is happening to her diner. The least I can do is walk six blocks and tell her in person that the motion is moving and what she needs to do to be ready.\n\nAnd the center. I have been so focused on connecting other people to their options that I have not done the one administrative act that protects my own ability to keep doing this work: I have not documented what we actually produce here. A budget cut to the community center right now — when the employment rate is 73% and the spending index is 42 and Zoe Martinez has zero dollars — would be a catastrophe dressed up as a line-item decision. I am not going to wait for that conversation to happen and then try to reconstruct the case for why we matter. I am writing the impact document this week. Not to distribute. To have. Because preparation is not the same as panic, and this work matters too much to leave to chance.",
+  "archetype": "builder",
+  "tick_updated": 7
+}
