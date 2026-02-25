@@ -1,0 +1,76 @@
+{
+  "tick": 4,
+  "agent_id": "insurance_manager",
+  "agent_name": "Linda Park",
+  "response": {
+    "internal_assessment": "L2 PARTICIPATE is my primary threat. Role security is 0.48 and skill relevance is 0.35, both dangerous. The sector data just told me there are only 25 active auto insurance policies in this entire area. That number should be in the hundreds. I have two agents in the field — Tom and Priya — and between us we're competing for scraps. My job as regional manager is only justified if there's a region to manage. I'm burning $2,034 out of savings every month. I have 15.8 months of runway but that math gets worse fast if this erosion accelerates. L0 and L1 are not yet threatened, but L2 is actively collapsing beneath me and I need to get ahead of it before corporate does it to me.",
+
+    "inbox_interpretation": "The 25 active policies number is a punch to the gut. I've been watching this deteriorate but seeing it quantified this starkly is clarifying. RoboRide is not going away — people are adopting it and dropping personal auto policies, and the liability is shifting to corporate fleet coverage which AutoShield-local doesn't handle. The 93% employment rate means 7% are out of work and likely dropped coverage too. Spending index at 73 means people are cutting discretionary spending, and insurance — especially auto insurance on a car they're not driving — is on the chopping block. Tick 3 I went routine and did nothing. That was a mistake. The world didn't feel quiet because it was quiet; it felt quiet because I stopped looking. I need to stop coasting and press harder on the exit I've been building. My applications from tick 2 should have generated some responses by now. I need to follow up aggressively. I also need to have an honest conversation with myself about Tom and Priya — I can't protect them indefinitely if the book of business isn't there.",
+
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Prepare and send a formal internal memo to AutoShield regional leadership documenting the policy collapse — 25 active policies in Millfield, structural shift from personal auto to corporate/fleet liability, and a recommendation that the region pivot toward commercial fleet risk assessment rather than personal auto renewals. This is not a panic signal; it is a proactive positioning move that shows I understand the landscape and am managing it rather than waiting to be managed.",
+        "target_agent": null,
+        "resources": {
+          "type": "reputation",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Invest professional credibility in being seen as the person who diagnosed the structural shift early and proposed a pivot, rather than the manager who watched the book collapse and said nothing."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Status quo bias wants me to wait and see. But with 25 policies, there is no waiting. If I document this now and propose a pivot to commercial fleet risk, I accomplish two things: I protect my position by demonstrating managerial competence, and I potentially redirect AutoShield's regional strategy in a way that keeps my team employed longer. The alternative — saying nothing — means I look reactive when the cuts come. My 2008 conditioning says: institutions fail when people at all levels assume someone else is handling it. I will not be that person."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Continue CRMP certification coursework — now four months in. This month's focus: the module on liability risk transfer and commercial fleet risk assessment, specifically because the skills needed if AutoShield pivots to fleet/corporate coverage map directly to what I'm studying. Also follow up directly on the three external applications submitted in tick 2 — reach out by name to contacts at the regional logistics company, the healthcare system risk division, and the municipal risk management office. Ask specifically: did you receive my application, is there a next step, and can we schedule a conversation? Three follow-up calls, not emails.",
+        "target_agent": null,
+        "resources": {
+          "type": "skill",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Deepening RIMS-CRMP credential progress with specific focus on commercial fleet and liability transfer modules. Simultaneously advancing external job search from application stage to active follow-up stage."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": -150,
+          "savings_change": -150,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I enrolled in this certification at tick 1 specifically because I saw this structural shift coming. Four months in is too far to stop. The fleet/liability module is directly relevant to both my survival at AutoShield-if-they-pivot and my exit applications. The phone calls are the part I've been avoiding — it's uncomfortable to ask directly. But my tick 2 applications are now two months old. If I don't follow up, they'll assume I'm not serious. I have to lean into discomfort here. Loss aversion is working in my favor for once: the thought of those opportunities dying on the vine hurts more than the awkwardness of making the calls."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Check in with Tom (insurance_agent_tom) and Priya (insurance_agent_priya) individually — not a team meeting, separate one-on-ones. Ask them directly: what are you hearing from customers who are canceling? Are any of them citing RoboRide specifically? Are there any commercial or fleet accounts in their pipeline that we haven't been tracking? I need field intelligence. I also want to assess their morale and whether they're looking elsewhere. If they're already job searching, I want to know now so I can plan, not be surprised.",
+        "target_agent": "insurance_agent_priya",
+        "resources": {
+          "type": "labor",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Investing management time in field intelligence gathering from direct reports. Receiving qualitative data about customer cancellation drivers and pipeline status."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I have power over Tom and Priya, but right now they have something I don't: they talk to customers every day. They know why people are canceling. 25 policies in the area is a number — they know the faces and the reasons. This is also a morale check. If Priya or Tom are close to quitting, I need to know before I walk into a situation where I'm managing zero agents. I trust Priya more (0.66 vs 0.54 for Tom) so starting with her individually will give me a more honest read. This costs me nothing but an afternoon and could tell me everything about what's actually happening at street level."
+      }
+    ],
+
+    "emotional_state": "determined",
+
+    "archetype_self_assessment": "adapter",
+
+    "inner_monologue": "Twenty-five policies. Twenty-five. I keep coming back to that number. When I took this regional manager position, we had over four hundred active policies in Millfield alone. Now the entire area is at twenty-five and we have three people supposedly selling auto insurance. The math is not survivable and I've known that for months — the difference is now it's undeniable. I went routine last month, which I'm not proud of. Maybe I needed a breath. Maybe normalcy bias got me. But the routine cost me $2,034 out of savings and gave me nothing back. That ends now. The certification, the applications, the memo to corporate — these aren't Plan B. Plan B was staying put and hoping. This is Plan A, and I should have named it that months ago."
+  }
+}
