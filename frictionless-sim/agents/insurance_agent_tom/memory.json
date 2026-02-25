@@ -49,6 +49,11 @@
       "tick": 9,
       "summary": "Tom has a real conversation with his wife Sarah. Not a managed disclosure, not the version designed to reassure her. The actual conversation \u2014 what the 30 days looks like, what the savings number is, what the runway is, what the plan is to the extent there is a plan. He tells her about the retraining grant application. He tells her about Linda's offer to connect him to fleet and logistics contacts. He listens to what she is actually feeling, not what she is performing for him. This is the most important action of tick 9 and it is not on any professional to-do list.",
       "emotional_state": "grief with clarity"
+    },
+    {
+      "tick": 10,
+      "summary": "Have the actual conversation with Priya Sharma that I signaled at tick 9. This is not a follow-up message \u2014 it is a phone call or in-person meeting. I tell her my AutoShield employment has ended. I ask what she has learned from her own job search so far \u2014 specifically: which regional insurtech firms or commercial risk analytics roles have responded, and what the market signal is on timeline to interview. I share what Linda offered: introductions to fleet and logistics contacts. I ask Priya directly if she wants to be included in that outreach loop \u2014 Linda respects both of us, and if there is a role that could fit either of us, we are more useful to each other than we are competing. I also check in on her retraining grant application \u2014 did Maria Santos's office respond? I filed mine at tick 8 and have had no confirmation.",
+      "emotional_state": "resigned"
     }
   ],
   "past_outcomes": [
@@ -131,6 +136,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Tom has a real conversation with his wife Sarah. Not a managed disclosure, not the version designed to reassure her. The actual conversation \u2014 what the 30 days looks like, what the savings number is, what the runway is, what the plan is to the extent there is a plan. He tells her about the retraining grant application. He tells her about Linda's offer to connect him to fleet and logistics contacts. He listens to what she is actually feeling, not what she is performing for him. This is the most important action of tick 9 and it is not on any professional to-do list.. Savings dropped by $2,650. "
+    },
+    {
+      "tick": 10,
+      "action": "Have the actual conversation with Priya Sharma that I signaled at tick 9. This is not a follow-up message \u2014 it is a phone call or in-person meeting. I tell her my AutoShield employment has ended. I ask what she has learned from her own job search so far \u2014 specifically: which regional insurtech firms or commercial risk analytics roles have responded, and what the market signal is on timeline to interview. I share what Linda offered: introductions to fleet and logistics contacts. I ask Priya directly if she wants to be included in that outreach loop \u2014 Linda respects both of us, and if there is a role that could fit either of us, we are more useful to each other than we are competing. I also check in on her retraining grant application \u2014 did Maria Santos's office respond? I filed mine at tick 8 and have had no confirmation.",
+      "savings_delta": -2650,
+      "stress_delta": 0.03,
+      "employment_changed": false,
+      "narrative": "You Have the actual conversation with Priya Sharma that I signaled at tick 9. This is not a follow-up message \u2014 it is a phone call or in-person meeting. I tell her my AutoShield employment has ended. I ask what she has learned from her own job search so far \u2014 specifically: which regional insurtech firms or commercial risk analytics roles have responded, and what the market signal is on timeline to interview. I share what Linda offered: introductions to fleet and logistics contacts. I ask Priya directly if she wants to be included in that outreach loop \u2014 Linda respects both of us, and if there is a role that could fit either of us, we are more useful to each other than we are competing. I also check in on her retraining grant application \u2014 did Maria Santos's office respond? I filed mine at tick 8 and have had no confirmation.. Savings dropped by $2,650. "
     }
   ],
   "reflections": [

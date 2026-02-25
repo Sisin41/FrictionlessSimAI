@@ -54,6 +54,11 @@
       "tick": 9,
       "summary": "Immediately pick up maximum viable gig shifts this month \u2014 bike delivery via DoorDash and any last-mile delivery work that does not require a car. RoboRide's residential delivery expansion makes this viable as a last-mile layer: the robotaxi brings the package close, I deliver the final block. Research the RoboRide delivery partner registration process this week \u2014 if it pays better than DoorDash bike routes, shift hours toward it. Target: 15 to 20 hours of gig work per week across evenings and weekends, carefully scheduled so it does not conflict with Tuesday/Thursday evening classes and Saturday morning class. This is not a career pivot. This is survival. The goal is to generate $400 to $600 this month \u2014 enough to stop the savings bleed while I stay enrolled in the cert program. At $1,180 in savings and $1,200/month in essentials, I have less than one month of runway. This is the constraint that overrides everything except keeping my cert streak alive.",
       "emotional_state": "tense but controlled"
+    },
+    {
+      "tick": 10,
+      "summary": "Call Carlos Ruiz back \u2014 he reached out and I owe him the return. This is not a mentorship call and I will not frame it that way. I ask him what his cert training actually cost, how far along he is, whether the EV modules exist in the Millfield CC program or whether he went somewhere else for that specialization, and whether he has any names yet of fleet operators or RoboRide-adjacent employers who are actually going to be hiring in the next 6 months. I also tell him where I am honestly: no savings, gig work keeping the lights on, cert at month 5. I am not performing stability. I am talking to someone who is ahead of me on the same road and I need real information.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -128,6 +133,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Immediately pick up maximum viable gig shifts this month \u2014 bike delivery via DoorDash and any last-mile delivery work that does not require a car. RoboRide's residential delivery expansion makes this viable as a last-mile layer: the robotaxi brings the package close, I deliver the final block. Research the RoboRide delivery partner registration process this week \u2014 if it pays better than DoorDash bike routes, shift hours toward it. Target: 15 to 20 hours of gig work per week across evenings and weekends, carefully scheduled so it does not conflict with Tuesday/Thursday evening classes and Saturday morning class. This is not a career pivot. This is survival. The goal is to generate $400 to $600 this month \u2014 enough to stop the savings bleed while I stay enrolled in the cert program. At $1,180 in savings and $1,200/month in essentials, I have less than one month of runway. This is the constraint that overrides everything except keeping my cert streak alive.. Savings dropped by $1,180. "
+    },
+    {
+      "tick": 10,
+      "action": "Call Carlos Ruiz back \u2014 he reached out and I owe him the return. This is not a mentorship call and I will not frame it that way. I ask him what his cert training actually cost, how far along he is, whether the EV modules exist in the Millfield CC program or whether he went somewhere else for that specialization, and whether he has any names yet of fleet operators or RoboRide-adjacent employers who are actually going to be hiring in the next 6 months. I also tell him where I am honestly: no savings, gig work keeping the lights on, cert at month 5. I am not performing stability. I am talking to someone who is ahead of me on the same road and I need real information.",
+      "savings_delta": 0,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Call Carlos Ruiz back \u2014 he reached out and I owe him the return. This is not a mentorship call and I will not frame it that way. I ask him what his cert training actually cost, how far along he is, whether the EV modules exist in the Millfield CC program or whether he went somewhere else for that specialization, and whether he has any names yet of fleet operators or RoboRide-adjacent employers who are actually going to be hiring in the next 6 months. I also tell him where I am honestly: no savings, gig work keeping the lights on, cert at month 5. I am not performing stability. I am talking to someone who is ahead of me on the same road and I need real information.. "
     }
   ],
   "reflections": [

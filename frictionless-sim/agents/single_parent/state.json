@@ -25,8 +25,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 2.9,
-      "threat_level": 0.76,
+      "runway_months": 1.9,
+      "threat_level": 0.84,
       "monthly_essentials": 2600,
       "health_cost_from_stress": 0
     },
@@ -75,10 +75,10 @@
       "availability_heuristic": 0.66,
       "social_proof_sensitivity": 0.66
     },
-    "sentiment": "determined"
+    "sentiment": "anxious"
   },
   "psychological": {
-    "stress_level": 0.36,
+    "stress_level": 0.41,
     "agency": 0.67,
     "grief_stage": "none",
     "temporal_horizon_months": 8,
@@ -87,7 +87,7 @@
   "financial": {
     "monthly_income": 0,
     "monthly_expenses": 4630,
-    "savings": 13250,
+    "savings": 8620,
     "debt_total": 47402,
     "credit_score": 623
   },
@@ -120,5 +120,5 @@
   },
   "locality": "millfield",
   "archetype": "stable",
-  "tick_updated": 9
+  "tick_updated": 10
 }

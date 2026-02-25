@@ -1,0 +1,28 @@
+{
+  "tick": 10,
+  "from_agent": "insurance_agent_tom",
+  "from_name": "Tom Bradley",
+  "transactions": [
+    {
+      "to_agent": "insurance_agent_priya",
+      "to_name": "Priya Sharma",
+      "type": "COMMITMENT",
+      "description": "Real conversation about transition \u2014 Tom's AutoShield employment has ended. Mutual job market intelligence sharing, grant application status, and discussion of Linda Park's fleet/logistics contact network.",
+      "resource_type": "reputation",
+      "amount": 0,
+      "direction": "both",
+      "detail": "Peer-to-peer transition intelligence exchange \u2014 Tom shares Linda Park fleet/logistics contacts, Priya shares insurtech application pipeline status. Both benefit from combined network."
+    },
+    {
+      "to_agent": "insurance_manager",
+      "to_name": "Linda Park",
+      "type": "TRANSFORMATION",
+      "description": "Activate Linda Park's fleet and logistics contact introductions offered at tick 9 layoff conversation. AutoShield employment now formally ended \u2014 timing is appropriate.",
+      "resource_type": "reputation",
+      "amount": 0,
+      "direction": "receive",
+      "detail": "Request 2-3 introductions to commercial fleet risk or logistics insurance adjacent contacts from Linda Park's professional network"
+    }
+  ],
+  "status": "no_counterparty"
+}

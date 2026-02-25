@@ -74,19 +74,19 @@
       "availability_heuristic": 0.54,
       "social_proof_sensitivity": 0.54
     },
-    "sentiment": "Tense but functional. The difference between panic and urgency is that urgency moves toward a plan. I have a plan. The runway is dangerously short but it is not zero. I have a credential in progress, two specific operators to call, the highest-trust network node asking me directly for an exchange, and one month to make the NEMT placement happen. I am scared in the way that makes you move faster, not the way that makes you freeze. I have been here before \u2014 not this exact situation, but the structure of it. You run the plan and you do not stop to mourn the plan that stopped working."
+    "sentiment": "anxious"
   },
   "psychological": {
-    "stress_level": 0.16,
+    "stress_level": 0.21,
     "agency": 0.6,
-    "grief_stage": "bargaining",
+    "grief_stage": "depression",
     "temporal_horizon_months": 10,
     "high_stress_ticks": 0
   },
   "financial": {
     "monthly_income": 0,
     "monthly_expenses": 1787,
-    "savings": 68,
+    "savings": 0,
     "debt_total": 35485,
     "credit_score": 796
   },
@@ -112,6 +112,6 @@
     "willingness_to_move": 0.9
   },
   "locality": "millfield",
-  "archetype": "adapter \u2014 but adapter under real pressure now, not adapter in a comfortable hedge position. The ticks where I could optimize incrementally are behind me. This tick I am executing under constraint. The archetype is still correct. The comfort margin is gone.",
-  "tick_updated": 9
+  "archetype": "adapter",
+  "tick_updated": 10
 }

@@ -44,6 +44,11 @@
       "tick": 9,
       "summary": "Follow up directly with Lisa Freeman \u2014 not a passive check-in but a specific ask. The two repair bids I submitted through her pipeline in tick 7 have been in limbo for two ticks now. I need to know: did either property owner make a decision? If yes, when do I start? If no, what is the holdup \u2014 money, timing, competing bids? I am also asking her directly whether the community center itself has any deferred maintenance that needs addressing. I have been treating Lisa as a referral channel but she is also a potential client in her own right. Community centers have roofs and foundations and HVAC systems that fail. I will ask plainly. If there is no work in her pipeline right now, I want to know that clearly so I can focus elsewhere.",
       "emotional_state": "steady under pressure"
+    },
+    {
+      "tick": 10,
+      "summary": "Execute the bid pipeline audit I committed to last tick: spend two hours this week doing a systematic written review of every active bid, outstanding receivable, and the probability-weighted income coming in the next 30-60 days. Update the savings runway calculation at the current $4,681/month burn rate. Come out of this exercise with one clear number: how many months before savings fall below the $20,000 psychological floor that triggers a hard decision.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -118,6 +123,14 @@
       "stress_delta": 0.0,
       "employment_changed": true,
       "narrative": "You Follow up directly with Lisa Freeman \u2014 not a passive check-in but a specific ask. The two repair bids I submitted through her pipeline in tick 7 have been in limbo for two ticks now. I need to know: did either property owner make a decision? If yes, when do I start? If no, what is the holdup \u2014 money, timing, competing bids? I am also asking her directly whether the community center itself has any deferred maintenance that needs addressing. I have been treating Lisa as a referral channel but she is also a potential client in her own right. Community centers have roofs and foundations and HVAC systems that fail. I will ask plainly. If there is no work in her pipeline right now, I want to know that clearly so I can focus elsewhere.. Savings dropped by $4,681. Employment status changed to unemployed. "
+    },
+    {
+      "tick": 10,
+      "action": "Execute the bid pipeline audit I committed to last tick: spend two hours this week doing a systematic written review of every active bid, outstanding receivable, and the probability-weighted income coming in the next 30-60 days. Update the savings runway calculation at the current $4,681/month burn rate. Come out of this exercise with one clear number: how many months before savings fall below the $20,000 psychological floor that triggers a hard decision.",
+      "savings_delta": -4681,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Execute the bid pipeline audit I committed to last tick: spend two hours this week doing a systematic written review of every active bid, outstanding receivable, and the probability-weighted income coming in the next 30-60 days. Update the savings runway calculation at the current $4,681/month burn rate. Come out of this exercise with one clear number: how many months before savings fall below the $20,000 psychological floor that triggers a hard decision.. Savings dropped by $4,681. "
     }
   ],
   "reflections": [

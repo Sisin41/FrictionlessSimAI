@@ -44,6 +44,11 @@
       "tick": 9,
       "summary": "Call Rick Tanner today \u2014 not by end of week, today \u2014 and have the formal engagement conversation he asked for. Offer him a defined consulting contract: 90-day engagement at $4,500 per month, renewable, covering assessment finalization and transition-phase operational advisory. The rate reflects the quality of his compressed work. This is not a favor \u2014 it is the right structure for what I am asking him to do, which is help me dismantle and rebuild a business he has managed. Make clear that the assessment can be finalized this week once the contract is in place. Do not ask him to wait any longer.",
       "emotional_state": "sober, heavy with accountability \u2014 not grief, not panic, but the specific weight that comes from standing in the consequence of your own decision without being able to delegate it away"
+    },
+    {
+      "tick": 10,
+      "summary": "Attend Maria Santos's emergency task force session and deliver the requested update: confirm that displaced workers from the closing location are being routed through Angela Wright's transition program, that Angela's pipeline connects directly to the $2,500 retraining grant program (after confirming this with Maria pre-session), and that the service technicians have received transfer offers to surviving locations. Provide the session with a specific count: how many workers are being separated, how many are in the transition pipeline as of this week. Do not manage the optics of the closure. State the facts plainly and answer questions directly.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -118,6 +123,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Call Rick Tanner today \u2014 not by end of week, today \u2014 and have the formal engagement conversation he asked for. Offer him a defined consulting contract: 90-day engagement at $4,500 per month, renewable, covering assessment finalization and transition-phase operational advisory. The rate reflects the quality of his compressed work. This is not a favor \u2014 it is the right structure for what I am asking him to do, which is help me dismantle and rebuild a business he has managed. Make clear that the assessment can be finalized this week once the contract is in place. Do not ask him to wait any longer.. Savings dropped by $16,487. "
+    },
+    {
+      "tick": 10,
+      "action": "Attend Maria Santos's emergency task force session and deliver the requested update: confirm that displaced workers from the closing location are being routed through Angela Wright's transition program, that Angela's pipeline connects directly to the $2,500 retraining grant program (after confirming this with Maria pre-session), and that the service technicians have received transfer offers to surviving locations. Provide the session with a specific count: how many workers are being separated, how many are in the transition pipeline as of this week. Do not manage the optics of the closure. State the facts plainly and answer questions directly.",
+      "savings_delta": -16487,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Attend Maria Santos's emergency task force session and deliver the requested update: confirm that displaced workers from the closing location are being routed through Angela Wright's transition program, that Angela's pipeline connects directly to the $2,500 retraining grant program (after confirming this with Maria pre-session), and that the service technicians have received transfer offers to surviving locations. Provide the session with a specific count: how many workers are being separated, how many are in the transition pipeline as of this week. Do not manage the optics of the closure. State the facts plainly and answer questions directly.. Savings dropped by $16,487. "
     }
   ],
   "reflections": [

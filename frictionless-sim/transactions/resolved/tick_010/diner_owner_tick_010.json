@@ -11,7 +11,7 @@
       "resource_type": "reputation",
       "amount": 0,
       "direction": "both",
-      "detail": "Share real RoboRide terms inquiry status and minimum revenue threshold math — receive intelligence on whether Miguel Hernandez connection relates to last-mile delivery infrastructure viable for kitchen prep hub model"
+      "detail": "Share real RoboRide terms inquiry status and minimum revenue threshold math \u2014 receive intelligence on whether Miguel Hernandez connection relates to last-mile delivery infrastructure viable for kitchen prep hub model"
     },
     {
       "to_agent": "real_estate_agent",
@@ -21,7 +21,8 @@
       "resource_type": "political_capital",
       "amount": 0,
       "direction": "internal",
-      "detail": "Conditional one-week pause on property walk — not a refusal. If RoboRide terms viable by end of week: convert kitchen, no valuation needed yet. If not: call Stephanie back and schedule the property walk."
+      "detail": "Conditional one-week pause on property walk \u2014 not a refusal. If RoboRide terms viable by end of week: convert kitchen, no valuation needed yet. If not: call Stephanie back and schedule the property walk."
     }
-  ]
+  ],
+  "status": "no_counterparty"
 }

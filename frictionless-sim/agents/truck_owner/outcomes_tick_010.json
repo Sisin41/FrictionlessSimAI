@@ -1,0 +1,10 @@
+[
+  {
+    "tick": 10,
+    "action": "Execute the bid pipeline audit I committed to last tick: spend two hours this week doing a systematic written review of every active bid, outstanding receivable, and the probability-weighted income coming in the next 30-60 days. Update the savings runway calculation at the current $4,681/month burn rate. Come out of this exercise with one clear number: how many months before savings fall below the $20,000 psychological floor that triggers a hard decision.",
+    "savings_delta": -4681,
+    "stress_delta": -0.02,
+    "employment_changed": false,
+    "narrative": "You Execute the bid pipeline audit I committed to last tick: spend two hours this week doing a systematic written review of every active bid, outstanding receivable, and the probability-weighted income coming in the next 30-60 days. Update the savings runway calculation at the current $4,681/month burn rate. Come out of this exercise with one clear number: how many months before savings fall below the $20,000 psychological floor that triggers a hard decision.. Savings dropped by $4,681. "
+  }
+]

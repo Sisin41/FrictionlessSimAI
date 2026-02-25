@@ -49,6 +49,11 @@
       "tick": 9,
       "summary": "Deliver on the 4-hour pro bono communications commitment to Lisa Freeman at the community center. Rachel schedules and completes the work this tick: she drafts a communications template kit including a press release format, a social media post structure, and a donor outreach email \u2014 tailored to the community center's actual programs and language. She sends the completed kit to Lisa with a brief cover note explaining each element and offering one 30-minute follow-up call to walk through usage. This is not a soft touch. This is a completed deliverable. Rachel made a commitment and she is keeping it, which is the single highest-trust-building action available to her at trust score 0.32 with Lisa.",
       "emotional_state": "grounded and quietly urgent \u2014 not panicked, but no longer comfortable with slow movement"
+    },
+    {
+      "tick": 10,
+      "summary": "Follow up with Angela Wright on the 20-minute exploratory call I proposed last tick. If she has not responded, I send one brief, specific follow-up \u2014 not a nudge, a proposal: 'I would like to schedule the call for Tuesday or Wednesday of this week. I have 20 minutes blocked at 10am or 2pm on either day. If neither works, suggest a time that does.' I do not let this drift into a warm-maybe. The referral relationship only has value if we actually establish it. If she responds and wants the call, I go in with a specific two-way proposal: she refers clients who need marketing communications support, I refer clients who need workforce transition consulting. I come with one concrete example of the kind of client she would be likely to meet who also needs what I do \u2014 a small business owner who just let go of staff and needs to communicate that change to customers without losing them.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -123,6 +128,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Deliver on the 4-hour pro bono communications commitment to Lisa Freeman at the community center. Rachel schedules and completes the work this tick: she drafts a communications template kit including a press release format, a social media post structure, and a donor outreach email \u2014 tailored to the community center's actual programs and language. She sends the completed kit to Lisa with a brief cover note explaining each element and offering one 30-minute follow-up call to walk through usage. This is not a soft touch. This is a completed deliverable. Rachel made a commitment and she is keeping it, which is the single highest-trust-building action available to her at trust score 0.32 with Lisa.. Savings grew by $591. "
+    },
+    {
+      "tick": 10,
+      "action": "Follow up with Angela Wright on the 20-minute exploratory call I proposed last tick. If she has not responded, I send one brief, specific follow-up \u2014 not a nudge, a proposal: 'I would like to schedule the call for Tuesday or Wednesday of this week. I have 20 minutes blocked at 10am or 2pm on either day. If neither works, suggest a time that does.' I do not let this drift into a warm-maybe. The referral relationship only has value if we actually establish it. If she responds and wants the call, I go in with a specific two-way proposal: she refers clients who need marketing communications support, I refer clients who need workforce transition consulting. I come with one concrete example of the kind of client she would be likely to meet who also needs what I do \u2014 a small business owner who just let go of staff and needs to communicate that change to customers without losing them.",
+      "savings_delta": -4817,
+      "stress_delta": -0.02,
+      "employment_changed": true,
+      "narrative": "You Follow up with Angela Wright on the 20-minute exploratory call I proposed last tick. If she has not responded, I send one brief, specific follow-up \u2014 not a nudge, a proposal: 'I would like to schedule the call for Tuesday or Wednesday of this week. I have 20 minutes blocked at 10am or 2pm on either day. If neither works, suggest a time that does.' I do not let this drift into a warm-maybe. The referral relationship only has value if we actually establish it. If she responds and wants the call, I go in with a specific two-way proposal: she refers clients who need marketing communications support, I refer clients who need workforce transition consulting. I come with one concrete example of the kind of client she would be likely to meet who also needs what I do \u2014 a small business owner who just let go of staff and needs to communicate that change to customers without losing them.. Savings dropped by $4,817. Employment status changed to unemployed. "
     }
   ],
   "reflections": [

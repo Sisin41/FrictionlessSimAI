@@ -1,0 +1,28 @@
+{
+  "tick": 10,
+  "from_agent": "loan_officer",
+  "from_name": "Kevin O'Brien",
+  "transactions": [
+    {
+      "to_agent": "bank_manager",
+      "to_name": "David Chen (or successor)",
+      "type": "COMMITMENT",
+      "description": "Direct meeting with successor branch manager to resolve portfolio expansion request ambiguity \u2014 present Amir Patel $12K EV charger loan as proof-of-concept for small business loan origination.",
+      "resource_type": "political_capital",
+      "amount": 0,
+      "direction": "give",
+      "detail": "15-30 minute meeting request with branch management to confirm or deny portfolio expansion to small business and personal loan origination \u2014 decision needed before runway compresses further"
+    },
+    {
+      "to_agent": "community_organizer",
+      "to_name": "Lisa Freeman",
+      "type": "EXCHANGE",
+      "description": "Hold second Community Center financial office hours session \u2014 updated agenda includes financial triage navigator preview and retraining grant financial viability framing.",
+      "resource_type": "service",
+      "amount": 0,
+      "direction": "give",
+      "detail": "Second monthly office hours session at Community Center \u2014 broader agenda than first session, supporting Lisa Freeman's emerging financial triage navigator concept with operational banking knowledge"
+    }
+  ],
+  "status": "no_counterparty"
+}

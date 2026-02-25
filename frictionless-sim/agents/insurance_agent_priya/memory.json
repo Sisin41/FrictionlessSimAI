@@ -49,6 +49,11 @@
       "tick": 9,
       "summary": "Follow up on both tick 8 applications \u2014 a brief, professional message to each, not a request for status but an added value touch: include the fleet incident data query output as an attached portfolio artifact if I have not already sent it, or reference a specific detail from the job description to demonstrate I read it carefully. The goal is to stay visible without being desperate. Also submit at least one additional application this tick \u2014 expand beyond the two companies I targeted last tick, specifically looking at regional insurtech firms and commercial fleet risk roles. This is a job search, not a wait.",
       "emotional_state": "focused, with a layer of grief I am not suppressing"
+    },
+    {
+      "tick": 10,
+      "summary": "Submit the $2,500 workforce retraining grant application through Maria Santos's office TODAY. Not after the job search follow-up. Not after Tom's call. First. I fill out the application form, document my three completed SQL/data visualization modules and the Module 4 in progress, name the target transition: commercial risk analytics or data analyst roles in insurtech or fleet risk adjacent sectors. I attach the fleet incident data query as a portfolio artifact demonstrating the coursework is producing usable output. I submit it. I get a confirmation number. I write it down. This has been a named failure in my tick 6 and tick 9 reflections. It does not make it to tick 11 as an open item.",
+      "emotional_state": "anxious"
     }
   ],
   "past_outcomes": [
@@ -123,6 +128,14 @@
       "stress_delta": 0.2,
       "employment_changed": false,
       "narrative": "You Follow up on both tick 8 applications \u2014 a brief, professional message to each, not a request for status but an added value touch: include the fleet incident data query output as an attached portfolio artifact if I have not already sent it, or reference a specific detail from the job description to demonstrate I read it carefully. The goal is to stay visible without being desperate. Also submit at least one additional application this tick \u2014 expand beyond the two companies I targeted last tick, specifically looking at regional insurtech firms and commercial fleet risk roles. This is a job search, not a wait.. Savings dropped by $3,341. "
+    },
+    {
+      "tick": 10,
+      "action": "Submit the $2,500 workforce retraining grant application through Maria Santos's office TODAY. Not after the job search follow-up. Not after Tom's call. First. I fill out the application form, document my three completed SQL/data visualization modules and the Module 4 in progress, name the target transition: commercial risk analytics or data analyst roles in insurtech or fleet risk adjacent sectors. I attach the fleet incident data query as a portfolio artifact demonstrating the coursework is producing usable output. I submit it. I get a confirmation number. I write it down. This has been a named failure in my tick 6 and tick 9 reflections. It does not make it to tick 11 as an open item.",
+      "savings_delta": -3341,
+      "stress_delta": 0.05,
+      "employment_changed": false,
+      "narrative": "You Submit the $2,500 workforce retraining grant application through Maria Santos's office TODAY. Not after the job search follow-up. Not after Tom's call. First. I fill out the application form, document my three completed SQL/data visualization modules and the Module 4 in progress, name the target transition: commercial risk analytics or data analyst roles in insurtech or fleet risk adjacent sectors. I attach the fleet incident data query as a portfolio artifact demonstrating the coursework is producing usable output. I submit it. I get a confirmation number. I write it down. This has been a named failure in my tick 6 and tick 9 reflections. It does not make it to tick 11 as an open item.. Savings dropped by $3,341. "
     }
   ],
   "reflections": [

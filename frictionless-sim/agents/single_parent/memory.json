@@ -49,6 +49,11 @@
       "tick": 9,
       "summary": "Respond to Grace Okafor's direct message. Acknowledge she acted on the NEMT framing \u2014 enrolling in the certification confirms she understood the specific intelligence I gave her, not just the general direction. Give her one additional piece of timing context she will need: the transitional care unit at Millfield General runs hiring in cohorts tied to the academic year cycle. If she is targeting a CNA position there, the realistic entry window is spring placement, which means her application needs to be visible to the hiring manager by late winter. The NEMT certification paired with that framing needs to be in her materials before then. I am not going to overload her \u2014 one piece of actionable timing intelligence, delivered clearly. Also tell her: I saw Denise's update. The fact that the hospital connection is in motion is real. What Grace helped make happen there matters to me, not just professionally but as a neighbor navigating the same disrupted city.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 10,
+      "summary": "Actively verify my employment status at Millfield General this week. If hours were reduced or a scheduling change created a gap, I need to know the actual situation immediately. Contact my charge nurse or the staffing office directly - not passively. Confirm current schedule, check for any administrative changes to my position, and document the status clearly. If I am still employed but in a slow month, I know my actual runway. If something changed, I need to know before the next paycheck cycle.",
+      "emotional_state": "anxious"
     }
   ],
   "past_outcomes": [
@@ -123,6 +128,14 @@
       "stress_delta": -0.02,
       "employment_changed": true,
       "narrative": "You Respond to Grace Okafor's direct message. Acknowledge she acted on the NEMT framing \u2014 enrolling in the certification confirms she understood the specific intelligence I gave her, not just the general direction. Give her one additional piece of timing context she will need: the transitional care unit at Millfield General runs hiring in cohorts tied to the academic year cycle. If she is targeting a CNA position there, the realistic entry window is spring placement, which means her application needs to be visible to the hiring manager by late winter. The NEMT certification paired with that framing needs to be in her materials before then. I am not going to overload her \u2014 one piece of actionable timing intelligence, delivered clearly. Also tell her: I saw Denise's update. The fact that the hospital connection is in motion is real. What Grace helped make happen there matters to me, not just professionally but as a neighbor navigating the same disrupted city.. Savings dropped by $4,630. Employment status changed to unemployed. "
+    },
+    {
+      "tick": 10,
+      "action": "Actively verify my employment status at Millfield General this week. If hours were reduced or a scheduling change created a gap, I need to know the actual situation immediately. Contact my charge nurse or the staffing office directly - not passively. Confirm current schedule, check for any administrative changes to my position, and document the status clearly. If I am still employed but in a slow month, I know my actual runway. If something changed, I need to know before the next paycheck cycle.",
+      "savings_delta": -4630,
+      "stress_delta": 0.05,
+      "employment_changed": false,
+      "narrative": "You Actively verify my employment status at Millfield General this week. If hours were reduced or a scheduling change created a gap, I need to know the actual situation immediately. Contact my charge nurse or the staffing office directly - not passively. Confirm current schedule, check for any administrative changes to my position, and document the status clearly. If I am still employed but in a slow month, I know my actual runway. If something changed, I need to know before the next paycheck cycle.. Savings dropped by $4,630. "
     }
   ],
   "reflections": [

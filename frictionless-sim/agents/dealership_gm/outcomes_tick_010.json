@@ -1,0 +1,10 @@
+[
+  {
+    "tick": 10,
+    "action": "Respond to Patricia's consulting contract offer in writing \u2014 send a brief confirmation acknowledging the $4,500/month 90-day engagement, the scope (assessment finalization and transition-phase operational advisory), and the expectation of a signed document from her side. If she has already sent the signed contract, acknowledge receipt and confirm commencement. This closes the ambiguity that has been the central unresolved thread since tick 8. The contract is the single most important operational item this tick.",
+    "savings_delta": -8632,
+    "stress_delta": -0.02,
+    "employment_changed": false,
+    "narrative": "You Respond to Patricia's consulting contract offer in writing \u2014 send a brief confirmation acknowledging the $4,500/month 90-day engagement, the scope (assessment finalization and transition-phase operational advisory), and the expectation of a signed document from her side. If she has already sent the signed contract, acknowledge receipt and confirm commencement. This closes the ambiguity that has been the central unresolved thread since tick 8. The contract is the single most important operational item this tick.. Savings dropped by $8,632. "
+  }
+]

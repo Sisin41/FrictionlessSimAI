@@ -11,5 +11,5 @@
     "amount": 4500,
     "detail": "Month 1 of consulting contract at $4,500/month. Signed contract document transmitted simultaneously."
   },
-  "status": "pending"
+  "status": "no_counterparty"
 }

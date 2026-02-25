@@ -31,7 +31,7 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 21.1,
+      "runway_months": 20.1,
       "threat_level": 0,
       "monthly_essentials": 4750,
       "health_cost_from_stress": 0
@@ -43,7 +43,7 @@
     },
     "L2_PARTICIPATE": {
       "employment_status": "unemployed",
-      "skill_relevance": 0.69,
+      "skill_relevance": 0.72,
       "role_security": 0.36,
       "network_strength": 0.42
     },
@@ -80,11 +80,11 @@
       "availability_heuristic": 0.36,
       "social_proof_sensitivity": 0.7
     },
-    "sentiment": "neutral"
+    "sentiment": "determined"
   },
   "psychological": {
-    "stress_level": 0.23,
-    "agency": 0.81,
+    "stress_level": 0.21,
+    "agency": 0.83,
     "grief_stage": "none",
     "temporal_horizon_months": 10,
     "high_stress_ticks": 0
@@ -92,7 +92,7 @@
   "financial": {
     "monthly_income": 0,
     "monthly_expenses": 6961,
-    "savings": 147100,
+    "savings": 140139,
     "debt_total": 167257,
     "credit_score": 707
   },
@@ -125,8 +125,8 @@
       "description": "enroll in an online continuing education module on commercial and small business lending \u2014 a skill adjacent to my current auto loan focus but one that would broaden my portfolio relevance inside the bank. two hours per week, self-paced. no cost through the bank's professional development benefit.",
       "started_tick": 0,
       "completion_eta_months": 10,
-      "progress": 0.5,
-      "months_invested": 5
+      "progress": 0.6,
+      "months_invested": 6
     }
   ],
   "temporal_mismatches": {
@@ -141,5 +141,5 @@
   },
   "locality": "millfield",
   "archetype": "adapter",
-  "tick_updated": 9
+  "tick_updated": 10
 }

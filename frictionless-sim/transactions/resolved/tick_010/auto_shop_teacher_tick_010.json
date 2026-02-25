@@ -11,5 +11,5 @@
     "amount": 0,
     "detail": "Program information exchange: Mark provides program overview and eligibility criteria to Lisa. Lisa agrees to mention the pipeline as a pathway option during community center intake sessions for displaced workers with relevant backgrounds."
   },
-  "status": "pending"
+  "status": "no_counterparty"
 }

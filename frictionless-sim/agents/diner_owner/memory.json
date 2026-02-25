@@ -49,6 +49,11 @@
       "tick": 9,
       "summary": "Attend Maria Santos's emergency task force session and deliver updated testimony. Betty does not come to repeat what she said at tick 4. She comes with the updated numbers: spending index dropped from 73 to 40, savings burning at $4,268 a month, grant pending for seven ticks with no disbursement. She also comes with a specific ask \u2014 expedited review for pending applicants who are within 90 days of insolvency, and clarity on whether small commercial kitchens qualify for the delivery partnership economic development category. She is not there to mourn the diner. She is there to argue that the diner kitchen is an existing asset that can serve the community differently if the policy environment makes it possible. She uses her credibility from tick 4 testimony. She speaks last if she can \u2014 after the grievances have been aired \u2014 so she sounds like a solution, not another complaint.",
       "emotional_state": "urgent-but-clear"
+    },
+    {
+      "tick": 10,
+      "summary": "Call the RoboRide local partnership coordinator for a second and final time to get the written terms I requested at tick 8 and followed up on at tick 9. I frame this as a close, not a check-in: 'I submitted my inquiry at tick 8, I followed up at tick 9, and I am calling now because I need the written terms by end of this week to make a go/no-go decision for my kitchen. I have a 2.5-month runway and I cannot wait longer than this week for a term sheet.' I am not rude. I am specific. I give them a deadline because I have a real deadline. If they cannot produce written terms within the week, I treat the RoboRide partnership path as closed and proceed to the property valuation conversation with Stephanie Morris as the primary path.",
+      "emotional_state": "anxious"
     }
   ],
   "past_outcomes": [
@@ -123,6 +128,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Attend Maria Santos's emergency task force session and deliver updated testimony. Betty does not come to repeat what she said at tick 4. She comes with the updated numbers: spending index dropped from 73 to 40, savings burning at $4,268 a month, grant pending for seven ticks with no disbursement. She also comes with a specific ask \u2014 expedited review for pending applicants who are within 90 days of insolvency, and clarity on whether small commercial kitchens qualify for the delivery partnership economic development category. She is not there to mourn the diner. She is there to argue that the diner kitchen is an existing asset that can serve the community differently if the policy environment makes it possible. She uses her credibility from tick 4 testimony. She speaks last if she can \u2014 after the grievances have been aired \u2014 so she sounds like a solution, not another complaint.. Savings dropped by $4,268. "
+    },
+    {
+      "tick": 10,
+      "action": "Call the RoboRide local partnership coordinator for a second and final time to get the written terms I requested at tick 8 and followed up on at tick 9. I frame this as a close, not a check-in: 'I submitted my inquiry at tick 8, I followed up at tick 9, and I am calling now because I need the written terms by end of this week to make a go/no-go decision for my kitchen. I have a 2.5-month runway and I cannot wait longer than this week for a term sheet.' I am not rude. I am specific. I give them a deadline because I have a real deadline. If they cannot produce written terms within the week, I treat the RoboRide partnership path as closed and proceed to the property valuation conversation with Stephanie Morris as the primary path.",
+      "savings_delta": -4268,
+      "stress_delta": 0.05,
+      "employment_changed": false,
+      "narrative": "You Call the RoboRide local partnership coordinator for a second and final time to get the written terms I requested at tick 8 and followed up on at tick 9. I frame this as a close, not a check-in: 'I submitted my inquiry at tick 8, I followed up at tick 9, and I am calling now because I need the written terms by end of this week to make a go/no-go decision for my kitchen. I have a 2.5-month runway and I cannot wait longer than this week for a term sheet.' I am not rude. I am specific. I give them a deadline because I have a real deadline. If they cannot produce written terms within the week, I treat the RoboRide partnership path as closed and proceed to the property valuation conversation with Stephanie Morris as the primary path.. Savings dropped by $4,268. "
     }
   ],
   "reflections": [

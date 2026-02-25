@@ -20,5 +20,6 @@
   "if_rejected": {
     "young_gig_worker_income_change": 0,
     "note": "Zoe immediately pivots to next closest small business on auto row same day"
-  }
+  },
+  "status": "no_counterparty"
 }

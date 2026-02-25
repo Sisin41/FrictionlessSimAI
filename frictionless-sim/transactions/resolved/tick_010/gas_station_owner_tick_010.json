@@ -17,11 +17,12 @@
       "to_agent": "insurance_agent_priya",
       "to_name": "Priya Sharma",
       "type": "EXCHANGE",
-      "description": "Request business insurance quote for gas station property — business interruption and liability coverage.",
+      "description": "Request business insurance quote for gas station property \u2014 business interruption and liability coverage.",
       "resource_type": "insurance_policy",
       "amount": 0,
       "direction": "both",
-      "detail": "Initial inquiry for business insurance coverage — quote request only, no purchase commitment this tick"
+      "detail": "Initial inquiry for business insurance coverage \u2014 quote request only, no purchase commitment this tick"
     }
-  ]
+  ],
+  "status": "no_counterparty"
 }

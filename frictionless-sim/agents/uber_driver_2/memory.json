@@ -49,6 +49,11 @@
       "tick": 9,
       "summary": "Resume rideshare driving immediately, not selectively. This is no longer a strategic scheduling question \u2014 it is survival. I get back behind the wheel this week. Every hour of income I can generate in the next 30 days is an hour of runway I am buying. Yes, RoboRide has compressed demand. Yes, $0.12/mile undercuts long-distance fare expectations. But rideshare is still generating income for drivers who are in the queue, and at zero income I have no leverage to be selective. I drive morning airport windows, Friday evening if demand still holds, and any weekday blocks where surge pricing is active. Target: generate at least $600-800 in rideshare income this tick to partially offset the $1,787 monthly burn. The income will be lower than before RoboRide's expansion. I accept that. Partial income is infinitely better than zero.",
       "emotional_state": "Tense but functional. The difference between panic and urgency is that urgency moves toward a plan. I have a plan. The runway is dangerously short but it is not zero. I have a credential in progress, two specific operators to call, the highest-trust network node asking me directly for an exchange, and one month to make the NEMT placement happen. I am scared in the way that makes you move faster, not the way that makes you freeze. I have been here before \u2014 not this exact situation, but the structure of it. You run the plan and you do not stop to mourn the plan that stopped working."
+    },
+    {
+      "tick": 10,
+      "summary": "Call Millfield Medical Transport and CareRide of the Valley this week \u2014 the same operators Robert named. I have the NEMT certification in hand. I lead with that fact and state my availability clearly: I am certified, I have a clean driving record, I have a vehicle that meets commercial standards, and I can start within the week. I ask one direct question: is there an onboarding slot available and when can I schedule an interview or orientation? I do not wait for Robert's offer to confirm before calling. I act on his intelligence directly. If Robert has already spoken to these operators, I mention his name \u2014 not to piggyback on his application, but to establish that I come from the same credible pipeline he does.",
+      "emotional_state": "anxious"
     }
   ],
   "past_outcomes": [
@@ -123,6 +128,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Resume rideshare driving immediately, not selectively. This is no longer a strategic scheduling question \u2014 it is survival. I get back behind the wheel this week. Every hour of income I can generate in the next 30 days is an hour of runway I am buying. Yes, RoboRide has compressed demand. Yes, $0.12/mile undercuts long-distance fare expectations. But rideshare is still generating income for drivers who are in the queue, and at zero income I have no leverage to be selective. I drive morning airport windows, Friday evening if demand still holds, and any weekday blocks where surge pricing is active. Target: generate at least $600-800 in rideshare income this tick to partially offset the $1,787 monthly burn. The income will be lower than before RoboRide's expansion. I accept that. Partial income is infinitely better than zero.. Savings dropped by $1,787. "
+    },
+    {
+      "tick": 10,
+      "action": "Call Millfield Medical Transport and CareRide of the Valley this week \u2014 the same operators Robert named. I have the NEMT certification in hand. I lead with that fact and state my availability clearly: I am certified, I have a clean driving record, I have a vehicle that meets commercial standards, and I can start within the week. I ask one direct question: is there an onboarding slot available and when can I schedule an interview or orientation? I do not wait for Robert's offer to confirm before calling. I act on his intelligence directly. If Robert has already spoken to these operators, I mention his name \u2014 not to piggyback on his application, but to establish that I come from the same credible pipeline he does.",
+      "savings_delta": -68,
+      "stress_delta": 0.05,
+      "employment_changed": false,
+      "narrative": "You Call Millfield Medical Transport and CareRide of the Valley this week \u2014 the same operators Robert named. I have the NEMT certification in hand. I lead with that fact and state my availability clearly: I am certified, I have a clean driving record, I have a vehicle that meets commercial standards, and I can start within the week. I ask one direct question: is there an onboarding slot available and when can I schedule an interview or orientation? I do not wait for Robert's offer to confirm before calling. I act on his intelligence directly. If Robert has already spoken to these operators, I mention his name \u2014 not to piggyback on his application, but to establish that I come from the same credible pipeline he does.. Savings dropped by $68. "
     }
   ],
   "reflections": [

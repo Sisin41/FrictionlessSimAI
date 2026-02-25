@@ -49,6 +49,11 @@
       "tick": 9,
       "summary": "Follow up immediately on the restaurant call from tick 8. If the pilot converted to a yes, send the one-page agreement today \u2014 same template as the HVAC agreement, adjusted for the 60-day pilot terms at $300/month, no minimum commitment. Do not let a verbal yes sit for more than 48 hours without paperwork. If it did not convert, make a second call this week \u2014 not a follow-up message, a direct phone call \u2014 and change the framing: I am now a full-time freelance consultant, not a dealership employee with a side project. That changes the conversation. A yes on the restaurant pilot brings me to $650/month. That is not self-sufficient but it is the proof of the second client \u2014 which is what I have been working toward since tick 0.",
       "emotional_state": "cold clarity \u2014 not grief, not panic, just the specific feeling of a decision resolving into a fact you now have to live inside"
+    },
+    {
+      "tick": 10,
+      "summary": "Close the restaurant pilot. Call them directly \u2014 not a message, a call \u2014 and make the ask binary: 'I want to know if the 60-day pilot at $300/month makes sense for you right now. If yes, I can have a one-page agreement in your inbox within two hours. If no, I understand \u2014 tell me and I move on.' Frame it around this week's reality: consumer spending is at 30% of baseline, people in residential areas are now moving around via RoboRide, and lunch spots that are visible and human on social media capture the foot traffic that used to stop for gas first. I am not a dealership employee with a side project anymore. I am a full-time freelance consultant. That framing change matters. A yes on this call brings me to $650/month and proves the two-client model.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -123,6 +128,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Follow up immediately on the restaurant call from tick 8. If the pilot converted to a yes, send the one-page agreement today \u2014 same template as the HVAC agreement, adjusted for the 60-day pilot terms at $300/month, no minimum commitment. Do not let a verbal yes sit for more than 48 hours without paperwork. If it did not convert, make a second call this week \u2014 not a follow-up message, a direct phone call \u2014 and change the framing: I am now a full-time freelance consultant, not a dealership employee with a side project. That changes the conversation. A yes on the restaurant pilot brings me to $650/month. That is not self-sufficient but it is the proof of the second client \u2014 which is what I have been working toward since tick 0.. Savings dropped by $3,177. "
+    },
+    {
+      "tick": 10,
+      "action": "Close the restaurant pilot. Call them directly \u2014 not a message, a call \u2014 and make the ask binary: 'I want to know if the 60-day pilot at $300/month makes sense for you right now. If yes, I can have a one-page agreement in your inbox within two hours. If no, I understand \u2014 tell me and I move on.' Frame it around this week's reality: consumer spending is at 30% of baseline, people in residential areas are now moving around via RoboRide, and lunch spots that are visible and human on social media capture the foot traffic that used to stop for gas first. I am not a dealership employee with a side project anymore. I am a full-time freelance consultant. That framing change matters. A yes on this call brings me to $650/month and proves the two-client model.",
+      "savings_delta": -1685,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Close the restaurant pilot. Call them directly \u2014 not a message, a call \u2014 and make the ask binary: 'I want to know if the 60-day pilot at $300/month makes sense for you right now. If yes, I can have a one-page agreement in your inbox within two hours. If no, I understand \u2014 tell me and I move on.' Frame it around this week's reality: consumer spending is at 30% of baseline, people in residential areas are now moving around via RoboRide, and lunch spots that are visible and human on social media capture the foot traffic that used to stop for gas first. I am not a dealership employee with a side project anymore. I am a full-time freelance consultant. That framing change matters. A yes on this call brings me to $650/month and proves the two-client model.. Savings dropped by $1,685. "
     }
   ],
   "reflections": [
