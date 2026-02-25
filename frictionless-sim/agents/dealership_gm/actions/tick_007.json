@@ -1,0 +1,31 @@
+{
+  "agent_id": "dealership_gm",
+  "tick": 7,
+  "tickpad": "007",
+  "emotional_state": "controlled anger converting to focused action — the displacement landed hard, but the two-week mandate from Patricia is real and I am not going to waste it",
+  "primary_action": {
+    "type": "work_product",
+    "target_agent": "ceo_regional_auto",
+    "description": "Begin building the three-tier asset map Patricia confirmed as the authoritative document for Q2 consolidation decisions. Tier one: what must be preserved regardless — the certified technicians, Carlos Ruiz first among them, and the service lane infrastructure. Tier two: what can be consolidated or restructured without destroying core capacity — showroom staffing, floor plan inventory levels, secondary lot. Tier three: what is a genuine liability and can be wound down with minimal collateral damage. I do not editorialize. I let the data do the argument. I send Patricia a brief note today confirming I am on the two-week clock and will deliver the draft map for her review before it becomes a final document. I make one thing explicit in that note: I am treating this as a consulting engagement, not a favor, and I want a conversation about what my formal status and compensation look like while I execute it.",
+    "rationale": "Patricia gave me the clearest signal she has given anyone: service lane is the survival core and my asset map is the document she will use. I have been asking for a seat at the table. She just gave me one. The anger about the displacement is real, but it is not useful if I spend it on grievance. The useful move is to do the work, do it well, and force a formal conversation about what I am owed for doing it. Thirty-two years in this business. I know where every piece of value is buried in that floor. No consultant she could bring in from outside knows it the way I do. I need to make that legible to her before the two weeks are up.",
+    "transaction_required": true
+  },
+  "secondary_action": {
+    "type": "relationship_maintenance",
+    "target_agent": "hr_director",
+    "description": "Call Angela Wright — not a formal meeting, just a direct call. Two things: first, confirm that she received Patricia's directive about the transition program cross-reference and that it is being handled. Second, quietly clarify my own status with her. I am not enrolling in a transition program. I am executing a two-week assessment for Patricia. But I want Angela to know I am aware of the outplacement support channels, the $2,500 grant threshold drop to 10% for auto row, and David Chen's small-dollar loan products at First Community Bank — not because I need them today, but because I may need to point people toward them when I finish the asset map and some of those conversations with staff get hard. Angela is the person who keeps the human side of this from becoming a disaster. I want to stay aligned with her.",
+    "rationale": "Angela has the highest trust in my network at 0.85. Patricia is routing transition support through her. I do not want to be a name on a list Angela is managing — I want to be a partner in how this gets handled. Staying close to her costs nothing and protects the people on the floor who are going to need her most."
+  },
+  "financial_action": {
+    "type": "expense_reduction",
+    "description": "Cut household discretionary spending by $600 this month. Not dramatic — no signals sent to the family that would create secondary stress. But the car payment is $268, groceries and incidentals are where the slack is, and with zero income coming in I am not spending like I have a salary. The savings runway is real but I am not going to burn it faster than I have to. I do not touch the mortgage and I do not miss the debt payment.",
+    "monthly_savings_target": 600,
+    "rationale": "No income. $80,254 in savings. $8,632 monthly burn. That is 9.3 months at current pace. The asset map engagement with Patricia may resolve into a formal compensation arrangement — but that is not guaranteed and I do not plan around it until it is in writing. I tighten now."
+  },
+  "signal_to_tamika": {
+    "type": "passive_availability",
+    "description": "I heard through word of mouth that Tamika Jefferson is thinking about approaching me. I do not initiate contact this tick — she has her own timeline and her own math to work through. But if she reaches out, I am available and I am not going to make it awkward. Tamika knows this floor. If there is a version of the service-and-retention model that keeps a sales person who understands long-cycle relationship selling, that conversation is worth having. I let the door stay open without opening it myself.",
+    "rationale": "Tamika is running her own scenario planning. She mentioned a stay bonus qualifying period. I may have information about that from the Patricia conversation. If she comes to me I can be honest with her. I do not chase her down, but I do not close the door."
+  },
+  "psychological_note": "The grief stage is anger and I am not pretending otherwise. I have been on this floor since I was 19 years old. Being displaced from the GM title is not a clean thing to absorb. But I have been in this business long enough to know that the people who survive restructurings are not the ones who fight the org chart — they are the ones who make themselves indispensable to whoever is drawing the new org chart. Patricia is drawing it. I gave her the argument six ticks ago. She is using it. That is not nothing. I focus on the work."
+}
