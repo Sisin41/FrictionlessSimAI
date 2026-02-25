@@ -1,0 +1,52 @@
+{
+  "tick": 4,
+  "agent_id": "salesperson_jake",
+  "agent_name": "Jake Morrison",
+  "response": {
+    "internal_assessment": "I am optimizing at L0/L1 — survive and stabilize. My expenses outrun my income by $582 a month. I have 3.2 months of runway. The auto sector index is at 89 and dropping, foot traffic is soft, and I have not heard back on the $2,500 retraining grant I applied for last tick. That grant is my one concrete bargaining chip right now — a hedge I can actually name. I need to know if it cleared. On the floor, the under-$22K push is still the only lever I can pull inside my current job. Two actions: work the floor with discipline on the affordable inventory, and reach out to Maria Santos to check grant status. Bargaining means you keep making moves until one sticks.",
+    "inbox_interpretation": "Quiet inbox — no NEWS, no WORD_OF_MOUTH, no SOCIAL contagion messages. That absence is not reassuring; it means nothing has improved enough for anyone to broadcast it. The OUTCOME message just confirmed what I already knew: savings dropped $582. That is what 'routine' costs me now. Routine is not neutral — routine is slow bleed. The SECTOR_DATA at 89 and spending index at 73 confirm the macro squeeze I feel on the floor every day. Unemployment creeping to 7% means buyers are nervous even when they have jobs. The RoboRide ambient is still running in the background, unchanged. I know what it means and I am not ready to say it out loud yet, but I am feeling it every time a walk-in does not walk in.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Execute the under-$22K floor strategy with real discipline this month: pull every unit priced under $22K to the front of the lot, build a targeted pitch around total monthly cost (not sticker), and personally call five pre-qualified leads from the past 90 days who were shopping in that range but did not close. This is not outreach for the sake of activity — I am trying to close at least one unit before the end of the month to stop the savings bleed.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Intensified floor labor and targeted phone outreach on affordable inventory segment; no direct financial transaction, but commission income contingent on closing a unit"
+        },
+        "economic_effects": {
+          "income_change": 600,
+          "expense_change": 0,
+          "savings_change": 600,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "My income deficit is $582/month on routine. One closed unit in the sub-$22K range generates roughly $400-$800 commission depending on backend. That stops the bleed for this month. The under-$22K segment is where real buyers are right now — people downsizing, people nervous, people who cannot afford new. I have the inventory. I have the leads. The alternative is another month of routine and another $582 gone. Bargaining means I keep working the angles I still have."
+      },
+      {
+        "type": "COMMITMENT",
+        "description": "Follow up directly with Maria Santos (council_member) about the $2,500 retraining grant I applied for last tick. Send a brief, professional message asking for status and timeline. If the grant is approved, I need to start lining up what program I would actually use it for — something in sales technology, CRM certification, or fleet management. If it is denied, I need to know that too so I stop counting it as a hedge.",
+        "target_agent": "council_member",
+        "resources": {
+          "type": "political_capital",
+          "direction": "both",
+          "amount": 2500,
+          "detail": "Following up on $2,500 retraining grant application submitted last tick; no money moves yet, but this action either confirms or denies the grant as a near-term financial buffer"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I applied for this grant last tick and have heard nothing. In my experience — COVID relief, anything government — you follow up or you fall through the cracks. Maria Santos is a neighbor with trust at 0.39, which is not warm but it is not cold either. A polite, professional inquiry does not cost me anything and keeps the application alive in her awareness. If the grant clears, it buys me more than four months of breathing room on the savings bleed. That changes my runway from 3.2 months to something I can actually plan around."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "hustler",
+    "inner_monologue": "Savings dropped five eighty-two last month doing nothing different. I cannot keep calling that a plan. I have two things in front of me: the floor and the grant. I work the floor like I mean it this month — not the motions, the actual close — and I find out if Maria's office is going to come through or not. Bargaining is fine. Bargaining is what I do for a living. I just need one of these deals to land before I run out of table."
+  }
+}

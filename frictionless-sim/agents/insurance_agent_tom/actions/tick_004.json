@@ -1,0 +1,52 @@
+{
+  "tick": 4,
+  "agent_id": "insurance_agent_tom",
+  "agent_name": "Tom Bradley",
+  "response": {
+    "internal_assessment": "L2_PARTICIPATE is my primary threat. Skill relevance is 0.15 — almost nothing. My entire career is built around personal auto policies and there are only 25 left in Millfield. I'm running a monthly deficit: income $3,901 against expenses $5,189, burning about $1,288/month from savings. Runway is roughly 10 months. L0 and L1 are not in immediate danger but the clock is ticking. The one-on-one with Linda today is the central event. She has power over me. Trust is a moderate 0.54 — not high enough to be fully candid, not low enough to stonewall her. I need to give her something real — enough to look like a team player with field knowledge — without telegraphing that I'm scared or starting to look at the exits. I slept through tick 3 on routine. That was a mistake. I need to re-engage.",
+    "inbox_interpretation": "The SECTOR_DATA message is the one that matters: 25 active auto insurance policies in the area. That number keeps dropping. RoboRide is still running at $0.18/mile. The OUTCOME from tick 3 tells me I burned $1,288 doing nothing. That's the cost of standing still. The one-on-one with Linda is not in my inbox explicitly but the tick context makes it the dominant event — she wants intel on customer cancellations and she wants to read my morale. That's a power dynamic I have to manage carefully. She is assessing me. I am also assessing her: does AutoShield have a plan, or are they watching the book of business evaporate with no response? I need to find out where she stands before I decide how much to share.",
+    "chosen_actions": [
+      {
+        "type": "EXCHANGE",
+        "description": "Participate in Linda Park's one-on-one meeting. Give her honest, specific field intelligence about customer cancellations — the real reasons clients are leaving: they sold their cars, switched to RoboRide, or couldn't justify the premium when they're barely driving. Frame it professionally as data, not despair. In exchange, probe Linda for what AutoShield's regional strategy is: are they pivoting to new product lines, are there internal transfers available, is there a corporate retraining program? Listen more than I talk. Take mental notes on whether she seems like she has a plan or whether she's just gathering data to manage upward.",
+        "target_agent": "insurance_manager",
+        "resources": {
+          "type": "service",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Tom provides Linda with ground-level field intelligence on cancellation drivers (RoboRide adoption, car sales drying up, reduced driving). In return Tom gathers information about AutoShield's strategic direction and whether internal opportunities exist."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Linda has power over me and she initiated this meeting. Refusing or stonewalling damages trust and potentially my job security. But I also need information from her. A candid professional exchange — where I give her real cancellation intelligence without performing panic — positions me as a reliable field asset rather than a liability. It also lets me gauge whether AutoShield has any future for someone like me, which affects every decision I make in the next several ticks. The trust level of 0.54 means I can be honest about market conditions but I should not volunteer that I am personally frightened or that I've been researching exits. I'll tell her what I know about clients. I'll ask what the company knows about the future."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "After the meeting with Linda, reach out to Priya Sharma — my colleague, trust 0.7 — to compare notes on what Linda said and what the company seems to be signaling internally. Priya is also in this one-on-one cycle. Between the two of us we can triangulate whether AutoShield is planning something, cutting quietly, or just watching. This is a coalition of the worried, low-key.",
+        "target_agent": "insurance_agent_priya",
+        "resources": {
+          "type": "service",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Peer intelligence sharing between Tom and Priya after their respective one-on-ones with Linda. No financial transaction."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Priya is the person I trust most in my professional circle — trust 0.7. We're in the same boat. She'll know things from her one-on-one that I won't. Combining her read on Linda's intentions with mine gives me better information at essentially no cost. This is not disloyalty — it's two professionals comparing notes about the direction of their employer, which is a normal and rational thing to do when your industry is contracting."
+      }
+    ],
+    "emotional_state": "anxious",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Twenty-five policies. I had ninety-three clients two years ago. I know what that number means even if I'm not ready to say it out loud. Linda's going to sit across from me today and ask me what I'm seeing in the field, and I need to give her something real without giving her the look in my eyes that says I'm already calculating how many months until I have to tell my wife we have a problem. I'll tell her about RoboRide. I'll tell her about the Hendersons selling their second car and not replacing it. I'll be the calm, experienced guy who has data. And I'll watch her face when I ask what the regional plan is, because her answer is going to tell me everything."
+  }
+}

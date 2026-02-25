@@ -1,0 +1,57 @@
+{
+  "tick": 4,
+  "agent_id": "rideshare_driver",
+  "agent_name": "Robert Jackson",
+  "response": {
+    "internal_assessment": "I am optimizing L0_SURVIVE. Threat level is 0.74 — that is not abstract anymore. RoboRide is live at $0.18/mile. Robotaxi adoption is only 3% but the spending index is down to 73 and local unemployment is rising, which means fewer people taking discretionary rides AND more drivers competing for what's left. My runway is 3.1 months with Marcus depending on me. Tick 3 I did nothing. A month of drift I cannot afford. The grant application went in at tick 2 — I have not heard back. NEMT certification is the named target. It is time to stop circling it and start moving toward it.",
+
+    "inbox_interpretation": "The AMBIENT confirms RoboRide is fully operational in Millfield now — this is no longer incoming, it is here. SECTOR_DATA says 3% robotaxi adoption. That sounds small but that is 3% of my market already gone, and the spending index at 73 means the remaining market is also shrinking because people have less money in their pockets. MARKET_DATA shows unemployment rising — the town is getting poorer and more scared. The OUTCOME from last tick is the most honest thing in my inbox: I did my routine. Savings grew by $387, same as every prior tick — the driving income is still flowing but the number has not changed in four months, which means I am not growing my position, I am just holding it, and holding it against a tide that is moving against me. No confirmation on the grant. No news from Grace. I am flying quiet, and quiet is comfortable, and comfortable is how you miss the moment when the window closes.",
+
+    "chosen_actions": [
+      {
+        "type": "TRANSFORMATION",
+        "description": "Enroll in NEMT (Non-Emergency Medical Transport) driver certification course at Millfield Community College. Pay the $320 course registration fee this week. The course is 6 weeks, evenings only. I can keep driving daytime shifts while completing it. NEMT drivers are not being replaced by RoboRide — the liability exposure and regulatory complexity of transporting medical patients makes autonomous vehicles nonviable in that segment for the foreseeable future. This is the retrain move I identified last tick. I am done researching it. I am registering.",
+        "target_agent": null,
+        "resources": {
+          "type": "currency",
+          "direction": "give",
+          "amount": 320,
+          "detail": "NEMT certification course registration fee, Millfield Community College, $320 out of savings"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 320,
+          "savings_change": -320,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Driving income is under active erosion from RoboRide. My skill_relevance score is 0.1 — the market is telling me my current skillset is nearly worthless in its current form. NEMT is adjacent to what I already do: driving, customer service, route management. The certification is achievable in 6 weeks while I keep earning. The alternative — waiting another tick to see how the grant comes back — is the same deferral logic that cost me tick 3. $320 is a real expense but it is less than one car payment. The risk of not acting is larger than the risk of spending $320. I can do evenings. Marcus is old enough that I am not abandoning him. This is the move."
+      },
+      {
+        "type": "ASSOCIATION",
+        "description": "Text Grace Okafor today. She is a nursing student and a rideshare driver — she is actively navigating the same transition I am trying to make toward healthcare. Ask her specifically: what programs she knows about at the community college, whether the CNA or patient transport pathway is more viable in Millfield, and whether she has heard anything about the workforce retraining grant outcome. This is not a casual check-in. I am asking for specific information from the person in my network most likely to have it.",
+        "target_agent": "uber_driver_2",
+        "resources": {
+          "type": "reputation",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Social capital exchange — I ask for her knowledge, I offer to share what I learn about the NEMT pathway in return"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Grace has a trust score of 0.9 — the highest in my network. She is already doing what I am trying to do: transitioning toward healthcare while keeping driving income alive. The information she holds is worth more than anything I can get from a search engine because she has skin in the game. I should have called her last tick. That was an error. I am correcting it now."
+      }
+    ],
+
+    "emotional_state": "determined",
+
+    "archetype_self_assessment": "adapter",
+
+    "inner_monologue": "Tick 3 I told myself routine was fine and I banked the same $387 I always bank and I pretended that was forward motion. It was not. RoboRide is live in Millfield right now. The spending index is 73 — people around me are pulling back. I have three months of runway and a kid. Three months is not a cushion, it is a countdown. The NEMT course costs $320 and starts next week if I register today. That is less than I spent on car maintenance last month. I am calling Grace and I am registering. That is the whole plan for this month. Not researching. Doing."
+  }
+}
