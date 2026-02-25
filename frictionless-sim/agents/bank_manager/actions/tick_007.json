@@ -1,0 +1,14 @@
+{
+  "tick": 7,
+  "agent_id": "bank_manager",
+  "action_type": "job_search_and_network",
+  "description": "Two parallel moves this tick. First: reach out to Linda Park at AutoShield Insurance. I know Linda professionally — we have crossed paths on shared accounts where auto loans and gap insurance overlapped. She sits in financial services, not auto sales, which means her sector exposure is different from Rick Tanner's or Patricia Hawkins'. I am not asking for a favor. I am reaching out as a peer, acknowledging the market disruption we are both watching, and asking whether she knows of any lending, underwriting, or risk advisory roles in the regional financial services space — credit unions, community banks, insurance-adjacent finance. I will mention where I am in my commercial lending coursework (40% complete, expected completion in roughly six months). That is a concrete credential in progress, not vague self-promotion. I frame this as a professional conversation, not a distress call. Second: do a quiet but serious household expense audit. I know my burn rate is $6,961 per month with no income. I have not looked hard at what is discretionary versus fixed since the position change. I will go line by line: mortgage is fixed at $2,408, family costs at $1,166 — those are committed. The remaining roughly $3,387 per month is where I look for reduction. No dramatic cuts yet — 23 months of runway is real cushion — but I need to know the actual number I can sustain on if this extends past 12 months. Knowing my floor gives me better negotiating posture in interviews. I am not panicking. I am preparing.",
+  "targets": ["insurance_manager"],
+  "emotional_state": "measured — the anxiety is still there but it is becoming productive. I am no longer grieving the role. I am building toward the next one.",
+  "reasoning": "Kevin O'Brien is handled — that relationship is intact and he is informed. The reflection from last tick was clear: my external network is too narrow and too auto-sector-heavy. Linda Park is the highest-trust contact who sits outside that cluster (trust 0.49, professional type, financial services adjacent). The expense audit is not optional at this point — it is basic financial management for someone without income. Runway of 23 months feels comfortable but it is not infinite, and I know from 2008 that timelines compress. I do not want to be the person who waited 18 months and then made desperate decisions in month 19.",
+  "financials": {
+    "expected_spend": 0,
+    "income_this_tick": 0,
+    "notes": "No financial transaction targeting another agent. Linda Park outreach is a professional conversation, no monetary component. Expense audit is internal only."
+  }
+}

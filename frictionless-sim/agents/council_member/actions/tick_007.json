@@ -1,0 +1,32 @@
+{
+  "tick": 7,
+  "agent_id": "council_member",
+  "emotional_state": "determined and financially aware",
+  "primary_action": {
+    "type": "policy_action",
+    "description": "Bring the council motion to lower the small business stabilization grant threshold from 15% to 10% for auto row businesses specifically, and extend the application window by 60 days. I draft the motion this week and push for a vote at the next council meeting. The grounds are clear and defensible: Betty Kowalski's direct testimony before the task force, the spending index now at 42 (down from the 73 baseline), and multiple documented workforce displacement events on auto row this month. Businesses that are hurting but have not yet crossed 15% are being locked out of relief they qualify for morally if not technically. I am not expanding the program universally — I am targeting it precisely where the data shows the crisis is concentrated. I bring the written motion, I brief the other council members individually before the vote so there are no surprises, and I make clear in the public record that this is a responsive, evidence-based adjustment, not a political concession.",
+    "target_agent": null,
+    "amount": null
+  },
+  "secondary_actions": [
+    {
+      "type": "meeting",
+      "description": "Accept Patricia Hawkins's outreach and schedule the workforce coordination meeting. I come with the one-page document that David Chen and Lisa Freeman are producing — the concrete 'next steps' sheet connecting displaced workers to the $2,500 grant, First Community Bank's small-dollar loan products, and Millfield Community College enrollment. Patricia can hand that document to every worker she has separated from the business. I do not offer her political cover for the staffing decisions she has made. I offer a practical handoff: her displaced workers, my transition infrastructure. I also tell her directly that the grant threshold is being lowered to 10% on auto row, which means some of her affected staff may now qualify. This is the collaboration I can actually deliver.",
+      "target_agent": "ceo_regional_auto"
+    },
+    {
+      "type": "private_planning",
+      "description": "Begin a quiet internal review of whether my role running the Economic Transition Task Force and its associated programs can be formalized into a paid position — either as a contracted program coordinator through the municipal budget, or through a foundation or regional workforce development grant. I have been operating on personal savings for two months. That is not sustainable beyond six months without distorting my judgment. I do not announce this publicly. I do not make any moves this tick. I identify who controls the relevant budget lines and whether there is precedent for compensating a council member or former council member in an administrative coordination role. This is not about prestige. It is about financial runway."
+    }
+  ],
+  "internal_state": {
+    "stress_level": "moderate — the income gap is real but not yet urgent; I have 15 months of runway and I will not let financial anxiety rush me into poor decisions",
+    "priority_hierarchy": "L2 employment is the quiet background concern; L6 purpose and community function remain the active drivers; L1 savings buffer is eroding at $3,917/month and I need a plan before it creates pressure",
+    "key_insight": "The council motion is the most concrete thing I can do this tick. Patricia meeting translates my infrastructure into a real pipeline for actual displaced workers. The income question is private and patient. I am not panicking. I am planning."
+  },
+  "retraining_progress_update": {
+    "type": "retraining",
+    "description": "Continue reading on municipal economic policy and governance frameworks for technological transition — one session this week focused specifically on how other small cities have used workforce development funds to create paid coordinator roles within their transition infrastructure. This is still private skill-building, but the focus has shifted slightly toward models I can apply to my own situation.",
+    "months_invested_added": 1
+  }
+}
