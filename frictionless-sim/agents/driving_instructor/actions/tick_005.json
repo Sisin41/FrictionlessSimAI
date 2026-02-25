@@ -1,0 +1,71 @@
+{
+  "tick": 5,
+  "agent_id": "driving_instructor",
+  "agent_name": "Frank Russo",
+  "response": {
+    "internal_assessment": "Mark Thompson has the pitch. I gave him everything I had last tick — my case, my credentials, my angle. Now I'm waiting on a man I trust more than almost anyone in this town, and I have no idea what he said back because nothing has come through yet. That silence could mean he's working it. It could mean he's uncomfortable and buying time. Either way, I cannot sit still. Savings are at roughly $19,700. At this burn rate I have maybe six months before I'm making decisions I don't want to make. The inbox tells me twelve people enrolled in retraining this month. Twelve. That is a room full of people exactly like me — people who built something with their hands and their brains and woke up one morning to find the economy had moved on without asking permission. That room needs someone who can stand in front of them and make the learning feel survivable. I know how to do that. The question is whether I can find a door into that room before my savings run out.",
+    "inbox_interpretation": "The 12 retraining enrollments are the most significant signal in this inbox for me. That is a real cohort, real people in motion, and they are presumably going through some kind of organized program. I need to find out who is running it and get myself into that conversation. Howard Liu reaching out to RoboRide is interesting — even the auto parts store owner is pivoting toward the disruptor, which tells me the old ecosystem is fragmenting faster than the public narrative suggests. Three people sold their cars this month. That number will grow. The broader news about businesses closing, layoffs, and people scrambling reinforces that the window for finding a new role is competitive and closing. Maria Santos is enforcing the RoboRide licensing conditions — that is political friction that could slow or complicate things but will not reverse the adoption curve. What I do not see is any response from Mark Thompson, which means either the outcome hasn't resolved yet or I need to apply more pressure through a different channel.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Follow up with Mark Thompson directly — not a second pitch, but a specific ask. Frank calls Mark and asks one concrete question: who runs the district's adult continuing education intake process, and is there a name and a phone number Mark can give him? Frank is not waiting for a formal co-sponsorship decision. He is separating the relationship ask from the bureaucratic ask so he can start working both channels simultaneously. He keeps the call short, specific, and collegial.",
+        "target_agent": "auto_shop_teacher",
+        "resources": {
+          "type": "labor",
+          "direction": "give",
+          "amount": 1,
+          "detail": "One phone call, one specific ask: a name and contact for the district adult ed intake coordinator. Frank is doing the groundwork himself rather than waiting for Mark to carry the entire load."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Frank's highest-trust relationship is Mark Thompson (0.83). The tick 4 pitch was made. The natural next move is not to wait passively but to convert the conversation into a specific, actionable request that Mark can actually fulfill quickly — a name, a contact. This keeps the momentum without pressuring Mark on the co-sponsorship decision he may still be considering."
+      },
+      {
+        "type": "ASSOCIATION",
+        "description": "Frank contacts whoever is administering the 12-person retraining cohort — whether that is the city, the community college, or a workforce nonprofit — and introduces himself as a local educator with thirty years of experience teaching anxious adults complex skills under pressure. He is not asking for a paid position yet. He is asking to be in the room: to guest-speak, to facilitate one session, to be known to the people running the program. He frames it around what the cohort needs, not what he needs.",
+        "target_agent": null,
+        "resources": {
+          "type": "skill",
+          "direction": "give",
+          "amount": 1,
+          "detail": "Frank offers his teaching skill and his lived experience of disruption as relevant assets to the retraining program. He is building an association with the workforce transition infrastructure in Millfield before it becomes competitive to do so."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Twelve people enrolled in retraining is not background noise — it is a market signal. Someone is running that program. If Frank can become known to that administrator before others do, he positions himself for a paid facilitation or instructional role that directly matches his transferable skills. His right column on the legal pad — reading anxiety, breaking skills into steps, building confidence in people who want to quit — is exactly what a retraining cohort needs. He does not need a formal credential to contribute; he needs to be visible to the right person."
+      },
+      {
+        "type": "COMMITMENT",
+        "description": "Frank begins drafting a one-page teaching portfolio — not a resume, but a document that translates thirty years of driving instruction into the language of adult learning. He lists: number of students taught (rough estimate: 3,000+), success metrics (road test pass rates), specific techniques for anxiety management in skill acquisition, and one or two brief student stories anonymized. This document will be the leave-behind when he walks into any adult ed or retraining conversation. He works on this alone, at home, this week.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "internal",
+          "amount": 3,
+          "detail": "Approximately 3 hours of focused writing time to produce a one-page teaching portfolio framed for adult education and workforce retraining contexts."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Frank has been operating on verbal pitches and goodwill. To be taken seriously in an institutional context — a school district, a workforce program, a community college — he needs a document that someone can pass up a chain without Frank being in the room. The teaching portfolio is that document. It costs him nothing but time, and time is the one resource he currently has. His identity attachment (0.8) means he needs to see himself reflected accurately in this document — it should honor what he built, not apologize for it."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Mark has the pitch. Now I need to stop acting like the phone call is the plan and start acting like the phone call was step one of ten. Twelve people walked into a retraining room this month and nobody with my specific set of skills is in that room yet. I spent thirty years teaching people how to do something terrifying for the first time without falling apart. That is not a driving skill. That is a human skill. I just need to find whoever is standing at the front of that room and let them know I exist."
+  }
+}

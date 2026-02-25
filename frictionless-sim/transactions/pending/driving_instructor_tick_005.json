@@ -1,0 +1,23 @@
+{
+  "tick": 5,
+  "from_agent": "driving_instructor",
+  "from_name": "Frank Russo",
+  "to_agent": "auto_shop_teacher",
+  "to_name": "Mark Thompson",
+  "transaction_type": "SIGNAL",
+  "description": "Frank Russo calls Mark Thompson with a specific, narrow ask: who is the district's adult continuing education intake coordinator, and can Mark provide a name and direct contact? Frank is not pressuring Mark on the co-sponsorship question from tick 4 — he is separating the bureaucratic pathway from the relationship ask so he can begin working both simultaneously. The call is collegial, brief, and concrete.",
+  "resources": {
+    "type": "labor",
+    "direction": "give",
+    "amount": 1,
+    "detail": "One direct phone call. Frank leverages his 0.83 trust relationship with Mark to extract a specific institutional contact rather than waiting passively for the co-sponsorship question to resolve."
+  },
+  "expected_outcome": "Mark provides the name and contact information for the district adult ed intake person, or indicates he needs a few more days. Either outcome is useful. If Mark is still deliberating on the co-sponsorship, this call also gently signals that Frank is moving forward regardless — which may help Mark feel less like the sole gatekeeper and more like one helpful node in a larger effort.",
+  "economic_effects": {
+    "income_change": 0,
+    "expense_change": 0,
+    "savings_change": 0,
+    "asset_change": "none",
+    "employment_change": "none"
+  }
+}

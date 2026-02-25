@@ -1,0 +1,18 @@
+{
+  "tick": 5,
+  "from_agent": "diner_owner",
+  "to_agent": "council_member",
+  "type": "SIGNAL",
+  "description": "Betty Kowalski follows up on her pending $5,000 small business stabilization grant application (submitted tick 2). She contacts Maria Santos's office directly — by phone or in person — to request a status update and ask whether her application qualifies for expedited disbursement as discussed at the task force meeting she attended in tick 4.",
+  "resources": {
+    "type": "political_capital",
+    "direction": "both",
+    "amount": 1,
+    "detail": "Betty spends modest political capital earned through her task force testimony to make a direct, credible follow-up request. She is asking for information and action on an already-submitted application, not a new ask."
+  },
+  "expected_response": "Status update on grant application, confirmation of expedited review eligibility, or timeline for disbursement decision.",
+  "from_agent_name": "Betty Kowalski",
+  "to_agent_name": "Maria Santos",
+  "from_role": "Owner, Auto Row Diner",
+  "to_role": "City Council Member"
+}

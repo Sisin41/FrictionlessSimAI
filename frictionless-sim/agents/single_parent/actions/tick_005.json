@@ -1,0 +1,33 @@
+{
+  "tick": 5,
+  "agent_id": "single_parent",
+  "agent_name": "Nicole Washington",
+  "response": {
+    "internal_assessment": "Another month, same picture. The savings are still climbing, which is the only real comfort. The car payment stings at $413 a month but I am not about to gamble my 5am shifts on a robotaxi that might keep me waiting 15 minutes in the cold. Seven percent of people using RoboRide regularly — that is still a small number. Not enough to tell me anything. Word around my network is that people are moving but nobody is talking directly to me, nobody is offering anything, nobody needs anything from me. Priya is meeting with Linda Park about something, Denise is running some kind of campaign — none of that touches my life right now. My job is to stay out of trouble and keep the buffer growing. Stress is creeping up a little but I can manage it. I did not skip the dinner out last month for nothing.",
+    "inbox_interpretation": "The ambient signal is that RoboRide is real and spreading, but adoption is still thin at 7%. The 15-minute average wait time alone rules it out for my commute — I cannot be late to a hospital shift, and I cannot leave my kids waiting after school wondering if the car is coming. The word-of-mouth items about Priya, Betty, Denise, and Stephanie are vague fragments; nothing there is directed at me or changes my calculus. The outcome from last tick confirmed my approach worked: savings grew, no employment disruption, the defensive spending cut was the right call. I keep the course.",
+    "chosen_actions": [
+      {
+        "type": "INACTION",
+        "description": "Maintain personal vehicle for all critical logistics. No change to transportation arrangement. Continue light discretionary spending discipline carried from last tick — keep the dinner-out skip and the delayed household purchase in place one more month.",
+        "target_agent": null,
+        "resources": {
+          "type": "currency",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "No outflows beyond existing monthly commitments. Car payment of $413 paid as scheduled. Monthly essentials of $2,600 covered. Discretionary held to roughly $1,220 rather than full $1,300 budget — approximately $80 in continued belt-tightening."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": -80,
+          "savings_change": 285,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The robotaxi adoption figure of 7% is not a crisis signal — it is a market curiosity. My loss aversion is high and the downside of a failed transportation experiment is concrete: a missed shift means disciplinary risk, possibly job loss, and I am the only income for two kids. The 15-minute wait time published by RoboRide is incompatible with shift-start precision at 5am. Nothing in my inbox changes that math. Holding the spending discipline from tick 4 costs me very little and preserves the savings trajectory. The right move is to do nothing disruptive and let the buffer keep building."
+      }
+    ],
+    "emotional_state": "anxious",
+    "archetype_self_assessment": "stable",
+    "inner_monologue": "Seven percent. That is seven people out of a hundred who have decided the robotaxi is worth it, and good for them — I am not one of them, not yet, maybe not ever. I have two kids who need me on time and a job that does not forgive lateness, and no algorithm is going to care about that at 4:45 in the morning. I cut back on dinner out again and I am fine with it. The savings number goes up, the kids are okay, that is the whole scorecard right now."
+  }
+}
