@@ -1,0 +1,34 @@
+{
+  "agent_id": "rideshare_driver",
+  "tick": 11,
+  "hierarchy_level": "L2_PARTICIPATE",
+  "emotional_state": "determined — holding steady at the finish line",
+  "archetype": "adapter",
+  "actions": [
+    {
+      "type": "COMMITMENT",
+      "description": "Follow up on NEMT employer conversations with a clear next-step framing. I have made the calls at tick 10 and stated availability directly. Tick 11 is not another follow-up call — it is a decision week. If Millfield Medical Transport or CareRide of the Valley has not responded by mid-week, I contact each once more and frame it explicitly as a close: 'I need to know by Friday whether you have an onboarding slot. If yes, I accept today. If no, I will pursue other options.' I do not extend the timeline further. I have done everything a credentialed, available, clean-record candidate can do. A non-response is information.",
+      "target": null,
+      "expected_outcome": "Binary resolution on NEMT placement with at least one of the two operators. Either an onboarding date this week or a definitive no that lets me pivot to St. Clement's or other operators without confusion about pipeline status."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Respond to Grace Okafor's message from tick 10. She is using my name as a credibility reference and asked for the specific contact person's name at the operators. I honor that ask. I send her the name of the dispatcher I spoke to at Millfield Medical Transport and the coordinator I reached at CareRide. If either operator offered me a slot and named a contact, I pass that name to her explicitly. We are not competing for a single seat — NEMT demand is stable and growing. I also update her on where I stand: still no offer signed but actively pushing to close this week. She should know the honest status because she is planning around it.",
+      "target": "uber_driver_2",
+      "expected_outcome": "Grace has specific contact names at both NEMT operators to use in her own outreach, cutting through cold-call queue time. Reciprocal relationship maintained under real financial pressure."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Contact the Millfield workforce development office to resolve the Maria Santos retraining grant status. I applied at tick 2 — that is nine ticks ago, approximately nine months. One call, one question: was my application funded or not funded, and if funded, when and how was the disbursement processed? If funded and unclaimed, I take the steps to receive it immediately. If denied, I close the loop on a mental accounting item I have been carrying for months. Either outcome is better than continued ambiguity.",
+      "target": null,
+      "expected_outcome": "Binary resolution on the $2,500 retraining grant. Either funds arrive and extend runway, or the item is closed and I stop mentally holding it as a potential buffer."
+    },
+    {
+      "type": "INACTION",
+      "description": "Continue driving daytime rideshare shifts at 40 hours per week. No increase, no decrease. The income bridge holds until NEMT placement is confirmed. Monthly income covers monthly expenses with $387 in net savings per tick. I do not destabilize the bridge income while the NEMT pipeline is in the final closing stage.",
+      "target": null,
+      "expected_outcome": "Savings continue growing at $387/month. Financial position remains stable at approximately $11,257 with 4+ months runway regardless of NEMT placement timing."
+    }
+  ],
+  "reasoning": "Tick 11 is the decision resolution tick for a nine-month transition arc. The NEMT certification is complete. The outreach has run through three escalating ticks (8, 9, 10). The tick 10 calls were explicitly framed as conversion attempts, not follow-ups. This tick either produces a signed contract or a definitive no that redirects me to remaining pipeline options. The Grace Okafor exchange is a genuine peer relationship worth sustaining even under pressure — she is weeks behind me on the same path and the NEMT sector has multiple openings. The grant status call is a one-action item that closes a nine-month open loop. The rideshare bridge holds steady because changing it mid-conversion creates unnecessary risk with no upside. Employment rate at 50% and spending index at 26 confirm the structural story I have been running since tick 0: the rideshare window is closing, NEMT is the right pivot, and I have executed the transition correctly. I need one yes. I hold."
+}

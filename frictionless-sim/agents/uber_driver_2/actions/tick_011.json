@@ -1,0 +1,34 @@
+{
+  "agent_id": "uber_driver_2",
+  "tick": 11,
+  "hierarchy_level": "L0_SURVIVE",
+  "emotional_state": "anxious but functional — urgency driving action, not panic",
+  "archetype": "adapter",
+  "actions": [
+    {
+      "type": "EXCHANGE",
+      "description": "Follow up on the NEMT operator calls made at tick 10. I called Millfield Medical Transport and CareRide of the Valley with my certification in hand and stated availability clearly. This tick I follow up on those calls — not passively, but with a close. If either operator has not responded, I call back once more and frame it as a decision conversation: 'I called last week, I have my certification, I have a vehicle, and I can start this week. I need to know by Wednesday whether you have an onboarding slot. If yes, I start the paperwork today. If no, I'll pursue other options.' I also follow up on the contact name Robert gave me — using a specific name cuts through the queue in a way a cold call cannot. If an offer comes in, I accept it on the call. No delay, no negotiation on rate for the first contract.",
+      "target": null,
+      "expected_outcome": "NEMT placement confirmed with at least one operator, or definitive no that redirects outreach to St. Clement's or other NEMT operators Robert may identify. Income from NEMT contract would replace or supplement rideshare within the next two weeks."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Drive every high-yield rideshare shift available this week. Morning airport windows (5am-9am daily), Friday evening surge, Saturday morning airport push. Also drive any weekday afternoon blocks where surge pricing is active. Target 35-40 hours of driving this tick. Savings are functionally at zero after the tick 10 drop of $68 — every driving hour is direct survival income. I accept the RoboRide demand compression. There are still rides being taken, and I am going to be in the queue. A partial income is infinitely better than no income while NEMT placement processes.",
+      "target": null,
+      "expected_outcome": "Partial income generation of $700-900 this tick from rideshare. Not enough to fully cover $1,787 in monthly expenses, but sufficient to prevent complete financial collapse while NEMT placement finalizes."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Send Robert Jackson the update he gave me at tick 10 in reverse: acknowledge that I have received his contact name referral, confirm I am calling this week using his name as shared network context, and update him on my status honestly. I also ask one specific question: has he heard anything back from either Millfield Medical Transport or CareRide since his tick 10 push? If one of them has gone quiet on him, that is information I need before I spend my most valuable calling time on a dead lead. We are running parallel paths and the intelligence we share has direct operational value for both of us. I do not waste his time with a long message — one paragraph, specific ask, close.",
+      "target": "rideshare_driver",
+      "expected_outcome": "Live intelligence exchange with Robert Jackson on NEMT operator responsiveness. Specific contact name confirmed for use in this tick's calls. Mutual update maintains the highest-trust peer relationship in Grace's network."
+    },
+    {
+      "type": "COMMITMENT",
+      "description": "Visit the Millfield Community Center this week during Financial Triage Navigator hours. Lisa Freeman launched this service at tick 10 and I am a textbook Financial Triage Navigator client: NEMT certification complete, rideshare income compressed, savings at zero, nursing school in progress, $573/month car payment, $35,485 in debt. I sit with Lisa for 45 minutes and let her map my situation against the programs that actually exist. What I specifically want to know: (1) is there any bridge funding I qualify for while NEMT placement processes — even a two-week emergency loan or a program I have not found on my own, (2) whether the community college nursing program has any financial assistance I have not applied to, and (3) whether the workforce development grant I applied for at tick 5 is still technically reviewable or is definitively closed. I am not too proud to use the resource that exists. That is what it is there for.",
+      "target": "community_organizer",
+      "expected_outcome": "45-minute Financial Triage Navigator session with Lisa Freeman. Prioritized list of three concrete next steps relevant to Grace's specific situation. Possible identification of bridge resources or unclaimed programs not yet accessed."
+    }
+  ],
+  "reasoning": "Grace Okafor is in a genuine L0_SURVIVE situation at tick 11: savings functionally zero, income zero from formal employment, $1,787/month in expenses, NEMT certification complete but not yet placed. The adapter archetype is being tested at maximum friction. The correct response is: do not freeze, do not abandon the long-term plan, execute the two actions that directly address the crisis — NEMT placement and rideshare income generation — while using every available resource. Robert Jackson's contact name referral is the most operationally valuable piece of intelligence Grace has. Using it this week, not next week, is the difference between a warm introduction and a cold call. The Financial Triage Navigator visit is a calculated use of a community resource at exactly the moment it exists to serve. Lisa Freeman launched it for people in Grace's exact situation. Going there is not defeat — it is the behavior of someone who is taking their options seriously. The nursing school trajectory is intact and correct. Grace does not abandon it. She bridges to it through NEMT income while completing her credential. Employment at 50% and spending index at 26 make the nursing credential more valuable, not less — healthcare demand is not discretionary. One NEMT placement and this situation resolves. Everything is in motion to make that happen."
+}
