@@ -1,0 +1,63 @@
+{
+  "tick": 3,
+  "agent_id": "rideshare_driver",
+  "agent_name": "Robert Jackson",
+  "current_state_summary": {
+    "threat_level": 0.78,
+    "runway_months": 3.0,
+    "savings": 8161,
+    "stress_level": 0.41,
+    "primary_concern": "RoboRide launched at $0.18/mile — my direct competitor is now live. I applied for the grant. Good. But I still haven't named what I'm retraining INTO. That gap is the thing that keeps me awake right now."
+  },
+  "threat_assessment": {
+    "immediate": "RoboRide is live at $0.18/mile with a 15-minute wait. Adoption is 3% — I still have 97% of the ride market — but that number moves. It will not stay at 3%. Every person who tries it once and likes it is gone. I need to drive hard while the window is still open AND start naming the exit path this week, not next week.",
+    "horizon_2mo": "If adoption reaches 15-25% in two months, my income drops materially. The $775/month surplus I'm running on is fragile. A 20% volume drop wipes that surplus. I have 3.0 months of runway. In two months I have to be either (a) generating income from something else or (b) deep enough in a retraining program that the grant money is already at work.",
+    "horizon_6mo": "At 6 months, with $2,500 grant money and good credit (784), I have one real shot at a credential transition — CDL, logistics, non-emergency medical transport, or something in facilities/courier that my driving and local knowledge feeds into. If I have not named and started that path by month 2, month 6 looks like depleted savings and no credential and a rideshare market that has contracted under me."
+  },
+  "hierarchy_priority": "L0_SURVIVE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Drive maximum available hours this week — 58 to 62 hours — targeting specifically the gaps RoboRide cannot fill: short notice pickups where a 15-minute wait is unacceptable, riders who are elderly or mobility-limited and can't operate an app, trips to side streets and residential areas outside main-road coverage, large groups or riders with luggage or medical equipment. These are not edge cases. These are my niche now.",
+      "rationale": "Adoption is 3%. That means roughly 97% of trip requests are still coming to me. I need to capture as many of those as possible before adoption creeps higher. But I'm also doing something new this week: I'm paying attention to WHICH riders keep calling me. The elderly woman on Maple who calls directly. The hospital worker who needs pickup at 5:30am before surge kicks in. The family going to the airport with four bags. These riders are the ones RoboRide cannot easily replace. I'm not just driving — I'm mapping my defensible niche.",
+      "timeline": "This week, every shift",
+      "expected_outcome": "Maintain or slightly increase income relative to last week. Identify 3-5 recurring rider types that RoboRide structurally cannot serve well. Build that as explicit knowledge I can use later — either for a specialized transport service or to demonstrate market viability to someone I partner with."
+    },
+    {
+      "action_id": 2,
+      "description": "Name the retraining target before this week ends. Not research it endlessly — name it. The two options I'm taking seriously: (A) Non-Emergency Medical Transport (NEMT) — requires a state certification, clean driving record I already have, serves elderly and disabled riders who cannot use RoboRide apps and need human help, pays $18-24/hour, directly uses my local knowledge and customer service. (B) CDL Class B — opens logistics, local delivery, school transport. Costs more, takes longer, but has broader market. Decision this week: NEMT cert first, CDL as second credential. The $2,500 grant covers NEMT certification costs with money left over for study materials toward CDL permit.",
+      "rationale": "I applied for the grant. I have not told the grant application what I'm using it for yet — and even if I did, I haven't committed to myself. That ambiguity is the thing bleeding my agency. Every week I don't name a target, I'm driving without a destination. I am 41 years old. I have a dependent. I have a 784 credit score. I have local knowledge of Millfield that took six years to build. NEMT uses all of that, starts fast, and serves people RoboRide actively cannot. CDL is the longer play. I'm picking NEMT first because the window is 3 months, not 18.",
+      "timeline": "Decision locked by end of this week. Application to NEMT certification program submitted within 10 days.",
+      "expected_outcome": "Have a named retraining target with a specific program identified. Certification cost confirmed against the $2,500 grant. If grant is approved, training funded. If grant is delayed, I know exactly what I'm saving toward and when I need it."
+    },
+    {
+      "action_id": 3,
+      "description": "Track trip request volume this week versus last week. Count requests, not just completed rides. If RoboRide launch is pulling demand, I will see fewer incoming pings before I see lower earnings — the leading indicator is request volume, not income, because income can hold steady while I work harder to fill the same dollar amount. I want the real number, not the one that feels manageable.",
+      "rationale": "I need empirical data on how fast the bleed is happening. I have a normalcy bias — I will unconsciously interpret ambiguous data as 'still okay.' Counting requests forces me to see what's actually happening. If request volume is down 5% in week 1 of RoboRide, that's a number I can track. If it's down 15%, that changes my timeline calculations meaningfully. I can't plan on feeling. I need the number.",
+      "timeline": "Log daily this week. Compare to the same days last week. Report to myself on Sunday night.",
+      "expected_outcome": "A concrete data point — request volume week 1 post-RoboRide vs. week before launch. This becomes the baseline I measure every subsequent week against. If volume drops faster than 5% per week, I accelerate the NEMT application. If it holds, I hold pace."
+    },
+    {
+      "action_id": 4,
+      "description": "Talk to Marcus. Not about the financial details — he's a kid, that weight is not his to carry. But tell him something honest about change coming. Something like: 'The way I do my job is going to change this year. I'm figuring out the next part. Things at home stay the same.' He already feels the tension I'm not naming. Giving it a small honest shape is better than letting him fill the silence with something worse.",
+      "rationale": "I have been protecting Marcus from everything I'm carrying and it is costing me in ways I can't fully measure. I don't sleep right. I'm short with him in ways I don't like. The act of saying something honest — not the full weight, just a human acknowledgment — is part of how I stabilize. He is going to find out something is shifting. Better it comes from me, framed calmly, than from a kid's imagination. This is not a financial decision. It is the decision underneath all the financial decisions.",
+      "timeline": "This week. Before the weekend.",
+      "expected_outcome": "I don't know exactly what he'll say. He might just shrug and ask what's for dinner. That would be fine. The point is I stop carrying the performance of everything being normal every single day. Some of the stress I'm holding is the performance cost. Putting it down — even a little of it — is part of keeping my agency above zero."
+    }
+  ],
+  "decisions": {
+    "retraining_target": "Non-Emergency Medical Transport (NEMT) certification — primary. CDL Class B — secondary, longer horizon.",
+    "grant_deployment": "$2,500 applied to NEMT certification costs. Remainder toward CDL permit prep materials.",
+    "driving_strategy": "Maximize volume this week at 58-62 hours. Begin mapping defensible niche: elderly, disabled, medical, off-main-road, large groups.",
+    "income_monitoring": "Track weekly request volume as leading indicator. Threshold: if volume drops more than 10% week-over-week, compress timeline on NEMT application.",
+    "family_communication": "Have an honest, age-appropriate conversation with Marcus this week about change coming."
+  },
+  "updated_state": {
+    "stress_level": 0.41,
+    "agency": 0.54,
+    "grief_stage": "bargaining",
+    "savings_delta": 387
+  },
+  "internal_monologue": "RoboRide is live. I saw it this morning — the app icon on my neighbor's phone while he was waiting for a ride I didn't get. Three percent adoption sounds small until you're watching the first person who picked them over you. I'm not panicking. I applied for the grant. I've been driving hard. But I've been treating 'figure out the next thing' as a task I'll get to, and this week that ends — I'm picking NEMT, I'm finding the certification program, I'm pointing the grant money at something real. The 15-minute wait time and the app barrier are the cracks in their armor, and the people who fall through those cracks — the woman on Maple who doesn't own a smartphone, the guy with the oxygen tank who needs a driver who knows how to help him — those are my riders now, and I'm going to be the best option they have.",
+  "archetype_self_assessment": "still driving, but I finally know what I'm driving toward"
+}

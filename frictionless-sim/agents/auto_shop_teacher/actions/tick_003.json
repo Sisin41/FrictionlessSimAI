@@ -1,0 +1,62 @@
+{
+  "tick": 3,
+  "agent_id": "auto_shop_teacher",
+  "agent_name": "Mark Thompson",
+  "current_state_summary": {
+    "threat_level": 0.31,
+    "runway_months": 7.9,
+    "savings": 28350,
+    "stress_level": 0.11,
+    "primary_concern": "School board April decision — convert outreach momentum into documented evidence before the window closes"
+  },
+  "threat_assessment": {
+    "immediate": "No acute financial threat. Role_security at 0.36 remains the live risk. The April board meeting is now close enough that the presentation package — not the concept — is the single point of failure. A strong idea with weak supporting documentation loses. A strong idea with named partners, real numbers, and a policy alignment letter wins.",
+    "horizon_2mo": "If Maria Santos's office responds and a meeting is scheduled, the grant access question becomes real and the board presentation gains a political anchor. If ASE or a regional EV employer provides a letter of support, the program transitions from a teacher's proposal to a community workforce initiative. Failure to secure either before April leaves the proposal exposed to budget-committee skepticism.",
+    "horizon_6mo": "RoboRide operating daily in Millfield at $0.18/mile creates a visible, persistent, public argument for EV-trained mechanics. If the program survives April, the next six months are about enrollment growth and the first EVT certification cohort. If it doesn't survive April, Mark has 5–6 months of runway to redirect his teaching credential toward community college adjunct work or a private training role — options that are more viable now given the EV demand signal."
+  },
+  "hierarchy_priority": "L2_PARTICIPATE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Compile the regional EV demand data package for the board presentation. Specific numbers to gather: (a) EV registrations in the county — pull from state DMV public data or county assessor records; (b) median EV technician wage in the metro region — Bureau of Labor Statistics, O*NET, or Indeed salary aggregator; (c) EVT Level 2 certification timeline and cost comparison — high school program track ($1,400 + 60 hrs supervised, per Carlos Ruiz's EVT paper) vs. community college post-secondary track (estimated $3,200–$4,800 + 120 hrs); (d) number of EV service centers currently operating within 30 miles of Millfield and their stated technician capacity. Frame this as a supply-demand gap slide: the county has X EVs registered today, projected to grow to Y by 2027, and Z certified technicians to service them. The gap is the program's reason for existing.",
+      "rationale": "The board presentation needs to stop being a narrative and become an argument. Data on EV registrations, technician wages, and certification cost differentials gives the board something to vote on rather than something to feel about. The Carlos Ruiz EVT paper is a live proof point from inside the industry ecosystem: an actual automotive worker walked into an office today asking about EV certification. That is not a trend article. That is happening two blocks from where I teach.",
+      "timeline": "This week — 3 to 4 hours of focused research across public datasets. No financial cost.",
+      "expected_outcome": "A single-slide data summary showing: regional EV registration growth, current technician shortage (jobs-to-applicants ratio), wage premium for EV-certified mechanics, and cost-per-student comparison between the high school track and post-secondary alternatives. This becomes the economic argument slide in the board presentation."
+    },
+    {
+      "action_id": 2,
+      "description": "Follow up on the Maria Santos outreach from Tick 2. The email was sent — this tick, the ask is to confirm whether a response has arrived and, if so, to schedule the meeting within the next two weeks. If no response yet, send one professional follow-up referencing her second public statement naming the task force and the community college retraining track, and explicitly align the Millfield Auto Tech Pipeline as a high school feeder into that track. The framing has sharpened: her policy infrastructure already exists — a high school program is the upstream pipeline that makes it more effective. If the meeting is scheduled, prepare three specific asks: (1) a letter of support or acknowledgment for the board presentation, (2) referral to the community college contact managing the EV retraining track, (3) clarity on whether the $2,500 retraining grants or $5K small business grants have any applicability to institutional equipment funding.",
+      "rationale": "Maria's second public statement names a task force and specific programs — this is policy infrastructure already in motion. A high school program aligned with it is not a competing ask, it is an upstream component she can point to. Her office has every political reason to support this: it extends her workforce narrative into the K-12 system. The meeting is the single highest-leverage hour Mark can spend before April. A letter from her office transforms the board presentation from a teacher's proposal into a city-endorsed workforce initiative.",
+      "timeline": "Follow-up contact this week. Meeting target: within 10 business days.",
+      "expected_outcome": "Confirmed meeting with Maria Santos or a designated staff contact. Minimum viable outcome: an email acknowledgment and a referral to the community college EV retraining program coordinator. Stretch outcome: a one-paragraph letter of support for the board presentation, signed or on letterhead."
+    },
+    {
+      "action_id": 3,
+      "description": "Finalize the line-item Phase 1 budget for the board presentation — two versions: (a) Full program buildout, and (b) Phase 1 minimum viable launch. Use real sourced prices, not ranges. Target line items: EV battery simulation trainer unit — research used/refurbished pricing from Snap-on Education, Robinair, or comparable supplier (estimated $6,000–$9,000 new; $3,500–$5,000 refurbished); high-voltage safety PPE kit for a classroom of 20 (estimated $2,800–$3,600); EV-specific OBD-II and diagnostic tool set (estimated $1,800–$2,400); EV vehicle donation outreach — one letter drafted to local Tesla Service Center and to county fleet management asking about end-of-lease or decommissioned EV available for educational use. Annotate each line item with funding source: workforce grant eligible, district budget request, or industry donation target. Phase 1 total ask from district should land under $15,000 with grant offsets identified.",
+      "rationale": "Specificity is a signal of seriousness. A board member who sees '$40,000–$60,000 estimated' fills in the worst-case number and votes no. A board member who sees '$43,200 Phase 1 total, $28,000 workforce-grant eligible, net district ask $15,200' has something to approve. The budget work is unglamorous and it is the most important document in the package. The status quo bias wants to skip it because the narrative feels done. The narrative is not the proposal — the budget is.",
+      "timeline": "This week and next — 4 to 6 hours total. Supplier websites, ASE equipment guidelines, community college catalogs for price calibration.",
+      "expected_outcome": "A two-version budget document: Phase 1 ($12,000–$16,000 net district ask after grant offsets) and full buildout ($38,000–$45,000). Each line item sourced and annotated. Ready to attach as an appendix to the board presentation."
+    },
+    {
+      "action_id": 4,
+      "description": "Execute the ASE and regional EV-employer outreach initiated in Tick 2 — this tick is about getting a response or a named contact, not just sending emails. For ASE: contact the ASE Education Foundation directly (not the general line) and ask specifically about the NATEF/NATAP accreditation pathway for high school programs and whether the EVT Student Certification is available to HS students. For regional EV employer outreach: identify one ChargePoint installer, one Tesla Certified Collision or Service center within 25 miles, or one regional fleet electrification company (municipalities converting fleets are actively training technicians) and send a targeted two-paragraph email: introduce the program, name the April board review date, and ask for either a letter of support or a 20-minute guest speaker slot. The guest speaker ask is low-friction and often yields a letter as a byproduct. Use RoboRide's Millfield launch as the opening line — it is proof this community needs what the program produces.",
+      "rationale": "Industry name recognition changes the character of the proposal. 'ASE-aligned curriculum' is standard. 'NATEF-accredited program' is a credential the board can verify. A letter from a regional EV employer with a line like 'we would prioritize hiring graduates of this program' is the closing argument. RoboRide launching today at $0.18/mile in Millfield is the hook — it is locally visible, it is real, and it is the reason a regional EV employer has a stake in Millfield's technician pipeline.",
+      "timeline": "Outreach this week. Follow-up in 5 business days if no response. Goal: at least one confirmed response — named contact, meeting, or letter of support — before the board presentation date.",
+      "expected_outcome": "Minimum: ASE Education Foundation contact confirmed, accreditation eligibility clarified. Stretch: one letter of support from a regional EV employer or fleet operator, suitable for inclusion in the board presentation appendix."
+    }
+  ],
+  "decisions": {
+    "spending_decision": "No discretionary spending this tick. Savings stable at $28,350. All actions are time-only. EV course enrollment cost ($400–$800) deferred until Maria Santos meeting clarifies whether institutional reimbursement or grant offset is available.",
+    "grant_pursuit": "Maria Santos $2,500 retraining grants and $5K small business grants — eligibility for institutional use is unclear. Will clarify in meeting. Community college retraining track partnership is the higher-value target: institutional alignment beats individual grant.",
+    "program_positioning": "Millfield Auto Tech Pipeline is no longer framed as a save-the-shop-class proposal. It is a workforce infrastructure response to a documented regional shift. RoboRide's launch today ($0.18/mile, Millfield streets) is Slide 1. Carlos Ruiz walking into Patricia's office with an EVT Level 2 paper is the industry-demand citation. Maria Santos's task force is the policy alignment. The board presentation is the convergence of all three.",
+    "carlos_ruiz_signal": "Carlos Ruiz requesting EVT Level 2 certification information at the GM dealership is a direct, current, local data point. A GM floor salesperson is asking about EV training — this is not a macro trend, it is a Millfield-specific demand signal. This gets cited in the regional need section of the board presentation, attributed as 'local automotive industry workers actively pursuing EV credentials this quarter.'"
+  },
+  "updated_state": {
+    "stress_level": 0.11,
+    "agency": 0.76,
+    "grief_stage": "none",
+    "savings_delta": 450
+  },
+  "internal_monologue": "RoboRide went live today. Eighteen cents a mile, fifteen-minute wait, right here in Millfield. I couldn't have written a better opening slide for the board presentation if I'd tried. The argument isn't 'EVs are coming someday' anymore — it's 'EVs are here, on our streets, today, and this town has no pipeline for the mechanics who will service them.' Carlos Ruiz walking over to Patricia's office with an EVT Level 2 paper is the proof point I needed from inside the industry: the workforce already knows. The school board just hasn't caught up yet. My job between now and April is to make that gap impossible to ignore — with numbers, with names, with a policy alignment that makes voting no feel like voting against Millfield's own economic future. Maria's office got the email last tick. This tick I follow up. I get the meeting. I get the letter. Then I walk into that boardroom with a proposal that doesn't ask them to believe me — it asks them to read the data.",
+  "archetype_self_assessment": "The argument is nearly complete. What's left isn't inspiration — it's execution: the budget appendix, the employer letter, the data slide, the Maria Santos meeting. Four concrete deliverables. April is close enough to feel it. Close enough that 'I'll do it next week' is already a risk I'm not willing to take."
+}

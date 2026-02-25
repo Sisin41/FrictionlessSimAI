@@ -1,0 +1,63 @@
+{
+  "tick": 3,
+  "agent_id": "single_parent",
+  "agent_name": "Nicole Washington",
+  "current_state_summary": {
+    "threat_level": 0.58,
+    "runway_months": 3.6,
+    "savings": 16455,
+    "stress_level": 0.30,
+    "primary_concern": "Margin is too thin. $570/month surplus sounds like something but it doesn't feel like anything. One bad month — car repair, a shift I can't cover, my daughter getting sick for a week — and the whole math collapses. I need that runway longer and I need the credit score up so I have options if things go sideways."
+  },
+  "threat_assessment": {
+    "immediate": "Finances are stable but only technically. The $285 savings bump from last tick is real and I'm holding it. But I'm also aware that I've been lucky — no surprises, no gaps in coverage, no emergency room visits that weren't on the clock. That luck doesn't last forever. The surplus is $570. After the $200 deposit it's $370 sitting there as buffer. That's not much.",
+    "horizon_2mo": "The RoboRide thing launched — I heard about it twice today, once from a coworker in the break room at 7am and once scrolling my phone on lunch. Sounds like it's actually running now, $0.18 a mile or something. I don't know what to do with that yet. My car is what gets me to 5am shifts. RoboRide is not a 5am-shift car. But I did the mental math on the grocery run and the school pickup and I'm not sure it's nothing. Gas and maintenance are real costs. I'm not doing anything about it today but I'm not dismissing it either.",
+    "horizon_6mo": "My job is safe. I know this in a way that most of my coworkers don't seem to know about their own situations. Nursing isn't getting automated. The hospital is short-staffed and I have seniority. If I can keep the overtime going and keep the savings climbing and not take on any new debt, the picture genuinely improves. Credit score 623 is the thing that bothers me most when I let myself think about it. I can't do anything dramatic about it — just pay on time, keep utilization down, wait. That's the whole strategy. It's slow."
+  },
+  "hierarchy_priority": "L0_SURVIVE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Deposit $200 into emergency savings. Same as every tick. Auto-transfer fires on the 1st — I don't touch it, I don't think about it, it just goes.",
+      "rationale": "This is the one financial habit that's actually working and the rule exists precisely so I don't renegotiate it when I'm tired or when the week was hard. Savings grew $285 last tick. That's the system doing what it's supposed to do. I keep feeding it.",
+      "timeline": "Auto-transfer already queued for the 1st of the month.",
+      "expected_outcome": "Emergency fund reaches approximately $16,655. Runway inches toward 3.7 months. Small, correct direction."
+    },
+    {
+      "action_id": 2,
+      "description": "Pick up one Saturday overtime shift this tick. Same ask I made last tick — check with the charge nurse Thursday. The hospital needs weekend coverage and I have the seniority to get it.",
+      "rationale": "The Saturday shift worked last tick. It added real money without destroying the week. One shift is roughly $325-$350 after taxes. I can't build runway on $570 surplus alone — the overtime is what moves the needle. My sister can cover my daughter. This is the lever I actually have access to.",
+      "timeline": "Ask Thursday. Work Saturday if approved. Repeat next pay period if staffing still needs it.",
+      "expected_outcome": "Extra $325-$350 this pay period. If I stack this with the $200 deposit, total savings delta this tick could reach $525-$550. That matters."
+    },
+    {
+      "action_id": 3,
+      "description": "Don't do anything yet about RoboRide — but actually look up the fare structure tonight. Five minutes. Just numbers.",
+      "rationale": "I heard about it twice today and I'm not the kind of person who ignores a thing twice. $0.18 a mile is the number that went around at work. I don't know if that's accurate or what the wait times are or whether it even runs near my neighborhood at 5am. I'm not changing anything until I understand it. But the grocery run is four miles each way. The school is two miles. If the math actually works for daytime errands, that's real money that's not going into my gas tank or toward tire wear. I need to know the real number before I decide it's irrelevant.",
+      "timeline": "Tonight after the kids are down. Ten minutes, not more.",
+      "expected_outcome": "Either I confirm it doesn't work for my use cases and stop thinking about it, or I find one specific trip I could shift to RoboRide and save $8-12 a month. Either answer is useful."
+    },
+    {
+      "action_id": 4,
+      "description": "Pay every bill on time this month — no exceptions, no grace period testing. Set a reminder if I need to.",
+      "rationale": "Credit score 623 is not a crisis but it's a problem with a slow solution. I can't pay down the balances fast enough to move it dramatically. What I can do is make sure I'm not accidentally making it worse. On-time payment history is the single biggest factor. I know this. I need to act like I know this every month, not just when I'm thinking about it.",
+      "timeline": "Ongoing — set phone reminders for any bill due in the next 30 days that isn't on autopay.",
+      "expected_outcome": "No negative marks. Score holds or inches up by next quarter. This is a long game and I'm playing it."
+    }
+  ],
+  "decisions": {
+    "savings_deposit": "Yes, $200. Non-negotiable. Already automated.",
+    "overtime_this_tick": "Targeting one Saturday shift. Will confirm Thursday. Not pushing for two — one is sustainable, two starts to cost me in other ways I can't afford.",
+    "roboride_response": "Curious but not acting yet. I heard about it at the hospital today — it's actually live now. $0.18/mile is the number people were throwing around. That's lower than I expected. I'm going to look at the actual numbers tonight for my specific trips. My 5am shifts are still car-only — I'm not betting my job on a 15-minute wait window at 4:45am. But the afternoon school run and grocery trips are worth actually calculating. I haven't dismissed it, I just need real information before I do anything.",
+    "credit_score_strategy": "Slow and boring. Pay on time. Don't open new credit. Don't close old accounts. Let utilization drift down as I pay. No shortcuts exist at 623 and I know it.",
+    "debt_paydown": "Not this tick. Surplus is too thin to accelerate debt paydown without giving up the savings discipline. The emergency fund comes first. Debt acceleration comes when the runway is longer."
+  },
+  "updated_state": {
+    "stress_level": 0.29,
+    "agency": 0.65,
+    "grief_stage": "none",
+    "savings_delta": 485
+  },
+  "internal_monologue": "The savings number went up last tick and I need to keep that going — the Saturday shift is the thing that makes the math actually work instead of just technically working. I heard about the RoboRide launch twice today and I'm going to look it up tonight because $0.18 a mile is a number I didn't expect and I'd rather understand it than dismiss it. My job is not the problem. I say that to myself sometimes because it's easy to absorb everyone else's anxiety at the hospital, everyone talking about what's changing and what's being replaced — I chart patients, I put in IVs, I hold people's hands at 3am when they're scared. Nobody is automating that. My problem is the credit score and the thin margin and the fact that a single bad month could undo three good ones. That's the thing I'm actually managing.",
+  "archetype_self_assessment": "Load-bearing and watching. Steady."
+}

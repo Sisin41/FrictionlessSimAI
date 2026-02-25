@@ -1,0 +1,70 @@
+{
+  "tick": 3,
+  "agent_id": "commuter_rachel",
+  "agent_name": "Rachel Green",
+  "current_state_summary": {
+    "threat_level": 0.22,
+    "runway_months": 5.4,
+    "savings": 25773,
+    "stress_level": 0.11,
+    "primary_concern": "Converting early-adopter positioning into real consulting pipeline while RoboRide is live and the story is fresh"
+  },
+  "threat_assessment": {
+    "immediate": "No immediate threat. Finances are stable, surplus is $1,183/month, and RoboRide launching is actively good for the narrative I have been building. The only near-term risk is if I spend this week treating RoboRide as a hypothetical I will get to eventually — that would undercut three ticks of positioning with one tick of inaction.",
+    "horizon_2mo": "The Angela Wright situation is the live opportunity I cannot let go cold. She just accepted a Director of Org Transition role at Regional Auto Group — that restructuring will need internal and external communications support. If I do not follow up this week while she is in active planning mode, someone else will. My consulting pipeline needs a first paying anchor, and Angela is the most qualified lead I have.",
+    "horizon_6mo": "The real risk at six months is that the disruption story gets stale and everyone becomes an expert on AV transitions. Right now there is a 60-90 day window where the people who are visibly IN it — commuting by RoboRide, advising local businesses, contributing to the task force comms — are credible voices. After that it is table stakes. I need to establish the credentials while they still represent differentiation."
+  },
+  "hierarchy_priority": "L5_BUILD",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Take a RoboRide trip this week — my actual commute, not a test ride. Download the app, enter the Millfield origin, commute to work or a client-facing meeting. Note the pickup experience, the ride quality, the wait time against the stated 15 minutes, the price per my specific mileage. Treat it as a commuter, not a journalist.",
+      "rationale": "This is the moment the prior two ticks of positioning either become real or become noise. I have been framing myself as a forward-thinking RoboRide early adopter for two ticks while the service was not yet live. Now it is live. If I do not ride it this week, I am a person who talks about doing things, which is the exact opposite of the identity I am building. At $0.18/mile my commute from Millfield is going to cost a fraction of what car ownership was costing me, and I will have a real number to put in the LinkedIn post. The authentic data is the content.",
+      "timeline": "This week — first trip before Wednesday",
+      "expected_outcome": "Completed first RoboRide trip as a genuine commuter. Real cost and time data in hand. Emotional and practical experience documented in notes immediately after the ride while it is still fresh. Content asset ready to build the LinkedIn post from."
+    },
+    {
+      "action_id": 2,
+      "description": "Publish one LinkedIn post this week framed as 'I live in Millfield. Here is what day one of RoboRide actually looks like.' Lead with specifics: pickup location, wait time, cost for the route, what it felt like. Close with a take about what it means for people navigating this transition — make it useful, not just a personal update. Tag RoboRide and mention the Millfield launch.",
+      "rationale": "The post has to come from a genuine first ride — which is why action 1 has to happen first. The framing that matters is not 'look at me using a robot car' but 'here is what the ground truth looks like for a working professional commuting from Millfield.' That is useful to my peer network, useful to businesses trying to understand their customers, and useful to the task force trying to get community buy-in. It is also the kind of content that drives profile visits and inbound outreach. My social proof sensitivity tells me this is the post that gets shared. I need it to be good.",
+      "timeline": "This week — publish within 48 hours of first RoboRide trip",
+      "expected_outcome": "LinkedIn post published. Target: 30+ reactions, 5+ comments, at least 2 shares. Secondary goal: one inbound message from a local business owner, journalist, or city contact who sees the post and wants to connect. This post is the first tangible return on three ticks of narrative investment."
+    },
+    {
+      "action_id": 3,
+      "description": "Follow up directly with Angela Wright. Send a LinkedIn DM or email this week referencing the outreach from last tick and the news about her new role as restructuring architect at Regional Auto Group. Offer a 30-minute call to discuss what a communications and change management narrative framework would look like for a 90-day restructuring. Frame it as genuine peer curiosity, not a pitch — ask what the biggest communication challenge looks like from where she is sitting.",
+      "rationale": "Angela accepted a high-visibility, high-stress role with a 90-day end date. She is already problem-solving in a new context and has not had time to build a full support structure around the communications side of the work. If I reach out now — this week, while she is in week one of the role — I am a timely resource, not a cold pitch. The window is narrow. This is the specific kind of opportunity that requires moving on it rather than planning to move on it. One conversation could turn into a 60-day project engagement at $1,500-$2,500, which would be my first real consulting anchor.",
+      "timeline": "This week — send message by end of day Thursday at the latest",
+      "expected_outcome": "A reply from Angela. Ideally a 30-minute call scheduled within the next two weeks. Even if there is no immediate engagement, establishing myself as a communications resource in her mind at the start of her transition role is valuable positioning for when the specific need crystallizes."
+    },
+    {
+      "action_id": 4,
+      "description": "Assess the Maria Santos task force and the broader community transition for a focused volunteer communications offer. Specifically: identify whether the task force has a designated communications lead. If not, offer 3-4 hours per week to help draft worker-facing messaging about the $2,500 retraining grants — translating policy language into plain, accessible copy for the Millfield residents most likely to be displaced.",
+      "rationale": "My skill set is most useful right now at the intersection of plain-language communications and the community transition. The retraining grant communications are almost certainly being written by policy staff who are not trained communicators — which means they are probably hard to navigate and have low uptake. I can fix that in a few hours. This is the kind of contribution that gets noticed by city contacts, generates goodwill with the task force, and keeps me visibly engaged with the transition story without committing to a formal second job. It also gives me credible material for the consulting conversations — 'I have been working directly with the task force on communications' is a different credential than 'I have been following the situation.'",
+      "timeline": "This week — one email or call to the task force contact from the town hall to ask if there is a communications gap I can help fill",
+      "expected_outcome": "Either a yes — I get a defined 3-4 hour/week volunteer role drafting grant communications — or a no that tells me the gap is already covered. Either answer is useful. If yes, I have a community anchor. If no, I can redirect the same energy toward the consulting pipeline."
+    },
+    {
+      "action_id": 5,
+      "description": "Quietly assess whether any RoboRide community communications needs exist that a marketing consultant could support. Specifically: research how RoboRide is handling local community onboarding and education in launch markets. Look for a business development or community partnerships contact at RoboRide to reach out to with a specific offer — 'I am a marketing manager in Millfield, one of your launch communities, and I am already building authentic content about the service. I am also available for paid community communications consulting if that is something your team uses.'",
+      "rationale": "This is a low-probability but high-upside angle that costs one hour of research and one outreach message. RoboRide is scaling into new communities and may well have a community communications challenge in every launch market. I am already inside their launch story as a genuine user. That is a credible foot in the door that most consultants do not have. Even if the answer is no engagement, they now know my name and that I am a positive voice in Millfield. That is brand equity for a future conversation.",
+      "timeline": "This week — research only; send outreach message next week after the LinkedIn post is live and gives me a credible link to share",
+      "expected_outcome": "RoboRide community partnerships contact identified. Outreach message drafted and ready to send. The goal this tick is the research and the draft — sending after the LinkedIn post is live gives me a concrete artifact to reference, which makes the outreach far stronger."
+    }
+  ],
+  "decisions": {
+    "roboride_adoption": "Ride it this week. No more positioning without the product. The story I have been building requires me to be a genuine user, and the service is live. This is the moment the narrative either lands or hollows out. First trip before Wednesday.",
+    "angela_wright_followup": "Follow up this week while she is in the first days of the new role. That timing is an asset I will not have again. A 30-minute conversation now is worth ten later. Move on this.",
+    "consulting_pipeline_status": "Still early stage but the funnel is taking shape: Angela is the warm lead, RoboRide community role is the stretch opportunity, task force volunteer is the community anchor. My goal by end of this tick is to have at least one confirmed meeting or call on the calendar. That converts pipeline into something real.",
+    "content_strategy": "One strong, specific LinkedIn post about the actual RoboRide experience. Data-led, usefulness-first, identity-forward. This is not vanity content — it is a business development asset and a positioning marker. It needs to be good enough to share, not just good enough to post.",
+    "financial_posture": "Comfortable. $1,183 surplus, 5.4 months runway, no new pressures. The financial priority this tick is not defense — it is making sure the consulting pipeline starts generating actual revenue within 60-90 days so that the surplus grows rather than just holding steady. That is the difference between L1 thinking and L5 thinking, and I am squarely in L5 territory right now."
+  },
+  "updated_state": {
+    "stress_level": 0.10,
+    "agency": 0.84,
+    "grief_stage": "none",
+    "savings_delta": 591
+  },
+  "internal_monologue": "RoboRide is live and I am sitting here with a built-in narrative that most people in Millfield spent the last two ticks either ignoring or panicking about. I spent those ticks positioning myself as the person who gets it — and now the thing I said I was ahead of is actually here, which means this week is when I find out if I actually meant it. The ride is happening. The post is happening. Angela is going to hear from me by Thursday because a 90-day restructuring window does not wait for me to feel ready. What I keep coming back to is that the version of myself I have been describing on LinkedIn — calm, forward-thinking, early adopter, useful to people navigating the transition — that is who I want to be, and it turns out the only gap between describing her and being her is taking the actual ride.",
+  "archetype_self_assessment": "early adopter who earned it"
+}

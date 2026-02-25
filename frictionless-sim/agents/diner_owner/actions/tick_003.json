@@ -1,0 +1,73 @@
+{
+  "tick": 3,
+  "agent_id": "diner_owner",
+  "agent_name": "Betty Kowalski",
+  "current_state_summary": {
+    "threat_level": 0.52,
+    "runway_months": 6.4,
+    "savings": 27348,
+    "stress_level": 0.26,
+    "primary_concern": "Revenue erosion from Auto Row employment loss and reduced consumer spending — today is the day RoboRide is actually live, and I can watch what it does to who walks through that door"
+  },
+  "threat_assessment": {
+    "immediate": "RoboRide launched today. My lunch counter is my early-warning system. I am watching who comes in, how long they sit, what they order, and what they say. Spending index 76 is not abstract — I can feel it in the soup-and-sandwich orders instead of the full plate. The grant application is in. Nothing else I can do this hour except pay attention.",
+    "horizon_2mo": "If Angela Wright's 90-day restructuring compresses the dealer floor staff, I lose the regular breakfast crowd — service techs, lot attendants, finance office people who treat this counter like a second break room. The catering conversations I started with Manny and Dave need to either convert to real orders or tell me they won't. That answer comes in the next 6-8 weeks.",
+    "horizon_6mo": "If RoboRide drop-off traffic near commercial areas picks up and my location sits in that corridor, there is a passenger-side opportunity I have not yet validated. But the Auto Row contraction could cut 30-40% of my core traffic by month 5. Savings at $27,348 plus grant award if it comes through gives me room to absorb a revenue dip without cutting staff — but not indefinitely. Six months is the real test."
+  },
+  "hierarchy_priority": "L0_SURVIVE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Run the lunch service as a structured observation session. Note who comes in, who doesn't, what table talk is about RoboRide, and whether any RoboRide drop-offs result in walk-in traffic from the commercial zone. Keep a small notepad under the counter — not to be theatrical about it, just to write it down before I forget.",
+      "rationale": "This is launch day. The first real data point in a trend I have been anticipating for three ticks. My thirty years of reading this room is a legitimate analytical tool. If Tommy's crew comes in and spends 40 minutes talking about who just got their walking papers, that is information. If a stranger in street clothes walks in from the direction of the RoboRide pickup zone and orders a coffee, that is also information. I need to know what RoboRide does to my foot traffic before I can plan around it — not from a report, from my own eyes.",
+      "timeline": "Today, open to close",
+      "expected_outcome": "A rough picture of whether RoboRide has already altered who shows up on a Tuesday. Early signal on whether the commercial zone drop-off generates any incidental walk-in traffic. Emotional grounding — watching things directly is better than worrying about abstractions."
+    },
+    {
+      "action_id": 2,
+      "description": "Follow up personally with Manny at the tire shop — stop by after the lunch rush, around 2pm, before he gets slammed with afternoon pickup work. Ask directly: is the box-lunch idea something he wants to move on? If yes, agree on a trial week. If no, I find out now and stop counting on it.",
+      "rationale": "I put the catering sign up last tick. I had the conversation with Manny in principle. The difference between a relationship and a revenue stream is a specific yes. I need a specific yes or a specific no. Manny has been coming in here for nineteen years — he is not going to say no to a conversation, but he might say no to the commitment. Better to know. If he says yes and we trial it next week, I have a $300-400/month floor under my revenue that does not depend on walk-in traffic. At a $232/month surplus, that is meaningful cushion.",
+      "timeline": "Today, 2:00-2:30pm",
+      "expected_outcome": "Either a confirmed trial lunch order arrangement starting next week, or a clear read on why Manny can't commit so I can redirect to Dave at the body shop."
+    },
+    {
+      "action_id": 3,
+      "description": "Be reachable and responsive to any call from Maria Santos or anyone from the Economic Transition Task Force. I don't have a formal letter yet but Maria knows this diner and she knows me. If my phone rings with an Millfield city or economic development number, I answer it. If someone walks in who looks like they're looking for me by name, I come out from the back.",
+      "rationale": "I do not yet have official confirmation that I am on any task force, but the pieces are there — Maria's office, the grant program, the fact that she knows Auto Row and she knows me. I have information that a city economist does not have: I know what the workers are saying at the counter, I know which shop owners are scared and which are acting like everything is fine, I know what the real mood on this street is. That's worth something to a task force. I should not be hard to reach today.",
+      "timeline": "All day, phone on, step away from grill if needed",
+      "expected_outcome": "If Maria or her office calls, I am prepared to have a real conversation — not just a polite one. I know what's happening on this street. I should say so."
+    },
+    {
+      "action_id": 4,
+      "description": "After close, do a quiet menu and hours review. Not a dramatic cut — a surgical look at what costs me the most and delivers the least margin. Specifically: any prep items I'm making that don't sell out by 2pm are candidates to reduce or cut. Not customer-facing changes yet, just kitchen discipline.",
+      "rationale": "Spending index 76 means my customers are already pulling back. I see it in the orders — fewer upgrades, more coffee-only stops, more people splitting a plate. That is not paranoia, that is Tuesday's receipts. I cannot raise prices in this environment. What I can do is reduce waste on the prep side without touching anything the customer sees. If I trim $80-100/month in unsold prep, that extends my $232 surplus without a single customer noticing.",
+      "timeline": "Tonight, after 8pm close",
+      "expected_outcome": "A short list of 2-3 prep items to scale back starting next week. No public-facing changes. Keeps the diner looking and feeling exactly the same while quietly tightening the kitchen."
+    },
+    {
+      "action_id": 5,
+      "description": "Call my produce supplier before end of business today. Not to renegotiate — just to touch base, confirm next week's order, and let him know I am still here and planning ahead. Keep the relationship warm.",
+      "rationale": "When small businesses start to fail, suppliers are the first to feel the warning signs — slow payments, reduced orders, cancelled deliveries. I am not in that position and I do not want my supplier to wonder. A three-minute call that says 'same order, same schedule, see you Thursday' is worth more than its cost. Supplier trust is the kind of thing you build in good times and spend in bad ones. I am still in good times, relatively. I should act like it.",
+      "timeline": "Today, before 5pm",
+      "expected_outcome": "Continued reliable supply relationship. Supplier has no reason to deprioritize my account. The call costs nothing."
+    }
+  ],
+  "decisions": {
+    "reduce_hours": false,
+    "reduce_menu_publicly": false,
+    "kitchen_prep_discipline": true,
+    "catering_outreach_convert_to_commitment": true,
+    "grant_status": "applied_awaiting_response",
+    "roboride_opportunity_assessment": "observing_today",
+    "task_force_availability": true,
+    "supplier_contact": true
+  },
+  "updated_state": {
+    "stress_level": 0.26,
+    "agency": 0.80,
+    "grief_stage": "none",
+    "savings_delta": 116
+  },
+  "internal_monologue": "RoboRide is live today and I'm watching out the window between the coffee station and the register, and so far what I see is the same people I always see — but they're talking about it like it just landed from another planet, which I suppose it did. I filed the grant. I can't make it move faster. What I can do is go find out from Manny whether he wants lunches next week or not, because a plan that's been sitting in my head for two weeks needs to either become real or get crossed off the list. I've been in this building since 1993 and I've never waited for someone else to tell me what my diner needs — I'm not starting now.",
+  "archetype_self_assessment": "adapter in motion — the sign went up, the paperwork went in, now I'm making the call I've been putting off"
+}

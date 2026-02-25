@@ -1,0 +1,70 @@
+{
+  "tick": 3,
+  "agent_id": "parking_garage_mgr",
+  "agent_name": "Denise Williams",
+  "current_state_summary": {
+    "threat_level": 0.52,
+    "runway_months": 6.3,
+    "savings": 22083,
+    "stress_level": 0.22,
+    "primary_concern": "RoboRide is live today. Adoption is 3% — that is a number I can still work with. The concept note I wrote last tick is not a note anymore. It is the opening of a business conversation that I need to put in front of the building owner this week, with real numbers behind it. The time for concepts is over."
+  },
+  "threat_assessment": {
+    "immediate": "RoboRide launched at $0.18/mile. That is 15-minute wait, main roads only, 3% adoption — still early. My garage utilization is probably unchanged today. But I am not managing today. I am managing the 4-month trajectory. Every RoboRide trip that replaces a car trip is one fewer parking event. The launch is not the crisis — the adoption curve is. I need to be repositioning the garage's revenue model and repositioning myself before that curve bends upward.",
+    "horizon_2mo": "Adoption at 3% growing toward 8-12% by tick 5-6 if Phase 2 deployment follows sector patterns. Monthly permit holders start running the math on what they spend versus what RoboRide costs per month. Commercial district workers are exactly the demographic that will trial RoboRide first — they have predictable commutes and the commercial zone is already in RoboRide's service area. My daily transient revenue is the first number to move. I need the EV charging proposal in front of the owner now, before the revenue data starts telling a bad story.",
+    "horizon_6mo": "If I have not made a move by month 6, I am competing against every displaced worker in Millfield for operations and facilities management jobs, with a resume that has 'parking garage' at the top of it and an employer whose financials are declining. The window where I am still seen as someone proactively transitioning — rather than someone fleeing a sinking operation — is approximately right now. Angela Wright just accepted a restructuring role with a 90-day end date. David Chen is making some kind of change. People around me are moving. That is not panic-inducing; it is calibrating. The ones who move early move on their terms."
+  },
+  "hierarchy_priority": "L2_PARTICIPATE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Convert the concept note into a formal one-page business proposal for the building owner. Specific numbers: Millfield currently has approximately 847 registered EVs (estimate from DMV data trend + county EV adoption rate of 4.2%). Level 2 commercial EV chargers cost $3,000-$6,000 per unit installed including electrical work. DC fast chargers cost $15,000-$40,000 per unit. A 4-unit Level 2 installation on the lower level runs approximately $18,000-$24,000 total, or $20,000 as the working number. Per-charge revenue at market rate ($0.25-$0.35/kWh) on a 40kWh average session = $10-$14 per charge. At 8 sessions per unit per day across 4 units: $320-$448 daily gross, or $9,600-$13,400/month. Net of electricity cost (roughly 40% margin) = $5,760-$8,040/month new revenue. Payback on $20,000 installation: 2.5-3.5 months. Propose to owner: designate lower level bays 1-8 for EV charging, upper deck bays A1-A6 as RoboRide staging/pickup zone with signage. Contact RoboRide operations through their fleet partnership inquiry page to ask about contracted parking agreements for vehicle staging between trips.",
+      "rationale": "The concept is solid. The numbers work. But a concept note sitting in my files does nothing — it needs to be on the owner's desk as a formal proposal with ROI projections they can take to a lender or capital budget. I am not asking the owner to be visionary; I am giving them a 2.5-month payback calculation and a new revenue line in a period where their old revenue line is about to soften. That is a conversation a building owner will have. Also: if the owner implements this and it succeeds, I have a concrete case study — 'I identified a $5,760-$8,040/month revenue opportunity and designed the operational model' — that I can use in every property management interview I have for the next three years.",
+      "timeline": "Draft complete by Tuesday evening. Meeting with owner requested by Wednesday morning. Proposal delivered before end of the week.",
+      "expected_outcome": "Owner agrees to explore the proposal. RoboRide fleet partnership inquiry submitted. At minimum, I have a documented, numbered proposal in my portfolio regardless of outcome."
+    },
+    {
+      "action_id": 2,
+      "description": "Track today's garage utilization as a formal baseline data point. Pull the entry/exit log for the last 14 days and calculate daily average occupancy rate, peak hours, and transient versus permit holder split. Record today's numbers specifically. This is the start of a time series that will tell the real story of RoboRide's impact on my facility — and it gives me operational data I can reference in the EV proposal ('current utilization rate is X%, peak-hour conversion to EV charging represents Y% of existing capacity').",
+      "rationale": "A manager who shows up to a business conversation with data is different from one who shows up with a feeling. The owner, any potential acquirer, any future employer, and any grant committee will all respond better to 'occupancy data over 14 days shows transient volume peaked at 91% in weeks 1-2 and we are watching for trend deviation post-RoboRide launch' than to 'things seem about the same.' I am building the documentation habit I will need whether I stay and run this conversion or leave and reference it in interviews. The data costs me 45 minutes today.",
+      "timeline": "Pull logs today. Baseline record filed by end of day.",
+      "expected_outcome": "Clean utilization baseline with 14-day trend. Incorporated into the EV proposal as supporting data. Running record established for weekly tracking going forward."
+    },
+    {
+      "action_id": 3,
+      "description": "Follow up on the $2,500 retraining grant application submitted last tick. Check millfield.gov/grants for status. If no status update is available online, call the office directly and ask for a processing timeline. While I have them on the phone, ask a specific question: does the grant cover Yardi Voyager property management software certification ($800) and OSHA 30-hour Facilities Management track ($400) as standalone online certifications, or does it require enrollment in an accredited institution? If it covers both, I can begin enrollment immediately and submit receipts for reimbursement. If it requires institutional enrollment, I need to know now so I can identify an accredited program that offers both.",
+      "rationale": "The grant is money I applied for last tick and have not yet confirmed. Following up is a 20-minute task that either unlocks $2,500 or tells me to stop waiting and front the cost myself — both of which are better outcomes than continuing to not know. The Yardi certification specifically is the single most actionable credential gap I have relative to property management job postings. Every week I wait to start it is a week my applications go in without it.",
+      "timeline": "Phone call or web check by Wednesday.",
+      "expected_outcome": "Grant status confirmed. Either: (a) approved, enrollment begins immediately, or (b) timeline clarified, allowing me to decide whether to front the cost."
+    },
+    {
+      "action_id": 4,
+      "description": "Submit 3 targeted job applications this tick, specifically chosen to leverage the EV charging / facility conversion angle as a differentiator. Target roles: (1) Commercial Property Operations Manager at a regional REIT that manages mixed-use and retail portfolios — frame the application around infrastructure management under market disruption. (2) Facilities Director at the Millfield Regional Medical Center — healthcare facilities are not disrupted by RoboRide, are actively hiring operations talent, and my compliance and safety background translates directly. (3) Municipal Infrastructure and Facilities Coordinator — the town hall gave me contact exposure; the Maria Santos session put my name in front of city staff as a subject-matter voice, not just a community member.",
+      "rationale": "Nine applications are in the pipeline from last tick. Adding three this tick maintains momentum and — more importantly — these three are chosen specifically because I now have a differentiating narrative. I am not just a parking garage manager looking for a lateral move. I am an operations manager who identified a $5K-$8K/month infrastructure conversion opportunity in response to market disruption and is executing it. That is a different cover letter than anything I could have written at tick 1. The EV proposal gives me a story. Stories get interviews.",
+      "timeline": "Applications submitted by Friday.",
+      "expected_outcome": "3 new applications submitted, each featuring the EV/RoboRide infrastructure angle. Combined with the tick 2 pipeline, 12 total applications active. Expecting 1-2 first-round requests to materialize from the combined pool by end of next tick."
+    },
+    {
+      "action_id": 5,
+      "description": "Read the full community bulletin from the town hall. Angela Wright accepted Patricia's restructuring architect role — 90-day end date. David Chen is making some kind of change. Note what others are doing and where the adaptation patterns are clustering. Specifically: identify which Millfield employers appear to be growing or restructuring (those are the ones creating openings), and note any sector that is actively absorbing displaced workers. Also check whether RoboRide's commercial zone coverage means my garage is now inside or adjacent to a RoboRide pickup zone — because if it is, that strengthens the staging/charging proposal significantly.",
+      "rationale": "I attended the town hall to get information I can act on. Angela's move tells me the restructuring economy is creating roles — and that people are moving. David Chen's change is incomplete information but signals that the adaptation wave is real and immediate among people I know. The bulletin is intelligence. Managers use intelligence. I am spending 30 minutes reading it carefully rather than skimming it once and moving on.",
+      "timeline": "Read and annotate bulletin today.",
+      "expected_outcome": "Specific actionable intelligence extracted: growth employers, displacement patterns, RoboRide service zone boundary relative to my garage address. Inform which job leads to prioritize and whether to accelerate the RoboRide staging proposal."
+    }
+  ],
+  "decisions": {
+    "ev_charging_proposal": "Yes — this tick. Proposal goes to the owner with numbers: $20,000 installation estimate, 2.5-3.5 month payback, $5,760-$8,040/month net new revenue projection. Not a concept note. A proposal. I am also initiating contact with RoboRide's fleet partnership team about contracted staging agreements.",
+    "grant_follow_up": "Follow up Wednesday. If approved: begin Yardi Voyager and OSHA certifications immediately. If not yet processed: ask for timeline. If rejected: front the $1,200 myself and recover it from the next paycheck.",
+    "job_applications": "Three targeted applications this tick, each leveraging the EV infrastructure conversion narrative as a differentiator. Maintain the existing 9-application pipeline from tick 2 with follow-up emails. Total active pipeline: 12 applications.",
+    "garage_data": "Establish formal utilization baseline today. Pull 14-day log. Begin weekly tracking. This data serves the EV proposal, potential future severance negotiation, and interview case study.",
+    "roboride_assessment": "3% adoption at launch is early. My garage is not in crisis today. But I am treating today as the start of the clock, not the end of the warning period. The goal is to have either a signed job offer or a board-approved EV conversion plan — preferably both — before adoption crosses 10%."
+  },
+  "updated_state": {
+    "stress_level": 0.21,
+    "agency": 0.74,
+    "grief_stage": "none",
+    "savings_delta": 722
+  },
+  "internal_monologue": "RoboRide is live and I have a proposal with numbers on it — that is not a coincidence, that is timing. The concept note becomes a business proposal this week, the grant either unlocks or I fund it myself, and three more applications go out with a story attached that I did not have two ticks ago. I manage a physical building; I understand what it takes to retrofit infrastructure, run vendor contracts, and hit a budget. That is exactly what EV charging conversion requires, and it is exactly what property management firms hire for. The garage launched my next chapter. I just have to close it.",
+  "archetype_self_assessment": "operator turning disruption into a portfolio"
+}

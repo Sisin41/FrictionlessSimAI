@@ -1,0 +1,62 @@
+{
+  "tick": 3,
+  "agent_id": "car_wash_worker",
+  "agent_name": "Miguel Hernandez",
+  "current_state_summary": {
+    "threat_level": 0.91,
+    "runway_months": 1.3,
+    "savings": 2793,
+    "stress_level": 0.19,
+    "primary_concern": "Runway is still at 1.3 months and the $131 monthly savings growth is not moving the needle fast enough. RoboRide just went live. I need a higher-paying job before the car wash math gets worse."
+  },
+  "threat_assessment": {
+    "immediate": "1.3 months runway with $263/month surplus. That's the whole buffer. One bad week — a missed shift, a car repair, an unexpected bill — and I'm behind. The car wash outcome from last tick was just 'routine' — which means none of the things I planned actually resolved: no confirmed roommate, no car decision closed. I've been spinning actions without outcomes.",
+    "horizon_2mo": "RoboRide at $0.18/mile is live today. 3% adoption now but this accelerates. Fewer personal car trips means fewer people bringing cars in to be washed. Car wash volume will start softening within weeks. Consumer spending index is already 76 — people are cutting back. My hours could get trimmed before I have another job lined up. Employment is 93% and falling, which means every warehouse and service job is getting more competitive.",
+    "horizon_6mo": "If I stay at the car wash with no roommate and no new job, I run out of buffer entirely. Six months from now the car wash sector is a worse place to be than it is today. I need to be somewhere else before then. The window to get hired is now — when I'm still employed, not when I'm scrambling."
+  },
+  "hierarchy_priority": "L0_SURVIVE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Apply to 3 jobs this week — warehouse associate, facilities maintenance, and any customer service or dispatch role paying above $14/hr. Use Indeed and walk in to the warehouse district near the highway. Submit applications today and tomorrow.",
+      "rationale": "Three ticks of actions and the outcome has been 'routine' every time. The job applications from last tick produced no visible result yet — either they didn't happen or the pipeline is slow. I need to move applications from intention to actual submissions with timestamps. Warehouse and maintenance work is insulated from RoboRide disruption. If I get even one offer at $16-18/hr, my surplus doubles and the runway pressure lifts. I have a 746 credit score and a clean record — I'm a hireable person. I just need to actually submit the applications.",
+      "timeline": "Today and tomorrow — 3 applications submitted. Follow up by end of week.",
+      "expected_outcome": "2-3 interviews within 2 weeks. Possible offer in 3 weeks. Income above $2,400/month once landed."
+    },
+    {
+      "action_id": 2,
+      "description": "Find the retraining grant information. I've heard Maria Santos is working on something through the town — I'll check millfield.gov or ask a coworker or neighbor if they've seen anything posted. I'm not signing up for a 2-year program but a $2,500 grant could cover a short certification that makes me more hireable.",
+      "rationale": "I don't have a URL or a flyer but this information is floating around. Someone at work or in the building has seen it. A $2,500 grant is real money when my total savings is $2,793 — that's nearly doubling my buffer. Even if the retraining takes a few months, knowing the option exists changes my planning horizon. I'm not going to enroll today but I need to know what's available before I need it.",
+      "timeline": "This week — ask around, check the town website, get the details.",
+      "expected_outcome": "Confirmed understanding of grant eligibility. Decision on whether to apply within the week."
+    },
+    {
+      "action_id": 3,
+      "description": "Evaluate the car situation with RoboRide now live. Run the math: my car payment is $371/month. RoboRide at $0.18/mile — if I'm doing roughly 600 miles a month for commuting and errands, that's $108/month. I still need the car for job interviews and flexibility while I'm actively searching. Hold off on selling for now but make the decision timeline explicit: if I have a new job offer within 30 days, reassess then.",
+      "rationale": "RoboRide launching changes the car math but doesn't make it a sell-today situation. I need the car for interviews — showing up to a warehouse at 6am on a 15-minute-wait rideshare is not reliable enough. But I should know the number: $371/month vs. what RoboRide would actually cost me. Once I have a new job with a defined commute, the sell decision gets easier. Right now the car is a job-search tool.",
+      "timeline": "This week — run the numbers. Revisit sell decision within 30 days or upon job offer.",
+      "expected_outcome": "Clear hold-or-sell threshold established. Car retained through active job search period."
+    },
+    {
+      "action_id": 4,
+      "description": "Keep showing up to the car wash. Full shifts, no friction, no drama. Collect the $2,400/month until I have something better.",
+      "rationale": "I cannot afford a gap in income at 1.3 months runway. I don't like this job and I'm not attached to it, but quitting or coasting and getting fired would be the worst thing I could do right now. I stay professional, I keep the income, and I walk out the door with an offer in hand when that day comes.",
+      "timeline": "Ongoing — until a replacement income source is confirmed.",
+      "expected_outcome": "Income maintained at $2,400/month. No disruption to current cash flow."
+    }
+  ],
+  "decisions": {
+    "job_search": "Move from planning to actual submissions. Three applications this week, not 'planning to apply.' Warehouse, maintenance, any role above $14/hr within commuting distance. Walk in if online doesn't work.",
+    "retraining_grant": "Pursue the information, not the commitment. Find out what Maria Santos has set up, what the eligibility requirements are, and whether a short certification makes sense. A $2,500 grant is worth an afternoon of research.",
+    "car_decision": "Hold. RoboRide is live but I need the car for interviews. The sell decision happens when I have a confirmed new job and a stable commute. Not before.",
+    "current_employment": "Stay at the car wash. Full effort, no disruption. Paycheck is the only thing standing between me and burning through savings."
+  },
+  "updated_state": {
+    "stress_level": 0.19,
+    "agency": 0.63,
+    "grief_stage": "none",
+    "savings_delta": 263
+  },
+  "internal_monologue": "RoboRide went live today and honestly my first thought was: okay, so the car wash is going to get slower, I already knew that was coming. The more pressing thing is that I've been saying 'I'm going to apply to jobs' for two ticks now and the outcome log just says 'routine' every time — which means I haven't closed anything. This week I'm actually submitting applications, not planning to. The grant thing is also worth tracking down — someone at work probably knows about it. I keep the car for now because I need it for interviews, and I keep the car wash job because the math doesn't work without it.",
+  "archetype_self_assessment": "Pragmatic Transitioner — still moving, still not panicking, but I need to convert intentions into outcomes now."
+}

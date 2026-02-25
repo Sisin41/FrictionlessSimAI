@@ -1,0 +1,69 @@
+{
+  "tick": 3,
+  "agent_id": "community_organizer",
+  "agent_name": "Lisa Freeman",
+  "current_state_summary": {
+    "threat_level": 0.12,
+    "runway_months": 6.4,
+    "savings": 21086,
+    "stress_level": 0.22,
+    "primary_concern": "Scaling center capacity fast enough to meet the intake surge RoboRide's launch will trigger — and making sure community members actually reach the grants before they burn through their own savings first"
+  },
+  "threat_assessment": {
+    "immediate": "RoboRide is live today. That means workers who have been waiting in anxious suspension now face the concrete fact of the thing. My drop-in numbers will spike within two weeks — not gradually, suddenly. I need a grant drop-in event up before the surge, not during it.",
+    "horizon_2mo": "The task force will produce recommendations. Whether those recommendations include the community center as an implementation node depends on what I bring to the first meeting and how I position the center's existing data infrastructure. If I am passive at that table, we become a footnote. The risk at two months is not my personal security — it is that the programs Maria designed land in Millfield without a functional distribution mechanism and the people who most need them don't find them.",
+    "horizon_6mo": "My role security is solid — 0.71 and rising, because community services are counter-cyclical. My real six-month risk is operational: if intake overwhelms center capacity and I have no additional funding, I become a triage nurse in a hallway instead of a director with a program. The $5K small business grant and any operational support from task force recommendations are the buffer I need."
+  },
+  "hierarchy_priority": "L2_PARTICIPATE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Prepare a task force briefing packet for the first meeting: current intake data trends, projected surge model (30/50/100% demand increase scenarios built in tick 1 capacity audit), map of which worker populations in my intake logs are highest-risk based on sector and income, and a concrete proposal for how the community center functions as a grant distribution and application-assistance node. Bring three specific asks: shared intake data from other task force members to cross-reference my population picture, confirmation of whether the center qualifies for the operational support component of Maria's workforce fund, and a standing agenda item at each task force meeting for ground-level feedback from the community.",
+      "rationale": "I have been the person with ground-level data since tick 1. At the task force table, that data becomes institutional — it shapes program design, not just program awareness. If I walk in with a briefing packet and the others walk in with opinions, I set the terms of what evidence looks like. My grant_writing skill and my intake logs are the two assets no one else at that table has. I need to use both before the first meeting, not during it.",
+      "timeline": "Packet complete before the task force's first convening. I will contact Maria within 24 hours to confirm timing and agenda structure.",
+      "expected_outcome": "Community center is formally named in task force documentation as a distribution and application-assistance node for the $2,500 and $5K grants. My intake data becomes part of the task force's evidentiary baseline. I learn what data Sandra, Carlos, Betty, and Maria each hold so I can fill gaps rather than duplicate effort."
+    },
+    {
+      "action_id": 2,
+      "description": "Schedule and announce a dedicated grant drop-in event at the community center: 'Millfield Workers: Get Your Retraining Grant.' Two sessions — one weekday evening, one Saturday morning — within the next 10 days. Format: open door, no appointment, Lisa or a trained volunteer walks each visitor through millfield.gov/grants eligibility and application step by step. Printed plain-language guides available in English and Spanish. Track every person assisted: name (optional), grant tier they qualify for, application completed yes/no, barriers encountered.",
+      "rationale": "The $2,500 retraining grants exist. The $5K grants exist. The people who most need them are the people least likely to navigate a government website alone while under financial stress. I have the link, the forms, the language, and the trust. The barrier between eligible and applied is not bureaucratic — it is informational and emotional. I remove that barrier. The tracking data I generate here becomes the proof-of-distribution narrative for my next grant cycle and for the task force.",
+      "timeline": "Dates set and announced via community center channels within 48 hours. First session within 10 days.",
+      "expected_outcome": "20-35 community members assisted with grant applications across two sessions. Estimated $50,000–$87,500 in grant funding flowing into Millfield households as direct result. Zero-cost to the center beyond 6–8 hours of facilitation time. Data collected becomes task force evidence and grant narrative."
+    },
+    {
+      "action_id": 3,
+      "description": "Review intake logs from all Community Connection Night sessions (ticks 1-2) and flag highest-risk individuals: workers in auto sector adjacent employment, gig workers with no retraining savings, households with dependents and single income. Do not wait for them to come back in. Reach out directly — phone or text where I have contact — to let them know the grants are live, the sessions are happening, and I can help them apply. Personal outreach, not a mass email. 10-15 people this week.",
+      "rationale": "Harold is not going to search millfield.gov on his own. The woman who would not give her name but took the handout — she is exactly the person the $2,500 grant was designed for, and exactly the person least likely to self-navigate to it. I have their contact information or I know where they will be on Tuesday. The difference between a grant that helps people and a grant that technically exists is someone making a direct, low-barrier connection. That is me. This is the job.",
+      "timeline": "Outreach list compiled today. Personal contact made within 72 hours for highest-risk individuals.",
+      "expected_outcome": "8-12 high-risk individuals directly connected to grant sessions or application assistance. Several will be the same people who showed up in my intake data that informed Maria's policy — closing the loop between data and impact."
+    },
+    {
+      "action_id": 4,
+      "description": "Contact Maria Santos today to confirm task force meeting date, propose an agenda structure, and raise one specific operational question: does the community center qualify for the $5K small business/organizational grant for use as operational support during the transition surge? If not, ask what the pathway is. Keep the ask clean — one question, not a long proposal. I have demonstrated delivery (the data report was on time and thorough). I can ask for something now.",
+      "rationale": "I delivered what Maria asked for. That creates a small but real account balance. I should use it before it depreciates. The $5K grant applied to center operations — additional volunteer coordination hours, printed materials, extended drop-in coverage — would let me absorb the intake surge without running my own budget thin. If the answer is yes, I apply this week. If the answer is no, I ask what does qualify, and I file that instead. Either way I get information I can act on.",
+      "timeline": "Message sent to Maria within 24 hours.",
+      "expected_outcome": "Task force first meeting date and preliminary agenda confirmed. Clarity on center grant eligibility. Either a direct application pathway for $5K operational support or an alternative funding mechanism identified."
+    },
+    {
+      "action_id": 5,
+      "description": "Start a real-time community impact log — a running internal document that tracks, tick by tick: intake volume, grant applications assisted, referrals made, worker outcomes where I have follow-up data, and resource gaps I am seeing that programs have not addressed yet. This is not a public document. It is institutional memory and future grant evidence. Updated after every Community Connection Night session.",
+      "rationale": "I have been the person who sees what the economy does to actual people before anyone has data about it. That visibility is only an asset if I capture it. The task force will want quarterly reports. Future grant applications will need outcome data. When Maria or the council asks 'is this working?' I want to be able to say: here are 47 people who applied for grants through the center, here is what they qualified for, here are the 8 whose situations fell outside every available program. The gaps are as important as the wins. No one else is going to track the gaps.",
+      "timeline": "Document structure created today. First entries populated from ticks 1-2 intake data. Ongoing.",
+      "expected_outcome": "Living evidence base that supports grant renewals, task force credibility, and — critically — visibility into where the safety net has holes so I can advocate for filling them rather than absorbing them silently."
+    }
+  ],
+  "decisions": {
+    "task_force_role": "Active contributor, not observer. I bring data, I propose agenda structure, I ask for what the center needs. I do not sit in that room as the community representative who nods and reports back — I sit there as the person with the best ground-level data set and an operational platform the other members do not have.",
+    "grant_drop_in_format": "Open door, low barrier, no appointment. Weekday evening plus Saturday morning. I facilitate or I train a volunteer to facilitate. The format is designed for Harold, not for the person who was already going to find the website on their own.",
+    "personal_grant_application": "Apply for the $5K operational support grant if the center qualifies. This is not self-dealing — the center is the distribution mechanism the task force programs need. Funding the center's capacity is functionally identical to funding the programs. I am not embarrassed to make this case.",
+    "proactive_vs_reactive": "Proactive. RoboRide is live. The wave is not coming — it is here. Every day I wait for people to find me is a day someone qualified does not apply."
+  },
+  "updated_state": {
+    "stress_level": 0.22,
+    "agency": 0.61,
+    "grief_stage": "none",
+    "savings_delta": 724
+  },
+  "internal_monologue": "RoboRide went live this morning and I felt it land — not as dread, as signal. The thing I have been preparing for is now the thing that is actually happening, and there is something clarifying about that. I have a task force seat, I have intake data, I have the link and the forms and the Tuesday night relationships. What I do not have is time to wait for the right moment. The right moment is now, and it looks like scheduling two grant sessions before the end of the week, texting Harold today, and asking Maria one specific question about operational funding before I talk myself into waiting until I have a better framing. The bridge is carrying weight. I need to make sure it keeps carrying weight. That means I stop admiring the architecture and start checking the load-bearing points.",
+  "archetype_self_assessment": "Bridge-builder under live load — and the load just doubled. The span holds. The question now is whether I can widen it fast enough."
+}
