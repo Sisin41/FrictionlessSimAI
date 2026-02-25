@@ -1,0 +1,47 @@
+{
+  "optimization_protocol": "At each tick, agent evaluates threat from L0 upward. The LOWEST threatened level becomes primary optimization target. All resources and cognitive energy flow to stabilizing that level before any higher-level optimization occurs.",
+  "levels": [
+    {
+      "level": 0, "name": "SURVIVE",
+      "description": "Basic needs: food, shelter, safety. Non-negotiable.",
+      "variables": ["runway_months", "threat_level"],
+      "behavior_when_threatened": "Panic, hoard, seek any income source, government dependency"
+    },
+    {
+      "level": 1, "name": "STABILIZE",
+      "description": "Financial cushion, risk mitigation, buffer maintenance.",
+      "variables": ["savings_buffer_months", "debt_load_ratio", "insurance_coverage"],
+      "behavior_when_threatened": "Cut discretionary spending, liquidate assets, seek stable employment"
+    },
+    {
+      "level": 2, "name": "PARTICIPATE",
+      "description": "Economic participation: having a role, being productive, earning.",
+      "variables": ["employment_status", "skill_relevance", "role_security", "network_strength"],
+      "behavior_when_threatened": "Retrain, pivot careers, gig work, side hustles, identity crisis"
+    },
+    {
+      "level": 3, "name": "CONSUME",
+      "description": "Non-essential purchases: cars, dining, travel, entertainment.",
+      "variables": ["discretionary_budget", "consumption_patterns", "substitution_willingness"],
+      "behavior_when_threatened": "Downgrade purchases, substitute cheaper alternatives, sharing economy"
+    },
+    {
+      "level": 4, "name": "SIGNAL",
+      "description": "Status display: luxury goods, credentials, memberships, neighborhood.",
+      "variables": ["status_anxiety", "reference_group", "current_signals"],
+      "behavior_when_threatened": "Status anxiety, fake signaling, withdrawal from social comparison"
+    },
+    {
+      "level": 5, "name": "BUILD",
+      "description": "Long-term creation: businesses, investments, legacy, education.",
+      "variables": ["future_orientation", "investment_portfolio", "entrepreneurial_drive"],
+      "behavior_when_threatened": "Defer investments, short-term thinking, loss of future orientation"
+    },
+    {
+      "level": 6, "name": "TRANSCEND",
+      "description": "Existential: meaning, purpose, creativity, community, philosophy.",
+      "variables": ["meaning_source", "purpose_stability", "community_ties"],
+      "behavior_when_threatened": "Nihilism, hedonism, radical movements, religious revival, new ideologies"
+    }
+  ]
+}

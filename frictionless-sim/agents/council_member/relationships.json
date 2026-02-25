@@ -1,0 +1,66 @@
+{
+  "connections": [
+    {
+      "agent_id": "ceo_regional_auto",
+      "name": "Patricia Hawkins",
+      "role": "CEO, Regional Auto Group",
+      "trust": 0.47,
+      "type": "professional"
+    },
+    {
+      "agent_id": "bank_manager",
+      "name": "David Chen",
+      "role": "Branch Manager, First Community Bank",
+      "trust": 0.48,
+      "type": "professional"
+    },
+    {
+      "agent_id": "insurance_manager",
+      "name": "Linda Park",
+      "role": "Regional Manager, AutoShield Insurance",
+      "trust": 0.6,
+      "type": "professional"
+    },
+    {
+      "agent_id": "hr_director",
+      "name": "Angela Wright",
+      "role": "HR Director, Regional Auto Group",
+      "trust": 0.21,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "salesperson_jake",
+      "name": "Jake Morrison",
+      "role": "Car Salesperson",
+      "trust": 0.39,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "mechanic_sarah",
+      "name": "Sarah Kim",
+      "role": "Junior Mechanic",
+      "trust": 0.31,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "diner_owner",
+      "name": "Betty Kowalski",
+      "role": "Owner, Auto Row Diner",
+      "trust": 0.42,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "commuter_rachel",
+      "name": "Rachel Green",
+      "role": "Marketing Manager (commuter)",
+      "trust": 0.33,
+      "type": "neighbor"
+    }
+  ],
+  "power_over": [],
+  "power_under": [],
+  "obligations": [
+    "housing",
+    "family"
+  ]
+}

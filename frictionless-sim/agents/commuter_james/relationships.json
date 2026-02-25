@@ -1,0 +1,66 @@
+{
+  "connections": [
+    {
+      "agent_id": "mechanic_carlos",
+      "name": "Carlos Ruiz",
+      "role": "Master Mechanic",
+      "trust": 0.43,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "mechanic_sarah",
+      "name": "Sarah Kim",
+      "role": "Junior Mechanic",
+      "trust": 0.5,
+      "type": "professional"
+    },
+    {
+      "agent_id": "insurance_agent_priya",
+      "name": "Priya Sharma",
+      "role": "Insurance Agent",
+      "trust": 0.42,
+      "type": "professional"
+    },
+    {
+      "agent_id": "loan_officer",
+      "name": "Kevin O'Brien",
+      "role": "Auto Loan Officer",
+      "trust": 0.34,
+      "type": "professional"
+    },
+    {
+      "agent_id": "driving_instructor",
+      "name": "Frank Russo",
+      "role": "Driving School Owner",
+      "trust": 0.41,
+      "type": "professional"
+    },
+    {
+      "agent_id": "single_parent",
+      "name": "Nicole Washington",
+      "role": "Nurse (single parent)",
+      "trust": 0.21,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "parts_store_owner",
+      "name": "Howard Liu",
+      "role": "Owner, Auto Parts Store",
+      "trust": 0.6,
+      "type": "professional"
+    },
+    {
+      "agent_id": "rideshare_driver",
+      "name": "Robert Jackson",
+      "role": "Rideshare Driver",
+      "trust": 0.37,
+      "type": "professional"
+    }
+  ],
+  "power_over": [],
+  "power_under": [],
+  "obligations": [
+    "housing",
+    "family"
+  ]
+}

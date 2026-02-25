@@ -1,0 +1,15 @@
+{
+  "simulation_name": "millfield_car_economy_v1",
+  "description": "30-agent car micro-economy under autonomous transport disruption. Single locality: Millfield.",
+  "tick_unit": "1 month",
+  "current_tick": 0,
+  "max_ticks": 24,
+  "reflection_interval": 3,
+  "model": "claude-sonnet-4-20250514",
+  "observer_model": "claude-sonnet-4-20250514",
+  "max_tokens_agent": 2000,
+  "max_tokens_observer": 4000,
+  "parallel_batch_size": 5,
+  "seed_money_supply": 1500000,
+  "scenario": "autonomous_transport"
+}

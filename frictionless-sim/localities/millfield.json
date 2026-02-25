@@ -1,0 +1,35 @@
+{
+  "name": "Millfield",
+  "population": 30,
+  "cost_of_living_index": 1.0,
+  "industry_mix": {
+    "retail_auto": 0.3,
+    "service": 0.15,
+    "insurance": 0.1,
+    "finance": 0.08,
+    "fuel": 0.05,
+    "transport": 0.1,
+    "other": 0.22
+  },
+  "community_cohesion": 0.65,
+  "unemployment_rate": 0.04,
+  "avg_monthly_income": 5400,
+  "local_multiplier": 3.5,
+  "local_cascade_sensitivity": 0.7,
+  "price_index": {
+    "housing": 1.0,
+    "food": 1.0,
+    "transport": 1.0,
+    "services": 1.0,
+    "auto_related": 1.0
+  },
+  "policy_environment": {
+    "retraining_programs": false,
+    "transition_fund_available": false,
+    "transition_fund_monthly": 0,
+    "tax_incentives": false
+  },
+  "gini_coefficient": 0.35,
+  "total_income": 162000,
+  "disrupted_agent_count": 0
+}

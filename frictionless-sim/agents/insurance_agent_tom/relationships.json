@@ -1,0 +1,97 @@
+{
+  "connections": [
+    {
+      "agent_id": "insurance_manager",
+      "name": "Linda Park",
+      "role": "Regional Manager, AutoShield Insurance",
+      "trust": 0.53,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "salesperson_jake",
+      "name": "Jake Morrison",
+      "role": "Car Salesperson",
+      "trust": 0.53,
+      "type": "professional"
+    },
+    {
+      "agent_id": "mechanic_carlos",
+      "name": "Carlos Ruiz",
+      "role": "Master Mechanic",
+      "trust": 0.6,
+      "type": "professional"
+    },
+    {
+      "agent_id": "insurance_agent_priya",
+      "name": "Priya Sharma",
+      "role": "Insurance Agent",
+      "trust": 0.7,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "diner_owner",
+      "name": "Betty Kowalski",
+      "role": "Owner, Auto Row Diner",
+      "trust": 0.49,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "commuter_james",
+      "name": "James Patterson",
+      "role": "Software Developer (commuter)",
+      "trust": 0.54,
+      "type": "professional"
+    },
+    {
+      "agent_id": "retiree",
+      "name": "Dorothy Chen",
+      "role": "Retired Teacher",
+      "trust": 0.56,
+      "type": "professional"
+    },
+    {
+      "agent_id": "young_gig_worker",
+      "name": "Zoe Martinez",
+      "role": "Barista / Gig Worker",
+      "trust": 0.46,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "single_parent",
+      "name": "Nicole Washington",
+      "role": "Nurse (single parent)",
+      "trust": 0.44,
+      "type": "professional"
+    },
+    {
+      "agent_id": "rideshare_driver",
+      "name": "Robert Jackson",
+      "role": "Rideshare Driver",
+      "trust": 0.56,
+      "type": "professional"
+    },
+    {
+      "agent_id": "real_estate_agent",
+      "name": "Stephanie Morris",
+      "role": "Commercial Real Estate Agent",
+      "trust": 0.36,
+      "type": "professional"
+    },
+    {
+      "agent_id": "uber_driver_2",
+      "name": "Grace Okafor",
+      "role": "Part-time Rideshare Driver / Nursing Student",
+      "trust": 0.3,
+      "type": "professional"
+    }
+  ],
+  "power_over": [],
+  "power_under": [
+    "insurance_manager"
+  ],
+  "obligations": [
+    "housing",
+    "employment",
+    "family"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "tick": 1,
+  "capability_fact": {
+    "tick": 1,
+    "fact": "RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months.",
+    "type": "capability_announcement"
+  },
+  "ambient_fact": {
+    "tick": 1,
+    "fact": "RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months.",
+    "type": "capability_announcement"
+  }
+}

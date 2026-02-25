@@ -1,0 +1,73 @@
+{
+  "connections": [
+    {
+      "agent_id": "bank_manager",
+      "name": "David Chen",
+      "role": "Branch Manager, First Community Bank",
+      "trust": 0.44,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "mechanic_carlos",
+      "name": "Carlos Ruiz",
+      "role": "Master Mechanic",
+      "trust": 0.55,
+      "type": "professional"
+    },
+    {
+      "agent_id": "mechanic_sarah",
+      "name": "Sarah Kim",
+      "role": "Junior Mechanic",
+      "trust": 0.42,
+      "type": "professional"
+    },
+    {
+      "agent_id": "diner_owner",
+      "name": "Betty Kowalski",
+      "role": "Owner, Auto Row Diner",
+      "trust": 0.47,
+      "type": "professional"
+    },
+    {
+      "agent_id": "car_wash_worker",
+      "name": "Miguel Hernandez",
+      "role": "Car Wash Attendant",
+      "trust": 0.48,
+      "type": "professional"
+    },
+    {
+      "agent_id": "commuter_rachel",
+      "name": "Rachel Green",
+      "role": "Marketing Manager (commuter)",
+      "trust": 0.54,
+      "type": "professional"
+    },
+    {
+      "agent_id": "rideshare_driver",
+      "name": "Robert Jackson",
+      "role": "Rideshare Driver",
+      "trust": 0.76,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "community_organizer",
+      "name": "Lisa Freeman",
+      "role": "Community Center Director",
+      "trust": 0.39,
+      "type": "professional"
+    },
+    {
+      "agent_id": "uber_driver_2",
+      "name": "Grace Okafor",
+      "role": "Part-time Rideshare Driver / Nursing Student",
+      "trust": 0.8,
+      "type": "colleague"
+    }
+  ],
+  "power_over": [],
+  "power_under": [],
+  "obligations": [
+    "housing",
+    "family"
+  ]
+}

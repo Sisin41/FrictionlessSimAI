@@ -1,0 +1,98 @@
+{
+  "connections": [
+    {
+      "agent_id": "council_member",
+      "name": "Maria Santos",
+      "role": "Town Council Member",
+      "trust": 0.48,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "hr_director",
+      "name": "Angela Wright",
+      "role": "HR Director, Regional Auto Group",
+      "trust": 0.4,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "mechanic_sarah",
+      "name": "Sarah Kim",
+      "role": "Junior Mechanic",
+      "trust": 0.62,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "insurance_agent_priya",
+      "name": "Priya Sharma",
+      "role": "Insurance Agent",
+      "trust": 0.43,
+      "type": "professional"
+    },
+    {
+      "agent_id": "car_wash_worker",
+      "name": "Miguel Hernandez",
+      "role": "Car Wash Attendant",
+      "trust": 0.5,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "parking_garage_mgr",
+      "name": "Denise Williams",
+      "role": "Parking Garage Manager",
+      "trust": 0.43,
+      "type": "professional"
+    },
+    {
+      "agent_id": "truck_owner",
+      "name": "Dale Cooper",
+      "role": "Contractor (truck owner)",
+      "trust": 0.44,
+      "type": "professional"
+    },
+    {
+      "agent_id": "young_gig_worker",
+      "name": "Zoe Martinez",
+      "role": "Barista / Gig Worker",
+      "trust": 0.57,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "single_parent",
+      "name": "Nicole Washington",
+      "role": "Nurse (single parent)",
+      "trust": 0.45,
+      "type": "professional"
+    },
+    {
+      "agent_id": "auto_shop_teacher",
+      "name": "Mark Thompson",
+      "role": "High School Auto Shop Teacher",
+      "trust": 0.31,
+      "type": "professional"
+    },
+    {
+      "agent_id": "community_organizer",
+      "name": "Lisa Freeman",
+      "role": "Community Center Director",
+      "trust": 0.44,
+      "type": "professional"
+    },
+    {
+      "agent_id": "uber_driver_2",
+      "name": "Grace Okafor",
+      "role": "Part-time Rideshare Driver / Nursing Student",
+      "trust": 0.32,
+      "type": "neighbor"
+    }
+  ],
+  "power_over": [
+    "car_wash_worker",
+    "young_gig_worker"
+  ],
+  "power_under": [],
+  "obligations": [
+    "housing",
+    "employment",
+    "family"
+  ]
+}

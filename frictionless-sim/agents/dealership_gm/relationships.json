@@ -1,0 +1,94 @@
+{
+  "connections": [
+    {
+      "agent_id": "ceo_regional_auto",
+      "name": "Patricia Hawkins",
+      "role": "CEO, Regional Auto Group",
+      "trust": 0.72,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "council_member",
+      "name": "Maria Santos",
+      "role": "Town Council Member",
+      "trust": 0.4,
+      "type": "professional"
+    },
+    {
+      "agent_id": "insurance_manager",
+      "name": "Linda Park",
+      "role": "Regional Manager, AutoShield Insurance",
+      "trust": 0.58,
+      "type": "professional"
+    },
+    {
+      "agent_id": "hr_director",
+      "name": "Angela Wright",
+      "role": "HR Director, Regional Auto Group",
+      "trust": 0.85,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "salesperson_jake",
+      "name": "Jake Morrison",
+      "role": "Car Salesperson",
+      "trust": 0.83,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "salesperson_tamika",
+      "name": "Tamika Jefferson",
+      "role": "Car Salesperson",
+      "trust": 0.62,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "mechanic_carlos",
+      "name": "Carlos Ruiz",
+      "role": "Master Mechanic",
+      "trust": 0.56,
+      "type": "professional"
+    },
+    {
+      "agent_id": "mechanic_sarah",
+      "name": "Sarah Kim",
+      "role": "Junior Mechanic",
+      "trust": 0.35,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "gas_station_owner",
+      "name": "Amir Patel",
+      "role": "Gas Station Owner",
+      "trust": 0.53,
+      "type": "professional"
+    },
+    {
+      "agent_id": "loan_officer",
+      "name": "Kevin O'Brien",
+      "role": "Auto Loan Officer",
+      "trust": 0.56,
+      "type": "professional"
+    },
+    {
+      "agent_id": "parts_store_owner",
+      "name": "Howard Liu",
+      "role": "Owner, Auto Parts Store",
+      "trust": 0.55,
+      "type": "colleague"
+    }
+  ],
+  "power_over": [
+    "salesperson_jake",
+    "salesperson_tamika",
+    "parts_store_owner"
+  ],
+  "power_under": [
+    "ceo_regional_auto"
+  ],
+  "obligations": [
+    "housing",
+    "employment",
+    "family"
+  ]
+}

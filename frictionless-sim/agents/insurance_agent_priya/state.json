@@ -1,0 +1,123 @@
+{
+  "agent_id": "insurance_agent_priya",
+  "identity": {
+    "name": "Priya Sharma",
+    "age": 29,
+    "role": "Insurance Agent",
+    "tier": 3,
+    "sector": "insurance",
+    "narrative": "Auto insurance was my first job out of college. I can see the writing on the wall and I'm not scared of change.",
+    "identity_attachment": 0.25,
+    "dependents": 0,
+    "skills": [
+      "insurance",
+      "data_analysis",
+      "sales",
+      "tech_savvy"
+    ],
+    "skill_relevance": 0.4,
+    "historical_conditioning": [
+      {
+        "event": "covid_pandemic",
+        "response_pattern": "rapid_adaptation_or_freeze",
+        "lesson": "Remote work is possible. Government can provide. Disruption is sudden."
+      }
+    ]
+  },
+  "hierarchy": {
+    "L0_SURVIVE": {
+      "runway_months": 5,
+      "threat_level": 0.58,
+      "monthly_essentials": 2000
+    },
+    "L1_STABILIZE": {
+      "savings_buffer": 20000,
+      "debt_load_ratio": 0.17,
+      "insurance_coverage": "full"
+    },
+    "L2_PARTICIPATE": {
+      "employment_status": "employed",
+      "skill_relevance": 0.4,
+      "role_security": 0.89,
+      "network_strength": 0.54
+    },
+    "L3_CONSUME": {
+      "discretionary_budget": 1000,
+      "owns_car": true,
+      "car_payment_monthly": 0,
+      "substitution_willingness": 0.75
+    },
+    "L4_SIGNAL": {
+      "status_anxiety": 0.29,
+      "reference_group": "insurance"
+    },
+    "L5_BUILD": {
+      "future_orientation": 0.37,
+      "entrepreneurial_drive": 0.48
+    },
+    "L6_TRANSCEND": {
+      "meaning_source": "creativity",
+      "purpose_stability": 0.59,
+      "community_ties": 0.75
+    }
+  },
+  "perception": {
+    "world_state_awareness": "baseline",
+    "information_sources": [
+      "direct_experience",
+      "national_news",
+      "local_news"
+    ],
+    "cognitive_biases": {
+      "status_quo_bias": 0.64,
+      "normalcy_bias": 0.63,
+      "loss_aversion_multiplier": 2.5,
+      "availability_heuristic": 0.52,
+      "social_proof_sensitivity": 0.56
+    },
+    "sentiment": "neutral"
+  },
+  "psychological": {
+    "stress_level": 0.17,
+    "agency": 0.47,
+    "grief_stage": "none",
+    "temporal_horizon_months": 12
+  },
+  "financial": {
+    "monthly_income": 4000,
+    "monthly_expenses": 3341,
+    "savings": 20000,
+    "debt_total": 52825,
+    "credit_score": 717
+  },
+  "commitments": [
+    {
+      "type": "housing",
+      "description": "Mortgage/rent",
+      "monthly_cost": 1236,
+      "remaining_months": 44,
+      "exit_cost_months": 3
+    },
+    {
+      "type": "employment",
+      "description": "Employment at Insurance Agent",
+      "monthly_income": 4000,
+      "remaining_months": null,
+      "exit_cost_months": 1
+    }
+  ],
+  "in_progress_transformations": [],
+  "temporal_mismatches": {
+    "commitment_disruption_gap": 0.0,
+    "skill_demand_gap": 0.6,
+    "policy_reality_gap": 0.0
+  },
+  "mobility": {
+    "moving_cost_months": 4.0,
+    "knowledge_of_other_localities": 0.43,
+    "willingness_to_move": 0.75
+  },
+  "locality": "millfield",
+  "archetype": "stable",
+  "tick_updated": 0
+}

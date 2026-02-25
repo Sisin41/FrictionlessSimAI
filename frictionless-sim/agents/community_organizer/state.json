@@ -1,0 +1,122 @@
+{
+  "agent_id": "community_organizer",
+  "identity": {
+    "name": "Lisa Freeman",
+    "age": 49,
+    "role": "Community Center Director",
+    "tier": 4,
+    "sector": "community",
+    "narrative": "I see people coming in who are lost. More than usual. The community needs support right now more than ever.",
+    "identity_attachment": 0.7,
+    "dependents": 0,
+    "skills": [
+      "community_organizing",
+      "counseling",
+      "program_management",
+      "fundraising"
+    ],
+    "skill_relevance": 0.85,
+    "historical_conditioning": [
+      {
+        "event": "2008_financial_crisis",
+        "response_pattern": "risk_aversion_spike",
+        "lesson": "Institutions can fail. Savings matter. Trust is fragile."
+      },
+      {
+        "event": "covid_pandemic",
+        "response_pattern": "rapid_adaptation_or_freeze",
+        "lesson": "Remote work is possible. Government can provide. Disruption is sudden."
+      }
+    ]
+  },
+  "hierarchy": {
+    "L0_SURVIVE": {
+      "runway_months": 5,
+      "threat_level": 0.58,
+      "monthly_essentials": 2000
+    },
+    "L1_STABILIZE": {
+      "savings_buffer": 20000,
+      "debt_load_ratio": 0.28,
+      "insurance_coverage": "none"
+    },
+    "L2_PARTICIPATE": {
+      "employment_status": "employed",
+      "skill_relevance": 0.85,
+      "role_security": 0.57,
+      "network_strength": 0.33
+    },
+    "L3_CONSUME": {
+      "discretionary_budget": 1000,
+      "owns_car": true,
+      "car_payment_monthly": 0,
+      "substitution_willingness": 0.3
+    },
+    "L4_SIGNAL": {
+      "status_anxiety": 0.56,
+      "reference_group": "community"
+    },
+    "L5_BUILD": {
+      "future_orientation": 0.31,
+      "entrepreneurial_drive": 0.31
+    },
+    "L6_TRANSCEND": {
+      "meaning_source": "work",
+      "purpose_stability": 0.74,
+      "community_ties": 0.38
+    }
+  },
+  "perception": {
+    "world_state_awareness": "baseline",
+    "information_sources": [
+      "social_media",
+      "word_of_mouth",
+      "national_news",
+      "professional_network"
+    ],
+    "cognitive_biases": {
+      "status_quo_bias": 0.38,
+      "normalcy_bias": 0.58,
+      "loss_aversion_multiplier": 2.5,
+      "availability_heuristic": 0.68,
+      "social_proof_sensitivity": 0.39
+    },
+    "sentiment": "neutral"
+  },
+  "psychological": {
+    "stress_level": 0.18,
+    "agency": 0.47,
+    "grief_stage": "none",
+    "temporal_horizon_months": 12
+  },
+  "financial": {
+    "monthly_income": 4000,
+    "monthly_expenses": 3276,
+    "savings": 20000,
+    "debt_total": 38907,
+    "credit_score": 743
+  },
+  "commitments": [
+    {
+      "type": "housing",
+      "description": "Mortgage/rent",
+      "monthly_cost": 1394,
+      "remaining_months": 113,
+      "exit_cost_months": 2
+    }
+  ],
+  "in_progress_transformations": [],
+  "temporal_mismatches": {
+    "commitment_disruption_gap": 0.0,
+    "skill_demand_gap": 0.15,
+    "policy_reality_gap": 0.0
+  },
+  "mobility": {
+    "moving_cost_months": 5.8,
+    "knowledge_of_other_localities": 0.39,
+    "willingness_to_move": 0.3
+  },
+  "locality": "millfield",
+  "archetype": "stable",
+  "tick_updated": 0
+}

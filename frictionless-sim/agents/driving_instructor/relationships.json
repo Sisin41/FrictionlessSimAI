@@ -1,0 +1,73 @@
+{
+  "connections": [
+    {
+      "agent_id": "bank_manager",
+      "name": "David Chen",
+      "role": "Branch Manager, First Community Bank",
+      "trust": 0.5,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "insurance_manager",
+      "name": "Linda Park",
+      "role": "Regional Manager, AutoShield Insurance",
+      "trust": 0.45,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "salesperson_tamika",
+      "name": "Tamika Jefferson",
+      "role": "Car Salesperson",
+      "trust": 0.55,
+      "type": "professional"
+    },
+    {
+      "agent_id": "insurance_agent_priya",
+      "name": "Priya Sharma",
+      "role": "Insurance Agent",
+      "trust": 0.54,
+      "type": "professional"
+    },
+    {
+      "agent_id": "car_wash_worker",
+      "name": "Miguel Hernandez",
+      "role": "Car Wash Attendant",
+      "trust": 0.39,
+      "type": "professional"
+    },
+    {
+      "agent_id": "young_gig_worker",
+      "name": "Zoe Martinez",
+      "role": "Barista / Gig Worker",
+      "trust": 0.51,
+      "type": "professional"
+    },
+    {
+      "agent_id": "parts_store_owner",
+      "name": "Howard Liu",
+      "role": "Owner, Auto Parts Store",
+      "trust": 0.42,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "auto_shop_teacher",
+      "name": "Mark Thompson",
+      "role": "High School Auto Shop Teacher",
+      "trust": 0.83,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "uber_driver_2",
+      "name": "Grace Okafor",
+      "role": "Part-time Rideshare Driver / Nursing Student",
+      "trust": 0.45,
+      "type": "professional"
+    }
+  ],
+  "power_over": [],
+  "power_under": [],
+  "obligations": [
+    "housing",
+    "family"
+  ]
+}

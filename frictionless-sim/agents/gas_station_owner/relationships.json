@@ -1,0 +1,116 @@
+{
+  "connections": [
+    {
+      "agent_id": "hr_director",
+      "name": "Angela Wright",
+      "role": "HR Director, Regional Auto Group",
+      "trust": 0.37,
+      "type": "professional"
+    },
+    {
+      "agent_id": "salesperson_jake",
+      "name": "Jake Morrison",
+      "role": "Car Salesperson",
+      "trust": 0.3,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "mechanic_carlos",
+      "name": "Carlos Ruiz",
+      "role": "Master Mechanic",
+      "trust": 0.44,
+      "type": "professional"
+    },
+    {
+      "agent_id": "mechanic_sarah",
+      "name": "Sarah Kim",
+      "role": "Junior Mechanic",
+      "trust": 0.49,
+      "type": "professional"
+    },
+    {
+      "agent_id": "insurance_agent_tom",
+      "name": "Tom Bradley",
+      "role": "Auto Insurance Agent",
+      "trust": 0.42,
+      "type": "professional"
+    },
+    {
+      "agent_id": "insurance_agent_priya",
+      "name": "Priya Sharma",
+      "role": "Insurance Agent",
+      "trust": 0.39,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "loan_officer",
+      "name": "Kevin O'Brien",
+      "role": "Auto Loan Officer",
+      "trust": 0.44,
+      "type": "professional"
+    },
+    {
+      "agent_id": "diner_owner",
+      "name": "Betty Kowalski",
+      "role": "Owner, Auto Row Diner",
+      "trust": 0.41,
+      "type": "professional"
+    },
+    {
+      "agent_id": "driving_instructor",
+      "name": "Frank Russo",
+      "role": "Driving School Owner",
+      "trust": 0.4,
+      "type": "professional"
+    },
+    {
+      "agent_id": "commuter_james",
+      "name": "James Patterson",
+      "role": "Software Developer (commuter)",
+      "trust": 0.32,
+      "type": "professional"
+    },
+    {
+      "agent_id": "commuter_rachel",
+      "name": "Rachel Green",
+      "role": "Marketing Manager (commuter)",
+      "trust": 0.46,
+      "type": "professional"
+    },
+    {
+      "agent_id": "parts_store_owner",
+      "name": "Howard Liu",
+      "role": "Owner, Auto Parts Store",
+      "trust": 0.35,
+      "type": "professional"
+    },
+    {
+      "agent_id": "rideshare_driver",
+      "name": "Robert Jackson",
+      "role": "Rideshare Driver",
+      "trust": 0.5,
+      "type": "professional"
+    },
+    {
+      "agent_id": "community_organizer",
+      "name": "Lisa Freeman",
+      "role": "Community Center Director",
+      "trust": 0.48,
+      "type": "professional"
+    },
+    {
+      "agent_id": "uber_driver_2",
+      "name": "Grace Okafor",
+      "role": "Part-time Rideshare Driver / Nursing Student",
+      "trust": 0.45,
+      "type": "neighbor"
+    }
+  ],
+  "power_over": [],
+  "power_under": [],
+  "obligations": [
+    "housing",
+    "employment",
+    "family"
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "agent_id": "bank_manager",
+  "identity": {
+    "name": "David Chen",
+    "age": 48,
+    "role": "Branch Manager, First Community Bank",
+    "tier": 1,
+    "sector": "finance",
+    "narrative": "I manage the branch that handles most auto loans in the area. My job is risk assessment and relationship banking.",
+    "identity_attachment": 0.6,
+    "dependents": 2,
+    "skills": [
+      "finance",
+      "risk_assessment",
+      "lending",
+      "management"
+    ],
+    "skill_relevance": 0.55,
+    "historical_conditioning": [
+      {
+        "event": "2008_financial_crisis",
+        "response_pattern": "risk_aversion_spike",
+        "lesson": "Institutions can fail. Savings matter. Trust is fragile."
+      },
+      {
+        "event": "covid_pandemic",
+        "response_pattern": "rapid_adaptation_or_freeze",
+        "lesson": "Remote work is possible. Government can provide. Disruption is sudden."
+      }
+    ]
+  },
+  "hierarchy": {
+    "L0_SURVIVE": {
+      "runway_months": 18,
+      "threat_level": 0,
+      "monthly_essentials": 4750
+    },
+    "L1_STABILIZE": {
+      "savings_buffer": 171000,
+      "debt_load_ratio": 0.26,
+      "insurance_coverage": "none"
+    },
+    "L2_PARTICIPATE": {
+      "employment_status": "employed",
+      "skill_relevance": 0.55,
+      "role_security": 0.36,
+      "network_strength": 0.42
+    },
+    "L3_CONSUME": {
+      "discretionary_budget": 2375,
+      "owns_car": true,
+      "car_payment_monthly": 0,
+      "substitution_willingness": 0.4
+    },
+    "L4_SIGNAL": {
+      "status_anxiety": 0.42,
+      "reference_group": "finance"
+    },
+    "L5_BUILD": {
+      "future_orientation": 0.37,
+      "entrepreneurial_drive": 0.13
+    },
+    "L6_TRANSCEND": {
+      "meaning_source": "creativity",
+      "purpose_stability": 0.83,
+      "community_ties": 0.51
+    }
+  },
+  "perception": {
+    "world_state_awareness": "baseline",
+    "information_sources": [
+      "professional_network",
+      "word_of_mouth"
+    ],
+    "cognitive_biases": {
+      "status_quo_bias": 0.66,
+      "normalcy_bias": 0.39,
+      "loss_aversion_multiplier": 2.5,
+      "availability_heuristic": 0.36,
+      "social_proof_sensitivity": 0.7
+    },
+    "sentiment": "neutral"
+  },
+  "psychological": {
+    "stress_level": 0.19,
+    "agency": 0.75,
+    "grief_stage": "none",
+    "temporal_horizon_months": 12
+  },
+  "financial": {
+    "monthly_income": 9500,
+    "monthly_expenses": 6961,
+    "savings": 171000,
+    "debt_total": 167257,
+    "credit_score": 707
+  },
+  "commitments": [
+    {
+      "type": "housing",
+      "description": "Mortgage/rent",
+      "monthly_cost": 2408,
+      "remaining_months": 112,
+      "exit_cost_months": 6
+    },
+    {
+      "type": "employment",
+      "description": "Employment at Branch Manager, First Community Bank",
+      "monthly_income": 9500,
+      "remaining_months": null,
+      "exit_cost_months": 1
+    },
+    {
+      "type": "family",
+      "description": "2 dependents",
+      "monthly_cost": 1166,
+      "remaining_months": null,
+      "exit_cost_months": null
+    }
+  ],
+  "in_progress_transformations": [],
+  "temporal_mismatches": {
+    "commitment_disruption_gap": 0.0,
+    "skill_demand_gap": 0.45,
+    "policy_reality_gap": 0.0
+  },
+  "mobility": {
+    "moving_cost_months": 9.4,
+    "knowledge_of_other_localities": 0.2,
+    "willingness_to_move": 0.1
+  },
+  "locality": "millfield",
+  "archetype": "stable",
+  "tick_updated": 0
+}

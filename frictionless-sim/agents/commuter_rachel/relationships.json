@@ -1,0 +1,79 @@
+{
+  "connections": [
+    {
+      "agent_id": "salesperson_jake",
+      "name": "Jake Morrison",
+      "role": "Car Salesperson",
+      "trust": 0.41,
+      "type": "professional"
+    },
+    {
+      "agent_id": "mechanic_sarah",
+      "name": "Sarah Kim",
+      "role": "Junior Mechanic",
+      "trust": 0.38,
+      "type": "professional"
+    },
+    {
+      "agent_id": "insurance_agent_tom",
+      "name": "Tom Bradley",
+      "role": "Auto Insurance Agent",
+      "trust": 0.26,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "loan_officer",
+      "name": "Kevin O'Brien",
+      "role": "Auto Loan Officer",
+      "trust": 0.4,
+      "type": "professional"
+    },
+    {
+      "agent_id": "driving_instructor",
+      "name": "Frank Russo",
+      "role": "Driving School Owner",
+      "trust": 0.55,
+      "type": "professional"
+    },
+    {
+      "agent_id": "single_parent",
+      "name": "Nicole Washington",
+      "role": "Nurse (single parent)",
+      "trust": 0.56,
+      "type": "professional"
+    },
+    {
+      "agent_id": "parts_store_owner",
+      "name": "Howard Liu",
+      "role": "Owner, Auto Parts Store",
+      "trust": 0.41,
+      "type": "professional"
+    },
+    {
+      "agent_id": "real_estate_agent",
+      "name": "Stephanie Morris",
+      "role": "Commercial Real Estate Agent",
+      "trust": 0.38,
+      "type": "professional"
+    },
+    {
+      "agent_id": "auto_shop_teacher",
+      "name": "Mark Thompson",
+      "role": "High School Auto Shop Teacher",
+      "trust": 0.43,
+      "type": "professional"
+    },
+    {
+      "agent_id": "community_organizer",
+      "name": "Lisa Freeman",
+      "role": "Community Center Director",
+      "trust": 0.32,
+      "type": "professional"
+    }
+  ],
+  "power_over": [],
+  "power_under": [],
+  "obligations": [
+    "housing"
+  ]
+}

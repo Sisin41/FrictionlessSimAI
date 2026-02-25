@@ -1,0 +1,59 @@
+{
+  "connections": [
+    {
+      "agent_id": "insurance_agent_priya",
+      "name": "Priya Sharma",
+      "role": "Insurance Agent",
+      "trust": 0.43,
+      "type": "professional"
+    },
+    {
+      "agent_id": "diner_owner",
+      "name": "Betty Kowalski",
+      "role": "Owner, Auto Row Diner",
+      "trust": 0.45,
+      "type": "professional"
+    },
+    {
+      "agent_id": "car_wash_worker",
+      "name": "Miguel Hernandez",
+      "role": "Car Wash Attendant",
+      "trust": 0.55,
+      "type": "professional"
+    },
+    {
+      "agent_id": "parking_garage_mgr",
+      "name": "Denise Williams",
+      "role": "Parking Garage Manager",
+      "trust": 0.56,
+      "type": "professional"
+    },
+    {
+      "agent_id": "rideshare_driver",
+      "name": "Robert Jackson",
+      "role": "Rideshare Driver",
+      "trust": 0.32,
+      "type": "professional"
+    },
+    {
+      "agent_id": "real_estate_agent",
+      "name": "Stephanie Morris",
+      "role": "Commercial Real Estate Agent",
+      "trust": 0.57,
+      "type": "professional"
+    },
+    {
+      "agent_id": "uber_driver_2",
+      "name": "Grace Okafor",
+      "role": "Part-time Rideshare Driver / Nursing Student",
+      "trust": 0.43,
+      "type": "professional"
+    }
+  ],
+  "power_over": [],
+  "power_under": [],
+  "obligations": [
+    "housing",
+    "family"
+  ]
+}

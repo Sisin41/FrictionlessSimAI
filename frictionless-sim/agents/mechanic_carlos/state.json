@@ -1,0 +1,134 @@
+{
+  "agent_id": "mechanic_carlos",
+  "identity": {
+    "name": "Carlos Ruiz",
+    "age": 47,
+    "role": "Master Mechanic",
+    "tier": 3,
+    "sector": "service",
+    "narrative": "I fix cars. It's who I am. My hands know engines. But these new electric AVs are completely different machines.",
+    "identity_attachment": 0.8,
+    "dependents": 3,
+    "skills": [
+      "mechanical_repair",
+      "diagnostics",
+      "electrical_systems"
+    ],
+    "skill_relevance": 0.5,
+    "historical_conditioning": [
+      {
+        "event": "2008_financial_crisis",
+        "response_pattern": "risk_aversion_spike",
+        "lesson": "Institutions can fail. Savings matter. Trust is fragile."
+      },
+      {
+        "event": "covid_pandemic",
+        "response_pattern": "rapid_adaptation_or_freeze",
+        "lesson": "Remote work is possible. Government can provide. Disruption is sudden."
+      }
+    ]
+  },
+  "hierarchy": {
+    "L0_SURVIVE": {
+      "runway_months": 6,
+      "threat_level": 0.5,
+      "monthly_essentials": 2900
+    },
+    "L1_STABILIZE": {
+      "savings_buffer": 34800,
+      "debt_load_ratio": 0.16,
+      "insurance_coverage": "basic"
+    },
+    "L2_PARTICIPATE": {
+      "employment_status": "employed",
+      "skill_relevance": 0.5,
+      "role_security": 0.77,
+      "network_strength": 0.39
+    },
+    "L3_CONSUME": {
+      "discretionary_budget": 1450,
+      "owns_car": true,
+      "car_payment_monthly": 599,
+      "substitution_willingness": 0.2
+    },
+    "L4_SIGNAL": {
+      "status_anxiety": 0.34,
+      "reference_group": "service"
+    },
+    "L5_BUILD": {
+      "future_orientation": 0.32,
+      "entrepreneurial_drive": 0.28
+    },
+    "L6_TRANSCEND": {
+      "meaning_source": "faith",
+      "purpose_stability": 0.45,
+      "community_ties": 0.79
+    }
+  },
+  "perception": {
+    "world_state_awareness": "baseline",
+    "information_sources": [
+      "direct_experience",
+      "word_of_mouth",
+      "national_news"
+    ],
+    "cognitive_biases": {
+      "status_quo_bias": 0.74,
+      "normalcy_bias": 0.37,
+      "loss_aversion_multiplier": 2.5,
+      "availability_heuristic": 0.5,
+      "social_proof_sensitivity": 0.41
+    },
+    "sentiment": "neutral"
+  },
+  "psychological": {
+    "stress_level": 0.26,
+    "agency": 0.53,
+    "grief_stage": "none",
+    "temporal_horizon_months": 12
+  },
+  "financial": {
+    "monthly_income": 5800,
+    "monthly_expenses": 5414,
+    "savings": 34800,
+    "debt_total": 89330,
+    "credit_score": 767
+  },
+  "commitments": [
+    {
+      "type": "housing",
+      "description": "Mortgage/rent",
+      "monthly_cost": 1849,
+      "remaining_months": 77,
+      "exit_cost_months": 3
+    },
+    {
+      "type": "employment",
+      "description": "Employment at Master Mechanic",
+      "monthly_income": 5800,
+      "remaining_months": null,
+      "exit_cost_months": 1
+    },
+    {
+      "type": "family",
+      "description": "3 dependents",
+      "monthly_cost": 1217,
+      "remaining_months": null,
+      "exit_cost_months": null
+    }
+  ],
+  "in_progress_transformations": [],
+  "temporal_mismatches": {
+    "commitment_disruption_gap": 0.0,
+    "skill_demand_gap": 0.5,
+    "policy_reality_gap": 0.0
+  },
+  "mobility": {
+    "moving_cost_months": 12.2,
+    "knowledge_of_other_localities": 0.23,
+    "willingness_to_move": 0
+  },
+  "locality": "millfield",
+  "archetype": "stable",
+  "tick_updated": 0
+}

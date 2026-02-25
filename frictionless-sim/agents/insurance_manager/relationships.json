@@ -1,0 +1,56 @@
+{
+  "connections": [
+    {
+      "agent_id": "bank_manager",
+      "name": "David Chen",
+      "role": "Branch Manager, First Community Bank",
+      "trust": 0.37,
+      "type": "professional"
+    },
+    {
+      "agent_id": "dealership_gm",
+      "name": "Rick Tanner",
+      "role": "General Manager, Millfield Auto Mall",
+      "trust": 0.58,
+      "type": "professional"
+    },
+    {
+      "agent_id": "salesperson_tamika",
+      "name": "Tamika Jefferson",
+      "role": "Car Salesperson",
+      "trust": 0.33,
+      "type": "professional"
+    },
+    {
+      "agent_id": "insurance_agent_tom",
+      "name": "Tom Bradley",
+      "role": "Auto Insurance Agent",
+      "trust": 0.54,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "insurance_agent_priya",
+      "name": "Priya Sharma",
+      "role": "Insurance Agent",
+      "trust": 0.66,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "parts_store_owner",
+      "name": "Howard Liu",
+      "role": "Owner, Auto Parts Store",
+      "trust": 0.5,
+      "type": "neighbor"
+    }
+  ],
+  "power_over": [
+    "insurance_agent_tom",
+    "insurance_agent_priya"
+  ],
+  "power_under": [],
+  "obligations": [
+    "housing",
+    "employment",
+    "family"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "connections": [
+    {
+      "agent_id": "salesperson_tamika",
+      "name": "Tamika Jefferson",
+      "role": "Car Salesperson",
+      "trust": 0.32,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "insurance_agent_tom",
+      "name": "Tom Bradley",
+      "role": "Auto Insurance Agent",
+      "trust": 0.34,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "driving_instructor",
+      "name": "Frank Russo",
+      "role": "Driving School Owner",
+      "trust": 0.45,
+      "type": "professional"
+    },
+    {
+      "agent_id": "parking_garage_mgr",
+      "name": "Denise Williams",
+      "role": "Parking Garage Manager",
+      "trust": 0.71,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "retiree",
+      "name": "Dorothy Chen",
+      "role": "Retired Teacher",
+      "trust": 0.32,
+      "type": "professional"
+    },
+    {
+      "agent_id": "young_gig_worker",
+      "name": "Zoe Martinez",
+      "role": "Barista / Gig Worker",
+      "trust": 0.59,
+      "type": "professional"
+    },
+    {
+      "agent_id": "single_parent",
+      "name": "Nicole Washington",
+      "role": "Nurse (single parent)",
+      "trust": 0.49,
+      "type": "professional"
+    },
+    {
+      "agent_id": "parts_store_owner",
+      "name": "Howard Liu",
+      "role": "Owner, Auto Parts Store",
+      "trust": 0.39,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "rideshare_driver",
+      "name": "Robert Jackson",
+      "role": "Rideshare Driver",
+      "trust": 0.74,
+      "type": "colleague"
+    }
+  ],
+  "power_over": [],
+  "power_under": [],
+  "obligations": []
+}

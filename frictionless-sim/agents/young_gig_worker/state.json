@@ -1,0 +1,115 @@
+{
+  "agent_id": "young_gig_worker",
+  "identity": {
+    "name": "Zoe Martinez",
+    "age": 22,
+    "role": "Barista / Gig Worker",
+    "tier": 4,
+    "sector": "service",
+    "narrative": "I never wanted a car anyway. Way too expensive. Robotaxi is perfect for me.",
+    "identity_attachment": 0.05,
+    "dependents": 0,
+    "skills": [
+      "service",
+      "social_media",
+      "gig_economy",
+      "tech_savvy"
+    ],
+    "skill_relevance": 0.7,
+    "historical_conditioning": [
+      {
+        "event": "covid_pandemic",
+        "response_pattern": "rapid_adaptation_or_freeze",
+        "lesson": "Remote work is possible. Government can provide. Disruption is sudden."
+      }
+    ]
+  },
+  "hierarchy": {
+    "L0_SURVIVE": {
+      "runway_months": 1,
+      "threat_level": 0.92,
+      "monthly_essentials": 1400
+    },
+    "L1_STABILIZE": {
+      "savings_buffer": 2800,
+      "debt_load_ratio": 0.39,
+      "insurance_coverage": "basic"
+    },
+    "L2_PARTICIPATE": {
+      "employment_status": "employed",
+      "skill_relevance": 0.7,
+      "role_security": 0.59,
+      "network_strength": 0.48
+    },
+    "L3_CONSUME": {
+      "discretionary_budget": 700,
+      "owns_car": false,
+      "car_payment_monthly": 423,
+      "substitution_willingness": 0.95
+    },
+    "L4_SIGNAL": {
+      "status_anxiety": 0.54,
+      "reference_group": "service"
+    },
+    "L5_BUILD": {
+      "future_orientation": 0.63,
+      "entrepreneurial_drive": 0.15
+    },
+    "L6_TRANSCEND": {
+      "meaning_source": "faith",
+      "purpose_stability": 0.55,
+      "community_ties": 0.42
+    }
+  },
+  "perception": {
+    "world_state_awareness": "baseline",
+    "information_sources": [
+      "local_news",
+      "professional_network"
+    ],
+    "cognitive_biases": {
+      "status_quo_bias": 0.38,
+      "normalcy_bias": 0.66,
+      "loss_aversion_multiplier": 2.5,
+      "availability_heuristic": 0.55,
+      "social_proof_sensitivity": 0.6
+    },
+    "sentiment": "neutral"
+  },
+  "psychological": {
+    "stress_level": 0.16,
+    "agency": 0.44,
+    "grief_stage": "none",
+    "temporal_horizon_months": 12
+  },
+  "financial": {
+    "monthly_income": 2800,
+    "monthly_expenses": 2404,
+    "savings": 2800,
+    "debt_total": 20222,
+    "credit_score": 581
+  },
+  "commitments": [
+    {
+      "type": "employment",
+      "description": "Employment at Barista / Gig Worker",
+      "monthly_income": 2800,
+      "remaining_months": null,
+      "exit_cost_months": 1
+    }
+  ],
+  "in_progress_transformations": [],
+  "temporal_mismatches": {
+    "commitment_disruption_gap": 0.0,
+    "skill_demand_gap": 0.3,
+    "policy_reality_gap": 0.0
+  },
+  "mobility": {
+    "moving_cost_months": 3.2,
+    "knowledge_of_other_localities": 0.48,
+    "willingness_to_move": 0.95
+  },
+  "locality": "millfield",
+  "archetype": "stable",
+  "tick_updated": 0
+}

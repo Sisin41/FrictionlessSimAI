@@ -1,0 +1,51 @@
+{
+  "connections": [
+    {
+      "agent_id": "salesperson_tamika",
+      "name": "Tamika Jefferson",
+      "role": "Car Salesperson",
+      "trust": 0.32,
+      "type": "professional"
+    },
+    {
+      "agent_id": "driving_instructor",
+      "name": "Frank Russo",
+      "role": "Driving School Owner",
+      "trust": 0.52,
+      "type": "professional"
+    },
+    {
+      "agent_id": "commuter_james",
+      "name": "James Patterson",
+      "role": "Software Developer (commuter)",
+      "trust": 0.43,
+      "type": "professional"
+    },
+    {
+      "agent_id": "retiree",
+      "name": "Dorothy Chen",
+      "role": "Retired Teacher",
+      "trust": 0.56,
+      "type": "professional"
+    },
+    {
+      "agent_id": "single_parent",
+      "name": "Nicole Washington",
+      "role": "Nurse (single parent)",
+      "trust": 0.4,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "rideshare_driver",
+      "name": "Robert Jackson",
+      "role": "Rideshare Driver",
+      "trust": 0.36,
+      "type": "neighbor"
+    }
+  ],
+  "power_over": [],
+  "power_under": [],
+  "obligations": [
+    "housing"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "connections": [
+    {
+      "agent_id": "council_member",
+      "name": "Maria Santos",
+      "role": "Town Council Member",
+      "trust": 0.32,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "insurance_manager",
+      "name": "Linda Park",
+      "role": "Regional Manager, AutoShield Insurance",
+      "trust": 0.29,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "salesperson_jake",
+      "name": "Jake Morrison",
+      "role": "Car Salesperson",
+      "trust": 0.38,
+      "type": "professional"
+    },
+    {
+      "agent_id": "salesperson_tamika",
+      "name": "Tamika Jefferson",
+      "role": "Car Salesperson",
+      "trust": 0.42,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "mechanic_carlos",
+      "name": "Carlos Ruiz",
+      "role": "Master Mechanic",
+      "trust": 0.57,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "mechanic_sarah",
+      "name": "Sarah Kim",
+      "role": "Junior Mechanic",
+      "trust": 0.65,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "insurance_agent_priya",
+      "name": "Priya Sharma",
+      "role": "Insurance Agent",
+      "trust": 0.56,
+      "type": "professional"
+    },
+    {
+      "agent_id": "loan_officer",
+      "name": "Kevin O'Brien",
+      "role": "Auto Loan Officer",
+      "trust": 0.31,
+      "type": "professional"
+    },
+    {
+      "agent_id": "car_wash_worker",
+      "name": "Miguel Hernandez",
+      "role": "Car Wash Attendant",
+      "trust": 0.78,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "parking_garage_mgr",
+      "name": "Denise Williams",
+      "role": "Parking Garage Manager",
+      "trust": 0.21,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "truck_owner",
+      "name": "Dale Cooper",
+      "role": "Contractor (truck owner)",
+      "trust": 0.45,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "retiree",
+      "name": "Dorothy Chen",
+      "role": "Retired Teacher",
+      "trust": 0.48,
+      "type": "professional"
+    },
+    {
+      "agent_id": "real_estate_agent",
+      "name": "Stephanie Morris",
+      "role": "Commercial Real Estate Agent",
+      "trust": 0.35,
+      "type": "neighbor"
+    }
+  ],
+  "power_over": [],
+  "power_under": [
+    "mechanic_carlos",
+    "mechanic_sarah"
+  ],
+  "obligations": [
+    "employment"
+  ]
+}

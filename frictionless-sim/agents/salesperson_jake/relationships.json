@@ -1,0 +1,143 @@
+{
+  "connections": [
+    {
+      "agent_id": "ceo_regional_auto",
+      "name": "Patricia Hawkins",
+      "role": "CEO, Regional Auto Group",
+      "trust": 0.87,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "council_member",
+      "name": "Maria Santos",
+      "role": "Town Council Member",
+      "trust": 0.39,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "dealership_gm",
+      "name": "Rick Tanner",
+      "role": "General Manager, Millfield Auto Mall",
+      "trust": 0.73,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "insurance_manager",
+      "name": "Linda Park",
+      "role": "Regional Manager, AutoShield Insurance",
+      "trust": 0.46,
+      "type": "professional"
+    },
+    {
+      "agent_id": "hr_director",
+      "name": "Angela Wright",
+      "role": "HR Director, Regional Auto Group",
+      "trust": 0.7,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "salesperson_tamika",
+      "name": "Tamika Jefferson",
+      "role": "Car Salesperson",
+      "trust": 0.55,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "mechanic_carlos",
+      "name": "Carlos Ruiz",
+      "role": "Master Mechanic",
+      "trust": 0.27,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "mechanic_sarah",
+      "name": "Sarah Kim",
+      "role": "Junior Mechanic",
+      "trust": 0.43,
+      "type": "professional"
+    },
+    {
+      "agent_id": "diner_owner",
+      "name": "Betty Kowalski",
+      "role": "Owner, Auto Row Diner",
+      "trust": 0.56,
+      "type": "professional"
+    },
+    {
+      "agent_id": "driving_instructor",
+      "name": "Frank Russo",
+      "role": "Driving School Owner",
+      "trust": 0.57,
+      "type": "professional"
+    },
+    {
+      "agent_id": "parking_garage_mgr",
+      "name": "Denise Williams",
+      "role": "Parking Garage Manager",
+      "trust": 0.36,
+      "type": "professional"
+    },
+    {
+      "agent_id": "truck_owner",
+      "name": "Dale Cooper",
+      "role": "Contractor (truck owner)",
+      "trust": 0.57,
+      "type": "professional"
+    },
+    {
+      "agent_id": "retiree",
+      "name": "Dorothy Chen",
+      "role": "Retired Teacher",
+      "trust": 0.49,
+      "type": "professional"
+    },
+    {
+      "agent_id": "young_gig_worker",
+      "name": "Zoe Martinez",
+      "role": "Barista / Gig Worker",
+      "trust": 0.3,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "single_parent",
+      "name": "Nicole Washington",
+      "role": "Nurse (single parent)",
+      "trust": 0.59,
+      "type": "professional"
+    },
+    {
+      "agent_id": "parts_store_owner",
+      "name": "Howard Liu",
+      "role": "Owner, Auto Parts Store",
+      "trust": 0.56,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "real_estate_agent",
+      "name": "Stephanie Morris",
+      "role": "Commercial Real Estate Agent",
+      "trust": 0.48,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "community_organizer",
+      "name": "Lisa Freeman",
+      "role": "Community Center Director",
+      "trust": 0.41,
+      "type": "professional"
+    }
+  ],
+  "power_over": [
+    "parts_store_owner"
+  ],
+  "power_under": [
+    "ceo_regional_auto",
+    "dealership_gm",
+    "hr_director"
+  ],
+  "obligations": [
+    "housing",
+    "employment",
+    "family"
+  ]
+}

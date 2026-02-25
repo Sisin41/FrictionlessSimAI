@@ -1,0 +1,212 @@
+[
+  {
+    "id": "ceo_regional_auto",
+    "name": "Patricia Hawkins",
+    "role": "CEO, Regional Auto Group",
+    "tier": 1,
+    "sector": "retail_auto"
+  },
+  {
+    "id": "bank_manager",
+    "name": "David Chen",
+    "role": "Branch Manager, First Community Bank",
+    "tier": 1,
+    "sector": "finance"
+  },
+  {
+    "id": "council_member",
+    "name": "Maria Santos",
+    "role": "Town Council Member",
+    "tier": 1,
+    "sector": "policy"
+  },
+  {
+    "id": "dealership_gm",
+    "name": "Rick Tanner",
+    "role": "General Manager, Millfield Auto Mall",
+    "tier": 2,
+    "sector": "retail_auto"
+  },
+  {
+    "id": "insurance_manager",
+    "name": "Linda Park",
+    "role": "Regional Manager, AutoShield Insurance",
+    "tier": 2,
+    "sector": "insurance"
+  },
+  {
+    "id": "hr_director",
+    "name": "Angela Wright",
+    "role": "HR Director, Regional Auto Group",
+    "tier": 2,
+    "sector": "retail_auto"
+  },
+  {
+    "id": "salesperson_jake",
+    "name": "Jake Morrison",
+    "role": "Car Salesperson",
+    "tier": 3,
+    "sector": "retail_auto"
+  },
+  {
+    "id": "salesperson_tamika",
+    "name": "Tamika Jefferson",
+    "role": "Car Salesperson",
+    "tier": 3,
+    "sector": "retail_auto"
+  },
+  {
+    "id": "mechanic_carlos",
+    "name": "Carlos Ruiz",
+    "role": "Master Mechanic",
+    "tier": 3,
+    "sector": "service"
+  },
+  {
+    "id": "mechanic_sarah",
+    "name": "Sarah Kim",
+    "role": "Junior Mechanic",
+    "tier": 3,
+    "sector": "service"
+  },
+  {
+    "id": "gas_station_owner",
+    "name": "Amir Patel",
+    "role": "Gas Station Owner",
+    "tier": 3,
+    "sector": "fuel"
+  },
+  {
+    "id": "insurance_agent_tom",
+    "name": "Tom Bradley",
+    "role": "Auto Insurance Agent",
+    "tier": 3,
+    "sector": "insurance"
+  },
+  {
+    "id": "insurance_agent_priya",
+    "name": "Priya Sharma",
+    "role": "Insurance Agent",
+    "tier": 3,
+    "sector": "insurance"
+  },
+  {
+    "id": "loan_officer",
+    "name": "Kevin O'Brien",
+    "role": "Auto Loan Officer",
+    "tier": 3,
+    "sector": "finance"
+  },
+  {
+    "id": "diner_owner",
+    "name": "Betty Kowalski",
+    "role": "Owner, Auto Row Diner",
+    "tier": 4,
+    "sector": "food_service"
+  },
+  {
+    "id": "driving_instructor",
+    "name": "Frank Russo",
+    "role": "Driving School Owner",
+    "tier": 4,
+    "sector": "education"
+  },
+  {
+    "id": "car_wash_worker",
+    "name": "Miguel Hernandez",
+    "role": "Car Wash Attendant",
+    "tier": 4,
+    "sector": "service"
+  },
+  {
+    "id": "parking_garage_mgr",
+    "name": "Denise Williams",
+    "role": "Parking Garage Manager",
+    "tier": 4,
+    "sector": "transport"
+  },
+  {
+    "id": "commuter_james",
+    "name": "James Patterson",
+    "role": "Software Developer (commuter)",
+    "tier": 4,
+    "sector": "tech"
+  },
+  {
+    "id": "commuter_rachel",
+    "name": "Rachel Green",
+    "role": "Marketing Manager (commuter)",
+    "tier": 4,
+    "sector": "marketing"
+  },
+  {
+    "id": "truck_owner",
+    "name": "Dale Cooper",
+    "role": "Contractor (truck owner)",
+    "tier": 4,
+    "sector": "construction"
+  },
+  {
+    "id": "retiree",
+    "name": "Dorothy Chen",
+    "role": "Retired Teacher",
+    "tier": 4,
+    "sector": "retired"
+  },
+  {
+    "id": "young_gig_worker",
+    "name": "Zoe Martinez",
+    "role": "Barista / Gig Worker",
+    "tier": 4,
+    "sector": "service"
+  },
+  {
+    "id": "single_parent",
+    "name": "Nicole Washington",
+    "role": "Nurse (single parent)",
+    "tier": 4,
+    "sector": "healthcare"
+  },
+  {
+    "id": "parts_store_owner",
+    "name": "Howard Liu",
+    "role": "Owner, Auto Parts Store",
+    "tier": 4,
+    "sector": "retail_auto"
+  },
+  {
+    "id": "rideshare_driver",
+    "name": "Robert Jackson",
+    "role": "Rideshare Driver",
+    "tier": 4,
+    "sector": "transport"
+  },
+  {
+    "id": "real_estate_agent",
+    "name": "Stephanie Morris",
+    "role": "Commercial Real Estate Agent",
+    "tier": 4,
+    "sector": "real_estate"
+  },
+  {
+    "id": "auto_shop_teacher",
+    "name": "Mark Thompson",
+    "role": "High School Auto Shop Teacher",
+    "tier": 4,
+    "sector": "education"
+  },
+  {
+    "id": "community_organizer",
+    "name": "Lisa Freeman",
+    "role": "Community Center Director",
+    "tier": 4,
+    "sector": "community"
+  },
+  {
+    "id": "uber_driver_2",
+    "name": "Grace Okafor",
+    "role": "Part-time Rideshare Driver / Nursing Student",
+    "tier": 4,
+    "sector": "transport"
+  }
+]

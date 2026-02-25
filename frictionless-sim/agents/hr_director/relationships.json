@@ -1,0 +1,100 @@
+{
+  "connections": [
+    {
+      "agent_id": "ceo_regional_auto",
+      "name": "Patricia Hawkins",
+      "role": "CEO, Regional Auto Group",
+      "trust": 0.57,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "bank_manager",
+      "name": "David Chen",
+      "role": "Branch Manager, First Community Bank",
+      "trust": 0.42,
+      "type": "professional"
+    },
+    {
+      "agent_id": "dealership_gm",
+      "name": "Rick Tanner",
+      "role": "General Manager, Millfield Auto Mall",
+      "trust": 0.61,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "salesperson_jake",
+      "name": "Jake Morrison",
+      "role": "Car Salesperson",
+      "trust": 0.81,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "salesperson_tamika",
+      "name": "Tamika Jefferson",
+      "role": "Car Salesperson",
+      "trust": 0.76,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "mechanic_sarah",
+      "name": "Sarah Kim",
+      "role": "Junior Mechanic",
+      "trust": 0.32,
+      "type": "professional"
+    },
+    {
+      "agent_id": "gas_station_owner",
+      "name": "Amir Patel",
+      "role": "Gas Station Owner",
+      "trust": 0.29,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "insurance_agent_tom",
+      "name": "Tom Bradley",
+      "role": "Auto Insurance Agent",
+      "trust": 0.44,
+      "type": "professional"
+    },
+    {
+      "agent_id": "loan_officer",
+      "name": "Kevin O'Brien",
+      "role": "Auto Loan Officer",
+      "trust": 0.45,
+      "type": "professional"
+    },
+    {
+      "agent_id": "driving_instructor",
+      "name": "Frank Russo",
+      "role": "Driving School Owner",
+      "trust": 0.22,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "retiree",
+      "name": "Dorothy Chen",
+      "role": "Retired Teacher",
+      "trust": 0.22,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "parts_store_owner",
+      "name": "Howard Liu",
+      "role": "Owner, Auto Parts Store",
+      "trust": 0.63,
+      "type": "colleague"
+    }
+  ],
+  "power_over": [
+    "salesperson_jake",
+    "salesperson_tamika",
+    "parts_store_owner"
+  ],
+  "power_under": [
+    "ceo_regional_auto"
+  ],
+  "obligations": [
+    "housing",
+    "employment"
+  ]
+}

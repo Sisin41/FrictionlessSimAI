@@ -1,0 +1,135 @@
+{
+  "agent_id": "ceo_regional_auto",
+  "identity": {
+    "name": "Patricia Hawkins",
+    "age": 54,
+    "role": "CEO, Regional Auto Group",
+    "tier": 1,
+    "sector": "retail_auto",
+    "narrative": "Built this dealership group over 20 years from a single lot. My father was a car dealer. This is my legacy.",
+    "identity_attachment": 0.85,
+    "dependents": 3,
+    "skills": [
+      "management",
+      "sales",
+      "negotiation",
+      "automotive_industry"
+    ],
+    "skill_relevance": 0.4,
+    "historical_conditioning": [
+      {
+        "event": "2008_financial_crisis",
+        "response_pattern": "risk_aversion_spike",
+        "lesson": "Institutions can fail. Savings matter. Trust is fragile."
+      },
+      {
+        "event": "covid_pandemic",
+        "response_pattern": "rapid_adaptation_or_freeze",
+        "lesson": "Remote work is possible. Government can provide. Disruption is sudden."
+      }
+    ]
+  },
+  "hierarchy": {
+    "L0_SURVIVE": {
+      "runway_months": 24,
+      "threat_level": 0,
+      "monthly_essentials": 9000
+    },
+    "L1_STABILIZE": {
+      "savings_buffer": 432000,
+      "debt_load_ratio": 0.17,
+      "insurance_coverage": "none"
+    },
+    "L2_PARTICIPATE": {
+      "employment_status": "employed",
+      "skill_relevance": 0.4,
+      "role_security": 0.76,
+      "network_strength": 0.43
+    },
+    "L3_CONSUME": {
+      "discretionary_budget": 4500,
+      "owns_car": true,
+      "car_payment_monthly": 0,
+      "substitution_willingness": 0.15
+    },
+    "L4_SIGNAL": {
+      "status_anxiety": 0.49,
+      "reference_group": "retail_auto"
+    },
+    "L5_BUILD": {
+      "future_orientation": 0.61,
+      "entrepreneurial_drive": 0.12
+    },
+    "L6_TRANSCEND": {
+      "meaning_source": "faith",
+      "purpose_stability": 0.54,
+      "community_ties": 0.78
+    }
+  },
+  "perception": {
+    "world_state_awareness": "baseline",
+    "information_sources": [
+      "social_media",
+      "direct_experience",
+      "professional_network"
+    ],
+    "cognitive_biases": {
+      "status_quo_bias": 0.53,
+      "normalcy_bias": 0.64,
+      "loss_aversion_multiplier": 2.5,
+      "availability_heuristic": 0.36,
+      "social_proof_sensitivity": 0.47
+    },
+    "sentiment": "neutral"
+  },
+  "psychological": {
+    "stress_level": 0.19,
+    "agency": 0.54,
+    "grief_stage": "none",
+    "temporal_horizon_months": 12
+  },
+  "financial": {
+    "monthly_income": 18000,
+    "monthly_expenses": 16487,
+    "savings": 432000,
+    "debt_total": 47864,
+    "credit_score": 616
+  },
+  "commitments": [
+    {
+      "type": "housing",
+      "description": "Mortgage/rent",
+      "monthly_cost": 5344,
+      "remaining_months": 195,
+      "exit_cost_months": 4
+    },
+    {
+      "type": "employment",
+      "description": "Employment at CEO, Regional Auto Group",
+      "monthly_income": 18000,
+      "remaining_months": null,
+      "exit_cost_months": 1
+    },
+    {
+      "type": "family",
+      "description": "3 dependents",
+      "monthly_cost": 2081,
+      "remaining_months": null,
+      "exit_cost_months": null
+    }
+  ],
+  "in_progress_transformations": [],
+  "temporal_mismatches": {
+    "commitment_disruption_gap": 0.0,
+    "skill_demand_gap": 0.6,
+    "policy_reality_gap": 0.0
+  },
+  "mobility": {
+    "moving_cost_months": 12.4,
+    "knowledge_of_other_localities": 0.44,
+    "willingness_to_move": 0
+  },
+  "locality": "millfield",
+  "archetype": "stable",
+  "tick_updated": 0
+}

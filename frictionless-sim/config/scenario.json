@@ -1,0 +1,31 @@
+{
+  "scenario": "autonomous_transport",
+  "description": "Pure capability facts only. Everything else emerges from agent decisions.",
+  "events": [
+    {
+      "tick": 0,
+      "fact": "Economy functioning normally. Self-driving vehicle technology exists but is not deployed locally. Millfield is a car-dependent small town.",
+      "type": "baseline"
+    },
+    {
+      "tick": 1,
+      "fact": "RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months.",
+      "type": "capability_announcement"
+    },
+    {
+      "tick": 3,
+      "fact": "RoboRide launches autonomous ride-share service in Millfield. Price: $0.18 per mile. Average wait time: 15 minutes. Coverage: main roads and commercial areas.",
+      "type": "capability_deployment"
+    },
+    {
+      "tick": 8,
+      "fact": "RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership with local delivery companies announced.",
+      "type": "capability_improvement"
+    },
+    {
+      "tick": 14,
+      "fact": "RoboRide announces 24/7 coverage, 5 minute average wait, $0.10 per mile. Autonomous delivery service also launched. Second robotaxi competitor enters Millfield market.",
+      "type": "capability_maturation"
+    }
+  ]
+}

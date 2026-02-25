@@ -1,0 +1,45 @@
+{
+  "connections": [
+    {
+      "agent_id": "ceo_regional_auto",
+      "name": "Patricia Hawkins",
+      "role": "CEO, Regional Auto Group",
+      "trust": 0.33,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "dealership_gm",
+      "name": "Rick Tanner",
+      "role": "General Manager, Millfield Auto Mall",
+      "trust": 0.49,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "mechanic_carlos",
+      "name": "Carlos Ruiz",
+      "role": "Master Mechanic",
+      "trust": 0.53,
+      "type": "professional"
+    },
+    {
+      "agent_id": "insurance_agent_priya",
+      "name": "Priya Sharma",
+      "role": "Insurance Agent",
+      "trust": 0.3,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "real_estate_agent",
+      "name": "Stephanie Morris",
+      "role": "Commercial Real Estate Agent",
+      "trust": 0.46,
+      "type": "professional"
+    }
+  ],
+  "power_over": [],
+  "power_under": [],
+  "obligations": [
+    "housing",
+    "family"
+  ]
+}

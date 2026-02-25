@@ -1,0 +1,94 @@
+{
+  "connections": [
+    {
+      "agent_id": "bank_manager",
+      "name": "David Chen",
+      "role": "Branch Manager, First Community Bank",
+      "trust": 0.28,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "council_member",
+      "name": "Maria Santos",
+      "role": "Town Council Member",
+      "trust": 0.52,
+      "type": "professional"
+    },
+    {
+      "agent_id": "dealership_gm",
+      "name": "Rick Tanner",
+      "role": "General Manager, Millfield Auto Mall",
+      "trust": 0.77,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "insurance_manager",
+      "name": "Linda Park",
+      "role": "Regional Manager, AutoShield Insurance",
+      "trust": 0.33,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "hr_director",
+      "name": "Angela Wright",
+      "role": "HR Director, Regional Auto Group",
+      "trust": 0.51,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "salesperson_jake",
+      "name": "Jake Morrison",
+      "role": "Car Salesperson",
+      "trust": 0.59,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "salesperson_tamika",
+      "name": "Tamika Jefferson",
+      "role": "Car Salesperson",
+      "trust": 0.7,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "mechanic_carlos",
+      "name": "Carlos Ruiz",
+      "role": "Master Mechanic",
+      "trust": 0.26,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "diner_owner",
+      "name": "Betty Kowalski",
+      "role": "Owner, Auto Row Diner",
+      "trust": 0.44,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "truck_owner",
+      "name": "Dale Cooper",
+      "role": "Contractor (truck owner)",
+      "trust": 0.23,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "parts_store_owner",
+      "name": "Howard Liu",
+      "role": "Owner, Auto Parts Store",
+      "trust": 0.79,
+      "type": "colleague"
+    }
+  ],
+  "power_over": [
+    "dealership_gm",
+    "hr_director",
+    "salesperson_jake",
+    "salesperson_tamika",
+    "parts_store_owner"
+  ],
+  "power_under": [],
+  "obligations": [
+    "housing",
+    "employment",
+    "family"
+  ]
+}

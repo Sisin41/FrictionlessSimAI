@@ -1,0 +1,94 @@
+{
+  "connections": [
+    {
+      "agent_id": "ceo_regional_auto",
+      "name": "Patricia Hawkins",
+      "role": "CEO, Regional Auto Group",
+      "trust": 0.65,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "dealership_gm",
+      "name": "Rick Tanner",
+      "role": "General Manager, Millfield Auto Mall",
+      "trust": 0.64,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "hr_director",
+      "name": "Angela Wright",
+      "role": "HR Director, Regional Auto Group",
+      "trust": 0.82,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "salesperson_jake",
+      "name": "Jake Morrison",
+      "role": "Car Salesperson",
+      "trust": 0.76,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "salesperson_tamika",
+      "name": "Tamika Jefferson",
+      "role": "Car Salesperson",
+      "trust": 0.53,
+      "type": "colleague"
+    },
+    {
+      "agent_id": "mechanic_carlos",
+      "name": "Carlos Ruiz",
+      "role": "Master Mechanic",
+      "trust": 0.5,
+      "type": "professional"
+    },
+    {
+      "agent_id": "mechanic_sarah",
+      "name": "Sarah Kim",
+      "role": "Junior Mechanic",
+      "trust": 0.52,
+      "type": "professional"
+    },
+    {
+      "agent_id": "single_parent",
+      "name": "Nicole Washington",
+      "role": "Nurse (single parent)",
+      "trust": 0.58,
+      "type": "professional"
+    },
+    {
+      "agent_id": "real_estate_agent",
+      "name": "Stephanie Morris",
+      "role": "Commercial Real Estate Agent",
+      "trust": 0.32,
+      "type": "professional"
+    },
+    {
+      "agent_id": "auto_shop_teacher",
+      "name": "Mark Thompson",
+      "role": "High School Auto Shop Teacher",
+      "trust": 0.43,
+      "type": "neighbor"
+    },
+    {
+      "agent_id": "uber_driver_2",
+      "name": "Grace Okafor",
+      "role": "Part-time Rideshare Driver / Nursing Student",
+      "trust": 0.4,
+      "type": "professional"
+    }
+  ],
+  "power_over": [],
+  "power_under": [
+    "ceo_regional_auto",
+    "dealership_gm",
+    "hr_director",
+    "salesperson_jake",
+    "salesperson_tamika"
+  ],
+  "obligations": [
+    "housing",
+    "employment",
+    "family"
+  ]
+}
