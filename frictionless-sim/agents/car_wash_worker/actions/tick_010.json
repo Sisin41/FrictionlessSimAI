@@ -1,0 +1,71 @@
+{
+  "tick": 10,
+  "agent_id": "car_wash_worker",
+  "agent_name": "Miguel Hernandez",
+  "response": {
+    "internal_assessment": "I am operating at L0 — pure survival. Savings are at zero. Monthly essentials are $1,200. I went into this tick with sub-one-month runway and I am still unemployed. The cert is at roughly month 5 of 8, something like 37-40% complete. The one thing I cannot sacrifice is the class schedule — Tuesday and Thursday evenings and Saturday mornings are non-negotiable. Everything else is organized around that constraint. Last tick I committed to gig work: bike delivery via DoorDash and researching the RoboRide last-mile delivery partner program. That work is the bridge between me and keeping my enrollment alive. Carlos called me — he followed through, reached out to have a real conversation. He is not my boss anymore, he is someone further down the same road I am on. I need to call him back. And I still have not gotten the EV curriculum question answered from the MCC program coordinator. That question is a genuine blocker — I cannot plan what comes after this cert without knowing whether the cert itself is already pointing toward EV or whether I need a separate credential on the back end.",
+    "inbox_interpretation": "Carlos reached out to me directly this tick — the word-of-mouth confirms he wants a real conversation, not a mentorship performance. He is going to tell me what his cert training actually cost and whether it is working. That is the most valuable intelligence I have access to right now. Sarah Kim is mapping the post-certification landscape — fleet operators, EV dealerships, the RoboRide service infrastructure — and she is asking Carlos for names. That parallel work is useful to me too: if she finds the employers, I want to be in that picture by the time I graduate. The OUTCOME line in my inbox confirms: last tick's gig push dropped savings by $1,180 — that means the gig work did not fully cover expenses, but it also means my income from gig work was probably around $600-800, which partially replaced the shortfall. I need to sustain and potentially increase that this tick. Dorothy Chen's community center expansion is relevant background noise — the community is stressed and organizing. That stress is not my immediate problem but it tells me the job market is not getting easier.",
+    "chosen_actions": [
+      {
+        "type": "EXCHANGE",
+        "description": "Call Carlos Ruiz back — he reached out and I owe him the return. This is not a mentorship call and I will not frame it that way. I ask him what his cert training actually cost, how far along he is, whether the EV modules exist in the Millfield CC program or whether he went somewhere else for that specialization, and whether he has any names yet of fleet operators or RoboRide-adjacent employers who are actually going to be hiring in the next 6 months. I also tell him where I am honestly: no savings, gig work keeping the lights on, cert at month 5. I am not performing stability. I am talking to someone who is ahead of me on the same road and I need real information.",
+        "target_agent": "mechanic_carlos",
+        "resources": {
+          "type": "skill",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Mutual intelligence exchange — Miguel shares his financial reality and cert progress; Carlos shares his training experience, EV module knowledge, and any employer contacts he has been gathering"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Carlos is the highest-trust person in my network at 0.78 and he has been doing this same EV transition for longer than me. He specifically reached out to tell me he is going to follow up and have a real conversation. If I do not call him back this tick, I have wasted the most valuable relationship I have. The EV curriculum question and the post-cert employer landscape are both things he may have answers to. I go in without an agenda except honesty."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Continue automotive service technician certificate program — month 6 of 8, zero missed sessions. This tick I also finally get the definitive answer on EV content: I walk up to the program coordinator after Thursday's class and ask directly whether EV or hybrid modules appear in the remaining curriculum, and if not, what the college offers as a follow-on EV specialization credential and what it costs. I do not leave that conversation without a clear answer. This question has been deferred for five months. It cannot be deferred again — I am three months from completion and I need to know what I am building toward.",
+        "target_agent": null,
+        "resources": {
+          "type": "skill",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Cert program month 6 of 8 — attendance maintained, EV curriculum question resolved with program coordinator"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The cert is the entire strategy. Without it, the gig work is not a bridge to anything — it is just subsistence. I am not going to skip a single class for any reason. And I need the EV answer because if the MCC cert does not include meaningful EV content, I need to identify and budget for a follow-on credential before I graduate. Three months is not a lot of time to make that plan."
+      },
+      {
+        "type": "EXCHANGE",
+        "description": "Maximize gig income this month — continue DoorDash bike delivery and push the RoboRide last-mile delivery partner registration to a firm answer. I researched the program last tick. This tick I complete registration if the requirements are met, or identify exactly what is blocking it and fix that. Target: 15 to 20 gig hours per week, scheduled so it does not touch Tuesday evenings, Thursday evenings, or Saturday mornings. Goal is $400 to $600 in income this month — enough to cover monthly essentials at $1,200 with the assumption that I generate at least $1,200 total. Even $800-1,000 income leaves a gap but dramatically extends my ability to stay enrolled.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "give",
+          "amount": 400,
+          "detail": "Bike delivery gig labor — DoorDash and/or RoboRide last-mile partner program, targeting $400-600 monthly income"
+        },
+        "economic_effects": {
+          "income_change": 500,
+          "expense_change": 0,
+          "savings_change": -700,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "With zero savings, the income gap this month determines whether I stay enrolled or drop out. Dropping out is the worst possible outcome — it wastes five months of investment and leaves me in the same position I was in when I started, but without the car wash job and with a gap in my work history. The gig work is not what I am building toward but it is what keeps the build alive. I do not have the option of not doing it."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Zero savings. That number is real and I am looking at it without flinching. But I have been in this program for five months without missing a class, I have a master mechanic calling me back because he thinks I am worth his time, and I am three months from a credential that belongs to me and not to any employer. The car wash is gone and I am not grieving it — I said from the start it was just rent money, and I meant it. What I am building now is different. I just need to survive long enough to finish it. Call Carlos. Go to class. Deliver packages until my legs hurt. In that order."
+  }
+}

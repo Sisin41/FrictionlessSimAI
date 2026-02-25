@@ -1,0 +1,71 @@
+{
+  "tick": 10,
+  "agent_id": "insurance_manager",
+  "agent_name": "Linda Park",
+  "response": {
+    "internal_assessment": "I am optimizing L2_PARTICIPATE this tick, hard. My savings are at $91,595, dropping at $7,382/month — roughly 12.4 months of runway. The outcome from tick 9 confirmed two things: the AutoShield corporate loop is formally closed, and my employment status has changed to unemployed in the simulation, which reflects the operational reality that I am employed in title only — the role I was running no longer has a viable book of business. AutoShield employment remains my income line on paper, but I have zero policies generating revenue in any meaningful sense with 22 active policies and cancellations increasing. The sector data confirms this is not a recovery situation. I have been 'clear-eyed and moving' as my sentiment says for two ticks. This tick I need the movement to produce a concrete result: a conversation, an interview, a referral that can close into income. The CRMP certification is at 20% completion, four months in. I need to close this credential this year. Tom Bradley is out and reaching out to Priya, which means he is building his own network — I made the right call laying him off before the situation became more damaging, but I owe him the follow-through on the logistics/fleet introductions I promised.",
+    "inbox_interpretation": "The sector data is stark: 22 active auto insurance policies in the area, cancellations increasing. Employment rate at 53%, spending index at 30. These are not numbers that suggest personal auto insurance recovery. The word-of-mouth about Howard Liu's actions is interesting — he is pushing for a definitive response from RoboRide fleet operations and reaching out to Angela Wright. The fleet operations angle is exactly the territory where my risk expertise should be relevant. Tom Bradley is reaching out to Priya Sharma, which confirms he has landed on his feet enough to network rather than panic. Rick Tanner and Tom Bradley are stressed in my social environment. The CRMP certification word-of-mouth about me (from external perspective) confirms I am visible in the market as someone actively retooling. This tick the primary action is re-engaging the strongest of my three external employer contacts — the one who showed the most genuine interest from the tick 6 follow-up calls. I need to move one of those conversations toward an interview or a defined next step.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Re-engage the strongest of the three external employer contacts from the tick 6 follow-up calls. Of the three — regional logistics company, healthcare system risk division, municipal risk management office — reach out by phone to the contact who expressed the most genuine interest or left the conversation most open. Frame the contact around a specific, current development: the RoboRide residential delivery expansion and the resulting commercial fleet risk profile that is emerging in the region. This is not a second cold call. This is a market intelligence update from someone who has been watching this disruption from inside the insurance sector for ten months. Offer to share the data I have on regional policy cancellation trends as context for any fleet risk assessment role. Ask directly: is there a defined role, or is this a future conversation?",
+        "target_agent": null,
+        "resources": {
+          "type": "skill",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Phone re-engagement of strongest external employer contact — RoboRide fleet risk angle, policy cancellation trend data as market intelligence offering"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "This is the action I have been building toward since tick 6. I have a credential in progress, I have concrete disruption-period data, and I have a current market development (RoboRide delivery expansion = new commercial fleet risk profile) that gives me a reason to call that is not about me needing a job. The call is the move. Not another week of waiting."
+      },
+      {
+        "type": "COMMITMENT",
+        "description": "Follow through on the promise I made to Tom Bradley when I laid him off: introduce him specifically to the logistics and fleet contacts I cultivated during my own job search. Send Tom a brief, direct message this week — not a generic offer, a specific one: 'I told you I would make introductions. Here is the contact at the regional logistics company I have been working with. I am copying you on a note to them that vouches for your field assessment skills and auto book management experience. They are not hiring for the role I was pursuing but they may have capacity in risk operations.' This follow-through protects my integrity and Tom's ability to move forward. It costs me nothing except the 20 minutes it takes to write it.",
+        "target_agent": null,
+        "resources": {
+          "type": "service",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Professional introduction for Tom Bradley to logistics sector contact — honoring the commitment made at the time of his layoff"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I told Tom I would do this. He received a 30-day notice and a reference. The specific introduction was the third piece I committed to. He has reached out to Priya, which means he is active. If I let this drift it damages my credibility as someone who says what she means. Also practically: Tom landing somewhere good is good for my reputation in the sector."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Advance the CRMP certification coursework this month — push from 20% to 30% completion. The current module is liability risk transfer and commercial fleet risk assessment, which maps directly to the fleet risk angle I am using in my employer outreach. This is not incidental timing. I use the coursework content to sharpen the pitch I am making in the job search this tick. Reading the commercial fleet risk module before calling the logistics company contact gives me specific, current technical vocabulary that distinguishes my pitch from a generic 'experienced risk manager' application.",
+        "target_agent": null,
+        "resources": {
+          "type": "skill",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "CRMP certification — commercial fleet risk assessment module, targeting 10 percentage points of progress this tick (20% to 30%)"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The coursework and the job search are not separate tracks. The content I am studying is the content I need for the roles I am pursuing. Completing the fleet risk module before calling the logistics contact is not delay — it is preparation that makes the call more effective."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "The corporate loop is closed. I documented it professionally and I am done advocating internally for something AutoShield has already decided by silence. Twelve months of runway feels like a long time until you count the months already gone. I laid off Tom cleanly, I gave him what I could, now I follow through on the introduction I promised. The logistics contact is the right call this tick — I have been circling it for two ticks. The fleet risk angle is real and it is current and the RoboRide delivery expansion just made it more current. I pick up the phone. That is all this is. I pick up the phone."
+  }
+}

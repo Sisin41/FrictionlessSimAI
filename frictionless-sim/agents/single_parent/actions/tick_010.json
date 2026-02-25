@@ -1,0 +1,90 @@
+{
+  "tick": 10,
+  "agent_id": "single_parent",
+  "agent_name": "Nicole Washington",
+  "response": {
+    "internal_assessment": "I am at L0_SURVIVE under real threat (0.76 threat level, 2.9 months runway). My savings dropped $4,630 last tick and I went unemployed. The outcome in my inbox confirms this happened when I responded to Grace's message. The employment status change to 'unemployed' is alarming - I am a nurse and nurses do not typically lose employment mid-shift by sending a message. This may reflect a lag in the simulation tracking my income correctly, but I need to treat it as real: I may be in a job transition or my hours were reduced. My role security was already at 0.41. This is not a month to take risks. L1_STABILIZE: $13,250 savings, down from where I was. With $4,630/month expenses and zero income listed, I have about 2.9 months of runway. The $350 savings discipline I maintained needs to continue but the income side of this equation is the emergency. I need to understand my employment status and protect the remaining buffer.",
+    "inbox_interpretation": "My own action from last tick is visible: I gave Grace Okafor timing intelligence about the Millfield General transitional care unit spring cohort. The outcome: savings dropped $4,630 and employment changed to unemployed. This suggests the employment status change is a simulation result of my previous tick's recorded action, not something I chose. I interpret this as: my hours may have been reduced or a shift cancellation happened, or this is the simulation processing my expenses in an unemployed month. Either way, I treat it as real. The word of mouth tells me Betty Kowalski is stressed, Miguel is pivoting to gig work, Grace Okafor is completing her NEMT cert, Stephanie Morris is working the dealership property angle, and Denise Williams is pursuing the hospital facilities role. The Rachel Green pitch to me ($800 pilot for marketing help) is in the inbox - I need to respond to that now that I have been approached directly.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Actively verify my employment status at Millfield General this week. If hours were reduced or a scheduling change created a gap, I need to know the actual situation immediately. Contact my charge nurse or the staffing office directly - not passively. Confirm current schedule, check for any administrative changes to my position, and document the status clearly. If I am still employed but in a slow month, I know my actual runway. If something changed, I need to know before the next paycheck cycle.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "internal",
+          "amount": 1,
+          "detail": "One hour of administrative verification: contact charge nurse and staffing office to confirm current employment status, scheduled hours, and next pay period."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I cannot make any other decision this month without knowing whether I am employed and at what hours. Role security at 0.41 means I have been on notice that this was a live variable. The $4,630 savings drop and employment status change from last tick require immediate verification. Everything else waits on this answer."
+      },
+      {
+        "type": "COMMITMENT",
+        "description": "Maintain the $350 monthly savings deposit regardless of income uncertainty. If I am working regular shifts, the deposit happens from existing income. If hours were reduced this month, I reduce discretionary spending first before touching the savings discipline. The $13,250 buffer is what stands between my children and a crisis. I do not let the discipline break in a single uncertain month.",
+        "target_agent": null,
+        "resources": {
+          "type": "currency",
+          "direction": "internal",
+          "amount": 350,
+          "detail": "Monthly savings deposit of $350 into emergency buffer. Maintained regardless of income variation this month."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": -350,
+          "savings_change": 350,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Nine ticks of consistent savings discipline have built a $13,250 buffer. That buffer is the only reason my threat level is 0.76 instead of 1.0. I do not break the habit in a single hard month. The discipline is the thing that makes the buffer real."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Respond to Rachel Green's $800 pilot proposal directly and honestly. I have been approached by someone who is building a freelance marketing practice and pitched me a community-facing communications service. My answer is: not this month. I am navigating what looks like an employment disruption and I cannot commit to an $800 discretionary expenditure when my savings just dropped $4,630 and my runway is 2.9 months. I tell Rachel specifically: the timing is wrong right now. Revisit in 60 days as she suggested. I do not leave her in silence - she asked a direct question and deserves a direct answer.",
+        "target_agent": "commuter_rachel",
+        "resources": {
+          "type": "reputation",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Direct, brief response to Rachel Green's marketing pilot proposal. Clear no with specific timeline: revisit in 60 days."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Rachel gave me an explicit out: 'If the timing is wrong, say so and I will revisit in 60 days.' The timing is wrong. I say so clearly. An $800 discretionary spend when my runway is 2.9 months and my income is uncertain is not something I can justify. Saying no directly and respectfully is better for both of us than a non-answer."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Continue the RoboRide trial at current frequency for afternoon school pickups. The data from tick 9 showed 9-14 minute actual wait times, acceptable for the 3pm window with a 30-minute buffer. I am not expanding the trial to 5am hospital shifts - that threshold remains sub-5-minute average with verified reliability. Continue logging wait times and reliability notes. If the trial consistently performs in the 8-10 minute range over the next three ticks, I revisit the threshold question. Not yet.",
+        "target_agent": null,
+        "resources": {
+          "type": "currency",
+          "direction": "give",
+          "amount": 30,
+          "detail": "Approximately $30/month in RoboRide fares for afternoon school pickup trial runs. At $0.12/mile with 8-minute waits, manageable within current discretionary budget."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 30,
+          "savings_change": -30,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The trial produced real data. I maintain it at the scale that produced useful information. I do not expand it under financial pressure - that would be reversing the logic that told me to run the trial empirically rather than on assumption. The trial continues at current frequency until wait-time data changes."
+      }
+    ],
+    "emotional_state": "anxious",
+    "archetype_self_assessment": "stable",
+    "inner_monologue": "Savings down $4,630 last tick. Employment status showing unemployed. With two kids and $13,250 in savings burning at nearly $5,000 a month, I have maybe two and a half months before I am in a genuinely scary place. I need to know what happened to my job before I do anything else. If this is a scheduling gap, I can breathe. If something structural changed at the hospital, I need to know now, not when the next paycheck doesn't come. The Grace connection, the RoboRide trial data, the savings discipline - all of that was right and I am keeping it. But none of it matters if I don't have income coming in. I verify first. Then I figure out what month 11 looks like."
+  }
+}

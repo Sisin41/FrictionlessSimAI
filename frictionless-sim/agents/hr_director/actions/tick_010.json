@@ -1,0 +1,90 @@
+{
+  "tick": 10,
+  "agent_id": "hr_director",
+  "agent_name": "Angela Wright",
+  "response": {
+    "internal_assessment": "I am operating at L2 (Participate) and L5 (Build) simultaneously. My employment is intact but the financial pressure is real — savings at $36,493, monthly deficit of roughly $2,117, runway around 5.5 months. The transition intake I executed last tick was the proof-of-concept work. This tick I need to consolidate: answer Jake's administrative eligibility question directly, respond to Patricia's direct request about my actual commitment to the program timeline, respond to Howard Liu's placement partnership inquiry, and advance the Wright Workforce Advisory LLC from an entity that exists legally to one that has a service offering document and at least one prospective client conversation. The consulting arrangement question with Patricia — through Rick's inquiry — is the highest-value unresolved thread. I need that call to happen this week.",
+    "inbox_interpretation": "Three things are hitting me simultaneously. First: Patricia is asking me directly whether my transition infrastructure is functional — the Maria Santos grant connection, First Community Bank pathway, community college enrollment. She is also telling me she wants to support my ambitions if I am honest about my commitment timeline. That is a critical conversation I cannot dodge. Second: Jake's word-of-mouth message is a clean administrative ask — he wants to know if he is individually listed or automatically included. That is a 30-second answer I can give him. Third: Howard Liu is reaching out to establish a placement partnership — first look at displaced workers with automotive inventory experience in exchange for referral sourcing. That is exactly the kind of two-way structure Wright Workforce Advisory LLC needs as its first external relationship. The Rick Tanner compensation conversation is also unresolved — he is pressing Patricia for a response, which means I am not the only one with a pending financial ask inside this consolidation. The community is stressed. Maria Santos is convening an emergency session. I am sitting inside the institutional machinery of a disruption while trying to build an exit from it.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Reply to Patricia's direct inquiry about the transition program infrastructure. Confirm: the Maria Santos $2,500 grant connection is active and I have the direct application link ready to distribute to every displaced worker I intake. The First Community Bank pathway — David Chen's departure situation is noted, I am routing to the branch contact I established rather than relying on the individual relationship. Community college enrollment is open and I have the direct program coordinator contact. Tell Patricia clearly: my commitment to the current program timeline through its completion is firm. If she wants to discuss what comes after, I am open to that conversation — but she will have it with me as someone who is building something alongside this role, not against it.",
+        "target_agent": "ceo_regional_auto",
+        "resources": {
+          "type": "service",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Program status update and honest commitment declaration to CEO Patricia Hawkins"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Patricia's direct question deserves a direct answer. She is also offering implicit support for my post-role ambitions if I am honest — that is a relationship asset I should not squander by being evasive. The employment relationship is my income bridge while the LLC gets traction. Staying in good standing with Patricia while being honest about my trajectory is not a contradiction."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Answer Jake Morrison's eligibility question directly. The stay bonus memo applies to all floor sales staff currently employed at the close of the qualifying period — there is no individual enrollment requirement. Jake is automatically included as long as he remains employed through the qualifying date. I send him a two-sentence written confirmation with the specific qualifying date. This is the administrative answer he asked for.",
+        "target_agent": "salesperson_jake",
+        "resources": {
+          "type": "service",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Written eligibility confirmation for stay bonus program — automatic inclusion, no individual enrollment required"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Jake has been waiting on this for multiple ticks. I had the answer. The delay was administrative drag I should have resolved sooner. Giving him the clean answer now costs me nothing and preserves the professional trust with someone who will eventually be a transition program alumni — which is case study material for the LLC."
+      },
+      {
+        "type": "ASSOCIATION",
+        "description": "Respond to Howard Liu's placement partnership inquiry. Accept the two-way arrangement in principle: Wright Workforce Advisory LLC will give Howard first introduction to displaced workers with parts counter, service advisor, or general automotive inventory experience before they hit public job boards. In exchange, Howard gives me a referral source for anyone in the auto sector who needs workforce coaching or resume help. Accept his offer to serve as a reference client — that is the first credibility anchor for the LLC's client roster. Set up a 20-minute call this week to formalize the referral terms.",
+        "target_agent": "parts_store_owner",
+        "resources": {
+          "type": "service",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Mutual referral partnership — Wright Workforce Advisory LLC gives Howard Liu first look at displaced automotive talent; Howard gives LLC referral sourcing and reference client status"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "This is the highest-value relationship move available this tick for the LLC. Howard Liu has an immediate hiring need, I have intake of displaced workers with exactly the skills he wants, and he is offering to be a reference client. A reference client is worth more than a paid client at this stage — it is the social proof that makes the first invoice to a stranger possible."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Draft the first Wright Workforce Advisory LLC service offering document — a one-page description of the transition intake methodology developed over the past six ticks. Frame it as a structured workforce transition assessment service: intake conversation, vulnerability mapping, pathway routing to retraining/financing/employment resources, and documented outcome tracking. This is the deliverable that will eventually become the first invoice. Price it at $1,500 per client cohort for small employers, $3,500 for mid-size employers who need the full four-location methodology. Write it this week while the intake work from tick 9 is still live in my head.",
+        "target_agent": null,
+        "resources": {
+          "type": "skill",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Wright Workforce Advisory LLC service document — transition intake methodology formalized into billable service offering"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The transition intake from tick 9 is the methodology. The vulnerability map from ticks 4-5 is the product. I have been building this deliverable for six ticks without naming what it costs. This tick I write down the price. The LLC exists legally. The service needs to exist on paper before I can invoice anyone for it."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "builder",
+    "inner_monologue": "I answered Jake. I should have done it two ticks ago and I know it. Patricia's question about my commitment timeline is the harder one — she is giving me an opening to be honest and I have to take it without blinking, because the moment I hedge is the moment she stops trusting me with the program and starts managing me out of it. The LLC service document is the thing I keep putting off because writing the price down makes it real, and real things can fail. I am going to write the price down anyway."
+  }
+}

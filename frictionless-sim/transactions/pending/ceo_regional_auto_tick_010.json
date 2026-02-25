@@ -1,0 +1,15 @@
+{
+  "tick": 10,
+  "from_agent": "ceo_regional_auto",
+  "from_name": "Patricia Hawkins",
+  "to_agent": "dealership_gm",
+  "to_name": "Rick Tanner",
+  "type": "EXCHANGE",
+  "description": "First month payment on 90-day consulting contract: assessment finalization and transition-phase operational advisory",
+  "resources": {
+    "type": "currency",
+    "amount": 4500,
+    "detail": "Month 1 of consulting contract at $4,500/month. Signed contract document transmitted simultaneously."
+  },
+  "status": "pending"
+}

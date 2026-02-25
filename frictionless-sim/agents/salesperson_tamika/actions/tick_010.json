@@ -1,0 +1,90 @@
+{
+  "tick": 10,
+  "agent_id": "salesperson_tamika",
+  "agent_name": "Tamika Jefferson",
+  "response": {
+    "internal_assessment": "I am at L0 survival — $1,685 in savings, $3,177/month in expenses, zero income except the $350/month HVAC retainer. Runway is effectively 0.5 months. The math is unforgiving: I need at least two more clients to stop the bleeding. This is not a strategy moment, it is a closing moment. Every action this tick either produces revenue or builds toward revenue in the next 30 days. The restaurant pilot close is the highest priority. After that, two new outreach targets from the RoboRide delivery ecosystem. The Angela Wright partnership conversation is the highest-value relationship move — one warm referral from Angela converts faster than ten cold outreach messages, and she is processing displaced workers who are going to need marketing support as they launch whatever comes next. I am a full-time freelancer now. There is no job to fall back on. The freelance track is the track.",
+    "inbox_interpretation": "The inbox confirms what I already know: the community is under real stress. Nine protests, unemployment at 53%, spending index at 30. Angela Wright is running the transition intake for the closed location. That is my angle. Those displaced workers — the ones coming out of the sales floor — are going to need to present themselves professionally, update their social profiles, and eventually some of them will start small businesses or freelance careers that need exactly what I do. Angela's intake process is the pipeline I want access to. Howard Liu is also reaching out to Angela for a placement partnership — which means the displaced worker pipeline has multiple parties interested in it. I need to move first or at least parallel. The restaurant pilot from tick 8 is still unresolved. I need a yes or a no from them this week. The RoboRide residential expansion is my best current pitch hook for any local business: consumer spending down 60%, robotaxi coverage expanding into residential areas, foot traffic patterns changing. Businesses that stay digitally visible in this environment survive. Ones that go dark don't.",
+    "chosen_actions": [
+      {
+        "type": "EXCHANGE",
+        "description": "Close the restaurant pilot. Call them directly — not a message, a call — and make the ask binary: 'I want to know if the 60-day pilot at $300/month makes sense for you right now. If yes, I can have a one-page agreement in your inbox within two hours. If no, I understand — tell me and I move on.' Frame it around this week's reality: consumer spending is at 30% of baseline, people in residential areas are now moving around via RoboRide, and lunch spots that are visible and human on social media capture the foot traffic that used to stop for gas first. I am not a dealership employee with a side project anymore. I am a full-time freelance consultant. That framing change matters. A yes on this call brings me to $650/month and proves the two-client model.",
+        "target_agent": "diner_owner",
+        "resources": {
+          "type": "service",
+          "direction": "both",
+          "amount": 300,
+          "detail": "60-day social media pilot at $300/month — two posts per week, one short video per month, community-facing content strategy"
+        },
+        "economic_effects": {
+          "income_change": 300,
+          "expense_change": 0,
+          "savings_change": 300,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "This is the close I have been building toward since tick 7. A verbal yes from tick 8 means the energy is there. My new framing as full-time freelancer rather than side-hustle employee changes the professionalism signal. The call takes ten minutes and produces either $300/month or closure so I can pivot to the next lead. Either outcome moves me forward. Leaving it unresolved costs me another month of burn."
+      },
+      {
+        "type": "ASSOCIATION",
+        "description": "Reach out to Angela Wright directly — not a congratulations note, a peer-to-peer conversation. Acknowledge that I know she launched Wright Workforce Advisory LLC and that the transition intake she is running for the closed location puts her in contact with people who will need exactly what I do: social media presence, personal brand positioning, and communications support as they move into freelance or small business work. Propose a referral arrangement: I give Angela a referral source for displaced workers who need workforce coaching or resume help (she already has these, but I can amplify her visibility in my network), she gives me introductions to any transitioning worker who is planning to launch a freelance or service business and needs marketing. No retainer, no commitment — just a mapping conversation between two people building in the same environment. Also offer to be a case study for her LLC: I am a sales floor worker who built a freelance content practice in real time during a disruption. That story is useful to her.",
+        "target_agent": "hr_director",
+        "resources": {
+          "type": "reputation",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Mutual referral partnership and case study offer — Tamika provides transitioning-worker marketing referrals; Angela provides introductions to emerging freelance/small business clients"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Angela is processing the exact population of people who are going to need my services in 60-90 days. One warm referral from her converts faster than ten cold outreach messages. Howard Liu is already making this move — I need to be in the conversation before Angela's intake bandwidth is committed to other partners. My case study offer is genuine and differentiated: I am not pitching her, I am offering her something useful."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Have an honest check-in conversation with Jake Morrison. Not about the stay bonus, not about the consolidation — just a real conversation between two people who worked the same floor and are now in different positions. I know he is working the contingency map. I built a scenario model at tick 8 that he saw. Tell him what I actually know from the exiter side: the scariest part is not the exit, it is the 0.5-month runway number. Tell him that the one thing I wish I had done faster is get a second client before the first runway pressure hit. If he is building toward Lane C — the full exit path — the $2,500 retraining grant is real and Maria Santos's office is responsive. I know this because I researched it before I left.",
+        "target_agent": "salesperson_jake",
+        "resources": {
+          "type": "service",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Honest peer conversation — exiter's real experience of the transition, Lane C intelligence on retraining grant accessibility"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Jake has 0.87 trust with me. He is making decisions about his three-lane map right now and I have information that is directly relevant to Lane C that he cannot get from Angela's program talking points. This costs me nothing and it is the kind of thing that people remember. Also: staying human in this environment is not separate from building a professional network. It is the same thing."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Identify two new outreach targets from the RoboRide delivery ecosystem and send individual, specific outreach messages to each this week. Targets: (1) any small business near the residential coverage expansion zone that delivers or serves local customers — a dry cleaner, pharmacy, or specialty retail shop where digital visibility directly translates to local pickup; (2) a sole-proprietor tradesperson or contractor who has a service area but no social media presence — these are buyers who are not digitally native and whose competitor landscape is emptying. Message structure: one specific observation about their current online presence (or absence), one question, one sentence about what I do. No deck until they reply.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Two targeted cold outreach messages — RoboRide ecosystem businesses with no current social media management"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The restaurant close is the priority. But two new outreach messages this week keep the pipeline moving in parallel. I am targeting specifically within the RoboRide residential coverage expansion because the pitch writes itself: more people moving through your neighborhood without cars means digital visibility is the new foot traffic. These are the easiest conversations to open right now."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "exiter",
+    "inner_monologue": "I left before the stay bonus vested and I am not going to pretend that doesn't sting. But I am also not going to pretend I made the wrong call — I was building toward this exit since tick 0 and the dealership closed anyway. The difference is I have a client and a methodology and a network. I need two more clients in the next 30 days or the runway math collapses. That is the number I live inside right now. Not drama. Just math."
+  }
+}

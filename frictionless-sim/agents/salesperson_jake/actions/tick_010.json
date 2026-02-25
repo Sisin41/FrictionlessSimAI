@@ -1,0 +1,71 @@
+{
+  "tick": 10,
+  "agent_id": "salesperson_jake",
+  "agent_name": "Jake Morrison",
+  "response": {
+    "internal_assessment": "I am at L0 survival pressure — runway is 0.8 months, savings at $4,303, monthly deficit of roughly $3,496. This is not a planning moment, this is a triage moment. Three tracks are live simultaneously and I cannot let any of them slip: (1) I already asked Rick the hard questions last tick — I need to receive and process what he told me and decide how to respond to the answer; (2) Angela needs a clean administrative message about stay bonus eligibility — I sent the ask last tick and she apparently answered based on word-of-mouth; (3) I need to close a sale this month. One commission check changes the math. The three-lane contingency map I built last tick is the structure I work from now. I am not panicking. I am executing.",
+    "inbox_interpretation": "The context I am getting is brutal and clarifying at the same time. Unemployment at 53%, spending index at 30, auto sector revenue at 79 — these are not numbers that suggest the floor business recovers soon. Tom Bradley got laid off. Dale Cooper is auditing his receivables because he is in deficit. Six people enrolled in retraining this month — real people moving through the system Angela and Maria Santos built. Patricia walked the closed floor in person and gave affected staff her direct number. Rick is pushing Patricia for a consulting compensation call. Angela is executing the transition intake. Word-of-mouth tells me Angela is replying to Tamika's eligibility question — which means she is processing the same kind of administrative question I sent her. My outcome entry from last tick confirms I went to Rick directly. Whatever he told me is now information I am working from. The three-lane contingency map is real and I need to execute it, not just hold it.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Process what Rick told me in our direct conversation. Whatever he shared — which location is closing, whether my position is in the transition pool or at a surviving location — I use that information to update my three-lane map. If my location is the one closing, I immediately activate Lane B: I reach out to Rick this week to tell him directly that I want the service advisor or fleet-account relationship role he identified in the restructured organization. I do not wait for a formal posting. I call Rick and say: 'You told me there's a role that needs someone who can sell relationships. That's me. I want to be considered for it.' I have 0.73 trust with Rick and he knows my work. If my location is surviving, I stay on the floor and work the close this month while locking in the stay bonus.",
+        "target_agent": "dealership_gm",
+        "resources": {
+          "type": "labor",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Direct conversation with Rick Tanner to activate transition pool consideration or confirm surviving location status"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Rick has the information. I asked for it directly last tick. Now I use it. If I am at the closing location, the Lane B move — positioning for the service advisor role — has to happen this week before the restructured org chart is finalized. After the org chart is done, the role is filled or closed. I have the relationship capital to make this ask now. Not next week."
+      },
+      {
+        "type": "EXCHANGE",
+        "description": "Work the floor this week with the RoboRide comparison pitch — targeted specifically at tradespeople, buyers with families and multi-destination logistics, and anyone who has been in twice without closing. My goal is one close before end of month. I am not abandoning the floor regardless of what Rick told me. If my location is closing, a commission check in my pocket is the difference between a decent exit and an empty month. If my location is surviving, Rick sees I kept selling when everyone else was distracted. The pitch leads with the total cost of ownership math: a truck owner who drives 30,000 miles per year cannot replace that with RoboRide at any price point. A nurse with four destination stops per shift cannot use an 8-minute wait time robotaxi. I find those buyers and I close one of them.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Targeted floor sales push — tradesperson and multi-destination family buyer segments, RoboRide comparison pitch"
+        },
+        "economic_effects": {
+          "income_change": 5500,
+          "expense_change": 0,
+          "savings_change": 5500,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "One commission check at my base rate is approximately $5,500. That changes my 0.8-month runway to something survivable while I process the location decision. I am good at this. The RoboRide pitch I built last tick is real competitive differentiation. The market is thinner, not empty. I close one."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Advance the three-lane contingency map from a written document to a decision tree with specific triggers. Lane A (transition program, Maria Santos grant, community college) — trigger: if no lateral role is available inside the consolidation. Lane B (service advisor or fleet-account role inside restructured company) — trigger: active this week if Rick's answer puts me at the closed location. Lane C (full exit, retraining grant, credential path) — trigger: if neither Lane A nor Lane B produces an offer within 30 days. For Lane C, I need to find one person who has already enrolled in the retraining program and ask them one question: what does the credential actually lead to in this market, not in the brochure. Six people enrolled this month. One of them is findable. I make that call this week.",
+        "target_agent": null,
+        "resources": {
+          "type": "skill",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Three-lane contingency map refined into decision tree with specific triggers and Lane C due diligence call"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The map without triggers is just anxiety on paper. The triggers make it a plan. And the Lane C research call costs me nothing but 20 minutes and gives me real intelligence on what the credential market actually looks like — not what Angela's program says it looks like, but what a real person who is living it says. I should have made this call three ticks ago."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "hustler_becoming_planner",
+    "inner_monologue": "Rick told me something last week and I have been sitting with it. Whatever it was, it's real information and I am not going to pretend I can unknow it. I have two kids and $4,000 in the bank and I am still on this floor today because leaving early doesn't help anyone, least of all Emma and Tyler. One close. Lane B call if my location is closing. Lane C research if neither of those works. I am not panicking. I am executing."
+  }
+}

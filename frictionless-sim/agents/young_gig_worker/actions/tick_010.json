@@ -1,0 +1,90 @@
+{
+  "tick": 10,
+  "agent_id": "young_gig_worker",
+  "agent_name": "Zoe Martinez",
+  "response": {
+    "internal_assessment": "I am pinned at L0_SURVIVE. Threat level is 1.0. Zero savings. Zero income listed. Monthly expenses $2,404. This is not a runway problem - this is a now problem. The cert is 22% complete and progressing, but progress on a credential does not pay rent this month. I need income in the next 30 days or the math breaks. My reflection from tick 9 was clear: three-layer model - gig as floor, RoboRide delivery as the pivot within gig, freelance social media as the bridge. Last tick I committed to walking in and calling businesses directly to land at least one $100-150/month client. The outcome shows the action happened but no savings change registered - which either means I haven't closed yet or the income hasn't materialized. This tick I need to actually close something. Sarah Kim reached out to me. Miguel reached out. The network is warm. I close one client. I register for the RoboRide delivery partner program. I keep the cert alive. In that order.",
+    "inbox_interpretation": "I see my own previous action in the inbox: the direct outreach to businesses for social media clients. The outcome field is blank on savings - which tells me I pitched but did not close. That stops this tick. Sarah Kim is reaching out to me specifically - she's training on the maintenance side of RoboRide and she sees me as a peer in the same transition, not a subordinate. That matters. Miguel also reached out to me. Two people in my network are actively engaging me. The sector data shows auto revenue at 79, employment at 53%, spending at 30% of baseline. Small businesses are desperate for visibility and cannot afford to go dark. My pitch is correct. My execution on closing was insufficient. I stop waiting.",
+    "chosen_actions": [
+      {
+        "type": "EXCHANGE",
+        "description": "Close at least one paying social media client this week. The target is Betty Kowalski's diner first - she is in my inbox, she is stressed and making changes, she is attended by both my network and community organizers. I walk in this week, not call. I sit down when it is not rush hour. I say directly: spending is down 70% from baseline, foot traffic is soft, and I can maintain a humanly present social media account for your diner for $120/month. One post per day, community-focused tone, visible and warm. I will show her my TikTok from tick 1 as proof of my voice. If Betty says no or needs time, I walk to the next business on auto row the same day. I do not leave without a yes or a firm next step from at least one business.",
+        "target_agent": "diner_owner",
+        "resources": {
+          "type": "service",
+          "direction": "give",
+          "amount": 120,
+          "detail": "Social media management service - one post per day, community-focused content, for $120/month. First month pitch to Betty Kowalski's diner or the next viable small business on auto row."
+        },
+        "economic_effects": {
+          "income_change": 120,
+          "expense_change": 0,
+          "savings_change": 120,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I have been preparing to close for two ticks. The information I need is in my head. The pitch is correct. Betty is in my immediate network (her trust is 0.51) and she is actively making changes. The consumer spending collapse is the exact argument for why social media presence matters more now, not less. Walking in is harder than emailing but the close rate is dramatically higher. I stop preparing and I start closing."
+      },
+      {
+        "type": "COMMITMENT",
+        "description": "Register for the RoboRide delivery partner program this week. I have been investigating this since the residential delivery expansion was announced. Investigating ends this tick. I go to the app, find the delivery partner registration, complete the application, and submit it. I am a last-mile layer - I deliver the final block on a bicycle after the robotaxi brings the package close. I target 15-20 hours per week of delivery work scheduled around the cert coursework (Tuesday/Thursday evenings and Saturday mornings are off-limits). Target income: $400-500/month from delivery shifts.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "give",
+          "amount": 60,
+          "detail": "15 hours/week of bike-based last-mile delivery work via RoboRide partnership program. Evening and weekend shifts only, scheduled to not conflict with Coursera cert coursework."
+        },
+        "economic_effects": {
+          "income_change": 450,
+          "expense_change": 0,
+          "savings_change": 450,
+          "asset_change": "none",
+          "employment_change": "hired"
+        },
+        "reasoning": "This is the gig pivot I identified as the highest-priority move in my tick 9 reflection. I have car-free lifestyle, a bike, and the physical capacity to do last-mile delivery. The RoboRide residential expansion created a structural demand for exactly this role. Every tick I wait, other gig workers who saw the same thing fill those partnership slots. I stop investigating and I apply."
+      },
+      {
+        "type": "ASSOCIATION",
+        "description": "Respond to Sarah Kim's outreach with genuine presence, not just politeness. She reached out to me as a peer navigating the same transition from a different angle. I tell her honestly where I am: working on the RoboRide delivery partnership registration, Coursera cert at 22%, zero savings but still moving forward. If the conversation opens into the infrastructure frame she's building - that bike last-mile workers and EV technicians are both part of what RoboRide requires - I engage that frame honestly. I am not above learning from someone who has a clearer view of the maintenance side.",
+        "target_agent": "mechanic_sarah",
+        "resources": {
+          "type": "reputation",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Genuine peer conversation with Sarah Kim about adjacent positions in the RoboRide transition. Low-cost, relationship-building, potential for mutual intelligence exchange."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Sarah reached out first. She sees us as peers in adjacent lanes. That framing is accurate and it is respectful. The community I have - Miguel, Lisa, Sarah now - is genuinely how someone with zero savings and a 581 credit score survives a structural shock. I do not take that lightly. And the intelligence exchange is real: she knows the maintenance side of this fleet. I know the gig demand side. That is a conversation worth having."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Continue the Coursera Google Digital Marketing and E-commerce Certificate. Tick 10 module work: complete whatever modules are next in sequence (cert is at 22% completion, month 6 of estimated 8-month program). Use the $49 Coursera subscription - whether Lisa Freeman's grant is still active or I need to pay it myself from any income generated this month. The cert does not stop. It is the long-term bet and I do not abandon it because the short-term is hard.",
+        "target_agent": null,
+        "resources": {
+          "type": "skill",
+          "direction": "internal",
+          "amount": 49,
+          "detail": "Coursera subscription $49/month. 4-6 hours of coursework this month on top of delivery and client work. Cert progress advances from 22% toward 25%."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 49,
+          "savings_change": -49,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I do not abandon the cert when the short term is hard. That would be the move that future-me cannot recover from. The cert is the ceiling - the thing I am building toward. The gig work and the freelance client are the floor and the bridge that make it possible to reach the ceiling. All three have to be in motion simultaneously."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Zero savings, tick 10. If I had frozen at any point in the past nine ticks this would feel like a catastrophe. It does not, which means something in me is still moving. The flatness I named last tick is still here but it has a direction now. Sarah reaching out, Miguel reaching out, the RoboRide delivery lane being real and open - I am not alone in this and I am not out of moves. I close Betty or the next business this week. I register for the delivery program this week. I talk to Sarah this week. Not next week. This week. The adapter does not just see the shift - she gets to the other side of it. I am getting to the other side of it."
+  }
+}

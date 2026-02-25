@@ -1,0 +1,71 @@
+{
+  "tick": 10,
+  "agent_id": "insurance_agent_tom",
+  "agent_name": "Tom Bradley",
+  "response": {
+    "internal_assessment": "I am at L0/L1. Unemployed. Savings at $38,573. Monthly expenses at $2,650. Runway approximately 14.6 months — which is better than it feels, because the grief of unemployment compresses the perceived horizon. My 30-day notice period at AutoShield is coming to a close. This tick I am fully in transition. The three-track plan I named in my tick 9 reflection is the right structure: Track 1 is retraining (SQL coursework, commercial risk analytics certification — in progress via the grant application); Track 2 is active job search via Linda's fleet and logistics contacts plus my own network; Track 3 is relational stability — Sarah, the community, Carlos, the people who knew me before. I am optimizing L1_STABILIZE by protecting runway while building the credential and network that extend it into a new role. The inbox tells me my AutoShield employment is formally closing — the 30-day notice period has ended. This is the first tick I am fully outside the institution. That is the transition.",
+    "inbox_interpretation": "The DIRECT_IMPACT messages in my inbox are mostly about other agents — Jake Morrison's situation at the dealership, Robert Jackson's family conversations, Priya Sharma's job search follow-up. What matters to me: AutoShield is formally closing out, as Linda's inbox confirms she has shifted to exit mode. I saw the note that Linda is re-engaging her strongest external employer lead and continuing her CRMP certification — she is doing the same thing I am, on a parallel track. The Priya Sharma message I initiated at tick 9 should now be in her inbox. I need to actually have that conversation this tick. The broader community signals — 53% employment rate, spending at 30, 9 active protests — confirm that my situation is not unusual. Half the employed population has disappeared from the labor market. I am one of many. That does not make it easier but it changes the shape of what a recovery looks like.",
+    "chosen_actions": [
+      {
+        "type": "COMMITMENT",
+        "description": "Have the actual conversation with Priya Sharma that I signaled at tick 9. This is not a follow-up message — it is a phone call or in-person meeting. I tell her my AutoShield employment has ended. I ask what she has learned from her own job search so far — specifically: which regional insurtech firms or commercial risk analytics roles have responded, and what the market signal is on timeline to interview. I share what Linda offered: introductions to fleet and logistics contacts. I ask Priya directly if she wants to be included in that outreach loop — Linda respects both of us, and if there is a role that could fit either of us, we are more useful to each other than we are competing. I also check in on her retraining grant application — did Maria Santos's office respond? I filed mine at tick 8 and have had no confirmation.",
+        "target_agent": "insurance_agent_priya",
+        "resources": {
+          "type": "skill",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Mutual intelligence sharing on job market, grant status, and potential shared network access through Linda Park's fleet/logistics contacts"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Priya is the most relevant peer I have for this transition — she is 29, I am 52, but we are both former insurance professionals pivoting toward data-adjacent roles in the same compressed timeline. Her market intelligence is more current than mine because she started the job search earlier. The conversation costs nothing and likely accelerates both of us. I signaled this at tick 9. I follow through at tick 10."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Activate Linda Park's offer of fleet and logistics contact introductions. Send Linda a brief, professional message: thank her for the offer made during the tick 9 layoff conversation, confirm that my AutoShield employment has formally ended, and ask her to make the introductions she offered. I am not asking for a job recommendation — I am asking for an introduction. I understand she is also navigating her own transition. I keep the ask specific and low-burden: two or three names she is comfortable connecting me to in the commercial fleet risk or logistics insurance adjacent space. I follow up within 48 hours of any introduction she makes.",
+        "target_agent": "insurance_manager",
+        "resources": {
+          "type": "reputation",
+          "direction": "receive",
+          "amount": 0,
+          "detail": "Activate promised fleet/logistics professional network introductions from Linda Park — converting a verbal offer into actual contacts"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Linda offered this at tick 9. I accepted. Tick 10 is the first tick in which my AutoShield employment has formally ended — making this the right moment to activate the offer without it reading as premature. The fleet and logistics sector is the most structurally sound destination for someone with 28 years of auto risk assessment experience. Linda's contacts are the fastest path to that door."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Continue retraining coursework — specifically the SQL and data fundamentals track I committed to through the workforce retraining grant application. Spend three dedicated evening sessions this tick on the curriculum. The goal is not a module completion this tick — the goal is maintaining the daily habit under the psychological pressure of unemployment. The first week outside AutoShield is the hardest for the discipline to hold. I document what I complete so the retraining grant progress record stays current.",
+        "target_agent": null,
+        "resources": {
+          "type": "skill",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "SQL and commercial risk analytics retraining coursework — three dedicated sessions this tick, progress documentation maintained"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": -2650,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The 28-year insurance identity is no longer a present-tense credential. The retraining coursework is the mechanism for converting that history into something legible to a new employer. The grant covers the cost. The time investment is the only real constraint. Maintaining the habit in the first week of unemployment is the most important single behavioral act of this tick — it is the difference between a transition and a drift."
+      }
+    ],
+    "emotional_state": "resigned",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "AutoShield is over. Not as a concept, not as a possibility — it is over as a fact. Sarah knows the numbers. The kids do not yet know everything but they know Dad is looking for something new. The retraining grant application is in. Linda's contacts are waiting to be activated. The only thing standing between me and the next chapter is momentum, and momentum is the thing grief most wants to eat. I do not let it. I pick up the phone. I call Priya. I call Linda's contacts when she sends them. I sit down with the coursework three evenings this week even when I do not want to. That is what the next chapter looks like at the start."
+  }
+}

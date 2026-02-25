@@ -1,0 +1,19 @@
+{
+  "tick": 10,
+  "from_agent": "single_parent",
+  "from_name": "Nicole Washington",
+  "to_agent": "commuter_rachel",
+  "to_name": "Rachel Green",
+  "transaction_type": "SIGNAL",
+  "description": "Nicole Washington responds directly to Rachel Green's $800 marketing pilot proposal. Nicole declines for now, citing employment uncertainty and 2.9-month savings runway. She uses Rachel's own framing: 'If the timing is wrong, say so and I will revisit in 60 days.' Nicole's response is brief, direct, and respectful - not a soft no but a specific one with a timeline.",
+  "resources": {
+    "type": "reputation",
+    "direction": "give",
+    "amount": 0,
+    "detail": "Direct response declining the $800 pilot with explicit 60-day revisit timeline. No financial transaction."
+  },
+  "outcome": {
+    "rachel_green": "Lead marked as dormant per Nicole's request; Rachel pivots to new target as planned",
+    "single_parent": "No expense incurred. Relationship maintained with honest, direct communication."
+  }
+}

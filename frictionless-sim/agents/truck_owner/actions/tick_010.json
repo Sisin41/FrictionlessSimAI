@@ -1,0 +1,71 @@
+{
+  "tick": 10,
+  "agent_id": "truck_owner",
+  "agent_name": "Dale Cooper",
+  "response": {
+    "internal_assessment": "I am optimizing L1_STABILIZE right now. My savings just dropped $4,681 last tick because I'm running at a monthly deficit with zero income and $4,681 in expenses. I have roughly 10 months of runway at this burn rate, but the insurance enrollment ($1,400/month) has permanently changed my floor. L0_SURVIVE is not threatened yet but it needs to stay in view. The Lisa Freeman conversation happened last tick and the outcome shows I lost income and employment status. I need to know what that means concretely: did the bids fall through? Did no work materialize? Either way, I'm burning savings and I need to act. The bid pipeline audit I planned last tick is the most important thing I can do this month.",
+    "inbox_interpretation": "The community is in real distress. Nine protests. Tom Bradley laid off. Spending index at 30, which is worse than before. Employment at 53% citywide. I see my own name in the inbox twice from my tick 9 actions: the pipeline audit plan and the processing of community stress. The Lisa Freeman follow-up outcome shows I went unemployed last tick. That's the signal: the two repair bids through her pipeline did not convert, or the community center itself had no work. I need new work now. The protest environment means construction clients are scared. But scared people also have deferred maintenance piling up. Betty Kowalski is making moves. Carlos is making moves. The community is organizing. I absorb this but don't react to it. I find work.",
+    "chosen_actions": [
+      {
+        "type": "TRANSFORMATION",
+        "description": "Execute the bid pipeline audit I committed to last tick: spend two hours this week doing a systematic written review of every active bid, outstanding receivable, and the probability-weighted income coming in the next 30-60 days. Update the savings runway calculation at the current $4,681/month burn rate. Come out of this exercise with one clear number: how many months before savings fall below the $20,000 psychological floor that triggers a hard decision.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "internal",
+          "amount": 2,
+          "detail": "2 hours of systematic financial and pipeline audit work. No cost, no income. Pure information-gathering."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "A man who does not know his exact number cannot make good decisions. The insurance enrollment changed the baseline. My savings dropped $4,681 last tick and I need to know what I'm actually looking at. This audit was planned last tick and I am doing it this tick, first. Everything else waits on this number."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Reach out to Carlos Ruiz directly this week. He's making changes. He knows the local auto ecosystem. I ask him plainly: are any of the shops he works with doing construction-adjacent work, have any of his clients mentioned deferred home maintenance, or does he know anyone planning a build or repair project who hasn't found a contractor yet? I'm not asking for charity. I'm asking a man in my network to tell me if he's heard anything useful. Trust is 0.51 - enough to be direct.",
+        "target_agent": "mechanic_carlos",
+        "resources": {
+          "type": "reputation",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Professional network activation. Low-cost outreach to a trusted contact to surface potential bid opportunities through his client base."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Carlos is in the auto sector and sees homeowner clients who are retaining their cars and may be investing in their properties instead. He's making changes himself. A quick conversation costs me nothing and might surface a lead. I have been through 2008. Leads come from people who know you, not from cold calls in a scared market."
+      },
+      {
+        "type": "EXCHANGE",
+        "description": "Submit two new bids this month targeting needs-based residential work: a drainage or grading job and a deck repair or small foundation issue. These are the jobs that exist in a scared market - people do not add garages but they fix what is breaking. I price both competitively but not desperately. I use Lisa Freeman's network as a referral starting point and also check in with Betty Kowalski's diner, where tradespeople still talk over coffee. One new signed contract before end of month is the goal.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "give",
+          "amount": 40,
+          "detail": "Estimating, bidding, and initial outreach labor for 2 new project bids. Needs-based residential work - drainage, deck repair, foundation. Approximately $8,000-$15,000 total project value if both close."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The Henderson bid taught me not to put all my eggs in one basket. The Lisa Freeman pipeline taught me that referral channels take time to produce. I need to build my own pipeline with multiple smaller bids simultaneously. Needs-based work - things that are broken and need fixing - is the market that exists right now. I price to win one of two bids, not to maximize margin on a single job I may never get."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Savings down $4,681. Zero income. Ten months of runway if I change nothing, which I'm not going to do. I've been through worse than this - 2008 was worse than this - and I kept the family fed and the mortgage paid. The difference now is I've got three dependents, a health insurance commitment I'm not walking back, and a community that's hurting in ways that make clients scarce. I find the work anyway. I always have. The audit first - I need the number in my head before I can make any decision worth making. Then Carlos, then the bids. I'm not panicking and I'm not pretending. I'm working the problem the way I always have: methodically, one step at a time."
+  }
+}

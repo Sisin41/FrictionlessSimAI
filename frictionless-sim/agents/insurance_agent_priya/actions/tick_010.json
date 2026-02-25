@@ -1,0 +1,90 @@
+{
+  "tick": 10,
+  "agent_id": "insurance_agent_priya",
+  "agent_name": "Priya Sharma",
+  "response": {
+    "internal_assessment": "I am deep in L0 territory. Savings at $7,299. Monthly expenses at $3,341. Runway approximately 2.2 months — this is the number that overrides everything else. My threat level is 0.82. I am not in denial about what this means. I have been unemployed since tick 8. Three applications are out. No responses yet. Module 4 of the SQL/data visualization course is in progress. The retraining grant application is still something I have not confirmed I filed — my tick 9 reflection identified this as a specific failure of follow-through for the second consecutive tick. At 2.2 months runway and $3,341/month burn, I am mathematically one or two bad ticks from crisis. This tick my primary optimization is L0 bridge income — I need either a job offer or a confirmed income stream within 60 days, or I need to reduce expenses materially. My secondary optimization is L1: protecting the $7,299 savings floor from further erosion by any means that does not compromise the job search. I am not applying for food service gigs. I am a 29-year-old with SQL skills, insurance domain knowledge, and three active applications. I am a viable candidate. But viable candidates with 2.2 months runway need to move with urgency they do not perform but actually feel.",
+    "inbox_interpretation": "Tom Bradley reached out directly, as I knew he would — the news that he got the layoff came through, and his message is genuine. He wants to talk about the retraining grant experience, the job market signal from my applications, and how I am actually doing. I will have that conversation. It is worth having. His network and Linda's fleet contacts may produce leads I have not accessed yet. The sector data confirms: 22 active auto insurance policies, cancellations increasing. The market I came from is contracting faster than I can run. The macro numbers — 53% employment, spending at 30 — tell me the labor market I am trying to enter is also compressed. This is not a friendly environment for a job search. But I am positioned better than most: I have SQL skills, I have a portfolio artifact, I have three applications in flight, and I have Linda Park's trust at 0.82 — which is a referral asset I have not fully deployed yet. The Zoe Martinez word-of-mouth that she is targeting businesses for social media work — including potentially the diner — is interesting but not my lane. The key insight from the inbox: I need to submit the retraining grant application this tick if I have not already. Today. Not after the job search actions. First.",
+    "chosen_actions": [
+      {
+        "type": "COMMITMENT",
+        "description": "Submit the $2,500 workforce retraining grant application through Maria Santos's office TODAY. Not after the job search follow-up. Not after Tom's call. First. I fill out the application form, document my three completed SQL/data visualization modules and the Module 4 in progress, name the target transition: commercial risk analytics or data analyst roles in insurtech or fleet risk adjacent sectors. I attach the fleet incident data query as a portfolio artifact demonstrating the coursework is producing usable output. I submit it. I get a confirmation number. I write it down. This has been a named failure in my tick 6 and tick 9 reflections. It does not make it to tick 11 as an open item.",
+        "target_agent": null,
+        "resources": {
+          "type": "currency",
+          "direction": "receive",
+          "amount": 2500,
+          "detail": "Apply for Maria Santos office $2,500 workforce retraining grant — SQL/data analytics coursework documented, fleet incident query artifact attached"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "This is $2,500 sitting on a table. At 2.2 months runway and $7,299 in savings, $2,500 represents 34 additional days of runway at current burn. I have named this as a failure twice. I am not naming it a third time. I am doing it."
+      },
+      {
+        "type": "EXCHANGE",
+        "description": "Have the real conversation with Tom Bradley that he initiated — by phone, not message. I tell him honestly where my job search stands: three applications out, no responses yet, approximately two months of runway, Module 4 in progress. I ask him about Linda's fleet and logistics contacts — does he know who she is connecting him to? I want to know whether any of those contacts have insurtech or commercial risk analytics arms, because that is my target sector, not personal auto. I also tell him about my own search strategy: the regional insurtech firms, the commercial fleet risk roles, the SQL portfolio artifact. I am not performing confidence. I am sharing real information with someone who is navigating the same thing from a different starting position. He has 14 months of runway. I have 2. We can be useful to each other without pretending our situations are equivalent.",
+        "target_agent": "insurance_agent_tom",
+        "resources": {
+          "type": "reputation",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Mutual intelligence sharing on job market signals, network access, and grant application status — real conversation, not managed professional check-in"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Tom's network through Linda is the most relevant professional network I have not yet accessed. His trust score with me is 0.6 and rising because I reached out to him at tick 9 when he got the layoff. This conversation builds on that. He also has 28 years of insurance relationships. If even one of his contacts crosses into the commercial risk analytics space I am targeting, that conversation is worth more than a cold application."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Submit a fourth job application this tick — specifically targeting a regional insurtech firm or commercial fleet risk analytics role I have not yet applied to. Expand the geographic scope if needed: I stated willingness to move at 0.75. A role 45 minutes away is worth applying to. I use the fleet incident data query as the portfolio attachment. I write a tailored cover letter — not a template — that references one specific detail from the job description to demonstrate I read it carefully. I do not follow up on the three existing applications this tick; I applied a value-add touch at tick 9 and I let that work before I ping again.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Submit fourth formal job application to regional insurtech firm or commercial fleet risk analytics role — tailored cover letter and SQL portfolio artifact attached"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": -3341,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Three applications are in flight. Statistically, the job search resolves on volume and timing, not on waiting for the right three to respond. A fourth application increases the probability of a response before my runway compresses to dangerous levels. I am not desperate. I am mathematically correct. At 2.2 months runway, one more application per tick is not overcorrection — it is the appropriate pace."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Complete SQL Module 4 — window functions and subqueries — this tick. Three dedicated evening sessions. I cited this as an active differentiator in my applications. I have to be able to speak to it in an interview. I update my LinkedIn profile upon completion to reflect four completed modules and the fleet incident data query portfolio artifact.",
+        "target_agent": null,
+        "resources": {
+          "type": "skill",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Complete SQL Module 4 — window functions and subqueries — and update LinkedIn profile and application materials to reflect current certification progress at 50%+"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "This is the most consistent behavior I have maintained since tick 0. The course discipline is the clearest evidence I have that I am the person I claim to be in my cover letters. I finish Module 4. I update my materials. I am not a candidate who says she has SQL skills — I am a candidate who can demonstrate them with a working query and four completed modules."
+      }
+    ],
+    "emotional_state": "anxious",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Two months. I have been saying I am not scared of change since tick 0 and now I have two months of runway and three applications with no responses and a grant form I have not filed in two ticks of being unemployed. The identity is being tested and what I feel right now is not the comfortable version of 'not scared' — it is the real version, which is scared and moving anyway. I submit the grant first. Then I call Tom. Then I apply again. This is what 'not scared of change' looks like from the inside when the change is actually here."
+  }
+}

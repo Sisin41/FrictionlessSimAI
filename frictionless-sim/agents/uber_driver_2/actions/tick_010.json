@@ -1,0 +1,90 @@
+{
+  "tick": 10,
+  "agent_id": "uber_driver_2",
+  "agent_name": "Grace Okafor",
+  "response": {
+    "internal_assessment": "I am at L0_SURVIVE — full stop. Savings at $68, monthly expenses at $1,787, income currently $0 from formal employment but rideshare is resuming. The threat level is 1.0. This is not a planning conversation, it is a crisis execution. Every action this tick has to generate income or directly accelerate NEMT placement. The nursing school trajectory is the long-term plan and it remains correct — I do not abandon it. But I cannot let the credential-in-progress become a reason to delay the immediate bridge. NEMT certification is complete or near-complete. I call the operators Robert named. I drive every viable hour. I do not do anything this tick that does not serve one of those two priorities.",
+    "inbox_interpretation": "The inbox confirms several things I needed to hear and one I did not. Robert's message is the one I needed most: he gave me direct, honest intelligence — the rates are real, the liability moat is real, his outreach is in motion but no offer yet, I should move quickly. He is telling me to act without waiting for his confirmation. That is the right call and I respect it. Denise Williams's warm note confirms the hospital intelligence about the post-acute step-down unit expansion is consistent with what she is seeing in Millfield General job postings — that is a medium-term signal I file away. The outcome message confirms my savings dropped by $1,787 last tick. I am at $68. The rideshare income I generated at tick 9 was not enough to offset the burn — likely because I entered the tick with near-zero income and the driving hours I logged were real but insufficient to cover a full month of expenses. This tick I drive hard and I call the NEMT operators this week. No delay. No hedging. Two priorities: income generation and NEMT placement. Everything else waits.",
+    "chosen_actions": [
+      {
+        "type": "EXCHANGE",
+        "description": "Call Millfield Medical Transport and CareRide of the Valley this week — the same operators Robert named. I have the NEMT certification in hand. I lead with that fact and state my availability clearly: I am certified, I have a clean driving record, I have a vehicle that meets commercial standards, and I can start within the week. I ask one direct question: is there an onboarding slot available and when can I schedule an interview or orientation? I do not wait for Robert's offer to confirm before calling. I act on his intelligence directly. If Robert has already spoken to these operators, I mention his name — not to piggyback on his application, but to establish that I come from the same credible pipeline he does.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Direct outreach to Millfield Medical Transport and CareRide of the Valley. NEMT certification credential presented. Interview or onboarding requested."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "hired"
+        },
+        "reasoning": "This is the single most important action I take this tick. Everything else is secondary. If I can place with an NEMT operator within two weeks, I avoid a crisis. If I cannot, I need rideshare income to bridge. The call happens today."
+      },
+      {
+        "type": "EXCHANGE",
+        "description": "Drive every available high-yield shift this week. Morning airport windows (5am-9am), Friday evening surge block, Saturday morning airport window. Also drive Tuesday and Wednesday afternoon if demand holds above minimum threshold. I am not being selective anymore — I am maximizing hours within the constraint of clinical study commitments. Target: $800-900 in rideshare income this tick. That is not enough to fully cover $1,787 in expenses, but it is the difference between two weeks of partial runway and complete collapse.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "give",
+          "amount": 35,
+          "detail": "High-intensity rideshare driving: morning airport windows, Friday evening surge, Saturday morning, midweek afternoon shifts. 35+ hours target."
+        },
+        "economic_effects": {
+          "income_change": 850,
+          "expense_change": 0,
+          "savings_change": -937,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I cannot let savings go further negative. $68 is functionally zero. Every driving hour is survival income. I accept the income compression from RoboRide. Even $0.12/mile competition does not eliminate rideshare entirely — there are still rides being taken, and I am going to be in the queue to take them."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Send a brief, direct update to Robert Jackson. One paragraph: I received his message and I am acting on it. I am calling the operators this week with the cert in hand. I mention that I am using his name as a credibility reference — not to freeload on his pipeline, but to establish shared network context. I ask one thing: if either Millfield Medical Transport or CareRide gives him an offer this week, can he tell me the name of the contact person he spoke to? That specific warm introduction — even a name — cuts through the cold call queue. I ask for it directly because he offered to give it and I should not be too proud to accept.",
+        "target_agent": "rideshare_driver",
+        "resources": {
+          "type": "service",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Status update to Robert Jackson. Request for specific contact name at NEMT operators if he receives an offer. Reciprocal intelligence exchange."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Robert is my highest-trust contact and he is running the same path three to four weeks ahead of me. A first name at the operator is worth hours of cold-call queue time. I ask for it directly and without apology. We have been trading real intelligence for six ticks. This is a legitimate ask."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Send a brief, warm thank-you to Denise Williams acknowledging her note. One sentence of gratitude, one sentence of update: the cert is done and I am calling operators this week. I note her intelligence about the Millfield General step-down unit expansion — tell her I am filing that for the medium-term nursing trajectory and that she may be inside the institution where I eventually work. I do not ask her for anything. I keep the relationship alive because it is worth keeping alive.",
+        "target_agent": "parking_garage_mgr",
+        "resources": {
+          "type": "service",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Brief reciprocal message to Denise Williams. Warm maintenance of the relationship. No ask."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "This costs fifteen minutes and maintains a relationship that has genuine long-horizon value. If Denise lands at Millfield General, she becomes a contact inside the institution where I eventually want to work. A warm note when I am at $68 in savings is not a luxury — it is a small investment in the future I am building toward."
+      }
+    ],
+    "emotional_state": "anxious",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Sixty-eight dollars. I have driven more miles than I can count in this city and I am down to sixty-eight dollars. I am not panicking because panic is useless — but I am scared in the honest way, the way that makes you move. The cert is real. The operators are real. Robert's intelligence is good and I trust it. I call today, I drive this week, and I do not stop until one of those two things produces income. I did not come this far through nursing school to fold when the plan hits friction. I adapt. That is what I do."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "tick": 10,
+  "from_agent": "young_gig_worker",
+  "from_name": "Zoe Martinez",
+  "to_agent": "diner_owner",
+  "to_name": "Betty Kowalski",
+  "transaction_type": "EXCHANGE",
+  "description": "Zoe Martinez pitches and attempts to close a social media management service contract with Betty Kowalski's Auto Row Diner. Rate: $120/month for one post per day, community-focused content. Zoe walks in during non-rush hours and makes the pitch in person, showing her TikTok from tick 1 as proof of voice and framing the value proposition around the spending index collapse: 'Businesses that stay humanly visible on social media have a measurable edge over ones that go dark.'",
+  "resources": {
+    "type": "service",
+    "direction": "give",
+    "amount": 120,
+    "detail": "Monthly social media management service - $120/month. One post per day, community-focused tone, engagement management."
+  },
+  "contingent_on": "Betty Kowalski accepting the pitch",
+  "if_accepted": {
+    "young_gig_worker_income_change": 120,
+    "diner_owner_expense_change": 120
+  },
+  "if_rejected": {
+    "young_gig_worker_income_change": 0,
+    "note": "Zoe immediately pivots to next closest small business on auto row same day"
+  }
+}

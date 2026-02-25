@@ -1,0 +1,90 @@
+{
+  "tick": 10,
+  "agent_id": "community_organizer",
+  "agent_name": "Lisa Freeman",
+  "response": {
+    "internal_assessment": "I am optimizing L6_TRANSCEND — specifically, my work as the community's connective tissue in a moment of acute stress. My L0 threat level is 0.41, which is real but manageable at 7.1 months of runway and $23,258 in savings. What is not manageable is the community around me: employment at 53%, spending index 30, nine protests, Hawkins closure displacing workers this week. I attended the task force session at tick 9 and delivered street-level data and the Financial Triage Navigator concept brief. The council now has it on record. My job this tick is to make the Financial Triage Navigator real — not just a concept brief, but an operating function — and to run community connection night in a way that actually serves people who are in genuine crisis, not people who are managing transitions from a position of stability.",
+    "inbox_interpretation": "The inbox is dense with cascading actions from the Hawkins closure and Tanner consolidation. Angela Wright is processing displaced workers. Maria Santos acknowledged nine protests in a public statement. Dorothy Chen wants to expand transportation sessions into a broader economic transition workshop for older adults. Six people enrolled in retraining. Mark Thompson is pursuing the board on the Auto Tech Pipeline. The pattern I see: multiple nodes are independently building infrastructure to help displaced workers, but they are not yet coordinating with each other. Angela Wright has placement capacity. Mark Thompson has a training pipeline (pending board approval). I have the community center and the trusted space. Robert Jackson is a case study in successful pre-emptive retraining. Grace Okafor is a near-case study. If I can connect these nodes, the sum is more than the parts. The Financial Triage Navigator function I proposed at the task force is the hub that makes this possible — it is the intake point that routes people to the right pathway. That is my job this tick: make that intake function real, not conceptual.",
+    "chosen_actions": [
+      {
+        "type": "TRANSFORMATION",
+        "description": "Launch the Financial Triage Navigator function at the community center. Not as a pilot — as an operating service that begins this week. The structure: Tuesday and Thursday evenings during community connection night, a trained volunteer (I will start as the volunteer) sits with a community member for 45 minutes. The session covers: current income and expense picture, what programs they have already applied for and what the status is, what programs they qualify for but have not applied to, and a specific prioritized list of three next steps with contact information attached. I am not a financial planner. I am a person who knows what resources exist in Millfield and can map them to a person's actual situation in plain language. I start doing this this week.",
+        "target_agent": null,
+        "resources": {
+          "type": "service",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Launch Financial Triage Navigator function. 45-minute structured intake sessions for community members navigating displacement. Tuesday and Thursday evenings."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 362,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I told the task force this function was coming. It needs to be real this week, not next month. The people coming through my doors are not waiting for a planning cycle. A displaced Hawkins worker who comes to community connection night on Tuesday needs to leave with a specific list of next steps, not a brochure."
+      },
+      {
+        "type": "ASSOCIATION",
+        "description": "Call Angela Wright directly — before this week's community connection night — to coordinate intake. Angela is processing displaced Hawkins workers by phone call this week. I tell her: when you finish the intake call, if the worker does not have a next step that is already defined and specific, tell them to come to the community center Tuesday or Thursday evening. We run a 45-minute session that produces a prioritized action list. Give them my name and tell them to ask for me. I am not trying to own the relationship. I am adding a step in the pipeline that Angela's intake process does not have time to cover.",
+        "target_agent": null,
+        "resources": {
+          "type": "service",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Intake coordination with Angela Wright. Community center positioned as structured follow-up resource after Angela's initial displaced worker outreach calls."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Angela is making 30-plus calls this week to displaced workers. She does not have time for 45-minute financial triage sessions. I do. But I will never hear from those workers if Angela does not tell them I exist. One coordination call creates a referral pipeline that did not exist yesterday."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Respond to Dorothy Chen's proposal about expanding transportation sessions into a broader 'economic transition for older adults' workshop series. I tell her yes — with conditions. Yes, I will give her a time slot and a platform at the community center. The condition: she brings the curriculum draft to me before the first session and we review it together to ensure it covers the financial decision dimension, not just the transportation dimension. Older adults facing asset decisions — whether to sell a car, how to evaluate RoboRide for their specific mobility needs, how to access fixed-income programs if their expenses spike — need more than transportation navigation. They need the economic framing too. Dorothy has the credibility with that demographic. I have the framework. Together we build something real.",
+        "target_agent": "retiree",
+        "resources": {
+          "type": "service",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Formal yes to Dorothy Chen's workshop expansion proposal, with curriculum coordination condition. Bi-monthly economic transition workshop series for older adults."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Dorothy is already running sessions and they are working — she has attendance and trust with the older adult population. Building on that foundation with a more structured economic dimension is lower cost than starting from scratch. And frankly, the older adult population in Millfield is under severe pressure right now from fixed incomes meeting a disrupted spending environment. They need this."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Host this week's Community Connection Night with a deliberate structure that acknowledges the current moment directly. Opening segment: I name the Hawkins closure, the protests, and the employment numbers out loud — not to alarm people, but to validate what everyone in the room already knows. People who come to a community center in a crisis do not want to be managed around the crisis. They want to be seen. I name it in two sentences, acknowledge it is real and hard, and then move to the tools: the Financial Triage Navigator is now operating here, tonight, and going forward. If you need it, I am here.",
+        "target_agent": null,
+        "resources": {
+          "type": "service",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Community Connection Night facilitation. Structured acknowledgment of community stress. Launch announcement for Financial Triage Navigator."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The grief stage I am carrying is anger. I have watched this community absorb blow after blow and the institutional response has been slower than the need. What I can control is this room, this night, and the quality of what I offer to the people who show up. I offer honesty and tools. That is what I have."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "builder",
+    "inner_monologue": "Nine ticks of watching people come through this door looking lost, and now I am finally in the room where some of the decisions are being made. That Financial Triage Navigator concept brief was not just a policy document — it was me telling the council: I know what people need and I am going to provide it with or without your endorsement. I do not need their blessing to start. I start Tuesday. The anger I carry about how slow the institutions have been is not going to paralyze me. I am going to use it to move faster."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "tick": 10,
+  "from_agent": "rideshare_driver",
+  "from_name": "Robert Jackson",
+  "to_agent": "uber_driver_2",
+  "to_name": "Grace Okafor",
+  "type": "SIGNAL",
+  "description": "Intelligence update: live status on NEMT operator outreach, specific contact names at Millfield Medical Transport and CareRide if received, and direct peer encouragement to move without waiting for Robert's offer to confirm",
+  "resources": {
+    "type": "service",
+    "amount": 0,
+    "detail": "Peer intelligence exchange: current status of Millfield Medical Transport and CareRide outreach, any contact names or insider detail from calls made this tick. Warm referral signal to Grace as a parallel credentialed applicant."
+  },
+  "status": "pending"
+}

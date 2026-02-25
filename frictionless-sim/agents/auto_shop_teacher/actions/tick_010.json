@@ -1,0 +1,90 @@
+{
+  "tick": 10,
+  "agent_id": "auto_shop_teacher",
+  "agent_name": "Mark Thompson",
+  "response": {
+    "internal_assessment": "I am optimizing L2_PARTICIPATE — specifically, securing program continuity and converting the board presentation outcome into a formal commitment. The Millfield Auto Tech Pipeline presentation was delivered at tick 9 with the full evidence stack: EV curriculum redesign, ASE certification alignment, Santos endorsement, RoboRide fleet maintenance gap, Howard Liu's written statement, Sarah Kim as confirmed guest instructor. Savings grew by $450 that tick. Now the board needs to respond. I am not in a survival position — 8.6 months of runway, $31,050 in savings — but the role security is 0.36 and program continuation is not guaranteed until I have a formal decision in writing. This tick is about follow-through on the presentation and building the first real-world evidence that the program works.",
+    "inbox_interpretation": "The inbox confirms that six people enrolled in retraining this month — that is a meaningful signal that the community is moving toward skill acquisition under pressure. The Maria Santos task force is active, Angela Wright is processing displaced workers from the Hawkins closure, and the Millfield General job posting environment is apparently expanding in patient-facing roles. My board presentation outcome is noted in my own inbox as a positive action completed. The relevant adjacency: displaced auto workers from Hawkins and Tanner need somewhere to go, and the Millfield Auto Tech Pipeline — if the board approves funding — is exactly the kind of pathway that serves them. The policy environment is moving in my direction. What I need now is a board decision and the first concrete student placement signal to prove the pipeline is real, not theoretical. Howard Liu returning Mark's outreach is noted in the inbox — that call happened and it creates a new data point for my program's industry relevance.",
+    "chosen_actions": [
+      {
+        "type": "COMMITMENT",
+        "description": "Follow up with the school board directly to get a decision timeline. I sent them home from the tick 9 presentation with a one-page summary and Howard Liu's written statement. I give them one week to deliberate and then I contact the board secretary directly to ask: what is the timeline for a formal vote on the Millfield Auto Tech Pipeline funding request, the equipment budget line, and the workforce transition grant pathway connection? I do not lobby individual board members. I ask about process. That is appropriate and professional. If the decision is scheduled for the next regular session, I note the date and prepare accordingly.",
+        "target_agent": null,
+        "resources": {
+          "type": "service",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Follow-up with board secretary on decision timeline for Millfield Auto Tech Pipeline funding vote."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I cannot sit and wait indefinitely. A polite, professional inquiry about process is not pressure — it is the behavior of someone who is serious about the proposal and organized enough to track decision timelines. If the board is actively deliberating, this inquiry signals that I am attentive. If they have already decided, I need to know immediately."
+      },
+      {
+        "type": "ASSOCIATION",
+        "description": "Reach out to Sarah Kim to debrief on the board presentation. She committed to a guest instructor session as part of the proposal. Now that the presentation has been delivered, I want to give her a real update on where the board is and confirm that her commitment is still active. I also want to ask her one honest question: from her vantage as a working mechanic watching the Hawkins closure and Tanner consolidation, does she think there is realistic demand for newly trained EV technicians in the next 12 to 18 months in the local market? Her ground-level read matters more than my projections.",
+        "target_agent": "mechanic_sarah",
+        "resources": {
+          "type": "service",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Post-presentation debrief with Sarah Kim. Confirm her guest instructor commitment and gather current market intelligence."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Sarah Kim is the most valuable external credibility anchor the program has. Her continued engagement validates the proposal. If she has second thoughts or changing market reads, I need to know that now, not after the board votes. The relationship maintenance is also genuine — she took a real step for me and I owe her a real update."
+      },
+      {
+        "type": "ASSOCIATION",
+        "description": "Contact Lisa Freeman at the community center about a possible referral pipeline. Angela Wright is processing displaced workers from the Hawkins closure. Lisa is running community connection night with structured programming for people facing transitions. The Millfield Auto Tech Pipeline — if funded — would benefit from a formal referral pathway: workers who come through the community center and are assessed as technically capable could be directed toward the program. I call Lisa, explain what I presented to the board, and ask if she would be willing to mention the pipeline as a potential pathway when she is working with displaced workers who have a mechanical or technical background.",
+        "target_agent": "community_organizer",
+        "resources": {
+          "type": "service",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Referral pipeline coordination with Lisa Freeman. Community center mentions program to appropriate displaced workers. Mark provides program information to Lisa."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The board presentation proved the case analytically. What makes the program undeniably real is student demand. If Lisa is already talking to displaced workers from auto-adjacent industries, a referral conversation costs nothing and could produce the first cohort of actual applicants. That is evidence the board cannot argue with."
+      },
+      {
+        "type": "INACTION",
+        "description": "Continue teaching current auto shop curriculum while awaiting the board decision. No reactive curriculum changes, no premature pivots. The program as it exists is still operating. I teach this week's classes with the same quality and engagement I always bring. I do not treat the pending board decision as a reason to deprioritize the students in front of me.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Maintain current teaching schedule. Full engagement with enrolled students regardless of board decision timeline."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 450,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The students in my class right now are the program. If I treat them as less important because the board decision is pending, that is the kind of visible disengagement that actually harms a program's reputation. I teach well until the decision comes, and then I teach well after."
+      }
+    ],
+    "emotional_state": "hopeful",
+    "archetype_self_assessment": "builder",
+    "inner_monologue": "I put everything I had into that presentation — nine ticks of evidence, a real industry partner, a councilmember's endorsement. Now the board has it. I cannot force the decision and I would not want to. What I can do is make sure the pieces around the decision keep moving: keep Sarah committed, get Lisa routing people to the pipeline, find out when the vote is happening. If the board approves this, Millfield gets a technician pipeline for the exact vehicles now driving through its streets. If they do not, I need to know quickly enough to figure out what comes next. But I am not going to that contingency yet. I believe in this proposal."
+  }
+}

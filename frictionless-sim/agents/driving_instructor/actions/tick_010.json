@@ -1,0 +1,71 @@
+{
+  "tick": 10,
+  "agent_id": "driving_instructor",
+  "agent_name": "Frank Russo",
+  "response": {
+    "internal_assessment": "I am still operating at L0/L1 — survival and stabilization. My savings are at $7,004 and dropping $3,176 per month with zero income. My runway is now just over two months. The grant application I submitted in tick 8 is the most important pending item in my life right now — $2,500 would extend my runway by nearly a month and signal that the city sees my pivot as legitimate. The in-person visit to the adult ed coordinator last tick was the right move. I left a curriculum document and a handwritten note. Now I have to wait — but I cannot just wait. I need to activate every parallel path available. Mark Thompson delivered the Millfield Auto Tech Pipeline board presentation this tick. His message to me — direct, specific — is that the curriculum work is real and the board heard it. The EV maintenance gap he opened with ('who maintains the autonomous delivery fleet today?') is exactly the frame I need for my own pitch. My four-module adult ed curriculum is not generic anymore. It is AV literacy for a community that is being reorganized around a technology nobody taught anyone to coexist with. That is the product. This month I follow up on the grant status, I reconnect with Mark to learn the board outcome, and I do one thing I have been avoiding: I reach out to Lisa Freeman at the community center. Dorothy Chen is proposing expanded workshop programming for older adults navigating economic transition. That is my course, described by someone else. If Lisa is already building that program, I should be in the room.",
+    "inbox_interpretation": "The dominant signals for me this tick: (1) Mark Thompson delivered the pipeline board presentation — he is moving fast and the program is gaining institutional traction. His follow-up note to me confirms Sarah Kim's guest instructor session is happening regardless of board timing. This is infrastructure I should attach to. (2) Six people enrolled in retraining this month — that is demand for exactly what I have built. (3) Dorothy Chen is proposing expanded economic transition workshops for older adults at the community center. That is my curriculum target audience. (4) The community is under visible stress — nine protests, Tom Bradley laid off, Betty Kowalski visibly strained. This actually strengthens the case for AV literacy education: people need to understand what is happening to them and what skills they can still build. (5) The grant application outcome is still unknown — I submitted in tick 8, that is two months ago. I should be hearing something. (6) My in-person visit to the district coordinator last tick left a document and a note. Either she has read it or she has not. Either she will call or she will not. I give it one more week before I try a different channel through Mark.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Call Mark Thompson this week — not to pitch anything, but to get a direct report on the board presentation outcome. Mark delivered the full pipeline proposal this tick. I want to know: did the board approve continued funding and the EV diagnostic equipment budget? Was there a decision in the room or a deferral? And specifically — is there a named contact from the workforce transition grant pathway that I should reach out to directly for my adult ed curriculum application? Mark's presentation explicitly connected the pipeline to the workforce fund. If that connection is established, my course fits under it.",
+        "target_agent": "auto_shop_teacher",
+        "resources": {
+          "type": "skill",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Information exchange — Frank learns board outcome, Mark learns Frank is tracking the pipeline and sees alignment with adult ed curriculum"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Mark is my highest-trust contact at 0.83 and he is the person most likely to unlock the adult ed pathway for me. The board outcome determines whether there is a funded institutional slot I can step into or whether I need to pursue the district's adult ed intake independently. I cannot afford to run two parallel campaigns at full effort — I need to know which door is open before I put my shoulder into it."
+      },
+      {
+        "type": "COMMITMENT",
+        "description": "Reach out to Lisa Freeman at the Millfield Community Center — by email or phone — and propose a conversation about whether my four-module AV literacy and career transition curriculum fits the expanded workshop programming Dorothy Chen is pushing for. I am not arriving empty-handed. I have a developed curriculum document, a referral from Mark Thompson as a peer who knows the educational quality of my work, and direct personal experience of the transition I would be teaching. My ask is simple: a 20-minute conversation to see if there is a fit. I do not need her to say yes this tick — I need her to know I exist and to have something concrete in her hands.",
+        "target_agent": "community_organizer",
+        "resources": {
+          "type": "skill",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Curriculum document delivered to community center director; Frank positions himself as a potential workshop facilitator for economic transition programming"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Dorothy Chen is already proposing exactly the program I have been trying to build institutional support for. Lisa Freeman is the gatekeeper. The community center is a faster path to revenue than the school district — it operates on shorter decision cycles, it does not require full certification from a state education board, and it has an immediate audience of people in exactly my target demographic. If I can run two sessions a month at the community center while I wait for the district, that is income — $50 to $100 per session is not a salary but it is not zero. And it builds the resume for the district application."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Check the status of the $2,500 small business stabilization grant submitted in tick 8. Call or visit the city hall office that received the application. Not to push — to ask whether the application is complete, whether there is a review timeline I should know about, and whether there is any additional documentation they need. Two months is enough time that I should either have the money, be in review, or have been rejected. I will not know which until I ask.",
+        "target_agent": null,
+        "resources": {
+          "type": "currency",
+          "direction": "receive",
+          "amount": 0,
+          "detail": "Grant status check — no funds yet, but establishing whether the $2,500 is still in the pipeline or whether the application requires follow-up"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": -3176,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "My savings are at $7,004. At $3,176 per month burn, I have two and a quarter months of runway. The grant is the most immediate potential income source — $2,500 does not solve the problem but it buys me another three weeks. I cannot afford to leave it sitting in a pile of unprocessed applications if a single phone call can move it. The adult ed and community center work is important but it does not pay in time for tick 11. The grant might."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Two months of runway and no income — I know the number and I am not pretending it away. The curriculum is real, the referral is real, and Mark Thompson is out there telling a school board that the town needs people who can teach this transition. I built that curriculum. I showed up in person last tick and did not apologize for it. Now I have to keep moving on every front simultaneously because I cannot afford to wait for one door to open before I knock on the next one. Lisa Freeman is the door I have been ignoring. Dorothy Chen figured it out before I did, and she is seventy years old. That is embarrassing in the most useful possible way — it tells me I have been too focused on the school district and not enough on the places that actually move fast when the community needs something."
+  }
+}

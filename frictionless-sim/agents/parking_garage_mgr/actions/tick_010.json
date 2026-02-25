@@ -1,0 +1,71 @@
+{
+  "tick": 10,
+  "agent_id": "parking_garage_mgr",
+  "agent_name": "Denise Williams",
+  "response": {
+    "internal_assessment": "I am operating solidly at L2 — participation and employment continuity. My financial position is stable: $24,249 in savings, $361/tick surplus, 7 months of runway, full insurance, no new debt. I am employed. The existential question is not whether I can survive this month but whether the garage job survives the next 12. That question has not changed since tick 0. What has changed is my execution: the Millfield General phone screen happened last tick, I sent the follow-up note, and now I wait at institutional speed. The garage transformation memo is in the owner's hands. The job search transformation I started in tick 4 is at 20% progress, six months invested. I need the hospital track to move. This tick I hold steady on the job search discipline — active applications, network maintenance — and I do something I named as a gap in my tick 9 reflection: reconnect with the people in my network who have gone quiet. Betty Kowalski is visibly stressed. I reached out to her in tick 4 and tick 5 but have not spoken to her since. That neglect has a cost and this tick I pay it back.",
+    "inbox_interpretation": "The dominant signals for me: (1) My tick 9 action is visible in the inbox — my own name appears in a NEWS item confirming I sent the thank-you note to the Millfield General facilities director. That action is done. The process is in motion. (2) The community is under intense stress — nine protests, Tom Bradley's layoff, Patricia Hawkins closing a dealership location. The employment rate is down to 53% per the parking_garage_mgr inbox market data. That is a 14-point drop from the 67% I was tracking. This accelerates my timeline — if employment is deteriorating faster than expected, the garage's revenue decline will steepen and the owner's runway for decisions shortens. (3) The garage transformation memo is out there and the city council's regulatory action on RoboRide delivery licensing is the external validation I highlighted. The owner has the memo and the news. What he does with it is his decision. I do not chase him — I presented a professional analysis and he is a businessperson who will act on it or not. (4) Six people enrolled in retraining this month — workforce transition is happening at scale. This supports the hospital argument: as community need grows, so does institutional volume. (5) Betty Kowalski is specifically named in the SOCIAL signal as stressed. She is in my network at trust 0.47 and I have let that relationship go quiet for five ticks. That ends this tick.",
+    "chosen_actions": [
+      {
+        "type": "COMMITMENT",
+        "description": "Submit two additional targeted job applications this tick — continuing the active campaign I started in tick 4 and have been advancing each month. This tick I expand specifically to two new categories I have not fully pursued: (1) regional logistics and warehouse facility management — with unemployment at 53% and supply chains stressed, logistics operators are countercyclical in a different way than hospitals and they hire operations managers; (2) municipal facilities or port authority operations — the city's infrastructure response to the RoboRide disruption is creating operational complexity that requires exactly my skill set. I write cover letters that do not mention parking. I frame the garage as a high-traffic, 24/7, multi-shift, safety-critical operations environment with budget oversight, compliance management, and revenue reconciliation. These are the credentials. The building is not.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Active job application effort — two new applications in logistics and municipal operations categories, maintaining campaign momentum while awaiting Millfield General response"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 361,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The Millfield General application is in motion and I am not touching it — I sent the thank-you note and now institutional timing takes over. But I cannot let the job search stall while I wait. Active applications are the best insurance against a single-track dependency. The employment rate dropping to 53% means the competition for available roles is increasing. I need to be in more pipelines simultaneously, not fewer."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Reach out to Betty Kowalski directly — phone call or in-person visit if she is at the diner. I have not connected with her since ticks 4 and 5 when I made specific networking asks. This call is not a networking ask. It is a check-in from someone who has been watching the same disruption from a different angle. I tell her what I know from the garage's perspective — what the parking data shows about foot traffic trends on auto row, whether the RoboRide staging zone proposal to the owner is moving, what the city council's delivery license enforcement means for the area. That is actionable intelligence I can share. Then I listen. She is stressed — that SOCIAL signal is specific. I want to understand what she is facing. I am not coming in with a transaction. I am maintaining a relationship that matters in a community that is getting harder.",
+        "target_agent": "diner_owner",
+        "resources": {
+          "type": "reputation",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Community relationship maintenance — Denise offers information, presence, and genuine attention to a stressed peer in her professional network"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I named the failure to maintain this relationship in my tick 9 reflection and I am correcting it now. Betty is a trust-0.47 contact who is at the center of the auto row information network. Her stress level is a data point about the environment I operate in. Letting this relationship go cold was a mistake that efficient self-interest alone should have prevented — high-trust networks need maintenance, especially in disruption. I show up. Not because it is strategic. Because she is a neighbor who is struggling and I have stability she does not."
+      },
+      {
+        "type": "INACTION",
+        "description": "Do not follow up with the Millfield General facilities director. The thank-you note was sent last tick. The process is now at institutional speed and any additional contact from me would undermine the discipline that made the note credible in the first place. I wait. If I hear nothing by tick 12, I reassess. But not before then.",
+        "target_agent": null,
+        "resources": {
+          "type": "reputation",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Deliberate restraint — no follow-up contact with Millfield General, allowing the interview process to proceed on institutional timeline"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The discipline of not following up is as important as the discipline of applying. Over-contact signals anxiety and undermines the professional presence I have been carefully building since tick 1. I made my case. I sent a specific, thoughtful follow-up. Now I let the institution move. This is not passivity — it is correctly reading what kind of action is appropriate for this stage of the process."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "builder",
+    "inner_monologue": "The phone screen is done, the note is sent, and now I wait — which is harder than any of the active moves I have made in the past nine months. But I know how to wait. I have been doing this since tick 0, watching the floor change slowly beneath a building that still looks the same from the outside. What I will not do is mistake waiting on one track for standing still. Two more applications this tick. Call Betty. Keep the garage running well — because whatever the owner decides about the transformation, he needs to see someone who runs a tight ship right up to the last day. That is what I have always done. That is what I am still doing."
+  }
+}
