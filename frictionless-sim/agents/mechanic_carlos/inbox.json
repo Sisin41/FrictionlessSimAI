@@ -1,5 +1,5 @@
 {
-  "tick": 5,
+  "tick": 6,
   "messages": [
     {
       "type": "AMBIENT",
@@ -7,11 +7,11 @@
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 90%."
+      "content": "Local unemployment rising. Employment rate: 77%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 69 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 48 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
@@ -19,43 +19,71 @@
     },
     {
       "type": "SECTOR_DATA",
-      "content": "Auto sector revenue index: 82 (baseline: 100). Foot traffic and sales are somewhat down."
+      "content": "Auto sector revenue index: 79 (baseline: 100). Foot traffic and sales are somewhat down."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Contact Nadia Osei, Robert Dunbar, and Priya Nair ..."
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Hold a public listening session at Millfield Commu..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Convene the first formal Economic Transition Task ..."
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Accept David Chen's counter-offer and operationali..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Follow up with RoboRide on the compliance check I ..."
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Issue a formal public statement on RoboRide compli..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Meet with Mark Thompson, the auto shop teacher at ..."
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Use Betty Kowalski's testimony to formally expand ..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Follow up with David Chen at First Community Bank ..."
+      "content": "Someone mentioned that Sarah Kim is making some kind of change \u2014 something about Reach out to Mark Thompson, the auto shop teacher ..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about One-on-one with Linda Park: give honest field inte..."
+      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about Respond to Linda Park's one-on-one request with a ..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Activate network campaign in earnest. Reach out di..."
+      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about Reach out to Tom Bradley \u2014 not a long conversation..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Reach out through my professional network \u2014 Carlos..."
+      "content": "Someone mentioned that Miguel Hernandez is making some kind of change \u2014 something about Stay enrolled and attend automotive service techni..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Miguel Hernandez is making some kind of change \u2014 something about Reach out directly to Carlos Ruiz. Mention I heard..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Follow up with Carlos Ruiz, Rachel Green, and Bett..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Reach out directly to Grace Okafor. Not because I ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Call Henderson directly to push for a decision on ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Reach out briefly to Lisa Freeman \u2014 not to join th..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Follow up directly with Maria Santos's council off..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Post one piece of short-form content on TikTok or ..."
     },
     {
       "type": "OUTCOME",
-      "content": "You Contact the EVT Level 2 EV certification program today and schedule the enrollment. Patricia approved the $1,400 and told me to book it. I am not waiting another day. Call the training center, confirm the next available cohort that works around my shop schedule, and register. The 60-hour program can run evenings and weekends. I am locking in a start date.. Savings grew by $193. "
+      "content": "You Continue EVT Level 2 evening and weekend coursework \u2014 this month focusing on high-voltage safety protocols and battery management systems. Put in the hours. Show up to class after a full day at the shop even when I'm tired. This is month two of ten. The training will not complete itself.. Savings grew by $193. "
     }
   ]
 }

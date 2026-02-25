@@ -1,5 +1,5 @@
 {
-  "tick": 5,
+  "tick": 6,
   "messages": [
     {
       "type": "AMBIENT",
@@ -10,24 +10,48 @@
       "content": "You notice more robotaxis on the streets. About 7% of people seem to be using them regularly."
     },
     {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about One-on-one with Linda Park: give honest field inte..."
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Stephanie Morris \u2014 follow up with the two to three prospects from tick 4 outreach who expressed interest, with the explicit goal of converting pipeline conversations into signed listing agreements. present updated valuations incorporating the accelerating vacancy data, the three-car-sale signal from this month, and the deteriorating consumer spending index. for suburban flex-space owners, close on a listing agreement using the post-roboride accessibility argument. for downtown and auto-row owners, create urgency around the window to exit before values compress further."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Prepare and deliver testimony to Maria Santos's sm..."
+      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about Respond to Linda Park's one-on-one request with a ..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Activate network campaign in earnest. Reach out di..."
+      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about Reach out to Tom Bradley \u2014 not a long conversation..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Execute a targeted outreach push to two distinct c..."
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Follow up directly with Maria Santos's office on t..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Miguel Hernandez is making some kind of change \u2014 something about Stay enrolled and attend automotive service techni..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Miguel Hernandez is making some kind of change \u2014 something about Reach out directly to Carlos Ruiz. Mention I heard..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Follow up with Carlos Ruiz, Rachel Green, and Bett..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Reach out directly to Grace Okafor. Not because I ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Reach out to Betty Kowalski directly \u2014 coffee or a..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Grace Okafor is making some kind of change \u2014 something about Text Nicole Washington \u2014 the nurse in my network \u2014..."
     },
     {
       "type": "OUTCOME",
-      "content": "You Maintain existing transportation arrangement. Keep personal vehicle for 5am hospital shifts and child pickups. Do not switch to or trial RoboRide for primary logistics. Reduce discretionary spending by approximately $80 this month given ambient economic anxiety \u2014 skip one dinner out, delay a household purchase.. Savings grew by $285. "
+      "content": "You Maintain personal vehicle for all critical logistics. No change to transportation arrangement. Continue light discretionary spending discipline carried from last tick \u2014 keep the dinner-out skip and the delayed household purchase in place one more month.. Savings grew by $285. "
     }
   ]
 }

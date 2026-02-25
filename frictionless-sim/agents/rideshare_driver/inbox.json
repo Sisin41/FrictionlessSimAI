@@ -1,5 +1,5 @@
 {
-  "tick": 5,
+  "tick": 6,
   "messages": [
     {
       "type": "AMBIENT",
@@ -7,11 +7,11 @@
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 90%."
+      "content": "Local unemployment rising. Employment rate: 77%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 69 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 48 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
@@ -23,31 +23,55 @@
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Community action: Dale Cooper \u2014 reach out through my professional network \u2014 carlos the mechanic, community organizer lisa freeman, and other contractors i know \u2014 to get a read on who still has work and what projects are still being planned. use these conversations to position myself as available and reliable before the competition gets desperate. also follow up on the henderson bid with a direct call, offering to hold material pricing for 60 days to give them a reason to commit now rather than wait."
+      "content": "Business closing: Grace Okafor \u2014 text nicole washington \u2014 the nurse in my network \u2014 and ask one focused question: she is working clinically right now, so i want to know if the hospital is actively hiring new grads or if there is a freeze, and whether she has heard anything about the workforce retraining grant decisions coming out. keep it brief and professional. she is not a close contact (trust 0.49) but she is the right person for this specific question."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Contact the EVT Level 2 EV certification program t..."
+      "content": "Someone mentioned that Tamika Jefferson is making some kind of change \u2014 something about Signal to Angela Wright, HR, that I am aware of th..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Prepare and deliver testimony to Maria Santos's sm..."
+      "content": "Someone mentioned that Tamika Jefferson is making some kind of change \u2014 something about Post one carefully crafted piece of content under ..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Activate network campaign in earnest. Reach out di..."
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Reach out to Mark Thompson at the high school auto..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Reach out through my professional network \u2014 Carlos..."
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Follow up directly with Maria Santos's office on t..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Execute a targeted outreach push to two distinct c..."
+      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Follow up with Carlos Ruiz, Rachel Green, and Bett..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Reach out directly to Grace Okafor. Not because I ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that James Patterson is making some kind of change \u2014 something about Continue and formalize the job market readiness po..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Call Henderson directly to push for a decision on ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Reach out briefly to Lisa Freeman \u2014 not to join th..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Reach out to Betty Kowalski directly \u2014 coffee or a..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Grace Okafor (Part-time Rideshare Driver / Nursing Student): Text Nicole Washington \u2014 the nurse in my network \u2014 and ask one focused question: she is working clinically right now, so I want to know if the hospital is actively hiring new grads or if there is a freeze, and whether she has heard anything about the workforce retraining grant decisions coming out. Keep it brief and professional. She is not a close contact (trust 0.49) but she is the right person for this specific question."
     },
     {
       "type": "OUTCOME",
-      "content": "You Enroll in NEMT (Non-Emergency Medical Transport) driver certification course at Millfield Community College. Pay the $320 course registration fee this week. The course is 6 weeks, evenings only. I can keep driving daytime shifts while completing it. NEMT drivers are not being replaced by RoboRide \u2014 the liability exposure and regulatory complexity of transporting medical patients makes autonomous vehicles nonviable in that segment for the foreseeable future. This is the retrain move I identified last tick. I am done researching it. I am registering.. Savings grew by $387. "
+      "content": "You Continue NEMT certification coursework \u2014 attend evening classes at Millfield Community College as scheduled. Complete week 2 of 6-week course. Study for upcoming module exam on patient transport protocols and vehicle equipment requirements.. Savings grew by $387. "
     }
   ]
 }

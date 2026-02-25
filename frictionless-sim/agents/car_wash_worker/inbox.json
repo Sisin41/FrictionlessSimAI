@@ -1,5 +1,5 @@
 {
-  "tick": 5,
+  "tick": 6,
   "messages": [
     {
       "type": "AMBIENT",
@@ -7,11 +7,11 @@
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 90%."
+      "content": "Local unemployment rising. Employment rate: 77%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 69 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 48 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
@@ -19,31 +19,47 @@
     },
     {
       "type": "SECTOR_DATA",
-      "content": "Auto sector revenue index: 82 (baseline: 100). Foot traffic and sales are somewhat down."
+      "content": "Auto sector revenue index: 79 (baseline: 100). Foot traffic and sales are somewhat down."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Stephanie Morris \u2014 follow up with the two to three prospects from tick 4 outreach who expressed interest, with the explicit goal of converting pipeline conversations into signed listing agreements. present updated valuations incorporating the accelerating vacancy data, the three-car-sale signal from this month, and the deteriorating consumer spending index. for suburban flex-space owners, close on a listing agreement using the post-roboride accessibility argument. for downtown and auto-row owners, create urgency around the window to exit before values compress further."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Jake Morrison is making some kind of change \u2014 something about Execute the under-$22K floor strategy with real di..."
+      "content": "Someone mentioned that Jake Morrison is making some kind of change \u2014 something about Request a one-on-one with Rick Tanner this week. N..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Jake Morrison is making some kind of change \u2014 something about Follow up directly with Maria Santos (council_memb..."
+      "content": "You heard directly from Carlos Ruiz (Master Mechanic): Reach out to Mark Thompson at the high school auto shop. Not to ask for anything specific \u2014 just to make contact, find out what his EV curriculum looks like, and let him know I am doing the EVT Level 2 certification. Open a professional bridge. He may know things about the local EV service landscape that I do not. And if there is ever a part-time teaching opportunity on EV systems down the road, I want my name to be in his head."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Carlos Ruiz (Master Mechanic): Contact the EVT Level 2 EV certification program today and schedule the enrollment. Patricia approved the $1,400 and told me to book it. I am not waiting another day. Call the training center, confirm the next available cohort that works around my shop schedule, and register. The 60-hour program can run evenings and weekends. I am locking in a start date."
+      "content": "You heard directly from Sarah Kim (Junior Mechanic): Reach out to Mark Thompson, the auto shop teacher at Millfield High, to introduce myself and ask about his EV battery and charging certification program. Frame it as a fellow practitioner wanting to understand the curriculum \u2014 not as a student asking for help. See if there's overlap with my EVT Level 1 coursework, access to their lab equipment, or a chance to do some informal cross-training."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Call Priya Sharma, my insurance agent neighbor, an..."
+      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Formally adopt RoboRide as my primary transportati..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Execute a targeted outreach push to two distinct c..."
+      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Mention to my library volunteer colleagues and the..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Follow up directly with Maria Santos's council off..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Post one piece of short-form content on TikTok or ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Reach out to Betty Kowalski directly \u2014 coffee or a..."
     },
     {
       "type": "OUTCOME",
-      "content": "You Enroll in a part-time automotive service technician certificate program at Millfield Community College. Classes start next month, evenings and weekends \u2014 does not conflict with car wash shifts. Goal: gain a marketable trade skill before the car wash role evaporates. Asked Carlos (mechanic_carlos) informally if he thinks it's worth it and would consider me for an apprentice-track role once I have basics.. Savings grew by $131. "
+      "content": "You Stay enrolled and attend automotive service technician certificate classes this month. No skipping. Program is at 12% completion \u2014 keep the streak alive and push toward 20%.. Savings grew by $131. "
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "tick": 5,
+  "tick": 6,
   "messages": [
     {
       "type": "AMBIENT",
@@ -7,11 +7,11 @@
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 90%."
+      "content": "Local unemployment rising. Employment rate: 77%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 69 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 48 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
@@ -19,27 +19,31 @@
     },
     {
       "type": "SECTOR_DATA",
-      "content": "Auto sector revenue index: 82 (baseline: 100). Foot traffic and sales are somewhat down."
+      "content": "Auto sector revenue index: 79 (baseline: 100). Foot traffic and sales are somewhat down."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Contact the EVT Level 2 EV certification program t..."
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Reach out to Mark Thompson at the high school auto..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Tom Bradley is making some kind of change \u2014 something about After the meeting with Linda, reach out to Priya S..."
+      "content": "Someone mentioned that Sarah Kim is making some kind of change \u2014 something about Reach out to Mark Thompson, the auto shop teacher ..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Formally accept David Chen's structured NMLS mortg..."
+      "content": "Someone mentioned that Tom Bradley is making some kind of change \u2014 something about Respond to Linda Park's briefing on the commercial..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Prepare and deliver testimony to Maria Santos's sm..."
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Prepare a written one-page brief for David Chen's ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Follow up directly with Maria Santos's office on t..."
     },
     {
       "type": "OUTCOME",
-      "content": "You Call Kevin O'Brien at the bank and schedule a formal meeting to discuss adding two Level 2 EV charging stations to the property. Frame it as a capital improvement loan inquiry \u2014 not a distress call. The property already has electrical infrastructure. The station sits on a parcel I own. Adding charging capability transforms me from a fuel-only stop to a multi-modal energy stop. I want to understand the loan terms, the installation cost range ($8,000\u2013$15,000 for two stations), and whether a charging-network partnership (ChargePoint or similar) can offset the capital cost through a revenue-share arrangement. I will not commit to anything this tick. I am gathering real numbers and locking in a meeting.. Savings dropped by $23. "
+      "content": "You Attend the scheduled meeting with Kevin O'Brien at the bank. Walk in with prepared numbers: estimated installation cost $8,000\u2013$15,000 for two Level 2 EV chargers, existing electrical infrastructure on the parcel, ChargePoint/Blink revenue-share offset model. Get real loan terms \u2014 rate, duration, monthly payment \u2014 and assess whether a 5-year capital improvement loan at current rates pencils out given the revenue trajectory. Do not commit today. Come out with a written term sheet and a clear decision framework.. Savings dropped by $951. "
     }
   ]
 }
