@@ -1,0 +1,74 @@
+{
+  "tick": 3,
+  "agent_id": "insurance_agent_tom",
+  "agent_name": "Tom Bradley",
+  "current_state_summary": {
+    "threat_level": 0.72,
+    "runway_months": 10.7,
+    "savings": 55697,
+    "stress_level": 0.41,
+    "primary_concern": "Active policies are down 17% in three ticks and my income is now below my monthly expenses — this is no longer a dip, this is a direction."
+  },
+  "threat_assessment": {
+    "immediate": "Negative monthly cash flow of $508. I am drawing down on savings right now, today, this month. Not in the future — now. My income is $1,519 below my target and the gap is not closing on its own. The rumor about RoboRide is credible enough to have reached me through two separate channels and cheap-per-mile ride-share, if it actually launches, hits the exact segment I serve: people who commute, people who own one car, people who bought a Civic so their daughter could drive it.",
+    "horizon_2mo": "If the rumor about RoboRide is real and it launches at the price I've been hearing — very cheap, meaningfully cheaper than owning — I should expect more policy cancellations within 60 days. Not all of them. But the ones that were already on the fence. My 25 could become 20. Twenty would be a crisis. I also don't know what Linda knows. She's pitching commercial fleet coverage. She has information I don't have. That gap between what she knows and what I know is itself a signal.",
+    "horizon_6mo": "The community college retraining track Maria Santos described runs 4-6 months for certification completion. If I don't start within the next tick or two, I will be starting from zero at the worst possible moment — when my runway has compressed and my stress has risen high enough to degrade my decision quality. The path to commercial lines or fleet insurance or adjacent financial services all require lead time I am burning by waiting. Six months from now I want to be six months into something, not six months into having wished I started."
+  },
+  "hierarchy_priority": "L1_STABILIZE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Apply for the $2,500 retraining grant through millfield.gov/grants. Call 555-0192 to confirm application status and ask specifically whether the grant covers commercial lines certification or CE credits toward P&C commercial endorsements, not just the community college general track. Get the application submitted before the end of the week.",
+      "rationale": "I went to the town hall. I sat in the back. I took notes. I spent $508 of my own money to be in that room. If I don't apply for the grant that room was advertising, then the only thing that trip accomplished was making me feel like I'm doing something when I'm not. The $2,500 is real money — it is five months of the gap between what I earn and what I spend. There is no rational reason not to apply. The identity cost of applying is higher than the financial cost of not applying, and I am aware enough now to know that is a trap, not wisdom.",
+      "timeline": "This week. Application submitted before Friday.",
+      "expected_outcome": "Grant application submitted. $2,500 inbound within 30-45 days pending approval. Partial offset of negative monthly cash flow. Also: I will learn whether the grant covers commercial lines or just general retraining — that distinction matters enormously for my next decision."
+    },
+    {
+      "action_id": 2,
+      "description": "Call the regional manager and ask directly — not casually, not framed as 'expanding the practice' — whether there is a defined path for a personal auto agent to move into commercial lines or fleet insurance within the agency structure. Ask what Linda's role involves. Ask what certifications are required. Ask if the agency would support a transition or if it would require an external move.",
+      "rationale": "Last tick I was going to make this call 'casually.' I was going to frame it as expanding the practice. I was going to pretend it wasn't what it is. That framing protected my ego at the cost of clarity. Linda is operating at a different level — she is pitching fleet coverage to what I assume is RoboRide or similar commercial operators. That is where this market is going. The question is whether I can get there while still inside this agency, or whether the agency's structure requires me to be something else. I need the answer to that question. The casual framing wastes a real conversation.",
+      "timeline": "Monday morning call, first thing. This is not a call I schedule for after lunch.",
+      "expected_outcome": "I will know whether the agency has a structured path for agents to move into commercial lines, what the timeline and cost looks like, and whether Linda's trajectory is one I can aim at from my current position. Either there is a path or there isn't. Both answers are useful. The worst outcome is not making the call."
+    },
+    {
+      "action_id": 3,
+      "description": "Contact all 25 active policyholders this week — not to pitch, not to upsell, not to save the book — but to check in. 'Rates are holding steady for your renewal.' 'I wanted to make sure you had my direct number.' 'If anything changes in your situation, call me first.' Relationship maintenance, not desperation. They should hear steadiness from me, not anxiety.",
+      "rationale": "Twenty-five policies is what I have. I cannot recover the five I've lost — I've understood that since last tick. But I can lose five more through neglect or through clients sensing that I've already mentally let them go. The relationship is the only differentiator I have left in a market where my product is becoming optional. If they're going to stay with personal auto insurance through this transition period, they stay because Tom Bradley calls them and knows their name and remembers that James Patterson's daughter learned to drive in that Civic. That costs me nothing but time and it is the last moat I have.",
+      "timeline": "25 calls over this week and next. No more than 10 minutes each. Record outcomes in my notes.",
+      "expected_outcome": "Active policy retention through personal relationship reinforcement. No immediate revenue gain but prevention of further attrition. I may also learn something from these conversations — whether clients are already experimenting with ride-share, whether anyone has heard the same RoboRide rumor, what their actual driving needs look like. My clients are a data source I haven't fully used."
+    },
+    {
+      "action_id": 4,
+      "description": "Research commercial lines and fleet insurance certification requirements independently, separate from the regional manager conversation. Look up what the CE requirements are for adding commercial lines endorsements to a P&C license in this state. Find out what a fleet insurance policy actually looks like — premium structure, coverage scope, loss ratio profile. Understand what Linda is selling before I walk into any conversation about whether I can sell it too.",
+      "rationale": "The rumor about RoboRide — cheap per mile, launching now — means autonomous or semi-autonomous vehicle fleets are real and proximate. Linda is pitching coverage at $2,500-$4,000 per vehicle per year for commercial fleets. If there are 50 vehicles in a fleet, that's a $125,000-$200,000 annual premium book from one client. That is not what I sell. What I sell is $1,200 a year from James Patterson. The math is not subtle. I don't know enough yet to know if I can make this transition, but I know enough to know I need to find out. And I need to walk into that regional manager call already knowing the basics, not asking him to explain the product to me.",
+      "timeline": "Two evenings this week. Library or at home. Industry publications, state insurance department website, CE provider catalogs.",
+      "expected_outcome": "A working understanding of commercial fleet insurance as a product line. A list of specific questions for the regional manager call. A clearer sense of whether my existing P&C license is the foundation for this or a different credential entirely."
+    },
+    {
+      "action_id": 5,
+      "description": "Do not make any large financial commitments this tick. Defer the car payment autopay review, defer any discretionary spending over $100, and calculate exactly how many months of runway remain at the current burn rate. Run the numbers on paper. Know what the floor looks like.",
+      "rationale": "I have 10.7 months of runway at my current expense level. My income is $508 below my expenses per month. If nothing changes, my runway shortens by roughly one month every three months faster than I expect. I need to know exactly what I'm working with. Not an approximation — the actual number. I have two dependents. I have a $427 car payment. I have a credit score of 789 which is an asset I have not used. I am not in crisis. But the distance between 'not in crisis' and 'in crisis' is made of months, and I need to count them honestly. I will not make a panicked decision. But I will not pretend the number isn't there.",
+      "timeline": "This weekend. Spreadsheet. Actual numbers.",
+      "expected_outcome": "A precise picture of financial runway under three scenarios: current trajectory, grant received, and income drop of an additional 20%. This gives me a decision framework that is based on reality rather than approximate comfort."
+    }
+  ],
+  "decisions": {
+    "apply_for_retraining_grant": true,
+    "call_regional_manager_directly": true,
+    "framing_of_regional_manager_call": "direct, not casual — ask about commercial lines transition explicitly",
+    "cancelled_client_outreach": false,
+    "active_client_outreach": true,
+    "act_on_roboride_rumor": "prepare, do not react — gather information before committing to pivot",
+    "large_financial_commitments": false,
+    "community_college_enrollment": "pending — awaiting grant answer and regional manager conversation before committing",
+    "professional_identity_frame": "insurance professional broadening expertise, not agent in distress"
+  },
+  "updated_state": {
+    "stress_level": 0.41,
+    "agency": 0.63,
+    "grief_stage": "bargaining",
+    "savings_delta": -508
+  },
+  "internal_monologue": "Twenty-five policies. I keep doing the math because doing the math feels like control, and it is control, but the answer keeps coming out the same. I went to the town hall. I sat in the back. I took notes on paper like a man who is not ready to admit why he's there. That ends this tick — I'm applying for the grant because the $2,500 is real and my ego is not a retirement plan. Linda is selling fleet coverage and I don't know enough about what that actually means to know if I can do it, so I'm going to find out. The rumor about RoboRide is probably true. Cheap per mile, launching soon — I've heard it from two places now, which is how things go from rumor to confirmation in a town this size. I am not panicking. I am 52 years old and I have been through 2008 and I have been through COVID and I know what it feels like to be on the right side of having made a quiet, careful decision early enough that it looked like foresight instead of desperation. That is what I am trying to do. Quietly. Before anyone sees me doing it.",
+  "archetype_self_assessment": "adapter — no longer barely, no longer by a thread, but not yet through to the other side"
+}
