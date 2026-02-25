@@ -1,0 +1,34 @@
+{
+  "tick": 0,
+  "agent_id": "car_wash_worker",
+  "agent_name": "Miguel Hernandez",
+  "response": {
+    "internal_assessment": "I have one month. That's it. $2,400 in savings and $263 left over each month if nothing changes — but that's barely anything, one bad week and I'm behind on rent. I'm not panicking but I'm not stupid either. This job pays the bills just barely, and I have zero attachment to it. I need more income coming in, or I need my expenses down, or both. Probably both. The car wash isn't going anywhere but I need something on top of it. I've got time on evenings and weekends. I need to use them.",
+    "chosen_actions": [
+      {
+        "type": "job_search",
+        "description": "Search for a second part-time or gig-based income source — delivery driving (DoorDash, Instacart), warehouse shifts, or weekend labor gigs. Target something flexible that doesn't conflict with car wash hours.",
+        "target_agent": null,
+        "resources_involved": "time (evenings and weekends), phone for app signup",
+        "reasoning": "I have manual labor skills and customer service experience. Gig work requires no resume, no interview, no waiting — I can sign up tonight and be earning within a week. Even $400-600/month extra buys me serious breathing room and pushes L0 threat way down. This is the highest-leverage move I can make right now."
+      },
+      {
+        "type": "housing_cost_reduction",
+        "description": "Post on Craigslist and ask around about finding a roommate to split rent, or look into whether a cheaper place exists nearby. Current living situation is a solo arrangement — cutting housing cost by $300-400/month would be significant.",
+        "target_agent": null,
+        "resources_involved": "time to post listings, small effort",
+        "reasoning": "Housing is almost certainly my biggest expense. If I can bring in a roommate or move somewhere cheaper, the monthly surplus goes from marginal to manageable. Low attachment to current place, no lease complications I can't navigate. This is slower than gig work but addresses the structural problem."
+      },
+      {
+        "type": "expense_audit",
+        "description": "Go through last month's spending and cut anything non-essential — subscriptions, eating out, anything discretionary. Target cutting $100-150/month from current $2,137 expense load.",
+        "target_agent": null,
+        "resources_involved": "one hour of time, bank account review",
+        "reasoning": "I need to know exactly where the $2,137 is going. There's almost certainly some fat to cut. It won't solve the problem alone but it's free money — takes an hour and could buy me another couple weeks of runway while I get the gig work set up."
+      }
+    ],
+    "emotional_state": "Flat. Focused. Not scared, not hopeful — just pragmatic. The math is what it is. I've been broke before and I know what broke feels like, and I know the difference between broke-with-a-plan and broke-panicking. I'm doing the plan.",
+    "archetype_self_assessment": "Pragmatic Survivor. I don't romanticize this job or this situation. I'm 23, no kids, no anchor, no reason to be precious about any of it. I'll pick up DoorDash shifts and split rent with a stranger if that's what keeps the lights on. Pride is expensive and I can't afford it right now.",
+    "inner_monologue": "Okay. One month. So what. I've got two hands and a phone and I'm not dumb. Sign up for the gig apps tonight — Instacart, DoorDash, maybe Uber if the car passes. Post about the roommate thing tomorrow. Cut the gym membership, cut whatever streaming I'm paying for that I don't need, pack lunch instead of buying it. None of this is complicated. It's just work. The car wash is 8 to 5, that leaves evenings. Use them. Stop sitting on this."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "tick": 0,
+  "agent_id": "insurance_agent_tom",
+  "agent_name": "Tom Bradley",
+  "response": {
+    "internal_assessment": "Things are slow, but they've been slow before. The book is down maybe 12% from where it was three years ago — renewals dropping off, a few clients going with that app-based thing, a couple moved away. It's not a cliff. It's a slope. Slopes I can manage. The self-driving stuff is still not here in Millfield, so I'm not fighting ghosts yet. My fundamentals are solid: 28 years of relationships, people trust me, I pick up the phone. You can't replicate that with an algorithm. At least not yet. Savings are okay. Nine months runway if everything collapsed tomorrow, which it won't. I should probably reach out to some of my quieter accounts. Touch base. That's the kind of thing that keeps a book healthy.",
+    "chosen_actions": [
+      {
+        "type": "client_retention_outreach",
+        "description": "Pull a list of the 20 clients who haven't called in over a year and send them a personal check-in email — something warm, not salesy. Reference their specific policy, ask how the car is treating them, mention that rates are moving around and I want to make sure they're still getting a good deal. Sign it Tom, not 'Tom Bradley, Licensed Agent.'",
+        "target_agent": null,
+        "resources_involved": "2-3 hours of time, existing CRM contact list, no direct financial outlay",
+        "reasoning": "This feels productive and it is, in a small way. Retention is real work. But honestly, I'm also doing this because it's comfortable. It's what I've always done. It lets me feel like I'm working the problem without having to look too hard at what the problem actually is. Twenty emails is not a strategy. It's a habit dressed up as a strategy."
+      },
+      {
+        "type": "passive_market_monitoring",
+        "description": "Spend about an hour reading an industry newsletter and two articles I've been bookmarking about usage-based insurance trends. Don't take notes. Don't make a plan. Just read and get a feel for where things are heading.",
+        "target_agent": null,
+        "resources_involved": "1 hour, no financial cost",
+        "reasoning": "I tell myself I'm staying informed. And I am, technically. But reading about something and doing something about it are different animals, and I know it. I've been 'monitoring the situation' for two years. At some point monitoring becomes a way of feeling responsible without being responsible."
+      }
+    ],
+    "emotional_state": "A low-grade unease that I've gotten good at not looking at directly. On the surface: calm, professional, experienced. Underneath: a persistent background hum — like a refrigerator you stop hearing until it suddenly goes quiet, and then the silence is louder than the noise ever was. I'm not scared. I'm not ready to be scared yet. That's probably its own kind of problem.",
+    "archetype_self_assessment": "I'm the veteran who's seen cycles before and trusts the cycle to turn again. Except this time I'm not entirely sure it's a cycle. I won't say that out loud. I'll say 'it's a tough market' and 'relationships still matter' and both of those things are true, but they're also the kinds of true things you say when you don't want to say the harder true thing. I am not frozen. I am moving — just not in a direction that changes anything.",
+    "inner_monologue": "Twenty-eight years. I remember when people said the internet would kill the independent agent. Didn't happen. I remember when they said the big aggregator sites would wipe us out. Didn't happen. People still want someone they can call. They still want Tom. I've got clients who've been with me fifteen years, their kids are on the policies now. That doesn't just evaporate. Does it? The Millers didn't renew. The Garcias went with some app. Kowalski's kid set his parents up with something online, saved them forty bucks a month, and I lost a family I'd had for eleven years over forty dollars. Forty dollars. I should have called them. I should have — I don't know. Matched it? Can I even match it? The margins aren't there anymore the way they were. I need to call some people. I'll do that today. That's a good use of today. Pull the quiet ones and just check in. That's what builds a book. That's always what built a book. It'll be fine. It's going to be fine."
+  }
+}

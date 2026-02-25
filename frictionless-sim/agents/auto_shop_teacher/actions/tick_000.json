@@ -1,0 +1,34 @@
+{
+  "tick": 0,
+  "agent_id": "auto_shop_teacher",
+  "agent_name": "Mark Thompson",
+  "response": {
+    "internal_assessment": "Enrollment is down again this year — I've got 14 kids in the program versus 22 three years ago. The school board finance committee meets in April and I've heard through the grapevine that elective programs with low enrollment are on the chopping block. My program isn't in crisis yet, but I can read a trend line. The car economy itself is stable, which is actually part of the problem — nobody is panicking, so nobody is thinking about what's coming. EVs are already 18% of new vehicle sales nationally. In five years, the kids I'm teaching today are going to be working on cars that have fundamentally different service requirements. If I'm still teaching carb rebuilds and timing belts when they graduate, I've failed them. But there's an opportunity here too: no other school in the district has an EV curriculum. If I can position this program as forward-looking rather than legacy vocational ed, I change the conversation with the board entirely. I'm not fighting to save a dying program — I'm launching the program of the future. I have savings and a low-stress situation right now. This is exactly the right time to make a move while I'm not desperate.",
+    "chosen_actions": [
+      {
+        "type": "curriculum_development",
+        "description": "Begin drafting a modernized curriculum proposal that pivots the auto shop program toward EV fundamentals, hybrid systems, and automotive electronics. Research available industry certification pathways — specifically ASE's new EV certification tracks and Tesla's education partnership program. Map out what equipment upgrades would be required and begin estimating costs for a board presentation.",
+        "target_agent": null,
+        "resources_involved": "Personal time (evenings/weekends), internet research, existing teacher prep periods. No financial outlay yet — this is planning phase.",
+        "reasoning": "The threat to my program is institutional and tied to perceived relevance. If I reframe the program around emerging automotive technology rather than defending traditional auto shop, I shift from reactive to proactive. A well-researched curriculum proposal with industry data on EV technician demand gives the board a reason to invest rather than cut. This costs me nothing but time and directly addresses the root threat."
+      },
+      {
+        "type": "professional_development",
+        "description": "Register for a weekend EV safety and service fundamentals course through the local community college or an ASE-approved provider. Look specifically for something I can complete within 60-90 days that yields a credential I can put in front of the board as evidence of program direction.",
+        "target_agent": null,
+        "resources_involved": "Estimated $400-$800 out of pocket for course fees. Weekend time commitment. Savings buffer makes this low-risk.",
+        "reasoning": "I can't credibly propose an EV curriculum if I don't have EV training myself. Getting certified also signals to the board — and to students — that this transition is real and substantive, not just a slide deck. The personal financial cost is minimal relative to my savings runway. This is exactly the kind of investment that pays forward."
+      },
+      {
+        "type": "stakeholder_outreach",
+        "description": "Reach out to two or three local auto dealerships — particularly any that sell EVs or hybrids — about potential partnership arrangements: guest speakers, equipment donations, possible internship or apprenticeship pipelines for students. Start with a phone call or email, low-pressure. Plant seeds for a relationship that can become part of the board proposal.",
+        "target_agent": null,
+        "resources_involved": "Time only. No financial cost. Leverages existing community relationships from years teaching in Millfield.",
+        "reasoning": "Industry partnerships are one of the strongest arguments for keeping a vocational program. If I can show the board that local employers are engaged and students have post-graduation pathways, it becomes much harder to cut the program on enrollment numbers alone. Building these relationships now, when I'm not in crisis mode, means I can be genuine rather than desperate."
+      }
+    ],
+    "emotional_state": "Calm and purposeful. There's a low hum of concern about the board's April review, but it's not anxiety — it's more like a problem I've decided to solve. I genuinely like this work and I like these kids. The idea of losing the program bothers me more for their sake than mine. I know my teaching skills would land me somewhere else if it came to that, but I'd rather fight for this. I feel like I have time and options, which is the best position to be in.",
+    "archetype_self_assessment": "I'm not a passive person. I saw this coming and I'm not going to wait until the board sends me a memo. The teachers who get cut are the ones who never made a case for themselves. I'm going to make a case — a real one, grounded in labor market data and a concrete plan. If I do this right, I don't save my job; I get my program expanded.",
+    "inner_monologue": "Okay. So enrollment is down and the board is watching. Fine. But think about what they actually want: outcomes, relevance, something they can point to when parents ask why the school budget looks the way it does. I can give them that. EV technicians are going to be in serious demand — the Bureau of Labor Statistics data is already showing this. No kid who completes a proper hybrid and EV service curriculum and gets ASE certified is going to struggle to find work. That's a story. That's a program worth funding. I just need to build the case before April. Start with the cert course — find something I can do in March. Then the curriculum draft. Then the dealership calls. One thing at a time. I've got the runway. Use it."
+  }
+}

@@ -30,9 +30,10 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 5,
-      "threat_level": 0.58,
-      "monthly_essentials": 2100
+      "runway_months": 6.1,
+      "threat_level": 0.49,
+      "monthly_essentials": 2100,
+      "health_cost_from_stress": 0
     },
     "L1_STABILIZE": {
       "savings_buffer": 21000,
@@ -80,18 +81,19 @@
       "availability_heuristic": 0.45,
       "social_proof_sensitivity": 0.63
     },
-    "sentiment": "neutral"
+    "sentiment": "Composed. Slightly vigilant beneath the surface. Not anxious enough to act, not comfortable enough to be fully at ease. The kind of low-grade alertness you develop when you have dependents and a job that requires you to see problems before they become emergencies. Professionally, today is fine. Personally, I'm running a background process."
   },
   "psychological": {
     "stress_level": 0.2,
     "agency": 0.66,
     "grief_stage": "none",
-    "temporal_horizon_months": 12
+    "temporal_horizon_months": 10,
+    "high_stress_ticks": 0
   },
   "financial": {
     "monthly_income": 4200,
     "monthly_expenses": 3478,
-    "savings": 21000,
+    "savings": 21361,
     "debt_total": 25977,
     "credit_score": 755
   },
@@ -123,6 +125,6 @@
     "willingness_to_move": 0.3
   },
   "locality": "millfield",
-  "archetype": "stable",
+  "archetype": "Pragmatic realist with moderate attachment to current role. I don't love this job the way some people love their work, but I'm good at it and it pays the bills for two kids. I'm not the type to catastrophize and I'm not the type to stick my head in the sand. I'm the type who does a quiet audit when the numbers start to look sideways, keeps performing at full capacity, and positions for a pivot before the pivot is forced. I've managed this garage for nine years. I know how to read an occupancy curve.",
   "tick_updated": 0
 }

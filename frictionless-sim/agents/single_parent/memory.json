@@ -1,6 +1,21 @@
 {
-  "past_actions": [],
-  "past_outcomes": [],
+  "past_actions": [
+    {
+      "tick": 0,
+      "summary": "Retain personal vehicle as primary transportation for hospital shifts and child pickups. Continue current daily logistics structure.",
+      "emotional_state": "Tired but clear-eyed. There's a low hum of anxiety that never fully goes away \u2014 the kind that comes from being the only net under two kids. But I'm not panicking. The job is solid. The car runs. The kids are okay. I just have to keep the pieces in place and not make any moves I can't afford to take back."
+    }
+  ],
+  "past_outcomes": [
+    {
+      "tick": 0,
+      "action": "Retain personal vehicle as primary transportation for hospital shifts and child pickups. Continue current daily logistics structure.",
+      "savings_delta": 285,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Retain personal vehicle as primary transportation for hospital shifts and child pickups. Continue current daily logistics structure.. Savings grew by $285. "
+    }
+  ],
   "reflections": [],
   "regrets": [],
   "successes": [],

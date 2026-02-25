@@ -1,0 +1,34 @@
+{
+  "tick": 0,
+  "agent_id": "single_parent",
+  "agent_name": "Nicole Washington",
+  "response": {
+    "internal_assessment": "The economy is stable right now, which is a small relief, but stable doesn't mean easy. I'm looking at $570 left over each month after expenses. With two kids and a job that starts before the sun comes up, every dollar has to earn its keep. The robotaxi question keeps coming up — people at the hospital talk about it, the news talks about it. But when I actually run the numbers in my head, I keep coming back to the same thing: my car is the spine of my whole day. 5am shift start means I'm pulling out of the driveway at 4:30. The kids need to be at school by 7:45, which means my sister covers the morning if I'm not back in time. Then pickup at 3:15. A robotaxi that doesn't show, or surges in price because of weather, or has some app glitch — that's not just an inconvenience. That's me losing a shift. That's my kids standing on a curb. My car payment is fixed. I know what it costs. I'm not ready to hand that control over to an algorithm, not with this much riding on it. Right now my job is to keep grinding, pad the savings, and not let anything knock us off balance.",
+    "chosen_actions": [
+      {
+        "type": "MAINTAIN_STATUS_QUO",
+        "description": "Retain personal vehicle as primary transportation for hospital shifts and child pickups. Continue current daily logistics structure.",
+        "target_agent": null,
+        "resources_involved": "Personal vehicle, existing car payment and insurance budget line",
+        "reasoning": "With a 5am shift start and two school-age children requiring reliable pickup, the personal vehicle provides predictability that no current robotaxi service can match. The cost is known and fixed. Switching introduces variance I cannot absorb on a $570/month surplus with a 3-month runway. Status quo transportation is not inefficiency — it is risk management."
+      },
+      {
+        "type": "SAVINGS_DISCIPLINE",
+        "description": "Direct at minimum $200 from monthly surplus into emergency savings, targeting a 4-month runway within 3 months.",
+        "target_agent": null,
+        "resources_involved": "$200/month cash allocation from $570 surplus",
+        "reasoning": "A 3-month runway with two dependents and high-stress logistics is too thin. One car repair, one missed shift, one childcare gap wipes it. Getting to 4 months buys breathing room. Healthcare income is stable — the threat is operational, not professional. Build the buffer before anything else."
+      },
+      {
+        "type": "INFORMATION_GATHERING",
+        "description": "Passively monitor robotaxi service reliability reports and pricing structures in Millfield over the coming months. Do not act — observe.",
+        "target_agent": null,
+        "resources_involved": "Time only — no financial commitment",
+        "reasoning": "I'm not dismissing the technology. I'm being smart about timing. If robotaxi reliability improves and pricing stabilizes, it could eventually replace the second car expense or provide backup coverage. But right now it's unproven for my specific use case: pre-dawn medical shifts and fixed-window school pickups. I'll watch. I won't leap."
+      }
+    ],
+    "emotional_state": "Tired but clear-eyed. There's a low hum of anxiety that never fully goes away — the kind that comes from being the only net under two kids. But I'm not panicking. The job is solid. The car runs. The kids are okay. I just have to keep the pieces in place and not make any moves I can't afford to take back.",
+    "archetype_self_assessment": "I am the load-bearing wall of this family. That's not a complaint — it's just what's true. My decisions can't be experimental right now. They have to work. Every single time.",
+    "inner_monologue": "Robotaxi. People keep asking me like it's obvious. Like I should just... let go. But let go of what exactly? The one thing I control completely? My shift starts at five. What happens when the app crashes at 4:25am? What happens when there's surge pricing because it snowed two inches? What happens when my daughter is standing outside Jefferson Elementary at 3:20 and the car is 'eight minutes away'? No. Not yet. Maybe someday the reliability is there. Maybe someday the price is right and I can do the math differently. But today I need the car. Today I need to know it starts when I turn the key. I'll put another two hundred in savings this month. I'll watch what the robotaxis do in town over the next few months. And I'll keep moving. That's all there is to it. Keep moving."
+  }
+}

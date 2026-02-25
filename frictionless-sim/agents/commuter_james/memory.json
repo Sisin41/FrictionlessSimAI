@@ -1,6 +1,21 @@
 {
-  "past_actions": [],
-  "past_outcomes": [],
+  "past_actions": [
+    {
+      "tick": 0,
+      "summary": "Allocate an additional $1,500 from monthly surplus into index funds with tech and mobility sector weighting.",
+      "emotional_state": "Calm and mildly optimistic. No acute stress. A background low-grade irritation about the car \u2014 not distress, more like knowing you have a subscription you're going to cancel eventually. The financial picture is good and I know it. Some restless forward-looking energy, the kind that comes from seeing a change coming and just waiting for it to arrive."
+    }
+  ],
+  "past_outcomes": [
+    {
+      "tick": 0,
+      "action": "Allocate an additional $1,500 from monthly surplus into index funds with tech and mobility sector weighting.",
+      "savings_delta": 1096,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Allocate an additional $1,500 from monthly surplus into index funds with tech and mobility sector weighting.. Savings grew by $1,096. "
+    }
+  ],
   "reflections": [],
   "regrets": [],
   "successes": [],

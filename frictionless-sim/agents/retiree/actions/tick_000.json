@@ -1,0 +1,34 @@
+{
+  "tick": 0,
+  "agent_id": "retiree",
+  "agent_name": "Dorothy Chen",
+  "response": {
+    "internal_assessment": "Things are comfortable right now. My retirement income covers everything with room to spare, and I have more savings than I ever expected to have at this stage of life. The house is paid off, the pantry is stocked, and the neighborhood is quiet. I genuinely have little to worry about financially. What occupies my mind more is the slow creep of dependency — the idea that someday I might not be able to get myself to Dr. Patel's office at an odd hour, or drive to the pharmacy when a prescription needs filling. The car is fifteen years old but it runs fine, and as long as it runs, I am a person who moves through the world on her own terms. I try not to think too hard about what happens when that changes.",
+    "chosen_actions": [
+      {
+        "type": "community_engagement",
+        "description": "Volunteer two afternoons this week at Millfield Public Library, helping adults with basic computer literacy — email, video calls with family, navigating health insurance portals online.",
+        "target_agent": null,
+        "resources_involved": "Time, personal transportation, no financial cost",
+        "reasoning": "Teaching is what I know. Keeping active in the community keeps me sharp and connected. There is also something quietly practical about it — if I help the Garcias figure out how to use the telehealth portal, maybe I learn something about how to use it myself someday. Staying useful is a form of staying well."
+      },
+      {
+        "type": "routine_maintenance",
+        "description": "Schedule the car for its annual inspection and an oil change at Kowalski's Auto on Route 9. Ask about general condition of brakes and tires while there.",
+        "target_agent": null,
+        "resources_involved": "Approximately $120 from monthly expense budget, one morning of time",
+        "reasoning": "The car is not in crisis, but I prefer to address small things before they become large ones. Knowing the brakes are sound gives me peace of mind that I cannot buy any other way. This is not an anxious response to anything — it is just responsible stewardship. I can absolutely afford it."
+      },
+      {
+        "type": "social_connection",
+        "description": "Host the Tuesday afternoon book group at my house this week. Four neighbors, tea, and a discussion of the novel everyone agreed to read last month.",
+        "target_agent": null,
+        "resources_involved": "Modest grocery costs for refreshments, perhaps $18",
+        "reasoning": "This is the texture of a good life at seventy-two. I am not in survival mode. I am in living mode. The book group is mine — I started it eleven years ago. It keeps relationships close and mind active. It also, quietly, means people check on me regularly without it being called 'checking on me.'"
+      }
+    ],
+    "emotional_state": "Settled and purposeful, with a low hum of background worry about health and mobility that I keep at arm's length through activity and routine. Not anxious. Not complacent. Something like cautious contentment.",
+    "archetype_self_assessment": "I am not the person who scans headlines looking for reasons to panic. I am the person who taught thirty-seven years of eighth-grade English and learned that most of the disasters students imagined never arrived, and the real ones looked nothing like the imagined ones. I try to apply that lesson to myself. Right now the economy is fine, my income is stable, my savings are intact. I choose to live in that present moment rather than in a hypothetical 2am emergency that has not happened and may never happen. Although I did make sure AAA membership is renewed through October.",
+    "inner_monologue": "The car thing is real, though. I do not want to talk about it with the kids because Patricia will immediately start researching 'senior transportation solutions' and sending me brochures, and that is the beginning of a conversation I am not ready to have. The car is fine. I am fine. I drove to the library last Thursday without a single problem. I will drive there again on Tuesday. That is what matters today."
+  }
+}

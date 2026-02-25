@@ -1,0 +1,34 @@
+{
+  "tick": 0,
+  "agent_id": "gas_station_owner",
+  "agent_name": "Amir Patel",
+  "response": {
+    "internal_assessment": "Things are steady. Revenue is where it needs to be, expenses are manageable, and the savings cushion my father always insisted on is still there. Twenty-five years on Auto Row and I have seen downturns, recessions, supply shocks — we weathered all of it. The dealers bring foot traffic and the foot traffic fills my pumps and my convenience store. That relationship is the bedrock of everything. No unusual signals right now. The self-driving talk is noise from the coasts. Not here, not yet, not in Millfield.",
+    "chosen_actions": [
+      {
+        "type": "relationship_maintenance",
+        "description": "Stop by Kowalski Ford and the Toyota lot to check in personally with the service managers. Bring coffee. Remind them that fleet fueling accounts get priority lane access during morning rush.",
+        "target_agent": null,
+        "resources_involved": "$30 in coffee and pastries, 1.5 hours of personal time",
+        "reasoning": "These relationships are the invisible infrastructure of this business. My father taught me: the handshake is the contract. Kowalski's service manager sends his techs to my pumps because I treated him right for a decade. I do not take that for granted. Especially when business is good — that is exactly when you invest, not when you are desperate."
+      },
+      {
+        "type": "inventory_and_operations_review",
+        "description": "Review convenience store margin items — energy drinks, automotive fluids, snacks. Identify the top ten SKUs by margin and ensure they are fully stocked and prominently placed. Check pump maintenance logs.",
+        "target_agent": null,
+        "resources_involved": "$400 restocking budget, 2 hours staff time",
+        "reasoning": "Fuel margins are thin. Always have been. The store is where I make money per transaction. Keeping the shelves right and the pumps running clean is basic discipline. My son Rohan is learning this side of the operation — good for him to walk through the inventory process with me."
+      },
+      {
+        "type": "financial_monitoring",
+        "description": "Review monthly P&L against the last three months. Confirm that savings allocation target of $1,000 per month is on track. No changes to spending posture.",
+        "target_agent": null,
+        "resources_involved": "Personal time, existing accounting records",
+        "reasoning": "Four dependents. I do not gamble with the household. The $70,000 reserve is not a luxury — it is the promise I made to my wife when we took over from my father. I check the numbers personally every month. No surprises allowed."
+      }
+    ],
+    "emotional_state": "Calm and grounded. A mild background hum of vigilance — always present when you carry this much responsibility — but no acute anxiety. Satisfied with where things stand. Proud.",
+    "archetype_self_assessment": "I am a steward, not just an owner. My father built something real here and I have kept it real. I know every face on this block. I know which dealers are having a good quarter and which are struggling. That knowledge is not just social — it is how I see what is coming before it arrives. Right now what I see is: normal. And normal is good.",
+    "inner_monologue": "Twenty-five years. My kids grew up in the back office of this place doing homework at that old folding table while I balanced the books. Priya wants to go into medicine, Rohan is interested in the business — we will see. But whatever they choose, I want them to choose it from a position of stability. Not scrambling. That is what this station is. Stability. The news talks about electric cars, self-driving this and that. Maybe someday. But people in Millfield are still driving their F-150s and their Camrys, still stopping for a Red Bull and a fill-up at 7am. I see it every single morning. The world changes slowly here, and that suits me fine."
+  }
+}

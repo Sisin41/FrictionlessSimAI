@@ -31,9 +31,10 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 5,
-      "threat_level": 0.58,
-      "monthly_essentials": 2000
+      "runway_months": 6.2,
+      "threat_level": 0.48,
+      "monthly_essentials": 2000,
+      "health_cost_from_stress": 0
     },
     "L1_STABILIZE": {
       "savings_buffer": 20000,
@@ -81,18 +82,19 @@
       "availability_heuristic": 0.68,
       "social_proof_sensitivity": 0.39
     },
-    "sentiment": "neutral"
+    "sentiment": "Contained. Purposeful. There is a steady low-grade alarm underneath the routine \u2014 the kind I've learned not to dismiss and not to amplify. I am not afraid. I am watchful. The work feels more urgent than it did six months ago but I am keeping that urgency internal so it doesn't transfer to the people who come to us for steadiness. I am tired in a familiar way. I am not burned out yet but I can see the shape of it from here if I don't pace myself."
   },
   "psychological": {
     "stress_level": 0.18,
     "agency": 0.47,
     "grief_stage": "none",
-    "temporal_horizon_months": 12
+    "temporal_horizon_months": 10,
+    "high_stress_ticks": 0
   },
   "financial": {
     "monthly_income": 4000,
     "monthly_expenses": 3276,
-    "savings": 20000,
+    "savings": 20362,
     "debt_total": 38907,
     "credit_score": 743
   },
@@ -117,6 +119,6 @@
     "willingness_to_move": 0.3
   },
   "locality": "millfield",
-  "archetype": "stable",
+  "archetype": "I am the person who holds the container. I don't solve problems directly \u2014 I make it possible for people to find their way to solutions. Right now I feel the weight of that role more acutely than usual. The economy may say 'normal' but my work exists in the space between what the data reports and what people actually experience. I trust what I see in that waiting room more than I trust any headline. My low agency score stings a little \u2014 I know what it means. It means I've been absorbing other people's stress without enough outlet for my own. I need to watch that.",
   "tick_updated": 0
 }

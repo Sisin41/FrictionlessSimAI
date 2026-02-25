@@ -1,0 +1,34 @@
+{
+  "tick": 0,
+  "agent_id": "dealership_gm",
+  "agent_name": "Rick Tanner",
+  "response": {
+    "internal_assessment": "Floor is busy, units are moving, and the team is dialed in. On paper everything looks great — but I know the numbers better than anyone. $161k in debt with four kids at home is the thing that wakes me up at 3am. I've got eight months of runway if things go sideways, and that's not the cushion a man in my position should be sitting on. Economy is solid right now, so I need to use this window. The smart play is to press the debt down while the commissions are flowing. Patricia's doing succession dinners, David's networking — I respect that tier, but my job right now is to keep my house in order. Stay on the floor, keep the team sharp, and start throwing extra at that debt before the next slow quarter finds me.",
+    "chosen_actions": [
+      {
+        "type": "DEBT_REDUCTION",
+        "description": "Allocate an additional $1,200 this month from discretionary income toward the highest-interest debt obligation, reducing monthly interest drag and improving debt ratio trajectory.",
+        "target_agent": null,
+        "resources_involved": "$1,200 from discretionary income ($2,750 available)",
+        "reasoning": "Debt ratio of 0.43 is the single largest structural vulnerability in the household. With the economy stable and sales floor performing well, this is the right window to accelerate paydown. Loss aversion is real — losing ground on debt feels worse than gaining ground on savings. Chipping away now while income is reliable is the disciplined move."
+      },
+      {
+        "type": "TEAM_MANAGEMENT",
+        "description": "Run a floor-level sales performance review with the sales team — pull the monthly numbers, recognize top performers publicly, and tighten up follow-up protocols on leads that went cold last month.",
+        "target_agent": null,
+        "resources_involved": "2-3 hours management time, no direct financial cost",
+        "reasoning": "Role security is 0.42 — not comfortable. The best insurance policy for keeping this position is visibly running an excellent dealership. Keeping the team sharp and hitting targets protects the income that services the debt and covers four dependents. This is core L2 PARTICIPATE behavior — stay indispensable."
+      },
+      {
+        "type": "ROUTINE_MAINTENANCE",
+        "description": "Review the dealership's service department throughput and lot inventory levels. Flag any slow-moving units for pricing adjustments before they age into a margin problem.",
+        "target_agent": null,
+        "resources_involved": "1-2 hours operational time",
+        "reasoning": "This is the floor general instinct — keep the operation clean and efficient. Inventory discipline protects gross margins, which protects the store's performance metrics, which protects Rick's position. No drama, just blocking and tackling."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "stable",
+    "inner_monologue": "Everything looks fine from the outside, but I've got four kids and $161k hanging over me, so I'm going to run this floor like my family's security depends on it — because it does."
+  }
+}

@@ -1,6 +1,21 @@
 {
-  "past_actions": [],
-  "past_outcomes": [],
+  "past_actions": [
+    {
+      "tick": 0,
+      "summary": "Begin drafting a modernized curriculum proposal that pivots the auto shop program toward EV fundamentals, hybrid systems, and automotive electronics. Research available industry certification pathways \u2014 specifically ASE's new EV certification tracks and Tesla's education partnership program. Map out what equipment upgrades would be required and begin estimating costs for a board presentation.",
+      "emotional_state": "Calm and purposeful. There's a low hum of concern about the board's April review, but it's not anxiety \u2014 it's more like a problem I've decided to solve. I genuinely like this work and I like these kids. The idea of losing the program bothers me more for their sake than mine. I know my teaching skills would land me somewhere else if it came to that, but I'd rather fight for this. I feel like I have time and options, which is the best position to be in."
+    }
+  ],
+  "past_outcomes": [
+    {
+      "tick": 0,
+      "action": "Begin drafting a modernized curriculum proposal that pivots the auto shop program toward EV fundamentals, hybrid systems, and automotive electronics. Research available industry certification pathways \u2014 specifically ASE's new EV certification tracks and Tesla's education partnership program. Map out what equipment upgrades would be required and begin estimating costs for a board presentation.",
+      "savings_delta": 450,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Begin drafting a modernized curriculum proposal that pivots the auto shop program toward EV fundamentals, hybrid systems, and automotive electronics. Research available industry certification pathways \u2014 specifically ASE's new EV certification tracks and Tesla's education partnership program. Map out what equipment upgrades would be required and begin estimating costs for a board presentation.. Savings grew by $450. "
+    }
+  ],
   "reflections": [],
   "regrets": [],
   "successes": [],

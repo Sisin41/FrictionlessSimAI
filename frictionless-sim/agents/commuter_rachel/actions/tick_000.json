@@ -1,0 +1,34 @@
+{
+  "tick": 0,
+  "agent_id": "commuter_rachel",
+  "agent_name": "Rachel Green",
+  "response": {
+    "internal_assessment": "Things are technically fine right now. My job is solid, my skills are relevant, and the economy isn't flashing any red lights. But I keep doing the math in my head at 2am. $4,817 out of $6,000 every month. That's barely $1,183 breathing room. The car payment sits right in the middle of that — $620 a month for something I tell myself is a business expense, a professional necessity, part of the brand. And maybe it is. I work in marketing. Perception is the product. But four months of runway if something goes sideways? That number doesn't feel as safe as it did a year ago.",
+    "chosen_actions": [
+      {
+        "type": "financial_audit",
+        "description": "Conduct a personal spending audit, itemizing all monthly expenses and categorizing them as fixed, discretionary, or image-related. Not to cut the car — but to find the smaller leaks that don't carry any identity weight. Subscriptions, takeout frequency, the gym I keep meaning to use more.",
+        "target_agent": null,
+        "resources_involved": "time (2-3 hours), budgeting app or spreadsheet",
+        "reasoning": "High loss aversion and status quo bias means I'm not ready to make dramatic changes. But I can feel in control by optimizing the margins. Finding $200-$300 in painless cuts elsewhere reduces the psychological pressure the car payment creates without requiring me to surrender the thing I've attached to my identity."
+      },
+      {
+        "type": "savings_discipline",
+        "description": "Set up an automatic transfer of $300/month into a dedicated emergency buffer account, separate from the main $24,000 savings. Label it 'Runway Extension.' Treat it like a bill.",
+        "target_agent": null,
+        "resources_involved": "$300/month from discretionary spending",
+        "reasoning": "The 4-month runway threat is real and I know it. I won't fix it by selling the car today — that's not who I am right now. But I can quietly extend it. Automating this removes the willpower question and the savings become invisible in the day-to-day. It also gives me something to feel good about that isn't the car."
+      },
+      {
+        "type": "professional_visibility",
+        "description": "Invest 2-3 hours per week into building out LinkedIn presence and a small marketing portfolio site. Not a job hunt — just staying visible and relevant in case the wind shifts.",
+        "target_agent": null,
+        "resources_involved": "time, existing marketing and social media skills",
+        "reasoning": "Skill relevance is 0.80 which is strong, but marketing shifts fast. The real hedge against financial stress isn't cutting the car — it's making sure my income line stays secure or grows. My skills are the actual asset here. Staying visible costs nothing and keeps optionality open. Also, frankly, this is on-brand for me."
+      }
+    ],
+    "emotional_state": "Quietly anxious beneath a composed surface. The tick-0 inbox says everything is fine and I believe it, mostly. But there is a low hum of financial discomfort that doesn't match my outward confidence. I feel most grounded when I feel like I am making intentional choices — so the audit and the auto-transfer will help. The car stays. I'm not ready to have that conversation with myself yet.",
+    "archetype_self_assessment": "I am a Maintainer with aspirational instincts. I want things to stay good while also quietly improving. I manage my image because I genuinely believe it matters for my career, and I'm probably right. But I also know that identity attachment can be expensive and I am at least self-aware enough to budget around it rather than pretend it doesn't cost anything.",
+    "inner_monologue": "Okay. The economy is fine. My job is fine. I am fine. The car is not the problem — the car is the solution to the problem of how people see me at client meetings and in the parking lot of every agency I've ever walked into. I will not apologize for that. What I will do is stop hemorrhaging money on things that don't even make me happy. The streaming services I forget to cancel. The $14 salads three times a week because I didn't meal prep. None of those are doing anything for my brand. The car is doing something. So the car stays, and everything else gets a look. And I'm going to quietly make sure that if the ground ever does shift, I have more than four months to figure out my next move."
+  }
+}

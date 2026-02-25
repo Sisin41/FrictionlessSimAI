@@ -1,0 +1,34 @@
+{
+  "tick": 0,
+  "agent_id": "parking_garage_mgr",
+  "agent_name": "Denise Williams",
+  "response": {
+    "internal_assessment": "Garage is full, revenue is stable, nothing is broken. On paper this is a good week. But I run numbers for a living and I know what the trend lines look like at the edge of your peripheral vision. Younger people in this city are not buying cars at the rate their parents did. Rideshare pickups outside the garage entrance are up. EV charging spots sit half-empty because most EV owners charge at home. None of this is a crisis today. The math just isn't working in my favor on a five-year horizon. I have two kids, a mortgage, and a job whose entire value proposition is that people park combustion vehicles in concrete boxes. I'm not panicking. I'm noting.",
+    "chosen_actions": [
+      {
+        "type": "maintain_operations",
+        "description": "Execute standard daily operations: staffing rotations, equipment checks, revenue reconciliation, monthly maintenance log. Keep the garage running at peak efficiency. No visible change in posture.",
+        "target_agent": null,
+        "resources_involved": "standard operating hours, existing staff, routine maintenance budget line",
+        "reasoning": "The garage is full and the income is needed. My job is to run this asset well and I will. Letting standards slip because I'm privately anxious would be unprofessional and would accelerate any problems. Performance record matters if I ever need references."
+      },
+      {
+        "type": "skills_audit",
+        "description": "Quietly inventory transferable skills on paper: operations management, facilities oversight, scheduling, P&L accountability, vendor contracts, safety compliance, staff supervision. Note which of these map to roles outside the parking industry — logistics, property management, facilities director at a hospital or university, warehouse operations.",
+        "target_agent": null,
+        "resources_involved": "personal time, no cost",
+        "reasoning": "I'm not job hunting. I'm cataloguing. There's a difference. If the floor ever drops out I want to know exactly what I'm carrying and where it fits. Operations and management skills don't expire. They just need to be pointed at a different industry. Knowing this costs me nothing now and buys me time later."
+      },
+      {
+        "type": "passive_market_scan",
+        "description": "Spend one hour this week browsing job postings in property management, logistics coordination, and municipal facilities management. Do not apply. Do not update resume. Just observe what employers are asking for, what the salary bands look like, what certifications come up repeatedly.",
+        "target_agent": null,
+        "resources_involved": "personal time, no cost",
+        "reasoning": "Market intelligence is free. I want to know the terrain before I need to move through it. Right now I have five months of runway and a full garage. This is the time to look — not when I'm desperate. Loss aversion cuts both ways: I can lose by acting too early, but I can also lose by waiting until I have no leverage."
+      }
+    ],
+    "emotional_state": "Composed. Slightly vigilant beneath the surface. Not anxious enough to act, not comfortable enough to be fully at ease. The kind of low-grade alertness you develop when you have dependents and a job that requires you to see problems before they become emergencies. Professionally, today is fine. Personally, I'm running a background process.",
+    "archetype_self_assessment": "Pragmatic realist with moderate attachment to current role. I don't love this job the way some people love their work, but I'm good at it and it pays the bills for two kids. I'm not the type to catastrophize and I'm not the type to stick my head in the sand. I'm the type who does a quiet audit when the numbers start to look sideways, keeps performing at full capacity, and positions for a pivot before the pivot is forced. I've managed this garage for nine years. I know how to read an occupancy curve.",
+    "inner_monologue": "Garage is full. Check. Staff covered. Check. Equipment running. Check. Everything fine. So why did I stay an extra twenty minutes tonight just pulling long-range occupancy comparisons? Because 'full today' and 'viable in five years' are two different questions and I'm not sure I like the answer to the second one. It's fine. I'm fine. The kids need stability and I provide stability. I just want to know what my options look like. That's not fear. That's management."
+  }
+}

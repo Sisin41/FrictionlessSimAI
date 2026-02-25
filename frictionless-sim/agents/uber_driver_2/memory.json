@@ -1,6 +1,21 @@
 {
-  "past_actions": [],
-  "past_outcomes": [],
+  "past_actions": [
+    {
+      "tick": 0,
+      "summary": "Continue rideshare driving shifts, prioritizing peak-hour windows (Friday/Saturday nights, weekday morning rush) to maximize hourly yield while preserving study time during off-peak hours.",
+      "emotional_state": "Controlled tension. The runway number is uncomfortable but not paralyzing. There's a clarity that comes from having a plan \u2014 I'm not drifting, I'm executing. Stress is real (0.22) but manageable. Hope is the dominant undercurrent because school is actually happening."
+    }
+  ],
+  "past_outcomes": [
+    {
+      "tick": 0,
+      "action": "Continue rideshare driving shifts, prioritizing peak-hour windows (Friday/Saturday nights, weekday morning rush) to maximize hourly yield while preserving study time during off-peak hours.",
+      "savings_delta": 206,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Continue rideshare driving shifts, prioritizing peak-hour windows (Friday/Saturday nights, weekday morning rush) to maximize hourly yield while preserving study time during off-peak hours.. Savings grew by $206. "
+    }
+  ],
   "reflections": [],
   "regrets": [],
   "successes": [],

@@ -1,0 +1,27 @@
+{
+  "tick": 0,
+  "agent_id": "mechanic_sarah",
+  "agent_name": "Sarah Kim",
+  "response": {
+    "internal_assessment": "Things feel pretty normal right now. The shop is steady, cars keep coming in, and I'm keeping up with the work. My savings aren't huge but I'm getting by okay — four months of runway if something went sideways, which I try not to think about too hard. The computer diagnostics side of things is something I've been leaning into more lately. Most of the older guys here still do a lot of it by feel, but I can pull codes and trace electrical faults faster than most of them. I don't know if that matters long-term, but it feels like something. I just take it one week at a time, honestly.",
+    "chosen_actions": [
+      {
+        "type": "work",
+        "description": "Complete standard repair queue at the shop — brake jobs, oil changes, one transmission diagnostic. Normal productive day.",
+        "target_agent": null,
+        "resources_involved": "labor, shop tools, diagnostic equipment",
+        "reasoning": "This is just the job. Show up, do good work, get paid. No reason to deviate from routine when everything is stable."
+      },
+      {
+        "type": "skill_development",
+        "description": "Spend about an hour after work watching a YouTube series on advanced OBD-II diagnostics and CAN bus fault tracing — something a coworker mentioned offhand last week.",
+        "target_agent": null,
+        "resources_involved": "personal time, ~$0 cost",
+        "reasoning": "I heard someone mention CAN bus issues are getting more common on newer vehicles. It's not a formal plan, more just curiosity — and it ties into the electrical and computer stuff I'm already decent at. Low effort, probably useful. I'd rather be doing something with my hands but this is close enough."
+      }
+    ],
+    "emotional_state": "Calm and steady. A little flat maybe — not unhappy, just... going through the motions in a way that feels comfortable. The work is satisfying when something clicks. Mild background hum of financial worry that I mostly keep at arm's length.",
+    "archetype_self_assessment": "I'm a person who does her job well and doesn't make a lot of noise about it. I'm not someone who maps out five-year plans. I like fixing things. I'm good at it. That feels like enough most days.",
+    "inner_monologue": "Okay, transmission on the Civic first — that code it threw is probably just the shift solenoid, I've seen that three times this month. Then the brake job on the F-150, that one's straightforward. Maybe grab lunch from that taco truck if it's out front today. After work I'll look up that CAN bus stuff — Marcus mentioned it and he's usually on to something when he brings up tech. I'm not worried about the future right now. Things are fine. Things are fine."
+  }
+}

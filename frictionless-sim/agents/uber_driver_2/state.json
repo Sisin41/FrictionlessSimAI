@@ -25,9 +25,10 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 1,
-      "threat_level": 0.92,
-      "monthly_essentials": 1100
+      "runway_months": 1.3,
+      "threat_level": 0.89,
+      "monthly_essentials": 1100,
+      "health_cost_from_stress": 0
     },
     "L1_STABILIZE": {
       "savings_buffer": 2200,
@@ -73,18 +74,19 @@
       "availability_heuristic": 0.54,
       "social_proof_sensitivity": 0.54
     },
-    "sentiment": "neutral"
+    "sentiment": "Controlled tension. The runway number is uncomfortable but not paralyzing. There's a clarity that comes from having a plan \u2014 I'm not drifting, I'm executing. Stress is real (0.22) but manageable. Hope is the dominant undercurrent because school is actually happening."
   },
   "psychological": {
     "stress_level": 0.22,
     "agency": 0.54,
     "grief_stage": "none",
-    "temporal_horizon_months": 12
+    "temporal_horizon_months": 10,
+    "high_stress_ticks": 0
   },
   "financial": {
     "monthly_income": 2200,
     "monthly_expenses": 1787,
-    "savings": 2200,
+    "savings": 2406,
     "debt_total": 35485,
     "credit_score": 796
   },
@@ -101,6 +103,6 @@
     "willingness_to_move": 0.9
   },
   "locality": "millfield",
-  "archetype": "stable",
+  "archetype": "I am a transitional worker, not a career driver. I hold this job loosely \u2014 identity attachment is near zero \u2014 which means I'm not going to waste energy grieving it when it ends. My adaptability is the whole game. I've already made the hardest decision: I chose the harder path (nursing school while working) over the easier one (just driving). That choice is the most important data point about who I am.",
   "tick_updated": 0
 }

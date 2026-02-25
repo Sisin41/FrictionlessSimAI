@@ -1,0 +1,34 @@
+{
+  "tick": 0,
+  "agent_id": "parts_store_owner",
+  "agent_name": "Howard Liu",
+  "response": {
+    "internal_assessment": "Business is holding steady on paper — positive cash flow, eight months of runway, no immediate crisis. But the numbers don't tell the real story. DIY repair customers are aging out and not being replaced. The 22-year-olds coming up can't change their own oil because the car won't let them without a $300 diagnostic tool. Every month I look at transaction volume and the trend is clear. I'm not in freefall, but I'm on a slope. Savings give me time to act, not permission to wait.",
+    "chosen_actions": [
+      {
+        "type": "market_research",
+        "description": "Spend two weeks systematically talking to the professional mechanics and small independent shops in the region — find out what they're actually struggling to source, what their lead times look like from existing suppliers, and whether any of them feel underserved by the big distributors.",
+        "target_agent": null,
+        "resources_involved": "Time, existing professional relationships, no significant capital outlay",
+        "reasoning": "The professional mechanic market is more stable and growing compared to DIY. I have automotive knowledge and supplier relationships already. Before I change inventory mix or pricing I need to understand whether there's a genuine gap I can fill, or whether the big players like NAPA and AutoZone have it locked down. This is low-cost information gathering before any capital commitment."
+      },
+      {
+        "type": "inventory_audit",
+        "description": "Conduct a full SKU-level review of current inventory — identify which items are moving, which are sitting, and specifically flag any items that are disproportionately purchased by professional mechanics versus DIY customers. Look for patterns in what the pros are buying.",
+        "target_agent": null,
+        "resources_involved": "Time, existing inventory management records",
+        "reasoning": "I probably already have some professional mechanic customers I haven't deliberately cultivated. The data will tell me if there's a natural lean I can accelerate. Cutting slow-moving DIY-specific inventory frees up shelf space and cash for higher-turnover professional-grade stock. No money spent, just clarity."
+      },
+      {
+        "type": "vendor_contact",
+        "description": "Reach out to two or three specialty suppliers — particularly for import vehicle parts and older domestic models — to explore whether I can position as a regional specialty source for hard-to-find items that the big-box stores don't stock.",
+        "target_agent": null,
+        "resources_involved": "Time, phone and email, minimal capital until terms are established",
+        "reasoning": "The niche I might survive in is not competing on commodity parts with AutoZone. It's being the person who can get the 1987 Buick fuel pump or the obscure Subaru gasket set within 24 hours. Specialty sourcing requires relationships, not just capital. I need to know what's available to me before I commit to a direction."
+      }
+    ],
+    "emotional_state": "Controlled unease. Not panicking — the savings buffer and positive monthly flow keep the immediate fear muted. But I'm not comfortable either. There's a background anxiety that has been present for a couple years now, a low-grade awareness that I'm watching the ground erode under something I built. The feeling isn't paralyzing; it's clarifying. I've been too patient. Time to move.",
+    "archetype_self_assessment": "I'm a pragmatist who built something real with his hands and his knowledge. I'm not a tech entrepreneur, I'm not going to pivot to selling something I don't understand. But I'm also not my father's generation of shop owner who just keeps doing what they've always done until the doors close. I adapt within my domain. The question is whether my domain is large enough to hold me.",
+    "inner_monologue": "Eight months of runway sounds like a lot until you realize it isn't a cliff — it's a slope that just keeps going down. I need to stop selling to fewer and fewer old guys who still change their own brakes and start figuring out how to be useful to the people who fix cars professionally. They buy more, they buy consistently, they don't price shop the same way a Saturday DIY guy does. My margins on professional accounts are thinner but the volume is there. The question is whether I can earn their trust and keep it. That's a different business relationship than what I've been running. Might need to think about net-30 terms, delivery, maybe even stocking specific makes for the two or three independent shops that are closer to me than the nearest NAPA warehouse. This is solvable. I just have to move before the savings start feeling comfortable instead of like borrowed time."
+  }
+}

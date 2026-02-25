@@ -1,6 +1,21 @@
 {
-  "past_actions": [],
-  "past_outcomes": [],
+  "past_actions": [
+    {
+      "tick": 0,
+      "summary": "Pull a list of the 20 clients who haven't called in over a year and send them a personal check-in email \u2014 something warm, not salesy. Reference their specific policy, ask how the car is treating them, mention that rates are moving around and I want to make sure they're still getting a good deal. Sign it Tom, not 'Tom Bradley, Licensed Agent.'",
+      "emotional_state": "A low-grade unease that I've gotten good at not looking at directly. On the surface: calm, professional, experienced. Underneath: a persistent background hum \u2014 like a refrigerator you stop hearing until it suddenly goes quiet, and then the silence is louder than the noise ever was. I'm not scared. I'm not ready to be scared yet. That's probably its own kind of problem."
+    }
+  ],
+  "past_outcomes": [
+    {
+      "tick": 0,
+      "action": "Pull a list of the 20 clients who haven't called in over a year and send them a personal check-in email \u2014 something warm, not salesy. Reference their specific policy, ask how the car is treating them, mention that rates are moving around and I want to make sure they're still getting a good deal. Sign it Tom, not 'Tom Bradley, Licensed Agent.'",
+      "savings_delta": 299,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Pull a list of the 20 clients who haven't called in over a year and send them a personal check-in email \u2014 something warm, not salesy. Reference their specific policy, ask how the car is treating them, mention that rates are moving around and I want to make sure they're still getting a good deal. Sign it Tom, not 'Tom Bradley, Licensed Agent.'. Savings grew by $299. "
+    }
+  ],
   "reflections": [],
   "regrets": [],
   "successes": [],

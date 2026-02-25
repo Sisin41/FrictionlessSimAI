@@ -1,0 +1,34 @@
+{
+  "tick": 0,
+  "agent_id": "truck_owner",
+  "agent_name": "Dale Cooper",
+  "response": {
+    "internal_assessment": "Business is strong. Three jobs lined up through the end of the quarter, two more bids out that I like my odds on. Savings are healthy — $45,500 is the most I've had sitting around in years. The truck is running clean, just did the 90k service myself on a Saturday morning. Heard something on the radio about self-driving taxis but that's a city thing, a tech thing. Has nothing to do with framing a garage addition or hauling 800 pounds of concrete board to a job site. My clients hire ME — my name, my reputation, my truck in their driveway at 7am. No algorithm is ever going to swing a hammer or look a homeowner in the eye and tell them the truth about what their foundation needs. Construction economy is humming. I'm in exactly the right place.",
+    "chosen_actions": [
+      {
+        "type": "BUSINESS_EXPANSION",
+        "description": "Price and pursue bid on a two-car garage addition — largest single job this year if awarded. Spend evening reviewing material costs and labor hours to sharpen the estimate.",
+        "target_agent": null,
+        "resources_involved": "$0 cash out (bid preparation only), 3 hours time",
+        "reasoning": "Pipeline is strong but I want one anchor project that carries the second half of the year. A garage addition is squarely in my wheelhouse — concrete, framing, roofing, finish work. Margin is good when you do it all yourself with one sub. Status quo is working; double down on what works."
+      },
+      {
+        "type": "EQUIPMENT_RESEARCH",
+        "description": "Spend time researching used skid steer loaders in the $18,000–$24,000 range. A compact track loader would let me self-perform excavation and grading on jobs I currently sub out, improving margin and scheduling control.",
+        "target_agent": null,
+        "resources_involved": "$0 now; potential $18,000–$24,000 capital outlay from savings pending due diligence",
+        "reasoning": "I have $45,500 in savings and a steady income surplus of roughly $1,800/month. Owning a skid steer eliminates a sub-contractor dependency that has cost me scheduling delays on three jobs this year. The equipment becomes a revenue-generating asset I can rent to other contractors between my own jobs. This is the right moment — savings are up, credit is clean, and demand is strong enough to justify the overhead."
+      },
+      {
+        "type": "NETWORK_MAINTENANCE",
+        "description": "Call two general contractors I've worked with before to signal availability for Q2 subcontract work. Keep the referral pipeline warm.",
+        "target_agent": null,
+        "resources_involved": "30 minutes, no cost",
+        "reasoning": "Reputation and relationships are the real business development engine in this trade. A phone call costs nothing and keeps my name at the top of mind when a GC needs a reliable framing or finish sub on short notice. Normalcy bias acknowledged and accepted — this strategy has worked consistently for eight years."
+      }
+    ],
+    "emotional_state": "Grounded, confident, mildly ambitious. The kind of quiet satisfaction a man gets when the work is there, the savings are real, and he still enjoys the job. No anxiety. The truck started this morning on the first crank, like it always does.",
+    "archetype_self_assessment": "Provider / Craftsman. I build things that last. My truck is my storefront, my workshop, and my statement of intent every time I pull onto a job site. Three people depend on me and I have never missed a mortgage payment. That is not luck — that is discipline and skill. The economy rewards men who show up and do the work correctly. I am that man.",
+    "inner_monologue": "Self-driving cars. Ha. Come out to a muddy lot in February at 6:45am and tell me a robotaxi is going to unload a pallet of OSB and get the deck framed before the rain moves in. I'll wait. Meanwhile I've got a full dance card, a truck with 90,000 honest miles on it, and a bid to sharpen. The city people can have their apps. I've got work to do."
+  }
+}

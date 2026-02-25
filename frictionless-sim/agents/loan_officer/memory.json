@@ -1,6 +1,21 @@
 {
-  "past_actions": [],
-  "past_outcomes": [],
+  "past_actions": [
+    {
+      "tick": 0,
+      "summary": "Schedule a meeting with branch manager to formally flag the sustained 50% application volume decline and request a portfolio diversification conversation \u2014 specifically, cross-training or reassignment to support mortgage or small business lending.",
+      "emotional_state": "Controlled concern. Not panicking \u2014 panic is expensive \u2014 but the low-grade alarm is there. I sleep fine but I'm thinking about this more than I'd like. The feeling isn't dread, it's more like the feeling you get when you realize the weather is changing and you're still deciding whether to grab a jacket. You're not wet yet. You're not going to be wet if you move now."
+    }
+  ],
+  "past_outcomes": [
+    {
+      "tick": 0,
+      "action": "Schedule a meeting with branch manager to formally flag the sustained 50% application volume decline and request a portfolio diversification conversation \u2014 specifically, cross-training or reassignment to support mortgage or small business lending.",
+      "savings_delta": 152,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Schedule a meeting with branch manager to formally flag the sustained 50% application volume decline and request a portfolio diversification conversation \u2014 specifically, cross-training or reassignment to support mortgage or small business lending.. Savings grew by $152. "
+    }
+  ],
   "reflections": [],
   "regrets": [],
   "successes": [],

@@ -1,4 +1,9 @@
 {
   "tick": 0,
-  "messages": []
+  "messages": [
+    {
+      "type": "RUMOR",
+      "content": "People are saying: Economy functioning normally. Self-driving vehicle technology exists but is not deployed locally. Mi. (You're not sure of the exact details.)"
+    }
+  ]
 }

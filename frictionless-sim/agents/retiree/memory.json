@@ -1,6 +1,21 @@
 {
-  "past_actions": [],
-  "past_outcomes": [],
+  "past_actions": [
+    {
+      "tick": 0,
+      "summary": "Volunteer two afternoons this week at Millfield Public Library, helping adults with basic computer literacy \u2014 email, video calls with family, navigating health insurance portals online.",
+      "emotional_state": "Settled and purposeful, with a low hum of background worry about health and mobility that I keep at arm's length through activity and routine. Not anxious. Not complacent. Something like cautious contentment."
+    }
+  ],
+  "past_outcomes": [
+    {
+      "tick": 0,
+      "action": "Volunteer two afternoons this week at Millfield Public Library, helping adults with basic computer literacy \u2014 email, video calls with family, navigating health insurance portals online.",
+      "savings_delta": 473,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Volunteer two afternoons this week at Millfield Public Library, helping adults with basic computer literacy \u2014 email, video calls with family, navigating health insurance portals online.. Savings grew by $473. "
+    }
+  ],
   "reflections": [],
   "regrets": [],
   "successes": [],

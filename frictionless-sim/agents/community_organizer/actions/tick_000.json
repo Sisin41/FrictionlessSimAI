@@ -1,0 +1,34 @@
+{
+  "tick": 0,
+  "agent_id": "community_organizer",
+  "agent_name": "Lisa Freeman",
+  "response": {
+    "internal_assessment": "The official word is that the economy is functioning normally. Car sector stable. But the people who walk through our doors don't read press releases — they walk in because something in their life has started to shift beneath them. Foot traffic is up. I'm seeing faces I haven't seen before: middle-aged men who used to have something to do on a Tuesday morning, younger people who look like they slept somewhere they weren't supposed to. I'm not panicking. I've been doing this long enough to know that the leading indicator of a community in trouble isn't the headline — it's the waiting room. And our waiting room is filling up. My budget is not. I have maybe five months of operating cushion before I'd need to start cutting programs, and I am not prepared to do that. Not now. I need to act, quietly, before this becomes a crisis I can't manage.",
+    "chosen_actions": [
+      {
+        "type": "program_launch",
+        "description": "Quietly expand drop-in hours at the center by 6 hours per week — Tuesday and Thursday evenings — framed as a 'community connection night' rather than crisis support. No stigma attached. Coffee, tables, a counselor on soft rotation. Lower the barrier to entry.",
+        "target_agent": null,
+        "resources_involved": "$180/month incremental operating cost, existing volunteer counselor pool, center facility",
+        "reasoning": "The people I'm seeing aren't ready to ask for help yet. They're orbiting it. If I create a low-stakes reason to come in, I meet them before the crisis deepens. This also gives me real-time ground-level data on what's actually happening out there — better than any economic report."
+      },
+      {
+        "type": "fundraising",
+        "description": "Begin drafting a resilience-focused grant application to the County Human Services Emergency Stabilization Fund. Frame it around community mental health infrastructure and economic transition support — broad enough to cover whatever comes next. Target: $25,000.",
+        "target_agent": null,
+        "resources_involved": "$0 upfront, 8-10 hours of my time over two weeks, existing program documentation",
+        "reasoning": "My savings runway is five months. Grant cycles take three to four months minimum. If I wait until there's visible need, I'll be writing in crisis, which is the worst time to write anything credible. I write now, from a position of steady competence, and I position the center as a proactive community asset rather than a desperate one. Loss aversion cuts both ways — I'm more afraid of not having resources when people need them than I am of the work involved."
+      },
+      {
+        "type": "network_activation",
+        "description": "Reach out informally to three peer directors at neighboring community organizations — Eastside Family Resource Center, the library's social services liaison, and the food pantry coordinator — to compare notes on what they're seeing. No formal meeting, just phone calls. Listening as much as talking.",
+        "target_agent": null,
+        "resources_involved": "Time only — roughly 3 hours",
+        "reasoning": "If I'm seeing an uptick, they may be too. Or they may not — which is also useful information. Building a quiet peer network now means we can coordinate resources and referrals without bureaucratic lag if conditions deteriorate. Community organizing principle one: you build the coalition before you need it."
+      }
+    ],
+    "emotional_state": "Contained. Purposeful. There is a steady low-grade alarm underneath the routine — the kind I've learned not to dismiss and not to amplify. I am not afraid. I am watchful. The work feels more urgent than it did six months ago but I am keeping that urgency internal so it doesn't transfer to the people who come to us for steadiness. I am tired in a familiar way. I am not burned out yet but I can see the shape of it from here if I don't pace myself.",
+    "archetype_self_assessment": "I am the person who holds the container. I don't solve problems directly — I make it possible for people to find their way to solutions. Right now I feel the weight of that role more acutely than usual. The economy may say 'normal' but my work exists in the space between what the data reports and what people actually experience. I trust what I see in that waiting room more than I trust any headline. My low agency score stings a little — I know what it means. It means I've been absorbing other people's stress without enough outlet for my own. I need to watch that.",
+    "inner_monologue": "Normal. They're calling it normal. Harold came in this morning — retired machinist, sixty-two, used to come in for the chess club on Saturdays. He was here on a Tuesday at 9am and he didn't have a reason ready when I asked how he was doing. Just said 'keeping busy.' He is not busy. He is scared and he doesn't have language for it yet. I wrote his name down. I'm going to keep a list. Not formally. Just — a list. Because when something is actually happening you need to be able to look back and say: I saw it coming. I tried to be ready. Write the grant. Extend the hours. Call Maria at Eastside. Do the quiet work now so the loud work doesn't catch us unprepared. Five months of runway. That's enough time if I move."
+  }
+}

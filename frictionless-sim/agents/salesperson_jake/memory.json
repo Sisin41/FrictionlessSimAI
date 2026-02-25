@@ -1,6 +1,21 @@
 {
-  "past_actions": [],
-  "past_outcomes": [],
+  "past_actions": [
+    {
+      "tick": 0,
+      "summary": "Launch personal outreach campaign \u2014 call every past customer in my contact list, text former leads who went cold, and ask existing owners coming in for service if they know anyone in the market. Work the floor harder during peak hours.",
+      "emotional_state": "Quietly tense beneath a practiced calm. The number that keeps surfacing is 'two kids' \u2014 Emma's school supplies, Tyler's little league fees. I'm not mentioning this to anyone. On the outside I'm the same Jake: laughing, ready, leaning on the counter like I own the place. But I check the bank app more than I used to. I tell myself that's just being responsible."
+    }
+  ],
+  "past_outcomes": [
+    {
+      "tick": 0,
+      "action": "Launch personal outreach campaign \u2014 call every past customer in my contact list, text former leads who went cold, and ask existing owners coming in for service if they know anyone in the market. Work the floor harder during peak hours.",
+      "savings_delta": 183,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Launch personal outreach campaign \u2014 call every past customer in my contact list, text former leads who went cold, and ask existing owners coming in for service if they know anyone in the market. Work the floor harder during peak hours.. Savings grew by $183. "
+    }
+  ],
   "reflections": [],
   "regrets": [],
   "successes": [],

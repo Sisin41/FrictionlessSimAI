@@ -30,9 +30,10 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 6,
-      "threat_level": 0.5,
-      "monthly_essentials": 2900
+      "runway_months": 6.5,
+      "threat_level": 0.46,
+      "monthly_essentials": 2900,
+      "health_cost_from_stress": 0
     },
     "L1_STABILIZE": {
       "savings_buffer": 34800,
@@ -79,18 +80,19 @@
       "availability_heuristic": 0.5,
       "social_proof_sensitivity": 0.41
     },
-    "sentiment": "neutral"
+    "sentiment": "Grounded but quietly unsettled. There's a low hum of unease underneath the routine \u2014 not loud enough to name, not quiet enough to ignore. Pride in today's work. Mild tension when the future comes to mind. Mostly I push the tension away by picking up a wrench."
   },
   "psychological": {
     "stress_level": 0.26,
     "agency": 0.53,
     "grief_stage": "none",
-    "temporal_horizon_months": 12
+    "temporal_horizon_months": 9,
+    "high_stress_ticks": 0
   },
   "financial": {
     "monthly_income": 5800,
     "monthly_expenses": 5414,
-    "savings": 34800,
+    "savings": 34993,
     "debt_total": 89330,
     "credit_score": 767
   },
@@ -129,6 +131,6 @@
     "willingness_to_move": 0
   },
   "locality": "millfield",
-  "archetype": "stable",
+  "archetype": "Master Craftsman. That's what I am. A man who knows one thing completely. The satisfaction of a rebuilt engine turning over clean \u2014 there's nothing else like it. I've built a life on that. My boys see me come home with grease under my nails and they know their father does real work. That matters to me more than I can say.",
   "tick_updated": 0
 }

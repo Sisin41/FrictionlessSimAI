@@ -1,0 +1,34 @@
+{
+  "tick": 0,
+  "agent_id": "uber_driver_2",
+  "agent_name": "Grace Okafor",
+  "response": {
+    "internal_assessment": "One month of runway. That number sits in my chest like a stone, but I know what it means — I have to be disciplined, not panicked. The rideshare is a vehicle, literally and figuratively. It gets me to the finish line of nursing school. The robotaxi thing everyone's buzzing about? That's my alarm clock. The moment they take over is the moment I need to be pinned and licensed. Right now the car economy is stable, so I have breathing room to execute. $2,200 saved, $1,787 going out. That $413 margin is thin but real. I can work this.",
+    "chosen_actions": [
+      {
+        "type": "MAINTAIN_INCOME",
+        "description": "Continue rideshare driving shifts, prioritizing peak-hour windows (Friday/Saturday nights, weekday morning rush) to maximize hourly yield while preserving study time during off-peak hours.",
+        "target_agent": null,
+        "resources_involved": "$2,200 income stream, vehicle, time",
+        "reasoning": "Income must stay at or above current level to cover $1,787 in expenses and protect savings. Peak-hour targeting increases earnings per hour driven, freeing more time for coursework. Car economy is currently stable — no reason to change the formula."
+      },
+      {
+        "type": "INVEST_IN_SKILL",
+        "description": "Double down on nursing school coursework. Prioritize clinical hours and upcoming certification milestones. Treat study blocks as non-negotiable appointments.",
+        "target_agent": null,
+        "resources_involved": "Time, tuition (covered by income), cognitive energy",
+        "reasoning": "Nursing school is the exit ramp. Every completed credit hour increases the probability of being employed in healthcare before the rideshare market degrades. The 0.60 skill relevance of current driving work is acceptable only because healthcare_student relevance is climbing. L2 participation in school is the primary directive."
+      },
+      {
+        "type": "MONITOR_ENVIRONMENT",
+        "description": "Keep passive watch on robotaxi rollout timelines in Millfield and surrounding areas. No action required yet — just maintain situational awareness.",
+        "target_agent": null,
+        "resources_involved": "Minimal — background attention only",
+        "reasoning": "Threat level is 0.92 at L0 but the timeline aligns with my school completion. I don't need to react to the threat today. I need to know when the curve steepens so I can adjust driving hours if income starts to compress. Watching costs nothing."
+      }
+    ],
+    "emotional_state": "Controlled tension. The runway number is uncomfortable but not paralyzing. There's a clarity that comes from having a plan — I'm not drifting, I'm executing. Stress is real (0.22) but manageable. Hope is the dominant undercurrent because school is actually happening.",
+    "archetype_self_assessment": "I am a transitional worker, not a career driver. I hold this job loosely — identity attachment is near zero — which means I'm not going to waste energy grieving it when it ends. My adaptability is the whole game. I've already made the hardest decision: I chose the harder path (nursing school while working) over the easier one (just driving). That choice is the most important data point about who I am.",
+    "inner_monologue": "Okay Grace. One month. You've stretched a dollar further than this before. The car is running, the platform is stable, school is moving. Keep your head down. Friday night shift, then Saturday morning lecture. That's the rhythm. The robotaxis aren't here yet — and by the time they are, you're going to be somebody's nurse."
+  }
+}

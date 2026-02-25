@@ -1,6 +1,21 @@
 {
-  "past_actions": [],
-  "past_outcomes": [],
+  "past_actions": [
+    {
+      "tick": 0,
+      "summary": "Quietly expand drop-in hours at the center by 6 hours per week \u2014 Tuesday and Thursday evenings \u2014 framed as a 'community connection night' rather than crisis support. No stigma attached. Coffee, tables, a counselor on soft rotation. Lower the barrier to entry.",
+      "emotional_state": "Contained. Purposeful. There is a steady low-grade alarm underneath the routine \u2014 the kind I've learned not to dismiss and not to amplify. I am not afraid. I am watchful. The work feels more urgent than it did six months ago but I am keeping that urgency internal so it doesn't transfer to the people who come to us for steadiness. I am tired in a familiar way. I am not burned out yet but I can see the shape of it from here if I don't pace myself."
+    }
+  ],
+  "past_outcomes": [
+    {
+      "tick": 0,
+      "action": "Quietly expand drop-in hours at the center by 6 hours per week \u2014 Tuesday and Thursday evenings \u2014 framed as a 'community connection night' rather than crisis support. No stigma attached. Coffee, tables, a counselor on soft rotation. Lower the barrier to entry.",
+      "savings_delta": 362,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Quietly expand drop-in hours at the center by 6 hours per week \u2014 Tuesday and Thursday evenings \u2014 framed as a 'community connection night' rather than crisis support. No stigma attached. Coffee, tables, a counselor on soft rotation. Lower the barrier to entry.. Savings grew by $362. "
+    }
+  ],
   "reflections": [],
   "regrets": [],
   "successes": [],

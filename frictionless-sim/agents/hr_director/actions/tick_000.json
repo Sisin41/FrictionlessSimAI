@@ -1,0 +1,53 @@
+{
+  "tick": 0,
+  "agent_id": "hr_director",
+  "agent_name": "Angela Wright",
+  "response": {
+    "internal_assessment": "The data I see every day tells a story nobody else in this building wants to hear. I'm processing termination paperwork faster than onboarding paperwork — and that ratio has been worsening for eight months. Auto sector employment isn't declining because of a bad quarter; it's declining because the structure of the industry is shifting. I have a front-row seat to this. My own role security shows 0.72, which sounds reassuring until you realize that the HR function shrinks proportionally as headcount shrinks. Fewer people to hire and fire means fewer reasons to keep a full-time HR Director around. I have 10 months of runway at current burn. That's not a crisis — but it's a clock. My skills transfer well outside auto: compliance, counseling, workforce transition, employee relations. Companies doing layoffs in any sector need exactly what I do. My $649/month car payment is the dumbest financial anchor I'm carrying — I'm an HR Director who knows better. I should fix that. I have entrepreneurial energy and no dependents. The conditions for making a move are better than they've ever been, and the window for moving from a position of strength rather than desperation is right now, at baseline, before anything gets worse.",
+    "chosen_actions": [
+      {
+        "action_id": "update_linkedin_and_resume",
+        "category": "career_hedging",
+        "description": "Refresh LinkedIn profile to reflect full scope of HR expertise — workforce transition management, compliance, organizational development. Set profile to 'Open to Work' visible only to recruiters. Update resume with quantified outcomes: number of terminations managed, compliance programs implemented, cost-per-hire metrics. Target sectors: healthcare, tech, logistics, government — all growing headcount or facing their own restructuring needs.",
+        "cost": 0,
+        "time_investment_hours": 4,
+        "expected_value": "High signal to recruiters; positions her as available before she's desperate"
+      },
+      {
+        "action_id": "network_outreach_hr_community",
+        "category": "career_hedging",
+        "description": "Reach out to three former colleagues now working outside auto sector. Framing: genuine curiosity about their industries, not desperation. HR directors talk to each other — this is how roles get filled before they're posted publicly. Also reconnect with the employment attorney she works with on compliance matters; those relationships cross-sector.",
+        "cost": 0,
+        "time_investment_hours": 2,
+        "expected_value": "Activates informal referral network while the signal is low-cost to send"
+      },
+      {
+        "action_id": "research_car_payment_restructure",
+        "category": "financial_tightening",
+        "description": "Pull the current loan terms on the $649/month car payment. Evaluate: refinancing at a lower rate, trading down to eliminate the payment entirely, or accelerating payoff using savings. At $72k in savings and zero dependents, carrying a $649/month obligation on depreciating transportation is a drag on runway. Even reducing this by $200/month adds roughly one month of runway over the next 10 months.",
+        "cost": 0,
+        "time_investment_hours": 1,
+        "expected_value": "Potentially extends runway by 0.5 to 1.5 months; also reduces cognitive load of financial pressure"
+      },
+      {
+        "action_id": "document_institutional_knowledge",
+        "category": "entrepreneurial_positioning",
+        "description": "Begin quietly organizing notes on workforce transition processes, compliance checklists, and offboarding protocols she has developed. Not for the company — for herself. If an HR consulting practice ever makes sense, this is the raw material. Also documents her value in a way that supports consulting pitches to small and mid-sized companies that can't afford a full-time HR Director but need the expertise.",
+        "cost": 0,
+        "time_investment_hours": 3,
+        "expected_value": "Builds foundation for a potential independent consulting trajectory; zero downside risk"
+      },
+      {
+        "action_id": "monitor_internal_signals",
+        "category": "situational_awareness",
+        "description": "Stay alert to the signals that typically precede an HR department restructure: leadership conversations about 'streamlining,' benefits administration being moved to a PEO or outsourced vendor, requests to document processes 'for continuity.' She will know before she's told — she's seen this pattern from the other side of the desk too many times not to recognize it.",
+        "cost": 0,
+        "time_investment_hours": 0,
+        "expected_value": "Maintains 30 to 60 day warning window before any job loss event, preserving ability to act from strength"
+      }
+    ],
+    "emotional_state": "Calm and deliberate. The mild anxiety she carries (stress 0.29) is not panic — it's the productive discomfort of someone who sees clearly and hasn't yet acted on what she sees. She is not grieving this job or this industry. She is treating the situation like the project manager she secretly is: assess the landscape, reduce unnecessary exposure, activate the options that cost nothing to open. There is something almost relieving about finally moving from awareness to action.",
+    "archetype_self_assessment": "Strategic Realist with Entrepreneurial Undercurrent. Angela is not a victim of circumstance and she knows it. She's been the person delivering hard news to others for years — she has no illusions about how organizations make decisions, and no illusions that loyalty or tenure are meaningful protections. Her low identity attachment to the role means she's grieving nothing. Her high entrepreneurial drive means she's already mentally sketching what comes next. She sits in the Observer-to-Actor transition: she sees the system clearly, and she is beginning to move.",
+    "inner_monologue": "I've handed enough people their walking papers to know exactly what it looks like when the building starts to contract — and I'm not waiting around to find out if mine is the next desk they clear."
+  }
+}

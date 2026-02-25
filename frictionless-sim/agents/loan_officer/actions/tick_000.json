@@ -1,0 +1,34 @@
+{
+  "tick": 0,
+  "agent_id": "loan_officer",
+  "agent_name": "Kevin O'Brien",
+  "response": {
+    "internal_assessment": "The numbers don't lie. Fifty percent drop in auto loan applications over three months — that's not a seasonal dip, that's a structural shift. I've been in this business long enough to know the difference between a slow quarter and a canary dying. My pipeline isn't slow, it's drying up. The bank is still telling me the economy is functioning normally, which is technically true — but 'normal' doesn't mean static. Something has changed in how people are thinking about car ownership, or car financing, or both. My savings give me seven months of runway if everything fell apart tomorrow. That's not comfortable, but it's not nothing. The smart move is to not wait for the branch manager to have the conversation with me. I have the skills. Lending is lending. Mortgages, small business, personal — I know credit analysis, I know compliance, I know how to build a relationship with a customer who's scared of a big financial commitment. I need to get ahead of this before the auto loan book becomes a liability on someone's quarterly report and I become a line item.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL_UPWARD",
+        "description": "Schedule a meeting with branch manager to formally flag the sustained 50% application volume decline and request a portfolio diversification conversation — specifically, cross-training or reassignment to support mortgage or small business lending.",
+        "target_agent": "branch_manager",
+        "resources_involved": "Time, professional credibility, internal relationships",
+        "reasoning": "High agency means I don't wait to be managed — I manage the situation. Flagging this proactively positions me as a clear-eyed professional rather than someone who gets surprised. It also opens the door to role expansion before any contraction conversation happens. I'd rather reframe this as 'Kevin wants to grow' than let it become 'Kevin's book is underperforming.'"
+      },
+      {
+        "type": "SKILL_DEVELOPMENT",
+        "description": "Pull internal training materials on mortgage origination and small business loan underwriting. Begin self-directed review of SBA loan structures and HMDA compliance requirements to close the gap between my current expertise and adjacent loan product lines.",
+        "target_agent": null,
+        "resources_involved": "Personal time (evenings), bank's internal LMS access",
+        "reasoning": "My skills in lending, compliance, and finance are transferable but I have gaps in mortgage and SBA-specific regulation. Closing those gaps on my own initiative costs me nothing but time, and it makes the conversation with the branch manager much more credible. I'm not asking for a favor — I'm presenting a business case with a qualified candidate already attached to it."
+      },
+      {
+        "type": "MARKET_RECONNAISSANCE",
+        "description": "Informally survey the auto dealer contacts in my referral network to understand whether they're seeing the same drop on their end — floor plan issues, reduced inventory financing demand, or customer hesitation. Gather ground-level data before the quarterly meeting.",
+        "target_agent": null,
+        "resources_involved": "Existing professional network, phone calls, relationship capital",
+        "reasoning": "If the decline is dealer-side — inventory issues, consumer sentiment, financing alternatives — that tells me one thing. If dealers are also puzzled, that tells me something bigger is shifting in how people are thinking about vehicle ownership. I need better signal before I can give the branch manager a complete picture. Data from the field is more credible than gut instinct."
+      }
+    ],
+    "emotional_state": "Controlled concern. Not panicking — panic is expensive — but the low-grade alarm is there. I sleep fine but I'm thinking about this more than I'd like. The feeling isn't dread, it's more like the feeling you get when you realize the weather is changing and you're still deciding whether to grab a jacket. You're not wet yet. You're not going to be wet if you move now.",
+    "archetype_self_assessment": "Pragmatic adapter. I'm not a denier and I'm not a catastrophizer. I read the spreadsheet for what it says, not what I want it to say. My identity is reasonably tied to this job but not so tightly that I'd go down with a sinking ship to protect the title on my business card. I've built real skills. Those skills work in other rooms.",
+    "inner_monologue": "Alright. Three months. Half the volume. I've been telling myself it'll bounce back but that's the part of my brain that wants to keep its routine talking. The smarter part knows better. I'm not the auto loan guy — I'm a lender. There's a difference and right now that difference matters. I've got seven months of savings if the worst happens. But I'm not going to sit on my hands for six of those months and then scramble. Talk to Sandra at the branch first. Not as a complaint — as a proposal. Show her I'm thinking ahead. Pull up the mortgage training portal tonight. Make a few calls to the dealers this week, just to take the temperature. Small moves. Clean moves. Stay ahead of it."
+  }
+}

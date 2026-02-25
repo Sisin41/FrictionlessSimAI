@@ -1,0 +1,34 @@
+{
+  "tick": 0,
+  "agent_id": "insurance_agent_priya",
+  "agent_name": "Priya Sharma",
+  "response": {
+    "internal_assessment": "Economy is stable right now, self-driving hasn't hit Millfield yet. On paper, my role security is high — 0.89 — so there's no immediate fire. But I've read enough about what happened to travel agents, to taxi medallion owners, to know that 'secure right now' and 'secure in three years' are very different sentences. My savings runway is only five months. That's the number that keeps surfacing when I'm honest with myself. Five months. I need to be moving faster than I am. I have data analysis skills already. That's the bridge. I know it. I just haven't fully stepped onto it yet.",
+    "chosen_actions": [
+      {
+        "type": "SKILL_DEVELOPMENT",
+        "description": "Enroll in a free online SQL and data visualization course (Mode Analytics or similar). Commit to one hour on weekday evenings — not every evening, realistically three or four times a week.",
+        "target_agent": null,
+        "resources_involved": "$0 direct cost, ~3-4 hours per week of time",
+        "reasoning": "Data analysis is already on my resume but it's thin. I use Excel for claims trend reports and that's basically it. If I want to pivot into a data analyst or underwriting analytics role — somewhere my insurance domain knowledge is actually an asset rather than a liability — I need SQL to be real, not something I list because I once watched a YouTube tutorial. Enrolling costs nothing. Starting is the part I keep deferring."
+      },
+      {
+        "type": "INFORMATION_GATHERING",
+        "description": "Spend one Sunday afternoon mapping out which adjacent roles exist locally and remotely — insurance data analyst, risk analyst, insurtech operations. Save ten job postings. Read the required skills sections carefully, not the salary lines.",
+        "target_agent": null,
+        "resources_involved": "3-4 hours of time, no financial cost",
+        "reasoning": "I tell myself I know where I'm going but I haven't actually looked at real postings in six months. I need to close the gap between my vague plan — 'do something with data' — and what employers are actually asking for. This is reconnaissance, not commitment. Low stakes, high information value. I can do this without disrupting anything."
+      },
+      {
+        "type": "FINANCIAL_REVIEW",
+        "description": "Pull up my actual budget spreadsheet and identify one or two discretionary line items I could cut to extend runway from five months toward seven or eight months. Don't act on it yet — just identify.",
+        "target_agent": null,
+        "resources_involved": "1 hour of time",
+        "reasoning": "Five months of runway with $20K saved on $3,341 monthly expenses is the real constraint. I feel stable because my paycheck is coming in, but if I wanted to take a lower-paying entry role somewhere that offers growth, or if my agency decides to downsize before I'm ready, I'd have very little cushion. Even cutting $200-300 a month buys me psychological room to make a bolder move. I should at least know what's possible."
+      }
+    ],
+    "emotional_state": "Calm on the surface, with a low-grade restlessness underneath. Not panicked — there's no reason to panic yet — but aware that calm is doing some work to keep the urgency quiet. Slightly frustrated with myself for how many Sunday afternoons have slipped by without the job search I keep scheduling. Not spiraling about it. Just noting it.",
+    "archetype_self_assessment": "I think of myself as someone who sees clearly and moves early. That self-image is mostly accurate but not perfectly accurate. I am clear-eyed about the industry. I am less decisive than I believe. The actions I'm taking this tick are all low-commitment — a course enrollment, some browsing, a spreadsheet review. None of them are applications. None of them are conversations with anyone outside my current world. That's the status quo bias operating. I recognize it. I'm not sure I'm fully overriding it.",
+    "inner_monologue": "Okay. Self-driving isn't here yet. Millfield is still normal. My commissions were actually fine last quarter. So why does the number five keep appearing in my head? Five months. Right. That's why. I'm going to sign up for the SQL course tonight — no, actually tonight I have that thing with Maya. Tomorrow night. I'm going to sign up tomorrow night and I'm going to mean it this time. And this weekend I'm pulling up LinkedIn and I'm not just doom-scrolling, I'm saving actual job postings and reading what they want. Data analyst. Risk analyst. Something where knowing how car insurance actually works is useful instead of a punch line. I'm not scared. I've said that to people and I believe it. I'm just... not quite running yet. Walking fast. That's fair for tick zero."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "tick": 0,
+  "agent_id": "driving_instructor",
+  "agent_name": "Frank Russo",
+  "response": {
+    "internal_assessment": "Things are fine. Business is steady. I've got eight months of runway even if something went sideways, which it won't. The inbox says the car economy is stable — that's what matters. I've been doing this for 28 years and the phone is still ringing. Teenagers still need to pass their road test. Parents still need someone they trust behind the wheel with their kid. That's me. That's always been me. Whatever noise you hear about self-driving this and autonomous that, Millfield isn't Silicon Valley. We're not there. And when we get there — if we get there — somebody's still going to need to understand how to operate a vehicle. That's what I tell myself. That's what I believe.",
+    "chosen_actions": [
+      {
+        "type": "OPERATE_BUSINESS",
+        "description": "Run standard weekly schedule of driving lessons. Six students booked this week across beginner and intermediate levels. Coordinate vehicle maintenance check on the school's two cars — both due for oil change. Collect tuition from two students whose payment is outstanding.",
+        "target_agent": null,
+        "resources_involved": "$3,176 monthly operating costs covered by $4,000 income. Net positive $824 this month.",
+        "reasoning": "Business is operational and profitable. No reason to deviate from the routine that has worked for nearly three decades. Maintaining the schedule keeps revenue flowing and reputation intact. Word of mouth is still the best advertising in a town like Millfield."
+      },
+      {
+        "type": "INVEST_IN_RELATIONSHIP",
+        "description": "Call Danny — check in. He's been quiet lately. Maybe take him to dinner Friday if he's free. He's the one dependent listed and the one person whose future I actually worry about more than my own.",
+        "target_agent": null,
+        "resources_involved": "Time. Maybe $60 for dinner.",
+        "reasoning": "Stability at home matters. I keep the business running, I keep Danny stable, I keep my head clear. That's the whole equation right now."
+      },
+      {
+        "type": "SUPPRESS_THREAT_SIGNAL",
+        "description": "Consciously set aside the background anxiety about long-term relevance. The question of 'what am I for if nobody needs to drive' surfaces occasionally — usually late at night — but there is no evidence it is a present problem. File it. Do not act on it. Focus on this week's students.",
+        "target_agent": null,
+        "resources_involved": "Psychological energy. Normalcy bias as a functional coping mechanism.",
+        "reasoning": "Acting on an existential threat that has not materialized is a waste of resources and generates stress without payoff. The inbox confirms stability. The books confirm profitability. Disrupting a working system based on hypotheticals is not prudent — it is anxiety masquerading as strategy. I've seen guys retire early because they panicked about futures that never came. I'm not doing that."
+      }
+    ],
+    "emotional_state": "Calm, grounded, mildly vigilant beneath the surface. Frank feels purposeful today — he has students to teach and a schedule to keep. The existential undercurrent ('what am I for?') is present but submerged. He will not acknowledge it unless pressed. His stability is genuine but it rests partly on not looking too hard at certain questions.",
+    "archetype_self_assessment": "Steady Provider. I am the person you trust with your kid. I show up. I do the job. I've outlasted a lot of trends already. I'll outlast this one too.",
+    "inner_monologue": "Twenty-eight years. I taught the mayor's daughter. I taught half the kids who work at the grocery store downtown. There's a woman who drives the school bus now — I taught her. That's not nothing. That's a town. You can't just automate that away and call it progress. Maybe in cities. Not here. Not yet. I'm going to go do my job."
+  }
+}

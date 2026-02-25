@@ -1,0 +1,34 @@
+{
+  "tick": 0,
+  "agent_id": "rideshare_driver",
+  "agent_name": "Robert Jackson",
+  "response": {
+    "internal_assessment": "Things feel off but the inbox says the car economy is stable. Maybe I'm reading too much into a slow week. My rides are down maybe 15% from where they were six months ago — but I've had slow stretches before. I tell myself that. The robotaxis are around, I see them, but they're not everywhere yet. I've got $7,000 in savings. That's two months of cushion if everything went to zero, which it won't. I just need to log more hours. Work the airport. Work the late-night surge. I know how to do this. This is what I know how to do. The alternative — I don't even want to think about that right now. Marcus is eight years old. He needs stability. I need to keep the lights on and keep his routine normal. I can't afford to panic and I can't afford to do nothing. So I'll do what I always do: I'll drive.",
+    "chosen_actions": [
+      {
+        "type": "increase_work_hours",
+        "description": "Extend driving shifts — push from roughly 45 hours per week to 55-58 hours. Target airport queues, late-night Friday/Saturday surges, and stadium event windows to maximize per-hour yield.",
+        "target_agent": null,
+        "resources_involved": "Personal vehicle wear, fuel costs (~$180-200 additional/month), own time and physical energy",
+        "reasoning": "The instinct when income feels threatened is to do more of the same thing. Driving more hours is the one lever I know how to pull. It feels like action. It feels like control. The math might not fully work — more hours means more depreciation on the car, and the surge windows are getting more competitive — but sitting still feels worse than doing something. This is the tool in my hand so I'm using it."
+      },
+      {
+        "type": "expense_reduction",
+        "description": "Audit monthly expenses and cut discretionary spending. Cancel the streaming services I barely use, pack lunches instead of buying food during shifts, delay the brake pad replacement another few weeks if possible.",
+        "target_agent": null,
+        "resources_involved": "Savings buffer, roughly $150-200/month in potential expense reduction",
+        "reasoning": "If I can't grow income fast enough I can at least shrink the gap from the other side. Small cuts feel manageable. They feel responsible. Delaying the car maintenance is probably dumb — I know that — but the cash feels too tight to touch right now and I keep telling myself it can wait another month."
+      },
+      {
+        "type": "passive_monitoring",
+        "description": "Keep a loose eye on what's happening with the robotaxi rollout — read a few articles, watch what other drivers are saying in the Rideshare forum online. No concrete action yet, just gathering information without committing to anything.",
+        "target_agent": null,
+        "resources_involved": "Time only — no financial commitment",
+        "reasoning": "Something in the back of my head is telling me I should be doing more than just driving harder. But I don't know what that looks like yet, and I don't have money or time to waste on a plan that might not work. So I watch. I read. I don't act. Not yet. The inbox says things are stable. Maybe they are. I'll check again next month."
+      }
+    ],
+    "emotional_state": "Anxious and slightly suppressed. There is a low-grade dread running underneath the surface that Robert is actively managing by staying busy. The anxiety is real but not yet loud enough to force a behavioral break. He is functional, outwardly calm to his son, inwardly cycling. Sleep is slightly disrupted — waking at 3am some nights running numbers in his head. He is not in crisis mode. He is in pre-crisis denial mode, which feels from the inside like competence.",
+    "archetype_self_assessment": "I'm a hard worker. I've always been a hard worker. People who show up and put in the hours — that's who wins in the end. I've been driving for six years and I know this city better than any algorithm does. Passengers still want a real person sometimes. There's always going to be a market for that. I provide good service, I get good ratings, I build loyalty. I'm not like the guys who just coast. I'm the guy who hustles. That's always been enough before.",
+    "inner_monologue": "Fifty-five hours this week. Maybe sixty. The airport line was long but I got three good runs out of it. Checked my app — earnings are about the same as last week if I count the tips. That's fine. That's okay. Marcus has a school trip next month, thirty dollars for that. I'll move it from the grocery budget. It's fine. It's manageable. I keep seeing that silver Waymo on Fifth Street. Just sitting there waiting. Took a fare that probably would've been mine. Maybe. I don't know. The news says the economy is stable. The inbox says the car economy is stable. I believe that. I have to believe that. I'll figure out the rest when there's something concrete to figure out. Right now I just need to log these hours and get home before Marcus is asleep."
+  }
+}

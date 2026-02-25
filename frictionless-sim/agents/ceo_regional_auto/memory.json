@@ -1,6 +1,21 @@
 {
-  "past_actions": [],
-  "past_outcomes": [],
+  "past_actions": [
+    {
+      "tick": 0,
+      "summary": "Host a private dinner with my general managers across all four locations to communicate a long-term vision message: Regional Auto Group is a family institution, not an exit strategy. I am signaling to my leadership team that the business is being built to last, not sold. This reinforces culture, reduces turnover anxiety at the management level, and begins planting the narrative of succession and institutional continuity.",
+      "emotional_state": "determined"
+    }
+  ],
+  "past_outcomes": [
+    {
+      "tick": 0,
+      "action": "Host a private dinner with my general managers across all four locations to communicate a long-term vision message: Regional Auto Group is a family institution, not an exit strategy. I am signaling to my leadership team that the business is being built to last, not sold. This reinforces culture, reduces turnover anxiety at the management level, and begins planting the narrative of succession and institutional continuity.",
+      "savings_delta": 756,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Host a private dinner with my general managers across all four locations to communicate a long-term vision message: Regional Auto Group is a family institution, not an exit strategy. I am signaling to my leadership team that the business is being built to last, not sold. This reinforces culture, reduces turnover anxiety at the management level, and begins planting the narrative of succession and institutional continuity.. Savings grew by $756. "
+    }
+  ],
   "reflections": [],
   "regrets": [],
   "successes": [],

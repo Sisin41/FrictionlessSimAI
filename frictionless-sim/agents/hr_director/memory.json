@@ -1,6 +1,21 @@
 {
-  "past_actions": [],
-  "past_outcomes": [],
+  "past_actions": [
+    {
+      "tick": 0,
+      "summary": "Refresh LinkedIn profile to reflect full scope of HR expertise \u2014 workforce transition management, compliance, organizational development. Set profile to 'Open to Work' visible only to recruiters. Update resume with quantified outcomes: number of terminations managed, compliance programs implemented, cost-per-hire metrics. Target sectors: healthcare, tech, logistics, government \u2014 all growing headcount or facing their own restructuring needs.",
+      "emotional_state": "Calm and deliberate. The mild anxiety she carries (stress 0.29) is not panic \u2014 it's the productive discomfort of someone who sees clearly and hasn't yet acted on what she sees. She is not grieving this job or this industry. She is treating the situation like the project manager she secretly is: assess the landscape, reduce unnecessary exposure, activate the options that cost nothing to open. There is something almost relieving about finally moving from awareness to action."
+    }
+  ],
+  "past_outcomes": [
+    {
+      "tick": 0,
+      "action": "Refresh LinkedIn profile to reflect full scope of HR expertise \u2014 workforce transition management, compliance, organizational development. Set profile to 'Open to Work' visible only to recruiters. Update resume with quantified outcomes: number of terminations managed, compliance programs implemented, cost-per-hire metrics. Target sectors: healthcare, tech, logistics, government \u2014 all growing headcount or facing their own restructuring needs.",
+      "savings_delta": 294,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Refresh LinkedIn profile to reflect full scope of HR expertise \u2014 workforce transition management, compliance, organizational development. Set profile to 'Open to Work' visible only to recruiters. Update resume with quantified outcomes: number of terminations managed, compliance programs implemented, cost-per-hire metrics. Target sectors: healthcare, tech, logistics, government \u2014 all growing headcount or facing their own restructuring needs.. Savings grew by $294. "
+    }
+  ],
   "reflections": [],
   "regrets": [],
   "successes": [],

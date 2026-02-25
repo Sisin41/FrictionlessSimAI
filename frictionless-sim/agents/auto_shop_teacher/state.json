@@ -25,9 +25,10 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 6,
-      "threat_level": 0.5,
-      "monthly_essentials": 2250
+      "runway_months": 7.6,
+      "threat_level": 0.37,
+      "monthly_essentials": 2250,
+      "health_cost_from_stress": 0
     },
     "L1_STABILIZE": {
       "savings_buffer": 27000,
@@ -75,18 +76,19 @@
       "availability_heuristic": 0.42,
       "social_proof_sensitivity": 0.67
     },
-    "sentiment": "neutral"
+    "sentiment": "Calm and purposeful. There's a low hum of concern about the board's April review, but it's not anxiety \u2014 it's more like a problem I've decided to solve. I genuinely like this work and I like these kids. The idea of losing the program bothers me more for their sake than mine. I know my teaching skills would land me somewhere else if it came to that, but I'd rather fight for this. I feel like I have time and options, which is the best position to be in."
   },
   "psychological": {
     "stress_level": 0.12,
     "agency": 0.73,
     "grief_stage": "none",
-    "temporal_horizon_months": 12
+    "temporal_horizon_months": 10,
+    "high_stress_ticks": 0
   },
   "financial": {
     "monthly_income": 4500,
     "monthly_expenses": 3600,
-    "savings": 27000,
+    "savings": 27450,
     "debt_total": 57778,
     "credit_score": 766
   },
@@ -118,6 +120,6 @@
     "willingness_to_move": 0.55
   },
   "locality": "millfield",
-  "archetype": "stable",
+  "archetype": "I'm not a passive person. I saw this coming and I'm not going to wait until the board sends me a memo. The teachers who get cut are the ones who never made a case for themselves. I'm going to make a case \u2014 a real one, grounded in labor market data and a concrete plan. If I do this right, I don't save my job; I get my program expanded.",
   "tick_updated": 0
 }

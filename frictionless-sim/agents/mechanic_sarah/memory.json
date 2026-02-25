@@ -1,6 +1,21 @@
 {
-  "past_actions": [],
-  "past_outcomes": [],
+  "past_actions": [
+    {
+      "tick": 0,
+      "summary": "Complete standard repair queue at the shop \u2014 brake jobs, oil changes, one transmission diagnostic. Normal productive day.",
+      "emotional_state": "Calm and steady. A little flat maybe \u2014 not unhappy, just... going through the motions in a way that feels comfortable. The work is satisfying when something clicks. Mild background hum of financial worry that I mostly keep at arm's length."
+    }
+  ],
+  "past_outcomes": [
+    {
+      "tick": 0,
+      "action": "Complete standard repair queue at the shop \u2014 brake jobs, oil changes, one transmission diagnostic. Normal productive day.",
+      "savings_delta": 249,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Complete standard repair queue at the shop \u2014 brake jobs, oil changes, one transmission diagnostic. Normal productive day.. Savings grew by $249. "
+    }
+  ],
   "reflections": [],
   "regrets": [],
   "successes": [],

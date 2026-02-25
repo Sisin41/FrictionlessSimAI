@@ -1,6 +1,21 @@
 {
-  "past_actions": [],
-  "past_outcomes": [],
+  "past_actions": [
+    {
+      "tick": 0,
+      "summary": "Spend two weeks systematically talking to the professional mechanics and small independent shops in the region \u2014 find out what they're actually struggling to source, what their lead times look like from existing suppliers, and whether any of them feel underserved by the big distributors.",
+      "emotional_state": "Controlled unease. Not panicking \u2014 the savings buffer and positive monthly flow keep the immediate fear muted. But I'm not comfortable either. There's a background anxiety that has been present for a couple years now, a low-grade awareness that I'm watching the ground erode under something I built. The feeling isn't paralyzing; it's clarifying. I've been too patient. Time to move."
+    }
+  ],
+  "past_outcomes": [
+    {
+      "tick": 0,
+      "action": "Spend two weeks systematically talking to the professional mechanics and small independent shops in the region \u2014 find out what they're actually struggling to source, what their lead times look like from existing suppliers, and whether any of them feel underserved by the big distributors.",
+      "savings_delta": 645,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Spend two weeks systematically talking to the professional mechanics and small independent shops in the region \u2014 find out what they're actually struggling to source, what their lead times look like from existing suppliers, and whether any of them feel underserved by the big distributors.. Savings grew by $645. "
+    }
+  ],
   "reflections": [],
   "regrets": [],
   "successes": [],

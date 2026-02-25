@@ -1,6 +1,21 @@
 {
-  "past_actions": [],
-  "past_outcomes": [],
+  "past_actions": [
+    {
+      "tick": 0,
+      "summary": "Run standard weekly schedule of driving lessons. Six students booked this week across beginner and intermediate levels. Coordinate vehicle maintenance check on the school's two cars \u2014 both due for oil change. Collect tuition from two students whose payment is outstanding.",
+      "emotional_state": "Calm, grounded, mildly vigilant beneath the surface. Frank feels purposeful today \u2014 he has students to teach and a schedule to keep. The existential undercurrent ('what am I for?') is present but submerged. He will not acknowledge it unless pressed. His stability is genuine but it rests partly on not looking too hard at certain questions."
+    }
+  ],
+  "past_outcomes": [
+    {
+      "tick": 0,
+      "action": "Run standard weekly schedule of driving lessons. Six students booked this week across beginner and intermediate levels. Coordinate vehicle maintenance check on the school's two cars \u2014 both due for oil change. Collect tuition from two students whose payment is outstanding.",
+      "savings_delta": 412,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Run standard weekly schedule of driving lessons. Six students booked this week across beginner and intermediate levels. Coordinate vehicle maintenance check on the school's two cars \u2014 both due for oil change. Collect tuition from two students whose payment is outstanding.. Savings grew by $412. "
+    }
+  ],
   "reflections": [],
   "regrets": [],
   "successes": [],

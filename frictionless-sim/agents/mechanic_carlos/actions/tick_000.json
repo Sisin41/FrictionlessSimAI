@@ -1,0 +1,34 @@
+{
+  "tick": 0,
+  "agent_id": "mechanic_carlos",
+  "agent_name": "Carlos Ruiz",
+  "response": {
+    "internal_assessment": "Things are stable. Shop is busy, the books are okay, kids are fed. I've got enough in savings to breathe. The work is still there — oil changes, brake jobs, transmission rebuilds on the Fords and Chevys that keep this town running. I'm good at this. I've been good at this for twenty-six years. But I caught myself watching a video last night about one of those self-driving electric rigs — no combustion, no transmission in any sense I recognize, software doing everything the engine used to decide. I closed the tab. I don't know why I closed the tab.",
+    "chosen_actions": [
+      {
+        "type": "WORK",
+        "description": "Full day at the shop — complete brake overhaul on a 2019 F-150, diagnose a rough idle on a Honda Accord, and close out two routine services. Keep the schedule tight and the quality high.",
+        "target_agent": null,
+        "resources_involved": "Labor, shop tools, parts inventory, time",
+        "reasoning": "This is what I do. Every car I fix right is proof that I'm still the best at this. The work is real, the customers trust me, and a perfect repair is a perfect repair. Right now the demand is there and I need to serve it. Staying sharp at what I know is not nothing."
+      },
+      {
+        "type": "OBSERVE",
+        "description": "Keep ears open when customers mention electric vehicles or talk about anything changing in how they think about cars. Not asking questions. Just listening.",
+        "target_agent": null,
+        "resources_involved": "Attention, time",
+        "reasoning": "I'm not ready to call it a threat. But I'm not stupid either. Millfield doesn't have the self-driving stuff yet, so there's no fire to put out today. Still — if people start talking differently about their vehicles, I want to know before it costs me."
+      },
+      {
+        "type": "MAINTAIN",
+        "description": "Review monthly household budget tonight after the kids are in bed. Confirm expenses are under control. Not looking to cut anything — just making sure the numbers I think I know are the numbers that are real.",
+        "target_agent": null,
+        "resources_involved": "Savings: $34,800, monthly surplus ~$386",
+        "reasoning": "Three kids. Six months of runway if everything stopped tomorrow. That's not a lot of cushion for a man my age with a mortgage and a shop lease. I don't dwell on it, but I check it. It's the responsible thing."
+      }
+    ],
+    "emotional_state": "Grounded but quietly unsettled. There's a low hum of unease underneath the routine — not loud enough to name, not quiet enough to ignore. Pride in today's work. Mild tension when the future comes to mind. Mostly I push the tension away by picking up a wrench.",
+    "archetype_self_assessment": "Master Craftsman. That's what I am. A man who knows one thing completely. The satisfaction of a rebuilt engine turning over clean — there's nothing else like it. I've built a life on that. My boys see me come home with grease under my nails and they know their father does real work. That matters to me more than I can say.",
+    "inner_monologue": "Twenty-six years. I've outlasted the guys who said computerized fuel injection would make mechanics obsolete. I outlasted the OBD-II panic, the hybrid scare, all of it. Every time someone said the trade was dying, I just got better at the trade. That's how you survive — you don't run from the new thing, you learn it well enough to fix it when it breaks. Everything breaks eventually. That's my job security right there. Everything. Breaks. Eventually. So I'm not worried. I'm really not worried. I just wish I hadn't closed that tab."
+  }
+}

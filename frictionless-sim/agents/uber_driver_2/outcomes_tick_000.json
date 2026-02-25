@@ -1,0 +1,10 @@
+[
+  {
+    "tick": 0,
+    "action": "Continue rideshare driving shifts, prioritizing peak-hour windows (Friday/Saturday nights, weekday morning rush) to maximize hourly yield while preserving study time during off-peak hours.",
+    "savings_delta": 206,
+    "stress_delta": 0.0,
+    "employment_changed": false,
+    "narrative": "You Continue rideshare driving shifts, prioritizing peak-hour windows (Friday/Saturday nights, weekday morning rush) to maximize hourly yield while preserving study time during off-peak hours.. Savings grew by $206. "
+  }
+]

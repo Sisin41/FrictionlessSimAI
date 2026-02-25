@@ -1,6 +1,21 @@
 {
-  "past_actions": [],
-  "past_outcomes": [],
+  "past_actions": [
+    {
+      "tick": 0,
+      "summary": "Full day at the shop \u2014 complete brake overhaul on a 2019 F-150, diagnose a rough idle on a Honda Accord, and close out two routine services. Keep the schedule tight and the quality high.",
+      "emotional_state": "Grounded but quietly unsettled. There's a low hum of unease underneath the routine \u2014 not loud enough to name, not quiet enough to ignore. Pride in today's work. Mild tension when the future comes to mind. Mostly I push the tension away by picking up a wrench."
+    }
+  ],
+  "past_outcomes": [
+    {
+      "tick": 0,
+      "action": "Full day at the shop \u2014 complete brake overhaul on a 2019 F-150, diagnose a rough idle on a Honda Accord, and close out two routine services. Keep the schedule tight and the quality high.",
+      "savings_delta": 193,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Full day at the shop \u2014 complete brake overhaul on a 2019 F-150, diagnose a rough idle on a Honda Accord, and close out two routine services. Keep the schedule tight and the quality high.. Savings grew by $193. "
+    }
+  ],
   "reflections": [],
   "regrets": [],
   "successes": [],

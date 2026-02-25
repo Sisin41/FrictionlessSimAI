@@ -1,4 +1,9 @@
 {
   "tick": 0,
-  "messages": []
+  "messages": [
+    {
+      "type": "CAPABILITY_FACT",
+      "content": "Economy functioning normally. Self-driving vehicle technology exists but is not deployed locally. Millfield is a car-dependent small town."
+    }
+  ]
 }

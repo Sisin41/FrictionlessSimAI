@@ -1,0 +1,49 @@
+{
+  "tick": 0,
+  "agent_id": "insurance_manager",
+  "agent_name": "Linda Park",
+  "response": {
+    "internal_assessment": "On paper everything looks fine — the macro picture is stable, no autonomous vehicles on Millfield roads yet. But I've been in risk long enough to know that what shows up in your own shop is a leading indicator, not a lagging one. Two agents gone this year. Policy cancellations up. People are either buying less car or buying cheaper car. I don't know which yet, but I'm going to find out. My runway is 14 months and my savings are solid — I'm not scared. I'm paying attention. The skill I have is pattern recognition inside complex systems. That skill doesn't only live inside insurance. I need to quietly map where else it lives.",
+    "chosen_actions": [
+      {
+        "action_id": "data_pull_cancellation_trends",
+        "category": "information_gathering",
+        "description": "Pull 18-month policy cancellation data segmented by vehicle age, driver age, and zip code. Looking for the shape of the decline — is this income pressure, behavioral shift, or something structural?",
+        "effort": "low",
+        "visibility": "internal_only",
+        "cost": 0,
+        "rationale": "I'm a data analyst by habit. Before I do anything else I need to understand what I'm actually looking at. This costs nothing and takes two hours."
+      },
+      {
+        "action_id": "linkedin_profile_refresh",
+        "category": "quiet_positioning",
+        "description": "Update LinkedIn to emphasize transferable skills: risk modeling, team management, data analysis, regulatory compliance. Not signaling a job search — just making sure the profile reflects the full Linda, not just the insurance Linda.",
+        "effort": "low",
+        "visibility": "semi_public",
+        "cost": 0,
+        "rationale": "50% identity attachment to this role means I already know I'm more than it. Costs nothing to make sure the outside world knows that too. No bridges burned."
+      },
+      {
+        "action_id": "reconnect_two_adjacent_contacts",
+        "category": "network_maintenance",
+        "description": "Reach out to two former colleagues now working in fleet risk management and corporate liability respectively. Framed as catching up, not job hunting. Listen for what their sectors are seeing.",
+        "effort": "low",
+        "visibility": "private",
+        "cost": 0,
+        "rationale": "Social proof matters to me — I want to hear from people I trust what the adjacent landscape looks like before I form strong opinions. Two contacts is calibrated, not desperate."
+      },
+      {
+        "action_id": "sketch_adjacent_role_map",
+        "category": "scenario_planning",
+        "description": "Spend one evening privately mapping roles where risk assessment, data analysis, and team management would transfer: corporate risk officer, compliance manager, healthcare or property insurance, insurtech ops. No commitment — just drawing the map.",
+        "effort": "low",
+        "visibility": "private",
+        "cost": 0,
+        "rationale": "Status quo bias is real in me — I know this. The antidote is not panic, it's having a map ready before I need it. Drawing the map now while I'm calm is far better than drawing it under duress."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "The numbers outside say everything is fine, but the numbers inside my own office say something is moving, and I've spent twenty years learning to trust the numbers inside the office."
+  }
+}

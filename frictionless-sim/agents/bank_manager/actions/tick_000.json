@@ -1,0 +1,27 @@
+{
+  "tick": 0,
+  "agent_id": "bank_manager",
+  "agent_name": "David Chen",
+  "response": {
+    "internal_assessment": "Optimizing L2 PARTICIPATE. Survival and stabilization are solid — 18 months runway, healthy savings, manageable debt. But role_security at 0.36 nags at me even when nothing is visibly wrong. I've been in banking long enough to know that 0.36 is the kind of number you feel in your gut before you can name it. The auto loan portfolio looks fine on paper. Dealerships are busy, defaults are low, volume is up slightly. But I remember 2008: everything looked fine on paper right up until it didn't. I need to shore up my relevance and visibility inside this branch, and quietly begin building skills and relationships that would survive a disruption I can't yet name. I'm not panicking — that's not who I am. But I'm not complacent either.",
+    "chosen_actions": [
+      {
+        "type": "TRANSFORMATION",
+        "description": "Enroll in an online continuing education module on commercial and small business lending — a skill adjacent to my current auto loan focus but one that would broaden my portfolio relevance inside the bank. Two hours per week, self-paced. No cost through the bank's professional development benefit.",
+        "target_agent": null,
+        "resources_involved": "8 hours of personal time this month, $0 out of pocket (employer benefit). Modest energy draw on evenings.",
+        "reasoning": "My skill_relevance is 0.55, which is middling. Auto loans are my bread and butter but also my single point of failure. Diversifying into small business lending knowledge costs me almost nothing now and raises my institutional value. I watched colleagues in 2008 who were narrowly specialized get walked out the door first. The ones who survived had breadth. I'm not abandoning auto loans — I'm hedging against them being my only thing. This action addresses L2 directly without touching savings or making any irreversible commitments."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Schedule a lunch this month with the regional VP and two peer branch managers from neighboring towns — frame it as a best-practices conversation about loan portfolio health and local economic indicators. Positioned as leadership initiative, not anxiety.",
+        "target_agent": null,
+        "resources_involved": "$80 out of pocket for my share of lunch. Two hours of time. No financial commitments.",
+        "reasoning": "My social_proof sensitivity is high (0.70) — I learn by watching what my peers are doing. This lunch serves two purposes: I get genuine intelligence about whether other branch managers are sensing the same undercurrent I am, and I make myself visible to the regional VP as a thoughtful, proactive leader rather than someone who just processes loan applications. Visibility is career insurance. If something shifts and decisions get made about branch staffing or consolidation, I want to already be in that conversation, not reacting to it."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Everything looks fine, and that's exactly why I'm paying attention."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "tick": 0,
+  "agent_id": "ceo_regional_auto",
+  "agent_name": "Patricia Hawkins",
+  "response": {
+    "internal_assessment": "Everything is solid right now. Runway is 24 months, savings are healthy, the lots are moving inventory. I am not fighting fires — I am building. This month I am operating at L5 BUILD and L6 TRANSCEND. Dad built one lot. I built four. The question I keep coming back to is: what does this look like in ten years, and who is running it? My youngest, Marcus, has been shadowing the finance manager at the Westside location. He has the instincts. I need to start formalizing the succession conversation. This is legacy work. This is what the whole thing was for.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Host a private dinner with my general managers across all four locations to communicate a long-term vision message: Regional Auto Group is a family institution, not an exit strategy. I am signaling to my leadership team that the business is being built to last, not sold. This reinforces culture, reduces turnover anxiety at the management level, and begins planting the narrative of succession and institutional continuity.",
+        "target_agent": "general_managers_internal",
+        "resources_involved": "Approximately $800 in hosted dinner expenses. Time: one evening. No financial commitments made.",
+        "reasoning": "My identity is inseparable from this business. At 85% identity attachment, a culture signal like this costs me almost nothing and returns loyalty, alignment, and meaning. It is also a legacy act — Dad used to take the team to dinner on the first Friday of the month. I am continuing a ritual. The alternative, INACTION, wastes a stable month where I have emotional bandwidth to lead proactively rather than reactively."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Engage a family business succession consultant for an initial assessment session. Not committing to a full engagement yet — just an intake conversation to understand what a structured succession plan for a multi-location regional dealership group would require. Marcus is 28. I want a 7-to-10-year runway for this transition done right.",
+        "target_agent": "null",
+        "resources_involved": "Approximately $500 for a one-hour professional consultation. Mental and emotional energy: moderate. No binding agreements.",
+        "reasoning": "L6 TRANSCEND is about purpose and legacy beyond myself. Succession planning IS my purpose work right now. I have been avoiding this conversation because formalizing it makes the eventual handoff feel real, and that triggers some loss aversion. But the economy is stable, stress is low, and this is exactly the kind of month where I should do the hard thinking before I am forced to. Normalcy bias tells me to just keep running the business as-is. I am choosing to override that bias deliberately."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "builder",
+    "inner_monologue": "Dad would be proud of what I built, but the real tribute is making sure it outlasts me."
+  }
+}

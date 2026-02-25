@@ -1,0 +1,41 @@
+{
+  "tick": 0,
+  "agent_id": "salesperson_tamika",
+  "agent_name": "Tamika Jefferson",
+  "response": {
+    "internal_assessment": "Two months. That's the number sitting in my chest right now. Not panic — more like a timer going off that I honestly needed. I've been coasting at Millfield Auto Mall telling myself this is temporary while doing absolutely nothing to make it temporary. That stops now. The car economy is 'stable' but stable for who and for how long? Self-driving tech exists somewhere. It'll get here. And when it does, the floor falls out from under everyone on this lot. I'm not waiting to be the last one standing when that happens. My skill_relevance is basically a 0.20 and I know it. Sales is transferable but car sales specifically? That's a shrinking box. What I actually have: I can read people, I can close, and I know social media better than most people here know how to turn on a computer. That last one is the thread I pull.",
+    "chosen_actions": [
+      {
+        "type": "SKILL_AUDIT",
+        "description": "Sit down tonight and write out every actual skill I have — not job titles, not roles, but real capabilities. Sales psychology, objection handling, social content creation, short-form video, community engagement, brand voice. Map what transfers and what doesn't. Be honest about what I'm actually good at versus what the job required me to fake.",
+        "target_agent": null,
+        "resources_involved": "time, personal inventory, notebook",
+        "reasoning": "Before I can move I need to know what I'm carrying. Two months is not enough time to learn from scratch — it's only enough time to redeploy what I already have. Social media skills are genuinely portable and undervalued in my own assessment of myself. That changes tonight."
+      },
+      {
+        "type": "MARKET_RESEARCH",
+        "description": "Spend 3-4 hours this week mapping who is actually paying for social media and content skills in this region and remotely. Look at freelance platforms, local businesses, marketing agencies, remote content coordinator roles. Find the gap between what I have and what they want. Identify 2-3 realistic pivot targets.",
+        "target_agent": null,
+        "resources_involved": "time, internet access, freelance platform accounts",
+        "reasoning": "I don't need a perfect plan. I need a direction with evidence behind it. If I can find one paying client or one role I'm 80% qualified for, that breaks the paralysis. Low status quo bias means I can actually act on what I find — I just need the data first."
+      },
+      {
+        "type": "FINANCIAL_TRIAGE",
+        "description": "Go line by line through my $3,177 in monthly expenses and identify anything that can be cut without serious quality-of-life damage. Target $400-600 in monthly reduction to extend the runway from 2 months closer to 3. Buy myself one more month of decision space without earning a single extra dollar.",
+        "target_agent": null,
+        "resources_involved": "bank statements, $8,400 savings buffer",
+        "reasoning": "Two months feels like nothing. Three months feels survivable. I can probably find that month in subscriptions, eating out, and stuff I'm paying for on autopilot. This is the cheapest move I can make tonight and it has immediate runway impact."
+      },
+      {
+        "type": "NETWORK_ACTIVATION",
+        "description": "Message 3 people I actually respect — not everyone in my contacts, just 3 — who work in marketing, content, or adjacent fields. Not asking for jobs. Asking for honest conversations about what they're seeing, what's actually in demand, and whether my read on my own skills matches reality. Frame it as informational.",
+        "target_agent": null,
+        "resources_involved": "social capital, time, messaging apps",
+        "reasoning": "I have social skills. Using them on my own behalf is the obvious move that I've been too proud or too passive to make. Three conversations costs nothing and could surface something real. Keep it small and specific — no mass LinkedIn blast, no desperation energy."
+      }
+    ],
+    "emotional_state": "Clear. A little sharp around the edges, which is better than numb. The two-month number hit differently when I actually sat with it instead of scrolling past it. There's no grief about the car sales thing — I was never really here. That's actually the thing working in my favor right now. I'm not losing an identity. I'm just leaving a room I was never fully in.",
+    "archetype_self_assessment": "Adapter. Not a Stayer, not a Fighter — I don't have enough attachment to this job to fight for it, and I'm not delusional enough to think it deserves fighting for. The question is whether I move fast enough to actually adapt before the clock runs out. Low normalcy bias is the gift here. I can see this clearly. The danger is clarity without action. I've been clear for a while. The action part starts now.",
+    "inner_monologue": "Okay. Okay. Two months. Say it again — two months. That's not a catastrophe if I move. That IS a catastrophe if I keep doing what I've been doing, which is working the floor and thinking 'I'll figure it out soon.' Soon is now. The social media thing is real — I've built content for the dealership, I know what performs, I know how to write copy that doesn't sound like a robot or a used car ad. Somebody pays for that. I just have to find who. And I can cut expenses tonight without even leaving my apartment. Extending runway costs me nothing. Do the easy things first. Stop waiting for the perfect plan. The perfect plan is something I build while moving, not while standing still."
+  }
+}

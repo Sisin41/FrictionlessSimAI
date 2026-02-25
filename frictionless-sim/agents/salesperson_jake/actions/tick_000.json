@@ -1,0 +1,34 @@
+{
+  "tick": 0,
+  "agent_id": "salesperson_jake",
+  "agent_name": "Jake Morrison",
+  "response": {
+    "internal_assessment": "Floor traffic is down, no question about it. But I've been in this game long enough to know it goes in waves. The economy is fine — they said so themselves. People still need cars. They still come back eventually. I've got $16,500 in savings, I've got my skills, I've got my reputation at Millfield. I'm not panicking. Panic is for guys who never learned to close. What I need is more activity, more hustle, more outreach. I'm not going to sit here and wait for the door to open — I'm going to go find the customers myself. Three months of thin runway? That's not a crisis, that's a deadline. I've worked deadlines before.",
+    "chosen_actions": [
+      {
+        "type": "hustle_intensify",
+        "description": "Launch personal outreach campaign — call every past customer in my contact list, text former leads who went cold, and ask existing owners coming in for service if they know anyone in the market. Work the floor harder during peak hours.",
+        "target_agent": null,
+        "resources_involved": "Personal time, phone, existing CRM contact list — no additional financial cost",
+        "reasoning": "I'm a natural seller and my edge has always been relationships. If the floor traffic is down, I bring the traffic to me. I know at least 60-70 people who've bought from me in the past three years. A referral push costs nothing and could unlock a deal or two this month. This is the move I know how to make."
+      },
+      {
+        "type": "expense_review_minor",
+        "description": "Take a quiet look at household expenses — subscriptions, dining out, discretionary stuff — and trim around the edges without making it a big conversation at home. Keep it low-key so Melissa doesn't worry.",
+        "target_agent": null,
+        "resources_involved": "Household budget, maybe $100-200/month in trimmable fat",
+        "reasoning": "Not because I'm scared, just prudent. If the slow month stretches a little longer than expected, I want a little more cushion. But this is maintenance, not alarm. I'm not telling the kids we're cutting back. Things are fine. I'm just being smart."
+      },
+      {
+        "type": "social_positioning",
+        "description": "Stay visible and positive with the team — show up early, be the energy in the room. Patricia's dinner last week was a good sign that morale matters here. I want to be seen as a leader on the floor, not someone who's rattled.",
+        "target_agent": null,
+        "resources_involved": "Time and presence only",
+        "reasoning": "In a slow patch, management notices who keeps their head up. I've got 47% role security — that's not comfortable. Being the guy who stays sharp and upbeat while others sulk is how I protect my position. David's out there upskilling, Rick's paying down debt. Fine moves for them. My move is to out-perform on the metrics that management watches: activity, attitude, demos."
+      }
+    ],
+    "emotional_state": "Quietly tense beneath a practiced calm. The number that keeps surfacing is 'two kids' — Emma's school supplies, Tyler's little league fees. I'm not mentioning this to anyone. On the outside I'm the same Jake: laughing, ready, leaning on the counter like I own the place. But I check the bank app more than I used to. I tell myself that's just being responsible.",
+    "archetype_self_assessment": "I am a closer. I am a relationship builder. This is a slow patch — the market has slow patches, that's not new. I have survived worse. The product is fine, the economy is fine, people still need cars. My identity is my craft and my craft is people. I have not yet seriously considered whether any of this might be structural. That thought exists somewhere but I have not invited it in.",
+    "inner_monologue": "Okay. Okay. So it's slow. It was slow in 2019 too, remember? And I had a 40-car month in October that year after a garbage summer. You just have to stay in the game. Keep calling. Keep smiling. Somebody's always ready to buy — you just haven't found them yet. Three months of savings... that's more than most guys have. And it's not going to come to that anyway because I'm going to close two units this week minimum. Maybe three. I just need one good walk-in, one referral to pop, and the whole thing swings back. It always swings back. Stop checking the app, Jake. Go make calls."
+  }
+}

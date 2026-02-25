@@ -1,6 +1,21 @@
 {
-  "past_actions": [],
-  "past_outcomes": [],
+  "past_actions": [
+    {
+      "tick": 0,
+      "summary": "Conduct a formal market analysis on non-auto commercial property sectors in Millfield and surrounding areas \u2014 specifically medical office, light industrial/warehouse, and mixed-use retail. Identify vacancy rates, cap rates, and demand trends to build a credible pitch for new client acquisition.",
+      "emotional_state": "Cautiously purposeful. There's a low-grade anxiety I'm trying not to let myself lean into too hard \u2014 the kind that makes you either freeze up or overcorrect. The inbox is reassuring and I want to believe it, but I've seen what happens when people in this business take 'stable' at face value for too long. Mostly I feel clear-headed. My finances are good. I have time. I'm not panicking; I'm planning. That feels like the right register to be operating in."
+    }
+  ],
+  "past_outcomes": [
+    {
+      "tick": 0,
+      "action": "Conduct a formal market analysis on non-auto commercial property sectors in Millfield and surrounding areas \u2014 specifically medical office, light industrial/warehouse, and mixed-use retail. Identify vacancy rates, cap rates, and demand trends to build a credible pitch for new client acquisition.",
+      "savings_delta": 657,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Conduct a formal market analysis on non-auto commercial property sectors in Millfield and surrounding areas \u2014 specifically medical office, light industrial/warehouse, and mixed-use retail. Identify vacancy rates, cap rates, and demand trends to build a credible pitch for new client acquisition.. Savings grew by $657. "
+    }
+  ],
   "reflections": [],
   "regrets": [],
   "successes": [],

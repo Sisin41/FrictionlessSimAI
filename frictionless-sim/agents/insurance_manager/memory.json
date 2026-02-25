@@ -1,6 +1,21 @@
 {
-  "past_actions": [],
-  "past_outcomes": [],
+  "past_actions": [
+    {
+      "tick": 0,
+      "summary": "Pull 18-month policy cancellation data segmented by vehicle age, driver age, and zip code. Looking for the shape of the decline \u2014 is this income pressure, behavioral shift, or something structural?",
+      "emotional_state": "determined"
+    }
+  ],
+  "past_outcomes": [
+    {
+      "tick": 0,
+      "action": "Pull 18-month policy cancellation data segmented by vehicle age, driver age, and zip code. Looking for the shape of the decline \u2014 is this income pressure, behavioral shift, or something structural?",
+      "savings_delta": 275,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Pull 18-month policy cancellation data segmented by vehicle age, driver age, and zip code. Looking for the shape of the decline \u2014 is this income pressure, behavioral shift, or something structural?. Savings grew by $275. "
+    }
+  ],
   "reflections": [],
   "regrets": [],
   "successes": [],
