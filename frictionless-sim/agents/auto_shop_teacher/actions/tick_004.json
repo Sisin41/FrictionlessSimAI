@@ -1,0 +1,33 @@
+{
+  "tick": 4,
+  "agent_id": "auto_shop_teacher",
+  "agent_name": "Mark Thompson",
+  "response": {
+    "internal_assessment": "I am optimizing at L2 (PARTICIPATE). My role security is 0.36 — genuinely low. The board review is coming and enrollment is down. L0 and L1 are fine: eight months runway, savings growing, no financial emergency. The threat is not my wallet — it's my program's survival and, by extension, my professional identity and my kids' opportunity. This meeting with Maria Santos is the most important hour I have had in four ticks of work. Everything I have built — the curriculum reframe, the RoboRide data, the two-stage pipeline pitch — lands here or it doesn't land at all.",
+    "inbox_interpretation": "Employment at 93% and spending index at 73 are actually ammunition for me, not threats. A softening economy with displaced workers is exactly the context that makes 'workforce retraining pipeline starting at the high school level' a serious policy argument, not a feel-good one. Maria is already exploring whether my program qualifies for retraining grant criteria — that tells me she came into this meeting with an open posture, not a closed one. The RoboRide ambient signal is still live, which means the AV disruption story I have been building around is still relevant and visible to everyone in Millfield. I am not showing up to convince a skeptic — I am showing up to give a prepared ally the information she needs to say yes. The outcome message is quiet: savings up $450, nothing dramatic. That is fine. The work this tick is relational, not financial.",
+    "chosen_actions": [
+      {
+        "type": "EXCHANGE",
+        "description": "Attend the one-hour listening meeting with Councilmember Maria Santos. Present the Millfield Auto Tech Pipeline proposal in its strongest form: the EV/hybrid/electronics curriculum redesign, the ASE certification pathway alignment, the two-stage HS-to-community-college pipeline structure, and the RoboRide deployment data as evidence of local demand. Listen to what grant criteria she is working with and offer to reshape program documentation to match that language specifically. Make one clear ask: formal endorsement from her office and a pathway application to link the program to the $150K workforce transition fund or any successor retraining grant. Offer to provide whatever written materials — enrollment projections, equipment cost estimates, job placement data from alumni — her office needs to make the case internally. Leave her with a one-page program summary she can share with the grant administrator.",
+        "target_agent": "council_member",
+        "resources": {
+          "type": "skill",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Presenting curriculum proposal, program data, and a one-page summary document. Receiving political capital: a potential endorsement and clarity on grant eligibility criteria."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "This is the meeting I have been building toward for three ticks. Doing anything else this month — pulling back, over-asking, under-preparing — would waste the setup. Maria came in open; my job is to close the loop with specificity and competence. A grant linkage does not happen because of a good idea — it happens because someone gave the decision-maker everything she needs to say yes without having to do extra work. I am that person this tick. Inaction would be a forfeit. A transaction or financial ask would be premature and off-tone for a listening meeting. The exchange of my program knowledge for her political guidance is exactly the right move."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "builder",
+    "inner_monologue": "This is the meeting. Not a practice run, not another email — the actual room. I have the data, I have the reframe, I have the one-pager. The economy numbers are actually helping me: 93% employment means 7% out of work, and a spending index of 73 means people are scared. That is exactly when a workforce pipeline story lands hardest. Maria is not doing me a favor by meeting with me — she is looking for a program she can point to. My job today is to be that program, clearly and without asking for too much too fast. Listen first. Let her tell me what the grant criteria look like. Then show her exactly how the Millfield Auto Tech Pipeline fits the words she just used."
+  }
+}

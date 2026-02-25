@@ -1,0 +1,52 @@
+{
+  "tick": 4,
+  "agent_id": "diner_owner",
+  "agent_name": "Betty Kowalski",
+  "response": {
+    "internal_assessment": "I am optimizing at L1_STABILIZE, with L0_SURVIVE right beneath it watching. The spending index at 73 is not abstract — I can count it in the lunch receipts. Fewer covers. People skipping the pie. The mechanic who used to get the full blue plate is now ordering just soup. I've been watching and applying for help. This month I need to do something with what I know. The task force meeting is the move. Not because I'm a fighter by nature but because nobody else is going to walk into that room and say: this is what a diner on Auto Row looks like right now.",
+    "inbox_interpretation": "The spending index at 73 is the number that keeps me up at night. Twenty-seven points below baseline means my regulars are pulling back — and they were already not wealthy people. Unemployment ticking up to 7% means some of them won't be regulars much longer. RoboRide is still ambient background noise for me, but the spending drop is front-of-house reality. My tick 3 was routine — savings held at $116 ahead — but I cannot assume that holds if the spending decline continues to deepen. The grant I applied for in tick 2 has not come through yet. I am waiting on that. What I am NOT waiting on is the chance to tell Maria Santos and the task force what I'm actually seeing. That costs me nothing and might matter.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Prepare and deliver testimony to Maria Santos's small business task force meeting. Document the concrete changes I've observed at the diner since the spending index began falling: reduced average check size, fewer covers per lunch shift, regulars substituting coffee-only visits for full meals. Bring three months of rough receipt tallies. Speak plainly about what a spending index of 73 feels like from behind a counter. Advocate for grant extension and expedited disbursement for pending applicants like myself.",
+        "target_agent": "council_member",
+        "resources": {
+          "type": "reputation",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Lending credibility and ground-level data to the task force — my 30 years on Auto Row gives my testimony weight that a consultant's report cannot provide. No money changes hands. This is community voice."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The task force meeting is low cost and potentially high return. I have specific, observable data that policymakers need and don't have. If I stay quiet, the people making decisions about grants and economic support programs hear from bankers and consultants — not from someone who has watched foot traffic decline in real time. My community_relations skill is directly applicable here. And honestly: if Maria Santos sees me showing up and contributing, that improves the odds my pending grant application gets looked at seriously. This is not cynical calculation. It is also not cynical calculation."
+      },
+      {
+        "type": "INACTION",
+        "description": "Hold on any revenue diversification experiments — catering, meal kits, extended hours — until the grant decision comes back and I have a clearer picture of whether the spending decline is stabilizing or accelerating. I am not in a position to spend money I don't have on experiments that might not pay off in a depressed consumer environment.",
+        "target_agent": null,
+        "resources": {
+          "type": "currency",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Preserving savings buffer. No discretionary outflows beyond normal operations."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Status quo bias is real in me and I know it. But in this case holding is also genuinely correct — I have $27K in savings and 6.4 months runway. I am not at the wire. Acting rashly when the grant decision is still pending and the spending environment is still moving would be spending energy I may need later. Watch. Report. Wait for the signal to shift."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Thirty years of lunch service and I know when the room has changed. People aren't just watching their spending — they're scared, and scared people don't eat out. I'm going to that task force meeting and I'm going to tell them exactly what $73 on a spending index feels like from behind a Formica counter. Not because I think it'll fix anything. Because if I don't say it, nobody will, and then whatever they decide gets made without my voice in the room. The grant better come through. I did everything right on that application."
+  }
+}

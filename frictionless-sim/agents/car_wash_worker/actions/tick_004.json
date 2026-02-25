@@ -1,0 +1,33 @@
+{
+  "tick": 4,
+  "agent_id": "car_wash_worker",
+  "agent_name": "Miguel Hernandez",
+  "response": {
+    "internal_assessment": "L0 SURVIVE is my primary optimization target. Threat level 0.88 with only 1.4 months of runway. The auto sector is down — revenue index 89 and falling. Car wash volume follows car ownership and driving frequency, both declining under robotaxi pressure. My role security is 0.43 and my skill relevance is 0.2. I have been doing 'routine' for two straight ticks while the ground shifts under me. I am not attached to this job at all. My job is to not be broke, and right now the math says I need a second income or a skills bridge before this job disappears.",
+    "inbox_interpretation": "The sector data is a warning. Auto revenue is down 11 points. Unemployment is rising — 7% of the town is already out of work and that number is moving. Spending is at 73% of baseline. People are spending less, which means discretionary services like car washes get cut first. RoboRide at $0.18/mile is already compressing car ownership — fewer personal cars means fewer car washes. My employer is probably seeing volume drop. I did the roommate search and gig search in ticks 0 and 1 but I only ever got $131/month more in savings — that's my current surplus, which is almost nothing. I need to stop drifting and make a concrete move toward something that survives this disruption. I know Carlos (0.78 trust) and Sarah (0.76 trust) — the mechanics. Mechanics still have relevance, and trade skills are harder to automate than washing cars. That's my path. Sign up for a community college auto tech certificate or trade apprenticeship. Keep working the car wash while I build the bridge.",
+    "chosen_actions": [
+      {
+        "type": "TRANSFORMATION",
+        "description": "Enroll in a part-time automotive service technician certificate program at Millfield Community College. Classes start next month, evenings and weekends — does not conflict with car wash shifts. Goal: gain a marketable trade skill before the car wash role evaporates. Asked Carlos (mechanic_carlos) informally if he thinks it's worth it and would consider me for an apprentice-track role once I have basics.",
+        "target_agent": "mechanic_carlos",
+        "resources": {
+          "type": "skill",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Begins retrain: auto service technician certificate. Estimated 6-month program, evenings/weekends. Cost ~$800 total, absorbed from savings over two months."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 400,
+          "savings_change": -400,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "My skill relevance is 0.2 — almost nothing. Manual labor and customer service don't survive the robotaxi wave. Automotive technician work has higher relevance — robots still need service, and there's an existing skills gap in certified techs. I have two trusted contacts in the mechanic world. The enrollment cost is real but affordable — I lose one month of savings growth but I buy an exit ramp from a job that has maybe 6-12 months left. Doing nothing is the worst option: it extends the runway illusion while the actual threat grows."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Two months of routine and I saved two hundred and sixty bucks. The sector is bleeding and I'm standing here washing cars like nothing's happening. I'm not panicking — panicking doesn't pay rent — but I'm done waiting for this to get worse before I move. Carlos knows his stuff and he's never made me feel like I don't belong in that shop. I sign up for the night classes, I keep the day job, and I stop being the guy who watches the wave coming and just stands there."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "tick": 4,
+  "agent_id": "community_organizer",
+  "agent_name": "Lisa Freeman",
+  "response": {
+    "internal_assessment": "I am optimizing at L6_TRANSCEND (meaning/purpose) and L2_PARTICIPATE (role security) simultaneously. My purpose is the work. The task force meeting is not a threat to manage — it is the bridge becoming load-bearing. Maria is asking me to do exactly what I have been positioning to do for four ticks. Employment at 93% means 7% unemployed and rising. Spending index at 73 means people are scared and pulling back. Those are the people coming through my doors on Tuesday and Thursday nights. Harold. The woman who would not give her name. I have seen their faces. The council has not. My job this month is to put those faces in the room without exposing anyone.",
+    "inbox_interpretation": "The MARKET_DATA confirms what I've been seeing on the ground: unemployment rising, consumer spending cratering. These numbers are not abstractions to me. A spending index of 73 means people are afraid to spend, which means less tax revenue, which means less city support for programs, which means the people least served by existing programs are about to fall further behind. The AMBIENT message about RoboRide at $0.18/mile is something I should pay attention to — Robert Jackson (rideshare driver, neighbor) is almost certainly affected. That's a conversation for later. Right now the task force meeting is the action. The OUTCOME confirms I ran routine last tick and my savings crept up to roughly $21,800. I am financially stable enough to take no defensive action this month. All energy goes to the testimony.",
+    "chosen_actions": [
+      {
+        "type": "COMMITMENT",
+        "description": "Accept Maria Santos's invitation to speak at the task force meeting. Prepare structured testimony specifically addressing who is being left out of existing programs: returning workers without current credentials, gig workers with inconsistent income history who don't qualify for traditional assistance, people with transportation barriers who can't reach program sites, individuals who won't self-identify as unemployed due to stigma, and those displaced by automation (specifically rideshare and taxi workers) who are too old or too resource-depleted to retrain without bridge support. Ground all testimony in anonymized intake data from Community Connection Nights, not anecdote alone. Frame the excluded populations not as failures of individual will but as gaps in program design — this matters for policy, and it matters for how Maria can present it to colleagues who will be resistant.",
+        "target_agent": "council_member",
+        "resources": {
+          "type": "labor",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Preparation and delivery of structured testimony to the task force: compiling intake data, identifying excluded population categories, drafting talking points, attending the meeting, and speaking on the record. Estimated 8-10 hours of focused work this month beyond regular duties."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "This is what four months of relationship-building and data collection have been pointing toward. Maria is not asking me to speculate — she is asking me to testify from evidence I already hold. Refusing or hedging would waste the political window she has opened. The people showing up at Community Connection Night have no other advocate in that room. I am the only one who has counted them, heard them, and can speak to the council in the language of data and policy. The cost is time and some vulnerability — speaking on record means I can be held accountable or ignored. That is acceptable. The alternative — staying comfortable, staying quiet — is not the work."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "After accepting the task force commitment, make a quiet personal note to follow up with Robert Jackson (rideshare driver, neighbor) within the week. RoboRide at $0.18/mile is the kind of disruption that ends livelihoods overnight and Robert may not yet know what's coming or how fast. I won't approach him as a charity case. I'll reach out neighbor-to-neighbor — 'how are things going' — and let him know the community center exists if he needs it. No pressure. Just a door left open.",
+        "target_agent": "rideshare_driver",
+        "resources": {
+          "type": "service",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Informal outreach — a neighbor check-in that signals availability of community center resources without stigma or pressure."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The RoboRide ambient message is not random noise. I serve a locality. Robert Jackson is in my locality and in my network. The $0.18/mile price point for autonomous rideshare is the kind of shock that shows up in my intake data two to three months after it happens — when people have burned through savings and are too ashamed to ask for help. I'd rather he knows I exist now, before that point. This costs me nothing except five minutes and a small amount of social awkwardness."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "builder",
+    "inner_monologue": "Maria asked me to come and I'm going. That's the whole sentence. I've been preparing for this since tick zero, since Harold sat at one of my tables and told me he drove taxis for eleven years and had no idea how to make a resume. I know who's being left out. I know it in my bones and I know it in my spreadsheet. The task force needs to hear both. The numbers are going the wrong direction — 93% employment sounds okay until you realize it's heading down, and a spending index of 73 means people are already scared and pulling back before the real hurt arrives. I am the bridge. This month the bridge is open and I am going to let people cross."
+  }
+}

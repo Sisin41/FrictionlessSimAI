@@ -1,0 +1,33 @@
+{
+  "tick": 4,
+  "agent_id": "driving_instructor",
+  "agent_name": "Frank Russo",
+  "response": {
+    "internal_assessment": "I am optimizing at L2_PARTICIPATE. I am unemployed, my savings are burning at $3,176 a month, and I have about seven months left before I am in real trouble. L0 and L1 are not immediate emergencies — I have a buffer — but if I do nothing for two more months, L0 becomes the conversation I am having. The legal pad exercise from tick 1 told me something true: I do not teach driving. I teach people to do hard things when they are scared. That is a marketable skill in a disrupted town. The question is whether I can convert that insight into actual income before the runway runs out. This month I act on it.",
+    "inbox_interpretation": "The OUTCOME is simple and bad: another $3,176 gone, no income, still unemployed. The AMBIENT reminds me that RoboRide is real and operating at $0.18 a mile — the demand for driving instruction is not coming back. I do not get angry about this anymore. I accepted it last month. What I am doing now is asking a different question: who in this town needs what I actually know how to do? Employment is at 93% — most people here still have jobs, which means there are adults in this town who are employed but anxious, whose jobs are changing underneath them, who need someone who can sit next to them and say 'here is the thing you are afraid of, here is how we break it into pieces.' Mark Thompson at the high school is the only person I trust enough in education to have this conversation honestly. He knows the school system, he knows the adult ed programs, he knows whether there is a path from where I am to a continuing education contract. I am going to call him.",
+    "chosen_actions": [
+      {
+        "type": "COMMITMENT",
+        "description": "Contact Mark Thompson, the high school auto shop teacher, and propose a collaboration. Frank wants to explore teaching an adult continuing education course — working title 'Career Transitions and Skill Rebuilding' — through the school district's adult ed program. Frank's pitch: he has thirty years of experience breaking complex skills into learnable steps for anxious adults, he has a classroom voice, and he has firsthand knowledge of what it feels like to lose a livelihood to automation. Mark knows the district system and has the institutional relationships Frank lacks. Frank is not asking for charity — he is asking Mark to help him find the door into adult education and to co-sponsor or vouch for his application to the district's continuing education roster.",
+        "target_agent": "auto_shop_teacher",
+        "resources": {
+          "type": "labor",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Frank invests time and reputation in making this approach. No money changes hands this tick. The resource exchanged is Frank's credibility as an experienced educator paired with Mark's institutional knowledge and trust with the school district."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": -3176,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "This is the logical translation of the acceptance insight into action. Frank has one relationship in the education sector with genuine trust (0.83 with Mark Thompson). Adult education through the school district is low-cost to enter, consistent with Frank's real skills (teaching anxious people), and credible in a town where employment is still relatively high and displaced workers need retraining support. Starting a private practice from scratch would require capital Frank does not want to spend and clients he does not yet have. Going through an existing institution — the school district — gives him legitimacy, a small income stream, and a test of whether the pivot is viable before he burns more savings. The alternative (continued inaction) costs $3,176 next month with no path change. The other alternative (immediate business launch) risks capital he cannot afford to lose given his 0.8 identity attachment and 2008-crisis risk aversion. Calling Mark is the proportionate, low-risk first move."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "I have been sitting in this office for four months watching my savings disappear and telling myself I was processing. I was. But processing is not a business plan and grief is not income. Mark will either tell me there is a door or he will tell me there is not — either answer is more useful than what I have now, which is nothing but a legal pad and a dwindling account. I am fifty-eight years old and I have taught people to do hard things for thirty years. That is not nothing. I need to stop treating it like it might be."
+  }
+}

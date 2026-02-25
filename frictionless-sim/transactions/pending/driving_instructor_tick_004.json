@@ -1,0 +1,12 @@
+{
+  "from": "driving_instructor",
+  "target": "auto_shop_teacher",
+  "tick": 4,
+  "type": "COMMITMENT",
+  "offer": "Frank Russo reaches out to Mark Thompson to propose collaborating on an adult continuing education program through the school district. Frank asks Mark to vouch for him with district administration and co-sponsor his application to the continuing education instructor roster. In return, Frank offers his thirty years of teaching experience, a course he would design and deliver himself on career transitions and skill rebuilding, and a genuine collegial partnership — not a subordinate relationship. Frank is not asking for money from Mark; he is asking for access and institutional credibility.",
+  "resources": {
+    "type": "reputation",
+    "amount": 0
+  },
+  "why_they_accept": "Mark Thompson trusts Frank (Frank's trust score with Mark is 0.83, the highest in Frank's network). Mark is a high school teacher watching automation gut the town's auto-adjacent workforce — he has likely thought about what happens to displaced workers and whether the school system has any role to play. A former driving school owner pivoting to adult education is not a strange ask in this context; it is actually on-theme for what Mark cares about. Mark risks little by making an introduction or writing a letter of support to the district adult ed coordinator. The upside — a credible, experienced instructor joining the continuing ed roster — benefits the school district and costs Mark almost nothing. The professional alignment is strong."
+}

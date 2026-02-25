@@ -1,0 +1,33 @@
+{
+  "tick": 4,
+  "agent_id": "commuter_rachel",
+  "agent_name": "Rachel Green",
+  "response": {
+    "internal_assessment": "L2_PARTICIPATE is my primary threat this tick. My role_security is already low at 0.46, and now unemployment is climbing (93%) while consumer spending has cratered to 73. Marketing budgets are the first casualty in a downturn — I know this industry. The car question is secondary and largely already answered since I don't own one. The real risk is that my employer starts cutting marketing headcount or scope, and I need to make myself indispensable before that happens. L1_STABILIZE is currently okay — $26K in savings is real cushion — but it erodes fast if I lose income. I need to protect my employment first.",
+    "inbox_interpretation": "The OUTCOME says another routine month and savings grew by $591 — fine, stable. But the MARKET_DATA is the signal I've been waiting for: 93% employment and spending index at 73 are not background noise. That's a real contraction. My industry (marketing) is discretionary for most companies. When budgets get cut, marketing managers at my level often get consolidated or let go. RoboRide at $0.18/mile with 15-minute waits is a real product now and I'm already not a car owner, so that part of my evaluation is essentially settled — I use it when I need it. The threat is my paycheck, not my commute. I'm ignoring the car conversation this tick because it's no longer the pressing question.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Activate professional network and increase internal visibility at work. Schedule a 1:1 with my manager to present recent campaign performance data and pitch a cost-efficiency angle — reframing marketing spend as a measurable ROI tool rather than overhead. Reach out to two or three professional contacts from the marketing sector to check pulse on layoff rumors and demonstrate I'm engaged. Update LinkedIn with recent project wins to signal availability and competence to the market without explicitly broadcasting job-seeking.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Investing discretionary time and social capital into professional self-positioning. No direct financial outlay."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 591,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "My role_security at 0.46 is already fragile. The economic contraction (spending index 73, unemployment rising) signals that marketing budgets are at risk. Taking visible, proactive steps to demonstrate value to my employer costs nothing but time and positions me better than doing nothing and hoping I survive the next round of cuts. I cannot afford to be passive. The alternative — continuing routine — feels safer but given 2.5x loss aversion, the asymmetry of losing my income vs. spending a few evenings on professional positioning is obvious. I have the skills and network (0.79 strength) to do this effectively."
+      }
+    ],
+    "emotional_state": "anxious",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "The car thing — I figured that out. I don't have one, I use RoboRide when I need it, that chapter is closed. But now I'm watching the economy numbers and I know what a spending index of 73 means for a marketing team. I've been in enough strategy meetings to recognize when leadership starts looking at headcount as a lever. I need to be the person they think of as essential, not the first name on a list. I have a good story to tell about the work I've done. I need to tell it loudly and soon."
+  }
+}

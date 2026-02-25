@@ -1,0 +1,9 @@
+{
+  "from": "auto_shop_teacher",
+  "target": "council_member",
+  "tick": 4,
+  "type": "EXCHANGE",
+  "offer": "Mark Thompson presents the Millfield Auto Tech Pipeline proposal at the one-hour listening meeting: a redesigned high school auto shop curriculum built around EV fundamentals, hybrid systems, and automotive electronics, aligned with ASE certification pathways, and structured as a two-stage HS-to-community-college workforce pipeline. He provides a one-page program summary for Maria's use with grant administrators and offers to produce any supporting documentation — enrollment projections, equipment cost breakdowns, alumni job placement data — that her office requires to evaluate grant eligibility.",
+  "resources": {"type": "skill", "amount": 0},
+  "why_they_accept": "Maria Santos came into this meeting already exploring whether the program qualifies for retraining grant criteria — she is looking for a program she can attach to existing workforce funding. Mark's proposal directly serves her political need: a concrete, locally-rooted workforce retraining initiative she can champion to justify the grant's existence in Millfield. The two-stage pipeline narrative (HS program feeds into community college EV certification) fits the layered retraining logic most workforce grants require. He is not asking her to fund something new — he is showing her that something fundable already exists and that she discovered it."
+}
