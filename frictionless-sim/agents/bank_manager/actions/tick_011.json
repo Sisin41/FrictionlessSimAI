@@ -1,0 +1,34 @@
+{
+  "agent_id": "bank_manager",
+  "tick": 11,
+  "hierarchy_level": "L2_PARTICIPATE",
+  "emotional_state": "determined",
+  "archetype": "adapter",
+  "actions": [
+    {
+      "type": "SIGNAL",
+      "description": "Follow up with Millfield Community Credit Union on the tick 10 check-in note. If no response has arrived, send a second, final follow-up: call the small business lending team directly by phone rather than email. The message is simple: I sent a note last month about small business lending capacity needs, I have now completed the SBA 7(a) module certification, and I would like a 20-minute conversation this week. I have scenario models from the disruption period I am prepared to share. If there is no response after this call, I treat this lead as closed and move to the next institution.",
+      "target": null,
+      "expected_outcome": "Either a scheduled conversation with the credit union small business lending team, or a clear signal that this lead is exhausted, freeing me to expand outreach to additional institutions next tick."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Submit a targeted application to a second financial institution — a regional CDFI or cooperative lender that has publicly engaged with the economic disruption in the area. The application letter leads with the disruption-period scenario modeling I produced at First Community Bank: I watched this transition coming before it hit, built the models that mapped it, and have spent the intervening year completing SBA 7(a) commercial lending coursework. The pitch is not 'former branch manager seeks employment.' It is 'disruption-period risk analyst with community lending credentials seeks institution that needs that exact profile.' Two institutions in parallel is not desperation — it is proportionate urgency.",
+      "target": null,
+      "expected_outcome": "Application submitted to a second community lending institution. Expands the active job search surface without spreading efforts thin. Creates a parallel track while credit union outreach resolves."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Push the SBA commercial lending coursework from 60% to 75% completion this tick — a concentrated block of 12-15 hours across four sessions. The credential is the primary differentiator in every application. Finishing in 3 months rather than 4 changes the timeline meaningfully when savings are dropping at $6,961/month. The word-of-mouth confirms Kevin O'Brien is executing on SBA product expansion at the branch. He used my analysis. The credential that analysis came from is the thing that distinguishes my pitch to any employer.",
+      "target": null,
+      "expected_outcome": "Progress from 60% to 75% on SBA commercial lending coursework. At this rate the credential completes within 2-3 more ticks, providing a concrete differentiator in all active applications."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Reach out to Linda Park directly — not to ask for job leads, but to offer something specific: I have the disruption-period scenario models from First Community Bank that quantify regional auto loan contraction and project community credit demand shifts. Linda is now in primary job search mode for fleet risk and logistics roles. If she is pitching herself as someone who understands the regional disruption from inside the insurance sector, having my lending-side models as a data exchange could sharpen both our pitches. This is a peer knowledge exchange, not a favor ask. I am explicit about that framing.",
+      "target": "insurance_manager",
+      "expected_outcome": "Peer knowledge exchange with Linda Park. Lending-side scenario data paired with insurance-side policy cancellation data creates a richer picture of regional financial disruption — useful for both of us in employer conversations. Maintains and deepens the relationship at a moment when both parties are actively searching."
+    }
+  ],
+  "reasoning": "Tick 11: I am 11 months unemployed, savings at roughly $133,000 after another month of $6,961 burn, coursework at 60% complete. The credit union contact from tick 9-10 is either responding or it is not — this tick I close the loop with a direct phone call rather than another written note. Simultaneously I apply to a second institution because the 'one contact at a time' pattern has cost me months. The credential push from 60% to 75% is the most important structural action I can take — it is the thing every application points toward and finishing it faster changes the math on my timeline. The Linda Park association is low-cost, relationship-preserving, and potentially mutually useful: she is actively pitching herself on fleet risk expertise, and I have quantitative models of the regional disruption from the lending side that she does not have. Employment at 50%, spending index at 26, Gini at 0.676 — the market I am pitching into is more distressed than when I lost my job. That means community lending institutions should be seeing more demand for exactly the kind of credit intermediation I am trained for. I frame every contact around that reality."
+}

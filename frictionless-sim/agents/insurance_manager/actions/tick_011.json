@@ -1,0 +1,40 @@
+{
+  "agent_id": "insurance_manager",
+  "tick": 11,
+  "hierarchy_level": "L2_PARTICIPATE",
+  "emotional_state": "determined",
+  "archetype": "adapter",
+  "actions": [
+    {
+      "type": "SIGNAL",
+      "description": "Follow up directly with Tom Bradley to deliver on the logistics sector introduction I promised when I laid him off. I send Tom a specific, actionable message: I am copying him on a brief note to my contact at the regional logistics company. The note vouches for his field assessment skills, his auto book management experience, and his professional conduct through the layoff. I am explicit about what I am vouching for and what I am not. I tell Tom separately: this is the introduction I promised. I cannot control the outcome. What I can tell you is that the contact is real and the voucher is genuine. This takes 20 minutes and it protects my integrity as someone who says what she means. Tom is already networking with Priya — he is moving, which means the introduction lands at the right time.",
+      "target": null,
+      "expected_outcome": "Tom Bradley receives the logistics sector introduction I committed to at the time of his layoff. Honors a professional commitment. Maintains my reputation in the sector as someone who follows through. Tom has a real introduction at the right moment in his transition."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Re-engage the regional logistics company contact by phone — frame the call around the RoboRide residential delivery expansion as a current market development. The pitch is specific: I have been managing auto insurance policy cancellations in this region for 11 months and I have quantitative data on the exact risk profile shift from personal auto to commercial fleet. The RoboRide delivery partnership announced this tick creates a new last-mile logistics layer that did not exist 60 days ago. That layer requires fleet risk assessment that is structurally different from personal auto risk. I have the data and the credentials in progress. Ask directly: is there a defined role in risk operations, or is this a future conversation? I accept either answer. What I do not accept is another month of not having the conversation.",
+      "target": null,
+      "expected_outcome": "Phone conversation with logistics company contact completed. Either a defined next step (interview, call with hiring manager, formal application) or an honest 'not now' that closes this lead. Both outcomes are better than another month of uncertainty."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Advance CRMP certification from 30% to 40% completion. The current module — liability risk transfer and commercial fleet risk assessment — is directly relevant to the logistics company outreach I am making this tick. I read the module before making the call so that the technical vocabulary I use is current and precise. The certification is not just a credential on paper. It is preparation for the conversations I am having. Pushing from 30% to 40% this month means I complete in approximately 6 more months at current pace — but with the logistics contact potentially opening into an active conversation, having the credential sooner rather than later matters.",
+      "target": null,
+      "expected_outcome": "CRMP certification advances from 30% to 40% completion. Commercial fleet risk assessment module completed. Specific technical vocabulary available for employer conversations this tick. Credential completion timeline maintained."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Reach out to David Chen directly — not as a job lead, but as a peer knowledge exchange. David has been building SBA commercial lending expertise and cold-contacting credit unions while I have been in the insurance sector watching the regional disruption from the policy side. I have 11 months of regional policy cancellation data that quantifies what has happened to personal auto in Millfield. David has lending-side scenario models. If we exchange data, both of us have a more complete picture to bring to employer conversations in adjacent sectors. I propose a 20-minute call: I share what I have on the insurance side, he shares what he has from the lending side. No strings. We are both navigating the same disruption from adjacent angles.",
+      "target": "bank_manager",
+      "expected_outcome": "Peer knowledge exchange with David Chen. Insurance-side policy cancellation data paired with lending-side scenario models gives both parties a richer picture of regional financial disruption. Maintains and deepens a relationship that has operated through word-of-mouth channels for several ticks without direct contact."
+    },
+    {
+      "type": "INACTION",
+      "description": "Do not submit additional applications to the healthcare system risk division or municipal risk management office this tick. I engaged both in tick 6, and the logistics company contact is the strongest lead from that round. Spreading outreach across all three simultaneously this tick would dilute the quality of each engagement. The logistics company call is the primary action. If that conversation produces a clear 'not now,' I return to the healthcare and municipal leads next tick with a more targeted pitch.",
+      "target": null,
+      "expected_outcome": "Focused energy on strongest lead rather than diffuse outreach. The logistics company call is the highest-probability action this tick. Healthcare and municipal contacts remain viable leads for the following tick if needed."
+    }
+  ],
+  "reasoning": "Tick 11 context: employment at 50%, spending index at 26, auto insurance policies down to 22 and continuing to fall. My savings are at approximately $76,831 after another $7,382 month of burn — roughly 10.4 months of runway. The stress event in tick 10 (savings dropped by $7,382 with another layoff on record) has pushed me into a higher-urgency mode. The Tom Bradley introduction is a commitment I have not yet executed and it must happen this tick — it was promised at the time of his layoff and he is now actively networking, which means the window for the introduction to be useful is right now. The logistics company call is the highest-priority job search action: I have been building toward it for five ticks, I have a current, relevant hook (RoboRide delivery expansion and commercial fleet risk), and I have the technical credentials in progress. The David Chen association is a peer exchange that costs nothing and may produce mutual benefit — we have been aware of each other's transitions through word-of-mouth for several ticks without making direct contact. That gap is worth closing. The INACTION on the other employer contacts is deliberate: focused energy on the strongest lead produces better outcomes than thin effort spread across three contacts. Anger grief stage is converting into focused execution — I am not frozen, I am directing."
+}

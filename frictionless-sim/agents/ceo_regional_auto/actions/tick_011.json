@@ -1,0 +1,34 @@
+{
+  "agent_id": "ceo_regional_auto",
+  "tick": 11,
+  "hierarchy_level": "L1_STABILIZE",
+  "emotional_state": "determined",
+  "archetype": "adapter",
+  "actions": [
+    {
+      "type": "EXCHANGE",
+      "description": "Execute the first payment on the Rick Tanner consulting contract — $4,500 for month one of the 90-day engagement. The signed contract went out in tick 10. This payment is the operational confirmation that the contract is live. I do not make Rick wait for month-one payment after he waited through two ticks of ambiguity on the compensation ask. The cover note accompanying the payment is brief: the contract is active as of this week, the scope is assessment finalization and transition-phase operational advisory, and I am available for a brief check-in call this week to align on any open items from the closure execution.",
+      "target": "dealership_gm",
+      "expected_outcome": "First month payment delivered to Rick Tanner. Confirms the consulting engagement is operational, not theoretical. Reduces Rick's financial stress and preserves the working relationship through the Q2 closure execution."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Make direct contact with Stephanie Morris about the closing location property disposition. The tick 10 acknowledgment was brief — this tick I schedule a 30-minute conversation to understand what she knows about the buyer market for large-footprint auto properties: delivery logistics operators, EV fleet servicing, light industrial conversion. I am not listing the property yet. I am mapping the disposition landscape before the closure completes. The Q2 timeline means I have approximately 60-90 days to understand the market before the property decision becomes urgent. Stephanie's auto row market brief from the task force session is the credential I am engaging. I tell her that directly.",
+      "target": null,
+      "expected_outcome": "30-minute property disposition conversation with Stephanie Morris scheduled. Establishes the channel for the listing decision when the property becomes available. Demonstrates that I am managing the closure proactively, not reactively."
+    },
+    {
+      "type": "COMMITMENT",
+      "description": "Begin active planning for the three-location service-lane model that will emerge from the Q2 closure. This is internal document work: define the service capacity targets for each surviving location, identify which certified technicians from the closing location are being transferred where, and map the service lane throughput projections for the post-consolidation footprint. This is not a press release. This is the operational architecture of what Regional Auto Group becomes after the closure. Rick's consulting work feeds into this document. I produce the owner-operator version of the plan that does not yet exist in written form.",
+      "target": null,
+      "expected_outcome": "Draft operational framework for three-location service-lane model produced. Creates the internal roadmap that guides decisions on technician placement, service capacity targets, and resource allocation through the remainder of Q2."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Reach out personally to Maria Santos with a brief update on the transition program status — not a task force briefing, a direct one-on-one communication. I tell her specifically: the number of displaced workers routed through Angela's program as of this week, how many have accessed the $2,500 retraining grant, and what the service technician transfer status looks like across the three surviving locations. This is the kind of concrete data that the 90-day Economic Resilience Framework requires. I give it to Maria proactively rather than waiting for a formal request. The community relationship depends on demonstrating that the transition pipeline is real and functioning, not just described.",
+      "target": "council_member",
+      "expected_outcome": "Maria Santos receives direct, concrete data on worker transition pipeline status from me, unprompted. Supports her framework drafting with current numbers. Maintains the working relationship with the council and demonstrates accountability without requiring a formal proceeding."
+    }
+  ],
+  "reasoning": "Tick 11 context: Hawkins closure is executing, protests cooling, employment at 50%, spending index at 26. My savings are at approximately $330,000 after another month of $16,487 burn with no income, but the three-location service model represents a path to renewed income once the consolidation stabilizes. The most urgent items this tick are: (1) confirm Rick's first consulting payment to close the compensation loop completely — a signed contract without payment is still ambiguous; (2) move the Stephanie Morris property conversation from acknowledgment to actual information exchange; (3) begin producing the internal operational architecture for what Regional Auto Group becomes after Q2 — because the closure is executing and the surviving organization needs a plan, not just a theory; (4) give Maria Santos current data for her framework, because that relationship has value and I have the information she needs. The depression-stage grief in my psychological profile is present but not paralyzing. I made the decision. I am standing in it. The work of this tick is converting the closure execution into the foundation of the restructured business."
+}
