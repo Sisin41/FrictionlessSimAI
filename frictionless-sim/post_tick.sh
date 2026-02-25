@@ -26,6 +26,26 @@ tick_pad = f"{tick:03d}"
 agents = json.loads(open(f"{sim}/agents/index.json").read())
 prev_market = json.loads(open(f"{sim}/world/market_state.json").read())
 
+def normalize_record(record):
+    """Handle both old format (response wrapper) and new flat format."""
+    if "response" in record:
+        resp = record["response"]
+        return {
+            "archetype": resp.get("archetype_self_assessment", record.get("archetype", "stable")),
+            "emotional_state": resp.get("emotional_state", "neutral"),
+            "actions": resp.get("chosen_actions", []),
+            "reasoning": resp.get("inner_monologue", ""),
+            "agent_name": record.get("agent_name", record.get("agent_id", "")),
+        }
+    else:
+        return {
+            "archetype": record.get("archetype", "stable"),
+            "emotional_state": record.get("emotional_state", "neutral"),
+            "actions": record.get("actions", []),
+            "reasoning": record.get("reasoning", ""),
+            "agent_name": record.get("agent_name", record.get("agent_id", "")),
+        }
+
 # ─── 1. Collect all actions ─────────────────────────────────
 print("  1. Collecting actions...")
 all_actions = {}
@@ -94,58 +114,55 @@ policy_proposals = []
 mutual_aid = []
 
 for aid, record in all_actions.items():
-    resp = record.get("response", {})
-    agent_name = record.get("agent_name", aid)
+    norm = normalize_record(record)
+    agent_name = norm["agent_name"] or aid
     agent_info = next((a for a in agents if a["id"] == aid), {})
-    
-    for action in resp.get("chosen_actions", []):
+
+    for action in norm["actions"]:
         atype = action.get("type", "")
         desc = (action.get("description", "") or "").lower()
-        target = action.get("target_agent")
-        resources = action.get("resources_involved", "")
-        
-        # Detect layoffs (check economic_effects OR keywords)
-        econ = action.get("economic_effects", {})
-        if econ.get("employment_change") == "fired" or any(w in desc for w in ["lay off", "layoff", "fire", "let go", "terminate", "cut staff", "downsize", "laid off"]):
+        target = action.get("target") or action.get("target_agent")
+        econ = action.get("economic_effects", {}) or {}
+
+        # Detect layoffs
+        if econ.get("employment_change") == "fired" or any(w in desc for w in ["lay off", "layoff", "let go", "terminate", "cut staff", "downsize", "laid off"]):
             layoffs.append({"by": aid, "by_name": agent_name, "target": target, "description": desc})
-        
-        # Detect closures
-        if econ.get("asset_change") == "closed_business" or any(w in desc for w in ["close", "shut down", "bankrupt", "going out of business", "shutting"]):
+
+        # Detect closures (specific phrases only, not generic "close a deal")
+        if econ.get("asset_change") == "closed_business" or any(w in desc for w in ["shut down my", "shut down the business", "bankrupt", "going out of business", "shutting down", "closing my business", "closing the business", "close the shop", "close my shop"]):
             closures.append({"agent": aid, "name": agent_name, "description": desc})
-        
+
         # Detect new businesses
-        if econ.get("asset_change") == "started_business" or (atype == "ASSOCIATION" and any(w in desc for w in ["start business", "launch", "founded", "open", "co-op", "cooperative"])):
+        if econ.get("asset_change") == "started_business" or (atype in ("ASSOCIATION","TRANSFORMATION") and any(w in desc for w in ["start business", "launch my", "founded", "opened a", "co-op", "cooperative", "new business"])):
             new_businesses.append({"agent": aid, "name": agent_name, "description": desc})
-        
-        # Detect car sales / ditching (check economic_effects OR description keywords)
-        econ = action.get("economic_effects", {})
+
+        # Detect car sales / ditching
         if econ.get("asset_change") == "sold_car" or ("sell" in desc and "car" in desc) or ("sold" in desc and "car" in desc) or ("ditch" in desc and "car" in desc) or ("gave up" in desc and "car" in desc):
             car_ditches.append(aid)
-        
-        # Detect robotaxi adoption (must have action verb, not just mentioning it)
+
+        # Detect robotaxi adoption (active adoption verb required)
         if any(w in desc for w in ["robotaxi", "roboride", "autonomous ride"]):
-            if econ.get("asset_change") == "sold_car" or econ.get("expense_change", 0) < -100 or any(v in desc for v in ["switch to", "signed up", "start using", "adopted", "commute via", "using robotaxi", "use robotaxi"]):
+            if econ.get("asset_change") == "sold_car" or any(v in desc for v in ["switch to robo", "signed up for robo", "start using robo", "adopted robo", "commute via robo", "using robotaxi", "use robotaxi"]):
                 robotaxi_switches.append(aid)
-            robotaxi_switches.append(aid)
-        
+
         # Detect protests
-        if any(w in desc for w in ["protest", "rally", "march", "strike", "petition", "demonstrate"]):
+        if any(w in desc for w in ["protest", "rally", "march", "strike", "demonstrate"]):
             protests.append({"agent": aid, "name": agent_name, "description": desc})
-        
+
         # Detect retraining
-        if atype == "TRANSFORMATION" and any(w in desc for w in ["retrain", "learn", "study", "course", "skill", "certification"]):
+        if atype == "TRANSFORMATION" and any(w in desc for w in ["retrain", "learn", "study", "course", "skill", "certification", "cert"]):
             retraining.append({"agent": aid, "name": agent_name, "description": desc})
-        
+
         # Detect policy proposals (from council/policy agents)
         if agent_info.get("sector") == "policy" and atype == "SIGNAL":
             policy_proposals.append({"agent": aid, "name": agent_name, "description": desc})
-        
+
         # Detect mutual aid / informal economy
-        if any(w in desc for w in ["barter", "mutual aid", "share", "favor", "help each other", "trade service"]):
+        if any(w in desc for w in ["barter", "mutual aid", "trade service"]):
             mutual_aid.append({"agent": aid, "name": agent_name, "description": desc})
-        
+
         # Detect hirings
-        if any(w in desc for w in ["hire", "new job", "accepted position", "got hired", "employed"]):
+        if any(w in desc for w in ["new job", "accepted position", "got hired", "started working"]):
             hirings.append({"agent": aid if not target else target, "name": agent_name, "description": desc})
 
 # ─── 4. Update agent states ─────────────────────────────────
@@ -154,32 +171,32 @@ print("  4. Updating states...")
 for aid, record in all_actions.items():
     state = json.loads(open(f"{sim}/agents/{aid}/state.json").read())
     old_state = json.loads(json.dumps(state))  # deep copy for outcome comparison
-    resp = record.get("response", {})
+    norm = normalize_record(record)
     agent_info = next((a for a in agents if a["id"] == aid), {})
-    
+
     # Archetype
-    state["archetype"] = resp.get("archetype_self_assessment", state.get("archetype", "stable"))
-    
+    state["archetype"] = norm["archetype"]
+
     # Emotion → stress/agency
-    emotion = resp.get("emotional_state", "neutral")
+    emotion = norm["emotional_state"].split("—")[0].strip().split(",")[0].strip().lower()
     stress_d = {"hopeful": -0.05, "excited": -0.05, "relieved": -0.03, "determined": -0.02,
                 "anxious": 0.05, "angry": 0.07, "resigned": 0.03, "numb": 0.04}.get(emotion, 0)
     state["psychological"]["stress_level"] = round(max(0, min(1, state["psychological"]["stress_level"] + stress_d)), 3)
-    
+
     if emotion in ("hopeful", "excited", "determined"):
         state["psychological"]["agency"] = round(min(1, state["psychological"]["agency"] + 0.02), 3)
     elif emotion in ("resigned", "numb"):
         state["psychological"]["agency"] = round(max(0, state["psychological"]["agency"] - 0.03), 3)
-    
+
     # Temporal horizon
     stress = state["psychological"]["stress_level"]
     state["psychological"]["temporal_horizon_months"] = max(1, int(12 * (1 - stress * 0.7)))
-    
+
     # Process specific actions
-    for action in resp.get("chosen_actions", []):
+    for action in norm["actions"]:
         desc = (action.get("description", "") or "").lower()
         atype = action.get("type", "")
-        target = action.get("target_agent")
+        target = action.get("target") or action.get("target_agent")
         
         # Retraining → track in-progress transformation (§9.2)
         if atype == "TRANSFORMATION" and any(w in desc for w in ["retrain", "learn", "study", "course", "skill"]):
@@ -311,7 +328,7 @@ for aid, record in all_actions.items():
         json.dump(state, f, indent=2)
     
     # ── 4b. Write outcome to memory ──
-    action_desc = resp.get("chosen_actions", [{}])[0].get("description", "routine")
+    action_desc = (norm["actions"][0].get("description", "routine") if norm["actions"] else "routine")
     savings_delta = state["financial"]["savings"] - old_state["financial"]["savings"]
     emp_changed = state["hierarchy"]["L2_PARTICIPATE"]["employment_status"] != old_state["hierarchy"]["L2_PARTICIPATE"]["employment_status"]
     
@@ -522,25 +539,25 @@ os.makedirs(obs_dir, exist_ok=True)
 archetype_counts = {}
 emotion_counts = {}
 for aid, rec in all_actions.items():
-    r = rec.get("response", {})
-    arch = r.get("archetype_self_assessment", "stable")
-    emo = r.get("emotional_state", "neutral")
+    n = normalize_record(rec)
+    arch = n["archetype"]
+    emo = n["emotional_state"]
     archetype_counts[arch] = archetype_counts.get(arch, 0) + 1
     emotion_counts[emo] = emotion_counts.get(emo, 0) + 1
 
-# Count missing agents as stable/neutral
+# Count missing agents as unknown
 for aid in missing:
     archetype_counts["unknown"] = archetype_counts.get("unknown", 0) + 1
 
 action_summaries = {}
 for aid, rec in all_actions.items():
-    r = rec.get("response", {})
+    n = normalize_record(rec)
     action_summaries[aid] = {
-        "name": rec.get("agent_name", aid),
-        "actions": [a.get("description", "?") for a in r.get("chosen_actions", [])],
-        "emotion": r.get("emotional_state", "?"),
-        "archetype": r.get("archetype_self_assessment", "?"),
-        "inner_monologue": r.get("inner_monologue", "")
+        "name": n["agent_name"] or aid,
+        "actions": [a.get("description", "?") for a in n["actions"]],
+        "emotion": n["emotional_state"],
+        "archetype": n["archetype"],
+        "inner_monologue": n["reasoning"]
     }
 
 metrics = {
