@@ -1,5 +1,5 @@
 {
-  "tick": 10,
+  "tick": 11,
   "messages": [
     {
       "type": "AMBIENT",
@@ -7,11 +7,11 @@
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 53%."
+      "content": "Local unemployment rising. Employment rate: 50%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 30 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 26 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
@@ -23,83 +23,83 @@
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Dale Cooper laid off workers: spend two hours this week doing a systematic audit of my active bid pipeline and my outstanding receivables. i am now in a monthly deficit position. i need to know exactly where i stand: what jobs are currently in progress, what income is due and when, what bids are live and what their realistic probability of closing is, and what my savings runway looks like at the current burn rate. this is not the first time i have done this math \u2014 i did a version of it in tick 5 \u2014 but the insurance enrollment has changed the baseline. i need the updated number in my head, clearly. a man who does not know his exact number cannot make good decisions about which bids to chase and which to let go."
+      "content": "Business closing: Carlos Ruiz \u2014 have the real conversation with sarah kim \u2014 not the senior-mechanic version where i perform stability. tell her what i actually know: rick called me, my floor is in the tier-one group for the consolidation, and the service technicians at the closed location are getting transfer offers before any external hiring happens. she should know this. i also tell her that she has named my contacts correctly \u2014 i do have names at regional ev service centers and fleet operators, and i give them to her directly. specifically: two regional fleet maintenance contacts i have been building toward through the certification network, and one ev dealership within commuting range that is actively staffing certified technicians. i also tell her honestly: being ev-certified changes her options whether she stays at this shop or goes. i am scared too about what the full consolidation means for our floor. the fear is information, not prophecy."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Dale Cooper laid off workers: process the community stress \u2014 the nine protests, tom bradley's layoff, the visible strain on everyone in my network \u2014 without externalizing it into reactive decisions. dale is a man who has been through 2008. he knows what a community looks like when it is in the middle of something that is going to take years to resolve. he does not pretend it is not happening. he does not perform optimism. he absorbs it and stays steady. the protests are not his to lead or stop. but they are a signal about the temperature of this town and he is filing that signal away. he is also thinking about the fact that he has work and most people around him do not, and what that means for how he shows up \u2014 not with guilt, but with responsibility."
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "Community action: Denise Williams \u2014 send a concise, professional thank-you note to the millfield general facilities director following the phone screen. the note does two things and nothing more: (1) thanks him specifically for the time and references one concrete topic from the call that demonstrates she was engaged and present \u2014 not a generic 'great conversation' but a real callback to something he said about the role scope or the facilities function's priorities; (2) reaffirms her interest in one sentence. she does not ask about timeline. she does not ask where she stands. she sends the note within 48 hours of the call and then she waits. the discipline here is as important as the note itself \u2014 she does not follow up on the follow-up. she has done her part. she lets the process move at institutional speed."
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "Community action: Dale Cooper \u2014 process the community stress \u2014 the nine protests, tom bradley's layoff, the visible strain on everyone in my network \u2014 without externalizing it into reactive decisions. dale is a man who has been through 2008. he knows what a community looks like when it is in the middle of something that is going to take years to resolve. he does not pretend it is not happening. he does not perform optimism. he absorbs it and stays steady. the protests are not his to lead or stop. but they are a signal about the temperature of this town and he is filing that signal away. he is also thinking about the fact that he has work and most people around him do not, and what that means for how he shows up \u2014 not with guilt, but with responsibility."
+      "content": "Business closing: Carlos Ruiz \u2014 have a real conversation with elena. tell her the full picture \u2014 not just the outline she has from when i mentioned rick's call, but the actual weight of it: i am tier-one in the consolidation, which means my job is likely secure for this phase, but the service technicians from the closed location are being transferred to my floor, which changes the social and professional environment i work in. some of those people are people i know. and the longer-term question \u2014 whether this consolidation is a one-time restructuring or the beginning of a deeper contraction \u2014 is not one i can answer yet. i also tell her where the training is: six months in, four to go, and at completion i will have a credential that does not depend on any single employer. she deserves to know the full picture. i have been managing what she knows and calling it protection."
     },
     {
       "type": "SOCIAL",
       "content": "People around you are stressed: Betty Kowalski. The mood is tense."
     },
     {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Have a real conversation with Sarah Kim \u2014 not the ..."
+      "type": "SOCIAL",
+      "content": "Some people seem optimistic: Mark Thompson."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Follow up with Miguel Hernandez on last tick's out..."
+      "content": "Someone mentioned that Tamika Jefferson is making some kind of change \u2014 something about Reach out to Angela Wright directly \u2014 not a congra..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Attend Maria Santos's emergency task force session..."
+      "content": "Someone mentioned that Tamika Jefferson is making some kind of change \u2014 something about Have an honest check-in conversation with Jake Mor..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Follow up with RoboRide partnership coordinator on..."
+      "content": "Someone mentioned that Tamika Jefferson is making some kind of change \u2014 something about Identify two new outreach targets from the RoboRid..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Call Carlos Ruiz. The lunch at tick 8 opened the c..."
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Have the real conversation with Sarah Kim \u2014 not th..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Send a brief, warm note to Grace Okafor acknowledg..."
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Call Miguel Hernandez back. He is ready \u2014 the word..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that James Patterson is making some kind of change \u2014 something about Follow up with Howard Liu \u2014 coffee or a short call..."
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Have a real conversation with Elena. Tell her the ..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Follow up directly with Lisa Freeman \u2014 not a passi..."
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Call the RoboRide local partnership coordinator fo..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Go back to Betty Kowalski's diner. This is the sec..."
+      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Submit two additional targeted job applications th..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Attend Maria Santos's emergency task force session..."
+      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Reach out to Betty Kowalski directly \u2014 phone call ..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Make contact with Patricia Hawkins's office this w..."
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Reach out to Carlos Ruiz directly this week. He's ..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Grace Okafor (Part-time Rideshare Driver / Nursing Student): Complete NEMT certification this tick and begin immediate outreach to Millfield Medical Transport and CareRide \u2014 the specific operators Robert Jackson named. The 40-hour certification coursework enrolled at tick 8 should be completable within this tick's window. I treat completion as the primary commitment of this period alongside driving. Once the cert paperwork is in hand I call both operators the same day. I ask specifically: are you currently onboarding NEMT drivers, what is the vehicle inspection timeline, and can I schedule a placement interview this week. I do not send an email and wait. I call. If Robert has already made contact with these operators I ask him for the name of the person he spoke to, because a warm introduction \u2014 even a minimal one \u2014 cuts through the queue faster than a cold call."
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Call Betty Kowalski this afternoon \u2014 after the tas..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Grace Okafor (Part-time Rideshare Driver / Nursing Student): Send a final, very brief message to Nicole Washington. Not a long ask. One sentence of context, one direct question. Something like: Nicole \u2014 I completed the NEMT certification this month. I know you are busy and I do not want to pressure you. Before I start reaching out cold to operators, is there anyone specific at Millfield General's patient transport or nursing intake you would be willing to put me in touch with? Even a first name helps. That is the whole message. If she responds, the warm introduction could cut weeks off my placement timeline. If she does not respond within this tick, I accept that the connection is warm but not active enough to produce referrals under pressure, and I move forward without it."
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Make contact with Patricia Hawkins's office \u2014 or R..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Grace Okafor (Part-time Rideshare Driver / Nursing Student): Send a brief reply to Denise Williams. Warm, reciprocal, no ask. I thank her for the update, tell her the hospital phone screen sounds like the right move for her and that I hope it opens up. I mention in one sentence that I am finishing the NEMT cert this month and starting to reach out to operators. I do not ask her for anything. I keep the relationship current. If she lands the facilities role at Millfield General, she becomes a meaningful contact inside the institution where I eventually want to work as a nurse. That is a long-horizon relationship worth one paragraph of maintenance."
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Begin drafting an updated auto row property valuat..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Grace Okafor (Part-time Rideshare Driver / Nursing Student): Send a brief, direct update to Robert Jackson. One paragraph: I received his message and I am acting on it. I am calling the operators this week with the cert in hand. I mention that I am using his name as a credibility reference \u2014 not to freeload on his pipeline, but to establish shared network context. I ask one thing: if either Millfield Medical Transport or CareRide gives him an offer this week, can he tell me the name of the contact person he spoke to? That specific warm introduction \u2014 even a name \u2014 cuts through the cold call queue. I ask for it directly because he offered to give it and I should not be too proud to accept."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Grace Okafor (Part-time Rideshare Driver / Nursing Student): Send a brief, warm thank-you to Denise Williams acknowledging her note. One sentence of gratitude, one sentence of update: the cert is done and I am calling operators this week. I note her intelligence about the Millfield General step-down unit expansion \u2014 tell her I am filing that for the medium-term nursing trajectory and that she may be inside the institution where I eventually work. I do not ask her for anything. I keep the relationship alive because it is worth keeping alive."
     },
     {
       "type": "OUTCOME",
-      "content": "You Follow up on all three NEMT employer contacts from tick 8. Check voicemail and email for responses from Millfield Medical Transport, CareRide of the Valley, and St. Clement's patient transport coordinator. For any that have not responded, make a single professional follow-up contact \u2014 call, not email \u2014 three to five business days after the initial outreach. The follow-up message is brief: I am Robert Jackson, I called last week about NEMT driving openings, I wanted to confirm my availability and ask whether there is a timeline for decisions. Do not sound urgent. Do not sound desperate. Sound like a person who is organized and following up responsibly. If any employer has left a message offering an interview, accept it this week. If Millfield Medical Transport offers even an informal conversation, treat it as a full interview and prepare accordingly \u2014 I know their routes cold, which is a concrete advantage I can name in the conversation.. Savings grew by $387. "
+      "content": "You Make final decisive push to convert NEMT employer pipeline. Call Millfield Medical Transport and CareRide of the Valley again \u2014 not to check in, but to move to decision. State availability clearly: I am certified, I have a clean driving record, I can begin within one week. Ask directly: is there an interview or an onboarding slot I can schedule this week? If any offer is on the table, I accept it this call. I do not ask for time to think. I do not negotiate on rate for the first contract \u2014 I accept the standard Medicaid-billable rate and work to prove myself. A contract in hand at standard rates beats continued waiting.. Savings grew by $387. "
     }
   ]
 }

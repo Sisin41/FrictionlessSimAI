@@ -1,5 +1,5 @@
 {
-  "tick": 10,
+  "tick": 11,
   "messages": [
     {
       "type": "AMBIENT",
@@ -15,39 +15,75 @@
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Business closing: Zoe Martinez \u2014 i have pitched two or three businesses over the past two ticks. this week i stop waiting for email replies. i call them directly or walk in. i am targeting: the diner (betty's if she is open to it, or the next closest), any small business near auto row that is still trying to maintain a social media presence and clearly does not have the bandwidth to do it well. my pitch is specific and economic: consumer spending is down 60% from baseline, foot traffic is soft, and local businesses that stay visible and humanly present on social media have a measurable edge over ones that go dark. i know how to do that. rate: $100 to $150 per month per client. goal this tick is to land at least one paying client. even $100 is real income at zero savings. if i close even one client before end of month, that is the first proof that the cert is not just a credential \u2014 my skills are already worth something to someone now."
+      "content": "Business closing: Zoe Martinez \u2014 close at least one paying social media client this week. the target is betty kowalski's diner first - she is in my inbox, she is stressed and making changes, she is attended by both my network and community organizers. i walk in this week, not call. i sit down when it is not rush hour. i say directly: spending is down 70% from baseline, foot traffic is soft, and i can maintain a humanly present social media account for your diner for $120/month. one post per day, community-focused tone, visible and warm. i will show her my tiktok from tick 1 as proof of my voice. if betty says no or needs time, i walk to the next business on auto row the same day. i do not leave without a yes or a firm next step from at least one business."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Business closing: Robert Jackson \u2014 have a brief, honest follow-up conversation with marcus. he knows from the tick 8 conversation that dad completed the certificate and is working on a new job. this tick: if marcus asks how it is going, robert tells him the truth in terms a kid can hold \u2014 i made some calls to new employers last week, i am waiting to hear back, that is normal and it takes a little time. he does not dramatize the waiting. he does not paper over it either. marcus is 11 and he is watching closely. giving him a real account of what 'looking for a new job' actually looks like \u2014 you make calls, you follow up, you wait, you do not give up \u2014 is worth more than a false reassurance that everything is already sorted."
+      "content": "Business closing: Zoe Martinez \u2014 register for the roboride delivery partner program this week. i have been investigating this since the residential delivery expansion was announced. investigating ends this tick. i go to the app, find the delivery partner registration, complete the application, and submit it. i am a last-mile layer - i deliver the final block on a bicycle after the robotaxi brings the package close. i target 15-20 hours per week of delivery work scheduled around the cert coursework (tuesday/thursday evenings and saturday mornings are off-limits). target income: $400-500/month from delivery shifts."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Community action: Denise Williams \u2014 send a concise, professional thank-you note to the millfield general facilities director following the phone screen. the note does two things and nothing more: (1) thanks him specifically for the time and references one concrete topic from the call that demonstrates she was engaged and present \u2014 not a generic 'great conversation' but a real callback to something he said about the role scope or the facilities function's priorities; (2) reaffirms her interest in one sentence. she does not ask about timeline. she does not ask where she stands. she sends the note within 48 hours of the call and then she waits. the discipline here is as important as the note itself \u2014 she does not follow up on the follow-up. she has done her part. she lets the process move at institutional speed."
+      "content": "New venture: Zoe Martinez \u2014 respond to sarah kim's outreach with genuine presence, not just politeness. she reached out to me as a peer navigating the same transition from a different angle. i tell her honestly where i am: working on the roboride delivery partnership registration, coursera cert at 22%, zero savings but still moving forward. if the conversation opens into the infrastructure frame she's building - that bike last-mile workers and ev technicians are both part of what roboride requires - i engage that frame honestly. i am not above learning from someone who has a clearer view of the maintenance side."
     },
     {
       "type": "SOCIAL",
       "content": "People around you are stressed: Tom Bradley. The mood is tense."
     },
     {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Frank Russo is making some kind of change \u2014 something about Frank does not make a third phone call to the adul..."
+      "type": "SOCIAL",
+      "content": "Some people seem optimistic: Dorothy Chen."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Denise Williams (Parking Garage Manager): Send a brief, warm note to Grace Okafor acknowledging her NEMT certification enrollment. Denise heard through the network that Grace is moving decisively on the certification \u2014 40 hours, $300-500 cost, running alongside nursing school. Denise sends two sentences: she says she heard Grace is making moves and that she respects the decisiveness, and she shares one piece of relevant context from her own hospital research \u2014 that Nicole Washington's intelligence about the post-acute step-down unit expansion is consistent with what Denise herself has been seeing in the Millfield General job postings. Patient transport experience converting to clinical context in expanding units. She is not managing Grace's decisions. She is a peer with parallel research, sharing what she knows."
+      "content": "Someone mentioned that Frank Russo is making some kind of change \u2014 something about Call Mark Thompson this week \u2014 not to pitch anythi..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Robert Jackson (Rideshare Driver): Respond directly to Grace Okafor's conditional ask about NEMT sector validity. Her message was explicit: if Robert tells her the sector is saturated or the rates are not real, she re-evaluates. I give her a real answer, not a reassuring one. The rates are real \u2014 Medicaid-billable routes at $18-22 per hour are accurate and I have confirmed this through my own research and outreach. The liability moat against robotaxi encroachment is real \u2014 the regulatory and clinical complexity of medical passenger transport makes autonomous vehicles nonviable in this segment for the foreseeable future. The honest uncertainty I flag: I have outreach in motion but do not yet have an offer in hand, which means I cannot give her a demand-side confirmation from personal experience yet. I tell her: the sector is real, the rates are real, go ahead \u2014 and I will give her a first-hand report the moment one of my three contacts converts. I also tell her: move quickly. If she waits four weeks to certify, she may be entering the applicant pool at the same time I am, and the Millfield opening set is not infinite. If she trusts my read, she should not wait for my offer to confirm before enrolling."
+      "content": "Someone mentioned that Frank Russo is making some kind of change \u2014 something about Reach out to Lisa Freeman at the Millfield Communi..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Robert Jackson (Rideshare Driver): Have a brief, honest follow-up conversation with Marcus. He knows from the tick 8 conversation that Dad completed the certificate and is working on a new job. This tick: if Marcus asks how it is going, Robert tells him the truth in terms a kid can hold \u2014 I made some calls to new employers last week, I am waiting to hear back, that is normal and it takes a little time. He does not dramatize the waiting. He does not paper over it either. Marcus is 11 and he is watching closely. Giving him a real account of what 'looking for a new job' actually looks like \u2014 you make calls, you follow up, you wait, you do not give up \u2014 is worth more than a false reassurance that everything is already sorted."
+      "content": "Someone mentioned that Frank Russo is making some kind of change \u2014 something about Check the status of the $2,500 small business stab..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Denise Williams (Parking Garage Manager): Submit two additional targeted job applications this tick \u2014 continuing the active campaign I started in tick 4 and have been advancing each month. This tick I expand specifically to two new categories I have not fully pursued: (1) regional logistics and warehouse facility management \u2014 with unemployment at 53% and supply chains stressed, logistics operators are countercyclical in a different way than hospitals and they hire operations managers; (2) municipal facilities or port authority operations \u2014 the city's infrastructure response to the RoboRide disruption is creating operational complexity that requires exactly my skill set. I write cover letters that do not mention parking. I frame the garage as a high-traffic, 24/7, multi-shift, safety-critical operations environment with budget oversight, compliance management, and revenue reconciliation. These are the credentials. The building is not."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Denise Williams (Parking Garage Manager): Reach out to Betty Kowalski directly \u2014 phone call or in-person visit if she is at the diner. I have not connected with her since ticks 4 and 5 when I made specific networking asks. This call is not a networking ask. It is a check-in from someone who has been watching the same disruption from a different angle. I tell her what I know from the garage's perspective \u2014 what the parking data shows about foot traffic trends on auto row, whether the RoboRide staging zone proposal to the owner is moving, what the city council's delivery license enforcement means for the area. That is actionable intelligence I can share. Then I listen. She is stressed \u2014 that SOCIAL signal is specific. I want to understand what she is facing. I am not coming in with a transaction. I am maintaining a relationship that matters in a community that is getting harder."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Register for the RoboRide delivery partner program..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Respond to Sarah Kim's outreach with genuine prese..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Nicole Washington is making some kind of change \u2014 something about Actively verify my employment status at Millfield ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Nicole Washington is making some kind of change \u2014 something about Maintain the $350 monthly savings deposit regardle..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Nicole Washington is making some kind of change \u2014 something about Respond to Rachel Green's $800 pilot proposal dire..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Robert Jackson (Rideshare Driver): Send a brief, warm message to Grace Okafor. Acknowledge that I know she is running the same calls to the same operators. Tell her the honest situation from my side: I have two active conversations, no offer yet, and I am going for a decision this week. If either of my contacts names a specific person she should reach out to, I pass that name to her directly. We are not competing \u2014 the demand for NEMT drivers exists because dialysis and post-acute transport are growing, not because there is exactly one opening. I share what I know."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Robert Jackson (Rideshare Driver): Follow up on the Maria Santos retraining grant status. I applied at tick 2. That is eight months ago. Either the $2,500 arrived and I missed it, or it was denied and I have been holding an expectation that does not exist. I contact the workforce development office this week \u2014 one call \u2014 to get a binary answer: funded or not funded. I do not plan around it either way, but I resolve the ambiguity."
     },
     {
       "type": "OUTCOME",
-      "content": "You Resume rideshare driving immediately, not selectively. This is no longer a strategic scheduling question \u2014 it is survival. I get back behind the wheel this week. Every hour of income I can generate in the next 30 days is an hour of runway I am buying. Yes, RoboRide has compressed demand. Yes, $0.12/mile undercuts long-distance fare expectations. But rideshare is still generating income for drivers who are in the queue, and at zero income I have no leverage to be selective. I drive morning airport windows, Friday evening if demand still holds, and any weekday blocks where surge pricing is active. Target: generate at least $600-800 in rideshare income this tick to partially offset the $1,787 monthly burn. The income will be lower than before RoboRide's expansion. I accept that. Partial income is infinitely better than zero.. Savings dropped by $1,787. "
+      "content": "You Call Millfield Medical Transport and CareRide of the Valley this week \u2014 the same operators Robert named. I have the NEMT certification in hand. I lead with that fact and state my availability clearly: I am certified, I have a clean driving record, I have a vehicle that meets commercial standards, and I can start within the week. I ask one direct question: is there an onboarding slot available and when can I schedule an interview or orientation? I do not wait for Robert's offer to confirm before calling. I act on his intelligence directly. If Robert has already spoken to these operators, I mention his name \u2014 not to piggyback on his application, but to establish that I come from the same credible pipeline he does.. Savings dropped by $68. "
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "tick": 10,
+  "tick": 11,
   "messages": [
     {
       "type": "AMBIENT",
@@ -19,35 +19,19 @@
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Have a direct, private conversation with Priya Sha..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
       "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Re-engage the strongest of the three external empl..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Continue CRMP certification coursework \u2014 now month..."
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Follow through on the promise I made to Tom Bradle..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Follow up with Betty Kowalski on the tick 8 outrea..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Respond to David Chen's informal outreach. Kevin's..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Hold the second Community Center financial office ..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Continue NMLS mortgage origination training. Modul..."
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Identify and make direct contact with whoever has ..."
     },
     {
       "type": "OUTCOME",
-      "content": "You routine. Savings dropped by $6,961. "
+      "content": "You Follow up on the Millfield Community Credit Union cold outreach from tick 9. Send a brief, professional follow-up note \u2014 not a second pitch, a check-in: did you receive my message, is there a person I should speak with about small business lending needs, and can I schedule a 20-minute conversation? This follow-up goes out within the first week of the tick. I do not wait two ticks for a response that may not come.. Savings dropped by $6,961. "
     }
   ]
 }

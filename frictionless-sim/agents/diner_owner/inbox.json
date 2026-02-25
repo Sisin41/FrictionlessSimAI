@@ -1,5 +1,5 @@
 {
-  "tick": 10,
+  "tick": 11,
   "messages": [
     {
       "type": "AMBIENT",
@@ -7,15 +7,23 @@
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 53%."
+      "content": "Local unemployment rising. Employment rate: 50%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 30 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 26 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
       "content": "You notice more robotaxis on the streets. About 7% of people seem to be using them regularly."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Carlos Ruiz \u2014 have the real conversation with sarah kim \u2014 not the senior-mechanic version where i perform stability. tell her what i actually know: rick called me, my floor is in the tier-one group for the consolidation, and the service technicians at the closed location are getting transfer offers before any external hiring happens. she should know this. i also tell her that she has named my contacts correctly \u2014 i do have names at regional ev service centers and fleet operators, and i give them to her directly. specifically: two regional fleet maintenance contacts i have been building toward through the certification network, and one ev dealership within commuting range that is actively staffing certified technicians. i also tell her honestly: being ev-certified changes her options whether she stays at this shop or goes. i am scared too about what the full consolidation means for our floor. the fear is information, not prophecy."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Carlos Ruiz \u2014 have a real conversation with elena. tell her the full picture \u2014 not just the outline she has from when i mentioned rick's call, but the actual weight of it: i am tier-one in the consolidation, which means my job is likely secure for this phase, but the service technicians from the closed location are being transferred to my floor, which changes the social and professional environment i work in. some of those people are people i know. and the longer-term question \u2014 whether this consolidation is a one-time restructuring or the beginning of a deeper contraction \u2014 is not one i can answer yet. i also tell her where the training is: six months in, four to go, and at completion i will have a credential that does not depend on any single employer. she deserves to know the full picture. i have been managing what she knows and calling it protection."
     },
     {
       "type": "SOCIAL",
@@ -23,23 +31,39 @@
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Have a real conversation with Sarah Kim \u2014 not the ..."
+      "content": "Someone mentioned that Rick Tanner is making some kind of change \u2014 something about Respond to Patricia's consulting contract offer in..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Follow up with Miguel Hernandez on last tick's out..."
+      "content": "Someone mentioned that Rick Tanner is making some kind of change \u2014 something about Have an honest, brief conversation with Jake Morri..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Attend Maria Santos's emergency task force session..."
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Have the real conversation with Sarah Kim \u2014 not th..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Make contact with Patricia Hawkins's office this w..."
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Call Miguel Hernandez back. He is ready \u2014 the word..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Have a real conversation with Elena. Tell her the ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Call Betty Kowalski this afternoon \u2014 after the tas..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Make contact with Patricia Hawkins's office \u2014 or R..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Begin drafting an updated auto row property valuat..."
     },
     {
       "type": "OUTCOME",
-      "content": "You Attend Maria Santos's emergency task force session and deliver updated testimony. Betty does not come to repeat what she said at tick 4. She comes with the updated numbers: spending index dropped from 73 to 40, savings burning at $4,268 a month, grant pending for seven ticks with no disbursement. She also comes with a specific ask \u2014 expedited review for pending applicants who are within 90 days of insolvency, and clarity on whether small commercial kitchens qualify for the delivery partnership economic development category. She is not there to mourn the diner. She is there to argue that the diner kitchen is an existing asset that can serve the community differently if the policy environment makes it possible. She uses her credibility from tick 4 testimony. She speaks last if she can \u2014 after the grievances have been aired \u2014 so she sounds like a solution, not another complaint.. Savings dropped by $4,268. "
+      "content": "You Call the RoboRide local partnership coordinator for a second and final time to get the written terms I requested at tick 8 and followed up on at tick 9. I frame this as a close, not a check-in: 'I submitted my inquiry at tick 8, I followed up at tick 9, and I am calling now because I need the written terms by end of this week to make a go/no-go decision for my kitchen. I have a 2.5-month runway and I cannot wait longer than this week for a term sheet.' I am not rude. I am specific. I give them a deadline because I have a real deadline. If they cannot produce written terms within the week, I treat the RoboRide partnership path as closed and proceed to the property valuation conversation with Stephanie Morris as the primary path.. Savings dropped by $4,268. "
     }
   ]
 }
