@@ -44,6 +44,11 @@
       "tick": 9,
       "summary": "Advance EVT Level 1 into advanced diagnostics and fault code module \u2014 10+ study hours. Begin mapping post-certification landscape with Carlos (which employers, which hiring criteria, which regional operators). Check in with Zoe Martinez as a peer, not from authority. Tom Bradley's layoff registers as a structural warning: the auto ecosystem contraction is reaching adjacent roles. The cert finish line is 60 days away. The next question after the cert is the one I need to start answering now.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 9,
+      "summary": "Complete the advanced diagnostics and fault code module of EVT Level 1 \u2014 the section following charging systems and thermal management. This is the module that bridges hardware knowledge to the software-layer diagnostics that fleet operators actually test for in hiring. Log at least 10 study hours this month, maintaining the accelerated pace from tick 8. The goal is to reach 55-60% completion by end of this tick, leaving roughly one major module and the final assessment between me and certification. I am treating the next 60 days as the finish line. I will also reach out to Carlos this week to ask specifically whether he has names or contacts at any EV service centers or fleet operators \u2014 not a job application, but a conversation about what those operators actually test for when hiring certified techs. That intelligence will help me prioritize the remaining modules and prepare for the certification exam.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -118,6 +123,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You advance into the advanced diagnostics and fault code module \u2014 the bridge between hardware knowledge and software-layer diagnostics that fleet operators test for in hiring. You reach out to Carlos to begin mapping the post-cert landscape: who hires EV-certified techs, what they actually look for, which regional operators are worth tracking. You check in with Zoe Martinez as a peer navigating the same disruption from a different angle. Savings grew by $299."
+    },
+    {
+      "tick": 9,
+      "action": "Complete the advanced diagnostics and fault code module of EVT Level 1 \u2014 the section following charging systems and thermal management. This is the module that bridges hardware knowledge to the software-layer diagnostics that fleet operators actually test for in hiring. Log at least 10 study hours this month, maintaining the accelerated pace from tick 8. The goal is to reach 55-60% completion by end of this tick, leaving roughly one major module and the final assessment between me and certification. I am treating the next 60 days as the finish line. I will also reach out to Carlos this week to ask specifically whether he has names or contacts at any EV service centers or fleet operators \u2014 not a job application, but a conversation about what those operators actually test for when hiring certified techs. That intelligence will help me prioritize the remaining modules and prepare for the certification exam.",
+      "savings_delta": 249,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Complete the advanced diagnostics and fault code module of EVT Level 1 \u2014 the section following charging systems and thermal management. This is the module that bridges hardware knowledge to the software-layer diagnostics that fleet operators actually test for in hiring. Log at least 10 study hours this month, maintaining the accelerated pace from tick 8. The goal is to reach 55-60% completion by end of this tick, leaving roughly one major module and the final assessment between me and certification. I am treating the next 60 days as the finish line. I will also reach out to Carlos this week to ask specifically whether he has names or contacts at any EV service centers or fleet operators \u2014 not a job application, but a conversation about what those operators actually test for when hiring certified techs. That intelligence will help me prioritize the remaining modules and prepare for the certification exam.. Savings grew by $249. "
     }
   ],
   "reflections": [

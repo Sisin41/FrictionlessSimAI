@@ -1,5 +1,5 @@
 {
-  "tick": 9,
+  "tick": 10,
   "messages": [
     {
       "type": "AMBIENT",
@@ -7,11 +7,11 @@
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 67%."
+      "content": "Local unemployment rising. Employment rate: 53%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 40 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 30 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
@@ -23,27 +23,35 @@
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Patricia Hawkins laid off workers: formally accelerate the consolidation timeline. call rick tanner today and inform him that the roboride residential expansion requires advancing the assessment conclusion from two weeks to 72 hours. i am not asking for a perfect document \u2014 i am asking for his current best read on which of the four locations has the weakest service-lane foundation and which has the strongest. the decision i am making is to close one sales floor location \u2014 the lowest-performing on service lane throughput and lease flexibility \u2014 by end of q2. this is not a contingency plan. i am committing to it now and asking rick to confirm which location the data supports. the service technicians at the closed location will be offered transfers to the surviving locations before any external hiring happens. sales floor staff at the closed location will be informed within one week and processed through angela's transition program."
+      "content": "Business closing: Patricia Hawkins \u2014 go to the location being closed \u2014 in person, unannounced to the staff, with no pr management around it. walk the floor. talk to the sales people who are being notified this week. do not deliver a speech. do not redirect to angela's transition program talking points. listen. acknowledge that this is a consequence of a decision i made, that i understand it affects their livelihoods, and that i will personally make calls on their behalf to anyone in my network who might be hiring. give each affected person my direct number, not a general hr contact. this is not optics management. this is what accountability looks like from someone who has the power to make the decision and has to live in the same community as the people it affects."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Tamika Jefferson laid off workers: update the three-scenario model from tick 7 with the new roboride data. specifically: recalculate the probability weight on scenario 2 (laid off before bonus vests) given that the sector index is falling faster than modeled and roboride is now in residential coverage. adjust scenario 1 (collect bonus and leave clean) to account for the delivery partnership \u2014 this is a new demand signal for local services marketing. adjust scenario 3 (freelance ramps fast enough to exit voluntarily) to require $1,050/month in freelance income, not $700 \u2014 the delivery economy is creating more opportunities but also more competition for small business marketing. the scenario map needs to reflect the new environment, not the one i was modeling last month."
+      "content": "Business closing: Rick Tanner \u2014 send patricia a direct, brief message. not a memo. not a presentation. a single paragraph: i have delivered the asset map. the consolidation is executing on the timeline we discussed. i have not received a response to the compensation component i flagged when i submitted the final document. i am asking for a 30-minute call this week \u2014 not about operations, not about the floor \u2014 specifically about the consulting arrangement for the assessment work. i am not asking her to pay me for employment i no longer hold. i am asking her to acknowledge that the work i did over the last several ticks was contracted deliverable work that has real value, and that she commit to either compensating it or declining explicitly so i can close that account and move forward. i am not going to let this drift into ambiguity. the ask is specific, the timeline is this week."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Business closing: Patricia Hawkins \u2014 formally accelerate the consolidation timeline. call rick tanner today and inform him that the roboride residential expansion requires advancing the assessment conclusion from two weeks to 72 hours. i am not asking for a perfect document \u2014 i am asking for his current best read on which of the four locations has the weakest service-lane foundation and which has the strongest. the decision i am making is to close one sales floor location \u2014 the lowest-performing on service lane throughput and lease flexibility \u2014 by end of q2. this is not a contingency plan. i am committing to it now and asking rick to confirm which location the data supports. the service technicians at the closed location will be offered transfers to the surviving locations before any external hiring happens. sales floor staff at the closed location will be informed within one week and processed through angela's transition program."
+      "content": "Business closing: Jake Morrison \u2014 go directly to rick tanner \u2014 not email, not word of mouth \u2014 and ask him two specific questions in a direct, brief conversation before the end of this week. question one: which location is patricia closing? i understand he may not be able to confirm which one is in his assessment, but i am asking him as the gm i have worked under for years to tell me what he can. question two: is my position in consideration for the transition pool, or is my location surviving? i am not panicking, i am not making demands \u2014 i am a salesperson with two kids asking the person who has the most current information to tell me what he knows. rick's trust score with me is 0.73. he is not going to lie to me. he may not know the final answer yet, but he will tell me what he has. i need this information before end of week \u2014 patricia said sales floor staff at the closed location will be informed within one week of announcement, and i cannot afford to be the last person to know."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Business closing: Rick Tanner \u2014 send patricia a direct, short message \u2014 not a long memo \u2014 attached to the revised draft. the message does two things: first, it flags the roboride pricing event and explains in two sentences why it compresses the timeline and strengthens the tier-one service lane argument. second, it puts the compensation conversation on a deadline. i am explicit: i need a formal conversation about my engagement status before the end of the two-week window, which closes in three days. i am not asking for a favor. i am asking for a contract or a clear offer, and i am telling her that the assessment is not finalized until we have had that conversation. this is not a threat \u2014 it is professional conduct."
+      "content": "Business closing: Jake Morrison \u2014 send angela wright a short, factual message \u2014 not a follow-up complaint, not an ultimatum replay \u2014 acknowledging that i received the tick 7 stay bonus memo and have reviewed the terms. ask one specific administrative question: am i individually listed as eligible, or does the memo apply to all floor sales staff currently employed without individual enrollment? i am not asking about the $12,000 itself. i am asking whether there is an individual eligibility record with my name on it, or whether i am automatically included as long as i am employed at the close of the qualifying period. this is a two-sentence administrative question that angela can answer in thirty seconds. i am not invoking the five-business-day deadline i set in my last message \u2014 that language was useful to force clarity but it does not help me now. what helps me now is getting the specific administrative answer that tells me whether i am in or not."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Business closing: Tamika Jefferson \u2014 follow up on the restaurant outreach from tick 7. if they have not responded, make a direct phone call \u2014 not another message. one 10-minute conversation is worth five emails. lead with the roboride angle: more people in residential areas now moving around without cars means lunch spots that are digitally visible will capture foot traffic that used to stop for gas first. offer the 60-day pilot at $300/month, no minimum commitment. goal: verbal yes or no by end of week. a no closes the loop so i can move to the next lead. a yes gives me $650/month freelance income, which is a materially different number than $350."
+      "content": "Business closing: Jake Morrison \u2014 work the floor this week with the roboride comparison pitch i built last tick \u2014 but target specifically: tradespeople, buyers with families and multiple-destination logistics, and anyone who has come in twice or more without closing. the pitch is still valid for a narrowing buyer pool. my goal is one close before end of month. one commission check changes my three-month runway math. i am not abandoning the floor while the location question is unresolved \u2014 i need the income and i need to be seen as the person who kept selling through uncertainty. both things are true. if my location survives, rick will remember who was on the floor when everyone else was distracted. if my location closes, i want to leave with a commission check in my pocket, not an empty month."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Community action: Tamika Jefferson \u2014 update the three-scenario model from tick 7 with the new roboride data. specifically: recalculate the probability weight on scenario 2 (laid off before bonus vests) given that the sector index is falling faster than modeled and roboride is now in residential coverage. adjust scenario 1 (collect bonus and leave clean) to account for the delivery partnership \u2014 this is a new demand signal for local services marketing. adjust scenario 3 (freelance ramps fast enough to exit voluntarily) to require $1,050/month in freelance income, not $700 \u2014 the delivery economy is creating more opportunities but also more competition for small business marketing. the scenario map needs to reflect the new environment, not the one i was modeling last month."
+      "content": "Business closing: Howard Liu \u2014 push for a definitive response from roboride fleet operations. howard calls the regional fleet ops contact again \u2014 not a re-pitch, a close. he references the vendor proposal from last tick and the $1,800+ in inventory he allocated as a demonstration of seriousness. he asks directly: 'i sent the proposal, i showed you i can move fast. i need to know this week \u2014 is there a trial order on the table, or do we need to schedule fifteen minutes with your fleet maintenance supervisor to make that happen?' howard frames the ask as respecting their time: he is not looking for a maybe, he is looking for a path to yes or a clear no so he can plan his inventory accordingly. if they are not the right contact, he asks who is. the goal of this call is a scheduled meeting with fleet maintenance or a trial order within two weeks."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "New venture: Howard Liu \u2014 reach out to angela wright to acknowledge her business launch and propose a placement partnership. howard sends a brief, personal message \u2014 not a business pitch, a genuine note \u2014 acknowledging that he heard she is launching wright workforce advisory llc and that he thinks it is the right move at the right time. then he makes a specific ask: as she begins working with the sales floor staff being processed out of the closing location, he wants first introduction to any candidate with parts counter, service advisor, or general automotive inventory experience. he frames it explicitly as a two-way arrangement: he gives her a referral source for anyone in the auto sector who needs workforce coaching or resume help, she gives him first look at candidates before they hit the public job boards. he also mentions he is available to be a reference client for her new llc if that is useful as she builds credibility in the market."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "New venture: Howard Liu \u2014 return mark thompson's outreach. howard calls mark and asks a direct, open question: 'i heard you have been trying to reach me \u2014 what is on your mind?' howard listens first. if mark is looking to discuss parts sourcing for the school's auto shop program, howard offers a standing educator discount and will commit to keeping ev diagnostic and hybrid-specific consumables in stock as the curriculum evolves. if mark is asking about the millfield auto tech pipeline \u2014 which word of mouth suggests he is working on \u2014 howard asks how he can support it. howard also plants his own seed: he mentions he is looking for one part-time person with automotive knowledge and asks whether mark ever has graduates or parents in his network who are looking for part-time work. the goal of the call is to understand what mark actually wants and to surface one mutual value exchange."
     },
     {
       "type": "SOCIAL",
@@ -51,55 +59,35 @@
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Patricia Hawkins is making some kind of change \u2014 something about Formally accelerate the consolidation timeline. Ca..."
+      "content": "Someone mentioned that Patricia Hawkins is making some kind of change \u2014 something about Call Rick Tanner today \u2014 not by end of week, today..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Patricia Hawkins is making some kind of change \u2014 something about Send a brief, professional note to Angela Wright a..."
+      "content": "Someone mentioned that Patricia Hawkins is making some kind of change \u2014 something about Have a direct, private conversation with Angela Wr..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Patricia Hawkins is making some kind of change \u2014 something about Reach out to Tamika Jefferson directly \u2014 not throu..."
+      "content": "You heard directly from Jake Morrison (Car Salesperson): Send Angela Wright a short, factual message \u2014 not a follow-up complaint, not an ultimatum replay \u2014 acknowledging that I received the tick 7 stay bonus memo and have reviewed the terms. Ask one specific administrative question: am I individually listed as eligible, or does the memo apply to all floor sales staff currently employed without individual enrollment? I am not asking about the $12,000 itself. I am asking whether there is an individual eligibility record with my name on it, or whether I am automatically included as long as I am employed at the close of the qualifying period. This is a two-sentence administrative question that Angela can answer in thirty seconds. I am not invoking the five-business-day deadline I set in my last message \u2014 that language was useful to force clarity but it does not help me now. What helps me now is getting the specific administrative answer that tells me whether I am in or not."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that David Chen is making some kind of change \u2014 something about Follow up directly with Linda Park on the tick 7 o..."
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Follow up with Betty Kowalski on the tick 8 outrea..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that David Chen is making some kind of change \u2014 something about Make contact with Kevin O'Brien informally \u2014 not a..."
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Respond to David Chen's informal outreach. Kevin's..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Rick Tanner is making some kind of change \u2014 something about Send Patricia a direct, short message \u2014 not a long..."
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Hold the second Community Center financial office ..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Jake Morrison (Car Salesperson): Find Tamika before end of week \u2014 not a formal sit-down, just a real conversation in a low-pressure moment, before a shift or at lunch. Ask her how she's doing, genuinely. Let her bring up whatever she's working on. If she's exploring outside options, I want to know what she's found. If she's building something, I want to understand it. I am not going to ask her to take me with her. I am going to listen to someone who is in the same position I am and who appears to be moving."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Tamika Jefferson (Car Salesperson): Contact Angela Wright to confirm receipt of the stay bonus eligibility memo and ask one specific clarifying question: what is the exact qualifying end date based on my registration in tick 5? I am not asking whether I qualify. I registered. The memo is out. I need the date so I can plan with precision. Frame it professionally: I want to make sure my calendar is correct so I can plan accordingly. This is a factual administrative question, not a negotiation. One message, one question, one date."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Tom Bradley is making some kind of change \u2014 something about Tom sends Linda Park a brief, direct note \u2014 not th..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Reach out to Betty Kowalski directly \u2014 not as a so..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Continue the NMLS mortgage origination training. M..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Hold the Community Center financial office hours s..."
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Continue NMLS mortgage origination training. Modul..."
     },
     {
       "type": "OUTCOME",
-      "content": "You Formally launch and register workforce transition consulting entity \u2014 file LLC formation documents with state business registry, select and register business name ('Wright Workforce Advisory LLC' or equivalent), pay filing fees from savings, open a dedicated business checking account. This formalizes the methodology and exit path Angela has been building since tick 0. The RoboRide price drop to $0.12/mile with residential coverage and delivery partnerships represents a step-function expansion of the automotive workforce transition market \u2014 the moment to start the business is now, not after the next disruption event.. Savings dropped by $923. "
+      "content": "You Execute transition program intake for displaced workers from the closed location. This is the primary task this tick. Contact every displaced sales floor staff member personally \u2014 phone call, not email. Use the vulnerability map and transition pathway templates I have built since tick 4 to route each person to the most appropriate pathway: (a) internal transfer consideration if any service-adjacent skills map to open service lane roles at surviving locations; (b) retraining referral through Millfield Community College if they have transferable technical aptitude; (c) direct connection to David Chen at First Community Bank for small-dollar products if they need bridge financing while searching; (d) resume and reference support for any who want to move into adjacent sectors where my professional network has reach. Document every contact, every referral made, every outcome. This documentation serves two purposes: it is the administrative record Patricia's organization needs, and it is the case study that Wright Workforce Advisory LLC will eventually use to demonstrate its methodology to prospective clients. I am not billing for this work \u2014 I am employed by Regional Auto Group. But I am building the proof of concept that makes the first invoice possible.. Savings dropped by $2,117. "
     }
   ]
 }

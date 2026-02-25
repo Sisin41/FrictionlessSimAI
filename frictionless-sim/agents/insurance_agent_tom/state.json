@@ -30,8 +30,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 13.3,
-      "threat_level": 0.52,
+      "runway_months": 14.6,
+      "threat_level": 0,
       "monthly_essentials": 3100,
       "health_cost_from_stress": 0
     },
@@ -80,19 +80,19 @@
       "availability_heuristic": 0.55,
       "social_proof_sensitivity": 0.62
     },
-    "sentiment": "grief_with_clarity"
+    "sentiment": "grief with clarity"
   },
   "psychological": {
     "stress_level": 0.72,
     "agency": 0.58,
     "grief_stage": "acceptance_early",
-    "temporal_horizon_months": 13,
-    "high_stress_ticks": 1
+    "temporal_horizon_months": 5,
+    "high_stress_ticks": 2
   },
   "financial": {
     "monthly_income": 0,
     "monthly_expenses": 2650,
-    "savings": 41223,
+    "savings": 38573,
     "debt_total": 18526,
     "credit_score": 789
   },
@@ -106,7 +106,7 @@
     },
     {
       "type": "employment",
-      "description": "30-day notice period at AutoShield — final month. Laid off by Linda Park, structural reasons. Personal auto book down 21%. Reference offered.",
+      "description": "30-day notice period at AutoShield \u2014 final month. Laid off by Linda Park, structural reasons. Personal auto book down 21%. Reference offered.",
       "monthly_income": 6200,
       "remaining_months": 1,
       "exit_cost_months": 0
@@ -140,6 +140,6 @@
     "willingness_to_move": 0.0
   },
   "locality": "millfield",
-  "archetype": "adapter",
+  "archetype": "adapter \u2014 in transition, actively",
   "tick_updated": 9
 }

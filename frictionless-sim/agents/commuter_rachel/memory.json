@@ -42,8 +42,13 @@
     },
     {
       "tick": 9,
-      "summary": "Deliver 4-hour pro bono communications template kit to Lisa Freeman at the community center. Push Nicole Washington pilot to a real closing ask — yes or no, not another follow-up. Make first contact with Angela Wright following her LLC launch to explore referral relationship. Confirm $400/month debt reduction redirect from transportation savings.",
-      "emotional_state": "grounded and quietly urgent — not panicked, but no longer comfortable with slow movement"
+      "summary": "Deliver 4-hour pro bono communications template kit to Lisa Freeman at the community center. Push Nicole Washington pilot to a real closing ask \u2014 yes or no, not another follow-up. Make first contact with Angela Wright following her LLC launch to explore referral relationship. Confirm $400/month debt reduction redirect from transportation savings.",
+      "emotional_state": "grounded and quietly urgent \u2014 not panicked, but no longer comfortable with slow movement"
+    },
+    {
+      "tick": 9,
+      "summary": "Deliver on the 4-hour pro bono communications commitment to Lisa Freeman at the community center. Rachel schedules and completes the work this tick: she drafts a communications template kit including a press release format, a social media post structure, and a donor outreach email \u2014 tailored to the community center's actual programs and language. She sends the completed kit to Lisa with a brief cover note explaining each element and offering one 30-minute follow-up call to walk through usage. This is not a soft touch. This is a completed deliverable. Rachel made a commitment and she is keeping it, which is the single highest-trust-building action available to her at trust score 0.32 with Lisa.",
+      "emotional_state": "grounded and quietly urgent \u2014 not panicked, but no longer comfortable with slow movement"
     }
   ],
   "past_outcomes": [
@@ -110,6 +115,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Post a specific, grounded LinkedIn piece about commuting cost reduction via roboride and robotaxi adoption \u2014 framing it from a marketing professional's perspective on consumer behavior shift. Not a personal testimonial. A sharp, data-forward take on what a spending index of 42 and robotaxi adoption curves mean for brands trying to reach cost-pressured consumers. Attach it to a concrete content insight. This positions me as someone who reads the market clearly and communicates it crisply. It is also visible to my manager, to my professional network, and to potential freelance clients who need someone who can translate disruption into messaging.. Savings grew by $591. "
+    },
+    {
+      "tick": 9,
+      "action": "Deliver on the 4-hour pro bono communications commitment to Lisa Freeman at the community center. Rachel schedules and completes the work this tick: she drafts a communications template kit including a press release format, a social media post structure, and a donor outreach email \u2014 tailored to the community center's actual programs and language. She sends the completed kit to Lisa with a brief cover note explaining each element and offering one 30-minute follow-up call to walk through usage. This is not a soft touch. This is a completed deliverable. Rachel made a commitment and she is keeping it, which is the single highest-trust-building action available to her at trust score 0.32 with Lisa.",
+      "savings_delta": 591,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Deliver on the 4-hour pro bono communications commitment to Lisa Freeman at the community center. Rachel schedules and completes the work this tick: she drafts a communications template kit including a press release format, a social media post structure, and a donor outreach email \u2014 tailored to the community center's actual programs and language. She sends the completed kit to Lisa with a brief cover note explaining each element and offering one 30-minute follow-up call to walk through usage. This is not a soft touch. This is a completed deliverable. Rachel made a commitment and she is keeping it, which is the single highest-trust-building action available to her at trust score 0.32 with Lisa.. Savings grew by $591. "
     }
   ],
   "reflections": [

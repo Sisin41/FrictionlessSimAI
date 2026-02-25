@@ -42,8 +42,13 @@
     },
     {
       "tick": 9,
-      "summary": "Resume rideshare driving immediately to generate income (savings at $1,855, one month runway). Complete NEMT certification and begin direct outreach to Millfield Medical Transport and CareRide. Full intelligence exchange with Robert Jackson — hospital network signals for operator contact names. Final direct ask to Nicole Washington for a warm introduction. Brief maintenance message to Denise Williams. Grant treated as zero going forward.",
+      "summary": "Resume rideshare driving immediately to generate income (savings at $1,855, one month runway). Complete NEMT certification and begin direct outreach to Millfield Medical Transport and CareRide. Full intelligence exchange with Robert Jackson \u2014 hospital network signals for operator contact names. Final direct ask to Nicole Washington for a warm introduction. Brief maintenance message to Denise Williams. Grant treated as zero going forward.",
       "emotional_state": "Tense but functional. Urgency without panic. The plan is still executable but the margin is gone and I know it."
+    },
+    {
+      "tick": 9,
+      "summary": "Resume rideshare driving immediately, not selectively. This is no longer a strategic scheduling question \u2014 it is survival. I get back behind the wheel this week. Every hour of income I can generate in the next 30 days is an hour of runway I am buying. Yes, RoboRide has compressed demand. Yes, $0.12/mile undercuts long-distance fare expectations. But rideshare is still generating income for drivers who are in the queue, and at zero income I have no leverage to be selective. I drive morning airport windows, Friday evening if demand still holds, and any weekday blocks where surge pricing is active. Target: generate at least $600-800 in rideshare income this tick to partially offset the $1,787 monthly burn. The income will be lower than before RoboRide's expansion. I accept that. Partial income is infinitely better than zero.",
+      "emotional_state": "Tense but functional. The difference between panic and urgency is that urgency moves toward a plan. I have a plan. The runway is dangerously short but it is not zero. I have a credential in progress, two specific operators to call, the highest-trust network node asking me directly for an exchange, and one month to make the NEMT placement happen. I am scared in the way that makes you move faster, not the way that makes you freeze. I have been here before \u2014 not this exact situation, but the structure of it. You run the plan and you do not stop to mourn the plan that stopped working."
     }
   ],
   "past_outcomes": [
@@ -110,6 +115,14 @@
       "stress_delta": -0.02,
       "employment_changed": true,
       "narrative": "You Contact the workforce development office again \u2014 this time to get a definitive answer on the grant. The window I calculated at tick 5 has now fully elapsed. 6 to 8 weeks from the tick 5 application puts the decision at tick 7 or tick 8. I called at tick 7 for a status update. This tick I follow up on whatever they told me. If the decision has been made, I need the number immediately \u2014 a grant of any size changes my second-half tuition math and may allow me to shift to a heavier course load to accelerate my credential by 1-2 months, which directly addresses the runway problem. If the decision is delayed past 8 weeks, I treat the grant as unreliable and build without it. I need a binary answer this tick: funded or not funded, and if funded, how much. I act accordingly on the tuition front the moment I have that number.. Savings dropped by $1,787. Employment status changed to unemployed. "
+    },
+    {
+      "tick": 9,
+      "action": "Resume rideshare driving immediately, not selectively. This is no longer a strategic scheduling question \u2014 it is survival. I get back behind the wheel this week. Every hour of income I can generate in the next 30 days is an hour of runway I am buying. Yes, RoboRide has compressed demand. Yes, $0.12/mile undercuts long-distance fare expectations. But rideshare is still generating income for drivers who are in the queue, and at zero income I have no leverage to be selective. I drive morning airport windows, Friday evening if demand still holds, and any weekday blocks where surge pricing is active. Target: generate at least $600-800 in rideshare income this tick to partially offset the $1,787 monthly burn. The income will be lower than before RoboRide's expansion. I accept that. Partial income is infinitely better than zero.",
+      "savings_delta": -1787,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Resume rideshare driving immediately, not selectively. This is no longer a strategic scheduling question \u2014 it is survival. I get back behind the wheel this week. Every hour of income I can generate in the next 30 days is an hour of runway I am buying. Yes, RoboRide has compressed demand. Yes, $0.12/mile undercuts long-distance fare expectations. But rideshare is still generating income for drivers who are in the queue, and at zero income I have no leverage to be selective. I drive morning airport windows, Friday evening if demand still holds, and any weekday blocks where surge pricing is active. Target: generate at least $600-800 in rideshare income this tick to partially offset the $1,787 monthly burn. The income will be lower than before RoboRide's expansion. I accept that. Partial income is infinitely better than zero.. Savings dropped by $1,787. "
     }
   ],
   "reflections": [

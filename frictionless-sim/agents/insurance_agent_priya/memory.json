@@ -44,6 +44,11 @@
       "tick": 9,
       "summary": "Follow up on tick 8 applications and submit one additional application. Reach out to Tom Bradley directly after his layoff. Complete SQL Module 4 and update LinkedIn profile and application materials. Apply for Maria Santos retraining grant \u2014 stop deferring it.",
       "emotional_state": "focused, with a layer of grief I am not suppressing"
+    },
+    {
+      "tick": 9,
+      "summary": "Follow up on both tick 8 applications \u2014 a brief, professional message to each, not a request for status but an added value touch: include the fleet incident data query output as an attached portfolio artifact if I have not already sent it, or reference a specific detail from the job description to demonstrate I read it carefully. The goal is to stay visible without being desperate. Also submit at least one additional application this tick \u2014 expand beyond the two companies I targeted last tick, specifically looking at regional insurtech firms and commercial fleet risk roles. This is a job search, not a wait.",
+      "emotional_state": "focused, with a layer of grief I am not suppressing"
     }
   ],
   "past_outcomes": [
@@ -110,6 +115,14 @@
       "stress_delta": -0.02,
       "employment_changed": true,
       "narrative": "You Open an active job search for data analyst, risk analyst, or insurtech roles. Not informational interviews \u2014 actual applications. Target: at least two applications submitted this tick. Platforms: LinkedIn, Indeed, direct applications to insurtech firms in the region. Focus on roles that cite SQL, data visualization, or commercial fleet risk as requirements. Use the Module 3 query output as a portfolio artifact. Be honest about current employment status and timeline. I am not desperate. I am a 29-year-old with insurance domain knowledge, three completed SQL/data viz modules, a working fleet incident data query, and a clear-eyed read on where my industry is going. That is a real candidate.. Savings dropped by $3,341. Employment status changed to unemployed. "
+    },
+    {
+      "tick": 9,
+      "action": "Follow up on both tick 8 applications \u2014 a brief, professional message to each, not a request for status but an added value touch: include the fleet incident data query output as an attached portfolio artifact if I have not already sent it, or reference a specific detail from the job description to demonstrate I read it carefully. The goal is to stay visible without being desperate. Also submit at least one additional application this tick \u2014 expand beyond the two companies I targeted last tick, specifically looking at regional insurtech firms and commercial fleet risk roles. This is a job search, not a wait.",
+      "savings_delta": -3341,
+      "stress_delta": 0.2,
+      "employment_changed": false,
+      "narrative": "You Follow up on both tick 8 applications \u2014 a brief, professional message to each, not a request for status but an added value touch: include the fleet incident data query output as an attached portfolio artifact if I have not already sent it, or reference a specific detail from the job description to demonstrate I read it carefully. The goal is to stay visible without being desperate. Also submit at least one additional application this tick \u2014 expand beyond the two companies I targeted last tick, specifically looking at regional insurtech firms and commercial fleet risk roles. This is a job search, not a wait.. Savings dropped by $3,341. "
     }
   ],
   "reflections": [

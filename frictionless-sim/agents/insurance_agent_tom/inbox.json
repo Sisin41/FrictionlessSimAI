@@ -1,5 +1,5 @@
 {
-  "tick": 9,
+  "tick": 10,
   "messages": [
     {
       "type": "AMBIENT",
@@ -15,15 +15,31 @@
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Linda Park laid off workers: lay off tom bradley. schedule a direct, private conversation this week. tell him the personal auto book has declined 21% from baseline and the roboride residential expansion will push it further. the regional headcount cannot support two field agents on a contracting book. give him a 30-day notice with a professional reference and a specific offer to introduce him to the logistics and fleet contacts i have been cultivating through my own job search. this is not a performance issue \u2014 it is a structural one, and i will say that plainly. i will not soften it into ambiguity."
+      "content": "Business closing: Linda Park \u2014 formally close the autoshield corporate loop and shift to primary exit mode. the 14-day deadline has passed with no response. i will send one final, brief internal communication \u2014 not another memo, not another recommendation \u2014 simply a written record that i am noting the absence of a response and that i am proceeding under the assumption that no commercial fleet pivot authorization is forthcoming. this creates a clean paper trail. i am not burning the relationship; i am documenting the outcome professionally. from this tick forward, my primary professional energy shifts from operating this regional office toward positioning myself for the next role. autoshield employment remains intact as income \u2014 i am not resigning \u2014 but i am no longer treating internal advocacy as a viable primary path."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Community action: James Patterson \u2014 follow up on the howard liu outreach from tick 7. if he responded, have the actual conversation \u2014 coffee or a call, his choice. if he did not respond, send a shorter follow-up: one line, just a coffee ask, no pressure framing. the goal of this interaction is information exchange and relationship depth, not extraction. howard is watching roboride's delivery partnership announcement from a direct-competition angle \u2014 his auto parts business is already under pressure from declining car ownership. the delivery partnership means roboride is becoming logistics infrastructure. that is either a threat to howard's existing pivot strategy or a new vector he has not fully mapped. i want to know which it is. i am also willing to share what i know from the tech side \u2014 fleet software architecture, how delivery routing optimization tends to work. that is a genuine offer, not a transaction. high-trust contact. time to act like it."
+      "content": "Business closing: Jake Morrison \u2014 go directly to rick tanner \u2014 not email, not word of mouth \u2014 and ask him two specific questions in a direct, brief conversation before the end of this week. question one: which location is patricia closing? i understand he may not be able to confirm which one is in his assessment, but i am asking him as the gm i have worked under for years to tell me what he can. question two: is my position in consideration for the transition pool, or is my location surviving? i am not panicking, i am not making demands \u2014 i am a salesperson with two kids asking the person who has the most current information to tell me what he knows. rick's trust score with me is 0.73. he is not going to lie to me. he may not know the final answer yet, but he will tell me what he has. i need this information before end of week \u2014 patricia said sales floor staff at the closed location will be informed within one week of announcement, and i cannot afford to be the last person to know."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Community action: Dorothy Chen \u2014 stop by betty's diner again this week. i went last tick and i will go again \u2014 not to hover, not to perform concern, but because sustained presence is different from a single visit. a single visit can be curiosity. coming back is a relationship. i will order a meal, tip well, and if betty has bandwidth to talk i will be there for it. if she is slammed, i will eat my food and leave without demanding her attention. i will also mention, if it comes up naturally, that i have heard the roboride delivery partnership has started \u2014 not as a business suggestion she did not ask for, but because it might be worth knowing that robotaxis can now deliver food, which could be either competition or opportunity depending on how she wants to think about it. i will not frame it for her. i will just mention it exists."
+      "content": "Business closing: Jake Morrison \u2014 send angela wright a short, factual message \u2014 not a follow-up complaint, not an ultimatum replay \u2014 acknowledging that i received the tick 7 stay bonus memo and have reviewed the terms. ask one specific administrative question: am i individually listed as eligible, or does the memo apply to all floor sales staff currently employed without individual enrollment? i am not asking about the $12,000 itself. i am asking whether there is an individual eligibility record with my name on it, or whether i am automatically included as long as i am employed at the close of the qualifying period. this is a two-sentence administrative question that angela can answer in thirty seconds. i am not invoking the five-business-day deadline i set in my last message \u2014 that language was useful to force clarity but it does not help me now. what helps me now is getting the specific administrative answer that tells me whether i am in or not."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Jake Morrison \u2014 work the floor this week with the roboride comparison pitch i built last tick \u2014 but target specifically: tradespeople, buyers with families and multiple-destination logistics, and anyone who has come in twice or more without closing. the pitch is still valid for a narrowing buyer pool. my goal is one close before end of month. one commission check changes my three-month runway math. i am not abandoning the floor while the location question is unresolved \u2014 i need the income and i need to be seen as the person who kept selling through uncertainty. both things are true. if my location survives, rick will remember who was on the floor when everyone else was distracted. if my location closes, i want to leave with a commission check in my pocket, not an empty month."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Robert Jackson \u2014 have a brief, honest follow-up conversation with marcus. he knows from the tick 8 conversation that dad completed the certificate and is working on a new job. this tick: if marcus asks how it is going, robert tells him the truth in terms a kid can hold \u2014 i made some calls to new employers last week, i am waiting to hear back, that is normal and it takes a little time. he does not dramatize the waiting. he does not paper over it either. marcus is 11 and he is watching closely. giving him a real account of what 'looking for a new job' actually looks like \u2014 you make calls, you follow up, you wait, you do not give up \u2014 is worth more than a false reassurance that everything is already sorted."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: Priya Sharma \u2014 follow up on both tick 8 applications \u2014 a brief, professional message to each, not a request for status but an added value touch: include the fleet incident data query output as an attached portfolio artifact if i have not already sent it, or reference a specific detail from the job description to demonstrate i read it carefully. the goal is to stay visible without being desperate. also submit at least one additional application this tick \u2014 expand beyond the two companies i targeted last tick, specifically looking at regional insurtech firms and commercial fleet risk roles. this is a job search, not a wait."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: Dorothy Chen \u2014 propose to lisa freeman at the community center that the transportation sessions i have been co-facilitating be expanded into a broader 'economic transition for older adults' workshop series \u2014 two sessions per month rather than one, covering not just transportation but also: how to evaluate whether to retrain at 60 or 70, how to talk to adult children about financial uncertainty without creating panic, and what community resources currently exist in millfield for people who are employed but precarious. the community stress level and protest count tell me that people do not just need transportation information. they need a space where the wider disruption can be named and worked through by people who are not in crisis themselves. i am not in crisis. i am a retired teacher with stable income and experience facilitating groups of adults. this is exactly the kind of thing i can offer and lisa's team cannot staff alone."
     },
     {
       "type": "SOCIAL",
@@ -31,75 +47,67 @@
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Send a second internal memo to AutoShield corporat..."
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Have a direct, private conversation with Priya Sha..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Continue CRMP certification coursework \u2014 now in mo..."
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Re-engage the strongest of the three external empl..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Jake Morrison is making some kind of change \u2014 something about Find Tamika before end of week \u2014 not a formal sit-..."
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Continue CRMP certification coursework \u2014 now month..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Reach out to Miguel Hernandez \u2014 not as a mentor gi..."
+      "content": "Someone mentioned that Jake Morrison is making some kind of change \u2014 something about Send Angela Wright a short, factual message \u2014 not ..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about Tell Linda directly, in a brief in-person or writt..."
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Have a real conversation with Sarah Kim \u2014 not the ..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Contact RoboRide local partnership coordinator to ..."
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Follow up with Miguel Hernandez on last tick's out..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Betty goes to Carlos Ruiz's shop and buys him lunc..."
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Attend Maria Santos's emergency task force session..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Betty attends Kevin O'Brien's office hours at the ..."
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Follow up with RoboRide partnership coordinator on..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that James Patterson is making some kind of change \u2014 something about Follow up on the Howard Liu outreach from tick 7. ..."
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Call Carlos Ruiz. The lunch at tick 8 opened the c..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that James Patterson is making some kind of change \u2014 something about Recalibrate the monthly roboride transport budget ..."
+      "content": "Someone mentioned that James Patterson is making some kind of change \u2014 something about Follow up with Howard Liu \u2014 coffee or a short call..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Use my slot at the Community Center transportation..."
+      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Return to Betty's Diner for a third consecutive ti..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Stop by Betty's Diner again this week. I went last..."
+      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Reach out to Robert Jackson, the rideshare driver ..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Send Tamika Jefferson a brief, direct note \u2014 by te..."
+      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Propose to Lisa Freeman at the community center th..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Attend Kevin O'Brien's Thursday evening office hou..."
+      "content": "Someone mentioned that Robert Jackson is making some kind of change \u2014 something about Respond directly to Grace Okafor's conditional ask..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Robert Jackson is making some kind of change \u2014 something about Contact Grace Okafor (uber_driver_2) with a direct..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Robert Jackson is making some kind of change \u2014 something about Maintain rideshare driving at a reduced but stable..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Robert Jackson is making some kind of change \u2014 something about Check in with Marcus \u2014 not a full disclosure of th..."
+      "content": "Someone mentioned that Robert Jackson is making some kind of change \u2014 something about Have a brief, honest follow-up conversation with M..."
     },
     {
       "type": "OUTCOME",
-      "content": "You Apply formally for the $2,500 workforce retraining grant through Maria Santos's office. Tom fills out the application not as a hedge or a symbol but as a concrete financial and strategic act. He names the target: commercial risk analytics or insurance underwriting support roles that can survive the AV transition. He documents his 28 years of risk assessment experience as directly transferable to data-adjacent roles. He does not frame this as distress \u2014 he frames it as professional development. But internally he is clear: this is not professional development, this is survival infrastructure.. Savings dropped by $5,189. Employment status changed to unemployed. "
+      "content": "You Tom has a real conversation with his wife Sarah. Not a managed disclosure, not the version designed to reassure her. The actual conversation \u2014 what the 30 days looks like, what the savings number is, what the runway is, what the plan is to the extent there is a plan. He tells her about the retraining grant application. He tells her about Linda's offer to connect him to fleet and logistics contacts. He listens to what she is actually feeling, not what she is performing for him. This is the most important action of tick 9 and it is not on any professional to-do list.. Savings dropped by $2,650. "
     }
   ]
 }

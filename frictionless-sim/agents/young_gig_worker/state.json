@@ -75,7 +75,7 @@
       "availability_heuristic": 0.55,
       "social_proof_sensitivity": 0.6
     },
-    "sentiment": "determined"
+    "sentiment": "There is a flatness to this tick that is different from anxiety. Anxiety has energy in it \u2014 urgency, momentum, even if it is chaotic. This is more like the feeling after you have been running and you realize you have been running for a long time and you are still not where you thought you would be by now. I am not panicking. I am not frozen. I am just very aware that the distance between where I am \u2014 zero savings, no stable income, 22% through a cert that takes eight months \u2014 and where I need to be is significant, and the time window is not getting longer. The RoboRide delivery pivot feels right. Getting inside the system instead of running from it. The freelance pitch is overdue \u2014 I have been building up to it for two ticks and it is time to stop preparing and start closing. The TikTok is something I actually want to make. That matters right now. I need at least one thing this month that I do because it is mine, not just because it keeps the math from getting worse."
   },
   "psychological": {
     "stress_level": 0.17,
@@ -121,6 +121,6 @@
     "willingness_to_move": 0.95
   },
   "locality": "millfield",
-  "archetype": "adapter",
-  "tick_updated": 8
+  "archetype": "I am an adapter. I know that is what I am supposed to be. But adapting requires both seeing clearly and moving fast, and I am behind on the moving-fast part. I saw the RoboRide disruption early. I enrolled in the cert early. I built the right relationships. And then I stalled on execution \u2014 on actually closing clients, on actually signing up for the delivery partnership. The tick 6 reflection named this: I was coasting on the version of myself from tick 1. This tick I need to prove the adapter identity is real by doing the things, not just planning them. The adapter does not just see the shift \u2014 the adapter gets to the other side of it.",
+  "tick_updated": 9
 }

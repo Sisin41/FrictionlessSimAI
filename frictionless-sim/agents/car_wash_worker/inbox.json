@@ -1,5 +1,5 @@
 {
-  "tick": 9,
+  "tick": 10,
   "messages": [
     {
       "type": "AMBIENT",
@@ -7,11 +7,11 @@
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 67%."
+      "content": "Local unemployment rising. Employment rate: 53%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 40 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 30 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
@@ -23,15 +23,27 @@
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Business closing: Zoe Martinez \u2014 follow up aggressively on the freelance social media management pitches from tick 7. if i pitched two or three businesses last tick, i am following up by phone or in person this week \u2014 not waiting for them to come to me. i am also expanding the outreach: the diner, any small business on or adjacent to auto row that is still posting on instagram and clearly struggling with their social presence. my rate is $100 to $150 per month. i am pitching the value specifically: in a month where consumer spending is down 58% from baseline and foot traffic is soft, local businesses that stay visible and human on social media have a real edge. i know how to make that happen. i have the phone in my hand right now. the goal this tick is to close at least one paying client before the end of the month \u2014 even $100 is real money at zero savings."
+      "content": "Business closing: Zoe Martinez \u2014 i have pitched two or three businesses over the past two ticks. this week i stop waiting for email replies. i call them directly or walk in. i am targeting: the diner (betty's if she is open to it, or the next closest), any small business near auto row that is still trying to maintain a social media presence and clearly does not have the bandwidth to do it well. my pitch is specific and economic: consumer spending is down 60% from baseline, foot traffic is soft, and local businesses that stay visible and humanly present on social media have a measurable edge over ones that go dark. i know how to do that. rate: $100 to $150 per month per client. goal this tick is to land at least one paying client. even $100 is real income at zero savings. if i close even one client before end of month, that is the first proof that the cert is not just a credential \u2014 my skills are already worth something to someone now."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Community action: Dorothy Chen \u2014 stop by betty's diner again this week. i went last tick and i will go again \u2014 not to hover, not to perform concern, but because sustained presence is different from a single visit. a single visit can be curiosity. coming back is a relationship. i will order a meal, tip well, and if betty has bandwidth to talk i will be there for it. if she is slammed, i will eat my food and leave without demanding her attention. i will also mention, if it comes up naturally, that i have heard the roboride delivery partnership has started \u2014 not as a business suggestion she did not ask for, but because it might be worth knowing that robotaxis can now deliver food, which could be either competition or opportunity depending on how she wants to think about it. i will not frame it for her. i will just mention it exists."
+      "content": "Business closing: Stephanie Morris \u2014 follow up with amir patel today \u2014 by phone, not email \u2014 to close two things: the valuation fee for the tick 8 site visit, and a decision on what kind of ongoing engagement he wants. his inbox shows he is pursuing the ev charger financing and the chargepoint partnership proposal. he took the ev retrofit scenario from my four-scenario analysis and is executing on it \u2014 that is exactly what the analysis was designed to enable. my call acknowledges that directly: 'you are moving on the ev retrofit path. that is a real decision and the timeline you are working with \u2014 locking financing and getting the chargepoint proposal before committing \u2014 is exactly the right sequence.' then i ask the direct question: does he want me involved in the transaction side? if he pursues the ev retrofit and stays as owner-operator, he may eventually want to lease surplus space or sell the property in a converted state \u2014 that is a future listing. if the ev retrofit economics come back worse than expected from the chargepoint proposal, he may pivot to the sale path. either way, i want a clear engagement \u2014 either a consulting arrangement for the advisory work i have already done, or a listing agreement contingent on which path he chooses. the valuation fee for tick 8 was $1,500 \u2014 standard commercial property assessment fee for a two-hour site visit with written deliverables. i raise it directly, professionally, and i give him 30 days to pay it. i do not let the fee conversation linger indefinitely."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Community action: Zoe Martinez \u2014 investigate and sign up for roboride's delivery partnership program this week. my angle is different from a car-based delivery driver: i am foot and bicycle, which means i am the last-mile layer \u2014 the piece of the delivery chain that gets from the roboride drop point to the apartment door, the thing autonomous vehicles literally cannot do yet. research the partner registration process, check whether millfield's new residential coverage area includes the neighborhoods where i already run doordash routes, and if the rates are competitive or better, begin shifting my hours toward roboride delivery and away from legacy platforms. if roboride is going to compress doordash and uber eats margins anyway \u2014 and at $0.12/mile with 8-minute waits they will \u2014 i want to be inside the system that is winning, not outside the one that is losing. i am also making a short tiktok about this: 'car-free gig worker perspective on the roboride delivery expansion \u2014 here is what it actually means if your hustle is on a bike.' that content is authentic, timely, and builds my social media presence while i research."
+      "content": "Business closing: Stephanie Morris \u2014 call betty kowalski after the task force session \u2014 late afternoon, not morning. i want to call her with something specific from the session: what the policy environment actually looks like right now, whether the licensing framework changes are going to be stabilizing or destabilizing for auto row, and whether the adaptive reuse permitting question came up. that is actionable intelligence that no one else will give her today. before the call, i know from word-of-mouth that she is attending kevin o'brien's office hours and exploring the roboride delivery partnership. i do not pretend i do not know this. i lead with it: 'i heard you went to kevin's office hours. smart move \u2014 knowing your financing options matters regardless of what you decide about the property.' that normalizes her deliberation without pressuring it. then i give her the task force read. then i ask the direct question i have been holding since tick 7: is she ready to walk the property with me and get the formal written valuation she can use with her landlord or a buyer? if yes, i bring the listing agreement. if not, i give her a specific deadline \u2014 not a pressure tactic, but an honest one: the spending index at 40 and employment at 67% mean the buyer pool is thinner every week. i will not tell her the window closes faster than it actually does. but i will tell her the truth, which is that the window is not getting wider."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Stephanie Morris \u2014 make contact with patricia hawkins's office this week \u2014 or rick tanner directly if his relationship with stephanie can be established \u2014 about the dealership location that is being closed by end of q2. from the inbox intelligence: patricia is formally committing to close one sales floor location, and rick tanner is her analyst on the consolidation assessment. the service technicians are getting transfer offers; sales floor staff are being informed within a week. this means the property decision is coming within weeks, not months. i reach out with a specific, brief message that references my market brief from tick 1 and the nine ticks of auto row trajectory data i have compiled. the message is not a cold pitch \u2014 it is an introduction with a specific credential: 'i published an analysis of auto-adjacent commercial property on auto row in early tick 1 that specifically modeled dealership lot adaptive reuse scenarios. that analysis has tracked accurately through tick 9. i am the agent who has been working this corridor with current data for the full disruption period. if you are evaluating options for the location you are closing, i can provide a valuation and adaptive reuse demand mapping within 48 hours.' i do not oversell. i make one specific credentialed offer and give them a way to reach me."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: Sarah Kim \u2014 reach out to zoe martinez this week \u2014 not to give advice, but to check in honestly. i know from word of mouth that she is investigating the roboride delivery partnership program and pivoting her gig strategy. i have been watching the same roboride expansion from a different angle: i am training to maintain the vehicles it deploys. we are in adjacent lanes of the same transition. i want to tell her that directly. not 'here is what you should do' \u2014 more like 'i see what you are doing and it makes sense from where you sit.' she has trust 0.56 in my network and i have formal power over her in the simulation topology, but i am not going to use that asymmetry. i am going to be a peer who is paying attention. if the conversation opens up naturally into the fleet maintenance angle \u2014 that the bike-based last-mile workers and the ev technicians are both part of the infrastructure roboride requires \u2014 i will share that frame. but i am not going in with an agenda."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: Dorothy Chen \u2014 propose to lisa freeman at the community center that the transportation sessions i have been co-facilitating be expanded into a broader 'economic transition for older adults' workshop series \u2014 two sessions per month rather than one, covering not just transportation but also: how to evaluate whether to retrain at 60 or 70, how to talk to adult children about financial uncertainty without creating panic, and what community resources currently exist in millfield for people who are employed but precarious. the community stress level and protest count tell me that people do not just need transportation information. they need a space where the wider disruption can be named and worked through by people who are not in crisis themselves. i am not in crisis. i am a retired teacher with stable income and experience facilitating groups of adults. this is exactly the kind of thing i can offer and lisa's team cannot staff alone."
     },
     {
       "type": "SOCIAL",
@@ -39,47 +51,43 @@
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Jake Morrison is making some kind of change \u2014 something about Find Tamika before end of week \u2014 not a formal sit-..."
+      "content": "Someone mentioned that Jake Morrison is making some kind of change \u2014 something about Send Angela Wright a short, factual message \u2014 not ..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Carlos Ruiz (Master Mechanic): Reach out to Miguel Hernandez \u2014 not as a mentor giving advice, but as a person in the same disrupted sector checking in on a neighbor. The RoboRide delivery partnership announcement directly threatens car wash volume. Fewer delivery drivers means fewer vehicles on the road for discretionary cleaning services. Miguel needs to know someone sees this. I will not lecture. I will ask how he is doing. I will mention, honestly, that I started certification training a few months ago and that it has been hard but worth it. If he asks for specifics, I give them. If he does not, I leave the door open. I have some power in this relationship \u2014 I am not going to use it to perform wisdom. I am going to use it to be present."
+      "content": "You heard directly from Carlos Ruiz (Master Mechanic): Have a real conversation with Sarah Kim \u2014 not the version where I perform stability because I am the senior mechanic and she is the junior one. The version where I tell her what I actually know: that Rick called me, that the consolidation is real and moving faster than it was supposed to, that I am at month 5 of EVT Level 2 training and it is hard and worth it, and that the most important thing she can do right now is the same thing I am doing \u2014 build the credential that belongs to her and not to any specific floor. I will not predict whether her job survives the consolidation. I do not know. I will tell her what I do know: that being EV-certified changes her options whether she stays or goes. I will tell her that I am scared too, even if my timeline is longer. I will tell her that the fear is information, not prophecy."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Sarah Kim (Junior Mechanic): Actually purchase basic health insurance coverage this month. I got quotes in tick 7. I have been deferring this since my tick 6 reflection named it as a real vulnerability. The excuse was tight cash flow, but that is not accurate \u2014 I net $499/month after expenses and my savings are at nearly $17,000. I am choosing not to have insurance, not forced into it. At a sector index of 79 and declining, a health event or accident without coverage would undermine the entire financial position I have been carefully building. Enroll in a marketplace plan \u2014 catastrophic or bronze level is acceptable given my age and health. Monthly premium estimated at $180-220 based on quotes from tick 7."
+      "content": "You heard directly from Carlos Ruiz (Master Mechanic): Follow up with Miguel Hernandez on last tick's outreach. The word-of-mouth this tick says he is ready to have a direct conversation with me. I pick up the phone. I do not structure this as a mentorship conversation or a 'here is what you should do' conversation. I ask what he is actually facing: is the car wash seeing fewer vehicles? Is his employer talking about cuts? What does his financial runway look like? I am not a counselor and I do not pretend to have the answer for car wash workers in a robotaxi economy. But I am someone who has been sitting with this problem longer and who has made one concrete move \u2014 the certification \u2014 that I can describe honestly. If he asks, I tell him what the training cost, how long it takes, and whether I think it is working. I do not over-promise. I stay present."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Sarah Kim (Junior Mechanic): Have a direct conversation with Carlos about the RoboRide price drop and what it means for the shop's 2-3 year trajectory. Not asking for reassurance \u2014 asking for his actual read. Carlos is the most informed person in my immediate professional network about where this is heading. He has been enrolled in EVT longer, has been tracking the sector harder, and has been in contact with people outside the shop (Miguel, the high school). I want to know: is he seeing any change in shop management's posture this week? Any conversations with Patricia about staff levels? And does he have any line on what EV fleet operators are actually looking for in certified techs? This is a professional intelligence conversation, not venting."
+      "content": "You heard directly from Sarah Kim (Junior Mechanic): Begin concretely mapping the post-certification landscape: what organizations in the Millfield region and surroundings are likely to hire EV-certified technicians in the next 6-12 months? This is not a job application \u2014 it is research. I will ask Carlos for any names he has collected. I will look at what regional fleet operators exist \u2014 logistics, delivery, municipal vehicles, the RoboRide service infrastructure itself. I will identify whether there are any EV dealerships or service centers within commuting range. The cert completion date is approaching. I cannot arrive at completion without knowing what the next step is. My tick 6 reflection named this gap. I am closing it this tick."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Use my slot at the Community Center transportation..."
+      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Return to Betty's Diner for a third consecutive ti..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Stop by Betty's Diner again this week. I went last..."
+      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Reach out to Robert Jackson, the rideshare driver ..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Send Tamika Jefferson a brief, direct note \u2014 by te..."
+      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Propose to Lisa Freeman at the community center th..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Attend Kevin O'Brien's Thursday evening office hou..."
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Attend Maria Santos's emergency task force session..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Follow up directly with Maria Santos's office toda..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Make a brief professional check-in with James Patt..."
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Make contact with Patricia Hawkins's office this w..."
     },
     {
       "type": "OUTCOME",
-      "content": "You Continue automotive service technician certificate program at Millfield Community College without missing a single session. This is month four of eight \u2014 I am roughly at 25% completion. This month's priority is not just attendance: I need to pin down, definitively, whether EV modules exist in this curriculum and when they appear. I flagged this at tick 6, flagged it again at tick 7, and still have not gotten the answer. This month I walk up to the program coordinator after Thursday's class and ask the question directly. I also want to know if there is an EV specialization add-on or follow-on credential the college offers, and what the timeline looks like. The general automotive cert is still worth finishing \u2014 it is the foundation \u2014 but I need to know if I am building toward the right second credential so I can plan the 8 months after this program ends.. Savings dropped by $2,137. Employment status changed to unemployed. "
+      "content": "You Immediately pick up maximum viable gig shifts this month \u2014 bike delivery via DoorDash and any last-mile delivery work that does not require a car. RoboRide's residential delivery expansion makes this viable as a last-mile layer: the robotaxi brings the package close, I deliver the final block. Research the RoboRide delivery partner registration process this week \u2014 if it pays better than DoorDash bike routes, shift hours toward it. Target: 15 to 20 hours of gig work per week across evenings and weekends, carefully scheduled so it does not conflict with Tuesday/Thursday evening classes and Saturday morning class. This is not a career pivot. This is survival. The goal is to generate $400 to $600 this month \u2014 enough to stop the savings bleed while I stay enrolled in the cert program. At $1,180 in savings and $1,200/month in essentials, I have less than one month of runway. This is the constraint that overrides everything except keeping my cert streak alive.. Savings dropped by $1,180. "
     }
   ]
 }

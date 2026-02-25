@@ -1,5 +1,5 @@
 {
-  "tick": 9,
+  "tick": 10,
   "messages": [
     {
       "type": "AMBIENT",
@@ -7,11 +7,11 @@
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 67%."
+      "content": "Local unemployment rising. Employment rate: 53%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 40 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 30 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
@@ -23,23 +23,23 @@
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Rick Tanner is making some kind of change \u2014 something about Send Patricia a direct, short message \u2014 not a long..."
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Have a real conversation with Sarah Kim \u2014 not the ..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Reach out to Miguel Hernandez \u2014 not as a mentor gi..."
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Follow up with Miguel Hernandez on last tick's out..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Follow up directly with Maria Santos's office toda..."
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Attend Maria Santos's emergency task force session..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Make a brief professional check-in with James Patt..."
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Make contact with Patricia Hawkins's office this w..."
     },
     {
       "type": "OUTCOME",
-      "content": "You Contact RoboRide local partnership coordinator to inquire about the diner kitchen participating in the new delivery network. Betty calls the number listed in the partnership announcement and asks direct questions: what are the requirements to become a delivery prep partner, what does the revenue share look like, how quickly can a small kitchen get set up. She is not committing \u2014 she is gathering information so she can decide whether this is a real option or a dead end.. Savings dropped by $4,268. "
+      "content": "You Attend Maria Santos's emergency task force session and deliver updated testimony. Betty does not come to repeat what she said at tick 4. She comes with the updated numbers: spending index dropped from 73 to 40, savings burning at $4,268 a month, grant pending for seven ticks with no disbursement. She also comes with a specific ask \u2014 expedited review for pending applicants who are within 90 days of insolvency, and clarity on whether small commercial kitchens qualify for the delivery partnership economic development category. She is not there to mourn the diner. She is there to argue that the diner kitchen is an existing asset that can serve the community differently if the policy environment makes it possible. She uses her credibility from tick 4 testimony. She speaks last if she can \u2014 after the grievances have been aired \u2014 so she sounds like a solution, not another complaint.. Savings dropped by $4,268. "
     }
   ]
 }

@@ -25,8 +25,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 6.0,
-      "threat_level": 0.5,
+      "runway_months": 6.1,
+      "threat_level": 0.49,
       "monthly_essentials": 3000,
       "health_cost_from_stress": 0
     },
@@ -53,7 +53,7 @@
     },
     "L5_BUILD": {
       "future_orientation": 0.64,
-      "entrepreneurial_drive": 0.58
+      "entrepreneurial_drive": 0.68
     },
     "L6_TRANSCEND": {
       "meaning_source": "family",
@@ -74,7 +74,7 @@
       "availability_heuristic": 0.44,
       "social_proof_sensitivity": 0.62
     },
-    "sentiment": "determined"
+    "sentiment": "grounded and quietly urgent \u2014 not panicked, but no longer comfortable with slow movement"
   },
   "psychological": {
     "stress_level": 0.2,
@@ -86,7 +86,7 @@
   "financial": {
     "monthly_income": 6000,
     "monthly_expenses": 4817,
-    "savings": 28728,
+    "savings": 29319,
     "debt_total": 63092,
     "credit_score": 697
   },
@@ -111,6 +111,6 @@
     "willingness_to_move": 0.65
   },
   "locality": "millfield",
-  "archetype": "adapter",
-  "tick_updated": 8
+  "archetype": "adapter \u2014 moving from preparation to execution",
+  "tick_updated": 9
 }

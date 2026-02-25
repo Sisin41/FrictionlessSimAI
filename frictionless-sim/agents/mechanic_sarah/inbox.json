@@ -1,5 +1,5 @@
 {
-  "tick": 9,
+  "tick": 10,
   "messages": [
     {
       "type": "AMBIENT",
@@ -15,19 +15,15 @@
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Linda Park laid off workers: lay off tom bradley. schedule a direct, private conversation this week. tell him the personal auto book has declined 21% from baseline and the roboride residential expansion will push it further. the regional headcount cannot support two field agents on a contracting book. give him a 30-day notice with a professional reference and a specific offer to introduce him to the logistics and fleet contacts i have been cultivating through my own job search. this is not a performance issue \u2014 it is a structural one, and i will say that plainly. i will not soften it into ambiguity."
+      "content": "Business closing: Linda Park \u2014 formally close the autoshield corporate loop and shift to primary exit mode. the 14-day deadline has passed with no response. i will send one final, brief internal communication \u2014 not another memo, not another recommendation \u2014 simply a written record that i am noting the absence of a response and that i am proceeding under the assumption that no commercial fleet pivot authorization is forthcoming. this creates a clean paper trail. i am not burning the relationship; i am documenting the outcome professionally. from this tick forward, my primary professional energy shifts from operating this regional office toward positioning myself for the next role. autoshield employment remains intact as income \u2014 i am not resigning \u2014 but i am no longer treating internal advocacy as a viable primary path."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Business closing: Zoe Martinez \u2014 follow up aggressively on the freelance social media management pitches from tick 7. if i pitched two or three businesses last tick, i am following up by phone or in person this week \u2014 not waiting for them to come to me. i am also expanding the outreach: the diner, any small business on or adjacent to auto row that is still posting on instagram and clearly struggling with their social presence. my rate is $100 to $150 per month. i am pitching the value specifically: in a month where consumer spending is down 58% from baseline and foot traffic is soft, local businesses that stay visible and human on social media have a real edge. i know how to make that happen. i have the phone in my hand right now. the goal this tick is to close at least one paying client before the end of the month \u2014 even $100 is real money at zero savings."
+      "content": "Business closing: Miguel Hernandez \u2014 immediately pick up maximum viable gig shifts this month \u2014 bike delivery via doordash and any last-mile delivery work that does not require a car. roboride's residential delivery expansion makes this viable as a last-mile layer: the robotaxi brings the package close, i deliver the final block. research the roboride delivery partner registration process this week \u2014 if it pays better than doordash bike routes, shift hours toward it. target: 15 to 20 hours of gig work per week across evenings and weekends, carefully scheduled so it does not conflict with tuesday/thursday evening classes and saturday morning class. this is not a career pivot. this is survival. the goal is to generate $400 to $600 this month \u2014 enough to stop the savings bleed while i stay enrolled in the cert program. at $1,180 in savings and $1,200/month in essentials, i have less than one month of runway. this is the constraint that overrides everything except keeping my cert streak alive."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Business closing: Nicole Washington \u2014 respond to grace okafor's direct question with the staffing intelligence gathered from nurse colleagues last tick. tell her what i actually know: nemt experience does register with hiring managers at millfield general, but only when the applicant frames it as clinical context, not just driving. the units that are currently expanding \u2014 the post-acute step-down and the transitional care unit \u2014 are the ones where patient transport familiarity could convert. units that are contracting are primarily or-adjacent specialties that are being right-sized. the charge nurse i spoke to said something specific that grace needs to hear: 'i want to see people who already know what a confused patient looks like in a moving vehicle.' that is nemt experience, named. i am also going to close the loop on her tick 7 thank-you \u2014 acknowledge that the denise williams connection happening fast was genuinely satisfying, and that i am glad it landed. this is not a transaction. it is a relationship and i am going to say so."
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "Community action: Zoe Martinez \u2014 investigate and sign up for roboride's delivery partnership program this week. my angle is different from a car-based delivery driver: i am foot and bicycle, which means i am the last-mile layer \u2014 the piece of the delivery chain that gets from the roboride drop point to the apartment door, the thing autonomous vehicles literally cannot do yet. research the partner registration process, check whether millfield's new residential coverage area includes the neighborhoods where i already run doordash routes, and if the rates are competitive or better, begin shifting my hours toward roboride delivery and away from legacy platforms. if roboride is going to compress doordash and uber eats margins anyway \u2014 and at $0.12/mile with 8-minute waits they will \u2014 i want to be inside the system that is winning, not outside the one that is losing. i am also making a short tiktok about this: 'car-free gig worker perspective on the roboride delivery expansion \u2014 here is what it actually means if your hustle is on a bike.' that content is authentic, timely, and builds my social media presence while i research."
+      "content": "Business closing: Zoe Martinez \u2014 i have pitched two or three businesses over the past two ticks. this week i stop waiting for email replies. i call them directly or walk in. i am targeting: the diner (betty's if she is open to it, or the next closest), any small business near auto row that is still trying to maintain a social media presence and clearly does not have the bandwidth to do it well. my pitch is specific and economic: consumer spending is down 60% from baseline, foot traffic is soft, and local businesses that stay visible and humanly present on social media have a measurable edge over ones that go dark. i know how to do that. rate: $100 to $150 per month per client. goal this tick is to land at least one paying client. even $100 is real income at zero savings. if i close even one client before end of month, that is the first proof that the cert is not just a credential \u2014 my skills are already worth something to someone now."
     },
     {
       "type": "SOCIAL",
@@ -35,35 +31,43 @@
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Issue an urgent public policy statement on the Rob..."
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Convene the emergency task force session today as ..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Convene an emergency coordination session with Pat..."
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Issue a public acknowledgment of the nine protests..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Send a second internal memo to AutoShield corporat..."
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Reach out directly to Angela Wright before the tas..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Continue CRMP certification coursework \u2014 now in mo..."
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Have a direct, private conversation with Priya Sha..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Carlos Ruiz (Master Mechanic): Reach out to Miguel Hernandez \u2014 not as a mentor giving advice, but as a person in the same disrupted sector checking in on a neighbor. The RoboRide delivery partnership announcement directly threatens car wash volume. Fewer delivery drivers means fewer vehicles on the road for discretionary cleaning services. Miguel needs to know someone sees this. I will not lecture. I will ask how he is doing. I will mention, honestly, that I started certification training a few months ago and that it has been hard but worth it. If he asks for specifics, I give them. If he does not, I leave the door open. I have some power in this relationship \u2014 I am not going to use it to perform wisdom. I am going to use it to be present."
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Re-engage the strongest of the three external empl..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Miguel Hernandez is making some kind of change \u2014 something about Have a direct conversation with Carlos (mechanic_c..."
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Continue CRMP certification coursework \u2014 now month..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Attend Kevin O'Brien's Thursday evening office hou..."
+      "content": "You heard directly from Carlos Ruiz (Master Mechanic): Have a real conversation with Sarah Kim \u2014 not the version where I perform stability because I am the senior mechanic and she is the junior one. The version where I tell her what I actually know: that Rick called me, that the consolidation is real and moving faster than it was supposed to, that I am at month 5 of EVT Level 2 training and it is hard and worth it, and that the most important thing she can do right now is the same thing I am doing \u2014 build the credential that belongs to her and not to any specific floor. I will not predict whether her job survives the consolidation. I do not know. I will tell her what I do know: that being EV-certified changes her options whether she stays or goes. I will tell her that I am scared too, even if my timeline is longer. I will tell her that the fear is information, not prophecy."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Carlos Ruiz (Master Mechanic): Follow up with Miguel Hernandez on last tick's outreach. The word-of-mouth this tick says he is ready to have a direct conversation with me. I pick up the phone. I do not structure this as a mentorship conversation or a 'here is what you should do' conversation. I ask what he is actually facing: is the car wash seeing fewer vehicles? Is his employer talking about cuts? What does his financial runway look like? I am not a counselor and I do not pretend to have the answer for car wash workers in a robotaxi economy. But I am someone who has been sitting with this problem longer and who has made one concrete move \u2014 the certification \u2014 that I can describe honestly. If he asks, I tell him what the training cost, how long it takes, and whether I think it is working. I do not over-promise. I stay present."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Miguel Hernandez is making some kind of change \u2014 something about Call Carlos back. He reached out to me \u2014 that is n..."
     },
     {
       "type": "OUTCOME",
-      "content": "You Push EVT Level 1 certification into the charging systems and thermal management module \u2014 the next section after drivetrain. This is the module most relevant to fleet and commercial EV maintenance, which is the segment that will grow fastest as RoboRide and similar services expand. Log at least 10 study hours this month, up from the 6-8 hours I have been averaging. The RoboRide expansion is a signal that the timeline for needing these credentials is compressing. Ahead-of-pace is not enough. I want to be finished with Level 1 in the next 4-5 months, not 6. I will also ask Carlos whether he has any contact yet with fleet maintenance operators or EV service centers \u2014 not to job-hunt, but to understand what the actual hiring criteria look like for that work.. Savings grew by $249. "
+      "content": "You Complete the advanced diagnostics and fault code module of EVT Level 1 \u2014 the section following charging systems and thermal management. This is the module that bridges hardware knowledge to the software-layer diagnostics that fleet operators actually test for in hiring. Log at least 10 study hours this month, maintaining the accelerated pace from tick 8. The goal is to reach 55-60% completion by end of this tick, leaving roughly one major module and the final assessment between me and certification. I am treating the next 60 days as the finish line. I will also reach out to Carlos this week to ask specifically whether he has names or contacts at any EV service centers or fleet operators \u2014 not a job application, but a conversation about what those operators actually test for when hiring certified techs. That intelligence will help me prioritize the remaining modules and prepare for the certification exam.. Savings grew by $249. "
     }
   ]
 }

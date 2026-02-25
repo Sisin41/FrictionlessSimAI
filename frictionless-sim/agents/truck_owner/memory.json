@@ -39,6 +39,11 @@
       "tick": 8,
       "summary": "Make a decision on health insurance. After five ticks of avoidance and one tick of acknowledging the gap, actually commit to enrolling the family in a mid-tier marketplace plan. The math is brutal but it is also clear: $1,400 a month hurts. A $60,000 hospitalization without coverage destroys the savings runway entirely. Three dependents. Dale is 50 and does physical labor. He cannot carry this risk indefinitely and tell himself it is acceptable. Complete the application on the state marketplace, select a plan, and submit. Expense goes up by approximately $1,400 a month. Savings accumulation drops from roughly $900 a month to a deficit position. But the savings buffer at $51,863 can absorb this while income holds. This is not a comfortable decision. It is the right one.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 9,
+      "summary": "Follow up directly with Lisa Freeman \u2014 not a passive check-in but a specific ask. The two repair bids I submitted through her pipeline in tick 7 have been in limbo for two ticks now. I need to know: did either property owner make a decision? If yes, when do I start? If no, what is the holdup \u2014 money, timing, competing bids? I am also asking her directly whether the community center itself has any deferred maintenance that needs addressing. I have been treating Lisa as a referral channel but she is also a potential client in her own right. Community centers have roofs and foundations and HVAC systems that fail. I will ask plainly. If there is no work in her pipeline right now, I want to know that clearly so I can focus elsewhere.",
+      "emotional_state": "steady under pressure"
     }
   ],
   "past_outcomes": [
@@ -105,6 +110,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Make a decision on health insurance. After five ticks of avoidance and one tick of acknowledging the gap, actually commit to enrolling the family in a mid-tier marketplace plan. The math is brutal but it is also clear: $1,400 a month hurts. A $60,000 hospitalization without coverage destroys the savings runway entirely. Three dependents. Dale is 50 and does physical labor. He cannot carry this risk indefinitely and tell himself it is acceptable. Complete the application on the state marketplace, select a plan, and submit. Expense goes up by approximately $1,400 a month. Savings accumulation drops from roughly $900 a month to a deficit position. But the savings buffer at $51,863 can absorb this while income holds. This is not a comfortable decision. It is the right one.. Savings grew by $909. "
+    },
+    {
+      "tick": 9,
+      "action": "Follow up directly with Lisa Freeman \u2014 not a passive check-in but a specific ask. The two repair bids I submitted through her pipeline in tick 7 have been in limbo for two ticks now. I need to know: did either property owner make a decision? If yes, when do I start? If no, what is the holdup \u2014 money, timing, competing bids? I am also asking her directly whether the community center itself has any deferred maintenance that needs addressing. I have been treating Lisa as a referral channel but she is also a potential client in her own right. Community centers have roofs and foundations and HVAC systems that fail. I will ask plainly. If there is no work in her pipeline right now, I want to know that clearly so I can focus elsewhere.",
+      "savings_delta": -4681,
+      "stress_delta": 0.0,
+      "employment_changed": true,
+      "narrative": "You Follow up directly with Lisa Freeman \u2014 not a passive check-in but a specific ask. The two repair bids I submitted through her pipeline in tick 7 have been in limbo for two ticks now. I need to know: did either property owner make a decision? If yes, when do I start? If no, what is the holdup \u2014 money, timing, competing bids? I am also asking her directly whether the community center itself has any deferred maintenance that needs addressing. I have been treating Lisa as a referral channel but she is also a potential client in her own right. Community centers have roofs and foundations and HVAC systems that fail. I will ask plainly. If there is no work in her pipeline right now, I want to know that clearly so I can focus elsewhere.. Savings dropped by $4,681. Employment status changed to unemployed. "
     }
   ],
   "reflections": [

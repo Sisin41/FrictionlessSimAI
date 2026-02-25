@@ -25,8 +25,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 1.0,
-      "threat_level": 0.92,
+      "runway_months": 0.0,
+      "threat_level": 1,
       "monthly_essentials": 1100,
       "health_cost_from_stress": 0
     },
@@ -74,7 +74,7 @@
       "availability_heuristic": 0.54,
       "social_proof_sensitivity": 0.54
     },
-    "sentiment": "determined"
+    "sentiment": "Tense but functional. The difference between panic and urgency is that urgency moves toward a plan. I have a plan. The runway is dangerously short but it is not zero. I have a credential in progress, two specific operators to call, the highest-trust network node asking me directly for an exchange, and one month to make the NEMT placement happen. I am scared in the way that makes you move faster, not the way that makes you freeze. I have been here before \u2014 not this exact situation, but the structure of it. You run the plan and you do not stop to mourn the plan that stopped working."
   },
   "psychological": {
     "stress_level": 0.16,
@@ -86,7 +86,7 @@
   "financial": {
     "monthly_income": 0,
     "monthly_expenses": 1787,
-    "savings": 1855,
+    "savings": 68,
     "debt_total": 35485,
     "credit_score": 796
   },
@@ -112,6 +112,6 @@
     "willingness_to_move": 0.9
   },
   "locality": "millfield",
-  "archetype": "adapter",
-  "tick_updated": 8
+  "archetype": "adapter \u2014 but adapter under real pressure now, not adapter in a comfortable hedge position. The ticks where I could optimize incrementally are behind me. This tick I am executing under constraint. The archetype is still correct. The comfort margin is gone.",
+  "tick_updated": 9
 }

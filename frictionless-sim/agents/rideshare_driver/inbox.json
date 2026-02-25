@@ -1,5 +1,5 @@
 {
-  "tick": 9,
+  "tick": 10,
   "messages": [
     {
       "type": "AMBIENT",
@@ -7,11 +7,11 @@
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 67%."
+      "content": "Local unemployment rising. Employment rate: 53%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 40 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 30 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
@@ -23,19 +23,19 @@
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Business closing: Denise Williams \u2014 send a targeted update to grace okafor acknowledging the roboride delivery announcement and what it means for the garage business case \u2014 and to close the loop on the hospital lead. denise sends a short, warm message: she thanks grace for the introduction to the millfield general contact, confirms the phone screen is in motion, and mentions briefly that the delivery partnership announcement has directly validated the infrastructure modernization work she has been building. she does not ask for anything. this is a relationship maintenance signal \u2014 letting grace know that her help moved the needle, and that denise is executing on both fronts. grace is clearly managing her own urgent situation right now (the roboride price drop hit her income too), so denise keeps the message brief and reciprocal: she acknowledges grace's disruption exposure and says she is thinking of her. one paragraph. no ask."
+      "content": "Dale Cooper laid off workers: spend two hours this week doing a systematic audit of my active bid pipeline and my outstanding receivables. i am now in a monthly deficit position. i need to know exactly where i stand: what jobs are currently in progress, what income is due and when, what bids are live and what their realistic probability of closing is, and what my savings runway looks like at the current burn rate. this is not the first time i have done this math \u2014 i did a version of it in tick 5 \u2014 but the insurance enrollment has changed the baseline. i need the updated number in my head, clearly. a man who does not know his exact number cannot make good decisions about which bids to chase and which to let go."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Community action: Denise Williams \u2014 confirm and prepare for the phone screen with the facilities director at millfield general for the infrastructure operations supervisor role. denise sent her resume and proposed time windows last tick. this tick she follows through: she confirms whichever time was accepted, does targeted preparation for the call, and treats it as a full interview even though it was presented informally. her preparation covers three things: (1) she maps her garage experience onto the specific language in the millfield general job description \u2014 every line about multi-shift staffing, compliance oversight, vendor management, and budget accountability gets a concrete example from her current role; (2) she prepares one forward-looking answer about how she thinks about infrastructure modernization, using her ev/staging research as the proof point \u2014 this is not just self-promotion, it demonstrates she thinks in 5-year time horizons which is exactly what a facilities director needs; (3) she prepares a question about the scope of the role that signals strategic interest: 'how is the facilities function at millfield general thinking about the infrastructure demands of expanded outpatient volume over the next three to five years?' she is not playing the interview as a desperate candidate. she is playing it as a peer conversation between operations professionals."
+      "content": "Dale Cooper laid off workers: process the community stress \u2014 the nine protests, tom bradley's layoff, the visible strain on everyone in my network \u2014 without externalizing it into reactive decisions. dale is a man who has been through 2008. he knows what a community looks like when it is in the middle of something that is going to take years to resolve. he does not pretend it is not happening. he does not perform optimism. he absorbs it and stays steady. the protests are not his to lead or stop. but they are a signal about the temperature of this town and he is filing that signal away. he is also thinking about the fact that he has work and most people around him do not, and what that means for how he shows up \u2014 not with guilt, but with responsibility."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Community action: Dale Cooper \u2014 do not pursue any delivery work as a response to the roboride delivery partnership announcement. some contractors in dale's position might see autonomous delivery squeezing the margins and think about pivoting to light delivery to fill income gaps. that would be a mistake. dale's competitive advantage is in skilled construction trades \u2014 things that require a human being with expertise and tools on-site. moving into delivery would put him in direct competition with a technology that has a structural cost advantage he cannot overcome. his truck is a construction tool, not a delivery asset. stay in his lane."
+      "content": "Community action: Denise Williams \u2014 send a concise, professional thank-you note to the millfield general facilities director following the phone screen. the note does two things and nothing more: (1) thanks him specifically for the time and references one concrete topic from the call that demonstrates she was engaged and present \u2014 not a generic 'great conversation' but a real callback to something he said about the role scope or the facilities function's priorities; (2) reaffirms her interest in one sentence. she does not ask about timeline. she does not ask where she stands. she sends the note within 48 hours of the call and then she waits. the discipline here is as important as the note itself \u2014 she does not follow up on the follow-up. she has done her part. she lets the process move at institutional speed."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Community action: Grace Okafor \u2014 research and enroll in nemt certification. begin active enrollment in the 40-hour nemt certification program. this is conditional on what i hear from robert jackson this week \u2014 if he tells me the sector is saturated or the rates are not real, i re-evaluate. but absent contrary evidence, i treat this as the right move. the 40-hour certification can be completed in 2-3 weeks alongside reduced driving hours. cost is approximately $300-$500 for the course and vehicle inspection. i use savings to fund this. once certified, i can operate as an nemt driver, which gives me medicaid-billable routes at $18-22/hour versus the rideshare income that is now structurally degrading. the certification does not displace nursing school \u2014 it runs alongside it as a bridge income strategy. the nemt credential also has direct relevance to my nursing career: patient transport experience is legitimate clinical exposure that hiring managers recognize."
+      "content": "Community action: Dale Cooper \u2014 process the community stress \u2014 the nine protests, tom bradley's layoff, the visible strain on everyone in my network \u2014 without externalizing it into reactive decisions. dale is a man who has been through 2008. he knows what a community looks like when it is in the middle of something that is going to take years to resolve. he does not pretend it is not happening. he does not perform optimism. he absorbs it and stays steady. the protests are not his to lead or stop. but they are a signal about the temperature of this town and he is filing that signal away. he is also thinking about the fact that he has work and most people around him do not, and what that means for how he shows up \u2014 not with guilt, but with responsibility."
     },
     {
       "type": "SOCIAL",
@@ -43,75 +43,63 @@
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Tamika Jefferson is making some kind of change \u2014 something about Contact Angela Wright to confirm receipt of the st..."
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Have a real conversation with Sarah Kim \u2014 not the ..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Reach out to Miguel Hernandez \u2014 not as a mentor gi..."
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Follow up with Miguel Hernandez on last tick's out..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Contact RoboRide local partnership coordinator to ..."
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Attend Maria Santos's emergency task force session..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Betty goes to Carlos Ruiz's shop and buys him lunc..."
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Follow up with RoboRide partnership coordinator on..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Betty attends Kevin O'Brien's office hours at the ..."
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Call Carlos Ruiz. The lunch at tick 8 opened the c..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Confirm and prepare for the phone screen with the ..."
+      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Send a brief, warm note to Grace Okafor acknowledg..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Send a targeted update to Grace Okafor acknowledgi..."
+      "content": "Someone mentioned that James Patterson is making some kind of change \u2014 something about Follow up with Howard Liu \u2014 coffee or a short call..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that James Patterson is making some kind of change \u2014 something about Follow up on the Howard Liu outreach from tick 7. ..."
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Follow up directly with Lisa Freeman \u2014 not a passi..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that James Patterson is making some kind of change \u2014 something about Recalibrate the monthly roboride transport budget ..."
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Go back to Betty Kowalski's diner. This is the sec..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Make a decision on health insurance. After five ti..."
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Attend Maria Santos's emergency task force session..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Follow up with Lisa Freeman to confirm the two rep..."
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Make contact with Patricia Hawkins's office this w..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Check in on Betty Kowalski \u2014 not as a contractor l..."
+      "content": "You heard directly from Grace Okafor (Part-time Rideshare Driver / Nursing Student): Complete NEMT certification this tick and begin immediate outreach to Millfield Medical Transport and CareRide \u2014 the specific operators Robert Jackson named. The 40-hour certification coursework enrolled at tick 8 should be completable within this tick's window. I treat completion as the primary commitment of this period alongside driving. Once the cert paperwork is in hand I call both operators the same day. I ask specifically: are you currently onboarding NEMT drivers, what is the vehicle inspection timeline, and can I schedule a placement interview this week. I do not send an email and wait. I call. If Robert has already made contact with these operators I ask him for the name of the person he spoke to, because a warm introduction \u2014 even a minimal one \u2014 cuts through the queue faster than a cold call."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Follow up directly with Maria Santos's office toda..."
+      "content": "You heard directly from Grace Okafor (Part-time Rideshare Driver / Nursing Student): Send a final, very brief message to Nicole Washington. Not a long ask. One sentence of context, one direct question. Something like: Nicole \u2014 I completed the NEMT certification this month. I know you are busy and I do not want to pressure you. Before I start reaching out cold to operators, is there anyone specific at Millfield General's patient transport or nursing intake you would be willing to put me in touch with? Even a first name helps. That is the whole message. If she responds, the warm introduction could cut weeks off my placement timeline. If she does not respond within this tick, I accept that the connection is warm but not active enough to produce referrals under pressure, and I move forward without it."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Make a brief professional check-in with James Patt..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Grace Okafor (Part-time Rideshare Driver / Nursing Student): Contact the workforce development office again \u2014 this time to get a definitive answer on the grant. The window I calculated at tick 5 has now fully elapsed. 6 to 8 weeks from the tick 5 application puts the decision at tick 7 or tick 8. I called at tick 7 for a status update. This tick I follow up on whatever they told me. If the decision has been made, I need the number immediately \u2014 a grant of any size changes my second-half tuition math and may allow me to shift to a heavier course load to accelerate my credential by 1-2 months, which directly addresses the runway problem. If the decision is delayed past 8 weeks, I treat the grant as unreliable and build without it. I need a binary answer this tick: funded or not funded, and if funded, how much. I act accordingly on the tuition front the moment I have that number."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Grace Okafor (Part-time Rideshare Driver / Nursing Student): Research and enroll in NEMT certification. Begin active enrollment in the 40-hour NEMT certification program. This is conditional on what I hear from Robert Jackson this week \u2014 if he tells me the sector is saturated or the rates are not real, I re-evaluate. But absent contrary evidence, I treat this as the right move. The 40-hour certification can be completed in 2-3 weeks alongside reduced driving hours. Cost is approximately $300-$500 for the course and vehicle inspection. I use savings to fund this. Once certified, I can operate as an NEMT driver, which gives me Medicaid-billable routes at $18-22/hour versus the rideshare income that is now structurally degrading. The certification does not displace nursing school \u2014 it runs alongside it as a bridge income strategy. The NEMT credential also has direct relevance to my nursing career: patient transport experience is legitimate clinical exposure that hiring managers recognize."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Grace Okafor (Part-time Rideshare Driver / Nursing Student): Send a direct message to Nicole Washington. Move beyond the light signal from prior ticks. Tell her plainly: I am 8 months from a CNA credential, the RoboRide expansion just changed my income timeline materially, and I am actively evaluating whether the NEMT bridge buys me enough runway to reach graduation without a financial crisis. I want to know one thing from her professional perspective: for someone entering nursing with a CNA plus NEMT transport experience, is there a pathway at Millfield General that values patient transport background specifically, or is the clinical credential the only thing that matters to hiring managers? I am not asking her to help me get a job. I am asking her to help me make a better decision about sequencing my next six months. She is a nurse, she knows how hiring works from the inside, and she has been warm in our exchanges. This is the moment to ask the direct question rather than another low-friction signal."
+      "content": "You heard directly from Grace Okafor (Part-time Rideshare Driver / Nursing Student): Send a brief reply to Denise Williams. Warm, reciprocal, no ask. I thank her for the update, tell her the hospital phone screen sounds like the right move for her and that I hope it opens up. I mention in one sentence that I am finishing the NEMT cert this month and starting to reach out to operators. I do not ask her for anything. I keep the relationship current. If she lands the facilities role at Millfield General, she becomes a meaningful contact inside the institution where I eventually want to work as a nurse. That is a long-horizon relationship worth one paragraph of maintenance."
     },
     {
       "type": "OUTCOME",
-      "content": "You Activate NEMT certification and accelerate job transition \u2014 move from passive outreach to urgent conversion. Call Millfield Medical Transport again today and explicitly state availability to start within two weeks, not two months. Call CareRide of the Valley dispatcher directly rather than routing through HR \u2014 ask for same-week availability. Follow up on St. Clement's patient transport coordinator contact from tick 7. The posture shifts: I am no longer a stable rideshare driver exploring options. I am a credentialed NEMT driver who needs to land a contract. This is not desperation \u2014 I have a legitimate credential and a clean record \u2014 but the timeline has compressed and I am not going to pretend otherwise in my own head. The goal this tick: secure at least one confirmed interview, ideally one conditional offer or trial arrangement.. Savings grew by $387. "
+      "content": "You Follow up on all three NEMT employer contacts from tick 8. Check voicemail and email for responses from Millfield Medical Transport, CareRide of the Valley, and St. Clement's patient transport coordinator. For any that have not responded, make a single professional follow-up contact \u2014 call, not email \u2014 three to five business days after the initial outreach. The follow-up message is brief: I am Robert Jackson, I called last week about NEMT driving openings, I wanted to confirm my availability and ask whether there is a timeline for decisions. Do not sound urgent. Do not sound desperate. Sound like a person who is organized and following up responsibly. If any employer has left a message offering an interview, accept it this week. If Millfield Medical Transport offers even an informal conversation, treat it as a full interview and prepare accordingly \u2014 I know their routes cold, which is a concrete advantage I can name in the conversation.. Savings grew by $387. "
     }
   ]
 }

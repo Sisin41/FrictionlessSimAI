@@ -44,6 +44,11 @@
       "tick": 9,
       "summary": "Ask Rick Tanner directly which location is closing and whether my position is in the transition pool. Send Angela a narrow administrative question about individual eligibility under the stay bonus memo. Build a written three-lane contingency map (transition program, lateral role inside consolidation, full exit) before Patricia's formal announcement drops. Keep selling with the RoboRide comparison pitch, targeting tradespeople and multi-destination family buyers, with a goal of one close before end of month.",
       "emotional_state": "tense_but_functional"
+    },
+    {
+      "tick": 9,
+      "summary": "Go directly to Rick Tanner \u2014 not email, not word of mouth \u2014 and ask him two specific questions in a direct, brief conversation before the end of this week. Question one: which location is Patricia closing? I understand he may not be able to confirm which one is in his assessment, but I am asking him as the GM I have worked under for years to tell me what he can. Question two: is my position in consideration for the transition pool, or is my location surviving? I am not panicking, I am not making demands \u2014 I am a salesperson with two kids asking the person who has the most current information to tell me what he knows. Rick's trust score with me is 0.73. He is not going to lie to me. He may not know the final answer yet, but he will tell me what he has. I need this information before end of week \u2014 Patricia said sales floor staff at the closed location will be informed within one week of announcement, and I cannot afford to be the last person to know.",
+      "emotional_state": "tense_but_functional"
     }
   ],
   "past_outcomes": [
@@ -110,6 +115,14 @@
       "stress_delta": 0.05,
       "employment_changed": false,
       "narrative": "You Send Angela Wright a direct, brief email this week. Not a complaint, not a demand \u2014 a professional request for a written confirmation of stay bonus eligibility and qualifying timeline. Frame it as needing to do personal financial planning and wanting to make sure I am working from accurate information. Reference Rick's acknowledgment that the details are still being finalized and say I would appreciate any timeline she can share. Keep it one paragraph. No pressure language. If she does not respond in five business days, I send one follow-up and then I stop waiting on this number.. Savings dropped by $3,061. "
+    },
+    {
+      "tick": 9,
+      "action": "Go directly to Rick Tanner \u2014 not email, not word of mouth \u2014 and ask him two specific questions in a direct, brief conversation before the end of this week. Question one: which location is Patricia closing? I understand he may not be able to confirm which one is in his assessment, but I am asking him as the GM I have worked under for years to tell me what he can. Question two: is my position in consideration for the transition pool, or is my location surviving? I am not panicking, I am not making demands \u2014 I am a salesperson with two kids asking the person who has the most current information to tell me what he knows. Rick's trust score with me is 0.73. He is not going to lie to me. He may not know the final answer yet, but he will tell me what he has. I need this information before end of week \u2014 Patricia said sales floor staff at the closed location will be informed within one week of announcement, and I cannot afford to be the last person to know.",
+      "savings_delta": -3496,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Go directly to Rick Tanner \u2014 not email, not word of mouth \u2014 and ask him two specific questions in a direct, brief conversation before the end of this week. Question one: which location is Patricia closing? I understand he may not be able to confirm which one is in his assessment, but I am asking him as the GM I have worked under for years to tell me what he can. Question two: is my position in consideration for the transition pool, or is my location surviving? I am not panicking, I am not making demands \u2014 I am a salesperson with two kids asking the person who has the most current information to tell me what he knows. Rick's trust score with me is 0.73. He is not going to lie to me. He may not know the final answer yet, but he will tell me what he has. I need this information before end of week \u2014 Patricia said sales floor staff at the closed location will be informed within one week of announcement, and I cannot afford to be the last person to know.. Savings dropped by $3,496. "
     }
   ],
   "reflections": [

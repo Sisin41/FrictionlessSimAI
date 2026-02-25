@@ -30,8 +30,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 8.3,
-      "threat_level": 0.31,
+      "runway_months": 7.3,
+      "threat_level": 0.39,
       "monthly_essentials": 5500,
       "health_cost_from_stress": 0
     },
@@ -79,19 +79,19 @@
       "availability_heuristic": 0.55,
       "social_proof_sensitivity": 0.64
     },
-    "sentiment": "determined"
+    "sentiment": "Controlled and sober. The anger phase has not passed \u2014 it is still there, underneath \u2014 but it has quieted into something more functional. I built the case for this consolidation. I did the work. I did not get a response to my compensation ask. That is not grief anymore. That is a business problem and I know how to work business problems. What I am feeling most sharply right now is the distance between the identity I have carried for 32 years and the reality of what the next chapter looks like. I am not a GM right now. I am a consultant who has not been paid. That is a different thing to be. I am adjusting to it in real time."
   },
   "psychological": {
     "stress_level": 0.73,
     "agency": 0.64,
     "grief_stage": "anger",
-    "temporal_horizon_months": 7,
-    "high_stress_ticks": 0
+    "temporal_horizon_months": 5,
+    "high_stress_ticks": 1
   },
   "financial": {
     "monthly_income": 0,
     "monthly_expenses": 8632,
-    "savings": 71622,
+    "savings": 62990,
     "debt_total": 161902,
     "credit_score": 710
   },
@@ -130,6 +130,6 @@
     "willingness_to_move": 0
   },
   "locality": "millfield",
-  "archetype": "adapter",
-  "tick_updated": 8
+  "archetype": "I have been an adapter since tick 0, but I have been a reactive adapter \u2014 responding to Patricia's moves rather than generating my own. The compensation demand at tick 8 was the first genuinely proactive move I made: I attached conditions to a deliverable and forced a response. Patricia has not responded. That outcome is uncomfortable, but the move itself was correct. I need to continue making moves of that type \u2014 not aggressive, not adversarial, but concrete and self-directed. The adaptation pattern I am building is: identify what I have that others need, name a price, and hold it. That is not who I was when I started this job. It may be who I need to become.",
+  "tick_updated": 9
 }

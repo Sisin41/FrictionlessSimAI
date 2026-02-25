@@ -31,7 +31,7 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 13.4,
+      "runway_months": 12.4,
       "threat_level": 0,
       "monthly_essentials": 4250,
       "health_cost_from_stress": 0
@@ -42,7 +42,7 @@
       "insurance_coverage": "none"
     },
     "L2_PARTICIPATE": {
-      "employment_status": "employed",
+      "employment_status": "unemployed",
       "skill_relevance": 0.4,
       "role_security": 0.48,
       "network_strength": 0.75
@@ -82,7 +82,7 @@
       "availability_heuristic": 0.53,
       "social_proof_sensitivity": 0.58
     },
-    "sentiment": "determined"
+    "sentiment": "clear-eyed and moving"
   },
   "psychological": {
     "stress_level": 0.04,
@@ -92,9 +92,9 @@
     "high_stress_ticks": 0
   },
   "financial": {
-    "monthly_income": 1838,
+    "monthly_income": 0,
     "monthly_expenses": 7382,
-    "savings": 98977,
+    "savings": 91595,
     "debt_total": 67097,
     "credit_score": 687
   },
@@ -143,5 +143,5 @@
   },
   "locality": "millfield",
   "archetype": "adapter",
-  "tick_updated": 8
+  "tick_updated": 9
 }

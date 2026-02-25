@@ -1,5 +1,5 @@
 {
-  "tick": 9,
+  "tick": 10,
   "messages": [
     {
       "type": "AMBIENT",
@@ -7,11 +7,11 @@
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 67%."
+      "content": "Local unemployment rising. Employment rate: 53%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 40 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 30 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
@@ -23,11 +23,11 @@
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Business closing: Zoe Martinez \u2014 follow up aggressively on the freelance social media management pitches from tick 7. if i pitched two or three businesses last tick, i am following up by phone or in person this week \u2014 not waiting for them to come to me. i am also expanding the outreach: the diner, any small business on or adjacent to auto row that is still posting on instagram and clearly struggling with their social presence. my rate is $100 to $150 per month. i am pitching the value specifically: in a month where consumer spending is down 58% from baseline and foot traffic is soft, local businesses that stay visible and human on social media have a real edge. i know how to make that happen. i have the phone in my hand right now. the goal this tick is to close at least one paying client before the end of the month \u2014 even $100 is real money at zero savings."
+      "content": "Business closing: Zoe Martinez \u2014 i have pitched two or three businesses over the past two ticks. this week i stop waiting for email replies. i call them directly or walk in. i am targeting: the diner (betty's if she is open to it, or the next closest), any small business near auto row that is still trying to maintain a social media presence and clearly does not have the bandwidth to do it well. my pitch is specific and economic: consumer spending is down 60% from baseline, foot traffic is soft, and local businesses that stay visible and humanly present on social media have a measurable edge over ones that go dark. i know how to do that. rate: $100 to $150 per month per client. goal this tick is to land at least one paying client. even $100 is real income at zero savings. if i close even one client before end of month, that is the first proof that the cert is not just a credential \u2014 my skills are already worth something to someone now."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Community action: Zoe Martinez \u2014 investigate and sign up for roboride's delivery partnership program this week. my angle is different from a car-based delivery driver: i am foot and bicycle, which means i am the last-mile layer \u2014 the piece of the delivery chain that gets from the roboride drop point to the apartment door, the thing autonomous vehicles literally cannot do yet. research the partner registration process, check whether millfield's new residential coverage area includes the neighborhoods where i already run doordash routes, and if the rates are competitive or better, begin shifting my hours toward roboride delivery and away from legacy platforms. if roboride is going to compress doordash and uber eats margins anyway \u2014 and at $0.12/mile with 8-minute waits they will \u2014 i want to be inside the system that is winning, not outside the one that is losing. i am also making a short tiktok about this: 'car-free gig worker perspective on the roboride delivery expansion \u2014 here is what it actually means if your hustle is on a bike.' that content is authentic, timely, and builds my social media presence while i research."
+      "content": "Community action: Sarah Kim \u2014 reach out to zoe martinez this week \u2014 not to give advice, but to check in honestly. i know from word of mouth that she is investigating the roboride delivery partnership program and pivoting her gig strategy. i have been watching the same roboride expansion from a different angle: i am training to maintain the vehicles it deploys. we are in adjacent lanes of the same transition. i want to tell her that directly. not 'here is what you should do' \u2014 more like 'i see what you are doing and it makes sense from where you sit.' she has trust 0.56 in my network and i have formal power over her in the simulation topology, but i am not going to use that asymmetry. i am going to be a peer who is paying attention. if the conversation opens up naturally into the fleet maintenance angle \u2014 that the bike-based last-mile workers and the ev technicians are both part of the infrastructure roboride requires \u2014 i will share that frame. but i am not going in with an agenda."
     },
     {
       "type": "SOCIAL",
@@ -35,55 +35,39 @@
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Issue an urgent public policy statement on the Rob..."
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Convene the emergency task force session today as ..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Convene an emergency coordination session with Pat..."
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Issue a public acknowledgment of the nine protests..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Sarah Kim is making some kind of change \u2014 something about Actually purchase basic health insurance coverage ..."
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Reach out directly to Angela Wright before the tas..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Sarah Kim is making some kind of change \u2014 something about Have a direct conversation with Carlos about the R..."
+      "content": "Someone mentioned that Sarah Kim is making some kind of change \u2014 something about Begin concretely mapping the post-certification la..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about Tell Linda directly, in a brief in-person or writt..."
+      "content": "Someone mentioned that Miguel Hernandez is making some kind of change \u2014 something about Call Carlos back. He reached out to me \u2014 that is n..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Miguel Hernandez is making some kind of change \u2014 something about Have a direct conversation with Carlos (mechanic_c..."
+      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Send a brief, warm note to Grace Okafor acknowledg..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Confirm and prepare for the phone screen with the ..."
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Follow up directly with Lisa Freeman \u2014 not a passi..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Send a targeted update to Grace Okafor acknowledgi..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Make a decision on health insurance. After five ti..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Follow up with Lisa Freeman to confirm the two rep..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Check in on Betty Kowalski \u2014 not as a contractor l..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Attend Kevin O'Brien's Thursday evening office hou..."
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Go back to Betty Kowalski's diner. This is the sec..."
     },
     {
       "type": "OUTCOME",
-      "content": "You Continue EVT Level 2 certification retraining \u2014 month four of ten. This month the coursework moves into EV drivetrain systems, regenerative braking diagnostics, and thermal management of battery packs. The work is getting harder and more directly applicable to the EVs I will be asked to service. Show up to evening and weekend sessions. Do not skip. Do not coast. At 40% completion this is not a turning-back point \u2014 it is the point where the credential becomes visible on the horizon. The training will not complete itself and the market will not wait.. Savings grew by $193. "
+      "content": "You Continue EVT Level 2 certification retraining \u2014 month five of ten. This month the coursework enters EV charging infrastructure, on-board diagnostics for electric drivetrains, and fault code interpretation for battery management systems. The material is becoming specific enough that I can see direct connections to what will sit in my bay in two years. Show up to every evening and weekend session. Do not negotiate with the fatigue. At 50% completion by end of this month, the credential is no longer aspirational \u2014 it is measurable. I am doing this regardless of what Patricia's consolidation decides, because the certification belongs to me and not to any employer.. Savings grew by $193. "
     }
   ]
 }

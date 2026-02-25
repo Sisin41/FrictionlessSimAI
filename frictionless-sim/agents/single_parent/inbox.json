@@ -1,5 +1,5 @@
 {
-  "tick": 9,
+  "tick": 10,
   "messages": [
     {
       "type": "AMBIENT",
@@ -11,11 +11,23 @@
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Business closing: Denise Williams \u2014 send a targeted update to grace okafor acknowledging the roboride delivery announcement and what it means for the garage business case \u2014 and to close the loop on the hospital lead. denise sends a short, warm message: she thanks grace for the introduction to the millfield general contact, confirms the phone screen is in motion, and mentions briefly that the delivery partnership announcement has directly validated the infrastructure modernization work she has been building. she does not ask for anything. this is a relationship maintenance signal \u2014 letting grace know that her help moved the needle, and that denise is executing on both fronts. grace is clearly managing her own urgent situation right now (the roboride price drop hit her income too), so denise keeps the message brief and reciprocal: she acknowledges grace's disruption exposure and says she is thinking of her. one paragraph. no ask."
+      "content": "Business closing: Miguel Hernandez \u2014 immediately pick up maximum viable gig shifts this month \u2014 bike delivery via doordash and any last-mile delivery work that does not require a car. roboride's residential delivery expansion makes this viable as a last-mile layer: the robotaxi brings the package close, i deliver the final block. research the roboride delivery partner registration process this week \u2014 if it pays better than doordash bike routes, shift hours toward it. target: 15 to 20 hours of gig work per week across evenings and weekends, carefully scheduled so it does not conflict with tuesday/thursday evening classes and saturday morning class. this is not a career pivot. this is survival. the goal is to generate $400 to $600 this month \u2014 enough to stop the savings bleed while i stay enrolled in the cert program. at $1,180 in savings and $1,200/month in essentials, i have less than one month of runway. this is the constraint that overrides everything except keeping my cert streak alive."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Community action: Denise Williams \u2014 confirm and prepare for the phone screen with the facilities director at millfield general for the infrastructure operations supervisor role. denise sent her resume and proposed time windows last tick. this tick she follows through: she confirms whichever time was accepted, does targeted preparation for the call, and treats it as a full interview even though it was presented informally. her preparation covers three things: (1) she maps her garage experience onto the specific language in the millfield general job description \u2014 every line about multi-shift staffing, compliance oversight, vendor management, and budget accountability gets a concrete example from her current role; (2) she prepares one forward-looking answer about how she thinks about infrastructure modernization, using her ev/staging research as the proof point \u2014 this is not just self-promotion, it demonstrates she thinks in 5-year time horizons which is exactly what a facilities director needs; (3) she prepares a question about the scope of the role that signals strategic interest: 'how is the facilities function at millfield general thinking about the infrastructure demands of expanded outpatient volume over the next three to five years?' she is not playing the interview as a desperate candidate. she is playing it as a peer conversation between operations professionals."
+      "content": "Business closing: Stephanie Morris \u2014 follow up with amir patel today \u2014 by phone, not email \u2014 to close two things: the valuation fee for the tick 8 site visit, and a decision on what kind of ongoing engagement he wants. his inbox shows he is pursuing the ev charger financing and the chargepoint partnership proposal. he took the ev retrofit scenario from my four-scenario analysis and is executing on it \u2014 that is exactly what the analysis was designed to enable. my call acknowledges that directly: 'you are moving on the ev retrofit path. that is a real decision and the timeline you are working with \u2014 locking financing and getting the chargepoint proposal before committing \u2014 is exactly the right sequence.' then i ask the direct question: does he want me involved in the transaction side? if he pursues the ev retrofit and stays as owner-operator, he may eventually want to lease surplus space or sell the property in a converted state \u2014 that is a future listing. if the ev retrofit economics come back worse than expected from the chargepoint proposal, he may pivot to the sale path. either way, i want a clear engagement \u2014 either a consulting arrangement for the advisory work i have already done, or a listing agreement contingent on which path he chooses. the valuation fee for tick 8 was $1,500 \u2014 standard commercial property assessment fee for a two-hour site visit with written deliverables. i raise it directly, professionally, and i give him 30 days to pay it. i do not let the fee conversation linger indefinitely."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Stephanie Morris \u2014 call betty kowalski after the task force session \u2014 late afternoon, not morning. i want to call her with something specific from the session: what the policy environment actually looks like right now, whether the licensing framework changes are going to be stabilizing or destabilizing for auto row, and whether the adaptive reuse permitting question came up. that is actionable intelligence that no one else will give her today. before the call, i know from word-of-mouth that she is attending kevin o'brien's office hours and exploring the roboride delivery partnership. i do not pretend i do not know this. i lead with it: 'i heard you went to kevin's office hours. smart move \u2014 knowing your financing options matters regardless of what you decide about the property.' that normalizes her deliberation without pressuring it. then i give her the task force read. then i ask the direct question i have been holding since tick 7: is she ready to walk the property with me and get the formal written valuation she can use with her landlord or a buyer? if yes, i bring the listing agreement. if not, i give her a specific deadline \u2014 not a pressure tactic, but an honest one: the spending index at 40 and employment at 67% mean the buyer pool is thinner every week. i will not tell her the window closes faster than it actually does. but i will tell her the truth, which is that the window is not getting wider."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Stephanie Morris \u2014 make contact with patricia hawkins's office this week \u2014 or rick tanner directly if his relationship with stephanie can be established \u2014 about the dealership location that is being closed by end of q2. from the inbox intelligence: patricia is formally committing to close one sales floor location, and rick tanner is her analyst on the consolidation assessment. the service technicians are getting transfer offers; sales floor staff are being informed within a week. this means the property decision is coming within weeks, not months. i reach out with a specific, brief message that references my market brief from tick 1 and the nine ticks of auto row trajectory data i have compiled. the message is not a cold pitch \u2014 it is an introduction with a specific credential: 'i published an analysis of auto-adjacent commercial property on auto row in early tick 1 that specifically modeled dealership lot adaptive reuse scenarios. that analysis has tracked accurately through tick 9. i am the agent who has been working this corridor with current data for the full disruption period. if you are evaluating options for the location you are closing, i can provide a valuation and adaptive reuse demand mapping within 48 hours.' i do not oversell. i make one specific credentialed offer and give them a way to reach me."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: Denise Williams \u2014 send a concise, professional thank-you note to the millfield general facilities director following the phone screen. the note does two things and nothing more: (1) thanks him specifically for the time and references one concrete topic from the call that demonstrates she was engaged and present \u2014 not a generic 'great conversation' but a real callback to something he said about the role scope or the facilities function's priorities; (2) reaffirms her interest in one sentence. she does not ask about timeline. she does not ask where she stands. she sends the note within 48 hours of the call and then she waits. the discipline here is as important as the note itself \u2014 she does not follow up on the follow-up. she has done her part. she lets the process move at institutional speed."
     },
     {
       "type": "SOCIAL",
@@ -23,55 +35,47 @@
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about Tell Linda directly, in a brief in-person or writt..."
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Attend Maria Santos's emergency task force session..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Contact RoboRide local partnership coordinator to ..."
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Follow up with RoboRide partnership coordinator on..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Betty goes to Carlos Ruiz's shop and buys him lunc..."
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Call Carlos Ruiz. The lunch at tick 8 opened the c..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Betty attends Kevin O'Brien's office hours at the ..."
+      "content": "Someone mentioned that Miguel Hernandez is making some kind of change \u2014 something about Call Carlos back. He reached out to me \u2014 that is n..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Miguel Hernandez is making some kind of change \u2014 something about Have a direct conversation with Carlos (mechanic_c..."
+      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Send a brief, warm note to Grace Okafor acknowledg..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Confirm and prepare for the phone screen with the ..."
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Attend Maria Santos's emergency task force session..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Send a targeted update to Grace Okafor acknowledgi..."
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Make contact with Patricia Hawkins's office this w..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Follow up directly with Maria Santos's office toda..."
+      "content": "Someone mentioned that Grace Okafor is making some kind of change \u2014 something about Complete NEMT certification this tick and begin im..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Make a brief professional check-in with James Patt..."
+      "content": "Someone mentioned that Grace Okafor is making some kind of change \u2014 something about Send a final, very brief message to Nicole Washing..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Grace Okafor is making some kind of change \u2014 something about Contact the workforce development office again \u2014 t..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Grace Okafor is making some kind of change \u2014 something about Research and enroll in NEMT certification. Begin a..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Grace Okafor is making some kind of change \u2014 something about Send a direct message to Nicole Washington. Move b..."
+      "content": "Someone mentioned that Grace Okafor is making some kind of change \u2014 something about Send a brief reply to Denise Williams. Warm, recip..."
     },
     {
       "type": "OUTCOME",
-      "content": "You Respond to Grace Okafor's direct question with the staffing intelligence gathered from nurse colleagues last tick. Tell her what I actually know: NEMT experience does register with hiring managers at Millfield General, but only when the applicant frames it as clinical context, not just driving. The units that are currently expanding \u2014 the post-acute step-down and the transitional care unit \u2014 are the ones where patient transport familiarity could convert. Units that are contracting are primarily OR-adjacent specialties that are being right-sized. The charge nurse I spoke to said something specific that Grace needs to hear: 'I want to see people who already know what a confused patient looks like in a moving vehicle.' That is NEMT experience, named. I am also going to close the loop on her tick 7 thank-you \u2014 acknowledge that the Denise Williams connection happening fast was genuinely satisfying, and that I am glad it landed. This is not a transaction. It is a relationship and I am going to say so.. Savings grew by $285. "
+      "content": "You Respond to Grace Okafor's direct message. Acknowledge she acted on the NEMT framing \u2014 enrolling in the certification confirms she understood the specific intelligence I gave her, not just the general direction. Give her one additional piece of timing context she will need: the transitional care unit at Millfield General runs hiring in cohorts tied to the academic year cycle. If she is targeting a CNA position there, the realistic entry window is spring placement, which means her application needs to be visible to the hiring manager by late winter. The NEMT certification paired with that framing needs to be in her materials before then. I am not going to overload her \u2014 one piece of actionable timing intelligence, delivered clearly. Also tell her: I saw Denise's update. The fact that the hospital connection is in motion is real. What Grace helped make happen there matters to me, not just professionally but as a neighbor navigating the same disrupted city.. Savings dropped by $4,630. Employment status changed to unemployed. "
     }
   ]
 }

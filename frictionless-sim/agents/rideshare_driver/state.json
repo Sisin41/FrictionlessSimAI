@@ -30,8 +30,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 3.7,
-      "threat_level": 0.69,
+      "runway_months": 3.8,
+      "threat_level": 0.68,
       "monthly_essentials": 1750,
       "health_cost_from_stress": 0
     },
@@ -79,7 +79,7 @@
       "availability_heuristic": 0.31,
       "social_proof_sensitivity": 0.59
     },
-    "sentiment": "determined"
+    "sentiment": "tense but controlled \u2014 the urgency is real but not panicked. The tick 8 calls were the hardest act; following up is process work. The waiting is harder psychologically than the action was, but Robert has been preparing for this moment for months and he knows that this is exactly how transitions work. The cert is real. The outreach is in motion. He is in the pipeline. He holds."
   },
   "psychological": {
     "stress_level": 0.23,
@@ -91,7 +91,7 @@
   "financial": {
     "monthly_income": 3500,
     "monthly_expenses": 2725,
-    "savings": 10096,
+    "savings": 10483,
     "debt_total": 18248,
     "credit_score": 784
   },
@@ -132,6 +132,6 @@
     "willingness_to_move": 0.5
   },
   "locality": "millfield",
-  "archetype": "adapter",
-  "tick_updated": 8
+  "archetype": "adapter \u2014 fully committed to the transition now. The identity as a rideshare driver is functionally over, even if the car is still running. He is a credentialed NEMT driver in a job search. That is how he thinks of himself now.",
+  "tick_updated": 9
 }

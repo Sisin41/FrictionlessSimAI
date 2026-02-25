@@ -42,7 +42,7 @@
     },
     "L2_PARTICIPATE": {
       "employment_status": "employed",
-      "skill_relevance": 0.58,
+      "skill_relevance": 0.61,
       "role_security": 0.77,
       "network_strength": 0.39
     },
@@ -80,7 +80,7 @@
       "availability_heuristic": 0.5,
       "social_proof_sensitivity": 0.41
     },
-    "sentiment": "anxious"
+    "sentiment": "anxious_but_anchored"
   },
   "psychological": {
     "stress_level": 0.27,
@@ -92,7 +92,7 @@
   "financial": {
     "monthly_income": 5800,
     "monthly_expenses": 5414,
-    "savings": 36344,
+    "savings": 36537,
     "debt_total": 89330,
     "credit_score": 767
   },
@@ -125,8 +125,8 @@
       "description": "begin ev certification training \u2014 retrain on electric vehicle systems, high-voltage safety, battery diagnostics, and ev-specific repair protocols. this is the start of a multi-tick skill transformation that will raise my skill_relevance from 0.5 toward 0.75+.",
       "started_tick": 4,
       "completion_eta_months": 10,
-      "progress": 0.30000000000000004,
-      "months_invested": 3
+      "progress": 0.4,
+      "months_invested": 4
     }
   ],
   "temporal_mismatches": {
@@ -141,5 +141,5 @@
   },
   "locality": "millfield",
   "archetype": "adapter",
-  "tick_updated": 8
+  "tick_updated": 9
 }

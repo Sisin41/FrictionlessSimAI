@@ -1,5 +1,5 @@
 {
-  "tick": 9,
+  "tick": 10,
   "messages": [
     {
       "type": "AMBIENT",
@@ -14,36 +14,40 @@
       "content": "Auto loan applications down. Lending volume index: 79."
     },
     {
-      "type": "DIRECT_IMPACT",
-      "content": "Community action: Kevin O'Brien \u2014 formally request a portfolio expansion meeting with david chen (or his successor/interim manager if david has departed) to add small business lending and personal loan origination to kevin's active scope. the nmls mortgage pathway is 8 months out. small business and personal loan work is something kevin can do with existing credentials now. frame it as: auto volume is structurally declining, kevin has the compliance and credit skills, the bank has sba products and personal loan products that are underutilized, and kevin wants to be the originator who covers that gap starting this month. this is not a request for reassignment \u2014 it is a request to expand the current role rather than wait for attrition to force a move."
-    },
-    {
       "type": "SOCIAL",
       "content": "People around you are stressed: Rick Tanner. The mood is tense."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Send a second internal memo to AutoShield corporat..."
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Have a direct, private conversation with Priya Sha..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Continue CRMP certification coursework \u2014 now in mo..."
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Re-engage the strongest of the three external empl..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Reach out to Betty Kowalski directly \u2014 not as a so..."
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Continue CRMP certification coursework \u2014 now month..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Continue the NMLS mortgage origination training. M..."
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Follow up with Betty Kowalski on the tick 8 outrea..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Hold the Community Center financial office hours s..."
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Respond to David Chen's informal outreach. Kevin's..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Hold the second Community Center financial office ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Continue NMLS mortgage origination training. Modul..."
     },
     {
       "type": "OUTCOME",
-      "content": "You Follow up directly with Linda Park on the tick 7 outreach \u2014 not a second ask, but a brief, professional note acknowledging the RoboRide expansion as the context for my outreach. Frame it: I reached out last week because I saw this coming, and this week confirms the trajectory. The point is not to say 'I told you so' \u2014 it is to demonstrate that I understand the market with precision, that I can be useful to anyone in the regional financial services space who needs someone who can read disruption early. Ask specifically whether she has heard of any credit union, community bank, or insurance-adjacent finance roles in the region \u2014 and offer to share the scenario models I built at First Community as context for any conversation she facilitates. This is active relationship management, not passive networking.. Savings dropped by $6,961. "
+      "content": "You routine. Savings dropped by $6,961. "
     }
   ]
 }
