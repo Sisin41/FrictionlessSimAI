@@ -1,5 +1,5 @@
 {
-  "tick": 6,
+  "tick": 7,
   "messages": [
     {
       "type": "AMBIENT",
@@ -14,36 +14,8 @@
       "content": "Robotaxi adoption: 7%. "
     },
     {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Frank Russo is making some kind of change \u2014 something about Follow up with Mark Thompson directly \u2014 not a seco..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Frank Russo is making some kind of change \u2014 something about Frank contacts whoever is administering the 12-per..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Frank Russo is making some kind of change \u2014 something about Frank begins drafting a one-page teaching portfoli..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Denise Williams (Parking Garage Manager): Follow up with Carlos Ruiz, Rachel Green, and Betty Kowalski \u2014 the three contacts I reached out to last tick. Not a cold message this time. A direct, specific ask: do you know of any open operations, facilities, or logistics management roles? Have you heard of anything? I am not broadcasting that I am desperate. I am demonstrating that I am active, targeted, and that my ask is specific enough to be actionable."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Denise Williams (Parking Garage Manager): Reach out directly to Grace Okafor. Not because I am switching to healthcare \u2014 I am not \u2014 but because Grace is successfully navigating exactly the kind of dual-track transition I may need to understand. She is driving rideshare while building toward nursing. She knows what the community college retraining programs actually look like on the ground, what the grant landscape is, and what the realistic timeline is for an income-generating credential. I want thirty minutes of her time. I frame it as peer-to-peer: I am managing a career pivot in transport and would value her perspective on how she is navigating the education side."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Follow up directly with Maria Santos's council off..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Post one piece of short-form content on TikTok or ..."
-    },
-    {
       "type": "OUTCOME",
-      "content": "You Text Robert Jackson with the specific information he asked for: the community college CNA program runs 16 weeks, costs roughly $2,800, and has a clinical placement component that connects directly to hospital hiring. Patient transport (NEMT certification) is faster \u2014 about 40 hours of training \u2014 and you can bill through Medicaid if you get the right vehicle certification, which makes it a real bridge income. The workforce retraining grant I applied for has a 6-8 week decision window; I have not heard back yet but the application is in. In exchange, I want to confirm one thing from him: which NEMT companies in Millfield are actually hiring and what the per-mile rate differential looks like versus standard rideshare.. Savings grew by $206. "
+      "content": "You Say yes to Denise Williams. Text her: I can do thirty minutes this week \u2014 Wednesday afternoon or Thursday morning, whichever works for you. I will tell her what the community college process actually looks like, what the grant application requires, and what the realistic timeline is to an income-generating credential from a standing start. In exchange I want to hear one thing from her: how is she reading the pace of change in transport infrastructure from where she sits? She manages a parking garage. She sees the flow of vehicles, the utilization patterns, the conversations with operators. That is ground-level intelligence I do not have.. Savings grew by $206. "
     }
   ]
 }

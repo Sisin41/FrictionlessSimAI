@@ -1,5 +1,5 @@
 {
-  "tick": 6,
+  "tick": 7,
   "messages": [
     {
       "type": "AMBIENT",
@@ -14,56 +14,24 @@
       "content": "Auto sector revenue index: 79 (baseline: 100). Foot traffic and sales are somewhat down."
     },
     {
-      "type": "DIRECT_IMPACT",
-      "content": "Community action: Linda Park \u2014 have the one-on-one with priya sharma that she requested \u2014 and do it honestly. when she delivers her field assessment that the personal auto book is structurally terminal, i don't deflect. i confirm i share that read. i tell her what i did in tick 4: that i already sent the memo to corporate making the case for a commercial fleet pivot. i tell her i don't have a response yet. i ask her directly: if autoshield does not pivot, what is her own timeline? i am not telling her to start looking \u2014 but i am treating her like an adult who already knows the math. this protects my credibility with her more than any reassurance would."
+      "type": "SOCIAL",
+      "content": "People around you are stressed: Rick Tanner, Angela Wright. The mood is tense."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Hold a public listening session at Millfield Commu..."
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Issue the formal public statement on RoboRide comp..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Accept David Chen's counter-offer and operationali..."
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Bring a council motion to expand the small busines..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Issue a formal public statement on RoboRide compli..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Use Betty Kowalski's testimony to formally expand ..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Have the one-on-one with Priya Sharma that she req..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Send a brief, professionally framed email to David..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Carlos Ruiz (Master Mechanic): Reach out to Mark Thompson at the high school auto shop. Not to ask for anything specific \u2014 just to make contact, find out what his EV curriculum looks like, and let him know I am doing the EVT Level 2 certification. Open a professional bridge. He may know things about the local EV service landscape that I do not. And if there is ever a part-time teaching opportunity on EV systems down the road, I want my name to be in his head."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Miguel Hernandez is making some kind of change \u2014 something about Stay enrolled and attend automotive service techni..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Miguel Hernandez is making some kind of change \u2014 something about Reach out directly to Carlos Ruiz. Mention I heard..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Follow up directly with Maria Santos's council off..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Post one piece of short-form content on TikTok or ..."
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Respond to Patricia Hawkins's direct outreach. Acc..."
     },
     {
       "type": "OUTCOME",
-      "content": "You Continue EVT Level 1 certification coursework \u2014 complete the next module covering EV high-voltage safety and battery management fundamentals. Log at least 8 hours this month on evening and weekend study sessions. Use my existing electrical skills to move faster through the battery module than classmates without that background.. Savings grew by $249. "
+      "content": "You routine. Savings grew by $249. "
     }
   ]
 }

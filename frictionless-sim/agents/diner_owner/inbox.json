@@ -1,5 +1,5 @@
 {
-  "tick": 6,
+  "tick": 7,
   "messages": [
     {
       "type": "AMBIENT",
@@ -7,39 +7,27 @@
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 77%."
+      "content": "Local unemployment rising. Employment rate: 73%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 48 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 42 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
       "content": "You notice more robotaxis on the streets. About 7% of people seem to be using them regularly."
     },
     {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Rick Tanner is making some kind of change \u2014 something about Walk into Patricia's executive review with unfilte..."
+      "type": "SOCIAL",
+      "content": "People around you are stressed: Patricia Hawkins, Rick Tanner. The mood is tense."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Rick Tanner is making some kind of change \u2014 something about Formally commit to producing a location-specific c..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Rick Tanner is making some kind of change \u2014 something about After the Patricia meeting, send a short note to J..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Reach out to Mark Thompson at the high school auto..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Reach out to Betty Kowalski directly \u2014 coffee or a..."
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Call Betty Kowalski directly \u2014 she has been follow..."
     },
     {
       "type": "OUTCOME",
-      "content": "You Follow up directly with Maria Santos's office on the pending grant application submitted at tick 2. Call or visit in person. Ask for a status update and a realistic timeline. If expedited disbursement was discussed at the task force meeting, ask whether my application qualifies. The purpose is twofold: get information I need to plan, and remind them I exist and am waiting.. Savings dropped by $4,268. Employment status changed to unemployed. "
+      "content": "You routine. Savings dropped by $4,268. "
     }
   ]
 }

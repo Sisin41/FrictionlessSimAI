@@ -1,5 +1,5 @@
 {
-  "tick": 6,
+  "tick": 7,
   "messages": [
     {
       "type": "AMBIENT",
@@ -14,68 +14,16 @@
       "content": "Active auto insurance policies in area: 22. Cancellations increasing."
     },
     {
-      "type": "DIRECT_IMPACT",
-      "content": "Business closing: Jake Morrison \u2014 personally work my single best remaining pre-qualified lead \u2014 the buyer who came in twice in the past 60 days, looked at a 2021 civic priced at $19,400, said they needed to 'think about it.' i call them directly, not a text, not an email. i run the monthly payment math with them on the phone: $19,400 financed over 60 months at current rates is under $380/month. i offer to hold the unit for 48 hours at that price with no obligation. this is the one i close. i don't pitch the lot \u2014 i pitch this specific car to this specific person. if they say no i ask one question: what would it take?"
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "Business closing: Jake Morrison \u2014 request a one-on-one with rick tanner this week. not to complain, not to ask for protection \u2014 to present value. i bring my last 90 days of personal close data, my pipeline of pre-qualified leads by price tier, and a one-page read on which inventory segments still have buyer interest. i also ask him directly, casually, whether the stay bonus patricia mentioned at the all-hands applies to floor sales staff. i want to know if the $12k is on the table before angela's map goes in and before rick has categorized me without my input."
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "Community action: Linda Park \u2014 have the one-on-one with priya sharma that she requested \u2014 and do it honestly. when she delivers her field assessment that the personal auto book is structurally terminal, i don't deflect. i confirm i share that read. i tell her what i did in tick 4: that i already sent the memo to corporate making the case for a commercial fleet pivot. i tell her i don't have a response yet. i ask her directly: if autoshield does not pivot, what is her own timeline? i am not telling her to start looking \u2014 but i am treating her like an adult who already knows the math. this protects my credibility with her more than any reassurance would."
+      "type": "SOCIAL",
+      "content": "People around you are stressed: Betty Kowalski. The mood is tense."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Have the one-on-one with Priya Sharma that she req..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Send a brief, professionally framed email to David..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Jake Morrison is making some kind of change \u2014 something about Request a one-on-one with Rick Tanner this week. N..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Reach out to Mark Thompson at the high school auto..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about Respond to Linda Park's one-on-one request with a ..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about Reach out to Tom Bradley \u2014 not a long conversation..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Follow up directly with Maria Santos's office on t..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that James Patterson is making some kind of change \u2014 something about Continue and formalize the job market readiness po..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Formally adopt RoboRide as my primary transportati..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Mention to my library volunteer colleagues and the..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Follow up directly with Maria Santos's council off..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Post one piece of short-form content on TikTok or ..."
+      "content": "Someone mentioned that James Patterson is making some kind of change \u2014 something about Make one quiet, low-stakes professional move this ..."
     },
     {
       "type": "OUTCOME",
-      "content": "You Respond to Linda Park's briefing on the commercial rideshare and AV liability pivot with a professionally worded acknowledgment. Express willingness to learn about the new product lines. Do not push back, do not ask hard questions about timeline or job security, do not match Priya's energy or ambition. Say the right words. Keep my head down. What I'm actually signaling is: I am not a problem, I am not resistant, I am manageable. This buys time.. Savings dropped by $2,697. "
+      "content": "You routine. Savings dropped by $3,362. "
     }
   ]
 }

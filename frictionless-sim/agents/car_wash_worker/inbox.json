@@ -1,5 +1,5 @@
 {
-  "tick": 6,
+  "tick": 7,
   "messages": [
     {
       "type": "AMBIENT",
@@ -7,11 +7,11 @@
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 77%."
+      "content": "Local unemployment rising. Employment rate: 73%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 48 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 42 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
@@ -23,43 +23,23 @@
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Business closing: Stephanie Morris \u2014 follow up with the two to three prospects from tick 4 outreach who expressed interest, with the explicit goal of converting pipeline conversations into signed listing agreements. present updated valuations incorporating the accelerating vacancy data, the three-car-sale signal from this month, and the deteriorating consumer spending index. for suburban flex-space owners, close on a listing agreement using the post-roboride accessibility argument. for downtown and auto-row owners, create urgency around the window to exit before values compress further."
+      "content": "Stephanie Morris laid off workers: execute an emergency re-outreach to all active listing prospects \u2014 prioritizing auto row and downtown property owners \u2014 using the spending index collapse (48) and the city council's formal designation of auto row as distressed (10% grant threshold) as dual urgency anchors. for owners who said 'not yet' at tick 5, reframe the conversation: the city has now publicly confirmed what i've been telling them privately. for owners already in pipeline conversations, move hard toward signed listing agreements this week. the message is direct: the window to transact at a price that reflects this property's history rather than its future is closing. price compression on auto row properties will accelerate once the tanner auto mall consolidation assessment becomes public and layoffs formalize. sellers who move now are ahead of that signal; sellers who wait will be pricing into a market that has already absorbed the news."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Stephanie Morris \u2014 call betty kowalski directly \u2014 she has been following up with maria santos's office and her testimony shaped the 10% grant threshold policy for auto row. i want to know what auto row owners are telling her about their hold-or-sell thinking right now, especially after the spending collapse. i also want to plant a seed: for business owners on auto row who are weighing whether to close or restructure, the real estate decision \u2014 lease, sell, sublease \u2014 is something they should not make without a proper valuation. i am not soliciting clients through betty, but i am making sure she knows my name is the right name to say when that question comes up. trust with betty is 0.57 \u2014 this relationship has room to deepen."
+    },
+    {
+      "type": "SOCIAL",
+      "content": "People around you are stressed: Betty Kowalski. The mood is tense."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Jake Morrison is making some kind of change \u2014 something about Request a one-on-one with Rick Tanner this week. N..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Carlos Ruiz (Master Mechanic): Reach out to Mark Thompson at the high school auto shop. Not to ask for anything specific \u2014 just to make contact, find out what his EV curriculum looks like, and let him know I am doing the EVT Level 2 certification. Open a professional bridge. He may know things about the local EV service landscape that I do not. And if there is ever a part-time teaching opportunity on EV systems down the road, I want my name to be in his head."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Sarah Kim (Junior Mechanic): Reach out to Mark Thompson, the auto shop teacher at Millfield High, to introduce myself and ask about his EV battery and charging certification program. Frame it as a fellow practitioner wanting to understand the curriculum \u2014 not as a student asking for help. See if there's overlap with my EVT Level 1 coursework, access to their lab equipment, or a chance to do some informal cross-training."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Formally adopt RoboRide as my primary transportati..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Mention to my library volunteer colleagues and the..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Follow up directly with Maria Santos's council off..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Post one piece of short-form content on TikTok or ..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Reach out to Betty Kowalski directly \u2014 coffee or a..."
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Call Betty Kowalski directly \u2014 she has been follow..."
     },
     {
       "type": "OUTCOME",
-      "content": "You Stay enrolled and attend automotive service technician certificate classes this month. No skipping. Program is at 12% completion \u2014 keep the streak alive and push toward 20%.. Savings grew by $131. "
+      "content": "You routine. Savings grew by $131. "
     }
   ]
 }

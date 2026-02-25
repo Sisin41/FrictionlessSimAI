@@ -1,5 +1,5 @@
 {
-  "tick": 6,
+  "tick": 7,
   "messages": [
     {
       "type": "AMBIENT",
@@ -7,11 +7,11 @@
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 77%."
+      "content": "Local unemployment rising. Employment rate: 73%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 48 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 42 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
@@ -23,127 +23,71 @@
     },
     {
       "type": "NEWS",
-      "content": "Patricia Hawkins laid off workers: begin privately processing the emotional weight of the layoffs i made this month. these were people \u2014 some of them longtime employees, possibly people my father knew when he ran the original lot. i need to sit with what i did, not just manage the narrative around it. write a private note to myself about each person laid off: what their role was, what they contributed, and what i could realistically do to help them \u2014 whether that is a strong reference, outplacement support through angela's transition program, or a direct call to howard liu or other employers in the network who might have need."
+      "content": "Patricia Hawkins laid off workers: formally accept rick tanner's two-week timeline for the millfield auto mall consolidation readiness assessment. confirm in writing that his three-tier asset map \u2014 not a layoff list \u2014 is the authoritative document i will use for any q2 consolidation decisions. signal to him directly that the service lane is the survival core and that i will not make staffing decisions that undercut certified technician capacity. this is the strategic pivot i have been building toward: from a four-location sales-volume model to a service-and-retention model built around the parts of the business that autonomous ride-share cannot touch."
     },
     {
       "type": "NEWS",
-      "content": "Maria Santos laid off workers: hold a public listening session at millfield community center \u2014 not a town hall, not a press conference, something smaller and more honest. invite anyone who has been laid off, anyone whose business is struggling, anyone who has been to a protest. my job is to listen for ninety minutes and then say out loud what i heard. bring the task force chair. bring the grant committee contact info. let people see that the programs exist and that a human being is running them, not a form. i will specifically address the five active protests by acknowledging that the frustration is legitimate and the timeline of government response is inadequate. i will not promise things i cannot deliver. i will tell them what i have done, what is in motion, and what i am still fighting for."
+      "content": "Patricia Hawkins laid off workers: write private notes \u2014 not for distribution, not for hr files \u2014 about each person laid off this month. document their role, their tenure, what they contributed to the business my father started, and what i can realistically do for them: a direct call to howard liu at the parts store, a strong written reference, a referral into angela's transition program, or outplacement support through the maria santos task force channels now that the grant threshold is being lowered to 10% for auto row businesses. i will not manage the narrative on this. i will sit with what i did."
     },
     {
       "type": "NEWS",
-      "content": "Maria Santos laid off workers: use betty kowalski's testimony to formally expand the small business stabilization grant program. betty gave direct testimony to the task force. her testimony, combined with the spending index drop from 73 to 69 and the data on two more layoffs, is sufficient grounds to bring a council motion to extend the application window by 60 days and to lower the revenue decline threshold from 15% to 10% for businesses on auto row specifically. auto row is the ground zero of this disruption. the original 15% threshold may be keeping businesses that are hurting but not yet at that benchmark from accessing funds. a 10% threshold on auto row would be targeted, defensible, and directly responsive to the testimony i received."
+      "content": "Patricia Hawkins laid off workers: contact angela wright to confirm receipt of her formal progress update and to give her one additional directive: cross-reference the people i laid off this month against her transition program enrollment list. anyone from my layoffs who has not yet enrolled \u2014 i want angela to reach out personally, with my name behind it, and ensure they know the $2,500 grant threshold is being lowered to 10% on auto row, that first community bank has small-dollar loan products via david chen, and that millfield community college enrollment is open. i am not managing optics. i am making sure the people i let go have a path."
     },
     {
       "type": "NEWS",
-      "content": "Rick Tanner laid off workers: formally commit to producing a location-specific consolidation readiness assessment for millfield auto mall within two weeks \u2014 structured around the three-tier framework patricia outlined (ev/av-exposed, transition-ready, anchored roles) but layered with my floor-level knowledge of which techs are certifiable, which salespeople have transferable skills, and what the service lane capacity looks like under a reduced-sales model. not a layoff list. an asset map. i tell patricia this directly in the meeting."
+      "content": "Maria Santos laid off workers: bring a council motion to expand the small business stabilization grant program: extend the application window by 60 days and lower the revenue decline threshold from 15% to 10% for businesses on auto row specifically. betty kowalski's direct testimony before the task force, combined with the spending index dropping from 73 to 48 and two additional layoff events this month, constitutes sufficient grounds to act. a 10% threshold on auto row is targeted, defensible, and directly responsive to the testimony i received. businesses that are hurting but haven't yet crossed the 15% line are being shut out of relief they need now. i draft the motion this week and push for a vote at the next council meeting."
     },
     {
       "type": "NEWS",
-      "content": "Business closing: Maria Santos \u2014 accept david chen's counter-offer and operationalize it. he said the bank does not offer a categorical carve-out but that existing small-dollar loan and secured lending products are available to qualified applicants. i will take him up on that \u2014 not as a political concession but as a practical bridge. coordinate with the grant committee to create a one-page 'next steps' document for retraining enrollees that includes: (1) the $2,500 grant eligibility requirements and how to apply; (2) first community bank's small-dollar loan products with david's name and contact as a designated point of contact; (3) the millfield community college enrollment timeline. the gap between $2,500 and actual financial pressure during retraining is real. david's products do not close that gap completely, but they are real money available now. stop waiting for a perfect solution and start connecting people to the imperfect but functional one."
+      "content": "Maria Santos laid off workers: respond to patricia hawkins's direct outreach. accept a meeting \u2014 but frame it carefully. i am interested in workforce coordination: if she has auto tech employees she's letting go, and i have retraining programs, there is a practical handoff to build. i will bring the one-page 'next steps' document that lisa freeman's work with david chen is producing \u2014 the document that connects laid-off workers to the $2,500 grant, the bank's small-dollar loan products, and the community college enrollment timeline. patricia can hand that document to every worker she's laying off. that is something concrete she can do. i do not offer her political cover for the layoffs. i offer collaboration on the transition side."
     },
     {
       "type": "NEWS",
-      "content": "Business closing: Rick Tanner \u2014 after the patricia meeting, send a short note to jake morrison acknowledging the under-$22k floor strategy and clearing any internal friction \u2014 pull the units, make sure the lot positioning happens, confirm that the month-end close target is supported from the top. i do not micromanage jake's pitch, but i make sure he knows the gm is aligned and not going to undercut him with a competing priority."
+      "content": "Rick Tanner laid off workers: write a private note \u2014 not a report, not a memo \u2014 about each person who was laid off this month. what their role was. what they contributed. who i can call on their behalf: howard liu at the parts store, any service contacts who might have openings, angela's transition program. this is not about managing my image. it is about the fact that some of these people have been on this floor since before i was gm, and i was the one signing off on the staffing decisions that made their positions vulnerable."
     },
     {
       "type": "NEWS",
-      "content": "Business closing: Jake Morrison \u2014 personally work my single best remaining pre-qualified lead \u2014 the buyer who came in twice in the past 60 days, looked at a 2021 civic priced at $19,400, said they needed to 'think about it.' i call them directly, not a text, not an email. i run the monthly payment math with them on the phone: $19,400 financed over 60 months at current rates is under $380/month. i offer to hold the unit for 48 hours at that price with no obligation. this is the one i close. i don't pitch the lot \u2014 i pitch this specific car to this specific person. if they say no i ask one question: what would it take?"
+      "content": "Tamika Jefferson laid off workers: do the math on the two-track reality. if i close the hvac client at $350/month and hold the dealership job for the stay bonus qualifying period, my income picture shifts from deficit to near-balance. but i need to know: what is the actual qualifying period for the $12,000? angela has my name on the list. i need the timeline. if the qualifying period is four months, that changes my savings calculation significantly. if it's two months, i can afford to be aggressive on the freelance side sooner. i don't ask angela again this tick \u2014 i already asked. i wait for the response. but i sit down privately and model three scenarios: (1) i collect the bonus and leave clean; (2) layoffs happen before the bonus vests; (3) freelance income ramps fast enough that i leave voluntarily before the bonus matters. each scenario needs a different posture. i write this down, not just in my head."
     },
     {
       "type": "NEWS",
-      "content": "Business closing: Jake Morrison \u2014 request a one-on-one with rick tanner this week. not to complain, not to ask for protection \u2014 to present value. i bring my last 90 days of personal close data, my pipeline of pre-qualified leads by price tier, and a one-page read on which inventory segments still have buyer interest. i also ask him directly, casually, whether the stay bonus patricia mentioned at the all-hands applies to floor sales staff. i want to know if the $12k is on the table before angela's map goes in and before rick has categorized me without my input."
+      "content": "Stephanie Morris laid off workers: execute an emergency re-outreach to all active listing prospects \u2014 prioritizing auto row and downtown property owners \u2014 using the spending index collapse (48) and the city council's formal designation of auto row as distressed (10% grant threshold) as dual urgency anchors. for owners who said 'not yet' at tick 5, reframe the conversation: the city has now publicly confirmed what i've been telling them privately. for owners already in pipeline conversations, move hard toward signed listing agreements this week. the message is direct: the window to transact at a price that reflects this property's history rather than its future is closing. price compression on auto row properties will accelerate once the tanner auto mall consolidation assessment becomes public and layoffs formalize. sellers who move now are ahead of that signal; sellers who wait will be pricing into a market that has already absorbed the news."
     },
     {
       "type": "NEWS",
-      "content": "Business closing: Tamika Jefferson \u2014 close the first paying freelance client from the discovery call pipeline. target: the hvac contractor or one of the two restaurants from the tick 2 outreach \u2014 whoever showed the most engagement. convert the relationship from 'warm conversation' to a signed agreement: $350/month retainer, three months minimum, two social posts per week plus one monthly short-form video. send a simple one-page agreement via email today. no more 'let's talk soon.' a decision is required."
+      "content": "Business closing: Rick Tanner \u2014 accept jake morrison's request for a one-on-one this week. i review whatever data he brings \u2014 90-day close numbers, pipeline by price tier, inventory segment read \u2014 without defensiveness. i answer his question about the stay bonus honestly: i have heard the $12k figure mentioned but i do not have confirmed details yet, and i tell him i am raising it directly with patricia this week. i do not categorize him or his future before angela's map is done. i treat this as the conversation of two people trying to hold something together."
     },
     {
       "type": "NEWS",
-      "content": "Business closing: Stephanie Morris \u2014 follow up with the two to three prospects from tick 4 outreach who expressed interest, with the explicit goal of converting pipeline conversations into signed listing agreements. present updated valuations incorporating the accelerating vacancy data, the three-car-sale signal from this month, and the deteriorating consumer spending index. for suburban flex-space owners, close on a listing agreement using the post-roboride accessibility argument. for downtown and auto-row owners, create urgency around the window to exit before values compress further."
+      "content": "Business closing: Tamika Jefferson \u2014 do the math on the two-track reality. if i close the hvac client at $350/month and hold the dealership job for the stay bonus qualifying period, my income picture shifts from deficit to near-balance. but i need to know: what is the actual qualifying period for the $12,000? angela has my name on the list. i need the timeline. if the qualifying period is four months, that changes my savings calculation significantly. if it's two months, i can afford to be aggressive on the freelance side sooner. i don't ask angela again this tick \u2014 i already asked. i wait for the response. but i sit down privately and model three scenarios: (1) i collect the bonus and leave clean; (2) layoffs happen before the bonus vests; (3) freelance income ramps fast enough that i leave voluntarily before the bonus matters. each scenario needs a different posture. i write this down, not just in my head."
     },
     {
       "type": "NEWS",
-      "content": "Business closing: Grace Okafor \u2014 text nicole washington \u2014 the nurse in my network \u2014 and ask one focused question: she is working clinically right now, so i want to know if the hospital is actively hiring new grads or if there is a freeze, and whether she has heard anything about the workforce retraining grant decisions coming out. keep it brief and professional. she is not a close contact (trust 0.49) but she is the right person for this specific question."
+      "content": "Business closing: Stephanie Morris \u2014 call betty kowalski directly \u2014 she has been following up with maria santos's office and her testimony shaped the 10% grant threshold policy for auto row. i want to know what auto row owners are telling her about their hold-or-sell thinking right now, especially after the spending collapse. i also want to plant a seed: for business owners on auto row who are weighing whether to close or restructure, the real estate decision \u2014 lease, sell, sublease \u2014 is something they should not make without a proper valuation. i am not soliciting clients through betty, but i am making sure she knows my name is the right name to say when that question comes up. trust with betty is 0.57 \u2014 this relationship has room to deepen."
     },
     {
       "type": "NEWS",
-      "content": "New venture: Mark Thompson \u2014 respond to frank russo's outreach. call him back directly, set up a coffee meeting this week. approach it as a peer conversation \u2014 two educators with vehicle-related programs watching the same disruption from different angles. listen first: what is he thinking about doing with the driving school? is he looking to pivot, collaborate, or just vent? if he's open to it, float the idea that a driving school with av literacy curriculum could feed into the same auto tech pipeline infrastructure \u2014 safety, sensor awareness, human-av interaction. don't over-pitch. make him feel heard. build the relationship before asking anything of it."
+      "content": "New venture: Patricia Hawkins \u2014 contact angela wright to confirm receipt of her formal progress update and to give her one additional directive: cross-reference the people i laid off this month against her transition program enrollment list. anyone from my layoffs who has not yet enrolled \u2014 i want angela to reach out personally, with my name behind it, and ensure they know the $2,500 grant threshold is being lowered to 10% on auto row, that first community bank has small-dollar loan products via david chen, and that millfield community college enrollment is open. i am not managing optics. i am making sure the people i let go have a path."
     },
     {
       "type": "NEWS",
-      "content": "Community action: Maria Santos \u2014 hold a public listening session at millfield community center \u2014 not a town hall, not a press conference, something smaller and more honest. invite anyone who has been laid off, anyone whose business is struggling, anyone who has been to a protest. my job is to listen for ninety minutes and then say out loud what i heard. bring the task force chair. bring the grant committee contact info. let people see that the programs exist and that a human being is running them, not a form. i will specifically address the five active protests by acknowledging that the frustration is legitimate and the timeline of government response is inadequate. i will not promise things i cannot deliver. i will tell them what i have done, what is in motion, and what i am still fighting for."
+      "content": "Community action: Maria Santos \u2014 issue the formal public statement on roboride compliance. the 48-hour response window i set last tick has expired. i make the outcome public: if roboride has paid the $0.25 per-ride impact fee into the workforce fund and submitted quarterly reporting, i acknowledge it on record and publicize the first dollar figure flowing into the fund \u2014 making it a story about the licensing framework working. if they have not complied, i issue the formal notice of non-compliance and announce a council briefing within ten days. either outcome is a win for accountability. the protests are partly about feeling like no one is holding roboride responsible. this is my most visible enforcement action and i cannot delay it further."
     },
     {
       "type": "NEWS",
-      "content": "Community action: Maria Santos \u2014 issue a formal public statement on roboride compliance. i followed up last tick after the 48-hour response window expired. whatever their response was, i now make it public. if they are in compliance with the $0.25 per ride fee and the quarterly reporting requirement, i acknowledge it on the record and report the first estimated impact fee revenue figure \u2014 every dollar going into the workforce fund is a story i want told. if they are not in compliance, i issue the formal notice of non-compliance and announce a council briefing within ten days. either outcome serves the community: compliance means the fund is being fed, non-compliance means the council's licensing authority is real and being enforced. what i cannot do is sit on this another tick. the protests are partly about feeling like no one is holding anyone accountable. this is the most concrete accountability action i have."
+      "content": "Policy proposal: Maria Santos \u2014 issue the formal public statement on roboride compliance. the 48-hour response window i set last tick has expired. i make the outcome public: if roboride has paid the $0.25 per-ride impact fee into the workforce fund and submitted quarterly reporting, i acknowledge it on record and publicize the first dollar figure flowing into the fund \u2014 making it a story about the licensing framework working. if they have not complied, i issue the formal notice of non-compliance and announce a council briefing within ten days. either outcome is a win for accountability. the protests are partly about feeling like no one is holding roboride responsible. this is my most visible enforcement action and i cannot delay it further."
     },
     {
       "type": "NEWS",
-      "content": "Community action: Linda Park \u2014 have the one-on-one with priya sharma that she requested \u2014 and do it honestly. when she delivers her field assessment that the personal auto book is structurally terminal, i don't deflect. i confirm i share that read. i tell her what i did in tick 4: that i already sent the memo to corporate making the case for a commercial fleet pivot. i tell her i don't have a response yet. i ask her directly: if autoshield does not pivot, what is her own timeline? i am not telling her to start looking \u2014 but i am treating her like an adult who already knows the math. this protects my credibility with her more than any reassurance would."
+      "content": "3 people enrolled in retraining this month."
     },
     {
-      "type": "NEWS",
-      "content": "Community action: Lisa Freeman \u2014 follow up directly with david chen at the bank, accepting his offer of a conversation about specific lending products appropriate for retraining program participants. frame this not as renewed pressure for a categorical carve-out but as taking him up on his stated willingness to discuss pathways. prepare three to four concrete profiles \u2014 anonymized, composite \u2014 of retraining enrollees who have demonstrated repayment capacity but fail traditional qualification screens, so the conversation is grounded in specifics, not abstraction. outcome goal: identify at least one existing bank product that could be formally presented to maria santos's task force as an available resource for the excluded populations i testified about."
-    },
-    {
-      "type": "NEWS",
-      "content": "Policy proposal: Maria Santos \u2014 hold a public listening session at millfield community center \u2014 not a town hall, not a press conference, something smaller and more honest. invite anyone who has been laid off, anyone whose business is struggling, anyone who has been to a protest. my job is to listen for ninety minutes and then say out loud what i heard. bring the task force chair. bring the grant committee contact info. let people see that the programs exist and that a human being is running them, not a form. i will specifically address the five active protests by acknowledging that the frustration is legitimate and the timeline of government response is inadequate. i will not promise things i cannot deliver. i will tell them what i have done, what is in motion, and what i am still fighting for."
-    },
-    {
-      "type": "NEWS",
-      "content": "Policy proposal: Maria Santos \u2014 issue a formal public statement on roboride compliance. i followed up last tick after the 48-hour response window expired. whatever their response was, i now make it public. if they are in compliance with the $0.25 per ride fee and the quarterly reporting requirement, i acknowledge it on the record and report the first estimated impact fee revenue figure \u2014 every dollar going into the workforce fund is a story i want told. if they are not in compliance, i issue the formal notice of non-compliance and announce a council briefing within ten days. either outcome serves the community: compliance means the fund is being fed, non-compliance means the council's licensing authority is real and being enforced. what i cannot do is sit on this another tick. the protests are partly about feeling like no one is holding anyone accountable. this is the most concrete accountability action i have."
-    },
-    {
-      "type": "NEWS",
-      "content": "12 people enrolled in retraining this month."
-    },
-    {
-      "type": "NEWS",
-      "content": "Noticeable trend: 2 people sold or stopped using their cars this month."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Linda Park (Regional Manager, AutoShield Insurance): Have the one-on-one with Priya Sharma that she requested \u2014 and do it honestly. When she delivers her field assessment that the personal auto book is structurally terminal, I don't deflect. I confirm I share that read. I tell her what I did in tick 4: that I already sent the memo to corporate making the case for a commercial fleet pivot. I tell her I don't have a response yet. I ask her directly: if AutoShield does not pivot, what is her own timeline? I am not telling her to start looking \u2014 but I am treating her like an adult who already knows the math. This protects my credibility with her more than any reassurance would."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Linda Park (Regional Manager, AutoShield Insurance): Send a brief, professionally framed email to David Chen at First Community Bank. Not a social call, not a job inquiry \u2014 a peer-to-peer outreach from one risk professional to another. I note that I've seen he's been contributing economic stress and displacement data to Maria Santos' task force, and that my own work in risk assessment has given me data on the insurance-sector side of the same disruption \u2014 policy cancellation patterns, car ownership decline rates, shifting liability structures from personal auto to corporate fleet. I suggest a 30-minute call to compare notes. I am positioning myself as a peer stakeholder in the community's economic transition data, not as someone looking for a lifeline."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Tom Bradley is making some kind of change \u2014 something about Respond to Linda Park's briefing on the commercial..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Follow up directly with Maria Santos's office on t..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Miguel Hernandez is making some kind of change \u2014 something about Stay enrolled and attend automotive service techni..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Miguel Hernandez is making some kind of change \u2014 something about Reach out directly to Carlos Ruiz. Mention I heard..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Formally adopt RoboRide as my primary transportati..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Mention to my library volunteer colleagues and the..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Follow up directly with Maria Santos's council off..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Post one piece of short-form content on TikTok or ..."
+      "type": "SOCIAL",
+      "content": "People around you are stressed: Angela Wright, Betty Kowalski. The mood is tense."
     },
     {
       "type": "OUTCOME",
-      "content": "You Complete Module 3 of the SQL and data visualization course \u2014 joins and aggregation. Set aside two dedicated evening sessions this week. The goal is not just finishing the module; it is building one actual output: a simple query that pulls and aggregates hypothetical commercial fleet incident data, something I can screenshot or describe to Linda as proof of capability, not just enrollment.. Savings dropped by $1,733. "
+      "content": "You routine. Savings dropped by $2,162. "
     }
   ]
 }
