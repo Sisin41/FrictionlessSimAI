@@ -1,0 +1,34 @@
+{
+  "agent_id": "insurance_agent_tom",
+  "tick": 11,
+  "hierarchy_level": "L1_STABILIZE",
+  "emotional_state": "focused",
+  "archetype": "adapter",
+  "actions": [
+    {
+      "type": "TRANSFORMATION",
+      "description": "Activate Linda Park's introductions to fleet and logistics contacts. Linda has confirmed she is following through — word-of-mouth from her inbox shows she is sending Tom a specific introduction to a regional logistics company contact with a note that vouches for his field assessment skills and auto book management experience. I respond within 48 hours of receiving that introduction: a brief, professional message to the contact that references Linda's note, names my 28 years of auto risk assessment experience as the specific credential I bring, and asks for 20 minutes to discuss whether there is a defined role or a future conversation. I do not send a resume. I send a person. One paragraph, one ask, one follow-up date I name in advance.",
+      "target": "insurance_manager",
+      "expected_outcome": "Convert Linda Park's verbal commitment into an active introduction with a named contact at a regional logistics or fleet risk adjacent firm. Establish the first direct channel to Track 2 of the three-track adaptation plan — active job search via network."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Follow up with Priya Sharma on the conversation from tick 10. We spoke honestly about the job market signal, the grant applications, and Linda's contacts. This tick I send one specific follow-up item: I forward Priya the name and context of the logistics company contact Linda is introducing me to, and I ask directly — does the company's fleet risk profile suggest any data analytics or insurtech-adjacent roles that might match her skills? I am not asking her to compete with me. I am asking whether the same door might have two rooms. If not, no harm done. If yes, we both benefit. This is what the collaboration we named at tick 9 actually looks like in practice.",
+      "target": "insurance_agent_priya",
+      "expected_outcome": "Deepen the transition partnership with Priya by sharing network intelligence rather than hoarding it. If the logistics company has both a risk assessment need (my lane) and a data analytics need (her lane), we strengthen each other's candidacy rather than compete."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Continue retraining coursework — three dedicated evening sessions this tick on the SQL and commercial risk analytics curriculum. The habit has been established but the first weeks outside AutoShield are when discipline erodes. I document session completion in the training log so the retraining grant progress record stays current. I also check on the status of the $2,500 retraining grant application I filed at tick 8 — no confirmation has arrived in my inbox. A brief call to Maria Santos's office: reference my application date and ask for a status or confirmation number.",
+      "target": null,
+      "expected_outcome": "Maintain retraining momentum through the psychologically difficult first weeks of full unemployment. Close the grant status uncertainty by getting a confirmation number or a processing timeline. The grant is 7.5% of my remaining runway — not trivial."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Attend the Financial Triage Navigator session Lisa Freeman is running at the community center this week. I have two reasons to attend: first, Kevin O'Brien's office hours are reportedly happening there and he understands my savings position better than most — he knows what 13 months of runway at $2,650/month actually looks like from a lending perspective. Second, I want to understand what resources exist in the community for people in my situation. At 52 and unemployed, I am not unique in Millfield right now — employment is at 50%. The session may connect me to resources I am not aware of, or to people navigating similar transitions who have found paths I have not considered. I go as a participant, not as someone who has it figured out.",
+      "target": "community_organizer",
+      "expected_outcome": "Access to the Financial Triage Navigator resources Lisa Freeman has built. Possible reconnection with Kevin O'Brien. Connection with other community members navigating workforce transitions who may have market intelligence relevant to Track 2 of my adaptation plan."
+    }
+  ],
+  "reasoning": "Tick 11 is the first full tick in which Tom Bradley is genuinely post-AutoShield with no notice period remaining. The three-track plan is in motion: Track 1 (retraining) requires maintaining the SQL coursework habit under the psychological weight of unemployment; Track 2 (active job search) is now activated through Linda's concrete introduction to a logistics company contact; Track 3 (relational stability) continues through the Priya collaboration and the community center engagement. Linda's word-of-mouth message confirms she is following through on the introduction she promised — I need to move on it within 48 hours, not let it sit. Savings are approximately $33,273 (state $35,923 minus $2,650 tick 10 burn), runway still approximately 12-13 months at essential spending. The urgency is real but not yet emergency. This is the tick to demonstrate that momentum is not something grief can eat."
+}

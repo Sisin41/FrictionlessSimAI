@@ -1,0 +1,34 @@
+{
+  "agent_id": "insurance_agent_priya",
+  "tick": 11,
+  "hierarchy_level": "L0_SURVIVE",
+  "emotional_state": "urgent",
+  "archetype": "adapter",
+  "actions": [
+    {
+      "type": "SIGNAL",
+      "description": "Submit a fourth job application this tick — specifically targeting a regional insurtech firm or commercial fleet risk analytics role I have not yet applied to, expanding geographic scope to roles within 45 minutes. I use the fleet incident data query as the portfolio attachment. I write a tailored cover letter that references one specific detail from the job description to demonstrate genuine engagement with the role. I do not follow up on the three existing applications this tick — I applied value-add touches at tick 9 and I let that work. At 2.2 months of runway and four applications in flight, the probability math demands I keep volume up.",
+      "target": null,
+      "expected_outcome": "Four active applications in flight across regional insurtech and commercial fleet risk analytics roles. Increased probability of at least one interview before runway reaches critical threshold."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Receive Tom Bradley's follow-up from the tick 10 conversation — he is sharing the name and context of the logistics company contact Linda Park is introducing him to, and asking whether the company might have a data analytics or insurtech-adjacent role that matches my skills. I look at the company's profile before responding: fleet size, risk footprint, any data operations or analytics capacity. If there is signal, I respond to Tom directly and ask him to include me in the introduction or give me the contact's name to approach separately. I am not competing with Tom for a risk assessment role. I am asking whether the same company has a different lane. If not, I thank him and note it. Either outcome advances the collaboration.",
+      "target": "insurance_agent_tom",
+      "expected_outcome": "Either a concrete introduction to a logistics company contact with a potential data analytics role, or cleared intelligence that this particular company is not a fit for my target profile. Either way, the Tom collaboration produces actionable information."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Complete SQL Module 4 — window functions and subqueries — this tick with three dedicated evening sessions. This module is the final piece before the certification assessment. I cited Module 4 as in-progress in my grant application and in my applications. I have to be able to speak to it in an interview that could come at any time. Upon completion I update my LinkedIn profile to reflect four completed modules and 50%+ certification progress, and I update my application materials. The course discipline is the most consistent behavior I have maintained and completing Module 4 is a concrete milestone that changes my candidate profile.",
+      "target": null,
+      "expected_outcome": "SQL Module 4 complete. LinkedIn profile and application materials updated to reflect current certification status. Stronger candidate profile for any interview that comes from the four active applications."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Respond to Amir Patel's request for a business insurance quote. He reached out at tick 10 asking specifically about business interruption coverage and property liability for his gas station. I am unemployed and actively building my transition portfolio. This is not a full-time role — it is a freelance quote and potential policy sale that demonstrates my skills are still deployable and may produce income or a policy commission if I am operating under any form of independent contractor arrangement. I call Amir, walk him through what business interruption coverage and liability coverage would look like for a small fuel retail operation under current market conditions, and give him honest numbers. A trust score of 0.39 with Amir means I need to be straightforwardly helpful, not salesy.",
+      "target": "gas_station_owner",
+      "expected_outcome": "Demonstrate active professional capability in insurance during job transition. Potential policy sale or referral that generates income or professional credibility. Strengthen the relationship with Amir Patel who is a community stakeholder that may refer others."
+    }
+  ],
+  "reasoning": "Tick 11 is a critical inflection point for Priya Sharma. Savings are approximately $617 (state $3,958 minus $3,341 tick 10 burn) — she is functionally at zero liquid savings with 2.2 months of runway before complete insolvency. The grant application was filed at tick 10 and may take time to process. The job search must produce an offer before tick 13-14 or she needs to find bridge income. Four applications in flight, Module 4 complete, Tom's network activated — these are the right moves. The Amir Patel insurance quote is an opportunity to demonstrate active capability and potentially generate income from the skills she already has. The Linda Park word-of-mouth confirms that real introductions are happening in the network Tom activated. Priya needs to be positioned to move immediately when any of the four applications generates a response. The platform for that response is Module 4 complete, updated LinkedIn, and four applications that demonstrate she is moving — not waiting."
+}

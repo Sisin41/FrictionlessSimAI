@@ -1,0 +1,34 @@
+{
+  "agent_id": "diner_owner",
+  "tick": 11,
+  "hierarchy_level": "L0_SURVIVE",
+  "emotional_state": "urgent-but-clear",
+  "archetype": "adapter",
+  "actions": [
+    {
+      "type": "COMMITMENT",
+      "description": "Make a go/no-go decision on the RoboRide delivery partnership path this tick. At tick 10 I gave RoboRide a final deadline of end-of-week for written terms. That deadline has now passed or is passing. I evaluate the terms if they arrived: minimum monthly order volume, revenue share percentage, equipment requirements, onboarding timeline. I run the math against my minimum viable revenue threshold — I need at least $2,800/month net to cover essential expenses if I fully convert to a delivery prep kitchen. If the terms pencil out, I commit to the conversion this tick: I notify Stephanie Morris to pause the property valuation conversation for 60 days while I test the delivery model. If the terms did not arrive or do not pencil out, I treat the RoboRide path as closed and call Stephanie Morris today to schedule the formal property walk.",
+      "target": null,
+      "expected_outcome": "Binary resolution of the RoboRide decision gate that has been the central unresolved question since tick 8. Either the delivery pivot is activated with a clear 60-day test window, or the property valuation path is formally opened. No more parallel uncertainty."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Call Stephanie Morris today — regardless of the RoboRide decision outcome. If I am proceeding with the delivery pivot, I tell her directly: 'I have the RoboRide terms and I am running a 60-day test. I want to schedule the property walk for tick 13 — 60 days from now — so that if the delivery model does not produce the revenue I need, I am not starting from zero on the valuation process.' If the RoboRide path is closed, I tell her: 'The terms did not come through. I am ready for the property walk this week. What does your schedule look like?' Either way, Stephanie gets a clear, specific answer from me rather than another sequenced delay.",
+      "target": "real_estate_agent",
+      "expected_outcome": "Stephanie Morris has a clear, actionable answer that respects her time and professionalism. Either a scheduled property walk date is confirmed, or a 60-day conditional hold is established with a specific future date. The ambiguity that has been accumulating since tick 9 is resolved."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Have the conversation with Zoe Martinez when she walks into the diner this tick. She is coming to pitch social media services at $120/month. My decision is informed by my runway and my direction. If I am converting to a delivery kitchen, visible social media presence is actually more important, not less — delivery customers discover kitchens through social media, not foot traffic. A $120/month investment in community-present social content could accelerate the delivery conversion. If I am moving toward property sale, it matters less. I give Zoe an honest answer based on where I am this tick. If I am proceeding with the delivery pivot, I say yes to the $120/month pilot and frame it as supporting the kitchen conversion. If I am moving toward sale, I tell her honestly: I cannot commit to a monthly service when my path forward is uncertain, but I want to reconnect in 30 days.",
+      "target": "young_gig_worker",
+      "expected_outcome": "Zoe Martinez gets a clear answer that respects her time. If delivery pivot proceeds, I gain social media support for $120/month that may accelerate customer discovery. If property sale path is active, Zoe is not left with false expectation."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Attend the Financial Triage Navigator session Lisa Freeman is running at the community center this week. I testified twice before Maria Santos's task force. Lisa Freeman's initiative is the community-level infrastructure for exactly what I need: honest financial triage for small business owners in crisis. Kevin O'Brien is reportedly running office hours there — I want to speak with him directly about the small business loan landscape and whether there is any bridge financing available for a commercial kitchen conversion. A $15,000-$20,000 equipment investment could make the delivery kitchen viable if the revenue model pencils out. I want to know if that capital exists before I close the RoboRide decision gate.",
+      "target": "community_organizer",
+      "expected_outcome": "Connect with Lisa Freeman's Financial Triage Navigator resources. Speak with Kevin O'Brien about small business bridge financing options for kitchen conversion. Gain community intelligence about other small business owners navigating similar pivots — are any kitchens in Millfield already running delivery prep operations?"
+    }
+  ],
+  "reasoning": "Tick 11 is the decision tick Betty Kowalski has been building toward since tick 8. The 60-day inquiry gate she set for RoboRide terms has effectively closed — she gave them a final deadline of end-of-tick-10. She now either has written terms to evaluate or she does not. The math is clear: she needs at least $2,800/month net from a delivery kitchen to cover essential expenses, and her savings are approximately $1,972 (state $6,240 minus $4,268 tick 10 burn). At $4,268/month burn with zero income, she has approximately 0.46 months before she is at zero — she is functionally at L0 emergency threshold. The decision cannot be deferred. If delivery conversion is viable, she needs to move this week. If not, she needs Stephanie Morris to move on the property valuation immediately. The Financial Triage Navigator session and Kevin O'Brien's presence there is the one additional piece of intelligence that could change the decision framing — bridge financing for a kitchen conversion investment could make the delivery pivot viable even if the revenue ramp takes 30-60 days to reach the minimum threshold."
+}
