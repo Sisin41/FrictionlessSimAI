@@ -1,0 +1,52 @@
+{
+  "tick": 5,
+  "agent_id": "diner_owner",
+  "agent_name": "Betty Kowalski",
+  "response": {
+    "internal_assessment": "The spending index has dropped to 69 now, down from 73 when I sat in front of Maria Santos's task force. That is not noise. That is a trend moving in one direction. Unemployment is at 10% and I can see the robotaxis myself — they are not going away. My neighbors are all moving. Rick is pulling data, Carlos is chasing an EV cert, Stephanie is pivoting her client list. Everyone with any sense is repositioning. My grant application has been sitting since tick 2 with no word. I have 6.5 months of runway at current burn. That is not comfortable. I am making $232 a month over expenses — barely. If covers drop another 10% I go negative before the grant arrives, if it ever does. I need to do two things: follow up on that grant application directly, and start reducing my dependence on Auto Row foot traffic by building a second customer base from whatever is still moving in this town.",
+    "inbox_interpretation": "The spending index falling from 73 to 69 tells me the squeeze is accelerating, not stabilizing. RoboRide at 7% regular usage means the displacement is real and growing. The word-of-mouth signals about Rick, Carlos, and Stephanie all adapting confirms that Auto Row itself is in transition — not a momentary dip. These are people I know. If they are all repositioning at the same time, the underlying shift must be undeniable from where they sit. The outcome from tick 4 confirms I got my testimony out — savings held, stress eased slightly. That action is done. Now I need to move to the next step: follow through on the grant and start building new revenue lines before the old ones thin further.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Follow up directly with Maria Santos's office on the pending grant application submitted at tick 2. Call or visit in person. Ask for a status update and a realistic timeline. If expedited disbursement was discussed at the task force meeting, ask whether my application qualifies. The purpose is twofold: get information I need to plan, and remind them I exist and am waiting.",
+        "target_agent": "council_member",
+        "resources": {
+          "type": "political_capital",
+          "direction": "both",
+          "amount": 1,
+          "detail": "Spending modest political capital built from testimony appearance to request grant status update. Hoping to receive either disbursement timeline or confirmation of expedited review."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I applied for this grant 3 ticks ago and have heard nothing. The spending index has dropped further since then. I testified. I showed up. The follow-up is appropriate and overdue. If the grant comes through it extends my runway by roughly a month at 60% revenue scenario. I cannot afford to let it sit unattended in a queue."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Begin quietly repositioning the diner's lunch menu and hours to capture non-Auto Row foot traffic: RoboRide drivers who use the area as a pickup hub, delivery workers, the small number of new residents moving in near the transit corridor. Add a grab-and-go counter option — coffee and a wrapped sandwich, fast, no table required. Price it at $7.50. Post a small handwritten sign in the window visible from the street. This costs almost nothing to execute — I have the ingredients, I have the counter space, I have the labor in slow hours. It is a small bet. But small bets are what I can afford right now.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "internal",
+          "amount": 200,
+          "detail": "Approximately $150-200 in incremental food cost and signage materials this week to stand up the grab-and-go option. No new staff. Uses existing prep capacity during slow morning shift."
+        },
+        "economic_effects": {
+          "income_change": 150,
+          "expense_change": 200,
+          "savings_change": -50,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "If my customer base was 90% Auto Row workers and that base shrinks by 30-40%, I need replacement revenue from somewhere. The robotaxi corridor creates foot traffic I have not been serving. This is not a transformation of the diner — it is a small extension toward people who are already passing by. My status quo bias tells me to wait and see. My 2008 conditioning tells me waiting too long has consequences. I am doing the small version of adapting, not the large version. That is proportional to the uncertainty I am living in."
+      }
+    ],
+    "emotional_state": "anxious",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "The numbers keep moving the wrong direction and I am still waiting on that grant like it is going to save me if I just hold still long enough. Rick is pulling data, Carlos is getting certified, Stephanie is chasing new clients — everybody is moving but me. I gave my testimony, that was something, but testifying is not the same as surviving. I am 61 years old with a diner that fed this neighborhood for thirty years and I am staring at a spending index of 69 wondering how long the coffee and pie routine holds before the math stops working."
+  }
+}

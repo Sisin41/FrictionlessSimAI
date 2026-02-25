@@ -1,0 +1,52 @@
+{
+  "tick": 5,
+  "agent_id": "car_wash_worker",
+  "agent_name": "Miguel Hernandez",
+  "response": {
+    "internal_assessment": "The program is one month in and running. Savings are still thin at around $3,000 — barely over a month of runway — but the trajectory is right. The auto sector is visibly contracting: revenue down, consumer spending down, more people riding robotaxis. My car wash job feels shakier every tick. The big piece of news is that Carlos is locking in EV certification himself. That's huge. He's not just a guy I asked a casual question — he's actively building the same skill set I need. If he's leveling up to EV, he's going to need help, and I already asked him to consider me. I need to remind him I'm serious, not just some kid who mentioned it once. The opportunity is real but I have to actually make it real.",
+    "inbox_interpretation": "The market signals are uniformly negative for my current job: auto sector revenue at 82, unemployment rising, consumer spending cratered. That's all consistent with the threat I've been planning around. The robotaxi observation confirms slow adoption — 7% — not an emergency yet but the direction is clear. The word-of-mouth about Carlos is the most actionable thing in my inbox. He is literally registering for EV training right now, this tick. That is the signal I needed. He is building toward EVs; if I can show him I am serious and progressing, I become the logical person to bring along when he needs help. Everything else — Jake's floor strategy, Dorothy's insurance call, Stephanie's outreach — is background noise for other people's problems.",
+    "chosen_actions": [
+      {
+        "type": "COMMITMENT",
+        "description": "Stay enrolled and attend automotive service technician certificate classes this month. No skipping. Program is at 12% completion — keep the streak alive and push toward 20%.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "internal",
+          "amount": 1,
+          "detail": "Time and effort invested in evening/weekend coursework alongside car wash shifts. No additional cost this tick — tuition already committed."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 131,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The program is the anchor. I can't let early momentum die. Consistent attendance is what turns a certificate into a credential Carlos will respect when I come to him asking for a shot."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Reach out directly to Carlos Ruiz. Mention I heard he is locking in EV certification and tell him my automotive program is going well — first month down, already learning basic systems. Express genuine interest in EV work. Remind him the apprentice conversation from last month was serious on my end, not just small talk.",
+        "target_agent": "mechanic_carlos",
+        "resources": {
+          "type": "reputation",
+          "direction": "give",
+          "amount": 1,
+          "detail": "Demonstrating follow-through and genuine initiative. Costs nothing financially. Strengthens the relationship that is most likely to deliver an employment upgrade."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Carlos is the highest-trust connection I have and he is actively moving toward EV skills right now. Timing matters. If I stay silent while he builds his EV track, I am invisible. If I show up and remind him I am on the same path and progressing, I become top of mind when he needs an extra set of hands or wants to bring someone along. This costs me nothing except a text or a conversation at work."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Carlos is literally booking EV classes right now. That's not a coincidence, that's a sign I'm reading the same map he is. I just have to make sure he knows I'm on it — not in a desperate way, just matter-of-fact, like, hey, same direction, keep me in mind. The car wash job is a countdown clock, not a career. The certificate is my actual plan. One month down. Seven to go."
+  }
+}
