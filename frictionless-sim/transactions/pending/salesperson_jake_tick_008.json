@@ -1,0 +1,19 @@
+{
+  "tick": 8,
+  "from_agent": "salesperson_jake",
+  "from_name": "Jake Morrison",
+  "to_agent": "hr_director",
+  "to_name": "Angela Wright",
+  "transaction_type": "EXCHANGE",
+  "subtype": "information_request",
+  "description": "Jake sends Angela Wright a direct, professional one-paragraph email requesting written confirmation of stay bonus eligibility and the qualifying timeline for floor sales staff. He references Rick Tanner's acknowledgment that the details are still being finalized and frames the request as needing accurate information for personal financial planning. No pressure language. He sets an internal five-business-day window: if no response, he sends one follow-up, and then he stops treating the bonus as a planning variable.",
+  "resources": {
+    "type": "information_request",
+    "direction": "receive",
+    "amount": 0,
+    "detail": "Written stay bonus eligibility confirmation and qualifying timeline for floor sales staff"
+  },
+  "expected_response": "Either a clear qualifying period and eligibility confirmation (which allows Jake to extend his planning runway by ~5 months), or a non-answer/delay (which signals Jake should stop counting the bonus and accelerate contingency planning).",
+  "urgency": "high",
+  "status": "pending"
+}

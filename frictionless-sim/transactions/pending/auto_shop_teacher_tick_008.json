@@ -1,0 +1,14 @@
+{
+  "tick": 8,
+  "from_agent": "auto_shop_teacher",
+  "to_agent": "parts_store_owner",
+  "type": "ASSOCIATION",
+  "description": "Mark Thompson visits Howard Liu at the auto parts store. Mark introduces himself as the teacher building the Millfield Auto Tech Pipeline EV program and asks for ground-level market intelligence: what EV and hybrid parts are shops on auto row actually ordering, and what do they say they cannot find certified technicians to handle? If the conversation goes well, Mark asks whether Howard would be willing to provide a short written statement about local demand for EV-trained technicians for a school board presentation. No cash exchange. Relationship trust investment.",
+  "resources": {
+    "type": "social_capital",
+    "direction": "both",
+    "amount": 0,
+    "detail": "Mark offers visibility and potential referral benefit from the program's community profile. Howard potentially provides market intelligence and a board endorsement letter."
+  },
+  "expected_outcome": "Howard shares some ground-level data on EV parts demand and technician gaps from a parts supplier perspective. Trust between the two increases modestly. If Howard agrees to a written statement, that becomes a concrete asset for the board presentation."
+}

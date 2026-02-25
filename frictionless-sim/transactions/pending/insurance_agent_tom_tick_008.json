@@ -1,0 +1,16 @@
+{
+  "from": "insurance_agent_tom",
+  "to": "council_member",
+  "tick": 8,
+  "transaction_type": "grant_application",
+  "amount": 2500,
+  "currency": "USD",
+  "description": "Tom Bradley submits formal application for the $2,500 workforce retraining grant through Maria Santos's office. Application targets transition from auto insurance sales into commercial risk analytics and data-adjacent insurance underwriting roles. Supporting documentation: 28 years of insurance industry experience in risk assessment, field-level data on personal auto policy cancellation patterns in Millfield (22 active policies, declining trend observed across 8 ticks), direct familiarity with AV liability product structure from AutoShield's internal commercial pivot briefings. Requested use of funds: SQL and data fundamentals coursework, commercial risk analytics certificate program.",
+  "expected_outcome": "Grant approval of $2,500 to support Tom's transition toward data analyst or commercial fleet risk analytics. Application filed without hedging or reframing as 'professional development' — Tom's internal framing is explicit: this is survival infrastructure funded by public workforce transition support.",
+  "secondary_communication": {
+    "from": "insurance_agent_tom",
+    "to": "insurance_manager",
+    "type": "honest_status_inquiry",
+    "description": "Tom sends Linda Park a five-sentence note: the sector data in Millfield has reached a threshold he needs to name directly. He is pursuing retraining in data analytics and commercial risk regardless of AutoShield's direction. He wants to know honestly whether the corporate AV pivot includes a structured transition path for current field agents, and on what timeline. He is not asking for reassurance. He is asking for decision-relevant information."
+  }
+}

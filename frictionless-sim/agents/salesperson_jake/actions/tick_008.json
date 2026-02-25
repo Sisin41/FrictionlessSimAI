@@ -1,0 +1,56 @@
+{
+  "tick": 8,
+  "agent_id": "salesperson_jake",
+  "agent_name": "Jake Morrison",
+  "response": {
+    "internal_assessment": "The RoboRide news lands like a punch I was half-expecting but didn't think would come this fast. $0.12 a mile, 8-minute wait, residential coverage — that's not a novelty service anymore, that's a car alternative that works for normal people in normal neighborhoods. Anyone who was on the fence about buying is now less likely to buy. Anyone who owns a car and is already stretched is looking at that number and asking why they still have the monthly payment. My sales floor just got smaller. Again. My savings are at $10,860. Monthly burn at current income is roughly $2,510. That's four months of runway if I do nothing, less if the income drops further — and income is dropping. The stay bonus is $12,000 and Rick was honest about the uncertainty. Honest means it might not happen, or might not happen on the timeline I need it to. I cannot build a survival plan around a bonus that may not arrive. But I also cannot afford to walk away from $12,000 on the table if there is a real path to qualifying. What I need to do this tick is make the bonus question binary: either I get a written timeline from Angela that I can plan around, or I stop treating it as an asset in my calculation. Tamika is making some kind of change. She's not someone who acts impulsively. If she's moving, she has a reason and probably a landing pad. I should find out what she knows that I don't. The word of mouth about her was interrupted — something about reaching out to Angela Wright. That's interesting. Are they working on something together, or is Tamika using Angela as a reference? Either way, Tamika's movement is a data point I need. Meanwhile: I have to stay on the floor. Commission is the only income I have. Even a single close this month changes my math.",
+    "inbox_interpretation": "The RoboRide capability update is the central fact of this tick. Price at $0.12/mile with residential coverage and 8-minute waits is a qualitatively different product from what it was before — this is the service crossing the threshold into mainstream usability. The 7% regular usage figure in observation confirms adoption is real, not theoretical. The consumer spending index at 42 and auto sector revenue at 79 are consistent with this: people are choosing not to buy cars, and some of them are choosing RoboRide instead. Local unemployment at 27% means a lot of people cannot afford car payments regardless of what RoboRide does. The social note — Patricia, Rick, Angela all stressed — tells me nobody at the top of my chain feels comfortable right now. Patricia runs the regional group; her stress is about the business model. Rick's stress is operational. Angela's stress is about the people side — which means the stay bonus decision is live and contested at the HR level. The Tamika word-of-mouth is fragmentary but meaningful: she is doing something, and the Angela connection is worth following up. I am not going to sit on this information.",
+    "chosen_actions": [
+      {
+        "type": "EXCHANGE",
+        "description": "Send Angela Wright a direct, brief email this week. Not a complaint, not a demand — a professional request for a written confirmation of stay bonus eligibility and qualifying timeline. Frame it as needing to do personal financial planning and wanting to make sure I am working from accurate information. Reference Rick's acknowledgment that the details are still being finalized and say I would appreciate any timeline she can share. Keep it one paragraph. No pressure language. If she does not respond in five business days, I send one follow-up and then I stop waiting on this number.",
+        "target_agent": "hr_director",
+        "resources": {"type": "information_request", "direction": "receive", "amount": 0, "detail": "Written confirmation of stay bonus eligibility status and qualifying timeline for floor sales staff"},
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The stay bonus is worth $12,000 — roughly five months of runway at current burn. I cannot treat it as a real financial asset without a written timeline. Rick confirmed uncertainty verbally; Angela controls the documentation. If I get a clear qualifying period I can plan around, I stay and grind. If the answer is vague or indefinite, I stop counting it and start moving faster on alternatives. Either answer is better than the current state of not knowing. The cost of this action is one email and five minutes. The information value could reorder my entire decision tree."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Find Tamika before end of week — not a formal sit-down, just a real conversation in a low-pressure moment, before a shift or at lunch. Ask her how she's doing, genuinely. Let her bring up whatever she's working on. If she's exploring outside options, I want to know what she's found. If she's building something, I want to understand it. I am not going to ask her to take me with her. I am going to listen to someone who is in the same position I am and who appears to be moving.",
+        "target_agent": "salesperson_tamika",
+        "resources": {"type": "social_capital", "direction": "both", "amount": 0, "detail": "Peer intelligence exchange — what Tamika is pursuing and what options she has identified"},
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Tamika is a peer with adjacent skills and the same exposure I have to this market shift. If she is making a change it means she has done analysis I have not done or found a path I have not found. The word-of-mouth fragment was truncated but it connected her to Angela Wright, which could mean she is navigating a departure, a lateral move, or something else entirely. In any case, a five-minute genuine conversation with her costs nothing and could give me real information about what options exist outside this floor. I am not going to ask her for a job lead — I am going to pay attention to what she says and take it seriously."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Shift my sales pitch approach for the rest of this month. Every buyer I talk to is now aware of RoboRide. I stop pretending they haven't seen the headlines. Instead I build an explicit comparison: here is what a car costs you per month including insurance, maintenance and financing. Here is what RoboRide costs you per month if you average X miles. For buyers over a certain mileage threshold, or buyers with dependents who need flexibility that a shared fleet cannot provide, or buyers in trades that require cargo space — the car still wins on total cost. I am going to find those buyers and stop wasting floor time on people for whom the math has genuinely changed. This is not a new product. This is a sharper filter.",
+        "target_agent": null,
+        "resources": {"type": "labor", "direction": "internal", "amount": 0, "detail": "Revised sales methodology — comparative cost analysis framing vs. RoboRide to identify buyers for whom car ownership still makes economic sense"},
+        "economic_effects": {
+          "income_change": 100,
+          "expense_change": 0,
+          "savings_change": 100,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The RoboRide price drop is real information that my buyers have access to. If I ignore it, I look uninformed and I waste time on people who will never close. If I engage it directly, I demonstrate expertise and I concentrate my effort on the subset of buyers for whom car ownership still makes sense — people with high mileage needs, families with complex logistics, tradespeople, buyers in areas still outside RoboRide coverage. This is a smaller market than I had six months ago, but it is a real market, and nobody on this floor is pitching to it with a RoboRide comparison built in. That is an edge I can use today."
+      }
+    ],
+    "emotional_state": "anxious",
+    "archetype_self_assessment": "hustler",
+    "inner_monologue": "I sat in the parking lot for a few minutes before coming in this morning. Watched a RoboRide unit pull up to the building across the street — white car, clean, no driver, eight-minute wait. Someone got in without even thinking about it. That's not a curiosity anymore. That's just how some people get around now. I'm not panicking. But I am done pretending the floor is going to get busy again the way it used to be, and I am done making plans that depend on things I cannot confirm. The bonus needs an answer. Tamika needs a real conversation. And I need to sell to the people who actually need what I'm selling, not to everyone who walks in hoping the numbers will somehow work out."
+  }
+}

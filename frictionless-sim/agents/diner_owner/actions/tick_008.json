@@ -1,0 +1,76 @@
+{
+  "tick": 8,
+  "agent_id": "diner_owner",
+  "agent_name": "Betty Kowalski",
+  "response": {
+    "internal_assessment": "The math has not changed in my favor. Savings at $19,044, expenses at $4,268 a month, zero income. That is four and a half months, maybe a little more if I get the grant. The $5,000 stabilization application I escalated last tick is still pending — I do not know if it has been processed. The $2,500 retraining grant is also out there. Nothing has come in yet. What has come in is this RoboRide delivery partnership announcement, and I am staring at it because for the first time in eight months I see something I can actually use. I have a commercial kitchen. I have food service skills. I have a location. If RoboRide is partnering with local delivery operations, the question is whether the diner kitchen can become a delivery hub — not for the lunch crowd that has gone away, but for the residential neighborhoods that RoboRide just expanded into. That is a different customer. It is not the Auto Row worker I built this place for. But it is a customer who exists. I am also aware I have been saying I need to talk to Carlos Ruiz for two ticks now and I have not done it. That stops today. And Kevin O'Brien has office hours at the community center — I need to know what workforce transition resources actually look like from inside, even if I am still fighting to keep the diner alive. You plan two tracks or you plan one and lose everything.",
+
+    "inbox_interpretation": "The RoboRide delivery partnership is the signal I have been waiting for without knowing I was waiting for it. $0.12 per mile, 8-minute wait, residential coverage — that is not just transportation disruption anymore, that is logistics infrastructure being built in real time. The delivery partnership means RoboRide wants to be in the last-mile food delivery business. If they are partnering locally, I need to find out who to talk to and whether the Auto Row Diner kitchen qualifies as a delivery prep location. Consumer spending at index 42 and unemployment at 27% means the sit-down lunch model is finished for now — but people still need to eat, they are just not coming to me. The observation that 7% of people are regularly using robotaxis tells me this is accelerating past the early-adopter phase. Patricia and Rick are stressed — everyone in my orbit is stressed. That is not new information but it confirms I cannot wait for the neighborhood to stabilize and the old customers to come back. They are not coming back.",
+
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Contact RoboRide local partnership coordinator to inquire about the diner kitchen participating in the new delivery network. Betty calls the number listed in the partnership announcement and asks direct questions: what are the requirements to become a delivery prep partner, what does the revenue share look like, how quickly can a small kitchen get set up. She is not committing — she is gathering information so she can decide whether this is a real option or a dead end.",
+        "target_agent": null,
+        "resources": {
+          "type": "time",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Phone call and follow-up inquiry. No financial outlay. Treats the RoboRide delivery partnership announcement as a direct business lead and acts on it within the same week it is announced."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Betty has a commercial kitchen sitting idle while she is burning through savings. The RoboRide delivery partnership is a direct match with what she already has. She has high entrepreneurial drive and high agency — she does not wait to see if opportunity will find her. She makes the call. No income change this tick because she is in the inquiry phase, but this is the action most likely to produce income in the next 1-2 ticks if the partnership terms are viable. Her status quo bias would normally counsel against this but her anger/bargaining stage and the concrete nature of the opportunity override it."
+      },
+      {
+        "type": "ASSOCIATION",
+        "description": "Betty goes to Carlos Ruiz's shop and buys him lunch — she brings food from the diner kitchen, which is both practical and symbolic. She asks him directly what he is seeing in the neighborhood, what his plan is, and whether he knows anyone who has found a way to keep a small food operation alive in a shrinking economy. She has been meaning to do this for two ticks. The regret of not doing it sooner is now a spur. She is not asking for help — she is exchanging information with someone who understands the neighborhood mechanics.",
+        "target_agent": "mechanic_carlos",
+        "resources": {
+          "type": "food",
+          "direction": "give",
+          "amount": 15,
+          "detail": "Betty brings lunch from the diner kitchen — minimal cost, maximum signal. The gesture says: I am still operating, I still have something to offer, I want to talk as peers."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 15,
+          "savings_change": -15,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Carlos Ruiz is Betty's most trusted professional contact at 0.53 and she has explicitly named not talking to him as her primary regret from tick 6. He is described as pivoting and understanding the neighborhood's mechanics. This conversation costs $15 in food and potentially unlocks information about how to survive the transition, who else in the area is adapting, and whether there are partnership or sublease opportunities she does not know about. The relational investment is overdue."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Betty attends Kevin O'Brien's office hours at the community center. She does not go as someone who has given up — she goes as someone who is running two tracks in parallel. She wants to know what the retraining grant actually covers, how long the $2,500 retraining program would take, and whether there is any path to food service certification or commercial kitchen licensing that would help her if the delivery partnership materializes. She also wants to register her face with whoever is distributing resources in this community.",
+        "target_agent": "council_member",
+        "resources": {
+          "type": "time",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Attends community center office hours. No financial cost. She brings the same documentation she brought to Maria Santos's office — revenue records, application copies, timeline of diner closure. She is building a paper trail and a face-to-face presence with people who control resource flows."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Betty is in anger/bargaining stage — she is not surrendering, she is fighting on multiple fronts. Kevin O'Brien's office hours represent access to workforce transition resources and political capital. Even if she does not need retraining immediately, showing up positions her to receive support when the grant decisions are made. Her tick 6 reflection noted that being 'in the room' and 'on record' mattered. This is another room she needs to be in. Her community ties score (0.45) is lower than it should be for someone who has operated a neighborhood anchor for 30 years — this is how she rebuilds it."
+      }
+    ],
+
+    "emotional_state": "determined",
+
+    "archetype_self_assessment": "adapter",
+
+    "inner_monologue": "I spent thirty years feeding people who came to me. Now I have to figure out how to get food to people who are not coming. The RoboRide delivery thing — I do not love it, I do not trust it, but I understand it, which means I can use it. I am still angry. The anger is useful now. It keeps me from sitting still."
+  }
+}

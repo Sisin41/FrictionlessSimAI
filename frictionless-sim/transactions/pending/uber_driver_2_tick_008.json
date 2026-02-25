@@ -1,0 +1,31 @@
+{
+  "source_agent": "uber_driver_2",
+  "source_name": "Grace Okafor",
+  "tick": 8,
+  "targets": [
+    {
+      "target_agent": "rideshare_driver",
+      "target_name": "Robert Jackson",
+      "transaction_type": "EXCHANGE",
+      "message": "Robert — I am going to skip the soft opener. You saw the RoboRide announcement. $0.12/mile, 8-minute waits, residential coverage. That is the event I have been watching for. It is not a warning sign. It is the structural change. My Friday evening surge block — the income I have been running on — is now directly threatened by price and geography, not just adoption percentage. I am actively evaluating NEMT certification as a bridge to nursing graduation. I need your real numbers: which Millfield companies are hiring new cert holders right now, what the onboarding process actually looks like on the ground, and whether the $18-22/hour range people talk about is real or optimistic from where you are standing. You just went through the cert and presumably the hiring process. Nobody has fresher intelligence than you do right now. In exchange, I will give you my full read on the RoboRide expansion and what it means for rideshare income compression timing — the specific metrics I have been tracking across my peak-hour windows — so you can use it in your own planning. I am asking directly because I am out of time to ask softly.",
+      "resources": {
+        "type": "information",
+        "direction": "both",
+        "amount": 1,
+        "detail": "Grace provides Robert with her real-time analysis of the RoboRide $0.12/mile residential expansion and its specific implications for peak-hour rideshare income compression. She requests ground-truth NEMT hiring intelligence: which Millfield companies are actively onboarding, realistic compensation, and any hiring process realities a new cert holder needs to know. Tone shift from tick 7 warm check-in to direct, urgent exchange reflecting the changed situation."
+      }
+    },
+    {
+      "target_agent": "single_parent",
+      "target_name": "Nicole Washington",
+      "transaction_type": "EXCHANGE",
+      "message": "Nicole — I want to ask you something directly rather than leaving it as a light signal. I am 8 months from a CNA credential. The RoboRide expansion that just landed has changed my income timeline and I am now actively pursuing NEMT certification as a bridge. Here is my question: from your perspective inside Millfield General, does NEMT patient transport experience actually carry weight with hiring managers when someone is applying with a CNA credential, or is it invisible — does it matter that I moved patients for two years, or do they only care about the clinical credential? I am not asking you to advocate for me. I am asking you to help me make a better decision about how I sequence the next six months. You know how the hiring side of nursing works from the inside and I do not.",
+      "resources": {
+        "type": "information",
+        "direction": "receive",
+        "amount": 1,
+        "detail": "Grace moves from ambient signal to direct information request. Asks Nicole specifically whether NEMT transport experience has value in Millfield General's hiring calculus for CNA-level applicants. This intelligence directly affects how Grace weights the NEMT bridge in her credential sequencing. Grace discloses her real financial situation (changed income timeline) to justify the directness and give Nicole context for a meaningful answer."
+      }
+    }
+  ]
+}

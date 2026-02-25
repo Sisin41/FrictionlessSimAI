@@ -1,0 +1,52 @@
+{
+  "tick": 8,
+  "agent_id": "insurance_agent_tom",
+  "agent_name": "Tom Bradley",
+  "response": {
+    "internal_assessment": "The sector data says 22 active policies. I remember when my book alone was over 80. The RoboRide announcement is not a trend anymore — it's a structure. $0.12 a mile, residential coverage, delivery partnership. That last piece is the one people aren't talking about yet. When autonomous vehicles start handling delivery at scale, the commercial fleet sector — the exact niche Linda and AutoShield are supposedly pivoting toward — gets compressed too. I have been treating the commercial pivot as a lifeboat. I need to be honest with myself: it may be a smaller, slower-sinking version of the same boat. My savings are at $46,412. Monthly burn is roughly $3,300 net negative. That is not 17 months anymore — the tick 6 math was already generous. I have somewhere around 13 to 14 months if nothing changes. If I lose the employment income, that collapses to single digits before I can react. Priya applied for the grant in tick 7. I read her move clearly. She is treating her departure as likely. She is building a new foundation, not waiting for the old one to hold. I have been watching her do the thing I told myself I was going to do. Tick 6 reflection said: two things I needed to stop avoiding. I did one of them — the Priya conversation — in tick 7. The other one is the grant. Today I stop performing readiness and actually become it.",
+    "inbox_interpretation": "The RUMOR about RoboRide confirms what the SECTOR_DATA was already showing: the contraction is not stabilizing, it is accelerating. Residential coverage expansion means the last holdout segment — people in suburban and exurban areas who kept personal vehicles because RoboRide only served corridors — just got disrupted. The delivery partnership announcement is a signal I need to weight heavily: autonomous delivery means commercial vehicle operators are next. The AutoShield commercial pivot into AV fleet liability may have a shorter window than corporate is advertising. Betty Kowalski's stress is visible to me — she is probably watching the diner's Auto Row adjacent foot traffic compress. The community mood is tense. That matters for morale but it also means the social permission to admit difficulty is growing. I do not have to perform stability for people who are themselves shaken.",
+    "chosen_actions": [
+      {
+        "type": "TRANSFORMATION",
+        "description": "Apply formally for the $2,500 workforce retraining grant through Maria Santos's office. Tom fills out the application not as a hedge or a symbol but as a concrete financial and strategic act. He names the target: commercial risk analytics or insurance underwriting support roles that can survive the AV transition. He documents his 28 years of risk assessment experience as directly transferable to data-adjacent roles. He does not frame this as distress — he frames it as professional development. But internally he is clear: this is not professional development, this is survival infrastructure.",
+        "target_agent": "council_member",
+        "resources": {
+          "type": "grant_capital",
+          "direction": "receive",
+          "amount": 2500,
+          "detail": "Formal application for workforce retraining grant. Requested use: SQL/data fundamentals course, commercial risk analytics certificate program. Documentation: 28 years insurance industry experience, field data on policy cancellation patterns, demonstrated knowledge of AV liability product structures from AutoShield's internal pivot briefings."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 2500,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "This is the action Tom named explicitly in his tick 6 regrets as the one he had avoided for four ticks out of pride. The math has changed enough that pride is no longer a viable luxury. Priya filed in tick 7. The sector data is 22 policies and falling. RoboRide just reached residential coverage. The grant is $2,500 that funds the actual transition path. Not applying is choosing to let the runway shrink by $2,500 for no reason except ego."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Tom sends Linda Park a brief, direct note — not the managed-professional tone of tick 5, not the self-effacing 'I am not a problem' performance. He states plainly: the sector data in Millfield has reached a threshold he needs to name. He is pursuing retraining in data analytics and commercial risk, and he wants to know honestly whether AutoShield's pivot timeline includes a path for field agents or whether he should treat his employment as having a defined end date. He is not asking for reassurance. He is asking for information he can make decisions with. He keeps it to five sentences.",
+        "target_agent": "insurance_manager",
+        "resources": {
+          "type": "information",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Tom gives Linda honest field intelligence (22 policies, RoboRide residential expansion observed, delivery partnership likely accelerates commercial vehicle transition) and requests honest information in return: does the corporate pivot include a real transition structure for current field agents, and on what timeline?"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Tick 5 was performing manageability. This is different. Tom is not asking Linda to like him or to see him as safe. He is asking a specific, decision-relevant question: is there a path here or not? The answer shapes his next 6 ticks of choices. If Linda has a real answer, he needs it. If she deflects, that is also an answer — and it means he accelerates the exit planning. Either outcome is more useful than continued silence. He is done buying time with impressions."
+      }
+    ],
+    "emotional_state": "anxious",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Twenty-eight years and I'm filling out a grant application like a laid-off factory worker. That thought came up and I let it sit there for a minute and then I filed the application anyway, because the thought is just pride talking and pride doesn't pay the mortgage. Priya already did it. She didn't make it mean something terrible about herself, and neither will I. The RoboRide delivery thing is what nobody in my office is talking about yet — when that scales, the commercial pivot Linda's been selling us isn't the safe harbor she's describing. I need Linda's honest answer before I stake another year on her plan."
+  }
+}

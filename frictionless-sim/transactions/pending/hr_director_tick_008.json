@@ -1,0 +1,23 @@
+{
+  "tick": 8,
+  "initiator": "hr_director",
+  "initiator_name": "Angela Wright",
+  "transaction_type": "SIGNAL",
+  "target_agent": "salesperson_tamika",
+  "target_name": "Tamika Jefferson",
+  "description": "Angela Wright sends a brief, professional acknowledgment to Tamika Jefferson confirming that her visible engagement on the floor has been noted and is consistent with stay bonus eligibility criteria. The message affirms continued commitment without creating new promises: the written terms were issued last tick, the timeline stands, Tamika is doing the right things.",
+  "resources": {
+    "type": "social_capital",
+    "direction": "give",
+    "amount": 0,
+    "detail": "Non-monetary professional acknowledgment. Tamika sent a presence signal; Angela confirms receipt and affirms Tamika's status in the stay bonus administrative record."
+  },
+  "message_content": "Tamika — I received your note and appreciate it. Your engagement on the floor is exactly what the stay bonus program is designed to recognize and support. The written terms I issued last tick stand as the official documentation. You are on record as active and committed. Keep doing what you are doing. — Angela",
+  "economic_effects": {
+    "initiator_savings_change": 0,
+    "target_savings_change": 0,
+    "relationship_trust_delta": 0.04,
+    "notes": "Strengthens trust slightly. Tamika's visibility maneuver landed cleanly. Angela's acknowledgment closes the loop without creating new liability."
+  },
+  "status": "pending"
+}

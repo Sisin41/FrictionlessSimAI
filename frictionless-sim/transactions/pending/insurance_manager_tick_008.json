@@ -1,0 +1,18 @@
+{
+  "transaction_id": "insurance_manager_tick_008_layoff_tom",
+  "tick": 8,
+  "initiator": "insurance_manager",
+  "target": "insurance_agent_tom",
+  "action_type": "TRANSFORMATION",
+  "subtype": "layoff",
+  "description": "Linda Park lays off Tom Bradley. Personal auto policy book has declined 21% from baseline and structural acceleration is expected. Regional headcount cannot support two field agents on a contracting book. Tom receives 30-day notice, a professional reference, and an offer to be connected to Linda's fleet and logistics network contacts.",
+  "employment_change": "fired",
+  "notice_period_days": 30,
+  "severance": {
+    "type": "professional_reference",
+    "network_introduction": "fleet_logistics_contacts",
+    "detail": "Linda offers to personally introduce Tom to the regional logistics company and healthcare system risk division contacts she has been cultivating through her own external job search."
+  },
+  "expense_reduction_monthly": 2200,
+  "rationale": "22 active policies down from 28 baseline. RoboRide residential expansion and delivery partnership signals continued structural contraction of personal auto ownership in Millfield. Book size does not support two field agents. Decision made with honesty and professional decency rather than delay."
+}

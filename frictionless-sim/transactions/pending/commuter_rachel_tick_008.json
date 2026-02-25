@@ -1,0 +1,45 @@
+{
+  "tick": 8,
+  "source_agent": "commuter_rachel",
+  "source_name": "Rachel Green",
+  "transactions": [
+    {
+      "type": "ASSOCIATION",
+      "target_agent": "community_organizer",
+      "target_name": "Lisa Freeman",
+      "description": "Rachel Green volunteers 4 hours of professional communications work to the community center — drafting a press release template, social media post structure, and donor outreach email format. Offered as a skill-share with no fee. Intended to deepen a weak trust relationship (currently 0.32) and establish Rachel as a reliable, contributing community member.",
+      "resources": {
+        "type": "skilled_labor",
+        "direction": "give",
+        "amount": 4,
+        "monetary_value": 0,
+        "detail": "4 hours of marketing/communications consulting delivered pro bono to community center"
+      },
+      "expected_outcome": {
+        "trust_change_source_to_target": "+0.08",
+        "trust_change_target_to_source": "+0.10",
+        "community_ties_change": "+0.05",
+        "notes": "Concrete deliverable strengthens relationship more than vague outreach. Positions Rachel for potential paid community communications work as displacement crisis deepens."
+      }
+    },
+    {
+      "type": "EXCHANGE",
+      "target_agent": "single_parent",
+      "target_name": "Nicole Washington",
+      "description": "Rachel sends a single professional follow-up to Nicole Washington regarding the $800 freelance pilot proposal (social media audit and content calendar for healthcare patient communications) made in tick 7. Includes note that RoboRide residential coverage now enables easy in-person meeting. Requests a 20-minute call.",
+      "resources": {
+        "type": "time",
+        "direction": "give",
+        "amount": 1,
+        "monetary_value": 0,
+        "detail": "1 hour follow-up communication; potential $800 income if accepted"
+      },
+      "expected_outcome": {
+        "trust_change_source_to_target": "0",
+        "trust_change_target_to_source": "+0.03",
+        "potential_income_if_accepted": 800,
+        "notes": "One professional follow-up is appropriate and signals reliability. Nicole's trust at 0.56 is Rachel's highest — this is a warm enough relationship that a single follow-up will not feel pressuring."
+      }
+    }
+  ]
+}

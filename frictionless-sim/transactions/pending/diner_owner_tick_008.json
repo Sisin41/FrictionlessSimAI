@@ -1,0 +1,19 @@
+{
+  "from": "diner_owner",
+  "target": "mechanic_carlos",
+  "type": "social_exchange",
+  "amount": 15,
+  "resource_type": "food",
+  "description": "Betty Kowalski brings lunch from the diner kitchen to Carlos Ruiz's shop. The visit is explicitly relational — she wants to exchange information about how he is adapting, what he sees in the neighborhood, and whether there are any local business survival strategies she is not aware of. She has regretted not doing this for two ticks and now does it. The food is a gesture of goodwill and a signal that she is still operating. The primary transaction is information and trust-building, not the $15 in food.",
+  "tick": 8,
+  "effects": {
+    "diner_owner": {
+      "savings_change": -15,
+      "trust_change_toward_mechanic_carlos": 0.03
+    },
+    "mechanic_carlos": {
+      "savings_change": 0,
+      "trust_change_toward_diner_owner": 0.05
+    }
+  }
+}

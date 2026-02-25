@@ -1,0 +1,32 @@
+{
+  "tick": 8,
+  "from_agent": "ceo_regional_auto",
+  "from_name": "Patricia Hawkins",
+  "to_agent": "dealership_gm",
+  "to_name": "Rick Tanner",
+  "transaction_type": "COMMITMENT",
+  "description": "Patricia formally accelerates the consolidation timeline. She directs Rick to deliver his assessment conclusion within 72 hours rather than the original two-week window, identifying the weakest-performing location on service-lane throughput for Q2 closure. One sales floor location will be closed by end of Q2. Service technicians at the closing location receive transfer priority to surviving locations. Sales floor staff will be notified within one week and processed through Angela Wright's transition program.",
+  "resources": {
+    "type": "operational_directive",
+    "direction": "give",
+    "amount": 0,
+    "detail": "Accelerated consolidation order: 72-hour assessment deadline, Q2 location closure commitment, service tech transfer priority, sales staff transition to Angela's program"
+  },
+  "economic_effects": {
+    "initiator": {
+      "income_change": 0,
+      "expense_change": -8000,
+      "savings_change": 8000,
+      "asset_change": "closed_business",
+      "employment_change": "fired"
+    },
+    "recipient": {
+      "income_change": 0,
+      "expense_change": 0,
+      "savings_change": 0,
+      "asset_change": "none",
+      "employment_change": "none"
+    }
+  },
+  "status": "pending"
+}
