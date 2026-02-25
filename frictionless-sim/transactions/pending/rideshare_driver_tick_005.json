@@ -1,0 +1,21 @@
+{
+  "tick": 5,
+  "from_agent": "rideshare_driver",
+  "to_agent": "uber_driver_2",
+  "type": "EXCHANGE",
+  "resources": {
+    "type": "labor",
+    "direction": "both",
+    "amount": 1,
+    "detail": "Robert Jackson reaches out to Grace Okafor to exchange knowledge about the NEMT field. Robert offers candid disclosure of his own situation and plans; Grace provides ground-level intelligence on NEMT employers, pay structure, and the practical value of the Millfield Community College certification."
+  },
+  "description": "Robert contacts Grace Okafor — part-time rideshare driver and nursing student, trust 0.9 — to ask directly about the NEMT employment landscape in Millfield. What companies are hiring? What does the MCC certification actually get you? What does the work feel like compared to rideshare? He is treating this as a peer-to-peer information exchange, not a favor request.",
+  "economic_effects": {
+    "income_change": 0,
+    "expense_change": 0,
+    "savings_change": 0,
+    "asset_change": "none",
+    "employment_change": "none"
+  },
+  "status": "pending"
+}
