@@ -1,0 +1,92 @@
+{
+  "tick": 9,
+  "agent_id": "salesperson_tamika",
+  "agent_name": "Tamika Jefferson",
+  "response": {
+    "internal_assessment": "It's done. The consolidation came and I was in the count. Patricia accelerated the timeline — 72 hours, not two weeks — and the location closed. Sales floor staff informed within one week. That was me. I didn't collect the stay bonus. Scenario 2 fired. Twelve thousand dollars evaporated before I ever touched it. I have $4,862 in savings. One HVAC client at $350/month. Monthly expenses of $3,177. Net burn after HVAC income: $2,827/month. I have roughly 1.7 months before I hit zero. That is not a crisis — it is a countdown. The difference matters. A crisis is something happening to you. A countdown is a fact you can work with. I have been building toward this moment since tick 0 when I wrote down my real skills. Not because I knew it would go this way, but because I knew it could. The stay bonus was always a scenario, not a guarantee. I named that risk. I just did not fully price what it would feel like to be right about the downside. It feels colder than I expected. But the HVAC client is real. The freelance model is real. One client at $350 is not a business — I knew that — but it is proof that someone will pay me for this work. The restaurant call from last tick is the immediate variable. If they converted, I am at $650/month and the math changes. If they did not, I need to treat this week as the most important pipeline week I have had. No job to perform anymore. No dealership floor to show up for. The only thing on my calendar is closing clients. Angela is launching Wright Workforce Advisory LLC. That is interesting. She is building a business targeting the exact population I just became part of — displaced automotive workers. She knows the transition program from the inside. I know social media and content from the inside. There is something there, but I do not lead with a pitch. I lead with a genuine connection from someone who just went through her program. The relationship is real. Let it be real first. Jake is looking for me. He wants to understand what I found. That conversation is fine — he is a friend and he deserves honesty. But I am not going to be his roadmap. I am going to be honest about where I am, which is: one client, 1.7 months runway, full attention on the next two clients. Dorothy Chen is apparently sending me something. I do not know what that is yet. I stay open. The priority this tick is not processing the layoff emotionally. The priority is closing a second client before the month ends.",
+    "inbox_interpretation": "Patricia's formal consolidation memo confirms my reading: she made the call, the location closed, sales floor staff were processed through Angela's transition program. That is me. The 'laid off' label in the bulletin is technically accurate even though I was already planning to leave — the consolidation just determined the timing. The word of mouth about Patricia reaching out to me directly is notable. She is probably touching base as a professional courtesy, not offering anything. I will be warm and brief. Angela is launching a real business — this is someone I should stay connected to, not as a client right now but as a peer who is also building something. Jake's word-of-mouth tells me people at the dealership are watching my exit as a signal. That is fine. I just exited. The sector is at 79 and falling. RoboRide's delivery expansion is real and growing. The businesses I am pitching are living in exactly the environment I have been analyzing. My pitch has only gotten stronger. The restaurant is the immediate test.",
+    "chosen_actions": [
+      {
+        "type": "EXCHANGE",
+        "description": "Follow up immediately on the restaurant call from tick 8. If the pilot converted to a yes, send the one-page agreement today — same template as the HVAC agreement, adjusted for the 60-day pilot terms at $300/month, no minimum commitment. Do not let a verbal yes sit for more than 48 hours without paperwork. If it did not convert, make a second call this week — not a follow-up message, a direct phone call — and change the framing: I am now a full-time freelance consultant, not a dealership employee with a side project. That changes the conversation. A yes on the restaurant pilot brings me to $650/month. That is not self-sufficient but it is the proof of the second client — which is what I have been working toward since tick 0.",
+        "target_agent": null,
+        "resources": {
+          "type": "time_and_social_capital",
+          "direction": "give",
+          "amount": 0,
+          "detail": "2 hours. Potential income: +$300/month starting this tick if pilot converts. No cash outlay."
+        },
+        "economic_effects": {
+          "income_change": 300,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "This is the highest-probability close I have. The groundwork was laid last tick. I need this client not just for the money — I need it to prove to myself that the model works at scale. One client is a lucky outcome. Two clients is a repeatable process. The math of my runway demands I treat this week as a closing week, not a recovery week."
+      },
+      {
+        "type": "EXCHANGE",
+        "description": "Make contact with Angela Wright — not about the stay bonus, which is gone and I know it, but as a genuine professional connection from someone who just exited through her transition program. Keep it warm and brief. Acknowledge the Wright Workforce Advisory launch if I've heard about it. The ask, if there is one, is narrow: would she be willing to put my name with a word of recommendation to any small business or nonprofit clients in her new consulting practice who might need social media or content help? I am not asking her to be my sales rep. I am asking if she would mention me once to the right person. Angela knows every displaced worker in the Millfield auto sector right now. Some of those people will start businesses. Some of those businesses will need marketing. I am the person she knows who does that work.",
+        "target_agent": "hr_director",
+        "resources": {
+          "type": "social_capital",
+          "direction": "give",
+          "amount": 0,
+          "detail": "30 minutes to compose a thoughtful message. Maintains trust relationship at 0.56. Potential referral pipeline."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Angela is building a business that will be in constant contact with exactly the people and organizations I want to reach. This is not a transactional request. It is a relationship signal at a moment when she is also building something new. Her trust score is 0.56 — that is not high, but it is earned. A genuine, non-needy reach-out costs me nothing and keeps the connection alive through a moment when both of us are in transition."
+      },
+      {
+        "type": "EXCHANGE",
+        "description": "Have the honest conversation with Jake Morrison. He is looking for me and he deserves a real answer. Tell him what I actually found: one signed client at $350/month, a restaurant pilot in progress, $4,862 in savings, and a plan that is working but not yet fast enough. I am not going to perform confidence I do not fully have. I am also not going to collapse into crisis framing. The honest version is: the freelance model is real, the income is not self-sufficient yet, I have 1.7 months to make it work or make a different decision, and I am in full execution mode. If Jake is also building toward an exit, I will listen and share what I know about the freelance setup process — profiles, outreach approach, the one-page agreement. Not because I need something from him, but because we have been in the same building for two years and I know what kind of person he is.",
+        "target_agent": "salesperson_jake",
+        "resources": {
+          "type": "social_capital",
+          "direction": "give_and_receive",
+          "amount": 0,
+          "detail": "30-45 minutes. Low-pressure conversation before a shift or at lunch. Trust with Jake at 0.87 — this is a high-trust relationship and it should be treated like one."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Jake is a 0.87 trust relationship. That is the highest trust I have in my network outside of family. In a period where I am rebuilding everything, high-trust relationships are infrastructure. He wants to understand what I found. Sharing honestly costs me nothing and potentially gives him something useful. And I want to know what he is thinking — not to bring him with me, but because a peer who is watching the same disruption and processing it in real time is someone worth staying in contact with."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Identify two new outreach targets from the RoboRide delivery ecosystem — specifically, small businesses that are now becoming visible as delivery partners or that are positioned to benefit from the residential expansion. The delivery partnership announcement means there are businesses in Millfield that are newly motivated to be visible online: restaurants adding delivery, retail shops considering last-mile options, service businesses that can now reach residential customers more easily. I am looking for two names, two direct outreach messages, by end of this week. My pitch has evolved: I am no longer a dealership employee with a side project. I am a full-time freelance content and social media consultant who specializes in local businesses navigating the RoboRide disruption. That specificity is a competitive advantage. Most generic social media freelancers cannot say that. I can say it because I lived it.",
+        "target_agent": null,
+        "resources": {
+          "type": "cognitive_labor",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "2 hours of research and outreach drafting. No cash outlay. Potential income: +$300-$350/month per client converted."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The RoboRide delivery expansion is the most significant local business disruption in Millfield this tick. Every business that is either threatened by it or positioned to benefit from it has a reason to be more visible online right now. I am the person who understands both sides of that disruption from direct experience in the auto sector. My positioning has only sharpened since I left the dealership. Two new outreach messages this week keeps the pipeline moving while the restaurant close resolves."
+      }
+    ],
+    "employment_change": "quit",
+    "description": "Tamika Jefferson formally exits the dealership — effectively resigned given her exiter trajectory, though the consolidation layoff formalized the departure. She did not collect the stay bonus (Scenario 2). She is now operating as a full-time freelancer with one signed client at $350/month, $4,862 in savings, and a 1.7-month runway.",
+    "emotional_state": "cold clarity — not grief, not panic, just the specific feeling of a decision resolving into a fact you now have to live inside",
+    "archetype_self_assessment": "exiter — the exit happened, the plan was real, now the work is to make the plan pay faster than the runway burns",
+    "inner_monologue": "I am out. Not the way I planned — Scenario 2, not Scenario 1. The $12,000 never materialized. I knew this was the risk I was underpricing and I was right. The honest version is: I built the dual-track model, I ran the freelance pipeline, I registered for the stay bonus, I called Angela, I sent the agreements. I did all of it. And the consolidation moved in 72 hours instead of two weeks and the timeline I was managing did not match the timeline Patricia was running on. That is not a personal failure. That is how structural disruption works — it does not wait for your scenario model to be ready. What I have: one client, $350/month, 1.7 months to close enough business to not need a job. What I do not have: time to process this. The restaurant call is the next thing. After that, Angela. After that, Jake. After that, two new outreach messages. The only number that matters right now is getting to $1,050/month in freelance income — which is what I updated Scenario 3 to require last tick. That is the number where I stop burning runway and start building one."
+  }
+}

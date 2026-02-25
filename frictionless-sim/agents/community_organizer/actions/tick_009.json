@@ -1,0 +1,71 @@
+{
+  "tick": 9,
+  "agent_id": "community_organizer",
+  "agent_name": "Lisa Freeman",
+  "response": {
+    "internal_assessment": "Nine protests. That number is not abstract to me — I can name three people who were probably in the street this week, and I can name the diner and the parking lot where those conversations are happening before they become marching. The location closure Patricia Hawkins just committed to is going to hit Millfield before the end of Q2, and the layoffs from that, stacked on top of Linda Park's layoff of Tom Bradley, stacked on top of everything that was already happening — I am about to see a wave at the community center that the current staffing and programming was not built to absorb. Employment at 67% means one in three working-age adults in this community is not earning. That is not a blip. That is a structural shift happening in real time. Maria's emergency task force session is this week, and I have to be in that room with current numbers, not last month's report. The financial triage concept I wrote about in my tick 6 reflection — where someone can sit down with a real person and map their least-bad options — that is not a future project anymore. I need to name it, build a rough structure for it, and tell Maria it is coming so she has something concrete to point to when she is facing a community that is angry and scared and looking for proof that institutions are doing something real. The nine protests are not a problem to suppress. They are information. They are telling me that formal channels have not been fast enough. If the community center is going to be a credible node, I need to show up to the task force with something the council can actually act on — not just data about who came through the door, but a proposal for what comes next.",
+    "inbox_interpretation": "The cascade of layoff decisions in my inbox — Patricia Hawkins, Linda Park, multiple business closings — confirms that the disruption is accelerating on a timeline faster than the policy response. Maria Santos has already committed to an emergency task force session within 10 days and a formal licensing framework review for the delivery expansion. That is the right policy move, but it will not produce income for anyone this month. The nine protests signal that the gap between policy timeline and human need is now visible and generating energy. Kevin O'Brien's office hours are in their second session — I need to do better outreach than I did for the first session, because the people who most need a conversation with a banker are the least likely to walk into a bank voluntarily. Dorothy Chen is stopping by Betty's Diner repeatedly — that sustained presence model is something I recognize and value. Robert Jackson reached last tick — the call I made connects him to Kevin's office hours and updates my knowledge of the delivery partnership economics. Zoe Martinez is moving on delivery partnership registration and social media — she is executing fast under pressure, which is her strength and also her risk of overextension. The Frank Russo word-of-mouth items about the small business stabilization fund and adult continuing education intake are directly relevant to what I do — I should be amplifying those pathways at Community Connection Night.",
+
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Attend Maria Santos's emergency task force session this week and come prepared with two things the council does not already have: (1) a street-level report from Community Connection Night attendance over the past two weeks — specifically, what displaced workers from the Hawkins location closure and related layoffs are saying about their immediate needs, their gaps in accessing existing retraining programs, and their awareness of the financial resources Kevin O'Brien has been presenting at office hours; (2) a one-page concept brief for a Financial Triage Navigator function at the community center — a structured, in-person service where a trained volunteer or part-time staff member sits with a community member for 45 minutes and maps their current financial situation against the programs, products, and pathways that actually exist. This is not a food bank. It is not a loan office. It is a place where someone who has no idea what their options are can leave with a prioritized, specific list of next steps. I am not asking the council to fund it today. I am telling them it is coming so they can reference it publicly as a concrete institutional response when they are facing nine protests and a contracting employment base.",
+        "target_agent": "council_member",
+        "resources": {"type": "time", "direction": "give", "amount": 3, "detail": "Three hours: one hour in session plus two hours of preparation — compiling current intake data, drafting the one-page Financial Triage Navigator concept brief"},
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Maria's emergency session is the highest-leverage policy moment available to me this tick. I have been building toward exactly this kind of intersection between ground-level data and institutional decision-making since tick 1. The financial triage concept is ready enough to present in concept form — I have been thinking toward it since tick 6 and the community need for it is now acute. Showing up with a concrete next-step proposal, not just data, is what distinguishes an infrastructure node from a service provider."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Host this week's Community Connection Night with an explicit structure designed for the current moment: (1) a 20-minute open circle segment at the start where people can name what they are experiencing — framed as sharing, not grieving, with the counselor on rotation present; (2) the updated transportation decision-support segment, now incorporating the $0.12/mile residential coverage reality and the delivery partnership option with honest framing of what it pays and who it fits; (3) a five-minute segment at the end where I name the Financial Triage Navigator concept directly — tell people it is coming, describe what it will do, and ask anyone who wants to help design it or volunteer to stay afterward. I am not running a crisis hotline. I am running an institution that can absorb protest energy and convert it into action people can take on Tuesday morning. The nine protests tell me the community already has organizing capacity. I need to give that capacity a productive channel before it dissipates or hardens into something that damages the relationships I have been building.",
+        "target_agent": null,
+        "resources": {"type": "time", "direction": "internal", "amount": 4, "detail": "Four hours total: two hours program preparation, two hours running the session including the post-session volunteer conversation"},
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Community Connection Night is the operational heart of what I do. With employment at 67% and nine protests in the last month, the standard format is not sufficient. The people showing up this week will include some who were just laid off from the Hawkins location. I need to be ready for that, and I need to use the energy in the room productively — not to manage it down, but to channel it toward concrete next steps. Naming the Financial Triage Navigator publicly also starts the co-design process: the people who most need it should help shape it."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Send a direct, short message to Frank Russo this week acknowledging the word-of-mouth I am hearing about his small business stabilization fund application and his adult continuing education outreach. The message does two things: it tells him that the community center is a natural venue and referral point for adult continuing education enrollment conversations, and it asks whether there is a way to coordinate — specifically, whether any of his existing or former students who are now displaced would benefit from a direct connection to Kevin O'Brien's office hours or the transportation decision-support segment at Community Connection Night. Frank has trust at 0.52 and he is executing under pressure — he applied for the stabilization fund, which means he is trying to save his business, and he is reaching into adult education, which means he is thinking about his students' next steps too. That alignment is worth activating explicitly.",
+        "target_agent": "driving_instructor",
+        "resources": {"type": "time", "direction": "give", "amount": 0.5, "detail": "One short message, thirty minutes including any follow-up to coordinate a referral pathway"},
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Frank Russo has a specific population of displaced workers — people who came to him to learn to drive, some of whom are now facing an economy where that skill is worth less than when they enrolled. The adult continuing education pathway he is exploring is exactly the kind of retraining vector I should be supporting with referrals and venue. His stabilization fund application also means he is a small business owner who may need the Financial Triage Navigator himself. High-trust connection with direct current relevance."
+      },
+      {
+        "type": "EXCHANGE",
+        "description": "Check in with Zoe Martinez at Community Connection Night or by phone — brief, specific check-in. I want to know two things: whether she has made contact with any businesses for social media clients this tick, and whether her RoboRide delivery partnership registration is in motion. I am not supervising her. I am maintaining the relationship with consistent presence so that when something goes sideways — and with zero savings and income still unstable, something will — she knows I am here. I also tell her about the Financial Triage Navigator concept and that she is the kind of person I want input from in designing it: someone who is navigating multiple income streams at once and knows what information she needed and did not have.",
+        "target_agent": "young_gig_worker",
+        "resources": {"type": "time", "direction": "give", "amount": 0.5, "detail": "Half hour check-in, in person at Community Connection Night if she attends, by phone otherwise"},
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Zoe has zero savings and is executing fast across multiple fronts. She is not going to come to me when she is overwhelmed — she will just keep pushing until something breaks. Consistent light-touch presence is the way I stay connected to people who are too proud or too busy to ask for help. Inviting her to co-design the Financial Triage Navigator is also genuine — she has navigated a financial situation this tick that most people would find paralyzing, and the knowledge of how she did it is directly useful to the service I am building."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "builder",
+    "inner_monologue": "Nine protests. I keep coming back to that number. I have been running Community Connection Night for nine ticks and I have been deliberate about it — low-barrier, no stigma, coffee and tables and a counselor on soft rotation. But nine protests means the pace of change has outrun the pace of my institution's response, and I have to be honest about that even as I am proud of what the center has done. The financial triage concept has been sitting in my notes since tick 6 and I have been waiting for the right moment to bring it forward. There is no right moment. There is this moment, and it is sufficient. Maria's task force session is the room where I can name it in front of people who can authorize something. I am going to walk in there with a one-page brief and the intake data and I am going to say: here is what we have built, here is what we are building next, and here is what you can tell the nine people who were in the street this week about what the institutions are actually doing. That is the job."
+  }
+}

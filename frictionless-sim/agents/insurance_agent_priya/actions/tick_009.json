@@ -1,0 +1,56 @@
+{
+  "tick": 9,
+  "agent_id": "insurance_agent_priya",
+  "agent_name": "Priya Sharma",
+  "response": {
+    "internal_assessment": "I am unemployed now. The tick 8 outcome made it real — whether I voluntarily separated when I told Linda I was searching, or whether events moved faster than I expected, the employment status is gone. I have $10,640 in savings against $3,341 in monthly expenses. That is 3.2 months of runway. Not a crisis, but not a buffer either — it is a countdown. I need to treat it like one without letting the pressure collapse my judgment. The inbox this tick carries two pieces of Linda's internal thinking that matter to me directly: she sent AutoShield corporate a second, harder memo with a 14-day response deadline, and she is continuing the CRMP commercial fleet certification. That tells me she has not given up on the pivot — she is fighting for it. But she is also covering herself if corporate stays silent. I can read that. Tom got laid off. I did not. That is not comfort — Tom and I were colleagues and I have some amount of responsibility to check in on him — but it is signal. Linda protected the person who was giving her honest data and building new skills. She released the person she did not have a plan for. What I need to do right now, in order: follow up on the two tick 8 applications — find out if they have moved, push them forward, treat follow-up as a job in itself. Continue Module 4 of the SQL course. And reach out to Tom — not to perform concern, but because I actually feel it, and because he may have information about what AutoShield's timeline looks like from the outside.",
+    "inbox_interpretation": "Linda's two word-of-mouth messages are the most important inputs. First: she sent a forcing document to corporate with a 14-day deadline, which tells me she is treating the pivot as urgent and real, but also that she has not heard back yet — corporate silence is the current state. Second: she is using her CRMP certification work to build a fleet risk portfolio piece, which means she is simultaneously protecting her own career while fighting for the regional book. That is the behavior of someone who respects her team but does not know if she can save the office. Tom's layoff is structural — Linda said plainly it was a book-of-business contraction, not a performance issue. No application responses landed in my inbox this tick, which is normal — two applications submitted last tick, it is too early for most to have moved. The broader environment — 67% employment, spending index 40, 22 active auto policies, tense mood — confirms the pressure is not abating. Angela Wright is stressed, which makes sense: she is an HR director in a sector that is shedding workers. Betty Kowalski is stressed. The community is contracting. I need to move faster than the environment is moving.",
+    "chosen_actions": [
+      {
+        "type": "TRANSFORMATION",
+        "description": "Follow up on both tick 8 applications — a brief, professional message to each, not a request for status but an added value touch: include the fleet incident data query output as an attached portfolio artifact if I have not already sent it, or reference a specific detail from the job description to demonstrate I read it carefully. The goal is to stay visible without being desperate. Also submit at least one additional application this tick — expand beyond the two companies I targeted last tick, specifically looking at regional insurtech firms and commercial fleet risk roles. This is a job search, not a wait.",
+        "target_agent": null,
+        "resources": {"type": "time", "direction": "internal", "amount": 6, "detail": "Hours allocated to application follow-up, targeted outreach messages, and submitting one additional application with tailored cover note"},
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": -3341,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I have 3.2 months of runway. Waiting for responses to come to me is not a strategy at this cash burn rate. Following up on existing applications costs nothing and keeps me in front of hiring managers who may be slow to process. Adding a third application expands the funnel. Every week I am not employed is a week the runway shortens. The job search is now my primary job."
+      },
+      {
+        "type": "SOCIAL",
+        "description": "Reach out to Tom Bradley directly — not a group message, not a LinkedIn reaction, a private direct message or text. Keep it brief and honest: I heard the news, I am sorry it landed this way, and I want to check in on how he is doing. If he wants to talk I am available. Do not make it about me or about AutoShield's timeline. Tom was a colleague for long enough that he deserves the genuine version of this, not the professional courtesy version. If the conversation opens up and he shares what Linda said to him, I listen. I do not fish for information.",
+        "target_agent": "insurance_agent_tom",
+        "resources": {"type": "information", "direction": "give", "amount": 0, "detail": "Personal check-in message to Tom Bradley following his layoff — direct, genuine, no agenda beyond human contact"},
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Tom and I have worked in the same small regional office for long enough that ignoring his layoff would be a choice, and not a good one. He has a trust score of 0.6 in my relationships — that is real. He may also end up as a professional contact down the road and the way I handle this moment will be remembered. This costs me twenty minutes and is simply the right thing to do."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Complete SQL Module 4 — window functions and subqueries. I started it last tick and I am not stopping. With the job search now active and active policies at 22, the certification is no longer a hedge against future disruption — it is a current differentiator on applications I have already submitted. I finish the module this tick. At completion I document it on LinkedIn and update my application materials to reflect the new capability.",
+        "target_agent": null,
+        "resources": {"type": "time", "direction": "internal", "amount": 3, "detail": "Three evening hours to complete Module 4 window functions and subqueries; update LinkedIn profile and application materials upon completion"},
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I have invested three months in this course. I am not stopping three-quarters of the way through when the credential is most visible to the people I am applying to. Window functions and subqueries are the module that separates entry-level SQL from professional-grade SQL work — this is the one that changes how a hiring manager reads my resume. Two to three hours. I protect them."
+      }
+    ],
+    "emotional_state": "focused, with a layer of grief I am not suppressing",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "I am officially unemployed now. I said I was not scared of change and I meant it — but I also did not fully picture what it would feel like to open my laptop and see zero income in my state and three months of savings left. It is not panic. It is weight. Tom is gone, auto policies are at 22, Linda is fighting a battle with corporate that may already be decided. The version of this where I land a data role at an insurtech firm before my runway runs out is still real — I have skills, I have a portfolio artifact, I have two applications already in flight. But it requires me to move with urgency, not preparation-shaped urgency, actual urgency. Three applications in flight by end of this tick. Module 4 complete. Tom gets a real message, not a LinkedIn emoji. I have been the adapter character this whole time. Now I need to be it when the numbers are small and the clock is running."
+  }
+}

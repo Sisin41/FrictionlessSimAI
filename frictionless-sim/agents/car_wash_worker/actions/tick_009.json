@@ -1,0 +1,70 @@
+{
+  "tick": 9,
+  "agent_id": "car_wash_worker",
+  "agent_name": "Miguel Hernandez",
+  "response": {
+    "internal_assessment": "I am unemployed. That is the new reality. Savings at roughly $1,180 — which is less than one month of essentials. The cert program outcome message confirmed I stayed enrolled through tick 8 and I am at month 5 of 8, roughly 37% complete now. But none of that matters if I run out of money before I finish. The grant from Kevin O'Brien's office hours visit is not confirmed. I do not know if I got it. What I know is: employment rate at 67%, spending index at 40, robotaxis multiplying, and I have no income. This tick is a triage tick. I need income — not eventually, not next month. Now. The bike gig route is still viable for foot-and-bike delivery. RoboRide's delivery expansion actually creates opportunity for last-mile: they cannot get packages from the drop point to the apartment door. That is still my lane. I pick up every gig shift I can without missing a class. I call Carlos back — he reached out to me. That is a relationship signal I would be stupid to ignore. He has been in cert training longer, he is watching this sector with better information than I have, and he reached out because he cares. I take that call. And I follow up on the grant. My situation is urgent but I am not broken. I still have the cert streak. I still have the relationships. I still have the discipline. I just have to get through this month financially.",
+    "inbox_interpretation": "The most important message this tick is the OUTCOME: I am unemployed and savings dropped $2,137. That is not news I expected at this magnitude — my income going to zero changes everything about my timeline. Carlos's word-of-mouth is the second most important signal: he reached out to me because the RoboRide delivery expansion threatens car wash volume, and he wanted to be present, not give advice. He mentioned he is doing cert training and that it has been hard but worth it. That is information I need: someone further along the same path, confirming the destination is real. The ambient data — employment at 67%, spending at 40, RoboRide at $0.12/mile with residential coverage, auto sector at 79 — all points the same direction: the old economy is contracting faster than I thought. Zoe's message about attending Kevin O'Brien's office hours is a reminder that others are competing for the same grant resources I was chasing. Betty Kowalski being stressed is ambient but consistent: the economic mood on Auto Row is deteriorating. Word of mouth about Jake Morrison and Dorothy Chen making changes reinforces that everyone is adapting. I am not alone in this — but I am also the one with the least financial cushion right now.",
+    "chosen_actions": [
+      {
+        "type": "INCOME_EMERGENCY",
+        "description": "Immediately pick up maximum viable gig shifts this month — bike delivery via DoorDash and any last-mile delivery work that does not require a car. RoboRide's residential delivery expansion makes this viable as a last-mile layer: the robotaxi brings the package close, I deliver the final block. Research the RoboRide delivery partner registration process this week — if it pays better than DoorDash bike routes, shift hours toward it. Target: 15 to 20 hours of gig work per week across evenings and weekends, carefully scheduled so it does not conflict with Tuesday/Thursday evening classes and Saturday morning class. This is not a career pivot. This is survival. The goal is to generate $400 to $600 this month — enough to stop the savings bleed while I stay enrolled in the cert program. At $1,180 in savings and $1,200/month in essentials, I have less than one month of runway. This is the constraint that overrides everything except keeping my cert streak alive.",
+        "target_agent": null,
+        "resources": {"type": "time", "direction": "external", "amount": 60, "detail": "60 hours of gig work spread across 4 weeks, evenings and weekends only, no class conflicts"},
+        "economic_effects": {
+          "income_change": 500,
+          "expense_change": 0,
+          "savings_change": 500,
+          "asset_change": "none",
+          "employment_change": "gig_income_active"
+        },
+        "reasoning": "Zero income with $1,180 savings is a sub-one-month runway. The cert program takes 3 more months to complete. I cannot finish the cert if I run out of money. Gig income is the fastest available option that does not require a car and does not conflict with my class schedule. $400 to $600 per month is achievable on a bike in Millfield's core delivery zone. This buys the runway I need."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Continue automotive service technician certificate program at Millfield Community College — do not miss a single class. This is month 5 of 8 and I am approaching the halfway point. The program is the entire foundation of my exit from this situation. I will not sacrifice it for gig hours. Class schedule is fixed and inviolable: Tuesday evenings, Thursday evenings, Saturday mornings. Everything else gets scheduled around these. This month I also get the answer I have been circling since tick 6: I speak directly to the program coordinator about whether EV modules are embedded in the curriculum and what a follow-on EV specialization looks like. I have been in this program for five months without getting this answer. That ends this month. I go after class on the first Thursday and I ask.",
+        "target_agent": null,
+        "resources": {"type": "time", "direction": "internal", "amount": 32, "detail": "32 hours of scheduled class time — non-negotiable block, nothing gets scheduled over this"},
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "skill_progress_month5_of_8",
+          "employment_change": "none"
+        },
+        "reasoning": "The cert is the asset. Everything else is buying time for the cert to finish. Three months left after this one. I do not break the streak now — not when I am over halfway through the program and not when Carlos himself, further along in a parallel cert process, confirmed it has been worth it."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Call Carlos back. He reached out to me — that is not a minor thing. He went out of his way to check in, mentioned he is doing cert training, said it has been hard but worth it, and left the door open. I call him this week, not next week. The call is not about asking for anything. It is about being present in the relationship the same way he was present for me. I will tell him honestly where I am: unemployed, cert program still running, trying to figure out the gig income gap. I will ask him what month he is in his EV cert and what the curriculum is like — not because I am going to drop my MCC program, but because I want to understand what I am building toward. If he brings up the apprentice-track question, I let him lead that conversation. I do not push it. But I do not avoid the call either. He knows this sector. He reached out because he gives a damn. I return that.",
+        "target_agent": "mechanic_carlos",
+        "resources": {"type": "social_capital", "direction": "both", "amount": 0, "detail": "Returning Carlos's outreach; trust score 0.78 — relationship maintenance and intelligence gathering in one conversation"},
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "relationship_strength_maintained",
+          "employment_change": "none"
+        },
+        "reasoning": "Carlos is my highest-trust professional contact at 0.78 and he is further along in the automotive-to-EV transition path than I am. He reached out unprompted. Not returning that call would be socially careless and strategically stupid. This costs me nothing and keeps the most important professional relationship I have alive and warm."
+      },
+      {
+        "type": "FOLLOW_UP",
+        "description": "Follow up on the Kevin O'Brien retraining grant application from tick 8. I went to the office hours, I brought documentation, I made the ask. Now I need to know the status. If there is a decision pending, I follow up by email or phone this week. If there is additional documentation required, I provide it immediately. If the grant was denied, I ask Kevin directly what other options exist for someone in my situation: unemployed, active in a retraining program, sub-one-month runway. I am not going to let this sit and wonder. The grant — even $150 per month — would change my survival math materially. I pursue it with the same discipline I bring to the cert program.",
+        "target_agent": null,
+        "resources": {"type": "time", "direction": "internal", "amount": 2, "detail": "Phone/email follow-up plus any documentation gathering — minimal time investment for potentially significant financial return"},
+        "economic_effects": {
+          "income_change": 150,
+          "expense_change": 0,
+          "savings_change": 150,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I did the hard part last tick — I showed up, I made the ask, I brought documentation. Following up is the easy part. The payoff, if the grant exists and I qualify, is runway extension at a moment when I am below one month of savings. I do not leave this outcome unknown."
+      }
+    ],
+    "emotional_state": "tense but controlled",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "I am unemployed. I am saying it plainly because I have been the person who says 'it's a job, I need it for rent, not attached to it whatsoever' and now the job is gone and I need to know if that was real or just something I told myself. I think it was real. I am not spiraling. I am making a list. Gig work: start this week, bike delivery, protect the class schedule at all costs. Carlos: call him back today. Grant: follow up tomorrow. Cert: Tuesday, Thursday, Saturday — no exceptions. I have been building toward something for five months. Three months left. The only way I fail now is if I panic and make a move that burns the streak. I am not going to do that. The economy is at 67% employment and falling. RoboRide is eating everything. Betty Kowalski is stressed. But I am still the one who started the cert in tick 4 before any of this got this bad. That gap still exists. I just have to hold it."
+  }
+}

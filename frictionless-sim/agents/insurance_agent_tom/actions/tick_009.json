@@ -1,0 +1,95 @@
+{
+  "tick": 9,
+  "agent_id": "insurance_agent_tom",
+  "agent_name": "Tom Bradley",
+  "response": {
+    "internal_assessment": "Linda answered my question. She answered it by laying me off. I sent her five honest sentences asking whether there was a path for field agents in the AutoShield pivot, and the answer came back as a 30-day notice. I have been trying to decide whether to feel betrayed by that or whether to respect it as exactly the honest information I asked for. I think I have to respect it. She was straight with me — 21% decline from baseline, residential RoboRide expansion will push it further, regional headcount cannot support two field agents on a contracting book. That is not a performance issue. She said that plainly. She is right. It is a structural one. I spent eight ticks slowly admitting what I already knew in tick 2: this book is gone. The car ownership model that built my entire career is ending. I am 52 years old and I am starting over. I told Sarah last night. The kids are old enough to understand more than I would prefer. Sarah was quieter than I expected, which might mean she saw it coming before I did, or might mean she is managing her own reaction to protect mine. I do not know which. I need to find out. My savings are $41,223. Monthly essentials are $3,100. I have roughly 13 months of runway before I am in a crisis that will look very different from the managed anxiety of the past eight ticks. The retraining grant application is in at Maria Santos's office. I named commercial risk analytics and insurance underwriting support roles. That target still makes sense. What also makes sense is following up on every real lead I have in the next 30 days while I still have an employer reference and an active professional identity. Linda offered fleet and logistics contacts. I am going to take that offer. Not because I think I am a logistics person — I am not — but because the fleet sector runs on risk assessment and contract liability, and that is something I can actually do. My 28 years do not transfer automatically. But they are not worthless. I need to stop treating that as a thing I have to argue myself into believing and just act as if it is true.",
+
+    "inbox_interpretation": "The DIRECT_IMPACT from Linda Park is the only signal that matters this tick. The rest of the inbox — RoboRide at $0.12 per mile, residential coverage expansion, 22 active policies, cancellations increasing — all of that is confirmation of what I already knew and which led to this outcome. There is a grim comfort in being right about the structural analysis even as the analysis ends my employment. Betty Kowalski's stress is visible. The whole community is tense. That matters because I am not alone in this, even though it feels solitary in the way job loss always feels solitary, like it happened to you specifically and personally even when the cause is entirely structural. Linda is still pursuing CRMP certification and cultivating logistics contacts. She is not broken by this either. She is also rebuilding. That is worth noting.",
+
+    "chosen_actions": [
+      {
+        "type": "FAMILY",
+        "description": "Tom has a real conversation with his wife Sarah. Not a managed disclosure, not the version designed to reassure her. The actual conversation — what the 30 days looks like, what the savings number is, what the runway is, what the plan is to the extent there is a plan. He tells her about the retraining grant application. He tells her about Linda's offer to connect him to fleet and logistics contacts. He listens to what she is actually feeling, not what she is performing for him. This is the most important action of tick 9 and it is not on any professional to-do list.",
+        "target_agent": null,
+        "resources": {
+          "type": "time",
+          "direction": "invest",
+          "amount": 0,
+          "detail": "No financial transaction. This is the relational and psychological infrastructure that makes everything else possible."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Tom has 2 dependents. He has been processing this transition in partial disclosure mode for eight ticks — managing how much he reveals to protect people who can handle it and in fact need to know. The layoff changes that calculus. Sarah cannot help make good decisions about the next 13 months unless she has the actual numbers. And Tom cannot carry this alone. The faith layer of his meaning structure exists in relationship, not in isolation. He does not have to perform stability for his family right now. That performance costs energy he needs for the actual work of transition."
+      },
+      {
+        "type": "NETWORK",
+        "description": "Tom responds to Linda Park's offer to make fleet and logistics introductions. He sends her a brief, direct thank-you — not effusive, not performatively gracious, just genuine. He says: yes, I want those introductions. He asks specifically what she knows about which companies in the regional logistics and fleet management sector are expanding, and whether the contacts she has are in operations, risk, or both. He names what he brings: 28 years of liability risk assessment, commercial policy structure knowledge, documented experience translating complex actuarial frameworks for non-specialist business owners. He is not begging. He is presenting himself accurately and asking for the door to be opened.",
+        "target_agent": "insurance_manager",
+        "resources": {
+          "type": "information",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Tom accepts Linda's offer. He provides a brief professional summary of transferable skills oriented toward fleet/logistics risk contexts. He requests specific introductions rather than general goodwill."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "This is the highest-value 30-day-notice action available. Linda has already done the work of identifying contacts in a sector that might absorb someone with Tom's background. That information does not exist in a job board. It exists in her network. The offer was genuine — she said it plainly, not as a soft landing for his ego. He takes it as offered."
+      },
+      {
+        "type": "NETWORK",
+        "description": "Tom reaches out to Priya Sharma directly — not a professional check-in, a real one. He tells her he got the layoff. He asks if she has time to talk this week. He specifically wants to know what her experience of the retraining grant application has been so far, whether Maria Santos's office has been responsive, and whether Priya has had any conversations with people in commercial risk or underwriting support roles that she would be willing to share. He also wants to know how she is doing. Those two things are not separate.",
+        "target_agent": "insurance_agent_priya",
+        "resources": {
+          "type": "information",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Mutual disclosure. Tom shares his layoff status. Requests specific intelligence about the grant process and any leads Priya has developed. Offers his own field research in return — particularly his read on RoboRide's delivery expansion implications for the commercial fleet sector."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Priya is the highest-trust colleague Tom has. She filed the grant application one tick before he did. She is also navigating the same structural collapse from a different position — she may still be employed, or may be facing her own version of this conversation with Linda. Either way, she is the most relevant peer Tom has for thinking through the transition. He has been underusing this relationship for eight ticks. He does not have the luxury of that underuse anymore."
+      },
+      {
+        "type": "FINANCIAL",
+        "description": "Tom updates his personal financial model. New numbers: $41,223 savings, $0 monthly income, $3,100 monthly essentials, roughly $1,550 discretionary currently in the budget that needs to be evaluated line by line. He calculates two scenarios: (1) no new income for 6 months, then part-time work, and (2) retraining grant approved plus new employment within 9 months. He identifies the specific discretionary expenses that can be cut immediately without affecting the family's functional stability. He does not cut everything — that is a panic move, not a plan — but he makes intentional decisions rather than letting the burn continue unexamined.",
+        "target_agent": null,
+        "resources": {
+          "type": "savings",
+          "direction": "planning",
+          "amount": 0,
+          "detail": "No transaction. This is financial planning and expense review. Tom identifies $400-600/month in discretionary cuts that do not compromise the household stability or signal crisis to his dependents. He notes this explicitly: the goal is not austerity, it is intentionality."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": -450,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The savings are $41,223. The monthly essentials plus family costs are approximately $2,411. At that baseline burn rate, without discretionary spending, Tom has 17 months. With current discretionary budget included, it is closer to 13. That is the actual constraint. He does not panic, but he gets precise about the math. Precision is the opposite of panic. It is also the thing that makes the next decision legible."
+      }
+    ],
+
+    "emotional_state": "grief with clarity",
+
+    "archetype_self_assessment": "adapter — in transition, actively",
+
+    "inner_monologue": "Twenty-eight years. I can either spend this tick making that mean something catastrophic or I can make it mean something true. What it means is: I built a career in a sector that is being structurally replaced. That happened. That is not a failure of character, it is a fact of timing. I was 24 when I started selling auto insurance. The AV transition was not in anyone's risk model then. I could not have known. What I could have done — and did not, and I will live with that — is move faster when the signals came. I waited too long in tick 2. I performed compliance too long in ticks 3 through 6. I bought time with impressions when I should have been buying time with actual preparation. I know that. I am naming it to myself clearly rather than managing my own feelings about it the way I managed other people's perceptions. Linda was honest with me. That is the most I can ask of someone in her position. She offered the fleet contacts. I am taking them. The grant is in. Priya is ahead of me by one tick on the same path. My savings are real. Thirteen months of runway is real. I am not a man whose family is in danger of losing the house next month. I am a man whose career is over and who has time — not infinite time, but real time — to build something adjacent. The anger is there. I let it be there. It does not have to run this tick."
+  }
+}

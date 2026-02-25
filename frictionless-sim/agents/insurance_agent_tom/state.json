@@ -30,67 +30,68 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 7.9,
-      "threat_level": 0.34,
+      "runway_months": 13.3,
+      "threat_level": 0.52,
       "monthly_essentials": 3100,
       "health_cost_from_stress": 0
     },
     "L1_STABILIZE": {
-      "savings_buffer": 55800,
+      "savings_buffer": 41223,
       "debt_load_ratio": 0.3,
       "insurance_coverage": "none"
     },
     "L2_PARTICIPATE": {
       "employment_status": "unemployed",
       "skill_relevance": 0.17,
-      "role_security": 0.62,
-      "network_strength": 0.38
+      "role_security": 0.0,
+      "network_strength": 0.42
     },
     "L3_CONSUME": {
-      "discretionary_budget": 1550,
+      "discretionary_budget": 1100,
       "owns_car": false,
       "car_payment_monthly": 0,
-      "substitution_willingness": 0.3
+      "substitution_willingness": 0.38
     },
     "L4_SIGNAL": {
-      "status_anxiety": 0.54,
+      "status_anxiety": 0.65,
       "reference_group": "insurance"
     },
     "L5_BUILD": {
-      "future_orientation": 0.66,
-      "entrepreneurial_drive": 0.39
+      "future_orientation": 0.71,
+      "entrepreneurial_drive": 0.42
     },
     "L6_TRANSCEND": {
       "meaning_source": "faith",
-      "purpose_stability": 0.62,
-      "community_ties": 0.33
+      "purpose_stability": 0.55,
+      "community_ties": 0.38
     }
   },
   "perception": {
-    "world_state_awareness": "baseline",
+    "world_state_awareness": "elevated",
     "information_sources": [
       "word_of_mouth",
-      "direct_experience"
+      "direct_experience",
+      "professional_network"
     ],
     "cognitive_biases": {
-      "status_quo_bias": 0.53,
-      "normalcy_bias": 0.33,
+      "status_quo_bias": 0.38,
+      "normalcy_bias": 0.18,
       "loss_aversion_multiplier": 2.5,
-      "availability_heuristic": 0.48,
+      "availability_heuristic": 0.55,
       "social_proof_sensitivity": 0.62
     },
-    "sentiment": "anxious"
+    "sentiment": "grief_with_clarity"
   },
   "psychological": {
-    "stress_level": 0.5700000000000001,
-    "agency": 0.53,
-    "grief_stage": "anger",
-    "temporal_horizon_months": 8,
-    "high_stress_ticks": 0
+    "stress_level": 0.72,
+    "agency": 0.58,
+    "grief_stage": "acceptance_early",
+    "temporal_horizon_months": 13,
+    "high_stress_ticks": 1
   },
   "financial": {
     "monthly_income": 0,
-    "monthly_expenses": 5189,
+    "monthly_expenses": 2650,
     "savings": 41223,
     "debt_total": 18526,
     "credit_score": 789
@@ -100,15 +101,15 @@
       "type": "housing",
       "description": "Mortgage/rent",
       "monthly_cost": 1553,
-      "remaining_months": 67,
+      "remaining_months": 66,
       "exit_cost_months": 6
     },
     {
       "type": "employment",
-      "description": "Employment at Auto Insurance Agent",
+      "description": "30-day notice period at AutoShield — final month. Laid off by Linda Park, structural reasons. Personal auto book down 21%. Reference offered.",
       "monthly_income": 6200,
-      "remaining_months": null,
-      "exit_cost_months": 1
+      "remaining_months": 1,
+      "exit_cost_months": 0
     },
     {
       "type": "family",
@@ -140,5 +141,5 @@
   },
   "locality": "millfield",
   "archetype": "adapter",
-  "tick_updated": 8
+  "tick_updated": 9
 }

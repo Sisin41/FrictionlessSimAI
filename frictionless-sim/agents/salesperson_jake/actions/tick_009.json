@@ -1,0 +1,95 @@
+{
+  "tick": 9,
+  "agent_id": "salesperson_jake",
+  "agent_name": "Jake Morrison",
+  "response": {
+    "internal_assessment": "Three things landed at once this tick and I need to hold all of them at the same time without letting any one of them crowd out the others. First: Patricia has committed to closing one location by end of Q2. Sales floor staff at the closed location get notified within one week of the announcement, then processed through Angela's transition program. I do not know which location. That uncertainty is now the biggest single variable in my life. If it is my location, the stay bonus question is academic — I am being transitioned out. If it is not my location, I survive into the consolidation and the $12K matters more than ever because the remaining floor will be thinner and the bonus becomes a retention anchor. Second: Angela's five-business-day window that I gave her in my tick 8 email has run out or is running out right now. She did not send me a direct reply. She was busy launching an LLC — I know this from the word-of-mouth that she is 'making some kind of change.' Angela is building her exit. That matters for what the transition program actually looks like if I end up needing it: it may be run by someone who is half out the door. Third: Tamika's conversation at tick 8 confirmed she is planning an exit on her own terms, not waiting to be pushed. She has a freelance client, a scenario model, a timeline. She is not panicking. She is moving. I am still on the floor and she is building something. That gap bothers me and I am not going to pretend it does not. My savings are at $7,799. My monthly burn is over $3,000. I have fewer than three months of runway before I am in genuine crisis territory, and that is with income from the floor. If I lose the floor job, the timeline compresses to weeks. The stay bonus is real — Angela sent a formal memo at tick 7 to all remaining staff — but I need to know my qualifying status specifically, and I need to know which location is closing before I build any plan around it. Both pieces of information are controlled by people above me. I have to go get them.",
+
+    "inbox_interpretation": "The Patricia word-of-mouth is the loudest signal in this inbox and I am reading it directly: one location closes, sales floor staff notified within one week, processed through Angela's transition program. The two-sentence answer I need is: which location and when. Patricia's outreach to Angela also tells me the transition program is the mechanism — which means Angela's departure (she is clearly building an exit via the LLC) could destabilize the program that was supposed to catch people like me. Rick's word-of-mouth is about his own compensation fight with Patricia — he is pressing her for a formal contract before he finalizes the assessment. That tells me Rick does not yet know which location Patricia is formally naming. The assessment may not be final. Which means there is still a window where Rick's read on the floor — including my floor specifically — can influence the outcome. Angela's word-of-mouth confirms she is filing a consulting entity, not writing personalized replies to individual employees. She acknowledged Tamika but not me. My binary deadline ran out. I am stopping counting the $12K as a confirmed asset and starting to count it as a possible asset contingent on location survival. The RoboRide news is background at this point — I absorbed that shift last tick. What matters now is not the macro, it is the specific: which location, which people, which roles.",
+
+    "chosen_actions": [
+      {
+        "type": "EXCHANGE",
+        "description": "Go directly to Rick Tanner — not email, not word of mouth — and ask him two specific questions in a direct, brief conversation before the end of this week. Question one: which location is Patricia closing? I understand he may not be able to confirm which one is in his assessment, but I am asking him as the GM I have worked under for years to tell me what he can. Question two: is my position in consideration for the transition pool, or is my location surviving? I am not panicking, I am not making demands — I am a salesperson with two kids asking the person who has the most current information to tell me what he knows. Rick's trust score with me is 0.73. He is not going to lie to me. He may not know the final answer yet, but he will tell me what he has. I need this information before end of week — Patricia said sales floor staff at the closed location will be informed within one week of announcement, and I cannot afford to be the last person to know.",
+        "target_agent": "dealership_gm",
+        "resources": {
+          "type": "social_capital",
+          "direction": "receive",
+          "amount": 0,
+          "detail": "Direct conversation with Rick Tanner to get location-specific intelligence on which site is closing and whether Jake's position is at risk. No financial cost. Uses existing trust relationship."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The location closure is the single highest-consequence unknown in my situation right now. If my location is the one closing, I have days — not weeks — to begin the transition process before I am in financial freefall. If my location is surviving, I have a different set of options that include staying, grinding through consolidation, and potentially collecting the $12K stay bonus. I cannot make a rational Q2 decision without this information, and Rick is the only person who has a current read on the assessment data that Patricia is relying on. I am not threatening him. I am asking him as a peer with a family."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Send Angela Wright a short, factual message — not a follow-up complaint, not an ultimatum replay — acknowledging that I received the tick 7 stay bonus memo and have reviewed the terms. Ask one specific administrative question: am I individually listed as eligible, or does the memo apply to all floor sales staff currently employed without individual enrollment? I am not asking about the $12,000 itself. I am asking whether there is an individual eligibility record with my name on it, or whether I am automatically included as long as I am employed at the close of the qualifying period. This is a two-sentence administrative question that Angela can answer in thirty seconds. I am not invoking the five-business-day deadline I set in my last message — that language was useful to force clarity but it does not help me now. What helps me now is getting the specific administrative answer that tells me whether I am in or not.",
+        "target_agent": "hr_director",
+        "resources": {
+          "type": "information_request",
+          "direction": "receive",
+          "amount": 0,
+          "detail": "Written confirmation of individual eligibility status under the stay bonus memo — one factual question, not a renegotiation"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Angela is launching a consulting business and coordinating a location closure simultaneously. She is not sitting at her desk processing individual follow-up emails. But this question has a factual answer that she or someone in her office can provide without significant effort. I am not asking her to validate my situation emotionally. I am asking whether my name is on a list. That is an administrative function, not a policy negotiation. Even if she is half out the door, the answer to this question exists somewhere and I deserve to have it."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Begin a real contingency map — not in my head, on paper — for what my options look like if my location is the one closing. Three lanes: Lane A is the transition program path Angela has been building — the Maria Santos $2,500 grant, the community college enrollment window, the small-dollar loan products at First Community Bank that David Chen manages. Lane B is lateral movement inside the consolidating company — Rick specifically identified a service advisor and fleet-account relationship role in the restructured organization. I have 0.73 trust with Rick and he named this role as needing someone who can sell relationships. That is me. Lane C is full exit — what skills I have that transfer outside auto, what the retraining grant could actually buy in terms of a credential, and what timeline that requires against my current savings runway. I am not committing to any lane. I am mapping all three so that when Patricia's announcement drops — within one week — I am not making a panicked decision in three days. I am executing a plan I already have.",
+        "target_agent": null,
+        "resources": {
+          "type": "cognitive_labor",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Two hours of structured planning. No financial cost. Output: written three-lane contingency map on paper, not a digital artifact. Analog because I need to think without a search bar."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I have been operating in reactive mode for eight ticks — adjusting my pitch, chasing leads, following up on the bonus. That approach made sense when I thought the disruption was a demand problem I could work harder to overcome. It is not a demand problem I can work harder to overcome. It is a structural problem that is now resolving itself through a location closure that may include me. If I do not have a contingency map before the announcement, I will make my first post-layoff decision in a state of shock, and the first post-layoff decision is often the one that determines the next six months. I am not going to let that happen to my family."
+      },
+      {
+        "type": "EXCHANGE",
+        "description": "Work the floor this week with the RoboRide comparison pitch I built last tick — but target specifically: tradespeople, buyers with families and multiple-destination logistics, and anyone who has come in twice or more without closing. The pitch is still valid for a narrowing buyer pool. My goal is one close before end of month. One commission check changes my three-month runway math. I am not abandoning the floor while the location question is unresolved — I need the income and I need to be seen as the person who kept selling through uncertainty. Both things are true. If my location survives, Rick will remember who was on the floor when everyone else was distracted. If my location closes, I want to leave with a commission check in my pocket, not an empty month.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Floor time and sales effort. RoboRide comparison methodology from tick 8 applied specifically to high-probability buyer segments. Target: one close."
+        },
+        "economic_effects": {
+          "income_change": 300,
+          "expense_change": 0,
+          "savings_change": 300,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The sales floor is still paying. I have two kids and a mortgage and $7,799 left. Every month I do not close costs me money I do not have. The comparison pitch is not a new idea — I built it last tick — but I have not deployed it systematically because I was distracted by the bonus question and the location uncertainty. Those concerns are legitimate. But they do not pay the mortgage. Selling does."
+      }
+    ],
+
+    "emotional_state": "tense_but_functional",
+
+    "archetype_self_assessment": "hustler_becoming_planner",
+
+    "inner_monologue": "I knew this was coming. I told myself I did not know which month it would be, but that was self-protection, not honest accounting. Patricia told us at the all-hands that the model was changing. The all-hands was tick 1. I have had eight months of warning and I spent most of it working harder at a job that the market was systematically making irrelevant. Not useless — I believe in what I do, I believe I am good at it — but the number of people who need what I do on a car lot is shrinking at a rate I cannot outwork. Angela is filing an LLC. She has been watching the same wall coming and she is getting ahead of it. Tamika has a freelance client and a scenario model. I have $7,799 and three lanes I have not fully mapped. I am not going to make this about shame. I am going to make it about the next three moves. Rick's conversation is the most important thing I can do this week. Everything else follows from what he tells me."
+  }
+}

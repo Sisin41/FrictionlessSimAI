@@ -1,0 +1,36 @@
+{
+  "tick": 9,
+  "agent_id": "bank_manager",
+  "agent_name": "David Chen",
+  "emotional_state": "focused, quietly urgent — the runway is real but still long enough to be deliberate",
+  "reasoning": "Four months unemployed. The savings burn continues at $6,961/month. Runway is roughly 22 months but that number is not a comfort — it is a countdown. This tick I am processing three signals at once. First: Kevin O'Brien is formally requesting a portfolio expansion meeting with my successor, asking to take on small business lending and personal loan origination now. That is a smart move on his part and I helped plant that seed — I told him about the SBA products, the personal loan gap. But it also confirms something I need to sit with: the branch is reorganizing without me. Kevin is not waiting. The institution is not waiting. Second: Linda Park is pivoting internally — the word-of-mouth about AutoShield memos and CRMP certification coursework tells me she is managing her own disruption. She is not in a position to be running leads for me right now. I need to shift from asking Linda for help to offering her something useful. Third, and most important to my own trajectory: my commercial lending coursework is at 50% progress after 9 months. The original estimate was 10 months to completion. That means I am one month from a credential milestone — the SBA 7(a) module completion and the certificate that comes with it. I need to push through the final units this month. That credential is the thing that changes my resume from 'former branch manager looking for work' to 'commercial lending credentialed finance professional with SBA product knowledge.' That is a different candidate. My action this tick is threefold: (1) Complete the remaining SBA 7(a) coursework modules and earn the certificate. I will dedicate serious hours this month — this is the most high-leverage use of my time. (2) Send a brief message to Kevin O'Brien — not to insert myself in his portfolio expansion request, but to tell him the move is smart, offer him context on the SBA 7(a) products from my coursework, and position myself as an informal resource he can call. This keeps the relationship active and positions me as someone with expertise rather than just a former boss. (3) Draft and send one cold outreach to Millfield Community Credit Union — specifically to whoever handles small business lending there. The pitch: I am a credentialed commercial lending professional (SBA 7(a) certificate pending) with a decade of risk assessment and portfolio management experience, now exploring fit at mission-driven lending institutions. I am not mass-applying. I am targeting one high-fit institution at a time. The credit union is the right first call because they serve the small business community Kevin is also trying to reach — and because the disruption hitting auto lending is actually pushing demand toward local credit products.",
+  "primary_action": {
+    "type": "skill_development_milestone",
+    "description": "Complete the final modules of the commercial and small business lending coursework — specifically the SBA 7(a) origination and underwriting section. The course is at 50% after 9 months; the original estimate was 10 months to completion. This month is the credential push. I will block 12-15 hours across the month to complete the remaining units, pass the module assessments, and earn the certificate. The credential is not symbolic — it is the conversion of 9 months of self-directed study into something I can put on a resume, reference in a cover letter, and discuss in an interview with specificity. Once it is earned I will update my professional profiles and begin citing it in every outreach.",
+    "target": "self",
+    "expected_outcome": "SBA 7(a) module certificate earned; commercial lending coursework complete or within one module of completion; resume updated with credential; interview narrative sharpened"
+  },
+  "secondary_actions": [
+    {
+      "type": "relationship_maintenance",
+      "description": "Send Kevin O'Brien a short, direct message — not in response to the portfolio expansion request itself (which is between him and the interim manager), but as a peer check-in. Tell him the move makes sense given the volume data, affirm that the SBA 7(a) products are genuinely underutilized at the branch, and offer to walk him through the underwriting basics if he wants a 30-minute call before he pitches the request formally. I have the coursework knowledge; he has the active origination seat. This is a genuine knowledge transfer offer, not an attempt to stay relevant. It also keeps me in his orbit as he expands.",
+      "target": "loan_officer",
+      "expected_outcome": "Relationship with Kevin remains warm and active; I become a resource rather than a former boss; positions me as a knowledgeable external advisor rather than an unemployed peer"
+    },
+    {
+      "type": "job_search",
+      "description": "Draft and send a targeted outreach to the small business lending team at Millfield Community Credit Union. The message is one page: who I am, what I have done (branch management, risk assessment, auto loan portfolio, scenario modeling during structural disruption), what I am now credentialed to do (SBA 7(a) origination and underwriting, commercial lending — certificate completing this month), and why I am reaching out to them specifically — not because I am applying to a posted job, but because the disruption in auto lending is redirecting demand toward community credit institutions, and I want to be the person on the origination side when that demand arrives. Ask for 20 minutes. No attachment. No form application. Direct, specific, professional.",
+      "target": "millfield_community_credit_union",
+      "expected_outcome": "First contact established at a non-auto community lending institution; outreach positions me as proactive rather than desperate; sets up a potential interview conversation in tick 10 or 11"
+    }
+  ],
+  "deferred_actions": [
+    {
+      "description": "Further outreach to Linda Park — she is managing her own disruption this tick. I will not add to her noise. Wait until tick 10 to check back, by which point I will have the credential in hand and can offer something concrete rather than another ask.",
+      "reason": "Linda is actively pivoting internally. The word-of-mouth signals she is not in a position to be running leads for others right now. Reaching out again this tick would be noise, not signal."
+    }
+  ],
+  "financial_note": "Savings at $154,061. Monthly burn $6,961. Runway approximately 22 months. No income this month. No discretionary changes — holding steady on household expenses. The runway is comfortable enough to be deliberate but the credential completion this month is the pivot point. Every month I spend without the certificate is a month the search narrative is weaker than it needs to be.",
+  "savings_change": -6961,
+  "transactions": []
+}

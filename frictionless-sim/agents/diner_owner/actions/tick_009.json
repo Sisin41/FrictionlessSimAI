@@ -1,0 +1,76 @@
+{
+  "tick": 9,
+  "agent_id": "diner_owner",
+  "agent_name": "Betty Kowalski",
+  "response": {
+    "internal_assessment": "Three and a half months. That is what the savings say. $14,776 divided by $4,268 a month. The math is not ambiguous. The RoboRide call last tick got me information — I do not know the full terms yet but the inbox tells me the partnership is real, the expansion into residential is real, and 'partnership with local delivery companies' is confirmed in the scenario. I need to know if 'local delivery companies' means I qualify or if it means I am locked out because I am a diner and not a delivery company. That is the question that decides whether I pivot or close. The Maria Santos task force session is today. I testified at tick 4 when the spending index was 73. It is now 40. I have more to say and harder things to say. The situation has worsened in ways that are concrete and documented. I have been in front of these people before. I know how to speak to them. This is not the time to hang back and hope someone else makes the case. The grant is still pending — $5,000 — and I am running out of runway to wait for it. If I can get in front of Maria Santos's session and say plainly that pending applicants are burning through savings while decisions sit on desks, that is the right pressure to apply. I am also watching Carlos — the word-of-mouth says he is reaching out to Miguel Hernandez, not as a mentor relationship but as a peer. He is pivoting. That lunch I brought him last tick opened something. I need to follow that thread. I bought the conversation. Now I need to use it.",
+
+    "inbox_interpretation": "The RoboRide delivery partnership announcement is the most important signal. 'Partnership with local delivery companies' — I do not yet know if that means I can join or if it is for existing delivery infrastructure only. The $0.12/mile price and residential coverage expansion means RoboRide is now competing on last-mile logistics, not just transportation. Seven percent of people using robotaxis regularly — that is past early adoption. Consumer spending at index 40, unemployment at 33% — these are crisis numbers now. Rick Tanner is stressed, which means even the auto mall is struggling. The word-of-mouth about Stephanie Morris following up with Maria Santos's office means I am not the only one trying to get in front of the right people. I need to be in that room today, and I need to have something specific to say — not just a grievance, a proposal. The task force needs to hear from someone who has been on both sides of this: a business owner who is losing customers to displacement AND is actively trying to find a path forward through the same technology causing the disruption. That is a story they can act on. Pure grievance is easier to ignore.",
+
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Attend Maria Santos's emergency task force session and deliver updated testimony. Betty does not come to repeat what she said at tick 4. She comes with the updated numbers: spending index dropped from 73 to 40, savings burning at $4,268 a month, grant pending for seven ticks with no disbursement. She also comes with a specific ask — expedited review for pending applicants who are within 90 days of insolvency, and clarity on whether small commercial kitchens qualify for the delivery partnership economic development category. She is not there to mourn the diner. She is there to argue that the diner kitchen is an existing asset that can serve the community differently if the policy environment makes it possible. She uses her credibility from tick 4 testimony. She speaks last if she can — after the grievances have been aired — so she sounds like a solution, not another complaint.",
+        "target_agent": "city_council",
+        "resources": {
+          "type": "time",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Testimony preparation: evening before, organizing receipts and savings records into a one-page summary. Attendance at session: half day. No financial cost beyond the opportunity cost of not being at the diner — which is currently generating zero revenue anyway."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Betty has direct credibility with this task force — she testified at tick 4 and was treated as a representative voice for small food service operators. The emergency session is specifically about the economic crisis. Her runway is 3.5 months, which means this is possibly her last chance to influence grant disbursement timing before she runs out of money waiting. The delivery partnership question is also a policy question — if economic development funds can be directed toward commercial kitchen pivots, Betty needs to plant that idea with Maria Santos now, before the money gets allocated elsewhere. Her community_relations skill is directly applicable here. High agency (0.83) means she shows up ready to press, not just to witness."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Follow up with RoboRide partnership coordinator on the inquiry from tick 8. Betty has had a week since the call. She follows up by email or a second call asking for the specific partnership agreement terms in writing — revenue share percentage, kitchen equipment requirements, minimum order volume commitments, onboarding timeline. She is not signing anything yet. She is stress-testing the numbers: if the revenue share is 25-30% and she can do 20-30 delivery orders a day at an average of $12, that is $60-90 in daily gross revenue, which is not nothing when her income is currently zero. She does the math and decides whether to take the next step — an in-person site visit — or whether the terms make this unworkable.",
+        "target_agent": null,
+        "resources": {
+          "type": "time",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "One follow-up call or email. No financial cost. If she gets terms in writing, she spends an evening running the numbers against her current expense structure."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Betty initiated contact last tick. Not following up would let the inquiry go cold and waste the groundwork she laid. At 3.5 months runway she cannot afford to let a viable revenue path sit idle for another tick while she waits for the partnership coordinator to reach out to her. She is an entrepreneur (drive 0.69) and an adapter archetype — she closes loops. The question is whether RoboRide's terms work at her kitchen's scale. She cannot answer that without the terms. She gets the terms this tick."
+      },
+      {
+        "type": "ASSOCIATION",
+        "description": "Call Carlos Ruiz. The lunch at tick 8 opened the conversation. She heard through word-of-mouth that he is reaching out to Miguel Hernandez — not as a mentee but as a peer who is also navigating something new. Betty wants to know what Carlos knows about the Miguel Hernandez connection and whether there is any angle there that relates to a kitchen pivot or delivery infrastructure. She also wants to tell him directly about the RoboRide partnership inquiry and ask whether he knows anyone who has actually done one of these kitchen-to-delivery conversions, or knows someone who has failed at it. She trusts him enough (0.53) to share real numbers if he asks. She is not venting — she is building a small intelligence network of people who are adapting rather than waiting.",
+        "target_agent": "mechanic_carlos",
+        "resources": {
+          "type": "time",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Phone call or short visit. No financial cost this tick — the lunch was last tick. The relationship capital from that gesture is what she is drawing on now."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The word-of-mouth about Carlos reaching out to Miguel Hernandez is new information Betty did not have last tick. It suggests Carlos is actively building a new professional network, which means he may have information or connections that are useful. Betty's trust with Carlos is her highest at 0.53 and she has now invested a direct lunch in that relationship. Calling him costs nothing and potentially yields information about what Miguel Hernandez represents — a new market, a partner, a resource — that she would not find through her existing channels. Her network_strength (0.59) is her second-most critical asset right now after her commercial kitchen. She protects it."
+      }
+    ],
+
+    "emotional_state": "urgent-but-clear",
+
+    "archetype_self_assessment": "adapter",
+
+    "inner_monologue": "Three and a half months. I have said the number out loud every morning this week. Not as a punishment — as orientation. Maria Santos's session is today and I am not walking in there to grieve. I am walking in there with a number, a timeline, and a specific ask. I have been in that room before. I know what it looks like when someone makes an impression and when someone doesn't. You make an impression by knowing what you want. I know what I want: expedited disbursement for people who are about to run out of runway, and a conversation about whether commercial kitchens qualify for the delivery partnership economic development category. The second thing is a long shot. But if I don't say it, no one says it. That is the only thing thirty years of feeding this neighborhood taught me that still applies right now — if you want something on the table, you put it there yourself."
+  }
+}
