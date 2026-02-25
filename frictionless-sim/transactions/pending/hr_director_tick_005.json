@@ -1,0 +1,9 @@
+{
+  "id": "tx_005_hr_director_ceo_regional_auto",
+  "tick": 5,
+  "initiator": "hr_director",
+  "target": "ceo_regional_auto",
+  "type": "SIGNAL",
+  "description": "Angela Wright sends Patricia Hawkins a formal progress update on the 30-day workforce vulnerability map deliverable — confirming the scope, the three-tier classification system, the role-by-role matrix format, and the projected completion timeline. Angela notes that service technician and F&I officer clusters will be completed first due to highest EV/AV displacement exposure. She frames the methodology as 'repeatable and scalable,' subtly establishing intellectual ownership before the document is delivered and positioning the framework as the seed of a future consulting engagement.",
+  "status": "pending"
+}

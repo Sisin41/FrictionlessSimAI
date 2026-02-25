@@ -1,0 +1,46 @@
+{
+  "tick": 5,
+  "agent_id": "dealership_gm",
+  "agent_name": "Rick Tanner",
+  "response": {
+    "internal_assessment": "Optimizing L2 PARTICIPATE — role security is the primary threat. Patricia's direct summons is not a routine check-in. She suspects I have been managing what she sees. She is right. I have been framing the numbers to buy time — softening the traffic decline, omitting the test-drive conversion drop, not surfacing the service lane utilization trend until I understood it myself. That posture ends today. Role security at 0.42 is already a warning sign, and with auto sector revenue at 82 and robotaxi adoption climbing, the window to position myself as essential rather than as liability is narrowing. My survival play is not to defend the store's performance — that's a losing argument. My survival play is to become the person who understands the floor better than anyone else in the room, who can read what the spreadsheets miss, and who is already thinking about how to stabilize service lane revenue in a consolidation scenario. Patricia's 40%-smaller memo is actually an opening. She is testing whether her GMs can think strategically under duress or whether they just sell cars. I need to show her I can do both. The Angela Wright intel is noise I will not touch — whatever she is building on the side is her business. My business is this meeting.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Walk into Patricia's executive review with unfiltered 30-day floor data: actual foot traffic numbers (down 14% vs. prior 30 days), test-drive conversion rate (dropped from 31% to 22%), service lane utilization (holding at 79% — the one bright spot), and current inventory carrying cost per unit. No softening. No narrative spin. Just the numbers, annotated with what I believe is driving each trend. Then make a direct verbal case: service lane is the moat, not the showroom. If Regional Auto Group consolidates, consolidate around certified technicians and service capacity. I am the GM who can manage that transition without losing the techs.",
+        "target_agent": "ceo_regional_auto",
+        "resources_involved": "Time, professional reputation, 30-day floor data reports, service lane utilization records, inventory carrying cost ledger",
+        "reasoning": "Patricia already suspects I have been filtering data. Walking in with incomplete or softened numbers a second time destroys trust permanently and almost certainly removes me from any consolidation plan. The only viable move is full transparency paired with a forward-looking frame: I am not defending a declining store, I am positioning Millfield as the service hub in whatever footprint survives. My 32 years on the floor is worth nothing if she sees me as someone who manages information upward. It is worth a great deal if she sees me as someone who surfaces hard truths and already has a plan. Loss aversion is screaming at me to hedge, to soften, to protect. But the real loss is the role itself — and the only way to protect the role is to stop protecting the narrative."
+      },
+      {
+        "type": "COMMITMENT",
+        "description": "Formally commit to producing a location-specific consolidation readiness assessment for Millfield Auto Mall within two weeks — structured around the three-tier framework Patricia outlined (EV/AV-exposed, transition-ready, anchored roles) but layered with my floor-level knowledge of which techs are certifiable, which salespeople have transferable skills, and what the service lane capacity looks like under a reduced-sales model. Not a layoff list. An asset map. I tell Patricia this directly in the meeting.",
+        "target_agent": "ceo_regional_auto",
+        "resources_involved": "Two weeks of management time, personnel records review, coordination with Angela Wright on HR data",
+        "reasoning": "Patricia is already running the vulnerability map through Angela Wright. If I do not get in front of this with my own Millfield-specific version, I become a subject of someone else's analysis rather than a contributor to the strategic process. Producing a GM-level asset map demonstrates that I understand the consolidation logic, I am not in denial about the trajectory, and I have operational knowledge that the org-level HR analysis cannot capture. This also creates a legitimate reason to coordinate with Angela Wright — which keeps that relationship warm without touching whatever she is building on the side."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "After the Patricia meeting, send a short note to Jake Morrison acknowledging the under-$22k floor strategy and clearing any internal friction — pull the units, make sure the lot positioning happens, confirm that the month-end close target is supported from the top. I do not micromanage Jake's pitch, but I make sure he knows the GM is aligned and not going to undercut him with a competing priority.",
+        "target_agent": "salesperson_jake",
+        "resources_involved": "Minimal — internal communication, lot repositioning authority",
+        "reasoning": "Jake is executing. His under-$22k strategy is the right call for current market conditions. I need unit volume moving this month to have anything to show Patricia beyond the service lane numbers. Supporting Jake costs me nothing and could close at least one unit before month end. My spending is running ahead of income and every closed unit helps dealership revenue, which helps my case for keeping Millfield open."
+      }
+    ],
+    "emotional_state": "anxious",
+    "archetype_self_assessment": "stable",
+    "inner_monologue": "I have spent four ticks managing what Patricia sees and all I have bought myself is a summons — so I am walking in there with everything, because the only version of this job I get to keep is the one where she trusts that I will not flinch."
+  },
+  "economic_effects": {
+    "income_change": 0,
+    "savings_change": -529,
+    "spending_change": 0,
+    "employment_effect": "none",
+    "layoff_count": 0,
+    "hire_count": 0,
+    "new_business": false,
+    "business_closure": false,
+    "protest": false,
+    "policy_change": false
+  }
+}
