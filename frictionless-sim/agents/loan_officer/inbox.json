@@ -1,5 +1,5 @@
 {
-  "tick": 4,
+  "tick": 5,
   "messages": [
     {
       "type": "AMBIENT",
@@ -7,19 +7,119 @@
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 93%."
+      "content": "Local unemployment rising. Employment rate: 90%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 73 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 69 (baseline: 100)."
+    },
+    {
+      "type": "OBSERVATION",
+      "content": "You notice more robotaxis on the streets. About 7% of people seem to be using them regularly."
     },
     {
       "type": "SECTOR_DATA",
-      "content": "Auto loan applications down. Lending volume index: 89."
+      "content": "Auto loan applications down. Lending volume index: 82."
+    },
+    {
+      "type": "NEWS",
+      "content": "Patricia Hawkins laid off workers: issue angela wright her first formal deliverable as director of org transition: a 30-day workforce vulnerability map. every role at every location, categorized by three tiers \u2014 ev/av-exposed (could be eliminated if service volume drops and we do not upskill), transition-ready (can be retrained or redeployed), and anchored (customer-facing or management roles with defensible value in any future model). this is not a layoff list. this is intelligence. i frame it to her exactly that way. i also confirm the $12,000 stay bonus is active and the clock is running."
+    },
+    {
+      "type": "NEWS",
+      "content": "Rachel Green laid off workers: activate professional network and increase internal visibility at work. schedule a 1:1 with my manager to present recent campaign performance data and pitch a cost-efficiency angle \u2014 reframing marketing spend as a measurable roi tool rather than overhead. reach out to two or three professional contacts from the marketing sector to check pulse on layoff rumors and demonstrate i'm engaged. update linkedin with recent project wins to signal availability and competence to the market without explicitly broadcasting job-seeking."
+    },
+    {
+      "type": "NEWS",
+      "content": "Business closing: Jake Morrison \u2014 execute the under-$22k floor strategy with real discipline this month: pull every unit priced under $22k to the front of the lot, build a targeted pitch around total monthly cost (not sticker), and personally call five pre-qualified leads from the past 90 days who were shopping in that range but did not close. this is not outreach for the sake of activity \u2014 i am trying to close at least one unit before the end of the month to stop the savings bleed."
+    },
+    {
+      "type": "NEWS",
+      "content": "Business closing: Tamika Jefferson \u2014 follow up with all 8 businesses from tick 2 outreach. for the ones who replied or engaged, schedule and run discovery calls this week. for the ones who went quiet, send a short second-touch message \u2014 different angle, no deck, just one specific content idea for their business as a gift. goal: book at least 2 discovery calls and close at least 1 small retainer or project agreement. if i land even one client at $300-400/month it materially changes my position. simultaneously, post two pieces of original short-form content this month under my personal brand \u2014 not hiding behind the dealership account anymore, building visible credibility for the freelance pivot."
+    },
+    {
+      "type": "NEWS",
+      "content": "Business closing: James Patterson \u2014 complete the honda accord private sale: transfer title, receive $18,800 from buyer, deposit into savings. the multi-week negotiation process that began tick 1 closes here. simultaneously cancel auto insurance policy with priya since i no longer own a vehicle \u2014 this reduces monthly expenses by approximately $127/month."
+    },
+    {
+      "type": "NEWS",
+      "content": "New venture: Angela Wright \u2014 advance quiet formation of the consulting entity \u2014 not a public launch, not incorporation filings that generate paper trails visible to patricia, but the structural groundwork: identify a business name, draft a skeletal service menu (workforce vulnerability assessment, outplacement design, transition communications, severance negotiation support for employees), and begin drafting a simple operating agreement template. research whether forming as a sole proprietor initially vs. llc matters for liability exposure when serving former employers. keep this entirely off regional auto group systems and conducted on personal time and personal devices."
+    },
+    {
+      "type": "NEWS",
+      "content": "Community action: David Chen \u2014 draft a written policy response to maria santos' inquiry about a retraining participant loan carve-out. respond professionally through standard banking channels \u2014 not as a political concession, but as a credit policy analysis. the response: the bank does not currently offer a categorical loan carve-out based on retraining program enrollment status because creditworthiness assessment is individual and fact-specific. however, the bank's existing small-dollar loan programs and secured lending options are available to any qualified applicant regardless of employment status, and i am willing to have a conversation with maria about what specific product structures might be appropriate for retraining participants who present with demonstrated ability to repay. i am not saying no to the community relationship; i am saying no to an unprincipled categorical exception while offering a principled alternative pathway."
+    },
+    {
+      "type": "NEWS",
+      "content": "Community action: Amir Patel \u2014 stop by betty kowalski's diner on auto row this week. have coffee. ask her directly: how is her foot traffic? is she seeing the same compression i am? if she is, we may have common ground for a joint petition to the millfield chamber of commerce or to the city council about infrastructure support for auto row small businesses affected by the av corridor. i am not organizing a protest. i am taking the temperature of my neighboring business owners. community intelligence."
+    },
+    {
+      "type": "NEWS",
+      "content": "Community action: Priya Sharma \u2014 one-on-one with linda park: give honest field intelligence. tell her the 25-policy number is a floor that will keep falling as roboride adoption accelerates. share my read that personal auto liability is being absorbed by corporate fleet coverage \u2014 our book of business isn't recoverable, it's structurally shrinking. don't soften it. also signal that i'm not waiting passively: mention the sql and data analysis coursework i've been doing, float the idea that there may be a role in commercial fleet risk analytics or insurtech that autoshield could pivot toward. ask her directly: what's the timeline she's working with, and what does she need from me to help navigate it."
+    },
+    {
+      "type": "NEWS",
+      "content": "Community action: Rachel Green \u2014 activate professional network and increase internal visibility at work. schedule a 1:1 with my manager to present recent campaign performance data and pitch a cost-efficiency angle \u2014 reframing marketing spend as a measurable roi tool rather than overhead. reach out to two or three professional contacts from the marketing sector to check pulse on layoff rumors and demonstrate i'm engaged. update linkedin with recent project wins to signal availability and competence to the market without explicitly broadcasting job-seeking."
+    },
+    {
+      "type": "NEWS",
+      "content": "Community action: Dale Cooper \u2014 reach out through my professional network \u2014 carlos the mechanic, community organizer lisa freeman, and other contractors i know \u2014 to get a read on who still has work and what projects are still being planned. use these conversations to position myself as available and reliable before the competition gets desperate. also follow up on the henderson bid with a direct call, offering to hold material pricing for 60 days to give them a reason to commit now rather than wait."
+    },
+    {
+      "type": "NEWS",
+      "content": "Policy proposal: Maria Santos \u2014 follow up with roboride on the compliance check i sent last tick. the 48-hour response window has expired. i need to know: did they respond? are they in compliance with the municipal operating license conditions \u2014 specifically the $0.25 per ride impact fee and the quarterly employment impact reporting requirement? if they have not responded, i draft a formal notice of non-compliance and schedule a council briefing. if they have responded with compliance, i acknowledge it publicly. either way, the company needs to see that the licensing conditions are being enforced, not just written."
+    },
+    {
+      "type": "NEWS",
+      "content": "12 people enrolled in retraining this month."
+    },
+    {
+      "type": "NEWS",
+      "content": "Noticeable trend: 3 people sold or stopped using their cars this month."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that David Chen is making some kind of change \u2014 something about Formalize the written auto loan underwriting crite..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that David Chen is making some kind of change \u2014 something about Hold the formal 30-minute sit-down with Kevin O'Br..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that David Chen is making some kind of change \u2014 something about Draft a written policy response to Maria Santos' i..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Prepare and send a formal internal memo to AutoShi..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Check in with Tom (insurance_agent_tom) and Priya ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Jake Morrison is making some kind of change \u2014 something about Execute the under-$22K floor strategy with real di..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Jake Morrison is making some kind of change \u2014 something about Follow up directly with Maria Santos (council_memb..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about One-on-one with Linda Park: give honest field inte..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Lisa Freeman is making some kind of change \u2014 something about Accept Maria Santos's invitation to speak at the t..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Lisa Freeman is making some kind of change \u2014 something about After accepting the task force commitment, make a ..."
     },
     {
       "type": "OUTCOME",
-      "content": "You routine. Savings dropped by $643. "
+      "content": "You Formally accept David Chen's structured NMLS mortgage licensing pathway. Send written acknowledgment to David confirming: acceptance of the 8-month timeline, intent to use tuition reimbursement for the NMLS-approved course, readiness to begin co-originator exposure on live mortgage files as soon as David can schedule it. Request a formal first check-in at the 30-day mark. This locks in the institutional commitment from both sides and signals to David \u2014 and anyone watching \u2014 that Kevin is a reliable investment, not a flight risk.. Savings dropped by $1,144. "
     }
   ]
 }

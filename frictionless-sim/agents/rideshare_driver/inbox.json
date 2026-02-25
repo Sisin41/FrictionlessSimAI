@@ -1,5 +1,5 @@
 {
-  "tick": 4,
+  "tick": 5,
   "messages": [
     {
       "type": "AMBIENT",
@@ -7,19 +7,47 @@
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 93%."
+      "content": "Local unemployment rising. Employment rate: 90%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 73 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 69 (baseline: 100)."
+    },
+    {
+      "type": "OBSERVATION",
+      "content": "You notice more robotaxis on the streets. About 7% of people seem to be using them regularly."
     },
     {
       "type": "SECTOR_DATA",
-      "content": "Robotaxi adoption: 3%. "
+      "content": "Robotaxi adoption: 7%. "
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: Dale Cooper \u2014 reach out through my professional network \u2014 carlos the mechanic, community organizer lisa freeman, and other contractors i know \u2014 to get a read on who still has work and what projects are still being planned. use these conversations to position myself as available and reliable before the competition gets desperate. also follow up on the henderson bid with a direct call, offering to hold material pricing for 60 days to give them a reason to commit now rather than wait."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Contact the EVT Level 2 EV certification program t..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Prepare and deliver testimony to Maria Santos's sm..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Activate network campaign in earnest. Reach out di..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Reach out through my professional network \u2014 Carlos..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Execute a targeted outreach push to two distinct c..."
     },
     {
       "type": "OUTCOME",
-      "content": "You routine. Savings grew by $387. "
+      "content": "You Enroll in NEMT (Non-Emergency Medical Transport) driver certification course at Millfield Community College. Pay the $320 course registration fee this week. The course is 6 weeks, evenings only. I can keep driving daytime shifts while completing it. NEMT drivers are not being replaced by RoboRide \u2014 the liability exposure and regulatory complexity of transporting medical patients makes autonomous vehicles nonviable in that segment for the foreseeable future. This is the retrain move I identified last tick. I am done researching it. I am registering.. Savings grew by $387. "
     }
   ]
 }

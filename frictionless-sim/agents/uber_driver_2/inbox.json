@@ -1,17 +1,33 @@
 {
-  "tick": 4,
+  "tick": 5,
   "messages": [
     {
       "type": "AMBIENT",
       "content": "Ongoing: RoboRide launches autonomous ride-share service in Millfield. Price: $0.18 per mile. Average wait time: 15 minutes. Cove"
     },
     {
+      "type": "OBSERVATION",
+      "content": "You notice more robotaxis on the streets. About 7% of people seem to be using them regularly."
+    },
+    {
       "type": "SECTOR_DATA",
-      "content": "Robotaxi adoption: 3%. "
+      "content": "Robotaxi adoption: 7%. "
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Frank Russo is making some kind of change \u2014 something about Contact Mark Thompson, the high school auto shop t..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Denise Williams (Parking Garage Manager): Activate network campaign in earnest. Reach out directly to Robert Jackson \u2014 highest-trust contact, rideshare driver, frontline observer of what RoboRide is doing to human-driven transport in Millfield. Have a real conversation: what is the trajectory, what are operators saying, what skills transfer. Use that intelligence to sharpen my job applications. Simultaneously send direct messages to three professional contacts \u2014 Carlos Ruiz, Rachel Green, and Betty Kowalski \u2014 letting them know I am exploring operations roles outside parking and asking if they know of anything in facilities, logistics, or property management. This is the campaign I committed to. Quiet professional networking, no drama, but deliberate and active."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Robert Jackson (Rideshare Driver): Text Grace Okafor today. She is a nursing student and a rideshare driver \u2014 she is actively navigating the same transition I am trying to make toward healthcare. Ask her specifically: what programs she knows about at the community college, whether the CNA or patient transport pathway is more viable in Millfield, and whether she has heard anything about the workforce retraining grant outcome. This is not a casual check-in. I am asking for specific information from the person in my network most likely to have it."
     },
     {
       "type": "OUTCOME",
-      "content": "You routine. Savings grew by $206. "
+      "content": "You Respond to Robert Jackson's outreach. Share what I know about healthcare worker grant programs and nursing pathway timelines. In return, get his NEMT pathway intelligence \u2014 which routes, which companies, what equipment certifications matter, whether NEMT drivers can bill differently than rideshare. This is directly useful for understanding whether I have a bridge option if RoboRide eats my rideshare income before I graduate.. Savings grew by $206. "
     }
   ]
 }

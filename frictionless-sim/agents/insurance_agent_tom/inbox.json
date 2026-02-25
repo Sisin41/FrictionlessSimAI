@@ -1,17 +1,69 @@
 {
-  "tick": 4,
+  "tick": 5,
   "messages": [
     {
       "type": "AMBIENT",
       "content": "Ongoing: RoboRide launches autonomous ride-share service in Millfield. Price: $0.18 per mile. Average wait time: 15 minutes. Cove"
     },
     {
+      "type": "OBSERVATION",
+      "content": "You notice more robotaxis on the streets. About 7% of people seem to be using them regularly."
+    },
+    {
       "type": "SECTOR_DATA",
-      "content": "Active auto insurance policies in area: 25. "
+      "content": "Active auto insurance policies in area: 23. Cancellations increasing."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Jake Morrison \u2014 execute the under-$22k floor strategy with real discipline this month: pull every unit priced under $22k to the front of the lot, build a targeted pitch around total monthly cost (not sticker), and personally call five pre-qualified leads from the past 90 days who were shopping in that range but did not close. this is not outreach for the sake of activity \u2014 i am trying to close at least one unit before the end of the month to stop the savings bleed."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: James Patterson \u2014 complete the honda accord private sale: transfer title, receive $18,800 from buyer, deposit into savings. the multi-week negotiation process that began tick 1 closes here. simultaneously cancel auto insurance policy with priya since i no longer own a vehicle \u2014 this reduces monthly expenses by approximately $127/month."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: Priya Sharma \u2014 one-on-one with linda park: give honest field intelligence. tell her the 25-policy number is a floor that will keep falling as roboride adoption accelerates. share my read that personal auto liability is being absorbed by corporate fleet coverage \u2014 our book of business isn't recoverable, it's structurally shrinking. don't soften it. also signal that i'm not waiting passively: mention the sql and data analysis coursework i've been doing, float the idea that there may be a role in commercial fleet risk analytics or insurtech that autoshield could pivot toward. ask her directly: what's the timeline she's working with, and what does she need from me to help navigate it."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Prepare and send a formal internal memo to AutoShi..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Check in with Tom (insurance_agent_tom) and Priya ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Jake Morrison is making some kind of change \u2014 something about Execute the under-$22K floor strategy with real di..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Jake Morrison is making some kind of change \u2014 something about Follow up directly with Maria Santos (council_memb..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Contact the EVT Level 2 EV certification program t..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about One-on-one with Linda Park: give honest field inte..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Prepare and deliver testimony to Maria Santos's sm..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Call Priya Sharma, my insurance agent neighbor, an..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Robert Jackson is making some kind of change \u2014 something about Text Grace Okafor today. She is a nursing student ..."
     },
     {
       "type": "OUTCOME",
-      "content": "You routine. Savings dropped by $1,288. "
+      "content": "You Participate in Linda Park's one-on-one meeting. Give her honest, specific field intelligence about customer cancellations \u2014 the real reasons clients are leaving: they sold their cars, switched to RoboRide, or couldn't justify the premium when they're barely driving. Frame it professionally as data, not despair. In exchange, probe Linda for what AutoShield's regional strategy is: are they pivoting to new product lines, are there internal transfers available, is there a corporate retraining program? Listen more than I talk. Take mental notes on whether she seems like she has a plan or whether she's just gathering data to manage upward.. Savings dropped by $1,938. "
     }
   ]
 }

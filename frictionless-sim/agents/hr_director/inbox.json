@@ -1,5 +1,5 @@
 {
-  "tick": 4,
+  "tick": 5,
   "messages": [
     {
       "type": "AMBIENT",
@@ -7,19 +7,75 @@
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 93%."
+      "content": "Local unemployment rising. Employment rate: 90%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 73 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 69 (baseline: 100)."
+    },
+    {
+      "type": "OBSERVATION",
+      "content": "You notice more robotaxis on the streets. About 7% of people seem to be using them regularly."
     },
     {
       "type": "SECTOR_DATA",
-      "content": "Auto sector revenue index: 89 (baseline: 100). Foot traffic and sales are somewhat down."
+      "content": "Auto sector revenue index: 82 (baseline: 100). Foot traffic and sales are somewhat down."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Patricia Hawkins laid off workers: issue angela wright her first formal deliverable as director of org transition: a 30-day workforce vulnerability map. every role at every location, categorized by three tiers \u2014 ev/av-exposed (could be eliminated if service volume drops and we do not upskill), transition-ready (can be retrained or redeployed), and anchored (customer-facing or management roles with defensible value in any future model). this is not a layoff list. this is intelligence. i frame it to her exactly that way. i also confirm the $12,000 stay bonus is active and the clock is running."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Jake Morrison \u2014 execute the under-$22k floor strategy with real discipline this month: pull every unit priced under $22k to the front of the lot, build a targeted pitch around total monthly cost (not sticker), and personally call five pre-qualified leads from the past 90 days who were shopping in that range but did not close. this is not outreach for the sake of activity \u2014 i am trying to close at least one unit before the end of the month to stop the savings bleed."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Tamika Jefferson \u2014 follow up with all 8 businesses from tick 2 outreach. for the ones who replied or engaged, schedule and run discovery calls this week. for the ones who went quiet, send a short second-touch message \u2014 different angle, no deck, just one specific content idea for their business as a gift. goal: book at least 2 discovery calls and close at least 1 small retainer or project agreement. if i land even one client at $300-400/month it materially changes my position. simultaneously, post two pieces of original short-form content this month under my personal brand \u2014 not hiding behind the dealership account anymore, building visible credibility for the freelance pivot."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Patricia Hawkins is making some kind of change \u2014 something about Issue Angela Wright her first formal deliverable a..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Patricia Hawkins is making some kind of change \u2014 something about Write my single-page GM response to the 40%-smalle..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that David Chen is making some kind of change \u2014 something about Formalize the written auto loan underwriting crite..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that David Chen is making some kind of change \u2014 something about Hold the formal 30-minute sit-down with Kevin O'Br..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that David Chen is making some kind of change \u2014 something about Draft a written policy response to Maria Santos' i..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Rick Tanner is making some kind of change \u2014 something about Pull the last 30-day sales and service data from t..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Jake Morrison (Car Salesperson): Execute the under-$22K floor strategy with real discipline this month: pull every unit priced under $22K to the front of the lot, build a targeted pitch around total monthly cost (not sticker), and personally call five pre-qualified leads from the past 90 days who were shopping in that range but did not close. This is not outreach for the sake of activity \u2014 I am trying to close at least one unit before the end of the month to stop the savings bleed."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Jake Morrison (Car Salesperson): Follow up directly with Maria Santos (council_member) about the $2,500 retraining grant I applied for last tick. Send a brief, professional message asking for status and timeline. If the grant is approved, I need to start lining up what program I would actually use it for \u2014 something in sales technology, CRM certification, or fleet management. If it is denied, I need to know that too so I stop counting it as a hedge."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Tom Bradley is making some kind of change \u2014 something about After the meeting with Linda, reach out to Priya S..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Formally accept David Chen's structured NMLS mortg..."
     },
     {
       "type": "OUTCOME",
-      "content": "You routine. Savings dropped by $6,611. "
+      "content": "You Execute the 30-day workforce vulnerability map for all four Regional Auto Group locations. Systematically audit every role \u2014 service technicians, sales staff, finance and insurance officers, lot attendants, administrative staff, parts department, management \u2014 and classify each as: (1) EV/AV-exposed: tasks that autonomous vehicle technology or EV service shift directly displaces or degrades; (2) transition-ready: roles with transferable skills that could move into adjacent functions with training investment; (3) anchored: roles with durable demand regardless of EV/AV adoption curve. Deliverable format: structured role-by-role matrix per location, with exposure scores, estimated displacement timelines, transition pathway recommendations, and retraining cost-benefit analysis. Frame the document to serve Patricia's operational needs while also serving as a template methodology she will eventually need external consulting support to replicate \u2014 which is exactly what Angela's consulting entity will offer.. Savings dropped by $6,611. "
     }
   ]
 }

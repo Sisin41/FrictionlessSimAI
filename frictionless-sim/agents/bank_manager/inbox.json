@@ -1,17 +1,33 @@
 {
-  "tick": 4,
+  "tick": 5,
   "messages": [
     {
       "type": "AMBIENT",
       "content": "Ongoing: RoboRide launches autonomous ride-share service in Millfield. Price: $0.18 per mile. Average wait time: 15 minutes. Cove"
     },
     {
+      "type": "OBSERVATION",
+      "content": "You notice more robotaxis on the streets. About 7% of people seem to be using them regularly."
+    },
+    {
       "type": "SECTOR_DATA",
-      "content": "Auto loan applications down. Lending volume index: 89."
+      "content": "Auto loan applications down. Lending volume index: 82."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Prepare and send a formal internal memo to AutoShi..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Check in with Tom (insurance_agent_tom) and Priya ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Formally accept David Chen's structured NMLS mortg..."
     },
     {
       "type": "OUTCOME",
-      "content": "You routine. Savings grew by $451. "
+      "content": "You Formalize the written auto loan underwriting criteria document that Patricia Hawkins requested following my tick 3 proactive disclosure call. Produce a one-page written summary of the revised underwriting parameters: minimum credit score threshold (raised by 10 points), maximum loan term for vehicles over 3 years old (60 months, reduced from 72), and the enhanced review requirement for floor plan facilities. The document is factual, professional, and framed as standard portfolio management policy \u2014 not a punitive measure directed at any specific account. Send it to Patricia with a brief cover note acknowledging that clarity serves both parties. This is relationship banking: she asked for the parameters in writing, I provide them promptly.. Savings grew by $18. "
     }
   ]
 }

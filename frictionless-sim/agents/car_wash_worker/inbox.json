@@ -1,5 +1,5 @@
 {
-  "tick": 4,
+  "tick": 5,
   "messages": [
     {
       "type": "AMBIENT",
@@ -7,19 +7,43 @@
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 93%."
+      "content": "Local unemployment rising. Employment rate: 90%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 73 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 69 (baseline: 100)."
+    },
+    {
+      "type": "OBSERVATION",
+      "content": "You notice more robotaxis on the streets. About 7% of people seem to be using them regularly."
     },
     {
       "type": "SECTOR_DATA",
-      "content": "Auto sector revenue index: 89 (baseline: 100). Foot traffic and sales are somewhat down."
+      "content": "Auto sector revenue index: 82 (baseline: 100). Foot traffic and sales are somewhat down."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Jake Morrison is making some kind of change \u2014 something about Execute the under-$22K floor strategy with real di..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Jake Morrison is making some kind of change \u2014 something about Follow up directly with Maria Santos (council_memb..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Carlos Ruiz (Master Mechanic): Contact the EVT Level 2 EV certification program today and schedule the enrollment. Patricia approved the $1,400 and told me to book it. I am not waiting another day. Call the training center, confirm the next available cohort that works around my shop schedule, and register. The 60-hour program can run evenings and weekends. I am locking in a start date."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Call Priya Sharma, my insurance agent neighbor, an..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Execute a targeted outreach push to two distinct c..."
     },
     {
       "type": "OUTCOME",
-      "content": "You routine. Savings grew by $131. "
+      "content": "You Enroll in a part-time automotive service technician certificate program at Millfield Community College. Classes start next month, evenings and weekends \u2014 does not conflict with car wash shifts. Goal: gain a marketable trade skill before the car wash role evaporates. Asked Carlos (mechanic_carlos) informally if he thinks it's worth it and would consider me for an apprentice-track role once I have basics.. Savings grew by $131. "
     }
   ]
 }

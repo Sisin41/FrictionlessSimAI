@@ -1,5 +1,5 @@
 {
-  "tick": 4,
+  "tick": 5,
   "messages": [
     {
       "type": "AMBIENT",
@@ -7,19 +7,39 @@
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 93%."
+      "content": "Local unemployment rising. Employment rate: 90%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 73 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 69 (baseline: 100)."
+    },
+    {
+      "type": "OBSERVATION",
+      "content": "You notice more robotaxis on the streets. About 7% of people seem to be using them regularly."
     },
     {
       "type": "SECTOR_DATA",
-      "content": "Auto sector revenue index: 89 (baseline: 100). Foot traffic and sales are somewhat down."
+      "content": "Auto sector revenue index: 82 (baseline: 100). Foot traffic and sales are somewhat down."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Contact the EVT Level 2 EV certification program t..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Tom Bradley is making some kind of change \u2014 something about After the meeting with Linda, reach out to Priya S..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Formally accept David Chen's structured NMLS mortg..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Prepare and deliver testimony to Maria Santos's sm..."
     },
     {
       "type": "OUTCOME",
-      "content": "You routine. Savings grew by $307. "
+      "content": "You Call Kevin O'Brien at the bank and schedule a formal meeting to discuss adding two Level 2 EV charging stations to the property. Frame it as a capital improvement loan inquiry \u2014 not a distress call. The property already has electrical infrastructure. The station sits on a parcel I own. Adding charging capability transforms me from a fuel-only stop to a multi-modal energy stop. I want to understand the loan terms, the installation cost range ($8,000\u2013$15,000 for two stations), and whether a charging-network partnership (ChargePoint or similar) can offset the capital cost through a revenue-share arrangement. I will not commit to anything this tick. I am gathering real numbers and locking in a meeting.. Savings dropped by $23. "
     }
   ]
 }

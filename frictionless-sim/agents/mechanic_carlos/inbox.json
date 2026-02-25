@@ -1,5 +1,5 @@
 {
-  "tick": 4,
+  "tick": 5,
   "messages": [
     {
       "type": "AMBIENT",
@@ -7,19 +7,55 @@
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 93%."
+      "content": "Local unemployment rising. Employment rate: 90%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 73 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 69 (baseline: 100)."
+    },
+    {
+      "type": "OBSERVATION",
+      "content": "You notice more robotaxis on the streets. About 7% of people seem to be using them regularly."
     },
     {
       "type": "SECTOR_DATA",
-      "content": "Auto sector revenue index: 89 (baseline: 100). Foot traffic and sales are somewhat down."
+      "content": "Auto sector revenue index: 82 (baseline: 100). Foot traffic and sales are somewhat down."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Contact Nadia Osei, Robert Dunbar, and Priya Nair ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Convene the first formal Economic Transition Task ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Follow up with RoboRide on the compliance check I ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Meet with Mark Thompson, the auto shop teacher at ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Follow up with David Chen at First Community Bank ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about One-on-one with Linda Park: give honest field inte..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Activate network campaign in earnest. Reach out di..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Reach out through my professional network \u2014 Carlos..."
     },
     {
       "type": "OUTCOME",
-      "content": "You routine. Savings grew by $193. "
+      "content": "You Contact the EVT Level 2 EV certification program today and schedule the enrollment. Patricia approved the $1,400 and told me to book it. I am not waiting another day. Call the training center, confirm the next available cohort that works around my shop schedule, and register. The 60-hour program can run evenings and weekends. I am locking in a start date.. Savings grew by $193. "
     }
   ]
 }
