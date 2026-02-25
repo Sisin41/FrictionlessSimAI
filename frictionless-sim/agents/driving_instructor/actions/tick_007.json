@@ -1,0 +1,55 @@
+{
+  "agent_id": "driving_instructor",
+  "tick": 7,
+  "timestamp": "tick_007",
+  "psychological_state": {
+    "stress_level": 0.19,
+    "agency": 0.78,
+    "grief_stage": "none",
+    "sentiment": "focused and building forward — Frank has a real idea now and is executing against it with the deliberate pace of a man who knows how to teach, which means breaking a large task into steps and doing one step at a time"
+  },
+  "chosen_actions": [
+    {
+      "type": "curriculum_development",
+      "description": "Frank sits down at the kitchen table with the notepad from the coffee meeting and writes out the three AV literacy modules he sketched in the car after meeting Mark. He is not polishing them — he is making them real enough to pitch. Module 1: 'Riding Safe — Understanding What Your Autonomous Vehicle Can and Cannot Do.' Sensor ranges, system limitations, weather performance, when the car will ask for your attention. No jargon. Designed for adults who are anxious about the technology, not excited by it. Module 2: 'The Override Moment — How and When to Take Manual Control.' Decision tree for edge cases: construction zones, emergency vehicles, unpredictable pedestrians, the situations where the system hesitates and the human needs to be ready. Frank has lived in these moments for thirty years. He knows how people freeze. He knows how to un-freeze them. Module 3: 'Sharing the Road — Driver Behavior Around Autonomous Vehicles.' How human drivers interact safely with robotaxis and AV trucks. Lane discipline, merging behavior, reading AV signals. This module is for people who will never ride in an AV but will share roads with them. He types these into a single two-page document — not a syllabus, not a proposal, just a document a person could read in five minutes and understand. He will hand this to the adult ed intake coordinator when he calls.",
+      "resources_required": {
+        "time_hours": 6,
+        "money": 0
+      },
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "curriculum_asset_created",
+        "spending_change": 0
+      }
+    },
+    {
+      "type": "institutional_outreach",
+      "description": "Frank calls the adult continuing education intake coordinator using the name and number Mark gave him at the coffee meeting. He identifies himself by name, mentions Mark Thompson as the connection, and makes one ask: a fifteen-minute phone conversation, or a brief in-person meeting, to discuss whether there is an unmet need in the district's adult ed catalog for autonomous vehicle literacy instruction. He does not email. He calls. He has learned over thirty years that anxious students respond to a voice, not a form — and administrators are the same. If he reaches voicemail he leaves a message that is specific, confident, and short: his name, Mark's name, the topic, his number. He does not follow up the same day. He gives it two business days before a second attempt. He is not chasing — he is being persistent in the measured way that distinguishes a professional from a supplicant.",
+      "resources_required": {
+        "time_hours": 2,
+        "money": 0
+      },
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 0
+      }
+    },
+    {
+      "type": "grant_research",
+      "description": "Frank spends an hour researching the $2,500 small business stabilization grant that Maria Santos is expanding — specifically whether a driving school qualifies under the auto row designation, given that his business was auto-sector adjacent and has experienced well above a 10% revenue decline. He looks up the application process. He does not apply this tick — he does not yet know if he qualifies — but he pulls the application criteria and makes a note of what documentation he would need: prior year revenue records, business license, documentation of revenue decline. He has all of this. If he qualifies, $2,500 covers roughly 80% of one month's expenses. He is not counting on it. He is noting it as a tool he may be able to use.",
+      "resources_required": {
+        "time_hours": 1,
+        "money": 0
+      },
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 0
+      }
+    }
+  ],
+  "internal_monologue": "The number this morning was $13,356. I did the math again before I made coffee. Four months, maybe a little more if I trim somewhere. I am not trimming anywhere I haven't already trimmed. The mortgage is the mortgage. The car is the car — and I need the car for what I'm building. The family expenses are not negotiable. What I have is time and a legal pad and a phone and thirty years of knowing how to walk into a room and teach something to somebody who is scared of it. That is not nothing. The AV literacy idea is the first idea in six ticks that doesn't feel like I'm trying to hold on to what used to exist. I am not trying to save the driving school. I am trying to find out if there is something new that only I can build, because of what I have seen and what I know. Mark Thompson looked at me across that table and said 'you are the right person for this.' He is not the kind of man who says things he doesn't mean. I wrote the modules this morning. I am calling the adult ed office this afternoon. I am not waiting for permission to start. I am asking for a conversation.",
+  "archetype": "adapter",
+  "tick_updated": 7
+}

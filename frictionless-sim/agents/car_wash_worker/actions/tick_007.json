@@ -1,0 +1,46 @@
+{
+  "agent_id": "car_wash_worker",
+  "tick": 7,
+  "timestamp": "tick_007",
+  "psychological_state": {
+    "stress_level": 0.14,
+    "agency": 0.67,
+    "grief_stage": "none",
+    "sentiment": "Focused and deliberate. The economy around me keeps contracting but my own trajectory is still pointing up. I am not one of the eight who got cut this month. I am the one going to class on Tuesday nights. That distinction matters more and more."
+  },
+  "chosen_actions": [
+    {
+      "type": "retraining_progress",
+      "description": "Attend all scheduled automotive service technician certificate classes this month at Millfield Community College — Tuesday and Thursday evenings plus Saturday morning sessions. Target: advance program progress from 0.12 to approximately 0.20, completing month two of the eight-month certificate. This month's curriculum focus is brake systems and suspension fundamentals. More importantly, talk to the program coordinator or one of the instructors after class to ask directly: does this certificate include any EV-specific modules, and if so when do they appear in the curriculum? This is the question I flagged last tick and never asked. Get the answer this month. No excuses.",
+      "resources_required": {"time_hours": 32, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "skill_progress",
+        "spending_change": 0
+      }
+    },
+    {
+      "type": "network_outreach",
+      "description": "Follow up with Carlos (mechanic_carlos) — not about the apprentice-track ask, which is too early and Carlos is in his own retraining transition right now. Instead, a lateral question: now that I know he's doing EV certification training, ask him specifically what that program looks like, how long it takes, and whether the Millfield Community College general automotive cert I'm in is considered a reasonable foundation for an EV specialization follow-on. I am not asking him to hire me. I am asking him to help me understand the pathway. Low ask, high signal value. Keep it a five-minute conversation, not a meeting.",
+      "resources_required": {"time_hours": 1, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 0
+      }
+    },
+    {
+      "type": "income_supplementation",
+      "description": "Pick up two to three weekend gig shifts doing Instacart or DoorDash delivery. I do not own a car but I have a bike and Millfield is dense enough for bike delivery on the DoorDash platform in the core downtown zone. Target: $80 to $120 in supplemental income this month. This is not a career move. It is a runway extension. My monthly surplus is $263 and my savings runway is 1.6 months — that margin is thin enough that one bad month could put me in stress territory. Adding even $100 in gig income this month changes my cushion without adding any commitments or changing my schedule in a way that conflicts with classes or the car wash.",
+      "resources_required": {"time_hours": 10, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 100
+      }
+    }
+  ],
+  "internal_monologue": "Eight people got cut this month in Millfield. I see the spending index sitting at 42. The robotaxis are multiplying. And I am still here, still enrolled, still showing up. That is not luck — I made decisions. The car wash job could evaporate any month and I have known that since tick zero. The cert is the plan. But I got lazy last tick — it showed up as 'routine' in my outcomes and that is not acceptable when my runway is this tight. This month I fix that. I go to every class. I ask the EV question I have been avoiding. I pick up some bike delivery hours on weekends to buffer the margin. And I talk to Carlos — not asking him for a job, just asking him to help me see the road ahead more clearly. He's building toward EV too. We might be useful to each other in a year. I just have to make sure I am still standing and still building when that year comes.",
+  "archetype": "adapter",
+  "tick_updated": 7
+}

@@ -1,0 +1,13 @@
+{
+  "transaction_id": "parking_garage_mgr_tick_007_cfm_materials",
+  "tick": 7,
+  "timestamp": "tick_007",
+  "type": "discretionary_spending",
+  "from": "parking_garage_mgr",
+  "target": "external_vendor",
+  "amount": 49,
+  "category": "professional_development",
+  "description": "Purchase of IFMA Certified Facility Manager (CFM) study guide and practice exam bundle. Supports active transition campaign targeting municipal facilities operations and commercial property management roles. Low-cost credential signal for cover letters and interviews.",
+  "savings_impact": -49,
+  "notes": "One-time discretionary expense. Within monthly surplus of ~$722. No impact on runway or financial stability."
+}

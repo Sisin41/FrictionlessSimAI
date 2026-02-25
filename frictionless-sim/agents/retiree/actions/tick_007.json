@@ -1,0 +1,56 @@
+{
+  "agent_id": "retiree",
+  "tick": 7,
+  "timestamp": "tick_007",
+  "psychological_state": {
+    "stress_level": 0.21,
+    "agency": 0.67,
+    "grief_stage": "none",
+    "sentiment": "Purposeful and clear-eyed. The internal work is done. I am watching Millfield struggle and I have things to give — time, skills, stability, presence. The community's pain is real and I will not look away from it, but I am not paralyzed by it. I am available."
+  },
+  "chosen_actions": [
+    {
+      "type": "community_volunteering",
+      "description": "Contact Lisa Freeman at the Community Center this week and offer to co-facilitate a session in her transportation access education series. My offer is specific: I will speak from direct experience as someone who made the car-free transition in Millfield — what I feared, how I tested those fears, what RoboRide actually costs and how the app works, what happens at 2am. I am not a spokesperson for the service. I am a 72-year-old woman who was afraid and is no longer afraid, and I can explain exactly why in terms that other older adults and people on fixed incomes will recognize. I will also bring printed materials — I will write a one-page summary of the process, in plain language, that Lisa can hand out in future sessions. I am a retired teacher. Making complex things legible to people who are nervous is something I have done for forty years.",
+      "resources_required": {"time_hours": 6, "money": 15},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 15
+      }
+    },
+    {
+      "type": "community_support",
+      "description": "Stop into Betty's Diner on Auto Row this week — not to check on the disruption statistics, but because Betty is a person I know by name and her stress is visible in the community. I will bring nothing in particular. I will order coffee and a meal and I will ask her how she is doing and I will mean it. If she wants to talk, I will listen. If the diner is slow, my being there and spending real money is a small act of economic solidarity. I will not offer advice she hasn't asked for. I will not perform concern. I will simply be present for someone who is carrying a heavy load right now. Spending: approximately $18 for coffee and a full meal, and I will tip generously.",
+      "resources_required": {"time_hours": 1.5, "money": 25},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 25
+      }
+    },
+    {
+      "type": "relationship_repair",
+      "description": "Call Robert Jackson this week. I have been carrying the awareness that he is being displaced by the exact service I now depend on, and I have been deferring the conversation because I did not know what to say. I still do not know what to say, but deferring it further is cowardice dressed as consideration. I will call him. I will acknowledge directly that I use RoboRide, that I understand his livelihood is affected by that, and that I am thinking about him. I will ask how he is doing. I will not pretend I have a solution. I will not offer hollow consolations. If he is aware of Kevin O'Brien's financial literacy office hours or Angela Wright's transition program, I will mention them — not as fixes, but as things that exist. The conversation may be uncomfortable. I will sit in the discomfort.",
+      "resources_required": {"time_hours": 0.5, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 0
+      }
+    },
+    {
+      "type": "community_investment",
+      "description": "Make a $150 contribution to the Millfield Community Transition Fund — the mutual aid pool that Angela Wright and Maria Santos are building. I have $947 in monthly surplus and $118,511 in savings. I am not in crisis. People around me are. $150 is a meaningful but not destabilizing amount, and it is the kind of concrete act that goes beyond presence and concern into material support. I will not announce this. I am not doing it for recognition. I am doing it because I was a teacher for thirty-one years and I believe communities that hold together through disruption are built from exactly these small private decisions.",
+      "resources_required": {"time_hours": 0.5, "money": 150},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 150
+      }
+    }
+  ],
+  "internal_monologue": "I spent five ticks on my own transition. I needed that time — I did not rush it, I did not fake it, and the adaptation is real. But I have been watching Millfield from inside that process, and now that the process is done I can see clearly what I was only half-attending to. Eight people lost their positions this past period. The spending index is at 42, which means businesses are struggling in ways that will compound unless people with means choose to spend locally. Betty is stressed. Robert is facing displacement. Miguel is retraining. These are people I know. The community center has programming right now that could use someone who knows how to teach — who knows how to stand in front of a room of anxious people and make something difficult feel manageable. I know how to do that. I have been doing it for forty years. I am 72 and I am car-free and I have a surplus and I have time and I have no excuse. The 2am fear that I carried for years turned out to be addressable. That story belongs to the community now, not just to me. I am going to tell it. I am also going to call Robert. That conversation has been sitting unfinished for too long. He deserves my honesty more than my avoidance.",
+  "archetype": "adapter",
+  "tick_updated": 7
+}

@@ -1,0 +1,18 @@
+{
+  "transaction_id": "commuter_rachel_tick_007_insurance",
+  "tick": 7,
+  "type": "insurance_purchase",
+  "from": "commuter_rachel",
+  "target": "insurance_market",
+  "amount": 175,
+  "description": "Monthly ACA marketplace health insurance premium — silver plan. First payment. Closes insurance coverage gap. Recurring monthly commitment.",
+  "recurring": true,
+  "recurring_monthly": 175,
+  "state_effects": {
+    "commuter_rachel": {
+      "insurance_coverage": "basic_health",
+      "monthly_expenses_delta": 175,
+      "savings_delta": -175
+    }
+  }
+}

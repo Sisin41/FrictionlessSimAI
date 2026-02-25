@@ -1,0 +1,46 @@
+{
+  "agent_id": "parts_store_owner",
+  "tick": 7,
+  "timestamp": "tick_007",
+  "psychological_state": {
+    "stress_level": 0.22,
+    "agency": 0.79,
+    "grief_stage": "none",
+    "sentiment": "alert and purposeful — the bleeding is visible now and the window on several opportunities is closing"
+  },
+  "chosen_actions": [
+    {
+      "type": "grant_application",
+      "description": "Apply for the Millfield small business stabilization grant. Maria Santos lowered the auto row threshold to 10% revenue decline — Howard's revenue is down well past that. Pull three months of receipts, prepare a one-page business summary, and submit the formal application through the city council's program. The $2,500 would cover roughly one month of the deficit. This is not a salvation — it is one fewer month of savings erosion while the B2B pipeline converts. The application itself takes four hours, costs nothing, and signals to the city that Howard's Parts is a functioning business worth preserving. Do it today.",
+      "resources_required": {"time_hours": 4, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "potential +$2500 if approved",
+        "spending_change": 0
+      }
+    },
+    {
+      "type": "supplier_relationship_development",
+      "description": "Call Carlos Ruiz directly — not for discovery, for orders. Carlos has been in EV retraining for several ticks now. The shop is beginning to take on real EV and hybrid work. Howard calls to ask one specific question: what parts did you need this week that you had to wait on or couldn't source locally? Then he offers to stock it. The conversation is narrow, operational, and ends with a specific SKU list or a verbal commitment that Howard is the first call next time. If Carlos mentions high-voltage gloves, ADAS sensors, or EV-specific brake fluid, Howard writes it down and sources it this week from his existing distributor relationships. This is the transition from relationship-building to actual EV revenue.",
+      "resources_required": {"time_hours": 2, "money": 150},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "inventory investment in EV/hybrid parts",
+        "spending_change": 150
+      }
+    },
+    {
+      "type": "network_outreach",
+      "description": "Call Patricia Hawkins before she has to track Howard down. Howard knows from the community grapevine that Patricia is referring departed auto workers to local employers. He calls her directly: thanks her for thinking of his store, asks who she has in mind, and listens. He is not hiring full-time — he cannot afford that. But he can offer 10-15 hours per week of part-time floor work to one person with automotive knowledge who needs income while retraining. A former service advisor or parts counter person from the dealership would bring skills Howard needs and connections Howard doesn't have. This is a low-cost way to add capacity, deepen the dealership ecosystem relationship, and potentially inherit a customer contact who already knows the professional market. Howard frames it to Patricia not as charity but as a genuine business fit.",
+      "resources_required": {"time_hours": 1, "money": 0},
+      "economic_effects": {
+        "employment_change": "potential part-time hire at ~$600/month if right person identified",
+        "asset_change": "none",
+        "spending_change": 0
+      }
+    }
+  ],
+  "internal_monologue": "Tick 6 was a $1,323 bleed and I did nothing. I called it routine and the month ate me. I've got roughly 10 months of runway left and I've been telling myself that's comfortable — it isn't. Every month I run this deficit, that number shrinks by one. The grant application is the obvious move I've been putting off because filling out paperwork feels like admitting I'm struggling. I am struggling. Put the application in. The Carlos call is overdue — I did the discovery two months ago, I got the intelligence, and then I sat on it while he went deeper into EV work. By now he's got specific parts he can't source locally and I'm not in that conversation. Fix that today. And Patricia — she said she'd call me about her people. I should be the one calling her. If there's a former parts counter person or service writer looking for hours, I want them before someone else figures out what I figured out: experienced automotive people are a resource right now, not a liability. The store doesn't need more inventory sitting on shelves. It needs relationships that generate recurring orders. That's what I'm building.",
+  "archetype": "adapter",
+  "tick_updated": 7
+}

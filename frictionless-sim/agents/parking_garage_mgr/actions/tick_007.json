@@ -1,0 +1,46 @@
+{
+  "agent_id": "parking_garage_mgr",
+  "tick": 7,
+  "timestamp": "tick_007",
+  "psychological_state": {
+    "stress_level": 0.15,
+    "agency": 0.74,
+    "grief_stage": "none",
+    "sentiment": "Focused and cautiously encouraged. A phone screen invitation came back through Grace Okafor's contact at the hospital — not a job offer, not even a formal interview, but a real human response after seven ticks of deliberate effort. That matters. It confirms the framing is working. Meanwhile the world outside the garage is compressing harder than expected — spending index at 42, eight people in the community lost positions this tick, the auto sector still bleeding. Denise is not scared. She is precise. She knows exactly what she is doing and why."
+  },
+  "chosen_actions": [
+    {
+      "type": "job_search_follow_through",
+      "description": "Act immediately on the phone screen invitation that came back through Grace Okafor. Her hospital contact, Nicole Washington, passed Denise's name to the facilities director at Millfield General, who has an opening for an Infrastructure Operations Supervisor. The message came back informally — a LinkedIn connection request with a note saying 'Grace mentioned you, I would like to learn more about your background.' Denise responds the same day. She confirms interest, attaches her resume, and proposes three specific time windows for a call this week. She does not over-explain in the message. One short paragraph: who she is, why the role fits, and a clear ask. She also does one additional cold application this tick to the county parks and facilities department, where a Grounds and Facilities Operations Manager posting went live on the county HR portal. Seven applications now in pipeline. She frames both submissions identically: 24/7 safety-critical multi-shift operations, budget oversight for a high-volume public-access facility, compliance and staffing management. She does not use the word parking once.",
+      "resources_required": {"time_hours": 5, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 0
+      }
+    },
+    {
+      "type": "garage_pivot_research",
+      "description": "Spend a focused two hours this week researching what it would take to convert two of the garage's underutilized lower-level bays into EV charging infrastructure and one area into a designated RoboRide staging zone. This is not a personal career move — it is a business case Denise is building for her employer, the garage owner, to future-proof the asset. But it is also smart positioning: if she can walk into a job interview at a municipal facilities or property management role and describe how she proactively proposed an infrastructure modernization plan for her current facility, that is a concrete demonstration of exactly the kind of forward-looking operations thinking those employers want. She pulls up FHWA and state DOT grant programs for EV charging infrastructure at commercial facilities. She notes that the city council is actively managing RoboRide through a per-ride fee structure and workforce fund — Maria Santos's policy work signals that the city sees RoboRide as a permanent fixture, not a phase. A formal staging zone in a downtown garage could be part of a city-level negotiation. She documents her findings in a one-page internal memo addressed to the garage owner: current utilization data, two possible conversion scenarios, and rough cost/grant offset estimates. She does not present it yet. She finishes it and holds it. It is both a business proposal and a portfolio artifact.",
+      "resources_required": {"time_hours": 4, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 0
+      }
+    },
+    {
+      "type": "professional_development_investment",
+      "description": "Purchase a study guide and practice exam bundle for the Certified Facility Manager (CFM) credential through IFMA — the International Facility Management Association. The CFM is the recognized credential for the exact roles Denise is applying to. She is not enrolling in the full exam yet — the exam costs several hundred dollars and requires documented experience hours she needs to formally compile. But owning the study materials and starting to work through them does two things: it gives her something concrete to mention in cover letters and interviews ('currently preparing for CFM certification'), and it begins building the vocabulary and frameworks that hiring managers in facilities operations use. The bundle is $49. That is a low-cost signal with meaningful framing value.",
+      "resources_required": {"time_hours": 3, "money": 49},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 49
+      }
+    }
+  ],
+  "internal_monologue": "Seven ticks. I have been employed the entire time. Savings are up. My stress is lower than it was at tick zero, which is strange until I think about why: the ambiguity is gone. I know what I am doing. I know why. The framing I built in tick one — operations professional, not parking garage manager — is starting to stick. Grace came through. A real human being at a real hospital read my name and sent a connection request. That is not nothing. That is the whole theory of change I have been working on since tick four. The garage is still running. The macro is ugly — 42 on the spending index, eight people in the community lost their positions this tick, RoboRide protests outside city hall. I am watching all of this and I am not panicking. I have a plan. I am working the plan. I found one more door this tick: the CFM credential. Forty-nine dollars to be able to say 'currently preparing for certification' in my next cover letter. That is the cheapest line item I have spent on this transition and it might be the one that gets the phone screen to become an offer. The garage pivot memo is sitting in a folder on my desktop. It might matter. It might not. But the day the owner asks me what I think should happen to this building in five years, I will have a one-page answer ready. That is the kind of manager I am. That is the kind of manager I am going to keep being, in whatever facility comes next.",
+  "archetype": "adapter",
+  "tick_updated": 7
+}

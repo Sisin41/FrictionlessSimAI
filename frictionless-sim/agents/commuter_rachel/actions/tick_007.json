@@ -1,0 +1,36 @@
+{
+  "agent_id": "commuter_rachel",
+  "tick": 7,
+  "timestamp": "tick_007",
+  "psychological_state": {
+    "stress_level": 0.31,
+    "agency": 0.82,
+    "grief_stage": "none",
+    "sentiment": "focused and quietly urgent — the community distress is now close enough to feel personal, not just observed"
+  },
+  "chosen_actions": [
+    {
+      "type": "freelance_outreach",
+      "description": "Make the first actual freelance outreach — not planning, not drafting, but a real ask. Contact Nicole at the healthcare network directly. Pitch a limited-scope project: a two-month social media audit and content calendar for their patient communications team. Frame it as a pilot engagement, low-risk for them, proof-of-concept for me. The freelance services menu I drafted at tick 5 gets used for the first time. I am pricing the engagement at $800 flat for the pilot — low enough that the answer is easy, high enough that it registers as professional. This is not about income right now. This is about having one client before I need one. Tamika Jefferson is pivoting into freelance marketing from the auto sector — she has hustle and she is motivated. The marketing freelance space in this community is about to get more crowded, not less. I move now.",
+      "resources_required": {"time_hours": 3, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 0
+      }
+    },
+    {
+      "type": "insurance_enrollment",
+      "description": "Address the insurance gap directly. I have been carrying 'coverage: none' as a known vulnerability for multiple ticks and not acting on it. With employment rate at 73% and role security at 0.46, the scenario where I need individual coverage is no longer theoretical — it is a planning requirement. Spend two hours on the ACA marketplace and compare the two lowest-cost silver plans available in my zip code. Commit to enrolling this week. Budget $175/month as a line item. I have been running a $1,183 surplus — absorbing $175 for insurance still leaves me with a $1,008 monthly surplus and closes the one gap that would genuinely hurt me in a disruption. The status anxiety piece: I know there is something in my head that says 'people like me have employer coverage.' That story is how I kept ignoring this. I am letting it go.",
+      "resources_required": {"time_hours": 2, "money": 175},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 175
+      }
+    }
+  ],
+  "internal_monologue": "The spending index is at 42. Twenty-seven percent of people in this community are out of work. Patricia Hawkins is making the hard calls I watched her avoid for months. Tamika Jefferson — a salesperson at an auto dealership — is building a freelance marketing client list. I have been a marketing professional for nine years, I drafted my own services menu five ticks ago, and I have not sent a single real pitch. That is embarrassing in a way that cuts through the status anxiety. The freelance work is not a fallback anymore — it is a parallel track that I should have activated two ticks ago. And the insurance thing: I have known about this gap the whole time. I kept thinking of it as a future problem. The community around me is showing me what a future problem looks like when it arrives. I can afford $175 a month. I have been choosing not to spend it. That ends this tick. Two things, both executable today. Not planning. Doing.",
+  "archetype": "adapter",
+  "tick_updated": 7
+}

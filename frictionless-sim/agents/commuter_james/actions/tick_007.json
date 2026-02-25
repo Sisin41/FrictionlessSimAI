@@ -1,0 +1,46 @@
+{
+  "agent_id": "commuter_james",
+  "tick": 7,
+  "timestamp": "tick_007",
+  "psychological_state": {
+    "stress_level": 0.17,
+    "agency": 0.62,
+    "grief_stage": "none",
+    "sentiment": "focused and grounded, with a growing sense that staying insulated from the community around me is a choice I should examine"
+  },
+  "chosen_actions": [
+    {
+      "type": "TRANSFORMATION",
+      "description": "Advance the AWS Solutions Architect Associate cert to Modules 5 and 6 this tick. Module 5 covers Networking and Content Delivery — VPCs, Route 53, CloudFront. Module 6 is Databases. These are the modules where the cert moves from commodity knowledge to the architectural judgment tier. Maintain the 5-6 hour weekly commitment. Log study blocks in the same weekly tracker. Do not let the completion target slip from the 4-month window. Progress should reach approximately 0.50-0.55 by end of this tick.",
+      "resources_required": {"time_hours": 22, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "human_capital_increment",
+        "spending_change": 0
+      }
+    },
+    {
+      "type": "COMMUNITY_ENGAGEMENT",
+      "description": "Attend Kevin O'Brien's financial literacy office hours at the Community Center. One hour, drop-in. I am not going as someone who needs help — I am going as someone who is curious, who has been watching the economic pain in Millfield for seven months, and who has heard that Kevin is making himself available. Kevin is in my professional network at low trust (0.34). He named me as someone his sessions might reach, which means he is thinking about me. I go with genuine intent: to understand what people in financial distress are actually asking about, to see what Kevin has become in this environment, and to be present as a community member without performing generosity. If there is a conversation worth having about what the bank can actually do for people, I want to hear it firsthand rather than through second-hand news. I am the only person in Millfield whose financial picture has materially improved through the disruption that is hurting everyone else. I should not hide from that.",
+      "resources_required": {"time_hours": 1.5, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "network_increment",
+        "spending_change": 0
+      }
+    },
+    {
+      "type": "NETWORK",
+      "description": "Reach out to Howard Liu directly. This is the move my own reflection called out at tick 6 as a regret I was accumulating. Howard is my highest-trust contact (0.60) and he is actively pivoting toward RoboRide fleet relationships — which puts him at the intersection of the disruption I rode early and the supply chain ecosystem that is reshaping Millfield's auto sector. I have been passive with him while he is moving. That ends this tick. The message is honest and specific: I saw that he is working the fleet angle, I am curious how that is developing, and I want to grab coffee or a call — not to ask for anything, but because I should actually know what is happening in his world. One message, real channel (text or LinkedIn), genuine tone. The conversation that follows will tell me things I cannot learn from market data.",
+      "resources_required": {"time_hours": 1, "money": 15},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "network_increment",
+        "spending_change": 15
+      }
+    }
+  ],
+  "internal_monologue": "The spending index dropped from 48 to 42. Eight more people lost work last tick — Patricia's crew, Rick's floor, people from the dealership I drove past a hundred times. I know some of their names through Carlos and Frank. I am sitting here with a cert in progress, $109k in the bank, no car payment, and a job that has not moved. That is not normal right now in Millfield. It is the result of calls I made at ticks 1 through 5, calls I am proud of — but that does not make the gap between my situation and theirs any less real. I have been letting my background awareness of the community stay exactly that: background. Low-frequency. Passive. Kevin O'Brien is doing office hours at the Community Center next week. He named me as someone his sessions might reach. I am going. Not to learn how to manage my money — I know how to manage my money — but because showing up is part of being a person in a town rather than a financial portfolio inside a town. The cert comes first. Modules 5 and 6 this tick. Networking and databases — the architectural layer where the certification starts to mean something real to a hiring manager. And Howard Liu. My own reflection said it plainly: highest-trust contact, actively moving on RoboRide fleet relationships, and I have been passive. That passivity is a cost I keep paying in slow motion. One honest message. That is all it takes to begin. I am not in crisis. That is exactly when relationship-building works — before the urgency, before the ask, before the need. I have the luxury of timing. I should use it.",
+  "archetype": "adapter",
+  "tick_updated": 7
+}

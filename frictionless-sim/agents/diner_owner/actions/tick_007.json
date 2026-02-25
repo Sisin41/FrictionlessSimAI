@@ -1,0 +1,46 @@
+{
+  "agent_id": "diner_owner",
+  "tick": 7,
+  "timestamp": "tick_007",
+  "psychological_state": {
+    "stress_level": 0.74,
+    "agency": 0.76,
+    "grief_stage": "anger",
+    "sentiment": "Controlled fury with a practical edge. Betty is done being patient. She has been waiting — for the grant, for the economy to stabilize, for someone to acknowledge that thirty years means something. The anger is not explosive; it is focused. She is angry enough to stop waiting and start forcing outcomes."
+  },
+  "chosen_actions": [
+    {
+      "type": "formal_grant_request_escalation",
+      "description": "Return to Maria Santos's office in person — not by phone, not by email — with a printed copy of the original grant application submitted at tick 2, documentation of the diner's revenue decline (zero income now versus prior baseline), and a written note citing the council's explicit lowering of the threshold to 10% for auto row businesses. Betty makes clear she is not requesting consideration; she is presenting a completed application that now qualifies under the revised criteria and asking for a specific disbursement date. She does not perform gratitude or patience. She states plainly: the grant threshold was changed to help businesses like mine, my application predates the change, my situation is exactly what this program was designed for, and I need a timeline. She leaves a copy of the packet and asks for a written response within five business days.",
+      "resources_required": {"time_hours": 3, "money": 15},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "potential_+5000_if_approved",
+        "spending_change": -15
+      }
+    },
+    {
+      "type": "property_options_consultation",
+      "description": "Return Stephanie Morris's call. Betty has been hearing word-of-mouth that Stephanie was going to reach out, and she calls first rather than waiting. She goes into the call with specific questions, not openness to whatever Stephanie proposes. She wants to know: what is the current market value of the diner property as a going commercial concern versus as a vacant space? What would a sublease of the commercial kitchen — to a caterer, a food truck operator, a ghost kitchen operation — realistically generate per month? What does a short-term lease of the dining room for events or pop-ups look like? Betty is not listing the property. She is getting the information she told herself she needed last tick. She takes notes. She does not commit to anything. She is building the map of options she does not yet have.",
+      "resources_required": {"time_hours": 2, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 0
+      }
+    },
+    {
+      "type": "retraining_program_inquiry",
+      "description": "Apply for the $2,500 retraining grant through the city's workforce program — now accessible at the 10% threshold for auto row businesses. Betty does not know yet what she would retrain for, and she is honest about that in the application. But she has watched the $2,500 grant sit there for two ticks while she told herself she did not need retraining, she needed the diner to come back. It is not coming back the same way. The $2,500 is a tool. She applies and in the application narrative she notes her food service and small business management background, her interest in commercial kitchen operations at a larger scale, and her willingness to explore institutional food service or culinary instruction roles. She is not committing to a direction. She is opening a door while the door still exists.",
+      "resources_required": {"time_hours": 2, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "potential_+2500_if_approved",
+        "spending_change": 0
+      }
+    }
+  ],
+  "internal_monologue": "Four thousand two hundred sixty-eight dollars. That's what last month cost me to exist. And the month before. I sat in front of Maria Santos's task force and I told them exactly what was happening and she lowered the threshold — I should be grateful, and I am, but I am also done being grateful and waiting. My application is sitting in a pile somewhere. It qualifies now. I am going to walk into that office and make that real. Tom Bradley stopping by was kind. He looked worried about me. I do not want to be the person people worry about. I want to be the person who figured it out. Stephanie Morris has been trying to reach me about the property. I have been avoiding it because talking to a real estate agent about my diner feels like admitting something I am not ready to admit. But I know what I said in my own notes last tick: I need to know what my options are before I run out of runway to exercise them. So I call her. I ask the questions. I take notes. I do not decide anything. And the retraining grant — I have been holding that at arm's length like it means I am giving up on the diner. It does not mean that. It means I am a 61-year-old woman with a dependent and four and a half months of savings and I am not going to let pride cost me a tool. I apply. I figure out what I am applying for later.",
+  "archetype": "adapter",
+  "tick_updated": 7
+}

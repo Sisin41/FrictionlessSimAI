@@ -1,0 +1,32 @@
+{
+  "transaction_id": "parts_store_owner_tick_007_grant_application",
+  "tick": 7,
+  "timestamp": "tick_007",
+  "type": "grant_application",
+  "from": "parts_store_owner",
+  "target": "council_member",
+  "amount": 0,
+  "description": "Howard Liu submits a formal application for the Millfield small business stabilization grant under the auto row 10% revenue decline threshold established by Maria Santos's council motion. Application includes three months of receipts demonstrating revenue decline, a one-page business summary of Howard's Parts, and a statement of how the $2,500 would be used to stabilize inventory investment while B2B fleet accounts convert. Howard is applying as a retail_auto sector small business on auto row that has not yet crossed 15% decline but is clearly trending there. The lowered threshold was designed precisely for businesses in Howard's position.",
+  "expected_outcome": "Grant approval of $2,500 to parts_store_owner savings account within 1-2 ticks pending council review",
+  "economic_effects": {
+    "from_savings_change": 0,
+    "target_fund_change": -2500,
+    "notes": "Pending approval — no funds transfer until reviewed. Application cost is zero dollars."
+  },
+  "secondary_interactions": [
+    {
+      "from": "parts_store_owner",
+      "target": "mechanic_carlos",
+      "type": "supplier_order_inquiry",
+      "description": "Howard calls Carlos Ruiz to identify specific EV and hybrid parts Carlos needs and cannot currently source locally — converting the tick 2 discovery relationship into an active purchase order pipeline. Howard commits to stocking identified SKUs within the week.",
+      "amount": 150
+    },
+    {
+      "from": "parts_store_owner",
+      "target": "dealership_ceo",
+      "type": "network_referral_call",
+      "description": "Howard calls Patricia Hawkins proactively to position himself as a potential part-time employer for displaced auto workers with automotive knowledge — particularly former parts counter or service advisor staff who could add floor capacity at 10-15 hours per week.",
+      "amount": 0
+    }
+  ]
+}

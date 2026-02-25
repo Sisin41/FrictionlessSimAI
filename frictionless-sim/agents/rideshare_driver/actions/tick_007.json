@@ -1,0 +1,56 @@
+{
+  "agent_id": "rideshare_driver",
+  "tick": 7,
+  "timestamp": "tick_007",
+  "psychological_state": {
+    "stress_level": 0.28,
+    "agency": 0.68,
+    "grief_stage": "none",
+    "sentiment": "Purposeful and forward-leaning. The certification finish line is in sight and Robert is already thinking past it. The rideshare income is still there but he no longer identifies with it. He is running two tracks simultaneously and holding both without friction — which is itself a sign of how much his thinking has shifted since tick 1."
+  },
+  "chosen_actions": [
+    {
+      "type": "education_completion",
+      "description": "Complete the final two weeks of the NEMT certification course at Millfield Community College. Attend all remaining evening sessions. Complete the final written exam covering patient transport protocols, wheelchair securement, emergency procedures, and documentation requirements. Pass the practical vehicle inspection component. Receive the NEMT driver certification credential. This is the payoff of three months of evening classes on top of full daytime driving shifts. The credential is now in hand.",
+      "resources_required": {"time_hours": 18, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "credential_acquired",
+        "spending_change": 0
+      }
+    },
+    {
+      "type": "job_search",
+      "description": "Begin direct outreach to NEMT employers in the Millfield area this week, now that the credential is secured. Contact three targets: (1) Millfield Medical Transport, which operates a six-vehicle fleet serving the regional dialysis clinic and two assisted living facilities — Robert has picked up patients near these facilities and knows the routes cold; (2) CareRide of the Valley, a regional NEMT company with a Millfield dispatch hub that Robert's passenger Carlos mentioned at tick 2 as having driver openings; (3) St. Clement's Hospital patient transport coordinator, where NEMT-credentialed drivers are sometimes contracted directly through the patient services office. Robert calls each one, leads with his new credential and his three years of professional driving experience with a clean record, and asks about openings, contractor arrangements, or upcoming needs. He is not desperate — he is credentialed and employed — so he can negotiate from a stable position.",
+      "resources_required": {"time_hours": 4, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 0
+      }
+    },
+    {
+      "type": "network_activation",
+      "description": "Reach out to Grace Okafor (uber_driver_2) to share that the NEMT cert is done and he is now in active job search mode. Ask Grace whether she has heard anything about the Maria Santos retraining grant — Robert applied at tick 2, five months ago, and has heard nothing. He also asks Grace whether she has any contacts in the NEMT space or has heard anything from passengers about regional medical transport operators. This is a practical information exchange between two people running parallel adaptation tracks, not venting or commiseration. Robert keeps it focused and forward.",
+      "resources_required": {"time_hours": 1, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 0
+      }
+    },
+    {
+      "type": "income_maintenance",
+      "description": "Maintain standard rideshare driving schedule — approximately 45 hours per week, daytime shifts only — for the duration of this tick. With the evening class commitment now concluded, Robert actually recovers some physical margin. He is not pushing hours up; he is running at a sustainable pace because he does not need to squeeze the rideshare window any harder right now. The car is paid for. The credential is earned. He keeps the income stable while the NEMT job search develops.",
+      "resources_required": {"time_hours": 45, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 0
+      }
+    }
+  ],
+  "internal_monologue": "I finished it. Three months of getting home from a ten-hour shift, changing my shirt, eating standing up in the kitchen, and driving to the community college parking lot by 6:45. Marcus never complained once. I don't know if he understood what I was doing or just felt that he shouldn't push. Either way. The cert is in my hand now and I am not going to sit on it for two weeks like I sat on the grant application research back at tick 1. The window between credential and first contact should be as short as I can make it. I am calling Millfield Medical Transport tomorrow morning before my first pickup. I already know their routes. I've dropped patients at the dialysis clinic on Emerson at least forty times. I know what the parking situation looks like at 7am. I know which entrance the drivers use. That is not nothing. That is three years of accumulated knowledge that I can actually sell now. The spending index dropped again — 42, down from 73 when this started. People are hurting and the rideshare pool is contracting faster than RoboRide is growing it. That number tells me I made the right call in April when I enrolled. The question now is not whether to move toward NEMT. The question is how fast I can get there before I need to. I want to make this transition from strength, not necessity. I have maybe four to six months before the rideshare income becomes genuinely unreliable. That is enough runway to do this right — interview well, negotiate a fair rate, not grab the first offer out of fear. I did not spend three months in evening classes to undersell myself on the other side.",
+  "archetype": "adapter",
+  "tick_updated": 7
+}

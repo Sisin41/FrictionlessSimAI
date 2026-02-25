@@ -1,0 +1,46 @@
+{
+  "agent_id": "single_parent",
+  "tick": 7,
+  "timestamp": "tick_007",
+  "psychological_state": {
+    "stress_level": 0.42,
+    "agency": 0.67,
+    "grief_stage": "none",
+    "sentiment": "clear-eyed and quietly motivated — the world around me is visibly struggling and I am not going to pretend I can't see it"
+  },
+  "chosen_actions": [
+    {
+      "type": "savings_deposit",
+      "description": "Make a deliberate, intentional savings deposit of $350 this month — $65 more than the passive monthly accumulation that has been happening on autopilot. This is not a dramatic move. But I am done treating savings growth as something that just happens to me. I looked at the spending index this week: 42. I looked at the layoffs. I know people in this community who are scared. My runway is 3.8 months and I have two kids. The passive $285 a month is not enough to let me sleep. I am moving $350 explicitly, naming it, making it real. The emergency fund is the wall between my children and real hardship. I am going to build that wall with intention, not just by default.",
+      "resources_required": {"time_hours": 0.5, "money": 350},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "+$350 to emergency savings",
+        "spending_change": -65
+      }
+    },
+    {
+      "type": "professional_network_investment",
+      "description": "Reach out to two colleagues — a charge nurse I respect at a different hospital unit and a former coworker who moved to a clinic across town — and have real conversations. Not just a text. Actual conversations, scheduled this week on my lunch break or during the commute home. Ask them directly: what are they seeing in terms of staffing? Are budgets tightening? Are any units expanding? What skills are supervisors talking about? I have been receiving word-of-mouth passively for six ticks. My own reflection told me the regret: I have not done enough to make sure people will call me, not just know my name. Healthcare is insulated, but insulated is not invincible. My role security is 0.41. I need people who think of me when things shift — in either direction. This costs me nothing except the willingness to reach out. I am making that call.",
+      "resources_required": {"time_hours": 2, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 0
+      }
+    },
+    {
+      "type": "community_caregiving",
+      "description": "I have been a nurse for twelve years and a person of faith my entire life. The community around me is hurting in ways that my patients sometimes are not telling their doctors. I am going to pay attention differently at work this week — not just to clinical presentation, but to the stress signals I am trained to see. The man who used to work at the auto mall. The woman who mentions her husband is home now. I am not going to overstep professional boundaries. But I am going to be present in a way that costs nothing and matters. I will also check in with my church's mutual aid network to see if there is something I can do in a small, sustainable way — not a dramatic volunteer commitment I cannot keep as a working single mother, but a point of contact. Something real. Faith means something, or it means nothing. Right now it means showing up.",
+      "resources_required": {"time_hours": 1.5, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 0
+      }
+    }
+  ],
+  "internal_monologue": "I walked past someone crying in the hospital parking lot this morning. She had the look of someone who had just heard something she had been afraid to hear for months. I did not stop — I was already running late for shift handoff and I cannot carry every person's weight. But I thought about her during the whole shift. That is the thing about being a nurse in a community like this right now: the economy does not stay outside the building. It walks in wearing a hospital gown. It shows up in blood pressure readings and in the things people say when they think they are just making small talk. I know what ambient fear looks like in a body. I have been seeing more of it. I have been sitting with the fact that I have held steady for six ticks and that is real. The car is still mine. The kids are fine. The job is solid. But steady is not the same as strong, and I have known for a while that I am not as strong as I need to be. 3.8 months of runway with two kids and no partner is not a position I should be comfortable in. The $285 a month that has been accumulating by default — I did not decide that, it just happened. This month I am deciding. $350. Named. Intentional. And I am going to call Marcus and Denise this week because if things shift in healthcare, I want to know before I see it in a memo, and I want people who will think of me. Not dramatic. Just awake. That is all I'm asking of myself right now. Stay awake.",
+  "archetype": "stable",
+  "tick_updated": 7
+}

@@ -1,0 +1,46 @@
+{
+  "agent_id": "truck_owner",
+  "tick": 7,
+  "timestamp": "tick_007",
+  "psychological_state": {
+    "stress_level": 0.22,
+    "agency": 0.78,
+    "grief_stage": "none",
+    "sentiment": "sober and working — putting the reflection into motion"
+  },
+  "chosen_actions": [
+    {
+      "type": "pipeline_diversification",
+      "description": "Follow through on the tick 6 commitment: shift the bid pipeline from discretionary additions toward needs-based work. Price and submit bids on two small repair jobs — a leaking flat roof on a rental property and a retaining wall with drainage failure on a residential lot. Both owners contacted through Lisa Freeman's network, who flagged these as deferred-maintenance situations where the owner has no choice but to act regardless of the economic climate. This is the category of work that survives a scared economy: things that will get worse and cost more if ignored. Material costs are modest, the scopes are manageable solo or with one helper, and the profit margins on repair work are better than people assume. Start filling the calendar with jobs that are actually available, not jobs that would be available in a normal economy.",
+      "resources_required": {"time_hours": 6, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 0
+      }
+    },
+    {
+      "type": "insurance_review",
+      "description": "Sit down after dinner with a notepad and actually run the numbers on health insurance for the first time in years. Three dependents, no coverage. The spending index is 42, the auto mall is doing layoffs, mutual aid tables are showing up in parking lots — this is the kind of environment where a broken arm or an appendix can end a family financially. Pull up the state marketplace website, get a ballpark on what a mid-tier family plan costs, and write down the monthly figure next to the savings runway number. Do not commit to anything this tick. But stop pretending the gap is not there. The normalcy bias that kept Dale from addressing this is the same bias that kept him chasing Henderson for five ticks. He knows what that costs. The insurance question does not feel urgent until it is the only thing that matters — and by then it is too late to fix it. Look at the number. Write it down.",
+      "resources_required": {"time_hours": 2, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 0
+      }
+    },
+    {
+      "type": "community_engagement",
+      "description": "Show up to one of the mutual aid events this tick — not to need anything, but to be present. Dale heard through word-of-mouth that Patricia Hawkins did layoffs at the auto mall and that there are protests happening. These are not abstract news stories; these are people he knows by name or one degree removed. He has been in Millfield long enough to know that a community in distress eventually produces construction work — not additions and garages, but urgency repairs, code compliance jobs, property consolidations. Show up at the mutual aid event to maintain the Lisa Freeman relationship, to stay visible as a reliable local contractor, and because it is the right thing to do when people around you are struggling. Do not pitch work. Just be a neighbor.",
+      "resources_required": {"time_hours": 2, "money": 50},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 50
+      }
+    }
+  ],
+  "internal_monologue": "The Henderson bid is done. I walked away from it clean last tick and I am not looking back. The market is telling me something and this time I am listening before I need to. Needs-based work — roofs, drainage, foundations — that is what survives when people are scared. The Lisa Freeman connection is already paying off. Two repair jobs sitting in front of me before I even made a cold call. That is what a real network looks like. I should have trusted it sooner.\n\nThe insurance thing. I sat with it tonight. Really sat with it. The number is not small — family coverage runs $1,200 to $1,600 a month on the marketplace, more if the deductibles are reasonable. That is real money. That is close to what I clear as surplus each month. It would hurt. But I ran the other number too: one hospitalization without coverage with three kids can hit $40,000 to $80,000. My savings runway is 11 months against essentials. One bad medical event and that goes to zero inside a year. I have been carrying that risk for a long time and telling myself it would not happen. That is the same voice that said Henderson would close in thirty days. I am not buying the plan tonight but I am done pretending the gap is not there. I write the number down. I will think about it next tick with fresh eyes.\n\nThe auto mall layoffs hit harder than I let on to anyone. I know some of those guys. Not close, but the kind of close where you nod at the hardware store and know each other's names. The mutual aid table in the parking lot — I will stop by. I am not going to pretend I am there for any reason other than the fact that my community is hurting and I still have work and I still have a truck and if there is something useful I can do with that I am going to show up and find out what it is.",
+  "archetype": "stable, adapting strategy without changing identity",
+  "tick_updated": 7
+}
