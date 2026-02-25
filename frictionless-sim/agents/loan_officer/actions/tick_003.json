@@ -1,0 +1,75 @@
+{
+  "tick": 3,
+  "agent_id": "loan_officer",
+  "agent_name": "Kevin O'Brien",
+  "current_state_summary": {
+    "threat_level": 0.42,
+    "runway_months": 7.5,
+    "savings": 38644,
+    "stress_level": 0.16,
+    "primary_concern": "RoboRide is live and David is making institutional moves above my pay grade — my mortgage credential progress needs to be visible to David this week, not next month."
+  },
+  "threat_assessment": {
+    "immediate": "RoboRide launched today at $0.18/mile. This is not a future risk anymore — it is the present condition. My auto loan pipeline, already at lending volume index 89, will thin further in the next 30-60 days as consumers realize they can defer or eliminate a vehicle purchase. Word of mouth confirms David is making 'some kind of change' to loan criteria. I do not know the exact parameters but I know what tightened criteria means in a thin pipeline: fewer qualifying applications, more declined files, less activity for me to justify my current seat. The gap between my income ($5,115) and expenses ($5,195) is already negative. I cannot let that drift widen.",
+    "horizon_2mo": "If the mortgage track stalls — no live shadow, no documented practicum hours — I have credentials on paper and nothing that David can point to when he makes the internal transition case. The VP-level conversation David escalated last tick may already be in motion. By month 2, if I have not completed modules 1-4 plus two live shadows, I am behind the institutional clock that is already running without me. Auto loan volume could drop another 10-15 points as RoboRide gets word-of-mouth traction. My role security goes from 0.63 to something I do not want to find out about.",
+    "horizon_6mo": "Six months out, either I am operating as a mortgage originator with documented NMLS hours and David's endorsement for the internal transition, or I am an auto loan officer managing a wind-down portfolio in a branch that has already made its restructuring decisions. The 2008 conditioning is relevant here: institutions move faster than the people inside them expect. Six months is not a long window. The plan has to be executed in the next 60-90 days, not the next 6 months."
+  },
+  "hierarchy_priority": "L2_PARTICIPATE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Walk to the mortgage department in person today — before lunch if possible. Introduce myself as an enrolled NMLS trainee and ask to observe a closing. The specific ask: 'I am enrolled in the NMLS-approved mortgage origination course and I need two live closing shadows for my practicum requirements. Do you have a closing scheduled in the next two weeks where I could sit in as an observer?' Log the conversation in the NMLS course portal as a practicum coordination contact. If a closing is confirmed and attended this tick, log it as practicum hour one of two required.",
+      "rationale": "This was the explicit next step in my inbox bulletin. I said I would do it this tick — in tick 2 I flagged it as the lagging element in the 30-day milestone. Shadows require someone else's calendar, which means the scheduling gap compounds if I do not initiate today. The 30-day milestone is modules 1-4 plus two live shadows. Curriculum is on track. Shadows are the only piece I cannot control unilaterally. This action converts that dependency into a confirmed date. In person matters: email requests from outside the department get deprioritized. Walking in as a colleague who is enrolled and has a specific ask gets a date.",
+      "timeline": "Today — before end of business. Closing attendance within the next 10 business days depending on mortgage department schedule.",
+      "expected_outcome": "First live shadow scheduled and confirmed. Practicum hour logged with NMLS coordinator. Mortgage department contact established — name, role, and willingness to mentor. This moves the 30-day milestone from 'on track' to 'documented and confirmed.'"
+    },
+    {
+      "action_id": 2,
+      "description": "Approach David Chen directly today or tomorrow — not as a formal meeting request, but naturally, the way a professional who is paying attention would. Frame it as a credit risk coordination question: 'I want to make sure my client outreach and pipeline work is aligned with any criteria adjustments you are making — I have noticed the application profile has been shifting.' Give him the easy opening. Then give him the update he does not have to ask for: 'I am on track for modules 1-4 by end of month, and I am setting up my first live closing shadow today. I wanted you to hear that from me directly.' Do not ask him to reveal the details of his tightening criteria. Let him choose how much to share. The point is to make my progress visible to him before Sandra Okafor or anyone above David makes a decision that removes his discretion.",
+      "rationale": "The word-of-mouth confirmed David is making institutional moves. His tick 3 decision — which I cannot see but whose effects I am feeling — involves formalizing a pathway for me by Thursday. I do not know that specific detail, but I know David is watching. The right play is to be the person who walks in with information rather than waiting to be summoned. This is not anxiety management — it is reading the institutional clock correctly. David's discretion over my transition is finite. The VP-level escalation from last tick means decisions may be made above his head. My window to shape this is now.",
+      "timeline": "Today or tomorrow morning — before David's week fills with the downstream effects of the criteria change.",
+      "expected_outcome": "David knows my mortgage track is real, documented, and moving. He has a concrete update to include if the VP conversation turns to staffing. I learn enough about the criteria change to know how to manage my active pipeline. Role security moves from 0.63 toward 0.68-0.70."
+    },
+    {
+      "action_id": 3,
+      "description": "Complete NMLS modules 5-6 this week. The course pace is 90 minutes per day of study. Modules 1-4 are either complete or nearly complete based on the enrollment timeline from tick 2. Modules 5-6 likely cover underwriting fundamentals and federal disclosure requirements — core competency areas where my lending background gives me an edge. Do not skip ahead. Log each module completion in the course portal with timestamps. The documentation trail matters: when David or Sandra needs to verify progress, the portal shows dates, not just assertions.",
+      "rationale": "Credentials without a paper trail are assertions. Assertions do not survive institutional restructuring conversations. My lending background means the underwriting concepts are not foreign — I should be moving through these modules faster than a candidate without finance experience. The 30-day milestone requires modules 1-4, but the full NMLS originator exam requires all modules. Every module I complete ahead of schedule is compounding optionality: it shortens the timeline to the exam, which shortens the timeline to my first mortgage origination, which shortens the timeline to income replacement. At a negative $80/month margin, I need that timeline to move.",
+      "timeline": "Modules 5-6 this week. Maintain 90 minutes per day minimum. No missed days.",
+      "expected_outcome": "Course completion percentage advances materially. Practicum documentation is current. If the grant committee asks for a progress report as part of the $2,500 retraining grant review, I have timestamped module completions to show. This also supports the David conversation — I can say 'I am through module 6 this week' rather than 'I am working through the course.'"
+    },
+    {
+      "action_id": 4,
+      "description": "Conduct a focused review of my active auto loan portfolio: identify the 15-20 accounts with more than 18 months remaining where the borrower's income or employment is in auto-adjacent sectors — dealership staff, fleet operators, transportation workers, delivery drivers. Flag these internally in the CRM with a watchlist note: 'RoboRide deployment — monitor employment status Q2-Q3.' Do not contact borrowers yet. Prepare a clean one-page account summary for David: here are the accounts with elevated exposure to the RoboRide displacement effect, here is what I recommend monitoring, here is the timeline. Bring this to David in the same conversation as action 2.",
+      "rationale": "David's criteria tightening is about exactly this risk. I can add value to his decision-making right now by doing the account-level triage that a VP memo cannot do. This is also how I manage my existing role to the end — not abandoning the auto loan function but stewarding it responsibly while I build the next one. Bringing this deliverable to David in person accomplishes three things: it demonstrates I am managing the wind-down professionally, it gives David concrete data for his Sandra escalation, and it creates a natural reason for the career conversation without forcing it.",
+      "timeline": "CRM review and flagging today. One-page summary prepared before the David conversation tomorrow.",
+      "expected_outcome": "David has a useful deliverable. My active pipeline is triaged with proactive monitoring in place. The probability of a surprise default surfacing without early warning drops. Kevin's value to David — even in the wind-down phase of the auto function — is documented and visible."
+    },
+    {
+      "action_id": 5,
+      "description": "Do a quiet household budget review this week — not a crisis review, a methodical one. The gap between income ($5,115) and expenses ($5,195) is currently $80/month negative. Runway is 7.5 months. The grant application is filed but not received. Identify one discretionary line item that can be trimmed by $150-200/month without affecting dependents or professional development spending. The goal is not austerity — it is returning to a slightly positive margin while the mortgage track builds toward income replacement. Car payment ($349) and housing ($1,737) are fixed. Look at discretionary categories: subscriptions, dining, incidentals.",
+      "rationale": "Seven and a half months of runway with 2 dependents is adequate but not comfortable. A negative monthly margin, even a small one, erodes runway every tick. I have HIGH agency (0.70) and LOW normalcy bias (0.32) — I am not going to pretend the negative margin is fine because it is only $80. Small leaks become meaningful over a 6-month horizon. This is a 30-minute review that protects the runway. The grant may arrive in 30-60 days and change the picture. Until it does, I maintain the buffer.",
+      "timeline": "This week, at home. Not a work task — a household task.",
+      "expected_outcome": "Monthly margin returns to slightly positive ($50-150 surplus). Runway stays at 7.5 months instead of drifting toward 7.2. No stress increase — this is a clean execution item, not a crisis response."
+    }
+  ],
+  "decisions": {
+    "mortgage_department_visit": "EXECUTE TODAY — in person, specific ask, log the coordination contact",
+    "david_conversation": "EXECUTE TODAY OR TOMORROW — bring portfolio summary, give mortgage update proactively",
+    "nmls_course_pace": "MAINTAIN — 90 min/day, modules 5-6 this week, all completions timestamped",
+    "auto_portfolio_triage": "EXECUTE — CRM watchlist flags today, one-page summary for David by tomorrow",
+    "budget_review": "EXECUTE THIS WEEK — household-level, find $150-200 in discretionary cuts",
+    "grant_status": "PENDING — applied tick 2, no further action needed until response received",
+    "car_ownership": "HOLD — car payment $349/month, no change; RoboRide at $0.18/mile does not yet change the calculus for a 44-year-old with 2 dependents and a professional schedule"
+  },
+  "updated_state": {
+    "stress_level": 0.16,
+    "agency": 0.73,
+    "grief_stage": "none",
+    "savings_delta": -80,
+    "role_security_delta": 0.04,
+    "skill_relevance_delta": 0.06,
+    "notes": "Stress uptick is small — RoboRide being live and David's institutional moves are real signals, not noise. But Kevin has a plan, the plan is executing, and the mortgage track is moving. Agency increases slightly because this tick involves the most concrete professional milestone of the three ticks so far: the in-person mortgage department visit is the first external validation step. Savings delta is another $80 negative — course materials or small course-related costs. The grant has not arrived yet."
+  },
+  "internal_monologue": "RoboRide is live. I knew it was coming and here it is — $0.18 a mile, commercial coverage, main roads. The auto loan pipeline does not recover from this. David is making changes I have not been briefed on yet, and the word-of-mouth means it is already spreading in the branch, which means I am one of the last people to hear it officially. That is fine — I am not waiting to be briefed. I am walking to the mortgage desk this morning and I am walking into David's office tomorrow with a portfolio summary and a progress update, and I am doing both of those things because the institutional clock is now running on someone else's schedule, not mine. Seven and a half months of runway with 2 dependents is a number I look at every morning. The mortgage track is not a backup plan anymore. It is the plan.",
+  "archetype_self_assessment": "methodical-adapter, compression phase — executing against a tightening institutional window, not a personal one"
+}
