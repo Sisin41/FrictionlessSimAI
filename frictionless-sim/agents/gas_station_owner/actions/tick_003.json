@@ -1,0 +1,70 @@
+{
+  "tick": 3,
+  "agent_id": "gas_station_owner",
+  "agent_name": "Amir Patel",
+  "current_state_summary": {
+    "threat_level": 0.52,
+    "runway_months": 14.0,
+    "savings": 72485,
+    "stress_level": 0.31,
+    "primary_concern": "RoboRide is now physically present on Millfield roads, not a forecast — I need to observe what it actually does to traffic patterns on my block before I make any capital commitments."
+  },
+  "threat_assessment": {
+    "immediate": "RoboRide launched today. Electric fleet, no fuel revenue from these vehicles. But volume impact on my pumps is not measurable yet — it is day one. What I can observe right now: whether any RoboRide units are stopping on or near Auto Row, what routes they are running, whether my regular morning commuter customers still show up. Watching costs nothing. The grant is pending — no funds yet, no assumptions.",
+    "horizon_2mo": "If the Phase 2 pattern from other cities holds, fuel volume starts dipping 4-8% by month two as ride-share substitution grows among price-sensitive daily commuters. Auto Row foot traffic is a compounding variable — if Regional Auto Group continues restructuring under Angela Wright, fewer test drives and service loaner refuels means another 3-5% volume loss specific to my location. I need baseline numbers from this week to measure against.",
+    "horizon_6mo": "By month six, I need to have either (a) a concrete pivot underway — EV charging bay, alternative revenue from the property, or a commercial fleet fueling contract — or (b) evidence that RoboRide's actual Millfield adoption is slower than Phase 2 projections elsewhere and I have more time. I cannot still be in research mode at month six. My runway protects me, but only if I use the time, not consume it."
+  },
+  "hierarchy_priority": "L1_STABILIZE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Station-level traffic observation: for the next five business days, log the pump count every two hours — 7am, 9am, 11am, 1pm, 3pm, 5pm, 7pm. Also note whether the commercial route that runs past my station on Millfield Ave shows any RoboRide vehicles, and at what frequency. This is a logbook, not a study. Pen and paper behind the register. I need a baseline before RoboRide penetration deepens.",
+      "rationale": "I have spent two ticks gathering information from research and other people. Now that the service is live, I have direct observational access for free. The numbers I record this week become the comparison point for every future decision I make. I cannot know if volume is dropping without knowing what volume looked like on launch week. My 25 years on this corner are an asset here — I know what a normal Tuesday looks like. I will know if something changes.",
+      "timeline": "Begins today, continues five business days, review on Friday evening.",
+      "expected_outcome": "A handwritten five-day log of fuel transaction counts and observable RoboRide activity. Not a conclusion — a baseline. If traffic looks normal this week, that is meaningful data. If it is already visibly different, that is more urgent data."
+    },
+    {
+      "action_id": 2,
+      "description": "Contact Maria Santos's office — not the task force, her direct office — and ask two specific questions: (1) What is the expected timeline for the small business stabilization grant decisions? (2) Is there any supplemental information the committee wants from applicants in the fuel retail or Auto Row-adjacent category? Frame the call as an applicant following up responsibly, not as a supplicant. Keep it under ten minutes. Take notes.",
+      "rationale": "The grant application is submitted. Waiting passively is not a strategy. A single professional follow-up call accomplishes three things: it signals to Maria's office that I am engaged and serious, not just a paper-filer; it might yield timeline information that helps me plan cash flow; and it keeps a human channel open with the Economic Transition Task Force ecosystem even though I am not a member. I have a legitimate reason to call. Priya reviewed the application with me — this relationship network is not ornamental, it is functional. Use it.",
+      "timeline": "Phone call within the next two business days.",
+      "expected_outcome": "Either a specific timeline (e.g., 'decisions in 3 weeks') or a referral to someone who knows. At minimum, my name and file are refreshed in someone's memory at the city level."
+    },
+    {
+      "action_id": 3,
+      "description": "Call Priya Nair — not about insurance yet, just a check-in. Tell her the grant is in and I wanted to thank her again for the review. Then ask her, as someone who works with small business clients: is she seeing any other Auto Row businesses reaching out about coverage changes, or any commercial clients asking her about business interruption insurance related to the AV transition? Listen for what she knows without asking her to violate anything. Then ask what a basic business interruption policy or commercial liability review would cost for a fuel retail operation my size — just a number to have.",
+      "rationale": "I have no insurance coverage. This is a real vulnerability that I have been aware of and not addressing. I cannot afford to pretend that is fine — I have four dependents and a property asset. But I am also not going to rush into an insurance product I have not evaluated. Priya is a trusted connection, she already knows my situation from the grant review, and a conversation with her is free. Getting a premium estimate is free. Deciding whether to purchase is a separate step. My 2008 conditioning says: the expensive moment is always the one you were not covered for.",
+      "timeline": "Within this week — before the weekend.",
+      "expected_outcome": "A dollar figure for what basic business coverage would cost. That number either fits within my current surplus ($1,330/month) or it does not. Either way, I will know, and knowing is better than the nothing I have now."
+    },
+    {
+      "action_id": 4,
+      "description": "Pull the EV charging research from tick 2 — the vendor quote I was going to seek — and actually make that call this week. One vendor. One quote. Ask specifically: what does a dual-port Level 2 commercial charger installation cost at an existing gas station, what permits are required in Millfield, and what network revenue share models exist (ChargePoint, Blink, or similar). Write the number down. Put it next to the five-day fuel log. Do not share it yet.",
+      "rationale": "I committed to getting this number last tick and did not do it — the grant application took priority. That is fine. But I cannot keep deferring the EV question while RoboRide is now physically operating. The charging infrastructure question is not about committing to conversion. It is about knowing whether that option is financially possible at all with my current resources. If the install is $80,000, the conversation is different than if it is $12,000. I cannot have an informed strategy without the number. My father's rule: negotiate with real numbers, not invented ones.",
+      "timeline": "One phone call, this week. Friday at the latest.",
+      "expected_outcome": "A written estimate — even a rough ballpark — for Level 2 commercial charger installation cost, permit complexity, and revenue model options. This sits in a folder and informs the next tick's planning, nothing more."
+    },
+    {
+      "action_id": 5,
+      "description": "Walk over to Kenji Watanabe's auto parts store — not a call, a walk, because in-person reads the room better — and report back what I have been seeing. Not alarm, not projection. Fact-based: 'RoboRide launched today, I'm watching my numbers this week, thought I'd check in on yours.' Ask if he is tracking transaction volume. Ask if he has heard anything from the Regional Auto Group side about restructuring timelines. If he is open to it, propose a very low-stakes information-sharing arrangement: text each other weekly with pump counts and foot traffic observations. Two data points are better than one.",
+      "rationale": "Last tick I proposed reaching out to Kenji and the detail shop. I need to follow through. A weekly text exchange costs nothing and builds exactly the kind of early-warning network that small businesses on the same block should have. If Kenji's parts sales are already dropping, I know something real. If they are stable, I know that too. My social proof sensitivity (0.57) means other people's behavior is data for me — not to copy blindly, but to calibrate against. I am not alone on this row and I should stop behaving like I am.",
+      "timeline": "Today or tomorrow — this is a five-minute walk, not a project.",
+      "expected_outcome": "Either Kenji is tracking numbers and we establish a simple weekly data-share, or he is not and I learn what his posture is. Both outcomes are information. Community ties (0.67) are not just social — they are strategic."
+    }
+  ],
+  "decisions": {
+    "canopy_resurfacing": "continue_deferral",
+    "grant_application_status": "submitted_pending — no assumed funds",
+    "staff_changes": "none — hold current posture",
+    "capital_expenditure": "none this tick — research only",
+    "insurance_purchase": "pending_quote — decision next tick at earliest"
+  },
+  "updated_state": {
+    "stress_level": 0.31,
+    "agency": 0.74,
+    "grief_stage": "bargaining",
+    "savings_delta": 0
+  },
+  "internal_monologue": "The machines are on my street now. I watched one pass the station this morning — white, quiet, no driver, just a sensor array on the roof like a crown nobody earned. It did not stop. It will never stop here. I know that. What I do not know yet is how many of my regular customers decide they do not need to drive themselves to work next month, and the month after that. So I am counting. I am calling. I am getting the number on the charger install that I have been avoiding because knowing the number makes the question real. My father did not fight the supermarket, but he also did not close the shop the day it opened. He counted his regulars. He found out what they still needed that the supermarket could not give them. That is the question I am living in right now: what do people still need from me that the machine cannot give them? I do not have the answer. But I am asking.",
+  "archetype_self_assessment": "steward learning to count — not ready to rebuild, but no longer willing to wait without data"
+}
