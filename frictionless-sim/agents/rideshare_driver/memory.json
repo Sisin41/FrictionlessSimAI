@@ -81,7 +81,23 @@
       "narrative": "You Continue NEMT certification coursework \u2014 attend evening classes at Millfield Community College as scheduled. Complete week 2 of 6-week course. Study for upcoming module exam on patient transport protocols and vehicle equipment requirements.. Savings grew by $387. "
     }
   ],
-  "reflections": [],
+  "reflections": [
+    {
+      "tick": 6,
+      "reflection": "The economy is contracting faster than I modeled. 23% unemployment and a spending index of 48 — that is not a dip, that is a structural shift. The rideshare pool is shrinking: fewer people with jobs means fewer people who need rides to work, fewer people with discretionary money for outings. RoboRide is at 7% adoption and I expect that number to keep climbing. What strikes me is that my decision at tick 4 — enrolling in NEMT — was correct, but the runway I assumed I had may be shorter than I thought. I need that certification. I am in week 3 of 6. The path is clear. I execute.",
+      "identity_shift": "I am less a rideshare driver who is retraining and more a person in transition who is still driving to fund the transition. The identity has shifted. Driving is the income bridge now, not the identity anchor. Six months ago I would have resisted that framing. Now I am using it to stay focused. The work is the NEMT course. The driving is the cash flow that makes the course possible.",
+      "regrets": [
+        "I wish I had taken the retraining decision seriously one tick earlier — not because I made the wrong call, but because each additional week in the window matters and I spent tick 3 on 'routine' when I could have been further along.",
+        "I have not been straight with Marcus about how serious the situation is. He is 11. I do not want to put adult weight on him. But there is a version of this where he is less prepared than he should be for what our life looks like over the next year."
+      ],
+      "successes": [
+        "NEMT enrollment was the right strategic decision. The liability and regulatory moat around medical transport is real. I made a hard call under pressure and it was the correct call.",
+        "Savings discipline has held. Every tick has added $387. The buffer is real and growing. That is not luck — that is sustained execution.",
+        "Reaching out to Grace this tick was the right move. She is my highest-trust contact and she is running a parallel path. We should be sharing information, not each running the same research in parallel isolation."
+      ],
+      "adaptation_notes": "The key adaptation in progress: shifting from gig income maximization to credential-building with gig income as the support structure. This requires accepting a temporary income reduction (fewer driving hours due to evening classes) in exchange for a credential with a longer shelf life. The math works only if I finish the course. Dropout risk is low — I am motivated and the classes fit my schedule. The unknown is whether the retraining grant (applied for at tick 2) comes through. If the $2,500 grant arrives, it materially changes my runway calculation. I need intel on that decision. Grace is the most likely path to that information through Nicole Washington."
+    }
+  ],
   "regrets": [],
   "successes": [],
   "adaptation_history": []

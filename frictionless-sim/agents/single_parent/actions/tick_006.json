@@ -1,0 +1,38 @@
+{
+  "tick": 6,
+  "agent_id": "single_parent",
+  "agent_name": "Nicole Washington",
+  "action_type": "MAINTAIN_AND_MINOR_ADJUST",
+  "summary": "Keep personal vehicle as sole transportation for 5am hospital shifts and child pickups. Continue spending discipline but allow a small discretionary purchase for the kids (~$35). Stay alert for Grace Okafor's outreach — ready to respond and offer guidance on the nursing path if she follows through.",
+  "decisions": [
+    {
+      "domain": "transportation",
+      "choice": "retain_vehicle",
+      "rationale": "RoboRide's 15-minute average wait time is disqualifying for a 5am hospital shift. One missed window is a late write-up. Two is a job conversation I cannot afford to have. The $0.18/mile price is attractive in the abstract but irrelevant when the service cannot meet my reliability threshold. The car stays."
+    },
+    {
+      "domain": "spending",
+      "choice": "continue_discipline_with_small_relief",
+      "amount_change": 35,
+      "rationale": "Two months of skipping dinners out and deferring household purchases. The discipline is working — savings are growing — but I don't want to parent from a place of visible scarcity. A small thing for the kids, under $40, is not a setback. It's a signal that we're okay. We are okay."
+    },
+    {
+      "domain": "social_network",
+      "choice": "passive_readiness",
+      "rationale": "Word-of-mouth says Grace Okafor is about to reach out to me. She's a nursing student also driving rideshare — she's living the transportation transition in a more direct way than I am. I want to hear what she's thinking. I have real things to offer her on the nursing side. When she texts, I respond. No need to initiate before the moment arrives."
+    }
+  ],
+  "financial_snapshot": {
+    "savings_estimated": 17595,
+    "monthly_net": 570,
+    "discretionary_available": 1300,
+    "discretionary_used_estimate": 35,
+    "stress_level": 0.42
+  },
+  "emotional_state": "Still anxious but grounded. The economic noise is getting louder — Stephanie Morris closing listings, Betty dealing with something, Miguel looking at retraining. Everyone in my peripheral vision is repositioning. I'm not repositioning. That could be wisdom or it could be the status quo bias talking. Right now I can't tell. But the kids are okay, the job is solid, and the car is reliable. I'm going to hold.",
+  "flags": {
+    "high_attention": ["grace_okafor_pending_contact"],
+    "monitoring": ["roboride_reliability_data", "local_economic_stress_signals"],
+    "deferred": ["roboride_trial", "household_purchase"]
+  }
+}

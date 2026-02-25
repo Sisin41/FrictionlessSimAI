@@ -1,0 +1,30 @@
+{
+  "agent_id": "rideshare_driver",
+  "tick": 6,
+  "action_type": "compound",
+  "primary_action": {
+    "type": "retraining_continuation",
+    "description": "Continue NEMT certification coursework — week 3 of 6. Attend all scheduled evening sessions at Millfield Community College. The external environment is deteriorating fast: unemployment at 23%, consumer spending index at 48, RoboRide adoption at 7% and climbing. Every week I complete is a week closer to a credential that insulates me from what is happening. I am not panicking. I am executing the plan.",
+    "cost": 0,
+    "transformation_progress_update": 0.3
+  },
+  "secondary_action": {
+    "type": "network_outreach",
+    "target_agent": "uber_driver_2",
+    "target_name": "Grace Okafor",
+    "description": "Text Grace Okafor. She is on a parallel path — nursing school, rideshare driver, same pressures I am navigating. Trust is 0.9. She is the one person in my network I can be straight with. I want to compare notes on two things: (1) Has she actually reached Nicole Washington yet about hospital hiring conditions and the workforce retraining grant status? If so, what did she hear? (2) How is her nursing program going relative to the economic pressure? I am not asking for favors. I am checking in with someone who is running the same race from a different lane. If the grant decisions are coming out, I need to know. If the hospital is freezing hiring, that changes how I think about the NEMT exit timeline.",
+    "tone": "collegial, brief, direct",
+    "cost": 0
+  },
+  "financial_decisions": {
+    "hold_spending": true,
+    "rationale": "Consumer spending index at 48 out of 100 baseline. This is not a normal contraction. Local unemployment at 23% means the rideshare demand pool is shrinking alongside my own income erosion. I have $9,709 in savings. Monthly essentials are $1,750. I have roughly 5.5 months of runway if income stops entirely. I do not spend anything discretionary this tick. I keep driving daytime shifts to maintain income. I do not make any large purchases.",
+    "discretionary_spend": 0
+  },
+  "driving_schedule": {
+    "continue_daytime_shifts": true,
+    "hours_target": "40-45 per week",
+    "rationale": "I cannot push to 60+ hours anymore — evening classes take that window. Daytime shifts cover essentials. I accept the reduced income as the cost of the transition. The NEMT credential is worth more than the extra hours at a dying price point."
+  },
+  "emotional_state": "steady under pressure. The economic numbers coming in are bad — worse than I expected this fast. But I made the right move early. The NEMT path was the right call. I am not second-guessing it. What I feel is something like controlled urgency: the window to finish this certification before the rideshare income collapses further is finite, and I am aware of it. I am not telling Marcus how bad the numbers look outside. He is 11 years old. He does not need to carry that. But I am carrying it clearly."
+}

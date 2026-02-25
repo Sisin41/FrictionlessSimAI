@@ -81,7 +81,25 @@
       "narrative": "You Commit $3,000 of the Accord sale proceeds immediately toward the cloud architecture certification course \u2014 purchase the course now rather than waiting for a 'trigger condition.' Unemployment is 10%, role security is 0.38, and the surplus moment is here. Enroll in the AWS Solutions Architect Associate or equivalent recognized certification program. Increase weekly study hours from 2-3 hours to 5-6 hours. Set a completion target of 4 months rather than 8.. Savings grew by $1,096. "
     }
   ],
-  "reflections": [],
+  "reflections": [
+    {
+      "tick": 6,
+      "reflection": "Looking back across six ticks: I identified the robotaxi disruption at tick 0, moved on the car sale at tick 1, closed it cleanly at tick 4, deployed the proceeds at tick 5, and now I am two weeks into a cloud architecture certification with $109k in savings and no car debt. The plan worked. That is not nothing. The town around me is in measurable pain — 23% unemployment, spending index at 48, businesses closing on auto row, people I know scrambling to retrain. My early read on the disruption and willingness to act before it hit me personally is the reason I am not in that group. The cert is the next play. It is executing. This tick is about discipline, not decision-making.",
+      "identity_shift": "I have quietly moved from 'commuter who drives to work' to 'remote-capable tech professional who uses infrastructure instead of owning it.' The car was the last physical marker of the old version of this commute. It is gone. I have also shifted from someone who monitors the job market to someone who is actively investing in the next career layer. The shift is not complete — I still have my current role and no new credentials yet — but the trajectory is clearly different from six months ago. I am no longer waiting to see how things develop. I am building ahead of where things are going.",
+      "regrets": [
+        "I should have started the cert research earlier — ideally at tick 2 or 3 when the signals were already clear. I waited until tick 5 to pull the trigger on enrollment. The trigger condition framing almost cost me 2-3 months of lead time.",
+        "I have not reached out to Howard Liu directly. He is my highest-trust connection and he is actively pivoting toward RoboRide fleet relationships. That is information I could have and a relationship I could be deepening. I have been passive with my network while the people in it are moving."
+      ],
+      "successes": [
+        "Sold the Accord at $18,800 before the market softened. Called the timing correctly.",
+        "Deployed the proceeds the same tick — no sitting on cash and second-guessing.",
+        "AWS cert is live and in progress. The commitment converted from intention to enrollment.",
+        "Monthly expenses down ~$127 from cancelled insurance. Small but real.",
+        "Maintained calm throughout a period when a lot of people in my network are stressed or in crisis mode. That composure has protected my decision quality."
+      ],
+      "adaptation_notes": "The adaptation pattern that has worked for me: identify the structural change early, make the asset decision before the crowd, deploy the proceeds into skills rather than consumption, and stay in readiness posture for employment. The risk I am managing now is behavioral — the cert requires hours, and hours require discipline inside a demanding home and work schedule. The financial and strategic decisions are behind me. The execution risk is personal."
+    }
+  ],
   "regrets": [],
   "successes": [],
   "adaptation_history": []

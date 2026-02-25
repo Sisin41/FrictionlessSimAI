@@ -1,0 +1,40 @@
+{
+  "agent_id": "young_gig_worker",
+  "tick": 6,
+  "action_type": "multi",
+  "primary_action": {
+    "type": "income_hustle",
+    "description": "Keep all three gig platforms running at maximum capacity — DoorDash, Uber Eats, Instacart — but get smarter about peak hours. Stop taking every shift blindly; prioritize morning and dinner rushes when multipliers are highest. Target 28 hours of gig work this week, not 30, because the extra two hours go toward the social media side hustle below. The cert stays. Evenings after 9pm are Coursera time — no exceptions.",
+    "target_agent": null,
+    "financial_commitment": 0,
+    "expected_outcome": "Incrementally reduce the monthly income gap. Not enough to fully cover $2,404/month in expenses but every dollar counts right now."
+  },
+  "secondary_actions": [
+    {
+      "type": "skill_monetization",
+      "description": "Take Tamika Jefferson's word-of-mouth as a signal. She is pivoting toward freelance social media work and she is not a tech person — I am. I already have social_media in my skills. Today I draft a simple one-paragraph pitch and send it to two local businesses I know from my service sector work: the coffee shop I used to work at (or know through the barista network) and a small restaurant or food truck I have seen around Millfield. The pitch is simple: I manage your Instagram for $150/month — two posts a week, captions, hashtag strategy, basic engagement. I am not Tamika and not competing with her; she is going after signed retainer contracts. I am starting smaller and faster because I need income this week, not next month. $150 x 2 clients = $300/month if it works. That is real money I can start earning before the Coursera cert finishes.",
+      "target_agent": null,
+      "financial_commitment": 0,
+      "expected_outcome": "Land at least one informal social media management arrangement within this tick. Low barrier, uses existing skills, does not require the cert to be done."
+    },
+    {
+      "type": "relationship_action",
+      "description": "Respond to Miguel Hernandez. He reached out directly — twice — which is unusual for him. He said the apprentice conversation was serious. I text him back today: 'Hey — staying in the program, just hit two months. And yeah, I meant what I said about EV work. If you hear of anything with Carlos or anyone pivoting toward it, keep me in mind. I am building toward it.' Keep it brief, keep it warm. Do not ask for anything specific yet — just confirm I am still in the game and that his words landed. Miguel has the highest trust of anyone in my network (0.78). I do not want to let that go cold.",
+      "target_agent": "car_wash_worker",
+      "financial_commitment": 0,
+      "expected_outcome": "Maintain and strengthen the Miguel relationship. Keep the door open to the Carlos Ruiz apprenticeship pathway as a longer-term option once the cert progresses further."
+    },
+    {
+      "type": "grant_follow_up",
+      "description": "Check the status of the Maria Santos retraining grant I applied for in tick 2. I submitted documentation weeks ago and have heard nothing back. The inbox says 12 people enrolled in retraining this month — the program is clearly active. I call the council office directly (not email, not a form) and ask for a status update on my application. I reference Lisa Freeman's testimony and the new one-page 'next steps' document that apparently now lists First Community Bank as a lending resource. If the grant is delayed or I am not yet approved, I ask whether the expanded eligibility window (the threshold drop from 15% to 10%) applies to my application retroactively. I am not going to sit and hope. I need this $2,500.",
+      "target_agent": "council_member",
+      "financial_commitment": 0,
+      "expected_outcome": "Get a concrete status on the grant. Either confirmation of approval, a timeline, or information about what is blocking it. $2,500 right now would buy 2+ months of breathing room."
+    }
+  ],
+  "emotional_state": "tired but focused. The gig grind is real — 25-30 hours a week on top of everything else is draining in a way that is hard to describe to people who have not done it. But the savings bleeding out every month is scarier than tired. The social media idea feels like the first genuinely additive thing in a while — using a skill I already have, not waiting for a credential to save me. There is a small flicker of something. Not confidence exactly. More like: I am not just treading water, I am actually trying to swim.",
+  "key_reasoning": "Savings dropped $1,188 last tick even with full gig mobilization. The gig platforms are supplementing but not solving the problem — expenses at $2,404/month still exceed what I am bringing in. I need parallel income streams, not just more gig hours. Social media work uses existing skills and can start generating money immediately. The cert continues because it is the medium-term bet — digital marketing credentials open doors gig apps never will. Miguel's direct outreach is a signal I should not ignore. He is my highest-trust contact and he is pointing me toward the Carlos Ruiz / EV pathway. I do not act on that yet — I am 22% through a different cert — but I keep the connection warm. The grant follow-up is urgent. $2,500 changes my math.",
+  "decision_confidence": 0.72,
+  "stress_acknowledged": true,
+  "coursera_status": "continuing — evenings, no skipping"
+}

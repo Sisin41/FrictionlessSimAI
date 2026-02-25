@@ -1,0 +1,18 @@
+{
+  "from_agent": "rideshare_driver",
+  "to_agent": "uber_driver_2",
+  "tick": 6,
+  "type": "social_outreach",
+  "subtype": "information_exchange",
+  "message": "Hey Grace — Robert. Quick check-in. I know you've been thinking about reaching out to Nicole Washington about hospital hiring and the retraining grant status. Did you make that contact? If you heard anything I'd want to know. I'm in week 3 of the NEMT course at Millfield. Things look rougher out there every week — 23% unemployment, spending way down. How are you holding up? No pressure on the reply, just want to stay in sync.",
+  "trust_level": 0.9,
+  "information_requested": [
+    "Nicole Washington intel on hospital hiring freeze or openings",
+    "Workforce retraining grant decision timeline or outcome",
+    "Grace's own trajectory in nursing school given economic conditions"
+  ],
+  "reciprocal_offer": "Happy to share what I'm learning in the NEMT course if any of it is useful to you. We're running parallel paths.",
+  "cost_to_sender": 0,
+  "expected_response": "information_or_solidarity",
+  "relationship_effect": "neutral_to_positive"
+}
