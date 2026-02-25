@@ -1,0 +1,68 @@
+{
+  "tick": 11,
+  "events": [
+    {
+      "type": "layoff",
+      "source_agent": "insurance_manager",
+      "sector": "retail_auto",
+      "visibility": "local_news",
+      "description": "insurance_manager laid off workers: follow up directly with tom bradley to deliver on the logistics sector introduction i promised when i laid him off. i send tom a specific, actionable message: i am copying him on a brief note to my co"
+    },
+    {
+      "type": "new_business",
+      "source_agent": "bank_manager",
+      "sector": "new_economy",
+      "visibility": "local_news",
+      "description": "New venture: bank_manager \u2014 submit a targeted application to a second financial institution \u2014 a regional cdfi or cooperative lender that has publicly engaged with the economic disruption in the area. the application letter leads"
+    },
+    {
+      "type": "protest",
+      "source_agent": "council_member",
+      "sector": "community",
+      "visibility": "local_news",
+      "description": "Community action: council_member \u2014 issue a brief public statement acknowledging the employment rate at 50% and spending index at 26 as the current baseline the framework is responding to. the statement is not alarmist \u2014 it names the nu"
+    },
+    {
+      "type": "protest",
+      "source_agent": "insurance_manager",
+      "sector": "community",
+      "visibility": "local_news",
+      "description": "Community action: insurance_manager \u2014 re-engage the regional logistics company contact by phone \u2014 frame the call around the roboride residential delivery expansion as a current market development. the pitch is specific: i have been managi"
+    },
+    {
+      "type": "protest",
+      "source_agent": "insurance_agent_priya",
+      "sector": "community",
+      "visibility": "local_news",
+      "description": "Community action: insurance_agent_priya \u2014 submit a fourth job application this tick \u2014 specifically targeting a regional insurtech firm or commercial fleet risk analytics role i have not yet applied to, expanding geographic scope to roles with"
+    },
+    {
+      "type": "protest",
+      "source_agent": "insurance_agent_priya",
+      "sector": "community",
+      "visibility": "local_news",
+      "description": "Community action: insurance_agent_priya \u2014 respond to amir patel's request for a business insurance quote. he reached out at tick 10 asking specifically about business interruption coverage and property liability for his gas station. i am unem"
+    },
+    {
+      "type": "protest",
+      "source_agent": "parking_garage_mgr",
+      "sector": "community",
+      "visibility": "local_news",
+      "description": "Community action: parking_garage_mgr \u2014 do not contact the millfield general facilities director this tick. the thank-you note was sent at tick 9. it has been two ticks. institutional hiring processes at hospitals routinely take 3-6 weeks b"
+    },
+    {
+      "type": "policy",
+      "source_agent": "council_member",
+      "sector": "policy",
+      "visibility": "local_news",
+      "description": "Policy proposal: council_member \u2014 issue a brief public statement acknowledging the employment rate at 50% and spending index at 26 as the current baseline the framework is responding to. the statement is not alarmist \u2014 it names the nu"
+    },
+    {
+      "type": "trend",
+      "source_agent": "",
+      "sector": "education",
+      "visibility": "local_news",
+      "description": "19 people enrolled in retraining this month."
+    }
+  ]
+}

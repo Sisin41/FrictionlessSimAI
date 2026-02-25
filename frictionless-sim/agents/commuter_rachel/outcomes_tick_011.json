@@ -1,0 +1,10 @@
+[
+  {
+    "tick": 11,
+    "action": "routine",
+    "savings_delta": -4817,
+    "stress_delta": 0.0,
+    "employment_changed": false,
+    "narrative": "You routine. Savings dropped by $4,817. "
+  }
+]

@@ -49,6 +49,11 @@
       "tick": 10,
       "summary": "Execute the AWS Solutions Architect Associate exam preparation sprint this tick \u2014 Modules 11 and 12 (review and practice exam simulation), followed by scheduling the actual exam. This tick I complete all remaining course content, take a final full-length timed practice exam under real conditions, and score it. If I hit 850 or above on the practice exam, I schedule the real exam for this tick. If I score below 820, I identify the specific domain gaps and allocate one final week of targeted review before scheduling. The cert does not complete itself \u2014 I name a specific date for the exam and I put it in the calendar. Target: certification complete or exam scheduled with a fixed date by end of this tick.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 11,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -131,6 +136,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Execute the AWS Solutions Architect Associate exam preparation sprint this tick \u2014 Modules 11 and 12 (review and practice exam simulation), followed by scheduling the actual exam. This tick I complete all remaining course content, take a final full-length timed practice exam under real conditions, and score it. If I hit 850 or above on the practice exam, I schedule the real exam for this tick. If I score below 820, I identify the specific domain gaps and allocate one final week of targeted review before scheduling. The cert does not complete itself \u2014 I name a specific date for the exam and I put it in the calendar. Target: certification complete or exam scheduled with a fixed date by end of this tick.. Savings grew by $1,096. "
+    },
+    {
+      "tick": 11,
+      "action": "routine",
+      "savings_delta": 1096,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings grew by $1,096. "
     }
   ],
   "reflections": [

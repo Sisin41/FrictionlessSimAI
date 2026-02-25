@@ -15,7 +15,7 @@
   "unemployment_rate": 0.5,
   "avg_monthly_income": 5400,
   "local_multiplier": 3.5,
-  "local_cascade_sensitivity": 0.9500000000000002,
+  "local_cascade_sensitivity": 1.0,
   "price_index": {
     "housing": 1.0,
     "food": 1.0,
@@ -29,7 +29,7 @@
     "transition_fund_monthly": 0,
     "tax_incentives": false
   },
-  "gini_coefficient": 0.676,
-  "total_income": 53961,
+  "gini_coefficient": 0.69,
+  "total_income": 52078,
   "disrupted_agent_count": 15
 }

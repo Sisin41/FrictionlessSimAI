@@ -1,0 +1,43 @@
+{
+  "tick": 11,
+  "employment_rate": 0.5,
+  "average_stress": 0.252,
+  "average_savings": 44175,
+  "archetype_distribution": {
+    "adapter": 20,
+    "builder": 7,
+    "hustler_becoming_planner": 1,
+    "exiter": 1,
+    "stable": 1
+  },
+  "emotion_distribution": {
+    "determined": 11,
+    "anxious_but_anchored": 1,
+    "focused": 1,
+    "urgent": 1,
+    "urgent-but-clear": 1,
+    "determined \u2014 edged with urgency. Frank's savings are now below $1,000 after another month of burn at $3,176. He is not panicking but he understands the clock is real. Mark Thompson's direct messages this tick are the most valuable intelligence he has received in the simulation. The board presentation succeeded. There is a named pathway forward. He acts on it.": 1,
+    "tense but controlled. Miguel has zero savings and $1,200/month in essentials. The gig work is the only thing keeping him enrolled in the cert program. Carlos reached out to him directly this tick with real information \u2014 fleet operator names, EV module intelligence, honest assessment of the landscape. That is the most valuable thing that has happened to Miguel in the simulation. He is not spiraling. He is executing.": 1,
+    "determined with a current of patient tension. Denise is employed, financially stable ($24,971 in savings after this tick's $361 gain), and running multiple parallel tracks simultaneously. The Millfield General process is at institutional speed \u2014 she is waiting without chasing. The garage transformation memo is in the owner's hands. Two new job applications went out last tick. This tick she continues the campaign while maintaining the discipline of not over-contacting the hospital.": 1,
+    "determined, with a growing awareness of the distance between his situation and the community around him. James's savings grew to roughly $114,000. Employment is intact. The AWS cert is at the exam scheduling or completion stage. The job search infrastructure he named as a gap last tick is being built. He called Howard Liu for the first time \u2014 a connection he has been identifying as important and not making for three ticks. The gap between his security and his neighbors' distress is visible to him and he is sitting with it more consciously than in earlier ticks.": 1,
+    "grounded urgency sharpening into clarity. Rachel is now unemployed \u2014 the outcome from tick 10 confirmed her employment status changed. Savings dropped $4,817 that tick. She has $24,502 remaining. Monthly expenses are $4,817 with zero income. Runway is approximately 5 months. The freelance pipeline she has been building since tick 5 is now not a supplement \u2014 it is the strategy. The Angela Wright referral network and Nicole Washington pilot are the two live opportunities. She closes one of them this tick or opens a new channel.": 1,
+    "determined and methodical": 1,
+    "purposeful and grounded": 1,
+    "determined with underlying flatness": 1,
+    "anxious but functional": 1,
+    "determined and focused": 1,
+    "determined \u2014 holding steady at the finish line": 1,
+    "determined \u2014 focused on converting pipeline to revenue": 1,
+    "hopeful \u2014 waiting for board decision while building forward": 1,
+    "determined \u2014 moving from concept to operating infrastructure": 1,
+    "anxious but functional \u2014 urgency driving action, not panic": 1
+  },
+  "car_ownership_rate": 0.73,
+  "robotaxi_adoption": 0.07,
+  "spending_index": 25,
+  "gini": 0.69,
+  "layoffs": 1,
+  "new_businesses": 1,
+  "protests": 5,
+  "bulletin_events": 9
+}

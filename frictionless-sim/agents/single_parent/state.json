@@ -25,8 +25,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 1.9,
-      "threat_level": 0.84,
+      "runway_months": 0.9,
+      "threat_level": 0.93,
       "monthly_essentials": 2600,
       "health_cost_from_stress": 0
     },
@@ -87,7 +87,7 @@
   "financial": {
     "monthly_income": 0,
     "monthly_expenses": 4630,
-    "savings": 8620,
+    "savings": 3990,
     "debt_total": 47402,
     "credit_score": 623
   },
@@ -120,5 +120,5 @@
   },
   "locality": "millfield",
   "archetype": "stable",
-  "tick_updated": 10
+  "tick_updated": 11
 }

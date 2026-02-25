@@ -1,0 +1,367 @@
+{
+  "ceo_regional_auto": {
+    "name": "ceo_regional_auto",
+    "actions": [
+      "Execute the first payment on the Rick Tanner consulting contract \u2014 $4,500 for mo",
+      "Make direct contact with Stephanie Morris about the closing location property di",
+      "Begin active planning for the three-location service-lane model that will emerge",
+      "Reach out personally to Maria Santos with a brief update on the transition progr"
+    ],
+    "emotion": "determined",
+    "archetype": "adapter",
+    "inner_monologue": "Tick 11 context: Hawkins closure is executing, protests cooling, employment at 50%, spending index at 26. My savings are at approximately $330,000 after another month of $16,487 burn with no income, b"
+  },
+  "bank_manager": {
+    "name": "bank_manager",
+    "actions": [
+      "Follow up with Millfield Community Credit Union on the tick 10 check-in note. If",
+      "Submit a targeted application to a second financial institution \u2014 a regional CDF",
+      "Push the SBA commercial lending coursework from 60% to 75% completion this tick ",
+      "Reach out to Linda Park directly \u2014 not to ask for job leads, but to offer someth"
+    ],
+    "emotion": "determined",
+    "archetype": "adapter",
+    "inner_monologue": "Tick 11: I am 11 months unemployed, savings at roughly $133,000 after another month of $6,961 burn, coursework at 60% complete. The credit union contact from tick 9-10 is either responding or it is no"
+  },
+  "council_member": {
+    "name": "council_member",
+    "actions": [
+      "Continue drafting the 90-day Economic Resilience Framework \u2014 advance from initia",
+      "Meet directly with Lisa Freeman to acknowledge the Financial Triage Navigator sh",
+      "Issue a brief public statement acknowledging the employment rate at 50% and spen",
+      "Advance the municipal economic policy reading \u2014 push the retraining progress fro"
+    ],
+    "emotion": "determined",
+    "archetype": "builder",
+    "inner_monologue": "Tick 11 context: employment at 50%, spending index at 26, Gini at 0.676, protests cooling, Financial Triage Navigator launched by community organizer. My savings are at approximately $49,953 after ano"
+  },
+  "dealership_gm": {
+    "name": "dealership_gm",
+    "actions": [
+      "Confirm receipt of Patricia's first consulting payment and signed contract, and ",
+      "Respond to Stephanie Morris's outreach about the closing location property. As a",
+      "Advance the parallel job search \u2014 move from research to first outreach. I have i",
+      "Have a direct conversation with David Chen \u2014 the former bank manager who has bee"
+    ],
+    "emotion": "determined",
+    "archetype": "adapter",
+    "inner_monologue": "Tick 11 context: consulting contract confirmed, first payment received from Patricia ($4,500), savings at approximately $45,726 after tick 10 burn, runway now extended meaningfully \u2014 at $4,132/month n"
+  },
+  "insurance_manager": {
+    "name": "insurance_manager",
+    "actions": [
+      "Follow up directly with Tom Bradley to deliver on the logistics sector introduct",
+      "Re-engage the regional logistics company contact by phone \u2014 frame the call aroun",
+      "Advance CRMP certification from 30% to 40% completion. The current module \u2014 liab",
+      "Reach out to David Chen directly \u2014 not as a job lead, but as a peer knowledge ex",
+      "Do not submit additional applications to the healthcare system risk division or "
+    ],
+    "emotion": "determined",
+    "archetype": "adapter",
+    "inner_monologue": "Tick 11 context: employment at 50%, spending index at 26, auto insurance policies down to 22 and continuing to fall. My savings are at approximately $76,831 after another $7,382 month of burn \u2014 roughl"
+  },
+  "hr_director": {
+    "name": "hr_director",
+    "actions": [
+      "Respond to Tamika Jefferson's peer-to-peer outreach directly and warmly. Accept ",
+      "Reach out to Maria Santos directly ahead of the emergency task force session. Co",
+      "Advance Wright Workforce Advisory LLC's service offering document from a concept",
+      "Follow up on the Howard Liu placement partnership from tick 10. Confirm the refe",
+      "Do not initiate any new conversations about the post-contract future with Patric"
+    ],
+    "emotion": "determined",
+    "archetype": "builder",
+    "inner_monologue": "Angela is at a transition inflection point. She has: (1) the LLC legally formed, (2) a service methodology built over eleven ticks of real transition intake work, (3) two partnership channels opening "
+  },
+  "salesperson_jake": {
+    "name": "salesperson_jake",
+    "actions": [
+      "Work the floor this week with the RoboRide comparison pitch \u2014 targeted specifica",
+      "Call Rick Tanner directly \u2014 not email, a phone call \u2014 to formally express intere",
+      "Finalize the three-lane contingency map as a decision tree with specific trigger",
+      "Have an honest, brief check-in conversation with Tamika Jefferson. Receive what "
+    ],
+    "emotion": "determined",
+    "archetype": "hustler_becoming_planner",
+    "inner_monologue": "Jake is at L0 survival pressure with $463 in savings, monthly expenses of $5,134, and income of $1,294 against a $5,500 employment commitment that is now in question due to the consolidation. The calc"
+  },
+  "salesperson_tamika": {
+    "name": "salesperson_tamika",
+    "actions": [
+      "Close the restaurant pilot \u2014 this is the highest-priority revenue action this ti",
+      "Connect with Angela Wright directly \u2014 peer-to-peer conversation, not a congratul",
+      "Identify two new outreach targets from the RoboRide delivery ecosystem and send ",
+      "Have a real check-in conversation with Jake Morrison \u2014 honest, not managed. Tell"
+    ],
+    "emotion": "determined",
+    "archetype": "exiter",
+    "inner_monologue": "Tamika is at L0 survival \u2014 savings at $0, $3,177/month in expenses, $350/month from one HVAC client, and a restaurant pilot that has been in pending status for two ticks. The math is binary: she needs"
+  },
+  "mechanic_carlos": {
+    "name": "mechanic_carlos",
+    "actions": [
+      "Continue EVT Level 2 certification \u2014 month seven of ten. This month the coursewo",
+      "Have the real conversation with Sarah Kim \u2014 not the senior-mechanic performance ",
+      "Reach out to Dale Cooper \u2014 the gas station owner who sent a word-of-mouth indica",
+      "Have the full honest conversation with Elena this week \u2014 not the managed version"
+    ],
+    "emotion": "anxious_but_anchored",
+    "archetype": "adapter",
+    "inner_monologue": "Carlos is at L2 Participate with stable employment and a positive financial trajectory ($36,730 in savings, $193/month delta). The certification at 60% completion entering this tick is the central str"
+  },
+  "mechanic_sarah": {
+    "name": "mechanic_sarah",
+    "actions": [
+      "Complete the integrated vehicle systems and end-to-end diagnostic workflows modu",
+      "Receive Carlos Ruiz's direct conversation \u2014 the real version, not the managed se",
+      "Begin concrete post-certification landscape mapping using the contacts Carlos pr",
+      "Follow up with Zoe Martinez \u2014 engage the infrastructure frame honestly. In the Z"
+    ],
+    "emotion": "determined",
+    "archetype": "adapter",
+    "inner_monologue": "Sarah is at L2 Participate with strong fundamentals: employment intact, savings at $17,690 and growing ($249/month delta), certification at 65-70% completion entering this tick, role security at 0.81."
+  },
+  "gas_station_owner": {
+    "name": "gas_station_owner",
+    "actions": [
+      "Receive Stephanie Morris's call about the valuation fee and the property disposi",
+      "Contact Priya Sharma by phone and request a business insurance quote \u2014 specifica",
+      "Follow up with Maria Santos's office or the Millfield Chamber of Commerce to det",
+      "Attend Lisa Freeman's Financial Triage Navigator session at the community center"
+    ],
+    "emotion": "determined",
+    "archetype": "adapter",
+    "inner_monologue": "Tick 11 is a convergence tick for Amir Patel. The 60-day logistics buyer inquiry is approaching its midpoint and Stephanie is calling to confirm the valuation fee and ask for direction. I must pay tha"
+  },
+  "insurance_agent_tom": {
+    "name": "insurance_agent_tom",
+    "actions": [
+      "Activate Linda Park's introductions to fleet and logistics contacts. Linda has c",
+      "Follow up with Priya Sharma on the conversation from tick 10. We spoke honestly ",
+      "Continue retraining coursework \u2014 three dedicated evening sessions this tick on t",
+      "Attend the Financial Triage Navigator session Lisa Freeman is running at the com"
+    ],
+    "emotion": "focused",
+    "archetype": "adapter",
+    "inner_monologue": "Tick 11 is the first full tick in which Tom Bradley is genuinely post-AutoShield with no notice period remaining. The three-track plan is in motion: Track 1 (retraining) requires maintaining the SQL c"
+  },
+  "insurance_agent_priya": {
+    "name": "insurance_agent_priya",
+    "actions": [
+      "Submit a fourth job application this tick \u2014 specifically targeting a regional in",
+      "Receive Tom Bradley's follow-up from the tick 10 conversation \u2014 he is sharing th",
+      "Complete SQL Module 4 \u2014 window functions and subqueries \u2014 this tick with three d",
+      "Respond to Amir Patel's request for a business insurance quote. He reached out a"
+    ],
+    "emotion": "urgent",
+    "archetype": "adapter",
+    "inner_monologue": "Tick 11 is a critical inflection point for Priya Sharma. Savings are approximately $617 (state $3,958 minus $3,341 tick 10 burn) \u2014 she is functionally at zero liquid savings with 2.2 months of runway "
+  },
+  "loan_officer": {
+    "name": "loan_officer",
+    "actions": [
+      "Follow up directly with the new branch manager \u2014 by name, in person \u2014 on the por",
+      "Hold the third Community Center Financial Triage Navigator session with an updat",
+      "Advance NMLS mortgage origination training \u2014 complete module 7 this tick, which ",
+      "Follow up on the Amir Patel EV charger loan application status. I originated thi"
+    ],
+    "emotion": "determined",
+    "archetype": "adapter",
+    "inner_monologue": "Tick 11 for Kevin O'Brien is about closing the institutional ambiguity that has been the central unresolved thread since tick 8. The portfolio expansion decision has been waiting too long. The Amir Pa"
+  },
+  "diner_owner": {
+    "name": "diner_owner",
+    "actions": [
+      "Make a go/no-go decision on the RoboRide delivery partnership path this tick. At",
+      "Call Stephanie Morris today \u2014 regardless of the RoboRide decision outcome. If I ",
+      "Have the conversation with Zoe Martinez when she walks into the diner this tick.",
+      "Attend the Financial Triage Navigator session Lisa Freeman is running at the com"
+    ],
+    "emotion": "urgent-but-clear",
+    "archetype": "adapter",
+    "inner_monologue": "Tick 11 is the decision tick Betty Kowalski has been building toward since tick 8. The 60-day inquiry gate she set for RoboRide terms has effectively closed \u2014 she gave them a final deadline of end-of-"
+  },
+  "driving_instructor": {
+    "name": "driving_instructor",
+    "actions": [
+      "Follow up immediately on Mark Thompson's direct word-of-mouth: the board present",
+      "Contact Lisa Freeman at the Millfield Community Center \u2014 by phone or in person t",
+      "Call city hall and check the status of the $2,500 small business stabilization g",
+      "Frank does not make another visit or call to the district adult education coordi"
+    ],
+    "emotion": "determined \u2014 edged with urgency. Frank's savings are now below $1,000 after another month of burn at $3,176. He is not panicking but he understands the clock is real. Mark Thompson's direct messages this tick are the most valuable intelligence he has received in the simulation. The board presentation succeeded. There is a named pathway forward. He acts on it.",
+    "archetype": "adapter",
+    "inner_monologue": "Frank Russo is operating at a genuine survival threshold. Savings are essentially depleted after eleven months of zero income and $3,176/month in expenses. The two critical parallel tracks \u2014 school di"
+  },
+  "car_wash_worker": {
+    "name": "car_wash_worker",
+    "actions": [
+      "Receive the information Carlos Ruiz is offering this tick \u2014 fleet operator conta",
+      "Attend every scheduled automotive service technician certificate class this mont",
+      "Maximize gig income this month \u2014 DoorDash bike delivery and RoboRide last-mile d",
+      "Respond to Sarah Kim's outreach \u2014 she checked in on Miguel this tick as a peer w"
+    ],
+    "emotion": "tense but controlled. Miguel has zero savings and $1,200/month in essentials. The gig work is the only thing keeping him enrolled in the cert program. Carlos reached out to him directly this tick with real information \u2014 fleet operator names, EV module intelligence, honest assessment of the landscape. That is the most valuable thing that has happened to Miguel in the simulation. He is not spiraling. He is executing.",
+    "archetype": "adapter",
+    "inner_monologue": "Miguel Hernandez is two months from completing a credential that represents eleven months of discipline and sacrifice. His savings are at zero, his income is entirely from gig delivery work, and he ha"
+  },
+  "parking_garage_mgr": {
+    "name": "parking_garage_mgr",
+    "actions": [
+      "Submit one additional targeted job application this tick \u2014 specifically in the m",
+      "Follow up directly with the garage owner about the transformation memo submitted",
+      "Reach out to Grace Okafor \u2014 the Millfield General contact who generated the phon",
+      "Do not contact the Millfield General facilities director this tick. The thank-yo"
+    ],
+    "emotion": "determined with a current of patient tension. Denise is employed, financially stable ($24,971 in savings after this tick's $361 gain), and running multiple parallel tracks simultaneously. The Millfield General process is at institutional speed \u2014 she is waiting without chasing. The garage transformation memo is in the owner's hands. Two new job applications went out last tick. This tick she continues the campaign while maintaining the discipline of not over-contacting the hospital.",
+    "archetype": "builder",
+    "inner_monologue": "Denise Williams is executing a textbook multi-track transition strategy: job search running continuously, garage transformation proposal submitted, network maintained, financial position stable. The d"
+  },
+  "commuter_james": {
+    "name": "commuter_james",
+    "actions": [
+      "Complete the AWS Solutions Architect Associate certification this tick \u2014 take th",
+      "Have the conversation with Howard Liu that has been deferred for three ticks. Ja",
+      "Build the job search infrastructure this tick \u2014 not a search, but the materials ",
+      "Attend the community connection night at the Millfield Community Center this mon"
+    ],
+    "emotion": "determined, with a growing awareness of the distance between his situation and the community around him. James's savings grew to roughly $114,000. Employment is intact. The AWS cert is at the exam scheduling or completion stage. The job search infrastructure he named as a gap last tick is being built. He called Howard Liu for the first time \u2014 a connection he has been identifying as important and not making for three ticks. The gap between his security and his neighbors' distress is visible to him and he is sitting with it more consciously than in earlier ticks.",
+    "archetype": "builder",
+    "inner_monologue": "James Patterson has executed his adaptation plan well: sold the car early, deployed proceeds into the cert, maintained employment, built savings to $114,000. The cert is completing. The job search inf"
+  },
+  "commuter_rachel": {
+    "name": "commuter_rachel",
+    "actions": [
+      "Close the Nicole Washington pilot \u2014 this tick, binary. Rachel has already sent t",
+      "Have the 20-minute referral call with Angela Wright \u2014 the one Rachel proposed an",
+      "Write and publish a second LinkedIn piece this tick \u2014 specifically about marketi",
+      "Begin active job search in parallel with the freelance pipeline \u2014 not as the pri"
+    ],
+    "emotion": "grounded urgency sharpening into clarity. Rachel is now unemployed \u2014 the outcome from tick 10 confirmed her employment status changed. Savings dropped $4,817 that tick. She has $24,502 remaining. Monthly expenses are $4,817 with zero income. Runway is approximately 5 months. The freelance pipeline she has been building since tick 5 is now not a supplement \u2014 it is the strategy. The Angela Wright referral network and Nicole Washington pilot are the two live opportunities. She closes one of them this tick or opens a new channel.",
+    "archetype": "adapter",
+    "inner_monologue": "Rachel Green became unemployed at tick 10 \u2014 a shift that makes this tick's actions materially different from her prior posture. She is no longer a marketing manager building a freelance safety net. Sh"
+  },
+  "truck_owner": {
+    "name": "truck_owner",
+    "actions": [
+      "Complete the bid pipeline audit that was planned last tick and act on its conclu",
+      "Submit two new bids for needs-based residential work this week. Specifically: (1",
+      "Call Carlos Ruiz directly this week. Carlos is making significant changes - he i",
+      "Attend the Community Connection Night at Lisa Freeman's community center. The Fi"
+    ],
+    "emotion": "determined and methodical",
+    "archetype": "adapter",
+    "inner_monologue": "Dale is at L1_STABILIZE with his savings at $43,410 and burning at $4,681/month with zero income. He has roughly 9.3 months of runway before hitting the $20,000 psychological floor, which is more than"
+  },
+  "retiree": {
+    "name": "retiree",
+    "actions": [
+      "Begin the first session of the 'Economic Transition for Older Adults' workshop s",
+      "Visit Betty Kowalski's diner again this week. Dorothy arrives mid-morning, not a",
+      "Have the honest conversation with Robert Jackson that Dorothy has been deferring",
+      "Draft the curriculum outline for the second and third workshop sessions this wee"
+    ],
+    "emotion": "purposeful and grounded",
+    "archetype": "builder",
+    "inner_monologue": "Dorothy is operating at L6_TRANSCEND - her survival and stability needs are fully met and her energy belongs outward. With $119,930 in savings, a monthly surplus of $947, and 53 months of runway, she "
+  },
+  "young_gig_worker": {
+    "name": "young_gig_worker",
+    "actions": [
+      "Follow through on the Betty Kowalski pitch from last tick. Zoe's tick 10 outcome",
+      "Complete the RoboRide delivery partner program registration that was planned las",
+      "Respond to Sarah Kim's outreach with genuine presence. Sarah reached out as a pe",
+      "Continue the Coursera Google Digital Marketing and E-commerce Certificate at cur",
+      "Follow up on the Maria Santos retraining grant application submitted at tick 2. "
+    ],
+    "emotion": "determined with underlying flatness",
+    "archetype": "adapter",
+    "inner_monologue": "Zoe is at L0_SURVIVE with threat level 1.0, zero savings, zero income, and $2,404/month in expenses. Her cert is at 32% completion with about 5 months remaining. She is at the point in the simulation "
+  },
+  "single_parent": {
+    "name": "single_parent",
+    "actions": [
+      "Escalate the employment verification action from last tick. Nicole confirmed she",
+      "File for unemployment insurance immediately. With zero income and $8,620 in savi",
+      "Reach out to Grace Okafor this tick with a specific ask, not just an update. Nic",
+      "Apply to at least two healthcare positions this week - not just at Millfield Gen",
+      "Suspend the RoboRide trial for afternoon school pickups this tick. With savings "
+    ],
+    "emotion": "anxious but functional",
+    "archetype": "stable",
+    "inner_monologue": "Nicole is at L0_SURVIVE with a genuine threat level of 0.84. Her savings dropped to $8,620 and she is unemployed with $4,630/month in expenses. With two dependents, this is a real crisis in slow motio"
+  },
+  "parts_store_owner": {
+    "name": "parts_store_owner",
+    "actions": [
+      "RoboRide close is resolved. Either Howard received a yes (trial order) in which ",
+      "Follow through on the Angela Wright placement partnership that she confirmed in ",
+      "Call Mark Thompson back. He has been trying to reach Howard for multiple ticks a",
+      "Attend Lisa Freeman's Community Connection Night this week. The Financial Triage",
+      "No new cold outreach this tick. The RoboRide channel is resolved (one way or ano"
+    ],
+    "emotion": "determined and focused",
+    "archetype": "adapter",
+    "inner_monologue": "Tick 11 is a closing tick for Howard. His savings are at $33,359 and falling at roughly $2,500/month with the business running at a deficit. He has seven ticks of RoboRide outreach that need to resolv"
+  },
+  "rideshare_driver": {
+    "name": "rideshare_driver",
+    "actions": [
+      "Follow up on NEMT employer conversations with a clear next-step framing. I have ",
+      "Respond to Grace Okafor's message from tick 10. She is using my name as a credib",
+      "Contact the Millfield workforce development office to resolve the Maria Santos r",
+      "Continue driving daytime rideshare shifts at 40 hours per week. No increase, no "
+    ],
+    "emotion": "determined \u2014 holding steady at the finish line",
+    "archetype": "adapter",
+    "inner_monologue": "Tick 11 is the decision resolution tick for a nine-month transition arc. The NEMT certification is complete. The outreach has run through three escalating ticks (8, 9, 10). The tick 10 calls were expl"
+  },
+  "real_estate_agent": {
+    "name": "real_estate_agent",
+    "actions": [
+      "Follow up directly with Rick Tanner's office about the Hawkins dealership dispos",
+      "Call Betty Kowalski to follow up on their tick 10 conversation and specifically ",
+      "Complete the updated auto row property valuation model calibrated to current con",
+      "Respond to Mark Thompson's outreach about the Financial Triage Navigator referra"
+    ],
+    "emotion": "determined \u2014 focused on converting pipeline to revenue",
+    "archetype": "adapter",
+    "inner_monologue": "Tick 11 builds on tick 10's action set with more concrete conversion focus. At tick 10 I made first contact with Tanner's office and confirmed the Amir Patel valuation fee \u2014 this tick I secure the Tan"
+  },
+  "auto_shop_teacher": {
+    "name": "auto_shop_teacher",
+    "actions": [
+      "Contact the board secretary directly to get the decision date for the Millfield ",
+      "Respond to Frank Russo's outreach \u2014 he is planning to call me this week. The wor",
+      "Call Lisa Freeman at the community center to establish the referral pipeline I p",
+      "Continue teaching current auto shop curriculum with full engagement. The board d"
+    ],
+    "emotion": "hopeful \u2014 waiting for board decision while building forward",
+    "archetype": "builder",
+    "inner_monologue": "Tick 11 is an active waiting tick for the board decision, but active waiting is not passive. Mark Thompson has been building this coalition for eleven ticks and every piece of the evidence stack is in"
+  },
+  "community_organizer": {
+    "name": "community_organizer",
+    "actions": [
+      "Run the second week of Financial Triage Navigator sessions at the community cent",
+      "Host Community Connection Night this week with a deliberate structure that ackno",
+      "Follow up with Frank Russo on his outreach to the community center. His word-of-",
+      "Call Nicole Washington directly this tick. I named this as a specific regret in "
+    ],
+    "emotion": "determined \u2014 moving from concept to operating infrastructure",
+    "archetype": "builder",
+    "inner_monologue": "Tick 11 is the operationalization tick for the Financial Triage Navigator. At tick 9 I brought the concept to the task force. At tick 10 I launched it. This tick it becomes a functioning service with "
+  },
+  "uber_driver_2": {
+    "name": "uber_driver_2",
+    "actions": [
+      "Follow up on the NEMT operator calls made at tick 10. I called Millfield Medical",
+      "Drive every high-yield rideshare shift available this week. Morning airport wind",
+      "Send Robert Jackson the update he gave me at tick 10 in reverse: acknowledge tha",
+      "Visit the Millfield Community Center this week during Financial Triage Navigator"
+    ],
+    "emotion": "anxious but functional \u2014 urgency driving action, not panic",
+    "archetype": "adapter",
+    "inner_monologue": "Grace Okafor is in a genuine L0_SURVIVE situation at tick 11: savings functionally zero, income zero from formal employment, $1,787/month in expenses, NEMT certification complete but not yet placed. T"
+  }
+}
