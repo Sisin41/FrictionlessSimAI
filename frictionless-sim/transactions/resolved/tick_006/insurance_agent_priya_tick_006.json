@@ -1,0 +1,15 @@
+{
+  "from": "insurance_agent_priya",
+  "to": "bank_manager",
+  "tick": 6,
+  "type": "peer_outreach",
+  "subtype": "professional_introduction",
+  "value": 0,
+  "description": "Priya Sharma sends a peer-to-peer professional email to David Chen at First Community Bank, offering to compare insurance-sector disruption data (policy cancellation trends, car ownership decline, liability structure shifts from personal to corporate fleet) with his lending-side perspective. She frames it as a stakeholder conversation about Millfield's economic transition, not a job inquiry. She requests a 30-minute call.",
+  "expected_outcome": "David Chen may respond positively \u2014 he has been publicly engaged on community economic transition data and a risk-data peer conversation costs him little. Even if he does not respond immediately, Priya has made herself visible to a financial sector contact in a professional, low-risk way. Long-term: potential reference, informational interview, or data-sharing relationship that strengthens her pivot narrative.",
+  "relationship_effect": {
+    "trust_change": "+0.05 to +0.15 depending on his response",
+    "new_connection": true
+  },
+  "status": "no_counterparty"
+}

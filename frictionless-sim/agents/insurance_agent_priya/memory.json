@@ -29,6 +29,11 @@
       "tick": 5,
       "summary": "Complete Module 3 of the SQL and data visualization course \u2014 joins and aggregation. Set aside two dedicated evening sessions this week. The goal is not just finishing the module; it is building one actual output: a simple query that pulls and aggregates hypothetical commercial fleet incident data, something I can screenshot or describe to Linda as proof of capability, not just enrollment.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 6,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -79,23 +84,31 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Complete Module 3 of the SQL and data visualization course \u2014 joins and aggregation. Set aside two dedicated evening sessions this week. The goal is not just finishing the module; it is building one actual output: a simple query that pulls and aggregates hypothetical commercial fleet incident data, something I can screenshot or describe to Linda as proof of capability, not just enrollment.. Savings dropped by $1,733. "
+    },
+    {
+      "tick": 6,
+      "action": "routine",
+      "savings_delta": -2162,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings dropped by $2,162. "
     }
   ],
   "reflections": [
     {
       "tick": 6,
-      "reflection": "Linda told me the truth. Not in so many words — she is a professional and I am her subordinate and there are things neither of us can say directly — but she told me the truth. She confirmed the personal auto book is terminal. She said her pivot memo to corporate has gone unanswered. She asked me about my own timeline. That is not a manager asking an idle question. That is someone who respects me enough to hand me the signal without spelling it out. I have been living in bargaining — telling myself that if I learned SQL fast enough, if I gave Linda good enough data, if the pivot memo landed right, there would be a seat at the new table with my name on it. Maybe there still is. But I have to stop organizing my decisions around that hope as if it were a fact. I know what the policy numbers say. I built the query. I ran the aggregation. The slope does not bend back. I am 29, I have skills that transfer, I have no dependents, and I have roughly eight or nine months of runway before this becomes an emergency. That is not a crisis. That is an asset — if I use it deliberately.",
-      "identity_shift": "The identity I have been carrying — 'I'm not scared of change' — has been partly performance. I said it, I believed it in the abstract, but I kept deferring the concrete actions that would prove it. The SQL course habit is real now. Three modules done, a working query built, a professional outreach to David Chen drafted and sent. That is not narrating a character. That is living one. The shift I feel this tick is not from comfortable to scared — it is from adaptive in self-description to adaptive in behavior. Those are different things and it took six ticks to close the gap.",
+      "reflection": "Linda told me the truth. Not in so many words \u2014 she is a professional and I am her subordinate and there are things neither of us can say directly \u2014 but she told me the truth. She confirmed the personal auto book is terminal. She said her pivot memo to corporate has gone unanswered. She asked me about my own timeline. That is not a manager asking an idle question. That is someone who respects me enough to hand me the signal without spelling it out. I have been living in bargaining \u2014 telling myself that if I learned SQL fast enough, if I gave Linda good enough data, if the pivot memo landed right, there would be a seat at the new table with my name on it. Maybe there still is. But I have to stop organizing my decisions around that hope as if it were a fact. I know what the policy numbers say. I built the query. I ran the aggregation. The slope does not bend back. I am 29, I have skills that transfer, I have no dependents, and I have roughly eight or nine months of runway before this becomes an emergency. That is not a crisis. That is an asset \u2014 if I use it deliberately.",
+      "identity_shift": "The identity I have been carrying \u2014 'I'm not scared of change' \u2014 has been partly performance. I said it, I believed it in the abstract, but I kept deferring the concrete actions that would prove it. The SQL course habit is real now. Three modules done, a working query built, a professional outreach to David Chen drafted and sent. That is not narrating a character. That is living one. The shift I feel this tick is not from comfortable to scared \u2014 it is from adaptive in self-description to adaptive in behavior. Those are different things and it took six ticks to close the gap.",
       "regrets": [
         "I did not start a quiet job market scan earlier. I had the information by tick 4. I spent tick 5 on a module instead of also looking at the landscape. Both were worth doing. I only did one.",
         "I have not yet formally registered for the $2,500 retraining grant. Maria Santos's office put money on a table and I keep noting it and not picking it up. That is a specific failure of follow-through that I cannot explain away with busyness."
       ],
       "successes": [
-        "Module 3 complete. Not just finished — I built an actual output. A working query on hypothetical commercial fleet incident data. That is a portfolio artifact, not just a checkbox.",
+        "Module 3 complete. Not just finished \u2014 I built an actual output. A working query on hypothetical commercial fleet incident data. That is a portfolio artifact, not just a checkbox.",
         "The Linda one-on-one worked. I gave honest field intelligence, I did not soften it, and she responded by treating me like an adult rather than a number. That is exactly what I wanted from that conversation.",
         "The David Chen outreach is drafted and sent. Peer-to-peer, no desperation signal, real data to offer. It cost me thirty minutes and positions me in a sector-adjacent network I did not have six ticks ago."
       ],
-      "adaptation_notes": "Next two ticks are decision ticks, not preparation ticks. The preparation phase has been productive and necessary — but I am approaching the window where preparation without movement becomes avoidance wearing a productive mask. By tick 8 or 9 I should have: (1) the grant application submitted, (2) at least one informational interview in the data or insurtech space, (3) a clear read on whether Linda has heard back from corporate on the pivot memo. If she has not heard back by tick 8, I begin treating my departure as likely rather than possible. I do not catastrophize. I do not freeze. I move."
+      "adaptation_notes": "Next two ticks are decision ticks, not preparation ticks. The preparation phase has been productive and necessary \u2014 but I am approaching the window where preparation without movement becomes avoidance wearing a productive mask. By tick 8 or 9 I should have: (1) the grant application submitted, (2) at least one informational interview in the data or insurtech space, (3) a clear read on whether Linda has heard back from corporate on the pivot memo. If she has not heard back by tick 8, I begin treating my departure as likely rather than possible. I do not catastrophize. I do not freeze. I move."
     }
   ],
   "regrets": [],

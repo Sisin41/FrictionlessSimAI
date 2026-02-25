@@ -29,6 +29,11 @@
       "tick": 5,
       "summary": "Immediately reactivate and maximize gig economy income streams. Sign up for every available platform operating in Millfield: DoorDash (already have account), add Uber Eats and Instacart this week. Commit to 25-30 hours of gig shifts per week on top of any cafe hours available. This is triage. The Coursera cert continues in whatever hours remain, but income comes first.",
       "emotional_state": "anxious"
+    },
+    {
+      "tick": 6,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -79,25 +84,33 @@
       "stress_delta": 0.05,
       "employment_changed": false,
       "narrative": "You Immediately reactivate and maximize gig economy income streams. Sign up for every available platform operating in Millfield: DoorDash (already have account), add Uber Eats and Instacart this week. Commit to 25-30 hours of gig shifts per week on top of any cafe hours available. This is triage. The Coursera cert continues in whatever hours remain, but income comes first.. Savings dropped by $1,188. "
+    },
+    {
+      "tick": 6,
+      "action": "routine",
+      "savings_delta": 0,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. "
     }
   ],
   "reflections": [
     {
       "tick": 6,
-      "reflection": "Six ticks in and I am unemployed, my savings are negative trending, and I am delivering burritos on a bicycle at 9pm while watching robotaxis glide past me. There is a dark humor in that if I let myself see it. I told myself I was ahead of this disruption — I did not own a car, I adapted fast, I was the person who made the TikTok about living car-free before it was a thing anyone was doing. And all of that was true. But 'not owning a car' turned out to be one adaptation in a world that needed ten. I was right about transportation. I was wrong about the rest of it. The cafe lost my hours. The gig economy is still there but it is brutal and it is not covering my bills. The Coursera cert is 22% done with six months to go. Six months is a long time when savings are bleeding at over a thousand dollars a month. What I did not see coming was the speed of the ripple effect — it is not just cars that are disrupted, it is the whole economy of people who worked around cars and the spending those people did at places like where I worked. I am not a special case. I am one of at least 12 people enrolled in retraining right now. That is something. I am not failing in isolation.",
-      "identity_shift": "I used to think of myself as someone who was already adapted — like I had done the hard work of letting go of old patterns before the disruption arrived. That identity gave me a lot of comfort and some real confidence. I am revising it. Being adapted to one thing (car-free living) does not mean you are adapted to everything downstream of that thing. I am not the finished version of a resilient person. I am mid-process. That is actually okay — it just means I need to stop coasting on the version of myself from tick 1 and keep moving. The social media hustle idea feels like the first genuinely new thing I have tried rather than just intensifying what already existed.",
+      "reflection": "Six ticks in and I am unemployed, my savings are negative trending, and I am delivering burritos on a bicycle at 9pm while watching robotaxis glide past me. There is a dark humor in that if I let myself see it. I told myself I was ahead of this disruption \u2014 I did not own a car, I adapted fast, I was the person who made the TikTok about living car-free before it was a thing anyone was doing. And all of that was true. But 'not owning a car' turned out to be one adaptation in a world that needed ten. I was right about transportation. I was wrong about the rest of it. The cafe lost my hours. The gig economy is still there but it is brutal and it is not covering my bills. The Coursera cert is 22% done with six months to go. Six months is a long time when savings are bleeding at over a thousand dollars a month. What I did not see coming was the speed of the ripple effect \u2014 it is not just cars that are disrupted, it is the whole economy of people who worked around cars and the spending those people did at places like where I worked. I am not a special case. I am one of at least 12 people enrolled in retraining right now. That is something. I am not failing in isolation.",
+      "identity_shift": "I used to think of myself as someone who was already adapted \u2014 like I had done the hard work of letting go of old patterns before the disruption arrived. That identity gave me a lot of comfort and some real confidence. I am revising it. Being adapted to one thing (car-free living) does not mean you are adapted to everything downstream of that thing. I am not the finished version of a resilient person. I am mid-process. That is actually okay \u2014 it just means I need to stop coasting on the version of myself from tick 1 and keep moving. The social media hustle idea feels like the first genuinely new thing I have tried rather than just intensifying what already existed.",
       "regrets": [
         "I waited too long to diversify income away from the cafe. I knew the service sector was exposed and I still let myself depend on one job as the anchor.",
-        "I applied for the grant in tick 2 and have not followed up since. Four ticks of silence on $2,500 that could change my math — that is on me. I should have called the week after I submitted.",
+        "I applied for the grant in tick 2 and have not followed up since. Four ticks of silence on $2,500 that could change my math \u2014 that is on me. I should have called the week after I submitted.",
         "The TikTok at tick 1 was emotionally true but strategically it spent energy on self-expression when I could have been doing something that paid. I do not regret the post exactly. I regret not doing something income-generating the same week."
       ],
       "successes": [
         "The Coursera cert is real and it is progressing. 22% in two months while managing a financial crisis is not nothing.",
-        "Miguel reached out to me directly — twice. That does not happen if I have not been showing up and staying in the conversation. The relationship is alive.",
+        "Miguel reached out to me directly \u2014 twice. That does not happen if I have not been showing up and staying in the conversation. The relationship is alive.",
         "I got on three gig platforms fast when I needed to. The mobilization was real even if the income math still does not work perfectly.",
         "I have not spiraled. The stress is there but I am still making decisions rather than freezing."
       ],
-      "adaptation_notes": "The move I need to make right now is not doing more of the same harder — it is finding a second income stream that uses what I already know. Social media management at $150/month per local client is small but it is immediate and it is mine in a way gig work is not. The cert is the medium-term bet. The gig apps are the floor that keeps the lights on. The social media work could be the thing in between — something that starts generating money now and also builds the portfolio I will eventually need to land a real digital marketing job. I need to stop waiting for the cert to finish before acting like I have skills worth paying for. I have them now. The question is whether I will use them."
+      "adaptation_notes": "The move I need to make right now is not doing more of the same harder \u2014 it is finding a second income stream that uses what I already know. Social media management at $150/month per local client is small but it is immediate and it is mine in a way gig work is not. The cert is the medium-term bet. The gig apps are the floor that keeps the lights on. The social media work could be the thing in between \u2014 something that starts generating money now and also builds the portfolio I will eventually need to land a real digital marketing job. I need to stop waiting for the cert to finish before acting like I have skills worth paying for. I have them now. The question is whether I will use them."
     }
   ],
   "regrets": [],

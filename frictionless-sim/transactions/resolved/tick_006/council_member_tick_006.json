@@ -1,0 +1,14 @@
+{
+  "tick": 6,
+  "from_agent": "council_member",
+  "to_agent": "ceo_regional_auto",
+  "type": "ASSOCIATION",
+  "description": "Maria Santos responds to Patricia Hawkins's direct outreach and proposes a coordination meeting focused on workforce transition handoff: connecting workers Patricia is laying off to the municipal retraining program, the $2,500 grant, and David Chen's small-dollar loan products. No political cover offered for the layoffs. Practical, concrete collaboration on getting affected workers into the pipeline quickly.",
+  "resources": {
+    "type": "coordination",
+    "direction": "both",
+    "amount": 0,
+    "detail": "No financial transfer. Maria offers access to the retraining pipeline and the 'next steps' document for laid-off workers. Patricia offers access to her outgoing workforce population \u2014 the exact people Maria's programs need to reach."
+  },
+  "status": "no_counterparty"
+}

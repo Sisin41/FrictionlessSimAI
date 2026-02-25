@@ -29,6 +29,11 @@
       "tick": 5,
       "summary": "Formally adopt RoboRide as my primary transportation method going forward. Delete the mental category of 'trial' and begin treating robotaxi as my normal mode of getting around Millfield. Book a ride this week to the medical clinic for my routine blood pressure check \u2014 the appointment I would have previously driven to \u2014 as a deliberate first act of the new normal.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 6,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -79,22 +84,30 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Formally adopt RoboRide as my primary transportation method going forward. Delete the mental category of 'trial' and begin treating robotaxi as my normal mode of getting around Millfield. Book a ride this week to the medical clinic for my routine blood pressure check \u2014 the appointment I would have previously driven to \u2014 as a deliberate first act of the new normal.. Savings grew by $473. "
+    },
+    {
+      "tick": 6,
+      "action": "routine",
+      "savings_delta": 473,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings grew by $473. "
     }
   ],
   "reflections": [
     {
       "tick": 6,
-      "reflection": "Five ticks ago I was sitting with a fear I had been carrying for years — that if I let go of the car, I would be letting go of the thing that stood between me and helplessness at 2am. That fear was real. I did not dismiss it; I examined it. I downloaded an app. I took a test ride. I called my insurance agent. I confirmed that RoboRide runs all night. And then I let it go. What surprises me now is not that I adapted — I always thought I could adapt — but how much room that fear was taking up. I look out now and see Millfield in genuine economic pain. Unemployment up. The spending index at 48. People I know by name are being laid off or closing businesses. Patricia Hawkins laid off people her father knew. Miguel is trying to retrain. Betty's diner is on auto row, which is ground zero. I had five ticks of internal work to do. That work is done. Now I look outward.",
+      "reflection": "Five ticks ago I was sitting with a fear I had been carrying for years \u2014 that if I let go of the car, I would be letting go of the thing that stood between me and helplessness at 2am. That fear was real. I did not dismiss it; I examined it. I downloaded an app. I took a test ride. I called my insurance agent. I confirmed that RoboRide runs all night. And then I let it go. What surprises me now is not that I adapted \u2014 I always thought I could adapt \u2014 but how much room that fear was taking up. I look out now and see Millfield in genuine economic pain. Unemployment up. The spending index at 48. People I know by name are being laid off or closing businesses. Patricia Hawkins laid off people her father knew. Miguel is trying to retrain. Betty's diner is on auto row, which is ground zero. I had five ticks of internal work to do. That work is done. Now I look outward.",
       "identity_shift": "I no longer think of myself as a car owner who is experimenting with alternatives. I am a car-free person in a disrupted town who happens to have stable income, savings, relevant skills, and time. The 'retired' identity used to feel like it meant 'finished.' It does not feel that way now. I am not finished. I am available.",
       "regrets": [
         "I spent tick 3 in pure routine when I could have been building something earlier. The disruption was already visible. I was watching it but not yet engaging it.",
         "I have not yet had a real conversation with Robert Jackson, the rideshare driver in my contacts. He is being displaced by the very service I now depend on. I owe him at least an honest acknowledgment of that, even if there is nothing I can practically do about it."
       ],
       "successes": [
-        "I took the car-free transition seriously and did it properly — not impulsively, not in denial, but by gathering real information and testing real assumptions. The 2am worry was addressed on its actual terms, not papered over.",
+        "I took the car-free transition seriously and did it properly \u2014 not impulsively, not in denial, but by gathering real information and testing real assumptions. The 2am worry was addressed on its actual terms, not papered over.",
         "I have maintained my library volunteer work through the disruption. That continuity matters. It kept me present in the community at the exact moment the community needed presence."
       ],
-      "adaptation_notes": "My archetype is 'adapter.' I now believe this is accurate, but the mechanism is slower than the word implies. I adapted not by being naturally flexible but by moving through genuine discomfort one small step at a time. The lesson I want to carry forward: the slowness is not weakness. It is how I verify that the adaptation is real and not just performance. What I need to watch: my normalcy bias is 0.79. High. That means I will tend to see the current state — my settled, car-free, volunteer life — as the new normal and may underrespond to the next disruption. I should deliberately ask, once a month, what I am not noticing."
+      "adaptation_notes": "My archetype is 'adapter.' I now believe this is accurate, but the mechanism is slower than the word implies. I adapted not by being naturally flexible but by moving through genuine discomfort one small step at a time. The lesson I want to carry forward: the slowness is not weakness. It is how I verify that the adaptation is real and not just performance. What I need to watch: my normalcy bias is 0.79. High. That means I will tend to see the current state \u2014 my settled, car-free, volunteer life \u2014 as the new normal and may underrespond to the next disruption. I should deliberately ask, once a month, what I am not noticing."
     }
   ],
   "regrets": [],

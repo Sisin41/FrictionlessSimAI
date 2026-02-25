@@ -29,6 +29,11 @@
       "tick": 5,
       "summary": "Follow up with Mark Thompson directly \u2014 not a second pitch, but a specific ask. Frank calls Mark and asks one concrete question: who runs the district's adult continuing education intake process, and is there a name and a phone number Mark can give him? Frank is not waiting for a formal co-sponsorship decision. He is separating the relationship ask from the bureaucratic ask so he can start working both channels simultaneously. He keeps the call short, specific, and collegial.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 6,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -79,15 +84,23 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Follow up with Mark Thompson directly \u2014 not a second pitch, but a specific ask. Frank calls Mark and asks one concrete question: who runs the district's adult continuing education intake process, and is there a name and a phone number Mark can give him? Frank is not waiting for a formal co-sponsorship decision. He is separating the relationship ask from the bureaucratic ask so he can start working both channels simultaneously. He keeps the call short, specific, and collegial.. Savings dropped by $3,176. "
+    },
+    {
+      "tick": 6,
+      "action": "routine",
+      "savings_delta": -3176,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings dropped by $3,176. "
     }
   ],
   "reflections": [
     {
       "tick": 6,
-      "reflection": "I have been unemployed for five ticks. I am not in denial about that anymore. The school is not coming back — not in the form it was. Robotaxis are on the streets. Seven percent of people are using them. The number will go up, not down. I have seen enough disruptions to know the difference between a dip and a structural change, and this is a structural change. I reached out to Mark Thompson two ticks ago and he responded like a peer, not like someone doing me a favor. That matters. He floated the AV literacy angle and it is a better idea than what I came in with. A driving school that teaches people how to coexist with autonomous vehicles — when to trust the system, when to override it, how to stay safe in a world where the car is sometimes driving itself — that is not a dying trade. That might actually be a growing one. I do not know yet. But it is the first real idea I have had that feels like it belongs to the future instead of the past.",
-      "identity_shift": "I am starting to let go of the label 'driving instructor.' Not the skills — never the skills. But the label. The right column on the legal pad did not say driving anywhere. It said teaching. It said reading anxiety in a student. It said building confidence in someone who wants to quit. I can do those things without a car in front of me. I am not sure what to call myself yet, but I am less sure that 'driving school owner' is the whole answer.",
+      "reflection": "I have been unemployed for five ticks. I am not in denial about that anymore. The school is not coming back \u2014 not in the form it was. Robotaxis are on the streets. Seven percent of people are using them. The number will go up, not down. I have seen enough disruptions to know the difference between a dip and a structural change, and this is a structural change. I reached out to Mark Thompson two ticks ago and he responded like a peer, not like someone doing me a favor. That matters. He floated the AV literacy angle and it is a better idea than what I came in with. A driving school that teaches people how to coexist with autonomous vehicles \u2014 when to trust the system, when to override it, how to stay safe in a world where the car is sometimes driving itself \u2014 that is not a dying trade. That might actually be a growing one. I do not know yet. But it is the first real idea I have had that feels like it belongs to the future instead of the past.",
+      "identity_shift": "I am starting to let go of the label 'driving instructor.' Not the skills \u2014 never the skills. But the label. The right column on the legal pad did not say driving anywhere. It said teaching. It said reading anxiety in a student. It said building confidence in someone who wants to quit. I can do those things without a car in front of me. I am not sure what to call myself yet, but I am less sure that 'driving school owner' is the whole answer.",
       "regrets": [
-        "I spent ticks 2 and 3 doing nothing — I called it 'routine' but it was avoidance dressed up as steadiness. I told myself I was waiting to see how things developed. I was not. I was scared and I was stalling.",
+        "I spent ticks 2 and 3 doing nothing \u2014 I called it 'routine' but it was avoidance dressed up as steadiness. I told myself I was waiting to see how things developed. I was not. I was scared and I was stalling.",
         "I should have reached out to Mark Thompson in tick 1, when I wrote the legal pad columns. I saw what was on that right column. I just was not ready to act on it yet."
       ],
       "successes": [
@@ -95,7 +108,7 @@
         "In tick 5 I made a specific ask instead of waiting for him to offer something. That is how you move things forward. Specific asks.",
         "I did not spend money I do not have. I have $16,532 in savings. I am watching it, but I have not panicked into something stupid."
       ],
-      "adaptation_notes": "The AV literacy curriculum angle changes the pitch significantly. Instead of 'career transitions teacher' — which is generic and competes with everything — I am now 'the person who can teach safety in a world where cars drive themselves.' That is specific. That is timely. That is something the school district cannot staff from their existing faculty. I need to develop three rough modules before I meet with the adult ed intake coordinator. I also need to keep an eye on the community situation. Twelve people enrolled in retraining. Two people sold their cars. The disruption is not abstract anymore — it is people I probably know. I am not sure what I can do about that except show up, which is something I have always known how to do."
+      "adaptation_notes": "The AV literacy curriculum angle changes the pitch significantly. Instead of 'career transitions teacher' \u2014 which is generic and competes with everything \u2014 I am now 'the person who can teach safety in a world where cars drive themselves.' That is specific. That is timely. That is something the school district cannot staff from their existing faculty. I need to develop three rough modules before I meet with the adult ed intake coordinator. I also need to keep an eye on the community situation. Twelve people enrolled in retraining. Two people sold their cars. The disruption is not abstract anymore \u2014 it is people I probably know. I am not sure what I can do about that except show up, which is something I have always known how to do."
     }
   ],
   "regrets": [],

@@ -75,7 +75,7 @@
       "availability_heuristic": 0.55,
       "social_proof_sensitivity": 0.6
     },
-    "sentiment": "anxious"
+    "sentiment": "neutral"
   },
   "psychological": {
     "stress_level": 0.19,
@@ -122,5 +122,5 @@
   },
   "locality": "millfield",
   "archetype": "adapter",
-  "tick_updated": 5
+  "tick_updated": 6
 }

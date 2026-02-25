@@ -1,0 +1,21 @@
+{
+  "tick": 6,
+  "from_agent": "real_estate_agent",
+  "from_name": "Stephanie Morris",
+  "to_agent": "diner_owner",
+  "to_name": "Betty Kowalski",
+  "transaction_type": "SIGNAL",
+  "description": "Stephanie calls Betty directly to exchange intelligence: Stephanie shares her updated market valuation framing (spending index at 48, city's 10% grant threshold confirmation that auto row is formally distressed) and asks Betty what she is hearing from auto row property owners about their hold-or-sell timelines. Stephanie makes clear \u2014 without a direct solicitation \u2014 that she is the right resource when auto row owners start asking real estate questions. Relationship reinforcement at trust 0.57.",
+  "resources": {
+    "type": "reputation",
+    "direction": "both",
+    "amount": 0,
+    "detail": "Mutual professional intelligence exchange \u2014 no cash transfer"
+  },
+  "expected_outcome": {
+    "from_agent_effect": "Gains ground-level auto row business owner sentiment data; reinforces positioning as the market analyst most closely tracking auto row property values; keeps referral channel with Betty warm",
+    "to_agent_effect": "Receives updated market valuation framing and confirmation that the city policy action around auto row is being tracked by real estate professionals; may benefit from knowing a trusted agent is available when diner's own real estate situation requires advice"
+  },
+  "contingency": "If Betty is unavailable or conversation is brief, Stephanie leaves a voicemail referencing the spending index data and the council's 10% threshold decision, and follows up by text.",
+  "status": "no_counterparty"
+}

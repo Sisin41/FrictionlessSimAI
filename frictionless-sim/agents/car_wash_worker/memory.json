@@ -34,6 +34,11 @@
       "tick": 6,
       "summary": "Continue automotive service technician certificate program. Reach out to Mark Thompson at Millfield High to open a professional bridge around EV curriculum. Carlos and Sarah both independently pointed to him \u2014 that is a convergent signal I cannot ignore. Keep finances flat, no new commitments.",
       "emotional_state": "Focused. A little more alert. The contraction is real now \u2014 I can see it in the unemployment numbers, in the spending data, in who around me is scrambling. But I am not scrambling. I am building."
+    },
+    {
+      "tick": 6,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -84,6 +89,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Stay enrolled and attend automotive service technician certificate classes this month. No skipping. Program is at 12% completion \u2014 keep the streak alive and push toward 20%.. Savings grew by $131. "
+    },
+    {
+      "tick": 6,
+      "action": "routine",
+      "savings_delta": 131,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings grew by $131. "
     }
   ],
   "reflections": [

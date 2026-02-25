@@ -1,0 +1,27 @@
+{
+  "from": "insurance_agent_tom",
+  "to": "insurance_agent_priya",
+  "tick": 6,
+  "type": "social_interaction",
+  "subtype": "accept_outreach_honestly",
+  "description": "Tom Bradley responds to Priya Sharma's direct outreach. Accepts the one-on-one conversation she requested. Comes in without a managed performance \u2014 acknowledges he is watching the same policy-count data she is, asks what she is actually thinking about doing, and listens. This is the first genuine peer-to-peer exchange between them rather than a managed professional transaction.",
+  "expected_effects": {
+    "on_sender": {
+      "trust_delta_priya": "+0.05 to +0.10",
+      "stress_delta": "slight_reduction \u2014 releasing the performance posture costs less energy than maintaining it",
+      "agency_delta": "small_positive \u2014 taking an honest action after several ticks of managed inaction"
+    },
+    "on_recipient": {
+      "trust_delta_tom": "neutral to positive \u2014 Priya gets the honest conversation she signaled she wanted",
+      "information_shared": "Tom's real assessment of his own position and timeline concerns"
+    }
+  },
+  "financial_component": null,
+  "grant_application": {
+    "target": "maria_santos_council_office",
+    "program": "workforce_retraining_grant",
+    "amount_requested": 2500,
+    "status": "submitted_this_tick"
+  },
+  "status": "no_counterparty"
+}

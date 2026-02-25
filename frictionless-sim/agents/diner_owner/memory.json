@@ -29,6 +29,11 @@
       "tick": 5,
       "summary": "Follow up directly with Maria Santos's office on the pending grant application submitted at tick 2. Call or visit in person. Ask for a status update and a realistic timeline. If expedited disbursement was discussed at the task force meeting, ask whether my application qualifies. The purpose is twofold: get information I need to plan, and remind them I exist and am waiting.",
       "emotional_state": "anxious"
+    },
+    {
+      "tick": 6,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -79,22 +84,30 @@
       "stress_delta": 0.25,
       "employment_changed": true,
       "narrative": "You Follow up directly with Maria Santos's office on the pending grant application submitted at tick 2. Call or visit in person. Ask for a status update and a realistic timeline. If expedited disbursement was discussed at the task force meeting, ask whether my application qualifies. The purpose is twofold: get information I need to plan, and remind them I exist and am waiting.. Savings dropped by $4,268. Employment status changed to unemployed. "
+    },
+    {
+      "tick": 6,
+      "action": "routine",
+      "savings_delta": -4268,
+      "stress_delta": 0.2,
+      "employment_changed": false,
+      "narrative": "You routine. Savings dropped by $4,268. "
     }
   ],
   "reflections": [
     {
       "tick": 6,
-      "reflection": "Six ticks in and I am looking at a spending index of 48, an unemployment rate climbing past 23%, and a savings account that just lost $4,268 in a single month. The diner is technically still open but 'employed' no longer describes what I am. The grant application I filed four ticks ago has not come through. Following up with Maria Santos's office cost me a month of savings and my employment classification. I do not fully understand why, but I know what it means: the system is not going to catch me gently. I have been operating in denial — not the weeping kind but the quiet kind, the kind that keeps you moving through familiar motions while the math gets worse. The spending index at 48 is the number that finally broke through. That is not a slow quarter. That is a structural change. I have to start treating it as one.",
+      "reflection": "Six ticks in and I am looking at a spending index of 48, an unemployment rate climbing past 23%, and a savings account that just lost $4,268 in a single month. The diner is technically still open but 'employed' no longer describes what I am. The grant application I filed four ticks ago has not come through. Following up with Maria Santos's office cost me a month of savings and my employment classification. I do not fully understand why, but I know what it means: the system is not going to catch me gently. I have been operating in denial \u2014 not the weeping kind but the quiet kind, the kind that keeps you moving through familiar motions while the math gets worse. The spending index at 48 is the number that finally broke through. That is not a slow quarter. That is a structural change. I have to start treating it as one.",
       "identity_shift": "I came into this as the anchor. Thirty years at that counter meant I was the one who stayed while others came and went. That identity is under pressure now. I am not the anchor if the harbor empties out. I am starting to think of myself less as 'owner of the Auto Row Diner' and more as 'someone with a commercial kitchen, a location, and a food service skill set that could be deployed differently.' That shift is small and it hurts. But it is more honest than what I was holding onto.",
       "regrets": [
-        "I did not start the contingency math sooner. I was waiting for permission — a bad grant outcome, a specific revenue number, something official — before I would let myself seriously plan for a different scenario. That cost me time I did not have to waste.",
-        "I have not talked to Carlos Ruiz yet. He is pivoting — I can tell from the word-of-mouth — and he understands this neighborhood's mechanics better than almost anyone. I should have bought him lunch two ticks ago."
+        "I did not start the contingency math sooner. I was waiting for permission \u2014 a bad grant outcome, a specific revenue number, something official \u2014 before I would let myself seriously plan for a different scenario. That cost me time I did not have to waste.",
+        "I have not talked to Carlos Ruiz yet. He is pivoting \u2014 I can tell from the word-of-mouth \u2014 and he understands this neighborhood's mechanics better than almost anyone. I should have bought him lunch two ticks ago."
       ],
       "successes": [
         "I applied for the grant at tick 2 and I showed up at the task force meeting at tick 4. Neither of those things has paid off yet but they were the right calls. I was in the room. I am on record. That matters.",
-        "I am still here. The diner is still open. Savings are down but not gone. I have not made any panicked decisions — no fire sales, no dramatic pivots I cannot sustain. The caution that sometimes looks like denial has also kept me from making things worse."
+        "I am still here. The diner is still open. Savings are down but not gone. I have not made any panicked decisions \u2014 no fire sales, no dramatic pivots I cannot sustain. The caution that sometimes looks like denial has also kept me from making things worse."
       ],
-      "adaptation_notes": "The meeting with Stephanie Morris is the right next move — not because I trust her entirely but because she is looking at this market from the outside and I need that view. I have to get comfortable hearing information I do not want to hear. I also need to do the triage math privately: what does it cost to stay open at 40% revenue, to temporarily close, to sublet the kitchen, to convert part of the space. Not deciding — knowing. The difference between having options and being out of runway is whether I do that math now or later. I am doing it now."
+      "adaptation_notes": "The meeting with Stephanie Morris is the right next move \u2014 not because I trust her entirely but because she is looking at this market from the outside and I need that view. I have to get comfortable hearing information I do not want to hear. I also need to do the triage math privately: what does it cost to stay open at 40% revenue, to temporarily close, to sublet the kitchen, to convert part of the space. Not deciding \u2014 knowing. The difference between having options and being out of runway is whether I do that math now or later. I am doing it now."
     }
   ],
   "regrets": [],

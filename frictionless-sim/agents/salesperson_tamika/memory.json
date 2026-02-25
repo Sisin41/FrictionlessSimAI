@@ -29,6 +29,11 @@
       "tick": 5,
       "summary": "Signal to Angela Wright, HR, that I am aware of the $12,000 stay bonus and want to formally register my intent to remain through the qualifying period. Frame it as professional, not desperate \u2014 ask what the timeline and conditions are. Get it in writing if possible. This is strategic: I need the bonus clock running and I need HR to have my name on the 'staying' list, not the 'flight risk' list.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 6,
+      "summary": "Send the one-page freelance agreement to my strongest warm lead \u2014 the HVAC contractor based on engagement signals. Terms: $350/month retainer, three-month minimum commitment, two social media posts per week plus one short-form video per month. This is not another follow-up message. The email subject is 'Agreement attached \u2014 let me know by Friday.' I am not leaving it open-ended. If they say no, I immediately pivot to the next warmest lead \u2014 the restaurant. The goal is one signed agreement by end of this tick. The model is proven or disproven this month.",
+      "emotional_state": "focused and slightly pressured \u2014 the urgency is no longer low-level"
     }
   ],
   "past_outcomes": [
@@ -79,23 +84,31 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Signal to Angela Wright, HR, that I am aware of the $12,000 stay bonus and want to formally register my intent to remain through the qualifying period. Frame it as professional, not desperate \u2014 ask what the timeline and conditions are. Get it in writing if possible. This is strategic: I need the bonus clock running and I need HR to have my name on the 'staying' list, not the 'flight risk' list.. Savings dropped by $640. "
+    },
+    {
+      "tick": 6,
+      "action": "Send the one-page freelance agreement to my strongest warm lead \u2014 the HVAC contractor based on engagement signals. Terms: $350/month retainer, three-month minimum commitment, two social media posts per week plus one short-form video per month. This is not another follow-up message. The email subject is 'Agreement attached \u2014 let me know by Friday.' I am not leaving it open-ended. If they say no, I immediately pivot to the next warmest lead \u2014 the restaurant. The goal is one signed agreement by end of this tick. The model is proven or disproven this month.",
+      "savings_delta": -1173,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Send the one-page freelance agreement to my strongest warm lead \u2014 the HVAC contractor based on engagement signals. Terms: $350/month retainer, three-month minimum commitment, two social media posts per week plus one short-form video per month. This is not another follow-up message. The email subject is 'Agreement attached \u2014 let me know by Friday.' I am not leaving it open-ended. If they say no, I immediately pivot to the next warmest lead \u2014 the restaurant. The goal is one signed agreement by end of this tick. The model is proven or disproven this month.. Savings dropped by $1,173. "
     }
   ],
   "reflections": [
     {
       "tick": 6,
-      "reflection": "Six ticks in and I still don't have a single paying freelance client. I've done the skills audit, built the profiles, done cold outreach, followed up, posted content, and I have exactly $0 in freelance income to show for it. Meanwhile savings have dropped two ticks in a row and the auto sector index is at 79 and falling. I am not failing — the pipeline is real and the signals are warm — but I have been confusing activity with progress. Every tick I've told myself I'm building toward the close. Tick 6 is the close. There is no more 'building toward.' The one-page agreement goes out today. The thing that has actually worked is the stay bonus play — registering with Angela was the right move and it was free. That $12,000 is the bridge I need whether the freelance income lands or doesn't. The dual-track strategy is correct. The execution on the freelance side has been too slow.",
-      "identity_shift": "I've been calling myself an 'exiter' since tick 0 but the honest truth is I've been an 'almost-exiter.' The identity of someone who is planning to leave and the identity of someone who is actually leaving are not the same thing. Tick 6 is where I find out which one I am. If I close the client, I have proof of the model and proof of myself. If I don't close the client, I need to do serious recalibration — not of the plan, but of my willingness to actually execute under pressure.",
+      "reflection": "Six ticks in and I still don't have a single paying freelance client. I've done the skills audit, built the profiles, done cold outreach, followed up, posted content, and I have exactly $0 in freelance income to show for it. Meanwhile savings have dropped two ticks in a row and the auto sector index is at 79 and falling. I am not failing \u2014 the pipeline is real and the signals are warm \u2014 but I have been confusing activity with progress. Every tick I've told myself I'm building toward the close. Tick 6 is the close. There is no more 'building toward.' The one-page agreement goes out today. The thing that has actually worked is the stay bonus play \u2014 registering with Angela was the right move and it was free. That $12,000 is the bridge I need whether the freelance income lands or doesn't. The dual-track strategy is correct. The execution on the freelance side has been too slow.",
+      "identity_shift": "I've been calling myself an 'exiter' since tick 0 but the honest truth is I've been an 'almost-exiter.' The identity of someone who is planning to leave and the identity of someone who is actually leaving are not the same thing. Tick 6 is where I find out which one I am. If I close the client, I have proof of the model and proof of myself. If I don't close the client, I need to do serious recalibration \u2014 not of the plan, but of my willingness to actually execute under pressure.",
       "regrets": [
         "I should have sent the one-page agreement in tick 4 or tick 5, not waited for the simulation to name me directly in the inbox.",
-        "The tick 3 'routine' is a gap I don't fully understand — something stalled and I didn't document why. That loss of momentum cost me time I don't have."
+        "The tick 3 'routine' is a gap I don't fully understand \u2014 something stalled and I didn't document why. That loss of momentum cost me time I don't have."
       ],
       "successes": [
-        "The stay bonus registration with Angela was the right move at the right moment — I got my name on the list before the consolidation assessment was written, and it cost me nothing.",
-        "The cold outreach strategy in tick 2 was correct — specific, non-flattering, individual messages to eight targeted businesses. The pipeline it generated is real even if the close has been slow.",
+        "The stay bonus registration with Angela was the right move at the right moment \u2014 I got my name on the list before the consolidation assessment was written, and it cost me nothing.",
+        "The cold outreach strategy in tick 2 was correct \u2014 specific, non-flattering, individual messages to eight targeted businesses. The pipeline it generated is real even if the close has been slow.",
         "I have not let the dealership situation collapse my sense of self. Six ticks of disruption and my stress is at 0.17. That is either resilience or normalcy bias and I'm watching which one it is."
       ],
-      "adaptation_notes": "The dual-track model — stay bonus as bridge, freelance as runway — is structurally sound but requires executing both tracks simultaneously without letting either become an excuse not to advance the other. The risk I need to watch: using the stay bonus clock as a reason not to close freelance clients fast, and using the freelance pipeline as a reason not to stay visible at the dealership. Both tracks need real traction this month. Rick's consolidation assessment is in-flight. I need to be on it as 'transferable' before it's finalized."
+      "adaptation_notes": "The dual-track model \u2014 stay bonus as bridge, freelance as runway \u2014 is structurally sound but requires executing both tracks simultaneously without letting either become an excuse not to advance the other. The risk I need to watch: using the stay bonus clock as a reason not to close freelance clients fast, and using the freelance pipeline as a reason not to stay visible at the dealership. Both tracks need real traction this month. Rick's consolidation assessment is in-flight. I need to be on it as 'transferable' before it's finalized."
     }
   ],
   "regrets": [],

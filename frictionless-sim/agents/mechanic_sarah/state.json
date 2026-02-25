@@ -74,7 +74,7 @@
       "availability_heuristic": 0.68,
       "social_proof_sensitivity": 0.42
     },
-    "sentiment": "determined"
+    "sentiment": "neutral"
   },
   "psychological": {
     "stress_level": 0.2,
@@ -86,7 +86,7 @@
   "financial": {
     "monthly_income": 3800,
     "monthly_expenses": 3301,
-    "savings": 16694,
+    "savings": 16943,
     "debt_total": 25537,
     "credit_score": 747
   },
@@ -128,5 +128,5 @@
   },
   "locality": "millfield",
   "archetype": "adapter",
-  "tick_updated": 5
+  "tick_updated": 6
 }

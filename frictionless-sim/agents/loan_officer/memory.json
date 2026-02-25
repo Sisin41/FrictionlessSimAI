@@ -29,6 +29,11 @@
       "tick": 5,
       "summary": "Prepare a written one-page brief for David Chen's formal 30-minute check-in: document the early delinquency patterns I have observed firsthand on auto loans processed in the last 60 days, note the 18% application volume decline I am seeing on the front end, and confirm NMLS module completion progress (modules 1-3 complete, modules 4-6 on schedule). Bring this brief to the meeting as a tangible deliverable \u2014 not a presentation, just one page showing I have been paying attention to the same data David is sharing upward. Ask David directly what the new written underwriting criteria will look like and request a draft copy so I can align my intake workflow before it is formally published.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 6,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -79,19 +84,27 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Prepare a written one-page brief for David Chen's formal 30-minute check-in: document the early delinquency patterns I have observed firsthand on auto loans processed in the last 60 days, note the 18% application volume decline I am seeing on the front end, and confirm NMLS module completion progress (modules 1-3 complete, modules 4-6 on schedule). Bring this brief to the meeting as a tangible deliverable \u2014 not a presentation, just one page showing I have been paying attention to the same data David is sharing upward. Ask David directly what the new written underwriting criteria will look like and request a draft copy so I can align my intake workflow before it is formally published.. Savings dropped by $1,873. "
+    },
+    {
+      "tick": 6,
+      "action": "routine",
+      "savings_delta": -2571,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings dropped by $2,571. "
     }
   ],
   "reflections": [
     {
       "tick": 6,
-      "reflection": "Six ticks in and I am still employed, still in the retraining pipeline, still burning savings at a rate that is manageable but not comfortable. The word-of-mouth about David is the most destabilizing signal I have received so far — not because I know what it means, but because I don't. Every structural move I have made since tick 0 has been anchored to David Chen's sponsorship of my NMLS pathway. If that sponsorship walks out the door with him, I have a tuition reimbursement form and a training log that lives only on my personal calendar. That is not enough. I should have filed the HR paperwork two ticks ago. I did not. I kept treating the verbal agreement as sufficient because David had been reliable and I did not want to look like I was hedging against him. That was a mistake.",
-      "identity_shift": "I am beginning to separate my professional identity from the bank as an institution and reattach it to the skills I am building. For the first decade of my career I was 'a loan officer at First Community Bank.' Now I am increasingly thinking of myself as someone who understands credit, risk, and financial access — and who happens to currently work at a bank. That shift is subtle but it matters. It means the NMLS license is not just a hedge against one role disappearing. It is the foundation of something portable.",
+      "reflection": "Six ticks in and I am still employed, still in the retraining pipeline, still burning savings at a rate that is manageable but not comfortable. The word-of-mouth about David is the most destabilizing signal I have received so far \u2014 not because I know what it means, but because I don't. Every structural move I have made since tick 0 has been anchored to David Chen's sponsorship of my NMLS pathway. If that sponsorship walks out the door with him, I have a tuition reimbursement form and a training log that lives only on my personal calendar. That is not enough. I should have filed the HR paperwork two ticks ago. I did not. I kept treating the verbal agreement as sufficient because David had been reliable and I did not want to look like I was hedging against him. That was a mistake.",
+      "identity_shift": "I am beginning to separate my professional identity from the bank as an institution and reattach it to the skills I am building. For the first decade of my career I was 'a loan officer at First Community Bank.' Now I am increasingly thinking of myself as someone who understands credit, risk, and financial access \u2014 and who happens to currently work at a bank. That shift is subtle but it matters. It means the NMLS license is not just a hedge against one role disappearing. It is the foundation of something portable.",
       "regrets": [
-        "Did not file the NMLS co-originator paperwork with HR in ticks 4 or 5 — left the institutional commitment floating on David's personal goodwill rather than making it structural.",
+        "Did not file the NMLS co-originator paperwork with HR in ticks 4 or 5 \u2014 left the institutional commitment floating on David's personal goodwill rather than making it structural.",
         "Waited too long to make myself visible to community stakeholders like Lisa Freeman. There was an obvious opportunity to be the human face of bank lending products for the retraining pipeline and I did not move on it until now."
       ],
       "successes": [
-        "Delivered the tick 5 brief to David — concrete, data-grounded, showed I was watching the same metrics he was reporting upward. That was the right move regardless of what happens to David's role.",
+        "Delivered the tick 5 brief to David \u2014 concrete, data-grounded, showed I was watching the same metrics he was reporting upward. That was the right move regardless of what happens to David's role.",
         "NMLS modules 1-3 complete and on schedule. The 90-minute daily block has held for five ticks. That is real.",
         "Identified and acted on the Lisa Freeman outreach opportunity this tick before it became irrelevant. Positioning myself as the operational link between bank products and retraining enrollees creates value that any manager would recognize."
       ],

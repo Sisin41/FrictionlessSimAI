@@ -1,0 +1,32 @@
+{
+  "tick": 6,
+  "employment_rate": 0.73,
+  "average_stress": 0.236,
+  "average_savings": 54708,
+  "archetype_distribution": {
+    "builder": 4,
+    "adapter": 6,
+    "stable": 18,
+    "exiter \u2014 actively building the exit, not just planning it": 1,
+    "stable, adapting strategy without changing identity": 1
+  },
+  "emotion_distribution": {
+    "determined": 4,
+    "anxious": 2,
+    "neutral": 18,
+    "focused and slightly pressured \u2014 the urgency is no longer low-level": 1,
+    "focused, with a low-frequency background awareness of how bad things are getting for people around me": 1,
+    "sober and pragmatic": 1,
+    "urgent but controlled": 1,
+    "focused and quietly confident": 1,
+    "steady, cautiously optimistic": 1
+  },
+  "car_ownership_rate": 0.73,
+  "robotaxi_adoption": 0.07,
+  "spending_index": 42,
+  "gini": 0.464,
+  "layoffs": 8,
+  "new_businesses": 1,
+  "protests": 1,
+  "bulletin_events": 15
+}

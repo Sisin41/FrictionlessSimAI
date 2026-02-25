@@ -29,6 +29,11 @@
       "tick": 5,
       "summary": "Maintain personal vehicle for all critical logistics. No change to transportation arrangement. Continue light discretionary spending discipline carried from last tick \u2014 keep the dinner-out skip and the delayed household purchase in place one more month.",
       "emotional_state": "anxious"
+    },
+    {
+      "tick": 6,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -79,13 +84,21 @@
       "stress_delta": 0.05,
       "employment_changed": false,
       "narrative": "You Maintain personal vehicle for all critical logistics. No change to transportation arrangement. Continue light discretionary spending discipline carried from last tick \u2014 keep the dinner-out skip and the delayed household purchase in place one more month.. Savings grew by $285. "
+    },
+    {
+      "tick": 6,
+      "action": "routine",
+      "savings_delta": 285,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings grew by $285. "
     }
   ],
   "reflections": [
     {
       "tick": 6,
-      "reflection": "Six ticks in and the world around me is visibly shifting. Stephanie Morris is pushing hard on real estate exits. Betty Kowalski and Miguel Hernandez are both apparently making moves. Grace Okafor is somewhere between rideshare driver and nursing student and is about to text me. I've held steady through all of it — same car, same job, same school runs, same 5am shifts. The consistency is real but I'm starting to wonder whether holding steady is a decision I'm making or a decision that's making me. The RoboRide number that matters isn't the price. It's the wait time. 15 minutes average means occasionally 25-30. I cannot carry that risk. So the car stays. That part is clear. The part that is less clear is whether I'm being appropriately cautious or whether the loss-aversion that runs through everything I do is slowly costing me something I can't see yet.",
-      "identity_shift": "Marginal. I have been the person who holds and waits and does not make dramatic moves. That identity is intact. But the ambient signal from my network — people repositioning, retooling, reaching out across old lines — is registering. Not urgently. Just registering. I'm a nurse and a mother first. That doesn't change. But something underneath is becoming more attentive.",
+      "reflection": "Six ticks in and the world around me is visibly shifting. Stephanie Morris is pushing hard on real estate exits. Betty Kowalski and Miguel Hernandez are both apparently making moves. Grace Okafor is somewhere between rideshare driver and nursing student and is about to text me. I've held steady through all of it \u2014 same car, same job, same school runs, same 5am shifts. The consistency is real but I'm starting to wonder whether holding steady is a decision I'm making or a decision that's making me. The RoboRide number that matters isn't the price. It's the wait time. 15 minutes average means occasionally 25-30. I cannot carry that risk. So the car stays. That part is clear. The part that is less clear is whether I'm being appropriately cautious or whether the loss-aversion that runs through everything I do is slowly costing me something I can't see yet.",
+      "identity_shift": "Marginal. I have been the person who holds and waits and does not make dramatic moves. That identity is intact. But the ambient signal from my network \u2014 people repositioning, retooling, reaching out across old lines \u2014 is registering. Not urgently. Just registering. I'm a nurse and a mother first. That doesn't change. But something underneath is becoming more attentive.",
       "regrets": [
         "I haven't done much to strengthen my professional network beyond passive receipt of word-of-mouth. If the economic disruption reaches healthcare, I want people who will call me, not just people who know my name."
       ],
@@ -94,7 +107,7 @@
         "The spending discipline didn't break. It didn't feel like deprivation. That matters for whether I can sustain it.",
         "Held the transportation line despite real social pressure and attractive-sounding price points. The reliability calculus was correct."
       ],
-      "adaptation_notes": "Watch the Grace Okafor contact closely. She is navigating two disrupted industries simultaneously — rideshare and healthcare transition — and she is younger and possibly more information-rich about what's actually happening on the ground. The nursing connection creates a real basis for mutual exchange. If she reaches out, respond with genuine attention, not just courtesy. On transportation: the trigger for reconsidering RoboRide is not price. It is wait-time data showing sub-5-minute average, or a shift-change that moves me off 5am, or a reliability guarantee I can actually verify. None of those are present. Continue monitoring."
+      "adaptation_notes": "Watch the Grace Okafor contact closely. She is navigating two disrupted industries simultaneously \u2014 rideshare and healthcare transition \u2014 and she is younger and possibly more information-rich about what's actually happening on the ground. The nursing connection creates a real basis for mutual exchange. If she reaches out, respond with genuine attention, not just courtesy. On transportation: the trigger for reconsidering RoboRide is not price. It is wait-time data showing sub-5-minute average, or a shift-change that moves me off 5am, or a reliability guarantee I can actually verify. None of those are present. Continue monitoring."
     }
   ],
   "regrets": [],

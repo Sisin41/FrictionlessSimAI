@@ -29,6 +29,11 @@
       "tick": 5,
       "summary": "Call Henderson directly to push for a decision on the garage addition bid. Make clear the 60-day material price hold is still in effect but not indefinite \u2014 frame it as a favor I can only extend a bit longer. If they are not ready to commit, ask directly what is holding them back and whether a phased start date helps.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 6,
+      "summary": "Accept that Henderson is cooling and shift focus \u2014 send one final, brief written note to Henderson letting them know the material price hold expires in two weeks and the bid will need to be repriced after that. No pressure, no follow-up call. Put the ball firmly in their court and move on mentally. I have spent five ticks on this. It either comes in or it does not.",
+      "emotional_state": "sober and pragmatic"
     }
   ],
   "past_outcomes": [
@@ -79,9 +84,34 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Call Henderson directly to push for a decision on the garage addition bid. Make clear the 60-day material price hold is still in effect but not indefinite \u2014 frame it as a favor I can only extend a bit longer. If they are not ready to commit, ask directly what is holding them back and whether a phased start date helps.. Savings grew by $909. "
+    },
+    {
+      "tick": 6,
+      "action": "Accept that Henderson is cooling and shift focus \u2014 send one final, brief written note to Henderson letting them know the material price hold expires in two weeks and the bid will need to be repriced after that. No pressure, no follow-up call. Put the ball firmly in their court and move on mentally. I have spent five ticks on this. It either comes in or it does not.",
+      "savings_delta": 909,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Accept that Henderson is cooling and shift focus \u2014 send one final, brief written note to Henderson letting them know the material price hold expires in two weeks and the bid will need to be repriced after that. No pressure, no follow-up call. Put the ball firmly in their court and move on mentally. I have spent five ticks on this. It either comes in or it does not.. Savings grew by $909. "
     }
   ],
-  "reflections": [],
+  "reflections": [
+    {
+      "tick": 6,
+      "reflection": "I spent five ticks chasing the Henderson garage addition bid like it was the only job in Millfield. It was a good bid \u2014 the largest single job of the year \u2014 and I do not regret pursuing it hard. But the spending index just hit 48. Nearly one in four people here is out of work. People do not add garages when they are scared they cannot make rent. I should have started diversifying my pipeline three ticks ago when the signals first came in. I did not because the Henderson bid felt real and close. That is normalcy bias. I know what it costs and I paid it again.",
+      "identity_shift": "Still Dale Cooper. Still a contractor. The truck is still my identity and I am not selling it or retraining at 50. But I am accepting that working alone without a diversified bid book is a liability, not a virtue. I am a skilled tradesman in a scared economy and I need to act like it \u2014 lean, active, building relationships, not waiting on one customer.",
+      "regrets": [
+        "Did not start pricing smaller jobs in ticks 3 or 4 when the macro signals first showed up. Let one big bid crowd out the whole pipeline for too long.",
+        "Should have had the Lisa Freeman conversation two ticks earlier \u2014 she responded warmly, which means she was receptive. I left value on the table by treating her as a backup contact."
+      ],
+      "successes": [
+        "Kept stress low and savings growing through a genuinely deteriorating local economy. Runway is still solid.",
+        "Made the Henderson call in tick 5 rather than letting it drift \u2014 even if it does not close, I acted with directness and professionalism.",
+        "Reached out to Lisa Freeman proactively before I needed the help. That goodwill is already in motion.",
+        "Did the financial scenario planning in tick 5 \u2014 I know my number. That is not nothing."
+      ],
+      "adaptation_notes": "Shift from single-bid focus to active multi-bid pipeline. Smaller jobs, needs-based work (roofs, drainage, foundations), not luxury additions. Use the Lisa Freeman relationship as an intelligence channel for community and nonprofit construction projects. Stop waiting for Henderson and start filling the calendar with what is actually available. The market is telling me something. This time I am listening before it gets worse."
+    }
+  ],
   "regrets": [],
   "successes": [],
   "adaptation_history": []

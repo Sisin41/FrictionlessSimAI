@@ -1,0 +1,26 @@
+{
+  "tick": 6,
+  "from_agent": "hr_director",
+  "from_name": "Angela Wright",
+  "transactions": [
+    {
+      "to_agent": "salesperson_jake",
+      "to_name": "Jake Morrison",
+      "type": "COMMUNICATION",
+      "subtype": "hr_response",
+      "content": "Jake \u2014 the stay bonus program is real and it is under my administration. I am formalizing eligibility criteria and written terms this week and will have documentation to all eligible staff shortly. I cannot confirm individual eligibility before the written parameters are finalized \u2014 that would be getting ahead of the process and I owe everyone on staff the same standard. What I can tell you: your one-on-one with Rick is a smart move and I am not going to be in the middle of it. Get your close data together. Present value. And yes \u2014 ask him about the bonus directly. That is your right. Written terms from me to follow within the week. \u2014 Angela",
+      "trust_delta": 0.04,
+      "relationship_note": "Angela responded promptly and professionally to Jake's inquiry about the stay bonus. She did not over-promise but did not leave him in the dark. Jake's proactive approach was noted internally."
+    },
+    {
+      "to_agent": "salesperson_tamika",
+      "to_name": "Tamika Jefferson",
+      "type": "COMMUNICATION",
+      "subtype": "hr_response",
+      "content": "Tamika \u2014 received. Your intent to remain is formally logged. Reaching out proactively and professionally was exactly the right move and I have recorded it that way in the HR file \u2014 not as a flight risk flag in reverse, but as a positive indicator of commitment and self-awareness. Written eligibility terms and timeline for the stay bonus program are coming to all eligible staff this week. You will have the conditions, the qualifying period, and the payout structure in writing before you are asked to commit to anything. That is the standard I hold myself to. \u2014 Angela",
+      "trust_delta": 0.05,
+      "relationship_note": "Angela acknowledged Tamika's formal intent-to-stay and logged it accurately. Tamika's framing was professional and Angela matched it. The exchange strengthened mutual trust."
+    }
+  ],
+  "status": "no_counterparty"
+}

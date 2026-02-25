@@ -29,6 +29,11 @@
       "tick": 5,
       "summary": "Follow through on the 1:1 with my manager by explicitly asking where my role stands in any reorganization scenarios. Frame it as forward planning, not fear. Present the campaign ROI data I prepared last tick and request clarity on whether my position is considered anchored, transition-ready, or at-risk in any workforce vulnerability assessment being conducted. Simultaneously, begin drafting a freelance services menu using my marketing, social media, and communication skills \u2014 not a public launch, just a private document that defines what I could offer as a solo practitioner if I needed to. Hourly rate research, potential client types, minimum viable retainer structure.",
       "emotional_state": "anxious"
+    },
+    {
+      "tick": 6,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -79,23 +84,31 @@
       "stress_delta": 0.05,
       "employment_changed": false,
       "narrative": "You Follow through on the 1:1 with my manager by explicitly asking where my role stands in any reorganization scenarios. Frame it as forward planning, not fear. Present the campaign ROI data I prepared last tick and request clarity on whether my position is considered anchored, transition-ready, or at-risk in any workforce vulnerability assessment being conducted. Simultaneously, begin drafting a freelance services menu using my marketing, social media, and communication skills \u2014 not a public launch, just a private document that defines what I could offer as a solo practitioner if I needed to. Hourly rate research, potential client types, minimum viable retainer structure.. Savings grew by $591. "
+    },
+    {
+      "tick": 6,
+      "action": "routine",
+      "savings_delta": 591,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings grew by $591. "
     }
   ],
   "reflections": [
     {
       "tick": 6,
-      "reflection": "Six ticks in and the world I was anxious about at tick 0 has arrived faster than I expected. The auto sector in Millfield is in genuine distress — layoffs, closings, protests, a spending index that has dropped below 50. I watched all of this from a slight distance because I made some moves early: the spending audit, the car math, the 1:1 with my manager, the freelance menu. But preparation without execution is just delayed anxiety. This tick I stopped preparing and started reaching out. That felt different. Harder. More real.",
-      "identity_shift": "I no longer think of the car as part of my identity. That shift happened quietly — not a dramatic moment, just a slow realization that the people holding onto cars for status are the ones who look fragile right now, not the ones who let go. I am starting to think of myself less as a marketing manager who is worried about her job and more as a communications professional who happens to have a current employer. That framing gives me more room.",
+      "reflection": "Six ticks in and the world I was anxious about at tick 0 has arrived faster than I expected. The auto sector in Millfield is in genuine distress \u2014 layoffs, closings, protests, a spending index that has dropped below 50. I watched all of this from a slight distance because I made some moves early: the spending audit, the car math, the 1:1 with my manager, the freelance menu. But preparation without execution is just delayed anxiety. This tick I stopped preparing and started reaching out. That felt different. Harder. More real.",
+      "identity_shift": "I no longer think of the car as part of my identity. That shift happened quietly \u2014 not a dramatic moment, just a slow realization that the people holding onto cars for status are the ones who look fragile right now, not the ones who let go. I am starting to think of myself less as a marketing manager who is worried about her job and more as a communications professional who happens to have a current employer. That framing gives me more room.",
       "regrets": [
-        "I spent ticks 2 and 3 on routine when the disruption was already visible. I knew RoboRide was launching. I should have started the freelance outreach earlier — at tick 3 or 4 at the latest. The freelance menu I drafted at tick 5 could have been drafted at tick 3.",
+        "I spent ticks 2 and 3 on routine when the disruption was already visible. I knew RoboRide was launching. I should have started the freelance outreach earlier \u2014 at tick 3 or 4 at the latest. The freelance menu I drafted at tick 5 could have been drafted at tick 3.",
         "I have not deepened any of my relationships in this network. My trust scores with almost everyone sit under 0.50. In a disruption, weak ties break first."
       ],
       "successes": [
         "Sold the car before almost anyone else in my network. The math was right and I acted on it even though the identity cost felt real at the time.",
         "Had the honest 1:1 with my manager and got actual clarity on my role status rather than reassurance. That took something.",
-        "Savings have grown steadily every tick — $591/month without drama. The financial floor is holding."
+        "Savings have grown steadily every tick \u2014 $591/month without drama. The financial floor is holding."
       ],
-      "adaptation_notes": "The economy is moving faster than my 10-month temporal horizon assumed. The spending index at 48 and 77% employment rate suggest I should compress my planning window to 4-6 months. The freelance channel is not a backup plan anymore — it is a concurrent strategy. Healthcare as a target sector is the right call: stable employment, community communications needs, and Nicole is a warm enough contact that the ask is proportionate to the relationship."
+      "adaptation_notes": "The economy is moving faster than my 10-month temporal horizon assumed. The spending index at 48 and 77% employment rate suggest I should compress my planning window to 4-6 months. The freelance channel is not a backup plan anymore \u2014 it is a concurrent strategy. Healthcare as a target sector is the right call: stable employment, community communications needs, and Nicole is a warm enough contact that the ask is proportionate to the relationship."
     }
   ],
   "regrets": [],

@@ -1,0 +1,16 @@
+{
+  "tick": 6,
+  "from_agent": "community_organizer",
+  "from_name": "Lisa Freeman",
+  "to_agent": "council_member",
+  "to_name": "Maria Santos",
+  "transaction_type": "coordination",
+  "subtype": "venue_and_logistics_offer",
+  "message": "Maria \u2014 I'm confirming Millfield Community Center as the venue for your listening session this week. I'll handle logistics: seating, room setup, outreach to my drop-in regulars, retraining program enrollees, and anyone who's come through our doors since tick 0. Ninety minutes. Folding chairs. I will NOT manage the agenda \u2014 that's yours. What I can add: I'll have the one-page resource document ready for every attendee \u2014 the $2,500 grant info, David Chen's bank contact for small-dollar loans, and the MCC enrollment timeline. That came directly out of our tick 5 work. Every person leaves with something concrete. Let me know if you need anything from me before then. I'll be there.",
+  "resource_transfer": {
+    "financial": 0,
+    "in_kind": "venue, logistics coordination, resource document distribution, community network outreach"
+  },
+  "expected_outcome": "public listening session successfully hosted; retraining resource document in the hands of displaced workers and business owners; Maria Santos's task force work amplified through community center infrastructure",
+  "status": "no_counterparty"
+}

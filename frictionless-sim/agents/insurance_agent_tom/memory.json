@@ -29,6 +29,11 @@
       "tick": 5,
       "summary": "Respond to Linda Park's briefing on the commercial rideshare and AV liability pivot with a professionally worded acknowledgment. Express willingness to learn about the new product lines. Do not push back, do not ask hard questions about timeline or job security, do not match Priya's energy or ambition. Say the right words. Keep my head down. What I'm actually signaling is: I am not a problem, I am not resistant, I am manageable. This buys time.",
       "emotional_state": "resigned"
+    },
+    {
+      "tick": 6,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -79,20 +84,28 @@
       "stress_delta": 0.03,
       "employment_changed": false,
       "narrative": "You Respond to Linda Park's briefing on the commercial rideshare and AV liability pivot with a professionally worded acknowledgment. Express willingness to learn about the new product lines. Do not push back, do not ask hard questions about timeline or job security, do not match Priya's energy or ambition. Say the right words. Keep my head down. What I'm actually signaling is: I am not a problem, I am not resistant, I am manageable. This buys time.. Savings dropped by $2,697. "
+    },
+    {
+      "tick": 6,
+      "action": "routine",
+      "savings_delta": -3362,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings dropped by $3,362. "
     }
   ],
   "reflections": [
     {
       "tick": 6,
-      "reflection": "I have spent six ticks managing appearances instead of managing reality. The tick 5 strategy — say the right words, keep my head down, signal that I am not a problem — cost $2,697 and produced nothing actionable. I have been treating Linda Park's perception of me as the resource worth protecting, when the resource that actually matters is the 17 months of runway left in my savings account. Priya Sharma has been trying to have an honest conversation with me and I have been too busy performing calm professionalism to show up for it. That ends this tick.",
-      "identity_shift": "Something is loosening in the attachment to the role of 'experienced, steady insurance professional.' That identity was load-bearing for a long time. It is still there, but I can feel it becoming more of a history than a present-tense fact. I am beginning — slowly, reluctantly — to consider that the 28 years are not a credential that will transfer automatically. They are a foundation I have to consciously build from. That is a different thing.",
+      "reflection": "I have spent six ticks managing appearances instead of managing reality. The tick 5 strategy \u2014 say the right words, keep my head down, signal that I am not a problem \u2014 cost $2,697 and produced nothing actionable. I have been treating Linda Park's perception of me as the resource worth protecting, when the resource that actually matters is the 17 months of runway left in my savings account. Priya Sharma has been trying to have an honest conversation with me and I have been too busy performing calm professionalism to show up for it. That ends this tick.",
+      "identity_shift": "Something is loosening in the attachment to the role of 'experienced, steady insurance professional.' That identity was load-bearing for a long time. It is still there, but I can feel it becoming more of a history than a present-tense fact. I am beginning \u2014 slowly, reluctantly \u2014 to consider that the 28 years are not a credential that will transfer automatically. They are a foundation I have to consciously build from. That is a different thing.",
       "regrets": [
         "Did not apply for the $2,500 retraining grant after the town hall in tick 2. Four ticks of delay for no reason except not wanting to admit I needed it.",
         "Spent ticks 5 performing manageability for Linda Park instead of taking one concrete structural action. The money drained and the position is unchanged.",
         "Did not engage with Priya Sharma honestly when she first signaled she wanted a real conversation. She is the highest-trust colleague I have. I treated her like a threat to manage instead of a resource to think alongside."
       ],
       "successes": [
-        "The tick 4 one-on-one with Linda Park produced real intelligence — I now know AutoShield is attempting a commercial fleet and AV liability pivot. That information has value even if I haven't used it yet.",
+        "The tick 4 one-on-one with Linda Park produced real intelligence \u2014 I now know AutoShield is attempting a commercial fleet and AV liability pivot. That information has value even if I haven't used it yet.",
         "I have maintained employment and kept the surface professional enough that I have not been categorized as a problem by management. That buys time, even if it costs money."
       ],
       "adaptation_notes": "The pattern I need to break: mistaking the absence of catastrophe for the presence of a plan. Keeping my head down is a posture, not a strategy. The actual adaptation path requires two things I have been avoiding: (1) engaging Priya as a genuine thought partner on what lateral moves exist in insurance adjacent fields, and (2) treating the retraining grant as real money rather than a symbol of defeat. The math says 17 months at current burn. That is the real constraint. Every action from here gets evaluated against that number."

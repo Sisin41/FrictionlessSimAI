@@ -29,6 +29,11 @@
       "tick": 5,
       "summary": "Follow up with Carlos Ruiz, Rachel Green, and Betty Kowalski \u2014 the three contacts I reached out to last tick. Not a cold message this time. A direct, specific ask: do you know of any open operations, facilities, or logistics management roles? Have you heard of anything? I am not broadcasting that I am desperate. I am demonstrating that I am active, targeted, and that my ask is specific enough to be actionable.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 6,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -79,23 +84,31 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Follow up with Carlos Ruiz, Rachel Green, and Betty Kowalski \u2014 the three contacts I reached out to last tick. Not a cold message this time. A direct, specific ask: do you know of any open operations, facilities, or logistics management roles? Have you heard of anything? I am not broadcasting that I am desperate. I am demonstrating that I am active, targeted, and that my ask is specific enough to be actionable.. Savings grew by $361. "
+    },
+    {
+      "tick": 6,
+      "action": "routine",
+      "savings_delta": 361,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings grew by $361. "
     }
   ],
   "reflections": [
     {
       "tick": 6,
-      "reflection": "Six ticks in. I have been employed the entire time, savings are growing steadily at $361 per tick, and my stress is lower than it was when this started — which is not what I expected. What I expected was a faster unraveling. Instead there is a slow compression: robotaxi adoption at 7%, spending index at 48, 2 people in my orbit stopped using their cars this month. The garage still runs. But the math I said at the start — if people stop owning cars, they stop parking them — is still true and it is still coming. The question is whether I land somewhere before the floor drops. I have been networking deliberately for three ticks. The first round opened conversations. The second round made specific asks. Tick 6 I found the right door: Grace Okafor has a direct line into the hospital hiring picture. I should have reached out to her sooner. She has been in my relationships file this whole time.",
+      "reflection": "Six ticks in. I have been employed the entire time, savings are growing steadily at $361 per tick, and my stress is lower than it was when this started \u2014 which is not what I expected. What I expected was a faster unraveling. Instead there is a slow compression: robotaxi adoption at 7%, spending index at 48, 2 people in my orbit stopped using their cars this month. The garage still runs. But the math I said at the start \u2014 if people stop owning cars, they stop parking them \u2014 is still true and it is still coming. The question is whether I land somewhere before the floor drops. I have been networking deliberately for three ticks. The first round opened conversations. The second round made specific asks. Tick 6 I found the right door: Grace Okafor has a direct line into the hospital hiring picture. I should have reached out to her sooner. She has been in my relationships file this whole time.",
       "identity_shift": "I am less 'parking garage manager trying to survive' and more 'operations professional running a deliberate transition.' The framing is starting to feel real rather than forced. I have been presenting myself as facilities and operations for long enough that I am starting to believe it myself. That is a small but important shift.",
       "regrets": [
-        "Did not activate Grace Okafor sooner — she has been a high-trust contact in my network the entire time and I waited until tick 6 to leverage a lead she was already generating organically.",
+        "Did not activate Grace Okafor sooner \u2014 she has been a high-trust contact in my network the entire time and I waited until tick 6 to leverage a lead she was already generating organically.",
         "Ticks 2 and 3 were listed as 'routine' in my memory. I was not in crisis but I could have been building. Those two ticks of passive behavior cost me time I cannot recover."
       ],
       "successes": [
-        "Completed two rounds of deliberate network outreach across ticks 4 and 5 — Carlos Ruiz, Rachel Green, Betty Kowalski all received specific, professional asks.",
-        "Reframed professional identity on LinkedIn in tick 1 without drama or delay — that foundation is now two months old and has had time to settle.",
+        "Completed two rounds of deliberate network outreach across ticks 4 and 5 \u2014 Carlos Ruiz, Rachel Green, Betty Kowalski all received specific, professional asks.",
+        "Reframed professional identity on LinkedIn in tick 1 without drama or delay \u2014 that foundation is now two months old and has had time to settle.",
         "Savings are stable and growing. No financial stress. 6.7 months of runway means I have time to be strategic rather than desperate."
       ],
-      "adaptation_notes": "The community is mobilizing around disruption — retraining programs, grant expansions, listening sessions. These are not directly my story but they are the ecosystem I am transitioning into. Municipal and hospital facilities roles are downstream of exactly this kind of institutional activity. I should pay closer attention to what roles the workforce transition programs are creating, not just what roles exist today. The next wave of job openings may come from organizations responding to the disruption rather than organizations that predate it."
+      "adaptation_notes": "The community is mobilizing around disruption \u2014 retraining programs, grant expansions, listening sessions. These are not directly my story but they are the ecosystem I am transitioning into. Municipal and hospital facilities roles are downstream of exactly this kind of institutional activity. I should pay closer attention to what roles the workforce transition programs are creating, not just what roles exist today. The next wave of job openings may come from organizations responding to the disruption rather than organizations that predate it."
     }
   ],
   "regrets": [],
