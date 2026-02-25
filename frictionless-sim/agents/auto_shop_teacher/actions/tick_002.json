@@ -1,0 +1,47 @@
+{
+  "tick": 2,
+  "agent_id": "auto_shop_teacher",
+  "agent_name": "Mark Thompson",
+  "response": {
+    "internal_assessment": "The temptation right now is to tell myself I've done enough — the presentation is reframed, the EV module is drafted, the RoboRide data is in the deck. That's the status quo bias talking. The board meets in April. That's weeks away, not months. Maria Santos just passed a $150K workforce transition fund and a community college EV certification partnership — and she did it through a council vote I can cite by name, by dollar amount, by date. That's not a trend article. That's a funding mechanism already in motion in this region that my program could plug directly into. If I walk into that board meeting without having contacted Maria Santos's office, without a line item equipment budget, without at least one industry name attached to the proposal — I'm leaving ammunition on the table. The presentation is stronger. It is not finished. I need to spend the next four weeks turning a strong slide deck into an undeniable package: funding angle, industry partnership, real numbers, and a community college feeder pathway that makes my program look like infrastructure, not elective.",
+    "chosen_actions": [
+      {
+        "type": "stakeholder_outreach",
+        "description": "Contact Councilmember Maria Santos's office directly — email or phone — to introduce the Millfield Auto Tech Pipeline program and ask about eligibility for the $150K workforce transition fund and the community college EV certification partnership track she just passed. Frame the outreach specifically: Millfield High's program could serve as a high school feeder into the community college certification pathway, creating a two-stage pipeline from HS training to industry-recognized EV credential. Request a brief meeting or a referral to the right contact at the community college. Do not over-ask — one clear ask, one clear frame.",
+        "target_agent": null,
+        "resources_involved": "One evening to draft a tight, specific outreach email. No financial cost. The $150K fund is the target — even partial access to it for equipment purchases changes the board conversation entirely.",
+        "reasoning": "Maria Santos's vote is already documented public record. The fund exists. The community college partnership exists. My program is the exact use case they designed this for: workforce development, EV training, high school to certification pipeline. Not reaching out before April is a real strategic error. If I can attach even a letter of interest from her office — or from the community college — to my board presentation, the program stops looking like a teacher making a pitch and starts looking like a regional workforce initiative. That is a categorically different ask.",
+        "economic_effects": {
+          "potential_grant_access": "$150,000 workforce transition fund — eligibility TBD",
+          "savings_delta": 0,
+          "note": "Time-only cost this tick. Outcome could dramatically reduce or eliminate personal equipment budget burden."
+        }
+      },
+      {
+        "type": "financial_planning",
+        "description": "Draft a real, line-item equipment budget for the board presentation. Stop using placeholder ranges. Research actual costs: EV battery simulation trainer units (used or refurbished sourcing), high-voltage safety PPE kit for a classroom of 20, OBD-II and EV-specific diagnostic tool set, one hybrid/EV vehicle donation outreach target list. Price each line item. Identify which items could be covered by grant funding versus district budget ask versus industry donation. Build two versions: a full program cost and a Phase 1 minimum viable launch cost. The board responds to specificity. 'Approximately $40,000-$60,000' is not a number. '$43,200 for Phase 1, with $28,000 eligible for workforce grant offset' is a number they can vote on.",
+        "target_agent": null,
+        "resources_involved": "One weekend of research. Supplier websites, ASE equipment guidelines, community college program catalogs for comparison. No financial outlay — this is documentation work.",
+        "reasoning": "The board presentation has a strong narrative now. What it lacks is a financial ask they can actually process. Vague cost estimates invite the budget committee to fill in the worst-case number. Specific line-item budgets with grant offsets identified invite them to say yes to a manageable number. This is the difference between a proposal that gets tabled and one that gets approved. My status quo bias wants to skip this because it's unglamorous detail work. That's exactly why it has to happen this tick.",
+        "economic_effects": {
+          "savings_delta": 0,
+          "note": "Documentation only. Sets up potential grant offset framing that could reduce district ask significantly."
+        }
+      },
+      {
+        "type": "stakeholder_outreach",
+        "description": "Contact ASE (National Institute for Automotive Service Excellence) to ask specifically about EV certification pathways available to high school programs — not just post-secondary. Determine whether HS students can earn ASE Student Certification in EV/hybrid categories, what the program recognition requirements are, and what the teacher credential requirements are for a school to be an official ASE program site. Also send one targeted outreach email to the nearest Tesla-area service center or education partnership contact to ask about their Education Partnership Program — whether equipment, curriculum resources, or site visit opportunities exist for HS programs in Millfield's region.",
+        "target_agent": null,
+        "resources_involved": "Two to three hours of research and email drafting. No financial cost. If Tesla Ed Partnership yields even a curriculum resource or an equipment lead, it's a slide in the board deck.",
+        "reasoning": "Industry name recognition matters to a school board. 'Our program is aligned with ASE certification standards' is good. 'ASE-recognized program, with students eligible for ASE Student Certification' is better. 'Tesla Education Partnership Program participant' is a headline. I don't need a signed agreement by April — I need a letter of interest, a confirmed conversation, a named contact. That's achievable in four weeks if I start now.",
+        "economic_effects": {
+          "savings_delta": 0,
+          "note": "Time-only this tick. Industry partnership could yield equipment donations or curriculum resources — reducing district budget ask."
+        }
+      }
+    ],
+    "emotional_state": "Focused and slightly impatient with myself — the good kind. The presentation is strong and I know it. But I can feel the pull to coast on that, and I'm not going to let it happen. April is close. The Maria Santos angle, the real budget numbers, the ASE and Tesla outreach — none of this is hard. It's just disciplined follow-through. That's the job right now.",
+    "archetype_self_assessment": "Still ahead. But 'ahead' isn't a permanent state — it's a posture you maintain. The teachers who lose their programs in April are the ones who had a good idea in January and thought that was enough. I've got a reframed proposal with real data. Now I need real numbers, real names, and real funding on the table before I walk through that door.",
+    "inner_monologue": "Maria Santos handed me a $150,000 argument and I haven't even called her office yet."
+  }
+}

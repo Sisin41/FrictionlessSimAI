@@ -1,0 +1,33 @@
+{
+  "tick": 2,
+  "agent_id": "mechanic_sarah",
+  "agent_name": "Sarah Kim",
+  "response": {
+    "internal_assessment": "Carlos did something I didn't expect: I caught him on his laptop during his lunch break with what looked like a certification program page open. Carlos doesn't casually browse. He's the most deliberate guy I know — if he's looking at certs, he already has a reason and the reason isn't small. I heard through Zoe that Maria Santos said something public about RoboRide, which tells me this isn't just shop paranoia, it's got a name now and a public face. My normalcy bias keeps pulling me toward 'the shop is fine today, just keep your head down,' but the Carlos signal is loud enough that I can't fully file it under normal. I'm not panicking — I'm just done pretending I don't see what I see.",
+    "chosen_actions": [
+      {
+        "type": "SOCIAL_PROBE",
+        "description": "Approach Carlos casually at end of shift — not a direct confrontation, but a low-stakes opening. Something like: 'Hey, you've been quiet this week. You doing anything interesting after work?' Let him lead. If he mentions EV certs, engage. If he deflects, back off and note that he deflected.",
+        "target_agent": "mechanic_carlos",
+        "resources_involved": "time (5-10 min)",
+        "reasoning": "The Carlos signal crossed a threshold this tick — it's not ambient anymore, it's specific behavior. Sarah's passive monitoring approach was appropriate at tick 1 when the signal was vague. Now she has a concrete observation. Her normalcy bias (0.68) is still high, so she won't force the conversation, but her availability heuristic (0.68) means the vivid image of Carlos on that laptop is hard to ignore. A soft probe respects her watchful identity while moving her agency needle incrementally. Low cost, potentially high information yield.",
+        "economic_effects": {}
+      },
+      {
+        "type": "SKILL_RESEARCH",
+        "description": "After her shift, spend 60-90 minutes looking up EV certification programs — specifically whether her existing ASE electrical and computer diagnostics certs give her any entry credit or accelerated path. Not a commitment, just reconnaissance. Treat it like diagnosing a system before you decide what part to order.",
+        "target_agent": null,
+        "resources_involved": "time (1-1.5 hrs), no cash outlay",
+        "reasoning": "She already has computer diagnostics and electrical skills — these are the foundation of EV mechanic work. She doesn't know she's better positioned than almost anyone else in the shop, but the Carlos signal is pointing her in the right direction before she has that full picture. This action costs nothing except time. It converts ambient anxiety into information. Her status quo bias (0.42) is low enough that she won't resist looking. This is the difference between watching and beginning to shape.",
+        "economic_effects": {
+          "savings_delta": 0,
+          "income_delta": 0,
+          "skill_relevance_delta": "+0.01 (informational groundwork, no cash spent yet)"
+        }
+      }
+    ],
+    "emotional_state": "Still basically stable, but the ambient unease has sharpened into something more directional. The Carlos observation gave her anxiety a target instead of just a shape. She's not scared — she's alert. There's a difference.",
+    "archetype_self_assessment": "watcher-to-adapter (the transition is starting — one soft probe, one research session, no commitments yet)",
+    "inner_monologue": "Carlos researches things when he already knows the answer and just needs to confirm it — so whatever he found out, it's real."
+  }
+}

@@ -1,25 +1,25 @@
 {
-  "tick": 1,
+  "tick": 2,
   "messages": [
     {
-      "type": "CAPABILITY_FACT",
-      "content": "RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
+      "type": "AMBIENT",
+      "content": "Ongoing: RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 83 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 81 (baseline: 100)."
     },
     {
       "type": "SECTOR_DATA",
-      "content": "Robotaxi adoption: 0%. "
+      "content": "Robotaxi adoption: 3%. "
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Business closing: Carlos Ruiz \u2014 full day at the shop \u2014 complete brake overhaul on a 2019 f-150, diagnose a rough idle on a honda accord, and close out two routine services. keep the schedule tight and the quality high."
+      "content": "Business closing: Carlos Ruiz \u2014 after the meeting \u2014 tonight, at the kitchen table, after the kids are in bed \u2014 open the browser tab again. this time don't close it. look specifically at ev and hybrid certification programs: what they cost, how long they take, whether his existing ase certifications carry over, and whether any shops in a 40-mile radius are already hiring for ev-specific work."
     },
     {
       "type": "OUTCOME",
-      "content": "You Extend driving shifts \u2014 push from roughly 45 hours per week to 55-58 hours. Target airport queues, late-night Friday/Saturday surges, and stadium event windows to maximize per-hour yield.. Savings grew by $387. "
+      "content": "You Push driving hours to 60-62 per week for the next four weeks while the window is still open. Prioritize high-margin ride types: airport runs, late-night premium hours, and any local events. Log every dollar. The income window before RoboRide arrives is finite and I need to bank as much as possible.. Savings grew by $387. "
     }
   ]
 }

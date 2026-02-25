@@ -1,0 +1,51 @@
+{
+  "tick": 2,
+  "agent_id": "insurance_agent_priya",
+  "agent_name": "Priya Sharma",
+  "response": {
+    "internal_assessment": "Module 1 is done. That is a real fact. But I need to be honest with myself about the other two: I do not have confirmation that I submitted an application or canceled a subscription last tick. The outcome note says 'you opened the SQL course and completed Module 1' — and that is all it says. That silence is data. It means I did the thing that felt like learning and growth and forward motion, and I probably deferred the two things that felt like commitment and risk and finality. That is exactly what status_quo_bias looks like when it's working on you — it doesn't stop you from doing everything, it lets you do the comfortable thing and stops you short of the uncomfortable thing, and then it says: you did something, that's enough. The policies are at 26. Angela is talking to a lawyer. Maria Santos named a timeline. My runway is 6 months. 'Module 1 is enough' is a sentence I am not allowed to believe right now.",
+    "chosen_actions": [
+      {
+        "type": "SKILL_DEVELOPMENT",
+        "description": "Complete Module 2 of the SQL course tonight. Not schedule it, not read the overview — open it and finish it. Module 1 was the proof I could start. Module 2 is the proof that last tick was a habit forming, not a one-time event.",
+        "target_agent": null,
+        "resources_involved": "2 hours this evening, $0",
+        "reasoning": "The status_quo_bias move after completing Module 1 is to feel good about it, slow down, and treat 'started' as a destination. Module 2 tonight is the direct counter to that. Two months is 60 days. If I complete one module every two days I will have meaningful SQL skills in 6 weeks, which is inside the deployment window. If I let two or three days slip between modules, I will have moderate SQL skills in 4 months, which is after. The math on urgency and pace is not abstract.",
+        "economic_effects": {}
+      },
+      {
+        "type": "JOB_APPLICATION",
+        "description": "Submit one job application — tonight, before bed. Specifically: search 'data analyst insurance remote' and 'risk analyst entry level remote.' Pick the most realistic posting. Update resume summary to lead with 'insurance operations and data analysis background.' Submit. Screenshot the confirmation page as proof to myself.",
+        "target_agent": null,
+        "resources_involved": "2-3 hours, resume edit, 1 application submitted",
+        "reasoning": "If I did not do this last tick, then doing it this tick is not optional — it is the debt from last tick becoming due. If I did do it last tick and I'm being too hard on myself, then doing it again this tick is still the right answer: I need a pipeline of applications, not a single one. One application is a lottery ticket. Three applications is a search. The first rejection will make the second application easier to send. I need to start that sequence now, not after I finish the SQL course.",
+        "economic_effects": {}
+      },
+      {
+        "type": "GRANT_APPLICATION",
+        "description": "Look up Maria Santos's $2,500 retraining grant application process. Determine eligibility. If the application takes under an hour, complete and submit it tonight. If it takes longer, block Saturday morning for it — and actually write that in my calendar, not just think it.",
+        "target_agent": null,
+        "resources_involved": "1-2 hours, $0 cost, $2,500 potential",
+        "reasoning": "$2,500 is close to one month of my expenses. My runway is 6.1 months. Adding that grant extends it meaningfully and it costs me nothing except the time to apply. More importantly: applying for this grant is a public act. It is me telling a government program that I am a worker who is transitioning out of an automating sector. That is a true statement. Saying it out loud — even on a form — is the kind of irreversibility I committed to last tick and did not fully execute. I am exactly the person this grant was designed for. Not applying because I haven't gotten around to it would be absurd.",
+        "economic_effects": {
+          "potential_one_time_income": 2500,
+          "runway_extension_months": 0.7
+        }
+      },
+      {
+        "type": "FINANCIAL_REVIEW",
+        "description": "Execute the subscription cancellation that was identified last tick. If it was already done, identify the next cut. The goal is a confirmed $150-200/month reduction with a cancellation confirmation email in my inbox.",
+        "target_agent": null,
+        "resources_involved": "20 minutes, $150-200/month savings",
+        "reasoning": "This was on the list last tick. Either I did it and it's done, or I didn't and it's overdue. Either way, the action for this tick is the same: verify it happened, or make it happen. Every month I carry an unnecessary subscription while my policy count falls is a choice I'm making without acknowledging I'm making it.",
+        "economic_effects": {
+          "monthly_expense_reduction": 175,
+          "runway_extension_months": 0.3
+        }
+      }
+    ],
+    "emotional_state": "Sharper than last tick. Less philosophical, more operational. The unsettled feeling is still there but it has a different quality now — it's not the anxiety of seeing something bad coming, it's the specific discomfort of knowing I probably left two of my three commitments undone. That discomfort is useful. I'm not going to perform self-forgiveness about it or spend energy on guilt. I'm going to do the things tonight. The grant application is new and it's the clearest decision in the list — Maria Santos put $2,500 on a table and pointed at me and said 'that's for you.' Leaving it there would be a specific kind of foolishness I cannot afford at 6 months runway.",
+    "archetype_self_assessment": "repositioner — not because the job is gone yet, but because I am actively building the bridge to the next thing while still on the current one. The evidence for this is thin: one completed module. The evidence against it is that I probably didn't submit the application. I am holding 'repositioner' as a self-description I have to earn back tonight.",
+    "inner_monologue": "Module 1 was real, but Module 1 was also the easy one — the one that felt like learning instead of the ones that felt like admitting I'm already leaving."
+  }
+}

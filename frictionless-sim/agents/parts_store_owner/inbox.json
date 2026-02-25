@@ -1,17 +1,33 @@
 {
-  "tick": 1,
+  "tick": 2,
   "messages": [
     {
+      "type": "AMBIENT",
+      "content": "Ongoing: RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
+    },
+    {
+      "type": "SECTOR_NEWS",
+      "content": "Angela Wright laid off workers: schedule a private consultation with an employment attorney \u2014 not the one she works with professionally on behalf of the company, but an independent one she identifies personally. agenda: understand what a negotiated voluntary separation with severance looks like in her state, what triggers enhanced severance obligations, and whether her position as the person managing layoffs creates any particular legal standing or leverage. this is not whistleblowing and not adversarial \u2014 it is a competent professional learning her rights before she needs them."
+    },
+    {
       "type": "DIRECT_IMPACT",
-      "content": "Business closing: Tamika Jefferson \u2014 go line by line through my $3,177 in monthly expenses and identify anything that can be cut without serious quality-of-life damage. target $400-600 in monthly reduction to extend the runway from 2 months closer to 3. buy myself one more month of decision space without earning a single extra dollar."
+      "content": "Business closing: Rick Tanner \u2014 run the floor as normal. full sales meeting monday morning, standard metrics review, no signals of distress to the team. watch tamika jefferson's behavior closely \u2014 observe without confronting. she may be responding to something she's heard or just tightening her own household. note it."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Angela Wright \u2014 use her existing access deliberately. she processes paperwork \u2014 she sees the organizational map before anyone announces it. pay close attention over the next two weeks to: which departments are being asked to document processes 'for continuity,' whether benefits administration queries are being rerouted, and whether senior leadership is having conversations with outside hr consultants or peo vendors. these are the specific signals that precede an hr function restructure. she will know before she's told. she should make sure she sees it."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Patricia Hawkins is making some kind of change \u2014 something about Host a private dinner with my general managers acr..."
+      "content": "Someone mentioned that Patricia Hawkins is making some kind of change \u2014 something about Call an all-hands leadership meeting across all fo..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Patricia Hawkins is making some kind of change \u2014 something about Attend Maria Santos's economic resilience town hal..."
     },
     {
       "type": "OUTCOME",
-      "content": "You Spend two weeks systematically talking to the professional mechanics and small independent shops in the region \u2014 find out what they're actually struggling to source, what their lead times look like from existing suppliers, and whether any of them feel underserved by the big distributors.. Savings grew by $645. "
+      "content": "You Begin liquidating the bottom-performing 20% of DIY-specific SKUs \u2014 clearance pricing to move them out, freeing up roughly $4,000-6,000 in shelf space and working capital. Immediately redirect that freed capital toward restocking the professional-grade lines where mechanics have been telling me they face lead-time delays: brake hardware, specialty gaskets, import vehicle sensors.. Savings grew by $645. "
     }
   ]
 }

@@ -1,0 +1,61 @@
+{
+  "tick": 2,
+  "agent_id": "car_wash_worker",
+  "agent_name": "Miguel Hernandez",
+  "current_state_summary": {
+    "threat_level": 0.87,
+    "runway_months": 1.2,
+    "savings": 2662,
+    "stress_level": 0.21,
+    "primary_concern": "Runway is still under 2 months. Roommate search produced $131 savings growth but no confirmed tenant. RoboRide is 1 tick out. I need the roommate locked in now and I need to stop bleeding $371/month on a car I might not need."
+  },
+  "threat_assessment": {
+    "immediate": "1.2 months runway. Roommate either hasn't moved in yet or barely made a dent. $371/mo car payment is eating 15% of income on a budget with almost no margin. One missed shift or unexpected expense and I'm behind on rent.",
+    "horizon_2mo": "RoboRide Phase 2 launches next tick. Car wash volume will eventually drop as fewer people own or drive personal cars. Hours could get cut. Consumer spending index at 81 means people are already pulling back — tip income and traffic already softening.",
+    "horizon_6mo": "If I'm still at the car wash with no roommate and the same car payment, I'm either behind on bills or I've burned through savings entirely. If I locked in the roommate and dumped the car payment, I'm probably fine. The job itself might be half-dead but I'd have options."
+  },
+  "hierarchy_priority": "L0_SURVIVE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "I commit to the first financially viable roommate applicant who responds — today. Not waiting for a better fit, not holding out. First person who can show they can cover their half of rent, they're in. I text or call all pending leads right now and give a 24-hour response window before I move to next on the list.",
+      "rationale": "The $131 savings growth from last tick tells me no one moved in yet. That means I've been carrying full rent another month. Every week without a roommate is another $150-200 in avoidable burn. The roommate is the single biggest lever — it extends runway past the RoboRide launch date. I cannot be picky right now.",
+      "timeline": "Today — 24-hour deadline on all active leads",
+      "expected_outcome": "Roommate confirmed and move-in date set within the week. Monthly expense reduction of ~$400-600. Runway extends from 1.2 months to 3+ months."
+    },
+    {
+      "action_id": 2,
+      "description": "I research whether I actually need the car for work. Car wash is likely walkable or one bus ride from my place. I pull up the bus route tonight and check the commute time. If it's under 40 minutes one-way, I start the process of selling the car — list it on Craigslist and Facebook Marketplace this week, price it to move, not to maximize.",
+      "rationale": "$371/month on a $2,400 income with 1.2 months runway is not sustainable. That's the second-biggest fixed expense after rent. If I don't need the car to get to work, I'm paying $371 for a depreciating asset I can't afford. Selling it wipes out $371/mo and might generate $3,000-6,000 in cash depending on value — that alone doubles my runway. Substitution willingness is 0.9. This is exactly the kind of move I should be making.",
+      "timeline": "Tonight — verify commute viability. This week — list the car if commute checks out.",
+      "expected_outcome": "If commute is viable, list car for sale. Potential cash injection of $3,000-6,000. Monthly expense drops by $371. Runway extends significantly."
+    },
+    {
+      "action_id": 3,
+      "description": "I apply to 3-5 jobs this week that are not car-related. Target: warehouse associate, grocery night stocker, or logistics sorter within reasonable commute. Use Indeed and the warehouse district near the highway — those places are always hiring and don't care about my background.",
+      "rationale": "Car wash role security is 0.43. RoboRide launches next tick. Car wash volume will soften. I'm not waiting to get cut — I'm looking now while I still have a paycheck and don't look desperate on an application. Warehouses don't care about car ownership trends. They pay $16-19/hr and have consistent hours. I want to have an offer in hand before I need it.",
+      "timeline": "This week — applications submitted by Friday",
+      "expected_outcome": "2-3 interviews scheduled. Possible offer within 2-3 weeks. Income secured independent of car wash trajectory."
+    },
+    {
+      "action_id": 4,
+      "description": "I note what Carlos Ruiz is doing — EV certification, ASE carry-over, shops within 40 miles — and I file that information away. I'm not a mechanic but the pattern is clear: pivot to EV-adjacent work is the move in this region. I ask Carlos directly what he's finding, even just a quick text or conversation at the end of a shift. Not to copy his path, but to understand what's available and what it costs to retrain.",
+      "rationale": "Carlos is doing the research I don't have access to. He's a mechanic so the path is different for me, but the information about what's growing in this area within 40 miles is directly useful. This costs me nothing — it's a conversation. If EV-adjacent work is expanding locally, I want to know about it before I'm unemployed, not after.",
+      "timeline": "This week — one conversation with Carlos",
+      "expected_outcome": "Better map of local job market. Possible lead on a sector that's growing while car washes are shrinking."
+    }
+  ],
+  "decisions": {
+    "roommate_resolution": "Commit immediately. 24-hour ultimatum to all active leads. First financially viable applicant gets the room — no waiting for a better match. If no one responds by tomorrow, repost with lower ask and offer first month pro-rated.",
+    "car_payment_strategy": "Sell, if commute is bus-viable. Tonight I verify the route. If it works, I list the car this week priced to move fast. $371/month is a luxury I can't afford at 1.2 months runway. I can Uber or use transit for anything the bus doesn't cover. The car is not part of my identity — it's a liability right now.",
+    "job_security_plan": "Both — stay at the car wash and collect the paycheck while actively applying elsewhere. I don't quit until I have something better. But I'm not waiting to see what happens to car wash hours. I apply now, I line up the next thing now, and if the car wash holds I leave on my terms instead of theirs."
+  },
+  "updated_state": {
+    "stress_level": 0.24,
+    "agency": 0.78,
+    "grief_stage": "none",
+    "savings_delta": 263
+  },
+  "internal_monologue": "The roommate thing is taking too long and I need to just close it — whoever can pay, they're in, I'm done being selective about this. The car is the next thing: if the bus gets me to work, I'm selling it and that's $371 back in my pocket every month. RoboRide starts next tick and I want to already be looking at other jobs before anyone at the car wash starts cutting hours.",
+  "archetype_self_assessment": "adapter"
+}

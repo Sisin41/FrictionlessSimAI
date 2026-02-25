@@ -1,0 +1,69 @@
+{
+  "tick": 2,
+  "agent_id": "parking_garage_mgr",
+  "agent_name": "Denise Williams",
+  "current_state_summary": {
+    "threat_level": 0.48,
+    "runway_months": 6.2,
+    "savings": 21722,
+    "stress_level": 0.22,
+    "primary_concern": "Job search is live but has not closed yet. RoboRide launches next tick. The window between 'enough time' and 'not enough time' is closing and I need an offer in hand before Phase 2 changes the narrative."
+  },
+  "threat_assessment": {
+    "immediate": "Five applications submitted last tick with no confirmed callbacks yet. Every week without a first-round interview is a week closer to competing against displaced workers who are also scrambling when RoboRide goes live. The garage is still full, which creates a false calm — management sees green numbers and has no urgency to retain me or adapt the facility. I am the only one in this building running the real timeline.",
+    "horizon_2mo": "RoboRide Phase 2 launches in Millfield. Monthly permit holders begin questioning renewals. Daily transient volume dips as a measurable percentage of commuters trial RoboRide. Revenue metrics start moving in the wrong direction at the same moment I am trying to present myself to hiring managers as someone leaving a stable operation — not a sinking one. That framing matters. I need to be out before the numbers tell my story for me.",
+    "horizon_6mo": "If adoption follows the sector data pattern — currently 3%, typical Phase 2 trajectory toward 12-18% within 6 months — the garage faces 10-20% revenue reduction. Owner will be looking at operational cuts. My position, as the highest labor cost in the building, becomes a line item. Voluntary exit now, on my terms, with a signed offer letter, is categorically better than negotiating severance from a weakened position with two dependents and a mortgage in play."
+  },
+  "hierarchy_priority": "L1_STABILIZE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Follow up on all 5 applications submitted last tick with brief, professional status inquiry emails. Draft them this week — 3 sentences, not a cover letter rehash. Simultaneously submit 4 additional targeted applications: one regional hospital facilities director role, one university plant operations posting, one commercial property management company managing mixed-use portfolios, and one municipal infrastructure coordinator position I flagged in the job scan. Minimum 9 total applications in the pipeline by end of this tick.",
+      "rationale": "Conversion rate on cold applications in operations/facilities management is roughly 15-20% to first interview. Nine applications gets me statistically to 1-2 callbacks. One callback is all I need to start the clock on an offer timeline. Follow-ups on existing applications cost nothing except 30 minutes and move me from the passive pile to the active pile in a recruiter's inbox.",
+      "timeline": "Follow-up emails by Wednesday. New applications by end of week.",
+      "expected_outcome": "1-2 first-round interview requests before end of tick. At minimum, confirmation that applications were received and are under review."
+    },
+    {
+      "action_id": 2,
+      "description": "Attend Maria Santos's public input session in person. I will go as an affected worker, not as a bystander. I will bring prepared remarks — 90 seconds, no more — covering three points: the downstream employment impact on facilities and service workers who are not the primary headline (not just drivers, but the whole ecosystem), the opportunity to repurpose garage infrastructure for EV charging and RoboRide staging before the revenue cliff hits, and the specific workforce transition question of whether the $2,500 retraining grant applies to lateral skill transitions within operations management or only to retraining into entirely new fields.",
+      "rationale": "Two reasons to attend. First, the council is making decisions that affect my employer and my job, and showing up means I am part of shaping that response, not just receiving it. Second, Maria's session is a legitimate venue to get a direct answer on grant eligibility for my specific situation — operations-to-operations transition — rather than guessing. Being visible in this process also builds my professional profile in the municipal space, which is one of my target employment sectors.",
+      "timeline": "This week, whenever the session is scheduled.",
+      "expected_outcome": "Clarity on grant eligibility. Public record of my professional input. Possible direct contact with city facilities or infrastructure staff who would know of openings."
+    },
+    {
+      "action_id": 3,
+      "description": "Apply for the $2,500 Emergency Workforce Transition retraining grant. Frame the application around upskilling in commercial property management software (Yardi, MRI) and OSHA facilities management certification — both directly transferable to the roles I am targeting, both verifiable as skill gaps rather than just general education. If the grant covers it, I take the Yardi Voyager online certification ($800) and the OSHA 30-hour Facilities Management track ($400). The remainder covers LinkedIn Premium for three months.",
+      "rationale": "The grant exists. Eligibility likely applies to workers in disrupted sectors seeking workforce transition — my situation fits that definition. The investment is not speculative: Yardi is the dominant software platform for commercial property management and every property management role I am targeting lists it as preferred or required. Certification at time of application is a concrete differentiator. Even if the grant takes time to process, I apply now and front the cost if needed — $1,200 is recoverable against a $68K+ offer.",
+      "timeline": "Submit grant application this week. Begin Yardi certification online immediately regardless of grant status — it is self-paced and I can complete modules evenings.",
+      "expected_outcome": "$2,500 grant approved, covering certifications and LinkedIn Premium. Yardi certification completed within 3-4 weeks. Updated resume and LinkedIn profile showing active credentials in target sector software."
+    },
+    {
+      "action_id": 4,
+      "description": "Write a quiet internal memo — for my own files, not submitted — documenting the garage's current operational procedures, vendor contacts, maintenance schedules, and key relationships. This is my institutional knowledge and right now it lives in my head. If I leave in 6 weeks, an orderly handover protects my professional reputation. Simultaneously, I will put together a one-page concept note on converting the lower level of the garage to EV charging stations and designating two upper bays as RoboRide pickup/staging zones — and I will present it to the owner as a revenue diversification idea, not as a signal that I am planning to leave. It positions me as a forward-thinking manager and might buy operational goodwill. It also gives me a concrete case study to discuss in interviews.",
+      "rationale": "The documentation protects me professionally. The concept note serves three purposes: it genuinely might help the garage adapt, it signals to the owner that I am engaged rather than checked out, and it gives me a real asset to reference in property management interviews — 'I identified and proposed infrastructure repurposing in response to market disruption' is a better story than 'I managed a parking garage until it declined.' Loss aversion runs both ways: I do not want to burn a reference by disappearing without transition planning.",
+      "timeline": "Ops documentation: draft over two evenings this week. Concept note: present to owner before end of tick.",
+      "expected_outcome": "Clean institutional knowledge document ready if needed. Owner has a concrete proposal to consider. I have a case study in hand for interviews."
+    },
+    {
+      "action_id": 5,
+      "description": "Have a calm, specific financial conversation with my household — not a crisis meeting, a planning meeting. I will share that the parking industry is going through a technology transition, that I am proactively searching for a next role, and that we are going to be careful with discretionary spending for the next few months while I run this search. I will share the contingency budget I sketched last tick: on a lean basis, our runway is longer than 6 months. I will not share the worst-case scenario framing. Two dependents do not need the threat level — they need to see me as someone with a plan, which I have.",
+      "rationale": "Keeping dependents in the dark entirely creates fragility when they notice something — and they will notice something. A controlled disclosure on my terms, framed as 'I am managing this proactively,' maintains household stability and trust without unnecessary alarm. Loss aversion 2.5x works on households too: people catastrophize in information vacuums. I am the manager of this household the same way I manage the garage — communicate clearly, early, with a plan already in motion.",
+      "timeline": "This week, weekend conversation.",
+      "expected_outcome": "Household aligned on reduced discretionary spend. No panic. I am still the person with the plan."
+    }
+  ],
+  "decisions": {
+    "job_search_next_steps": "Follow up on all 5 existing applications by Wednesday. Submit 4 new targeted applications by end of week — hospital facilities director, university plant operations, commercial property management, municipal infrastructure coordinator. Target: 9 total applications in pipeline, 1-2 first-round interview requests by end of tick. Begin Yardi Voyager online certification this week regardless of grant status.",
+    "grant_application": "Apply — submitting this week. Framing as workforce transition within operations management sector, with specific certifications as deliverables: Yardi Voyager property management software and OSHA 30-hour Facilities Management. These are verifiable, targeted, and directly mapped to roles I am already applying for.",
+    "town_hall_attendance": "Yes. Attending with prepared 90-second remarks covering: downstream employment impact beyond drivers, garage infrastructure repurposing opportunity, and direct question on grant eligibility for lateral operations-sector transitions. Also attending to make direct contact with city facilities and infrastructure staff as a secondary networking channel.",
+    "garage_strategy": "Stay and adapt through the job search window, not indefinitely. I am managing the garage professionally and proposing the EV/RoboRide staging concept to the owner — both because it is the right operational move and because it creates interview material. Exit on a signed offer, not a resignation. Target: out within 6-8 weeks on my terms."
+  },
+  "updated_state": {
+    "stress_level": 0.22,
+    "agency": 0.72,
+    "grief_stage": "none",
+    "savings_delta": 361
+  },
+  "internal_monologue": "Nine applications, two certifications in progress, a grant filed, and a proposal on the owner's desk — that is a week's work, not a week's worry. The town hall is not an obligation, it is an asset: I walk in with expertise and I walk out with contacts in the one sector I have not fully penetrated yet. The stress is still directional. I am aiming it.",
+  "archetype_self_assessment": "adapter"
+}

@@ -1,0 +1,46 @@
+{
+  "tick": 2,
+  "agent_id": "diner_owner",
+  "agent_name": "Betty Kowalski",
+  "response": {
+    "internal_assessment": "I've done two ticks of watching and listening and writing things down. The notes are clear. Carlos Ruiz is already looking at EV certifications — he told me last week he was thinking about it, and now I'm hearing it's real. That's not one man changing jobs. That's a signal. If even my regulars who love this place are planning for a different future, then the future is closer than 'two months' sounds. I have $27,232 in savings, a $5,000 grant I qualify for that I have not applied for, and relationships with every business owner on this strip — the tire shop, the body shop, the parts distributor. What I've been doing is necessary. What I have not done yet is act. The notes told me: diversify before I have to, not after I need to.",
+    "chosen_actions": [
+      {
+        "type": "grant_application",
+        "description": "Apply for Maria Santos's $5,000 small business stabilization grant. Fill out the paperwork this week. The qualification criteria are met. The money is not for spending — it is for extending runway if the 60% drop scenario materializes. A $5,000 cushion converts a 6.4-month runway into something closer to 7.5 months at 60% revenue loss. That is the difference between having time to adapt and not having time.",
+        "target_agent": null,
+        "resources_involved": "3-4 hours personal time for paperwork; no financial cost to apply",
+        "reasoning": "I qualified and I have not applied. That is the definition of leaving money on the table. I am not too proud for stabilization funds — I am a small business owner in a community that is facing a structural shift. This is exactly what these programs exist for. The normalcy bias in me says 'wait and see,' but the budget scenarios I ran say the time to shore up runway is before the revenue drops, not after.",
+        "economic_effects": {
+          "if_awarded": "+$5,000 to savings, extending runway by approximately 1.1 months at current burn",
+          "application_cost": "~4 hours time, $0 cash"
+        }
+      },
+      {
+        "type": "relationship_building",
+        "description": "Talk to three specific Auto Row business owners this week — the tire shop (Manny), the body shop (Dave and his wife), and the parts distributor (Al Benedetti). Not a formal meeting. Coffee or a quick word after the lunch rush. The ask is simple: are they thinking about catering for their staff? Box lunches, weekly lunch orders they can pre-pay? This is not charity — it's a mutual arrangement. They keep their crews fed without workers leaving the lot on lunch breaks; I get a revenue stream that doesn't depend on foot traffic.",
+        "target_agent": null,
+        "resources_involved": "2-3 hours personal time across the week; possible materials cost of a sample lunch box if needed (~$15-20)",
+        "reasoning": "My lunch revenue depends on workers choosing to walk in. A catering or pre-order arrangement with adjacent businesses converts that discretionary foot traffic into committed revenue. It also deepens the relationships I already have — Manny's been coming in here for nineteen years. He is not going to say no to a conversation. Even if only one of the three says yes, a regular box-lunch order for eight workers at $10 each is $80/week or roughly $320/month — that offsets a portion of any traffic loss.",
+        "economic_effects": {
+          "potential_monthly_revenue": "$240-640/mo depending on uptake (3-8 workers per business, $10-12/order)",
+          "diversification_value": "Converts variable walk-in revenue into partially committed revenue"
+        }
+      },
+      {
+        "type": "community_anchor",
+        "description": "Continue holding the line on hours, prices, and presence. But this tick: put up a small handwritten sign near the register — 'Catering for local businesses — ask Betty.' Nothing elaborate. No flyer, no social media. Just a signal that I am available for that conversation with anyone who comes through the door and didn't already hear it from Manny or Dave.",
+        "target_agent": null,
+        "resources_involved": "30 minutes, cost of a piece of cardstock and a marker",
+        "reasoning": "I am not changing who I am or what this place is. I am making visible something I am already capable of. The relationships that make this diner work are built on people knowing they can ask Betty something and get a straight answer. The sign is an invitation for that conversation — not a pivot, not a rebrand. If Carlos Ruiz comes in for breakfast on Thursday and sees it, maybe he mentions it to his crew chief. That is how word moves on Auto Row. I know how this works. I have always known how this works.",
+        "economic_effects": {
+          "immediate_cost": "~$2",
+          "strategic_value": "Low-cost signal that activates existing relationship network without requiring formal outreach to all parties"
+        }
+      }
+    ],
+    "emotional_state": "Purposeful and cautious. The fear has not gone away but it has found a shape — it is no longer ambient, it is directional. There is something that feels like relief in deciding to act rather than continuing to observe. She is not confident. She is willing. That is not the same thing, but it is what the moment calls for.",
+    "archetype_self_assessment": "adapter — not from comfort, from necessity. The anchor identity is still true but anchors don't just hold, they hold while you work. The work has started.",
+    "inner_monologue": "I know how to feed people, and I know how to talk to neighbors, and it turns out those two things together might be enough — if I stop waiting for someone to tell me the coast is clear."
+  }
+}

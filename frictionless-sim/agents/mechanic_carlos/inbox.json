@@ -1,29 +1,21 @@
 {
-  "tick": 1,
+  "tick": 2,
   "messages": [
     {
-      "type": "CAPABILITY_FACT",
-      "content": "RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
+      "type": "AMBIENT",
+      "content": "Ongoing: RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 83 (baseline: 100)."
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "Business closing: Zoe Martinez \u2014 pick up two additional weekend delivery shifts on doordash to pad income slightly. evenings after cafe closes."
+      "content": "Consumer spending down. Spending index: 81 (baseline: 100)."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Host a public town hall meeting at the Millfield C..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Reach out to the Millfield Small Business Associat..."
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Issue a formal public statement as Council Member ..."
     },
     {
       "type": "OUTCOME",
-      "content": "You Full day at the shop \u2014 complete brake overhaul on a 2019 F-150, diagnose a rough idle on a Honda Accord, and close out two routine services. Keep the schedule tight and the quality high.. Savings grew by $193. "
+      "content": "You Attend Patricia's all-hands meeting with full presence and without defensive posturing. Listen for concrete information about the Phase 2 timeline, any company pivot plans, and what leadership knows that workers don't. Take notes. Do not deflect.. Savings grew by $193. "
     }
   ]
 }

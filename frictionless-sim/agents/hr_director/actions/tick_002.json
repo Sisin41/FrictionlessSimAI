@@ -1,0 +1,63 @@
+{
+  "tick": 2,
+  "agent_id": "hr_director",
+  "agent_name": "Angela Wright",
+  "response": {
+    "internal_assessment": "The attorney consultation landed cleanly. I now know exactly what I'm worth to negotiate against, and the number is higher than I would have guessed two months ago — because I'm the one managing the process documentation and the RIF communications, which means I'm both indispensable until the end and a witness to everything that happens between now and then. That's a peculiar kind of leverage. The SECTOR_NEWS item misread my attorney consultation as a layoff action — which is darkly amusing and also instructive. The information ecosystem is already distorted. Patricia is in 'manage morale' mode while quietly mapping her exit. David Chen is flagging the auto portfolio. The credit tightening he's signaling will arrive before most people here recognize it. I need to treat next month — when RoboRide formally launches — as a deadline for having my consulting infrastructure real enough to show someone, not just organized in a notebook. The car trade-down was committed last tick. This tick it finalizes. Full stop.",
+    "chosen_actions": [
+      {
+        "type": "finalize_vehicle_trade_down",
+        "description": "Complete the car trade-down transaction this tick — not 'research,' not 'evaluate,' but execute. Walk into the dealership as a customer, not an employee-adjacent insider. Trade the current vehicle, take the equity, purchase a used vehicle outright using no more than $10,000 from savings — targeting something in the $8,000-10,000 range with low miles and low maintenance profile. Objective: eliminate the $649/month payment entirely. The net effect is an additional $649/month added to monthly margin, raising monthly surplus from approximately $589 to $1,238 — effectively doubling runway extension per month.",
+        "target_agent": null,
+        "resources_involved": "Up to $10,000 from savings as gap payment; eliminates $649/month fixed obligation",
+        "reasoning": "This was already decided. Every additional month of delay is $649 paid to a lender on a depreciating asset during a period of deliberate financial tightening. At $72k in savings with 11 months runway, a $10k expenditure to eliminate a $649/month fixed cost breaks even in 15 months — but the actual break-even is much sooner given the runway extension on the income side. She committed to this. She finishes it.",
+        "economic_effects": {
+          "immediate_cost": -10000,
+          "monthly_savings": 649,
+          "new_monthly_surplus_estimate": 1238,
+          "runway_impact": "Extends effective runway by adding ~1.1 additional months of margin per month going forward",
+          "stress_impact": "Eliminates a recurring cognitive drain; converts a known liability into a resolved item"
+        }
+      },
+      {
+        "type": "launch_consulting_presence",
+        "description": "Move the consulting infrastructure from 'notes in a folder' to 'a thing that exists in the world.' Specifically: register a simple business name (Wright HR Strategies or similar — not precious about the name, just needs to exist), set up a single-page web presence using a no-cost or minimal-cost platform, and draft two concrete service offerings with plain-language descriptions and implied rate ranges. Target clients: small to mid-sized businesses in non-auto sectors — healthcare, logistics, regional services — that are growing or restructuring and cannot afford a full-time HR Director. Do not announce. Do not publicize yet. The goal this tick is existence, not visibility.",
+        "target_agent": null,
+        "resources_involved": "$50-150 for domain registration and basic hosting; 6-8 hours over two weeks",
+        "reasoning": "RoboRide launches next month. The displacement wave is going to be visible to every business owner in Millfield within 90 days. That is also the moment when small businesses start wondering whether their own HR exposure — compliance, documentation, severance — is handled. She needs to be findable before that question becomes urgent. Infrastructure takes time she doesn't have once she's no longer employed. She builds it now, while she has the income and the patience.",
+        "economic_effects": {
+          "immediate_cost": -100,
+          "expected_revenue_timeline": "First consulting engagement possible within 45-90 days of departure; target $5,000-8,000/month at scale",
+          "stress_impact": "Significant reduction — converts the abstract 'I should do something about income' into a concrete forward path with a visible next step"
+        }
+      },
+      {
+        "type": "draft_internal_intelligence_memo",
+        "description": "Compile a private, personal document — not for company distribution — cataloging the pre-restructure signals she has observed over the past two months. Specifically: which departments have been asked to document processes 'for continuity purposes,' whether benefits administration queries are being rerouted, any vendor conversations she has been looped into or excluded from, and the delta between who is being added to distribution lists versus quietly removed. This is not a whistleblower document. This is situational awareness crystallized into something she can reference when she decides on her exit timing. The document also serves as the foundation for a future consulting case study on workforce transition signals — anonymized, of course.",
+        "target_agent": null,
+        "resources_involved": "Zero cost; 3 hours of structured writing from existing observations",
+        "reasoning": "Her information advantage is perishable and she knows it. In 60 days her access to internal signals will begin narrowing as her own departure becomes visible to others. She needs to convert her current knowledge position into a durable artifact before that window closes. The memo also disciplines her thinking — writing it forces her to distinguish signal from noise and sharpens her exit timing instinct.",
+        "economic_effects": {
+          "immediate_cost": 0,
+          "expected_value": "Preserves and crystallizes a 30-60 day information advantage; directly informs negotiated departure timing; has secondary value as anonymized consulting IP",
+          "stress_impact": "Neutral to positive — active situational awareness is always less stressful than ambient dread"
+        }
+      },
+      {
+        "type": "initiate_conversation_with_patricia",
+        "description": "Request a brief one-on-one with Patricia — framed as a professional check-in, nothing alarming. Objective: give Patricia the opening to surface the retention bonus she is apparently considering. Angela will not lead with it and will not tip her hand. But she will be present, calm, and available for the conversation Patricia is building toward. If Patricia raises retention, Angela listens, takes nothing on the spot, and buys 72 hours to consult her notes and her attorney-informed understanding of what that offer actually means in context. If Patricia does not raise it, Angela has still signaled her continued steadiness — which preserves her role security and her leverage for the negotiated departure conversation she will have in a future tick.",
+        "target_agent": "patricia",
+        "resources_involved": "1 hour; zero financial cost",
+        "reasoning": "Angela knows this is coming before Patricia has formalized it — because this is Angela's job. Retention bonuses in the middle of restructures are almost always clawback-laden and condition-heavy. But they are also evidence that the company values her presence through a specific window, which means they will negotiate. She needs to be in the room when Patricia is ready to have this conversation, not scrambling to get back to it after the fact. Timing is the asset here.",
+        "economic_effects": {
+          "immediate_cost": 0,
+          "expected_value": "Positions Angela to negotiate a retention bonus on her terms rather than Patricia's; potential $5,000-15,000 in additional compensation for staying through a defined window — which she was going to do anyway",
+          "stress_impact": "Slightly elevating in the short term; significantly reducing once the conversation has happened and she knows the offer"
+        }
+      }
+    ],
+    "emotional_state": "Controlled and forward-facing. The grief — for the job, for the version of this career she thought she was building — was processed before this tick began. What's left is professional competence running alongside strategic self-interest, and she is no longer pretending those two things are in conflict. She is effective at her job because that effectiveness buys her time and leverage. She is building her exit because the exit is coming regardless of her feelings about it. These facts coexist without friction.",
+    "archetype_self_assessment": "strategic-mover — executing on what she sees, not deliberating about it",
+    "inner_monologue": "The retention bonus is coming, and I'm going to smile and take 72 hours to think about it, because I already know what I'm going to do."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "tick": 2,
+  "agent_id": "ceo_regional_auto",
+  "agent_name": "Patricia Hawkins",
+  "response": {
+    "internal_assessment": "The service audit I commissioned is still in progress, but I don't need it to tell me what I already know: Angela Wright is talking to an employment attorney. She processes every separation agreement that has ever gone through this company. She is not doing that out of idle curiosity. That is not a woman preparing for disruption — that is a woman preparing for a specific event she can already see from the inside. I need to have a direct, private conversation with her before she concludes I am not worth staying for. At the same time, Maria going public has compressed my timeline. I no longer have two months of quiet runway to think. The whole town is watching auto row now. Whatever I do next, I do in public view. Carlos Ruiz researching EV certifications tonight is either a man I lose, or a man I invest in — and that choice is mine to make before someone else makes it for me.",
+    "chosen_actions": [
+      {
+        "type": "RETAIN",
+        "description": "Request a private, off-calendar meeting with Angela Wright — not in her office, not at HQ. Invite her to lunch at a location off auto row. The agenda is not 'I know you're talking to an attorney.' The agenda is: I want her to tell me, in her own words, what she is seeing in the organization and what she thinks we should be doing. Give her the conversational opening to be honest about her own position without forcing her to disclose. Make clear that her role in a restructuring scenario — if there is one — is not to be eliminated, it is to be the architect of it. Offer to discuss formalizing her participation in the strategic planning process with a defined retention agreement: 90-day stay bonus of $12,000, contingent on her leading the workforce transition plan, whatever form that takes.",
+        "target_agent": "hr_director",
+        "resources_involved": "$12,000 retention bonus (conditional, drawn from $75K reserve if triggered). 2 hours of time. High reputational stakes — if she declines or is already too far toward exit, I will have learned something important.",
+        "reasoning": "Angela leaving while I am mid-restructure would be operationally catastrophic. She is the institutional memory of every employment agreement, every benefit structure, every separation we have done. More than that: if my own HR director does not believe the company has a future, that signal will leak to the floor within two weeks. I need to get her back inside the tent, and I need to do it by making her a stakeholder in the outcome, not a bystander to it. The $12,000 is not a bribe. It is a price signal that I understand what she is worth.",
+        "economic_effects": {
+          "retention_bonus_potential_cost": -12000,
+          "risk_of_losing_hr_infrastructure_mid_restructure": "very high if not retained",
+          "morale_stabilization_value": "significant"
+        }
+      },
+      {
+        "type": "ADAPT",
+        "description": "Call Carlos Ruiz in for a direct conversation before the end of the week. He is my master mechanic. He is researching EV certification programs on his own time tonight — meaning he is weighing whether his future is here or somewhere else. Make him an offer before he finishes those browser tabs: Regional Auto Group will fully fund his EV and hybrid technician certification (estimated $3,500–$6,000 program cost) in exchange for a 24-month commitment to remain with the company. Frame it not as a retention trick but as a business investment I am making in the direction I believe we are heading. He becomes our lead EV service technician. That is a real role with a real future.",
+        "target_agent": "mechanic_carlos",
+        "resources_involved": "$3,500–$6,000 for EV/hybrid certification program. Curriculum research and enrollment can begin within 2 weeks. 1-hour conversation to make the offer. Draws from operating budget, not contingency reserve.",
+        "reasoning": "Carlos is exactly the kind of talent I cannot replace if he leaves. An EV-certified master mechanic in Millfield is a strategic asset, not just a body on the floor. The certification programs he is researching are the same ones I would need to consider company-wide anyway. Funding his certification is simultaneously a retention move, an early investment in the service-forward pivot, and a signal to the rest of the shop floor that I am investing in the future — not winding down. It costs less than one month of a sales manager's salary.",
+        "economic_effects": {
+          "certification_cost": -6000,
+          "retention_value_of_master_mechanic": "high",
+          "service_department_ev_capability_created": "medium-term",
+          "signal_effect_on_shop_floor_morale": "positive"
+        }
+      },
+      {
+        "type": "INTELLIGENCE",
+        "description": "Call Howard Liu directly — not a check-in, a real conversation. Howard's parts store is the nerve center of mechanic intelligence in this county. He hears what mechanics are saying about fleet changes, about what work is drying up and what is being created. I trust him more than almost anyone in this network. Tell him what I am actually thinking: that I am trying to figure out whether the service side of auto can survive and grow in a RoboRide environment, or whether fleet robotaxi operators bypass traditional independent shops entirely. Ask him what he is hearing about how RoboRide handles its own maintenance infrastructure in cities where it has already launched.",
+        "target_agent": "parts_store_owner",
+        "resources_involved": "30–45 minutes of conversation. No financial cost. Trust expenditure: moderate — I am showing Howard more of my uncertainty than I usually would.",
+        "reasoning": "Howard Liu has a trust score of 0.79 — the highest in my network. He is also upstream of the information I need. If RoboRide vehicles require specialized parts or factory-only service, that is a different threat than if they use standard components that any shop can source. I do not know the answer to this. Howard may. The call costs me nothing and could fundamentally reshape how I think about the service pivot.",
+        "economic_effects": {
+          "intelligence_value": "high potential",
+          "direct_cost": 0,
+          "relationship_capital_cost": "minimal"
+        }
+      },
+      {
+        "type": "STRATEGIC_PLANNING",
+        "description": "Convene a closed-door session with Rick Tanner and the two other GMs — not the broad all-hands, but the four people who run the floors. The agenda is one question: if new vehicle sales decline 40% over the next 18 months, what does a solvent, smaller version of Regional Auto Group look like? I am not asking them to plan for closure. I am asking them to help me plan for a company that is half its current size but still viable. Assign each GM to bring a single-page response next week: which of their current operations survive that scenario, and what would need to change. I will share the service audit results when they are complete. This meeting is not a decision — it is a pressure test.",
+        "target_agent": "dealership_gm",
+        "resources_involved": "Half-day meeting. No financial cost. Significant emotional and relational cost — asking my GMs to plan for contraction is an acknowledgment I have not previously made out loud to this group.",
+        "reasoning": "I cannot make a strategic decision about this company by myself, and I should not pretend to. My GMs have floor-level visibility I do not have. If I keep them in the dark about the severity of the scenario I am modeling, I will make a worse plan. More importantly: if I bring them into the planning process now, they become invested in the outcome rather than quietly planning their own exits the way Angela may already be. The risk of this conversation is that it accelerates anxiety. The risk of not having it is that I am the only one who knows how serious this is.",
+        "economic_effects": {
+          "direct_cost": 0,
+          "morale_risk": "moderate",
+          "strategic_alignment_value": "high",
+          "retention_of_key_leadership": "improved if handled well"
+        }
+      }
+    ],
+    "emotional_state": "Deliberate. The alarm is still there but it has shifted from sharp to cold. I am not scared of what I might find out anymore — I am scared of finding out too late. The hardest part of this tick is not the money decisions. It is admitting to the people who work for me that I am modeling a smaller future, and asking them to help me build it.",
+    "archetype_self_assessment": "builder-turning-rebuilder",
+    "inner_monologue": "Dad built one lot into four, and I told myself the legacy was the four — but maybe the legacy was always just the willingness to build."
+  }
+}

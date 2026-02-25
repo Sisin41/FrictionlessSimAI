@@ -1,0 +1,65 @@
+{
+  "tick": 2,
+  "agent_id": "insurance_manager",
+  "agent_name": "Linda Park",
+  "response": {
+    "internal_assessment": "26 policies. That number landed differently than I expected. I've been watching the leading indicators long enough to know: people don't cancel auto insurance the month their behavior changes — they cancel two months before, when they decide. That means the behavioral shift started happening before RoboRide even opened its doors. My trigger rule from last tick says: below 22 policies or below $6,500 income, I execute the transition regardless of what's on the table. I am 4 cancellations from that threshold. At current rate, I am two ticks away. My income barely covers expenses — zero savings margin — which means the certification I enrolled in last tick is the only forward-looking asset I've built so far. Maria Santos just put the whole town on a countdown clock. I am not in panic. But I am aware that 'resolved' and 'comfortable' are not the same thing, and I have been letting them feel the same.",
+    "chosen_actions": [
+      {
+        "type": "active_job_search",
+        "description": "Move from 'submitted applications' to active follow-up and targeting. Contact the two regional contacts I activated last tick by name — specifically the fleet risk colleague — and ask directly: are there open positions, and will they refer me? Simultaneously, identify 3 specific employers outside insurance: a mid-size regional logistics company, a healthcare system (risk/compliance division), and a municipal government (risk management office). Apply to one posted role at each. These are not exploratory inquiries — these are applications with cover letters that make the case for portable risk expertise.",
+        "target_agent": null,
+        "resources_involved": "Time: 5-6 hours this tick across application writing, direct outreach, and follow-up calls",
+        "reasoning": "Last tick I submitted applications broadly. This tick I narrow and push. At 26 policies — and trending toward my 22-policy trigger — I have approximately 2 ticks before my own rules require me to accept whatever is on the table. That means the pipeline needs to have something in it before the trigger fires, not after. The mistake people in my position make is treating job applications as a future activity. They are a present activity with a future payoff. I need to start the clock now.",
+        "economic_effects": {
+          "income_delta": "0 this tick; potential +$1,000-3,000/month if pipeline converts in 2-3 ticks",
+          "savings_delta": 0,
+          "stress_delta": "+0.06 (activation cost is real but bounded)",
+          "agency_delta": "+0.10 (specificity and forward motion are the only antidote to status quo bias I trust)"
+        }
+      },
+      {
+        "type": "team_intelligence_gathering",
+        "description": "Call a brief, informal one-on-one with each of my 6 agents this week — not a team meeting, individual calls. Direct question: what are you hearing from policyholders who have already canceled or are asking questions? What's the pattern? Are people citing RoboRide specifically? Are they switching to pay-per-mile products, or just canceling outright? I am their manager. They have ground-level data I don't. I also want to know what each of them is doing personally — not to intrude, but because if 2 of my 6 agents are actively job-searching, that tells me something about the accelerating timeline that no policy count report will capture.",
+        "target_agent": null,
+        "resources_involved": "Time: 2-3 hours across 6 short calls; no financial cost",
+        "reasoning": "My agents are closer to cancellation conversations than I am. The policy count is a lagging indicator — what policyholders say before they cancel is the leading indicator. I have 6 people who are having those conversations right now. Not using them as an intelligence asset at this moment is a managerial failure. Additionally, if my team is already fragmenting — if the smart ones are already quietly exiting — I need to know that before it affects my own exit timing. I manage 6. In a declining market, that number will shrink. The question is whether I control how I exit or whether the headcount does it for me.",
+        "economic_effects": {
+          "income_delta": 0,
+          "savings_delta": 0,
+          "stress_delta": "-0.04 (replacing ambient uncertainty with actual data reduces stress, not increases it)",
+          "agency_delta": "+0.05"
+        }
+      },
+      {
+        "type": "financial_trigger_review",
+        "description": "Revisit the trigger rules I set last tick in light of new data. Original rule: below 22 policies OR below $6,500 income, execute transition immediately. Revised assessment: at current decline rate (4 policies gone before launch, with launch next month), the 22-policy threshold could hit by tick 3 or 4. That means the trigger was set correctly — but I need to audit one thing I didn't account for: the car payment. $502/month is a significant fixed expense if income drops. Run the scenario: if income drops to $6,500 — my trigger floor — the $502 car payment goes from 6.8% of income to 7.7%. Not catastrophic, but under job-loss conditions, that payment becomes the first domino. Add a secondary trigger: if I accept a new role at lower salary OR if policies drop below 22, open a serious conversation about whether the current vehicle makes sense. Document this calculation. Keep it unemotional.",
+        "target_agent": null,
+        "resources_involved": "Time: 1 hour to run and document scenarios; no immediate financial cost",
+        "reasoning": "I set trigger rules last tick while I was calm. The point of trigger rules is that you review them with new data but you do not abandon them when the data gets uncomfortable. 26 policies is new data. The right response is not to raise the threshold — it is to make sure the response plan is still calibrated. The car payment question is the one I've been not-quite-asking. My substitution willingness is 0.50. That is exactly the kind of number that means I could do it if I decided to — I just haven't decided yet. The time to decide is before I need the cash, not after.",
+        "economic_effects": {
+          "savings_delta": 0,
+          "income_delta": 0,
+          "stress_delta": "-0.03 (explicit accounting beats implicit dread)",
+          "potential_expense_reduction": "$502/month if vehicle decision triggered"
+        }
+      },
+      {
+        "type": "insurance_product_pivot_research",
+        "description": "Spend 2 hours this tick surveying whether there is a legitimate pivot within the insurance sector — not as a primary plan, but as a fallback option that buys time. Specifically: commercial lines (business fleet insurance, which grows as RoboRide expands its corporate contracts), cyber liability (high growth, low correlation to AV adoption), or life insurance (completely uncorrelated). This is not a commitment. This is a map of the adjacent terrain so I know whether 'stay in insurance, different product' is a viable option or a dead end I'm romanticizing.",
+        "target_agent": null,
+        "resources_involved": "Time: 2 hours of research; no financial cost",
+        "reasoning": "I have a status quo bias of 0.71. That bias will try to sell me on 'staying in insurance' as the comfortable middle path. The only way to evaluate that option honestly is to look at it directly rather than letting it float as a vague possibility. If commercial lines or cyber is genuinely viable in this region, it deserves to be in my plan as a real option. If it's not viable — if those markets are also thin here — I need to know that too, so I stop using it as an unconscious excuse to avoid the harder move.",
+        "economic_effects": {
+          "income_delta": 0,
+          "savings_delta": 0,
+          "stress_delta": "+0.02 (more information, slightly more cognitive load this tick)",
+          "agency_delta": "+0.04 (eliminating false options is a form of agency)"
+        }
+      }
+    ],
+    "emotional_state": "methodical and quietly urgent — the surface is calm but the math is running constantly underneath it",
+    "archetype_self_assessment": "proactive repositioner",
+    "inner_monologue": "Four cancellations before RoboRide even launched, and I'm still showing up to my own job like the building isn't already on fire at the edges."
+  }
+}

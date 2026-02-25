@@ -1,0 +1,62 @@
+{
+  "tick": 2,
+  "agent_id": "driving_instructor",
+  "agent_name": "Frank Russo",
+  "current_state_summary": {
+    "threat_level": 0.31,
+    "runway_months": 8.1,
+    "savings": 26060,
+    "stress_level": 0.27,
+    "primary_concern": "Zero income with fixed monthly obligations of $3,176 and RoboRide launching next tick. The right column on the legal pad is clear. The question now is whether he can turn it into a paycheck before the runway ends."
+  },
+  "threat_assessment": {
+    "immediate": "$0 income against $3,176 monthly burn. Savings down to $26,060. Every month without income costs another $3,176 and one month of runway. The math is patient and it does not care about his feelings.",
+    "horizon_2mo": "RoboRide launches in Millfield next tick. Teen drivers still legally required to pass a road test, but demand for instruction will compress. Parents who were 'thinking about it' will wait and see. Enrollment will not recover. The market for what he sold is structurally smaller starting now.",
+    "horizon_6mo": "At $3,176/month with no income, savings will be approximately $7,000 by month 6. Credit score of 593 forecloses most traditional financing. The mortgage does not pause. The dependent does not disappear. If no pivot produces income by month 5, L0 survival is genuinely threatened."
+  },
+  "hierarchy_priority": "L2_PARTICIPATE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "I apply for the $5,000 Small Business Stabilization Grant this week. I pull the business license, the tax returns, the utility bills for the school — whatever they need to show I am a real business facing a documented disruption. I fill out the paperwork myself. I do not wait for an accountant or for the right moment. The grant does not solve the problem but it buys me six weeks. Six weeks is not nothing.",
+      "rationale": "Frank qualifies. He is a small business owner in a sector being directly disrupted by an announced municipal technology deployment. The $5,000 does not replace income but it slows the savings bleed and signals to himself that he is moving, not waiting. Given his loss aversion of 2.5x, the psychological cost of watching savings drain without acting is higher than the effort of a grant application. This is the lowest-friction concrete action available this tick. He does it first.",
+      "timeline": "This week — within 5 business days of tick start",
+      "expected_outcome": "$5,000 grant receipt within 30-60 days, pending approval. Immediate effect: Frank has demonstrated to himself that he can navigate bureaucracy and take action under pressure. Secondary effect: contact with the municipal office surfaces other programs and contacts he did not know existed."
+    },
+    {
+      "action_id": 2,
+      "description": "I attend Maria Santos's public input session. I do not go to complain. I go because she asked for people like me specifically and because I have something concrete to say: a driving school in Millfield is not just a business, it is a safety infrastructure. Teen licensing requirements do not disappear because RoboRide arrives. I say that plainly. I also ask one question out loud in the room: what does the city's workforce transition fund cover for small business owners who need to retrain, not just displaced employees? I want the council to hear that question from a face they might recognize.",
+      "rationale": "Frank's agency is 0.73. He has the capacity to act in public, and this is one of the few venues where his specific situation — rooted, 58, small business, directly obsoleted — carries weight that abstract data does not. Maria Santos is creating a record. Frank's testimony shapes that record. Additionally, showing up positions him as a community voice rather than a victim, which matters for his identity stability. He is a rebuilder, not a supplicant. The town hall is where rebuilders go to plant flags.",
+      "timeline": "This month — whenever the session is scheduled",
+      "expected_outcome": "Frank's situation is on record with the city council. He makes at least one new contact in the room — another business owner, a workforce coordinator, a council member — that opens a door he does not currently know about. He leaves with a name and a follow-up action."
+    },
+    {
+      "action_id": 3,
+      "description": "I call Janet Brewer at Millfield Community College — I already reached out last tick, I already have the thread open. This time I make a specific ask: is there a slot for a non-credit adult skills workshop that I could pitch and run? Not driving. The right column skills: managing anxiety, breaking down complex tasks, building confidence in adults who have been away from formal learning. I am thinking about workforce transition specifically — there are people in this town right now who need exactly what I know how to do, and they do not know they need it. I want to know if the college can be the venue and the credibility while I provide the instruction.",
+      "rationale": "The community college partnership has three advantages Frank cannot replicate on his own: an existing enrollment infrastructure, institutional credibility with adult learners who are skeptical of private providers, and a physical space he does not have to pay for. His entrepreneurial drive is 0.35 — moderate, enough to initiate a partnership, not enough to build a standalone operation from scratch at 58. The college is the scaffold. He is the program. This call turns last tick's listening into this tick's proposal.",
+      "timeline": "This month — within the first two weeks",
+      "expected_outcome": "A concrete next step with Janet: either a meeting to discuss a pilot program, a referral to the right department, or honest feedback that the college cannot do this so he can move to the next option. Any of these outcomes advances his situation. Waiting does not."
+    },
+    {
+      "action_id": 4,
+      "description": "I make a decision about the driving school assets — the dual-control vehicle, the office lease, the signage and equipment. I do not liquidate anything yet. But I call the landlord about the office lease and find out what my exit terms are. I look at the car payment — $308 a month on a vehicle I may not need at full capacity. I write down what the school costs me monthly to keep alive versus what it would cost to wind down. I do not make the final call this tick. But I stop pretending the question does not exist.",
+      "rationale": "Frank's loss aversion at 2.5x makes him slow to close doors. But the driving school as currently structured — a standalone instruction business in a market about to compress — is carrying monthly overhead against zero revenue. The dual-control vehicle payment alone is $308. The office lease is a number he knows but has not calculated against his new reality. This action is not closure — it is inventory. A seasoned small business owner knows you cannot make good decisions about assets you have not looked at honestly. He looks at them honestly this month.",
+      "timeline": "This month — end of month deadline for gathering all numbers",
+      "expected_outcome": "Frank has a clear picture of what it costs to keep the school operational versus dormant versus closed. He has exit terms from the landlord in writing. He has a number in front of him that either confirms his runway estimate or corrects it. He is no longer avoiding the math."
+    }
+  ],
+  "decisions": {
+    "grant_application": "Yes — apply this week, no delay. The $5,000 Small Business Stabilization Grant is the most immediate concrete action available. Frank qualifies as a small business owner facing documented disruption from a municipal technology deployment. He gathers: business license, most recent tax return, lease documentation for the school, and a one-page narrative explaining how RoboRide Phase 2 directly eliminates the market for his core service. He submits it himself. He does not outsource the paperwork. Doing it himself is also part of the psychology — it is an act of forward motion, not of waiting for rescue.",
+    "pivot_direction": "The right column skills — reading anxiety in a learner, breaking complex tasks into steps, building confidence in adults who want to quit — become an adult workforce transition coaching and instruction program. Specifically: a non-credit workshop series at Millfield Community College targeting adults displaced by automation who need to learn new software, new workflows, or re-enter formal education. Frank is not a tech trainer. He does not need to be. He is a confidence builder for people who believe they cannot do hard new things. That is the product. The name of the vehicle he taught them in is irrelevant. He is also keeping one eye on CDL and motorcycle licensing as fallback — both still require human instruction, both have near-term demand — but the community college direction is the primary pivot because it uses his full right column, not just the driving subset.",
+    "school_assets": "No liquidation this tick. But Frank calls the landlord to understand exit terms and termination costs on the office lease. He pulls the loan documentation on the dual-control vehicle and notes the payoff amount and what he would net if he sold versus what he owes. He does not advertise anything for sale. He does not close anything. He builds the decision spreadsheet so he is not making future choices in the dark. The assets are a resource, not a memorial — but he has to know what they are actually worth before he decides what to do with them.",
+    "town_hall": "Yes — he attends. He says two things: first, that teen licensing requirements do not disappear because autonomous vehicles arrive in Millfield, and that the city should be careful not to defund safety infrastructure before it has a replacement plan. Second, he asks directly whether the workforce transition fund covers small business owners retraining themselves, not just their employees. He keeps it short. He does not perform grief. He makes one factual point and asks one practical question. That is enough. Men like Frank Russo do not give speeches. They say the one true thing and sit back down."
+  },
+  "updated_state": {
+    "stress_level": 0.27,
+    "agency": 0.71,
+    "grief_stage": "bargaining",
+    "savings_delta": -3176
+  },
+  "internal_monologue": "The number is $26,060. I did the subtraction myself. It is not a comfortable number but it is a real one, and real numbers are something I can work with. I have been a small business owner long enough to know that the worst thing you can do in a cash crunch is pretend the cash is not crunching. The grant application took me two hours. Two hours of paperwork for five thousand dollars is the best hourly rate I have seen in thirty years. I am not optimistic yet — I am not built for optimism in the abstract — but I am moving, and moving is different from hoping. The right column on that legal pad says I know how to take a person who believes they cannot do something hard and get them to the other side of it. If that is true — and I am starting to think it is — then there are people in this town right now who need exactly that. They just do not know to call it what I call it yet.",
+  "archetype_self_assessment": "rebuilder"
+}

@@ -1,0 +1,69 @@
+{
+  "tick": 2,
+  "agent_id": "salesperson_tamika",
+  "agent_name": "Tamika Jefferson",
+  "response": {
+    "internal_assessment": "Profiles are live. That was table stakes. The real question this tick is whether I convert presence into clients — and the answer is that nobody's going to find me on Upwork by accident. I have to go get the first two clients myself. Rick Tanner watching my behavior is a problem I can manage: I keep showing up, I keep closing cars, I don't tip my hand at work. But Angela lawyering up tells me the internal timeline at the dealership is shorter than the RoboRide timeline — the HR function restructuring ahead of a workforce reduction is a known sequence. I am not waiting for the exit package. I am building the bridge now so I can choose when I walk across it. Maria's $2,500 retraining grant is real money and I probably qualify — that's two applications I can write in an evening, no pride tax on accepting public support I paid into.",
+    "chosen_actions": [
+      {
+        "type": "client_acquisition",
+        "description": "Cold outreach to 8 specific local small businesses via direct message and email — not a blast, individual messages referencing something specific about their current social media presence. Targets drawn from the customer database I carry in my head from the dealership: two restaurants, one nail salon, one HVAC contractor, one insurance agent, two boutique retail shops, one personal trainer. Message structure: one observation about their current posts (specific, not flattering), one question, one sentence about what I do. No deck, no portfolio link yet — that comes after they reply. Goal: 2 discovery calls booked this tick.",
+        "target_agent": null,
+        "resources_involved": "Time (~4 hours across evenings), no cash outlay",
+        "reasoning": "The profiles are built but passive. Upwork has thousands of freelancers. My actual competitive advantage is not the platform — it is that I already have warm adjacent relationships with local business owners who trusted me enough to hand me $30,000 car decisions. That trust converts faster than any cold platform inquiry. Eight outreach messages is a manageable number to do with real personalization, which is the only kind that converts.",
+        "economic_effects": {
+          "immediate_income_delta": 0,
+          "projected_income_delta_next_tick": 400,
+          "savings_impact": 0,
+          "risk_level": "low",
+          "runway_extension_months": 0.2
+        }
+      },
+      {
+        "type": "grant_application",
+        "description": "Apply for Maria Santos's $2,500 retraining grant and separately research eligibility for the $5,000 small business stabilization fund. The retraining grant is the cleaner fit — I am actively building a freelance business, which is a documented career transition. Write the application tonight: describe the skills audit, the Upwork and Contra profiles, and the specific social media content direction. Keep it factual and direct. If the $5,000 fund requires a registered business entity, note that and decide whether to file a sole proprietor DBA this tick or next.",
+        "target_agent": "council_member_maria",
+        "resources_involved": "Time (~2 hours to write application), no cash outlay",
+        "reasoning": "This is $2,500 that does not require me to sell anything or wait for a client to say yes. I paid into the tax base that funds it. Maria's public statement was designed exactly for people in my position. The cognitive bias to avoid here is the one that says accepting public support signals failure — it doesn't. It signals I am paying attention. The application itself costs nothing and the downside is a form I wrote. The upside is two additional months of runway.",
+        "economic_effects": {
+          "immediate_income_delta": 0,
+          "projected_income_delta_next_tick": 2500,
+          "savings_impact": 2500,
+          "risk_level": "none",
+          "runway_extension_months": 0.8
+        }
+      },
+      {
+        "type": "income_diversification",
+        "description": "Attend Maria Santos's public town hall — not to perform concern, but to be in the room where local business owners and workers are having an honest conversation about the next two months. Introduce myself to three people I don't already know. Listen for two things: (1) businesses that are scared and don't know how to communicate that publicly, which is exactly the kind of client who needs social media help right now; (2) anyone who has already navigated a transition like this and might have referrals or advice. This is networking but it looks like civic participation, which is the most honest framing — it is both.",
+        "target_agent": "council_member_maria",
+        "resources_involved": "Time (~2 hours), no cash outlay",
+        "reasoning": "The town hall is a concentrated room of exactly my target client profile: small business owners facing disruption who need to communicate differently to their customers. It's also the right thing to do as a member of the community. My community_ties score is 0.77 — that means I show up. The professional and the personal motive are aligned here, which is cleaner than either would be alone.",
+        "economic_effects": {
+          "immediate_income_delta": 0,
+          "projected_income_delta_next_tick": 200,
+          "savings_impact": 0,
+          "risk_level": "none",
+          "runway_extension_months": 0.1
+        }
+      },
+      {
+        "type": "income_maintenance",
+        "description": "Keep performing at the dealership without visible signal of exit planning. Close cars. Show up on time. Be pleasant to Rick. Do not discuss job searches, freelance work, or Maria's town hall at work. The $4,200/month income is still funding the bridge-build — every week I keep it is another week I can afford to take the right first client instead of any client. The exit is not this tick. The exit is when freelance income hits $2,000/month or when the dealership makes the first involuntary move — whichever comes first.",
+        "target_agent": null,
+        "resources_involved": "Regular work hours",
+        "reasoning": "Rick watching me is a risk I manage with normal behavior, not with confrontation or disclosure. I have not done anything that violates my employment — building a freelance profile is legal and common. The threat is perception, not legality. The counter to that threat is continued performance. I am not burning this bridge on the way out; I'm walking across it deliberately.",
+        "economic_effects": {
+          "immediate_income_delta": 4200,
+          "monthly_expense_delta": 0,
+          "savings_impact": 1023,
+          "risk_level": "low",
+          "runway_extension_months": 0.0
+        }
+      }
+    ],
+    "emotional_state": "Operational. The word 'focused' was right last tick but this tick it's sharper — I'm not watching the situation anymore, I'm making moves inside it. Angela's attorney appointment feels like a bell going off that I can't unhear. The timeline at the dealership isn't 'two months until RoboRide.' It's 'whenever Rick and the owners decide to get ahead of the revenue drop.' I don't control that clock. I control the one I'm building. The grant application is the first time I've asked for help from a system instead of just working harder — that's different, and it feels slightly unfamiliar, but it's the correct move.",
+    "archetype_self_assessment": "exiter — the adapter framing was true last tick when I was building the parallel track; this tick I'm orienting toward the door. Stay employed, stay solvent, build the client base. The exit has a shape now.",
+    "inner_monologue": "The profiles are a door I built in an empty wall — now I have to actually knock on somebody's."
+  }
+}

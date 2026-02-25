@@ -1,0 +1,62 @@
+{
+  "tick": 2,
+  "agent_id": "truck_owner",
+  "agent_name": "Dale Cooper",
+  "current_state_summary": {
+    "threat_level": 0.19,
+    "runway_months": 10.1,
+    "savings": 48227,
+    "stress_level": 0.18,
+    "primary_concern": "Close Henderson before any budget freeze hits. Pipeline exposure to auto row is real — not urgent, but worth tracking now, not later."
+  },
+  "threat_assessment": {
+    "immediate": "Henderson bid still unsigned. Every week that passes without a signature is a week closer to RoboRide Phase 2 landing and Mike Henderson reading bad news about dealership traffic. Close this week.",
+    "horizon_2mo": "Auto row economy softens as RoboRide goes live. Dealerships, service shops, and tire places — all potential indirect clients — may pull back on discretionary capex. One or two of them could be in Dale's active pipeline.",
+    "horizon_6mo": "New construction demand likely emerges from EV charging infrastructure, RoboRide staging areas, and garage conversions. Dale is positioned to bid this if he starts making calls now. Net effect on his order book could be neutral to positive if he moves early."
+  },
+  "hierarchy_priority": "L2_PARTICIPATE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Call Mike Henderson directly — not email, not text. Phone call this Monday morning. Tell him the materials estimate is locked, the crew window is open, and I need his signature by Friday to hold the start date. Make it easy for him to say yes. Bring the contract to his lot in person if I have to.",
+      "rationale": "Henderson's dealership income is directly correlated to car sales volume. RoboRide Phase 2 is two months out. Once it lands and traffic data starts coming in, he'll be in wait-and-see mode on any discretionary spend over $5K. A $38,000 garage addition is exactly the kind of thing he freezes. Getting his signature this week is the single highest-value action I can take right now.",
+      "timeline": "This week — contract signed by Friday",
+      "expected_outcome": "Signed contract, $38,000 project locked in, start date scheduled for before or immediately after Phase 2 deployment"
+    },
+    {
+      "action_id": 2,
+      "description": "Do a quick client audit — mental list, then written. Who in my current pipeline or recent work history earns income from auto row? Dealerships, service bays, detailers, tire shops, gas stations. Flag those jobs as elevated risk for capex freeze in the next 60-90 days. Not sounding any alarms yet — just knowing where the exposure is.",
+      "rationale": "In 2008 I didn't see which clients were leveraged until three of them canceled on me in the same month. That's the lesson I carry. Auditing now costs nothing. Being surprised later costs real money. My construction skills aren't going anywhere, but if 30% of my informal referral network is auto-row adjacent, that's a concentration risk I need to see clearly.",
+      "timeline": "This week — an hour of list-making, no cost",
+      "expected_outcome": "Clear picture of which clients are auto-row exposed. Prioritize getting signed contracts or deposits from any of them with active bids outstanding."
+    },
+    {
+      "action_id": 3,
+      "description": "Start making calls into two or three new bid categories that have nothing to do with car ownership: residential additions and remodels for healthcare workers and government employees, and any municipal or institutional work in the county — school maintenance, county facility repairs, library or parks work. Put the word out with my subs that I'm looking.",
+      "rationale": "Contractors who survive downturns have diverse pipelines. Healthcare workers, teachers, and government employees kept spending in 2008-2009 because their income was stable. If auto row softens and some of my informal residential referrals dry up, I want jobs already in conversation from non-correlated sectors. Takes time to build that pipeline — start now, not when I'm hungry.",
+      "timeline": "This month — 3-4 calls, no formal marketing spend needed",
+      "expected_outcome": "At least two new bid conversations started outside auto-row adjacent client base. Even if nothing materializes this tick, the relationship groundwork is laid."
+    },
+    {
+      "action_id": 4,
+      "description": "Ask around — quietly — about whether the county or any developer is thinking about EV charging infrastructure, RoboRide staging areas, or repurposing commercial parking. This is speculative but worth one or two conversations. If that work comes, it'll go to whoever is standing in front of the right person when the project gets funded.",
+      "rationale": "RoboRide doesn't just destroy jobs — it creates construction work. Staging areas need paving and site prep. EV chargers need electrical rough-in and concrete pads. Parking structures may get repurposed. My skills — site work, foundations, concrete, framing — map cleanly to that kind of project. Early positioning costs me nothing. Missing it would be dumb.",
+      "timeline": "This month — informal conversations only",
+      "expected_outcome": "Know by end of month whether any RoboRide or EV infrastructure projects are in early planning in Millfield or the county. If yes, get my name in the hat."
+    }
+  ],
+  "decisions": {
+    "henderson_bid": "Escalate immediately. Phone call Monday, in-person if needed, signature by Friday. This is not a 30-day window anymore — it's a this-week window. The longer I wait, the more news he absorbs about what RoboRide does to car traffic, and the more nervous he gets about a $38K discretionary spend. I'm not giving him time to talk himself out of it.",
+    "pipeline_diversification": "Target residential for healthcare workers, teachers, county employees — stable income earners who aren't exposed to AV disruption. Also look at municipal and institutional maintenance contracts. Put the word out with my network. Longer term, start positioning for EV charging infrastructure and AV staging area construction — that work will exist and I want to be first in line.",
+    "auto_row_exposure": "Flagged clients to watch: Mike Henderson (dealership, active bid), any service shop or tire place I've done work for in the last two years. If I have bids outstanding with any of them, push for signed contracts now. If they're referral sources, start cultivating backup referral relationships with clients in non-auto sectors. Not cutting anyone loose — just aware of where the concentration is.",
+    "town_hall": "I'll go. Not because I think Maria Santos is going to say something that changes my situation — she isn't. But showing up is how you know things before the people who didn't show up know them. In 2008, the guys who paid attention to city council meetings two months early had time to adjust. The guys who said 'not my problem' were scrambling by spring. I'll sit in the back, keep my mouth shut mostly, and listen to who's scared and who isn't. That's useful data."
+  },
+  "updated_state": {
+    "stress_level": 0.18,
+    "agency": 0.79,
+    "grief_stage": "none",
+    "savings_delta": 909
+  },
+  "internal_monologue": "Henderson needs to sign this week — not this month, this week. Once that check clears I've got Q2 covered and I can think straight. The auto row stuff is a slow-motion thing, not a fire, but I've seen slow-motion turn into fast-motion fast enough that I'm not going to wait around. I'll go to the town hall, hear what people are saying, and figure out if any of the RoboRide infrastructure work is something I should be chasing. Worst case I sit through an hour of hand-wringing and learn nothing. Best case I'm in the room when someone mentions a project.",
+  "archetype_self_assessment": "stable"
+}

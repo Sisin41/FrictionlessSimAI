@@ -1,0 +1,48 @@
+{
+  "tick": 2,
+  "agent_id": "dealership_gm",
+  "agent_name": "Rick Tanner",
+  "response": {
+    "internal_assessment": "Patricia didn't give me anything real on that call. She ran the all-hands and said 'no decisions made in panic' — that sentence is itself a decision made in panic, she just dressed it up. Angela Wright is talking to an employment attorney. My HR Director. The person who processes terminations is preparing her own. Carlos is studying EV certs at night, Howard is listening to mechanic customers for signals — my floor is reading the room without me. Maria Santos put RoboRide in a public statement, which means I can no longer manage this as a rumor or a maybe. This is no longer something I'm gathering information about. It is here. One month.",
+    "chosen_actions": [
+      {
+        "type": "DIRECT_LEADERSHIP_ACTION",
+        "description": "Request a private, one-on-one sit-down with Patricia Hawkins — not a phone call, an in-person meeting. Frame it as a GM operational briefing: floor plan financing concerns, staffing continuity, Q2 inventory strategy. But the real agenda is to get her to tell me, without a room full of people watching, what the actual plan is for this store. Is Regional Auto Group holding Millfield? Is there a timeline I need to know? I have 4 dependents and I am not going to manage this floor blind for another tick.",
+        "target_agent": "dealership_ceo",
+        "resources_involved": "2-3 hours, no financial cost — a scheduled sit-down",
+        "reasoning": "The word-of-mouth framing isn't working. Patricia told the all-hands what she needed them to hear, not what she knows. The only way to get real information from Patricia is to get her alone, frame the ask as operational (I need to manage the floor), and make it awkward for her to give me the corporate non-answer. She's known me nine years. If there's anything she can tell me, that's the setting where she will. If she still won't — the silence itself is data I can act on.",
+        "economic_effects": {}
+      },
+      {
+        "type": "RETENTION_AND_STABILIZATION",
+        "description": "Pull Angela Wright into a private conversation before she escalates her attorney situation further. Don't address what I know — I can't, because the way I know it exposes how closely I've been watching. Instead: tell her I'm thinking about how to protect the team heading into a volatile period, ask her what she would need to feel secure in her role over the next six months, and listen. The goal is not to stop her from leaving. The goal is to slow the signal she's sending to the rest of the floor. An HR Director quietly consulting an attorney has a gravitational effect — people notice when the person who knows how severance works starts acting like she needs to know how severance works.",
+        "target_agent": null,
+        "resources_involved": "1 hour, no financial cost",
+        "reasoning": "Angela leaving is a negative signal cascade. If Angela goes, the floor will interpret it as confirmation that something is coming — because Angela is never the first one out the door unless she knows the door is about to close. I can't keep her if she's made her decision, but I can buy time on the optics. A GM who doesn't even notice is worse than a GM who engages. I notice. I'm engaging.",
+        "economic_effects": {}
+      },
+      {
+        "type": "FLOOR_OPERATIONS_WITH_URGENCY",
+        "description": "Run the floor at full intensity for the next 30 days. Personally take the floor two afternoons per week — Rick Tanner on the lot, talking to customers, not just managing from the office. Pipeline review every Monday. Push the team on closures before RoboRide launches, because the window of 'normal buying behavior' is closing and I know it even if the team doesn't. Every deal we close in the next 30 days is a deal we close before uncertainty kills foot traffic.",
+        "target_agent": null,
+        "resources_involved": "Additional 6-8 hours per week personal floor time, no financial cost",
+        "reasoning": "There are still sales to close. There are still customers who have not yet decided that RoboRide changes anything for them. My job is to get to those customers before they decide. This is also the one lever I have full control over. I cannot control Patricia's plan. I cannot control what Angela does. I cannot control what RoboRide deploys. But I can work the floor. That is something I am genuinely good at. And right now, staying good at what I am good at is not just habit — it is the thing that keeps income flowing for 10.5 months.",
+        "economic_effects": {
+          "income_protection": "maximizes monthly income draw before disruption reduces floor traffic",
+          "savings_trajectory": "every closed deal in this window matters more than it did last quarter"
+        }
+      },
+      {
+        "type": "PRIVATE_CONTINGENCY_THINKING",
+        "description": "At home, after the family is in bed, write down for the first time — on paper, not on any device — a list of what Rick Tanner actually knows how to do. Not automotive-specific language. Plain language. Managed 47-person operation. Ran a $28M annual revenue P&L. Vendor contract negotiation. Fleet account relationships with 6 commercial clients. Training and onboarding sales staff. Hiring. Customer retention systems. Just the list. Don't label it. Don't call it a resume. Don't show it to anyone. Just look at it.",
+        "target_agent": null,
+        "resources_involved": "45 minutes, no financial cost",
+        "reasoning": "Last tick I let this question sit in my head. This tick I write it down. Not because I'm planning to leave. Not because I've accepted that this is ending. But because a man who has been in one industry for 32 years and has 4 dependents and 10.5 months of runway cannot afford to let identity attachment be the reason he never asked the question. Writing it down does not mean I'm quitting. Writing it down means I am 51 years old and I am not going to be caught completely flat-footed. The paper stays home. Nobody sees it.",
+        "economic_effects": {}
+      }
+    ],
+    "emotional_state": "Visibly composed. Doing his job. The unease is present but contained — he's leaning into the floor work because motion feels like control. Privately: more unsettled than tick 1, because 'rumor' no longer applies. What he felt last tick as a maybe is now a when.",
+    "archetype_self_assessment": "stable — but performing stable more consciously than feeling it",
+    "inner_monologue": "I've run this floor through every kind of bad year there is, and I'm going to run it through this one too — and I will believe that for exactly as long as I can afford to."
+  }
+}

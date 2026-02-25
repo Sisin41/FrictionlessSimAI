@@ -1,0 +1,61 @@
+{
+  "tick": 2,
+  "agent_id": "rideshare_driver",
+  "agent_name": "Robert Jackson",
+  "response": {
+    "internal_assessment": "I said last month I was going to look into CDL licensing. That was the plan. Then I drove sixty hours a week and the research stayed a browser tab I opened and closed twice. The outcome was $387 saved on sixty hours of work. I know what that math means. James Patterson is already in a robotaxi. That's not a data point — that's a person I've probably driven before, sitting in a car that replaced me, right now, in this city. The grant is real. Maria's $2,500 retraining grant is real and I have not applied for it. I have been treating this like a research problem when it is actually a deadline problem. I have four weeks before direct competition arrives and I am still only driving. That changes this tick. Not all of it changes — I still need the income — but the ratio has to shift. This month I have to do something I can't undo, something that commits me to a direction, because the window where I have options is closing faster than my savings are growing.",
+    "chosen_actions": [
+      {
+        "type": "grant_application",
+        "description": "Apply for Maria's $2,500 workforce retraining grant this week. Not research it. Not bookmark it. Fill out the form and submit it. The council is expected to pass the program. I qualify. Waiting to apply until after it passes is the same logic that kept me from fixing the brakes — deferring a clear action because the timing feels slightly uncertain. The time to apply is now.",
+        "target_agent": "council_member",
+        "resources_involved": "3-4 hours to complete application, no financial outlay, requires documentation of current employment and income",
+        "reasoning": "This is $2,500 I am leaving on the table every week I don't apply. That's more than six weeks of my current savings rate from 60-hour weeks. If CDL training costs $4,000-$7,000 and I currently have $7,774, that grant is the difference between being able to afford the transition and draining my runway trying to pay for it. This is the highest-leverage action available to me this tick that costs nothing but time. It also forces me to be specific about what I'm retraining into — which I need to decide.",
+        "economic_effects": {
+          "savings_change": "+$2,500 if approved (offset training costs)",
+          "runway_extension": "+0.9 months effective if applied to training cost",
+          "decision_forcing": "Application requires naming a training program — commits to a direction"
+        }
+      },
+      {
+        "type": "skill_investment",
+        "description": "Enroll in CDL Class B permit prep — not the full program, not a financial commitment yet, but the written permit exam prep materials ($45-65 one-time). Schedule the CDL written permit test for four weeks from now. The permit test is the first concrete step that cannot be undone. Everything before this was research. This is registration.",
+        "target_agent": null,
+        "resources_involved": "$45-65 for study materials from savings, 45-60 minutes per day of study time carved out of non-driving hours — early morning before Marcus wakes, not late night when I'm already burned from a shift",
+        "reasoning": "CDL Class B opens logistics, local delivery, school bus, municipal transport. These roles are not going away to robotaxis on the same timeline as rideshare — they require human judgment for loading, routing variations, customer interaction in ways that pure point-A-to-point-B automation replaces first. The permit test costs under $100 and signals to the job market, and to myself, that I am actually moving. I cannot show up to interview at a logistics company with nothing but a rideshare rating. I need a credential in progress. The permit test in four weeks is that credential. I already know how to drive. The written test is the only barrier I can clear right now without quitting driving entirely.",
+        "economic_effects": {
+          "savings_change": "-$55 approximate for materials",
+          "credential_progress": "Written permit test scheduled — tangible milestone",
+          "runway_impact": "Negligible financial cost, but creates a commitment anchor point"
+        }
+      },
+      {
+        "type": "peer_contact",
+        "description": "Talk to Carlos Ruiz directly. He's researching EV certs. He's already asking the same questions I'm asking — what does the next version of my job look like? He's a mechanic, not a driver, but he is someone in this city who is actively pivoting, not just worrying about it. Find out what he knows. Specifically: does he know anything about Maria's grant, about local retraining timelines, about who else in Millfield is actually moving? Thirty minutes of conversation with someone who is actually doing something is worth more than three hours reading program websites.",
+        "target_agent": "auto_mechanic",
+        "resources_involved": "Time only — 30-45 minute conversation, in person or by phone",
+        "reasoning": "Carlos is the first real-world data point I have access to of someone who is transitioning, not just talking about transitioning. My social proof sensitivity is real — I know I respond to concrete examples more than abstract data. If he's found a path that works for him, some of that knowledge transfers. If he's run into walls I haven't hit yet, I need to know before I hit them. This city is small enough that the people who are figuring it out know each other. I need to be in that network, not watching it from the forum.",
+        "economic_effects": {
+          "savings_change": "$0",
+          "information_value": "Direct intelligence on local retraining ecosystem from someone already navigating it",
+          "network_effect": "Entry point into community of people actively transitioning"
+        }
+      },
+      {
+        "type": "income_maintenance",
+        "description": "Hold driving at 55-58 hours per week rather than pushing to 62+. The extra hours above 55 are producing diminishing returns on a degrading vehicle and I now have a study schedule to protect. The income drop from pulling back 4-5 hours per week is roughly $80-100/month — I absorb that in exchange for the time and cognitive capacity to actually execute the transition actions.",
+        "target_agent": null,
+        "resources_involved": "Accepts ~$80-100/month income reduction to preserve bandwidth for training, application work, and recovery",
+        "reasoning": "I have been running at 60-62 hours and saving $387/month. That is not a sustainable extraction rate — it is burning the engine to fill the tank. If I get sick, if the car breaks down, if I hit a wall at week six, the sixty-hour strategy collapses entirely. Pulling back to 55-58 creates the margin where I can study before Marcus wakes up, where I can have a conversation with Carlos without losing a surge window, where I can spend three hours on a grant application without it feeling like I'm hemorrhaging income. The psychological cost of running at maximum is also real. I need some of that overhead back to think clearly.",
+        "economic_effects": {
+          "savings_change": "-$80 to -$100/month vs. 60-hour pace",
+          "vehicle_wear": "Slightly reduced, extends time before next maintenance event",
+          "cognitive_capacity": "Preserved for training and transition work — the actual investment"
+        }
+      }
+    ],
+    "emotional_state": "Resolved but not calm. The difference between tick 1 and tick 2 is that the fear has found a direction. Last month the fear was ambient — it was in the walls. This month it is pointing at specific things: the grant form, the permit exam date, Carlos's phone number. Robert is not optimistic. He is not telling himself this is going to be fine. He is telling himself that there are four actions in front of him and each one is something he can actually do, and that doing them is better than not doing them, and that is enough to move on. He is still not telling Marcus anything beyond that work has been busy. The weight of carrying that alone is real. But he is not ready to explain something he hasn't resolved yet. The car payment sits in the back of his mind every time he runs the numbers — $480 on an asset that serves a market that is expiring. He has not made a decision about it yet. That decision is coming. He knows it's coming. He is not ready for it this tick.",
+    "archetype_self_assessment": "transitioning — still driving, but the driving is now funding the exit, not the destination",
+    "inner_monologue": "I told myself I'd research CDL last month and I opened a tab and closed it twice and saved $387 on sixty hours of work, so this month I'm doing three things I can actually point to: I'm submitting the grant application, I'm paying for the permit prep book, and I'm calling Carlos — and if none of it works out I'm still further than I was last week, which is the only math that matters right now."
+  }
+}

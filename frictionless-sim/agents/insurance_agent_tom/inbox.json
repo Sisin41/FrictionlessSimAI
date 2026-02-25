@@ -1,21 +1,25 @@
 {
-  "tick": 1,
+  "tick": 2,
   "messages": [
     {
-      "type": "RUMOR",
-      "content": "People are saying: RoboRide Inc announces expansion to many new cities. Millfield is listed for Phase 2 deployment, expec. (You're not sure of the exact details.)"
+      "type": "AMBIENT",
+      "content": "Ongoing: RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
     },
     {
       "type": "SECTOR_DATA",
-      "content": "Active auto insurance policies in area: 28. "
+      "content": "Active auto insurance policies in area: 26. "
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Business closing: Carlos Ruiz \u2014 full day at the shop \u2014 complete brake overhaul on a 2019 f-150, diagnose a rough idle on a honda accord, and close out two routine services. keep the schedule tight and the quality high."
+      "content": "Business closing: Carlos Ruiz \u2014 after the meeting \u2014 tonight, at the kitchen table, after the kids are in bed \u2014 open the browser tab again. this time don't close it. look specifically at ev and hybrid certification programs: what they cost, how long they take, whether his existing ase certifications carry over, and whether any shops in a 40-mile radius are already hiring for ev-specific work."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: James Patterson \u2014 list 2021 honda accord for private sale immediately at $19,400 on facebook marketplace and craigslist. price is set slightly above kbb private party to leave negotiation room. target close within 3-4 weeks, before roboride launch softens used car demand."
     },
     {
       "type": "OUTCOME",
-      "content": "You Pull a list of the 20 clients who haven't called in over a year and send them a personal check-in email \u2014 something warm, not salesy. Reference their specific policy, ask how the car is treating them, mention that rates are moving around and I want to make sure they're still getting a good deal. Sign it Tom, not 'Tom Bradley, Licensed Agent.'. Savings grew by $299. "
+      "content": "You Follow up personally by phone with the two clients whose policies appear to have cancelled \u2014 try to win them back or at least learn why they left.. Savings grew by $106. "
     }
   ]
 }

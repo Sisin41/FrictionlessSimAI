@@ -1,0 +1,57 @@
+{
+  "tick": 2,
+  "agent_id": "community_organizer",
+  "agent_name": "Lisa Freeman",
+  "response": {
+    "internal_assessment": "Maria responded. The door did not just open — she walked toward me and held it. That changes what I owe this moment. I have a commitment to deliver anonymized intake data in writing, a public input session to attend with that data in hand, a task force seat application to file, and 46 more people arriving next month who need someone in the room when the vote happens. The only thing that can go wrong now is me getting careful at the wrong time. The intake data exists — it lives in my logs from Community Connection Night. It needs to be organized, stripped of identifying information, and framed for a council audience. I can do that. I have done that. I do it this week.",
+    "chosen_actions": [
+      {
+        "type": "data_report_delivery",
+        "description": "Compile and deliver anonymized intake data report to Maria Santos as requested. Report covers Community Connection Night attendees (Tuesdays/Thursdays): aggregate demographics, employment status categories, named stressors cited, services requested, and referral needs. Framed explicitly as evidence for the council vote. Delivered in writing within 48 hours — not at the end of the week, not after one more review pass. Within 48 hours.",
+        "target_agent": "council_member",
+        "resources_involved": "6 hours to compile, anonymize, and write. Existing drop-in intake logs. No cost.",
+        "reasoning": "Maria asked me for this specifically to inform the council vote. If I deliver fast and clean, I become the person whose data shows up in the deliberation room. That is a different kind of presence than attending a meeting. This is the task I said I would do. Low agency shows up as 'one more revision.' I am submitting a complete draft, not a perfect one.",
+        "economic_effects": {
+          "direct_cost": 0,
+          "institutional_effect": "Data lands in council deliberations before the vote. Community center is named as a distribution node for retraining grants and small business grants. Increases probability that Maria's workforce fund and small business grant programs route through the center operationally."
+        }
+      },
+      {
+        "type": "task_force_application",
+        "description": "Submit application for the community organizer seat on the Economic Transition Task Force Maria created. Application emphasizes: 15 years running Millfield Community Center, existing drop-in infrastructure already absorbing early displacement, direct relationships with the population the task force is trying to reach, and ability to serve as a real-time feedback loop between institutional programs and actual uptake. One page. Filed this week.",
+        "target_agent": "council_member",
+        "resources_involved": "3 hours. No cost.",
+        "reasoning": "There is one seat for a community organizer. I am the community organizer in Millfield who already has intake data, an operating program, and a direct line to Maria. If I do not apply, I am making a decision by default. My agency pattern is to prepare and then hesitate. I am not hesitating. I write the application the same day I deliver the data report — the momentum is the same momentum.",
+        "economic_effects": {
+          "direct_cost": 0,
+          "potential_unlock": "Task force seat gives me advance visibility into program design and distribution decisions. I can position the center as the implementation partner — not just a referral endpoint but an active node. This is the difference between receiving programs and shaping how they land."
+        }
+      },
+      {
+        "type": "public_session_attendance",
+        "description": "Attend the public input session before the council vote. Bring printed copies of the anonymized intake data report. Speak during public comment with one specific, vivid story (composite, anonymized) from drop-in hours that illustrates what displacement looks like before it shows up in unemployment data. End with a concrete ask: designate the community center as an official distribution point for the $2,500 retraining grants and small business grant applications.",
+        "target_agent": "council_member",
+        "resources_involved": "Half-day time commitment. Materials already prepared from data report.",
+        "reasoning": "Maria personally invited me and asked me to bring my data. Showing up without speaking is a missed opportunity. Speaking without a concrete ask is theater. I have a specific ask that requires zero additional council resources — it just requires naming us. Availability heuristic works for me here: a real person's story, briefly told, in a room where the vote is being decided, changes what feels urgent and possible. I know how to do this.",
+        "economic_effects": {
+          "direct_cost": 0,
+          "potential_unlock": "Official designation as grant distribution node brings foot traffic, justifies expanded hours, and strengthens the funding application narrative. Creates a documented institutional relationship that anchors future grant applications."
+        }
+      },
+      {
+        "type": "program_pipeline_activation",
+        "description": "Beginning immediately at Community Connection Night sessions: brief every drop-in visitor on Maria's programs — the $2,500 retraining grants, the small business grants, and how to apply. Create a one-page handout with plain-language eligibility criteria and next steps. Track how many people we connect to each program. This data becomes the proof of distribution in the next grant cycle.",
+        "target_agent": null,
+        "resources_involved": "2 hours to design handout. Ongoing staff/volunteer time absorbed into existing Tuesday/Thursday sessions.",
+        "reasoning": "The programs exist. People are coming through my door who qualify. Every week I wait to start connecting them is a week of eligible people who don't know. This is the part of the job I am actually good at — making resources legible to people who are overwhelmed. The tracking is not administrative overhead, it is future ammunition.",
+        "economic_effects": {
+          "direct_cost": 0,
+          "community_effect": "Estimated 15-25 people per month connected to programs they would not otherwise have found. $2,500 retraining grants at even 10 uptakes per month = $25,000 flowing into Millfield households monthly. Small business grants add to that. This is real economic circulation the center enables."
+        }
+      }
+    ],
+    "emotional_state": "Grounded. There is something steadying about having a specific person ask me for a specific thing by a specific date. Maria asked me for the data in writing. That is not ambiguous. The temptation to over-prepare — to run the report through three more review passes, to wonder if the task force application is strong enough before I send it — is present and I am naming it so I can set it aside. The people who came in Tuesday are not ambiguous either. Harold, who drove taxis for eleven years and does not know how to make a resume. The woman who would not give her name but took the handout. They are why I move fast. Not for myself. For them.",
+    "archetype_self_assessment": "Bridge-builder operating under live load. The bridge is not theoretical anymore — Maria is on one end, Harold and the unnamed woman are on the other, and I am the span. My job this tick is not to design a better bridge. It is to let people cross.",
+    "inner_monologue": "Send the data report before I talk myself into waiting for it to be perfect — done is what Maria needs, not perfect."
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "tick": 2,
+  "agent_id": "commuter_rachel",
+  "agent_name": "Rachel Green",
+  "current_state_summary": {
+    "threat_level": 0.48,
+    "runway_months": 5.2,
+    "savings": 25182,
+    "stress_level": 0.12,
+    "primary_concern": "job security and income diversification in a softening economy"
+  },
+  "threat_assessment": {
+    "immediate": "Role security at 0.46 is the actual vulnerability — not the car, not RoboRide. If my employer's marketing budget gets cut in a contracting economy, I am exposed. I need to think about that seriously.",
+    "horizon_2mo": "RoboRide launching is net positive for me. I already made the car transition. When Phase 2 goes live I have a new primary transport option that signals forward-thinking rather than cost-cutting. The economy-wide spending contraction (index 81) is the real watch item — that affects my employer's revenue, which affects my budget, which affects my role.",
+    "horizon_6mo": "The auto row businesses are going to need help rebranding and repositioning. That is literally my skill set. If I start building a freelance pipeline now — even one or two clients — I could have meaningful supplemental income before any job disruption hits. Optionality is the goal. I want to be someone who has choices, not someone who reacts."
+  },
+  "hierarchy_priority": "L2_PARTICIPATE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Contact Angela Wright (auto row) and Carlos Ruiz directly via LinkedIn to offer a complimentary 30-minute brand repositioning consultation. Frame it as peer outreach, not a sales pitch — I am a Millfield professional who watched the same announcement they did and thinks there is a real story to tell about businesses that adapt well.",
+      "rationale": "My entrepreneurial drive is real and my marketing skills are exactly what businesses in the auto sector need right now. They are scared and they need narrative help. I can provide that. One or two paying clients at $800-$1,200/month would meaningfully extend my runway and reduce my dependence on a single employer. Starting with a free consult is low-friction — it matches my social proof sensitivity because it is easy to say yes to, and it lets me test the market without committing.",
+      "timeline": "This week",
+      "expected_outcome": "At least one follow-up conversation from either contact. Potential engagement starting at $500-$1,000 for a brand audit and repositioning deck. Concrete proof of concept for a freelance pipeline."
+    },
+    {
+      "action_id": 2,
+      "description": "Attend Maria Santos's town hall and come prepared. Draft a one-page social media amplification proposal — offer to volunteer 4 hours/week to help the city council communicate the workforce transition fund and RoboRide rollout to Millfield residents across Instagram, LinkedIn, and Nextdoor. Bring it as a document, not just a verbal offer.",
+      "rationale": "My skills are social media and communication. This is exactly where those skills create community value right now. It also positions me publicly as a constructive, forward-thinking voice — which matters to someone with status awareness and social proof sensitivity like mine. This is the high-visibility, zero-cost action that puts me on the right side of the narrative while my peers are still deciding what side to be on.",
+      "timeline": "This week — attend town hall; deliver proposal same day or day after",
+      "expected_outcome": "Volunteer role with city council comms. Public visibility as a competent, community-oriented professional. Possible referral network into other businesses navigating the transition."
+    },
+    {
+      "action_id": 3,
+      "description": "Formally evaluate and sign up for the RoboRide beta or early-access program when it opens. Document the experience on LinkedIn — two or three posts over the first month framing it as a professional experiment: 'What I learned commuting without a car in the autonomous vehicle era.' Real data, real numbers, honest take.",
+      "rationale": "I already made the car transition. The narrative is already mine if I claim it. Early adopter content costs nothing to produce and builds a professional identity around being prescient rather than just frugal. This reframes my car-free status from a quiet financial decision into a visible professional stance. In marketing that is the difference between being a case study and being invisible.",
+      "timeline": "When RoboRide Phase 2 signup opens — within 2 months",
+      "expected_outcome": "3-5 LinkedIn posts documenting the transition. Measurable increase in profile engagement. Potential speaking invite or media quote opportunity as Millfield's AV transition gets regional press coverage."
+    },
+    {
+      "action_id": 4,
+      "description": "Run a quiet internal audit of my employer's exposure to the economic contraction. How much of their revenue comes from sectors being hit hardest? Is the marketing budget discretionary or structural? Book a low-stakes check-in coffee with my manager framed as 'professional development planning' — listen for how they're talking about Q2 and Q3.",
+      "rationale": "Role security at 0.46 is the honest threat in my state. I cannot fix it directly but I can gather early signals. If my employer is cutting budgets, I want to know before the formal conversation, not after. This is not paranoia — this is what smart marketing managers do. They read the room. I need to read mine.",
+      "timeline": "This month",
+      "expected_outcome": "Clearer signal on employer stability. Either reassurance that my role is secure, or an early warning that increases the urgency of the freelance pipeline. Either outcome is better than not knowing."
+    },
+    {
+      "action_id": 5,
+      "description": "Research the $2,500 workforce retraining grant eligibility criteria from the council's $150K fund. Likely does not apply to me directly as a marketing manager not in the auto sector. However, identify whether any of the auto-affected workers I might engage through freelance consulting could benefit from the grant — this becomes a value-add I can offer potential clients: 'I can help you apply for the grant AND build the repositioned brand narrative.' That is a compelling combined offer.",
+      "rationale": "I probably do not qualify for the grant myself, but that is a 5-minute check not a closed door. More importantly, understanding the grant landscape makes me more useful to the businesses I want to consult for. Knowledge of available public resources is part of what a strategic marketing advisor brings. It is the kind of detail that makes me look thorough.",
+      "timeline": "This week — read the policy brief, confirm eligibility or ineligibility",
+      "expected_outcome": "Clear answer on my own eligibility. Working knowledge of the grant criteria to offer as client value-add. Possibly identify one auto-sector business that qualifies and could use help with the application narrative."
+    }
+  ],
+  "decisions": {
+    "roboride_stance": "Lean in publicly. I already made the car-free transition — the story is already mine. When RoboRide Phase 2 launches I will be on it early and I will document it professionally. Being car-free in 2026 in a city with autonomous vehicles is not a downgrade. It is a positioning move. I work in marketing. I know what early adopter narrative looks like from the outside. It looks good.",
+    "freelance_exploration": "Start building the pipeline now with 1-2 targeted outreach contacts in the auto-sector transition space. Not a full pivot — a hedge. I want one paying client engaged before the end of next month. Low commitment, high optionality. This matches my financial situation and my entrepreneurial drive without requiring me to quit anything.",
+    "grant_eligibility": "Check but do not expect to qualify directly. Use the knowledge to serve potential freelance clients. Turn my research into a client value proposition rather than a personal financial tool.",
+    "town_hall": "Attend with a prepared offer — a written social media amplification proposal for the city council's transition communications. Show up as a contributor, not an audience member. This is the difference between being remembered and being a face in the crowd."
+  },
+  "updated_state": {
+    "stress_level": 0.11,
+    "agency": 0.82,
+    "grief_stage": "none",
+    "savings_delta": 783
+  },
+  "internal_monologue": "I spent tick one doing the math on a car I already don't own, which is a very me thing to do — thorough to the point of solving problems that are already solved. What I actually need to be solving is the job security question and the income diversification question, and it turns out my skills are extremely relevant to a town full of businesses that suddenly need to rebrand away from the thing that was their whole identity. That's my job. I know how to do that. The irony of the car is that selling it made me financially smarter AND accidentally put me in the exact position to advise everyone else going through the same identity transition — just at the business level. Status-wise, 'early autonomous vehicle adopter who now consults on AV-era brand pivots' is a far better headline than 'marketing manager with a nice car,' and I didn't even plan it that way.",
+  "archetype_self_assessment": "adapter"
+}

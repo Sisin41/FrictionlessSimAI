@@ -1,0 +1,50 @@
+{
+  "tick": 2,
+  "agent_id": "young_gig_worker",
+  "agent_name": "Zoe Martinez",
+  "response": {
+    "internal_assessment": "The TikTok went up. It felt good. But I looked at the numbers this morning and the savings barely moved — $198, same as the DoorDash tick, same as the content tick. That's just my baseline surplus. I have $3,196 and 1.3 months of runway and I keep patting myself on the back for being early to a trend while the actual math doesn't care about that. I heard Maria Santos is pushing a $2,500 retraining grant for service workers — that's real money, that's my sector, and I have not looked into it yet, which is embarrassing. The consumer spending index is at 81 and two people in Millfield just sold their cars this month. I am not the only one who sees what's coming. I need to stop waiting for the content to become income and start treating this week like the financial emergency it actually is.",
+    "chosen_actions": [
+      {
+        "type": "policy_inquiry",
+        "description": "Research and formally apply for Maria Santos's $2,500 retraining grant before the application window opens or fills. Contact the council office directly, find the eligibility criteria for service sector workers, and submit all required documentation this week. This is real money, not potential money.",
+        "target_agent": "city_council_member",
+        "resources_involved": "3-4 hours administrative time, proof of employment in service sector, financial documentation",
+        "reasoning": "A $2,500 grant moves my runway from 1.3 months to approximately 2.1 months and gives me actual breathing room. I qualify — I am exactly the worker this policy is designed for. I have been ignoring concrete policy solutions while chasing speculative content income. That is backwards. Apply now before the window closes.",
+        "economic_effects": {
+          "potential_immediate_income": 2500,
+          "runway_impact": "extends from 1.3 months to approximately 2.1 months",
+          "probability": "moderate-high if eligibility confirmed",
+          "cost": "time only"
+        }
+      },
+      {
+        "type": "income_diversification",
+        "description": "Pick up every available DoorDash and Instacart shift this week — not as a background plan but as the primary income focus. Target 15+ additional hours this week specifically. Also check if the cafe has any extra shifts available given the economic slowdown pulling foot traffic — sometimes reduced hours mean available makeup shifts elsewhere.",
+        "target_agent": null,
+        "resources_involved": "15+ hours this week, full use of DoorDash and Instacart apps, bike for local delivery",
+        "reasoning": "I planned extra shifts in tick 0 and tick 1 and the savings delta was $198 both times. That suggests the extra shifts either did not happen or did not register. I need to be specific and deliberate: this week's goal is $150-200 in incremental gig income on top of baseline. Not planned. Executed.",
+        "economic_effects": {
+          "immediate_cost": 0,
+          "expected_income": "$150-200 incremental this week if executed",
+          "impact_on_runway": "small but real positive, demonstrates I can actually close the gap between planned and actual"
+        }
+      },
+      {
+        "type": "content_monetization_pivot",
+        "description": "Stop posting for validation. Post one piece of content this week that is specifically designed to drive affiliate or creator program revenue: a direct comparison of monthly costs car-owning vs car-free in Millfield, with an explicit RoboRide referral link if their affiliate program exists, or a direct pitch in the video asking brands to reach out. Follow up on the RoboRide creator program research from tick 1 — did it yield anything? If yes, activate it. If no, move on and stop spending time on speculative content during a financial emergency.",
+        "target_agent": null,
+        "resources_involved": "2 hours max, smartphone, existing follower base, referral/affiliate research already done",
+        "reasoning": "Content is only worth time right now if it has a monetization mechanism attached. Free reach does not pay rent. One intentional monetization-focused post is worth more than five feel-good validation posts. If the RoboRide affiliate program does not exist or pays nothing, I stop treating content as income and treat it as a hobby until the financial situation stabilizes.",
+        "economic_effects": {
+          "immediate_cost": 0,
+          "potential_upside": "small affiliate income if program exists, brand outreach if video performs",
+          "time_cap": "2 hours — not more this week"
+        }
+      }
+    ],
+    "emotional_state": "The brightness from last tick is still there but it has a different quality now — less pure validation, more pressure behind it. Like the feeling when you realize you've been telling a good story about your life while quietly ignoring the actual numbers. Not panic. Not yet. But something that finally feels proportionate to a 1.3-month runway.",
+    "archetype_self_assessment": "gig-survivor waking up | adapter starting to move",
+    "inner_monologue": "The TikTok felt like doing something but $198 is just my regular surplus and I have to stop confusing feeling productive with actually closing the gap."
+  }
+}

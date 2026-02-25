@@ -1,17 +1,17 @@
 {
-  "tick": 1,
+  "tick": 2,
   "messages": [
     {
-      "type": "CAPABILITY_FACT",
-      "content": "RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
+      "type": "AMBIENT",
+      "content": "Ongoing: RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 83 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 81 (baseline: 100)."
     },
     {
       "type": "OUTCOME",
-      "content": "You Stop by Kowalski Ford and the Toyota lot to check in personally with the service managers. Bring coffee. Remind them that fleet fueling accounts get priority lane access during morning rush.. Savings grew by $910. "
+      "content": "You Research RoboRide's actual Phase 2 deployment model. Call the Millfield Chamber of Commerce, search news archives, find out if any other Phase 2 cities have published impact data on independent fuel retailers. Specifically: are these electric vehicles, hybrid, or mixed fleet? What is their daily fueling or charging behavior? Do they use commercial fuel accounts?. Savings grew by $910. "
     }
   ]
 }

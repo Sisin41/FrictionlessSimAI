@@ -1,0 +1,46 @@
+{
+  "tick": 2,
+  "agent_id": "mechanic_carlos",
+  "agent_name": "Carlos Ruiz",
+  "response": {
+    "internal_assessment": "Patricia said nothing concrete. That is its own kind of answer. She called everyone in, she gave us tone — careful tone, managed tone — and no plan. Which means either there is no plan, or the plan is not for us. The tab is still open. I sat down at the kitchen table after the kids were in bed and I looked at it for eleven minutes before I actually started reading. I have electrical systems experience. That is on my ASE certs. The gap is not as wide as I was pretending it was, and pretending it was wider than it is was something I was doing on purpose, so I could avoid the cost of closing it. Maria Santos said something publicly about RoboRide — I haven't read it yet, but a council member going on record means the situation is real enough that people with something to lose are attaching their names to it. I have six and a half months and three kids and I cannot afford the luxury of waiting for things to become undeniable.",
+    "chosen_actions": [
+      {
+        "type": "skill_research",
+        "description": "Spend 90 minutes actually reading the EV certification page that has been open in the browser. Not skimming. Reading. Map his existing ASE certifications against the prerequisites for EVT (Electric Vehicle Technician) Level 2 certification. Write down on paper what he already has and what the actual gap is — not what he fears the gap is. Identify cost, time commitment, and whether the program can be done while employed.",
+        "target_agent": null,
+        "resources_involved": "Time (90 minutes, tonight). No money spent yet.",
+        "reasoning": "The tab being open is not the same as the decision being made. Last tick, the act of leaving it open was the irreversibility. This tick, the irreversibility is reading it with a pen in hand and treating it like a real option rather than a threat. His status_quo_bias of 0.74 will generate reasons to close the tab. The pen and paper counteract that — they force the information into a form that persists past the browser session. He has electrical systems experience. He needs to see that reflected back to him in writing before he will believe it is true.",
+        "economic_effects": {
+          "time_cost_hours": 1.5,
+          "money_spent": 0,
+          "potential_training_cost_identified": "estimated $800-2500 depending on program"
+        }
+      },
+      {
+        "type": "household_communication",
+        "description": "Tell his wife Elena what actually happened at the all-hands. Not the reassuring version. The true version: Patricia said nothing concrete, the company has no visible plan, RoboRide is real and Millfield is Phase 2, and Carlos has been looking at a retraining page. Let her see the numbers — the savings, the runway, what the certification costs. She is a co-decision-maker and has been operating without the full picture. This is not dumping fear on her. This is a financial conversation that she has a right to participate in.",
+        "target_agent": null,
+        "resources_involved": "Time (30-45 minutes), emotional reserves — this conversation will cost him, because saying it aloud makes it real",
+        "reasoning": "He has been carrying this alone in a way that protects her from anxiety but also prevents them from planning together. With 3 dependents, major financial decisions cannot be made unilaterally out of a desire to shield. Elena may know things about their actual monthly flexibility he is underestimating. She may have income options he has not considered. The loss_aversion multiplier of 2.5x means the imagined cost of this conversation feels larger than it is. The real cost of not having it compounds every tick.",
+        "economic_effects": {
+          "decision_quality_improvement": "enables joint household financial planning",
+          "risk_reduction": "shared awareness prevents unilateral decisions made on incomplete information"
+        }
+      },
+      {
+        "type": "direct_inquiry",
+        "description": "Find a moment tomorrow — not in front of the whole floor, not formally, just catching Patricia in the hallway or before the bay opens — and ask her one specific question: 'Are we keeping the service department?' Not accusatory. Not panicked. A craftsman asking a direct question. One sentence. Wait for the answer.",
+        "target_agent": "patricia_manager",
+        "resources_involved": "Time (5 minutes), considerable nerve",
+        "reasoning": "Patricia's silence at the all-hands was institutional. The all-hands was not the right venue for a real answer. But Carlos has 23 years with the company. He has earned the right to a direct question in a direct context. He is not asking for a plan — he is asking for a single piece of load-bearing information. Her answer, or her non-answer, will tell him more than an hour of speculation. His status_quo_bias will tell him not to do this because it might surface something he does not want confirmed. That is exactly why he needs to do it.",
+        "economic_effects": {
+          "information_value": "high — binary outcome either confirms role security or removes false stabilization"
+        }
+      }
+    ],
+    "emotional_state": "Deliberate. Slower than afraid. The grief is still there — it is sitting in the chest the way a pulled muscle reminds you it exists every time you breathe. But there is something underneath it now that is not quite hope and is not quite resolve, but is in the neighborhood. The tab is real. The reading is real. Elena deserves to know. Asking Patricia is the kind of thing a man with 23 years and a mortgage does instead of waiting for a memo.",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "I have been a craftsman my whole life — and the thing a craftsman does when the job has changed is he learns the new tool, not mourns the old one."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "tick": 2,
+  "agent_id": "loan_officer",
+  "agent_name": "Kevin O'Brien",
+  "response": {
+    "internal_assessment": "I am now midway through month 2 of my 90-day plan. Modules 1-4 pace check: at 90 minutes/day I have logged roughly 45 hours of training time since enrollment. That is on track for modules 1-4 if the curriculum runs the standard 40-50 hour range — but I have not yet confirmed a live mortgage closing shadow, and that is a gap I need to close this week, not next. David's memo to Regional VP Sandra is now word-of-mouth in my network, which means it is no longer just an internal signal — it is becoming a known thing, and lending criteria will tighten faster than I assumed. Maria Santos just passed real programs: a $2,500 retraining grant I am eligible for right now, and the timeline pressure has become structural — RoboRide launches next tick. The plan is working, but methodical cannot mean leisurely. I need to compress the closing shadow, apply for the grant today, and have a direct conversation with David before the VP meeting changes the institutional calculus.",
+
+    "chosen_actions": [
+      {
+        "type": "grant_application",
+        "description": "Apply today for Maria Santos's $2,500 retraining grant through the council program. The NMLS mortgage origination course costs approximately $300-600 depending on employer reimbursement status. The grant covers this and potentially additional SBA certification costs. Complete the application form, attach proof of enrollment in the NMLS-approved course, and submit before end of business. This is a no-downside action — the grant is available, Kevin is eligible, the application takes two hours, and it offsets real out-of-pocket training costs.",
+        "target_agent": null,
+        "resources_involved": "2 hours time, proof-of-enrollment documentation, application form",
+        "reasoning": "Maria just made this real with an actual dollar amount and a public program. Kevin reads local policy — he knows this exists now. His normalcy bias is 0.32 — he does not sit on available resources. The grant directly offsets training costs he is already incurring. Waiting costs nothing but it signals the kind of passive drift that Kevin does not do. Apply today.",
+        "economic_effects": {
+          "savings_impact": 2500,
+          "income_impact": 0,
+          "stress_delta": -0.01,
+          "notes": "Grant receipt is not guaranteed this tick but application is filed. Expected net effect: +$2,500 within 30-60 days. Removes cost friction from continued training acceleration."
+        }
+      },
+      {
+        "type": "professional_development",
+        "description": "Contact the mortgage department this week — not via email, in person — and ask to observe a closing. Specifically target the next scheduled closing within 10 business days. Kevin's enrollment gives him standing to request this. If the branch mortgage officer has a closing this week, ask to sit in as an enrolled trainee. Log the shadow observation with the NMLS course coordinator as a required practicum hour. This closes the gap in the 30-day milestone: modules 1-4 plus two live shadows. One shadow completed by end of tick 2 gets the milestone back on track.",
+        "target_agent": "bank_manager",
+        "resources_involved": "2-3 hours for closing attendance, coordination with branch mortgage officer, NMLS log entry",
+        "reasoning": "The 30-day milestone Kevin set in tick 1 specified both curriculum completion AND two live shadows. Curriculum pace is on track. Shadows are the lagging element — they require scheduling against someone else's calendar, which means Kevin cannot wait until the last week of the milestone window. This is the kind of execution detail that separates people who complete credentials from people who almost complete them. RoboRide launches next tick. Kevin needs the credential progress to be real and documented before institutional restructuring conversations happen above David's level.",
+        "economic_effects": {
+          "savings_impact": 0,
+          "income_impact": 0,
+          "stress_delta": 0,
+          "skill_relevance_delta": 0.08,
+          "notes": "Each shadowed closing advances practicum requirements. Skill relevance in mortgage domain increases incrementally. Documented progress strengthens Kevin's position in any internal role transition conversation."
+        }
+      },
+      {
+        "type": "direct_conversation",
+        "description": "Request a specific, short conversation with David Chen this week — framed not as a career check-in but as a credit risk coordination meeting. Open with the portfolio: 'I want to make sure my dealer outreach is aligned with whatever criteria adjustments you're making.' This gives David an easy entry point that serves his current priority. Then pivot: 'I also want to give you a progress update on the mortgage training — I'm on track for modules 1-4 by end of month, and I'm lining up a closing shadow this week. Before the regional conversation goes further, I want you to know that transition is already in motion on my end.' Do not ask David to reveal the VP memo. Make it easy for him to acknowledge what Kevin already knows without forcing him to confirm a confidential communication.",
+        "target_agent": "bank_manager",
+        "resources_involved": "20 minutes, Kevin's credibility from tick 1 flag, timing before VP meeting",
+        "reasoning": "David sent a memo to Regional VP Sandra about RoboRide portfolio risk. That memo is now word-of-mouth in the branch network, which means it will reach the VP with or without Kevin's awareness. The VP meeting may trigger top-down restructuring decisions that remove David's discretion over Kevin's role transition. Kevin's window to shape that conversation — by making his retraining progress visible to David before the VP weighs in — is this week, not next month. This is not anxiety. This is reading the institutional clock correctly. Kevin's social proof sensitivity is 0.58 — he understands that visible, documented action shapes how others perceive his trajectory.",
+        "economic_effects": {
+          "savings_impact": 0,
+          "income_impact": 0,
+          "agency_delta": 0.06,
+          "role_security_delta": 0.05,
+          "notes": "No immediate financial effect. High-leverage positioning action. Increases probability that Kevin is named as the internal mortgage transition candidate before outside restructuring decisions are made."
+        }
+      },
+      {
+        "type": "portfolio_risk_management",
+        "description": "Pull the active auto loan file and identify any borrowers who (a) work in auto-adjacent sectors — dealership staff, fleet drivers, auto parts suppliers — and (b) have loans with more than 24 months remaining. Flag these accounts in the CRM with a soft watchlist tag. Do not contact borrowers yet — this is internal triage. Prepare a one-page summary for David: 'Here are the accounts I think warrant a proactive check-in over the next 60 days given the RoboRide deployment timeline.' This supports David's escalation to the VP with concrete data and positions Kevin as the person who is managing the wind-down responsibly rather than passively waiting for defaults.",
+        "target_agent": "bank_manager",
+        "resources_involved": "CRM access, 3 hours of file review, one-page summary document",
+        "reasoning": "David's memo is about portfolio risk. Kevin can add tangible value to that conversation right now by doing the account-level triage that a VP memo cannot do — it is too high-level. This is the kind of work that demonstrates Kevin is managing the auto loan function to the end, not abandoning it. It also generates a legitimate reason to be in David's office with deliverable in hand, which supports the career conversation without making it awkward. Two birds, one meeting.",
+        "economic_effects": {
+          "savings_impact": 0,
+          "income_impact": 0,
+          "credit_risk_exposure_delta": -0.07,
+          "notes": "Proactive watchlisting reduces probability of surprise defaults entering delinquency without early intervention. Supports David's escalation with granular data. Demonstrates professional stewardship to management."
+        }
+      }
+    ],
+
+    "emotional_state": "Focused and slightly accelerated. The calm from tick 1 is still the foundation, but the word-of-mouth about David's memo introduces a new variable: institutional timelines are now outside my direct control in a way they were not before. That is not alarming — it is information. The right response is compression, not panic. I am moving the closing shadow up, filing the grant today, and making sure David sees my progress before Sandra does. This is still methodical. It is methodical with a tighter clock.",
+
+    "archetype_self_assessment": "methodical-adapter, compression phase — the plan was right, the pace now needs to match the institutional timeline, not just my personal one",
+
+    "inner_monologue": "David's memo is out there now — which means I have maybe one week before this gets decided above his head, so the mortgage shadow and the David conversation both happen this week, full stop."
+  }
+}

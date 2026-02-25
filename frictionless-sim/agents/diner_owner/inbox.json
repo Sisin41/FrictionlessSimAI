@@ -1,21 +1,21 @@
 {
-  "tick": 1,
+  "tick": 2,
   "messages": [
     {
-      "type": "CAPABILITY_FACT",
-      "content": "RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
+      "type": "AMBIENT",
+      "content": "Ongoing: RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 83 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 81 (baseline: 100)."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Business closing: Carlos Ruiz \u2014 full day at the shop \u2014 complete brake overhaul on a 2019 f-150, diagnose a rough idle on a honda accord, and close out two routine services. keep the schedule tight and the quality high."
+      "content": "Business closing: Carlos Ruiz \u2014 after the meeting \u2014 tonight, at the kitchen table, after the kids are in bed \u2014 open the browser tab again. this time don't close it. look specifically at ev and hybrid certification programs: what they cost, how long they take, whether his existing ase certifications carry over, and whether any shops in a 40-mile radius are already hiring for ev-specific work."
     },
     {
       "type": "OUTCOME",
-      "content": "You Host the monthly Auto Row worker appreciation lunch \u2014 discounted daily special for all shop employees. Put a handwritten chalkboard sign out front. Spend time at the counter talking with regulars, learning names of the newer hires.. Savings grew by $116. "
+      "content": "You Spend extended time on the floor during lunch service actively listening to what the Auto Row workers know and believe about the RoboRide timeline, the Phase 2 rollout, and what the bosses are saying. Ask careful, genuine questions \u2014 not as market research but as a neighbor who wants to understand. Record notes in the back after close.. Savings grew by $116. "
     }
   ]
 }

@@ -1,29 +1,41 @@
 {
-  "tick": 1,
+  "tick": 2,
   "messages": [
     {
-      "type": "CAPABILITY_FACT",
-      "content": "RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
+      "type": "AMBIENT",
+      "content": "Ongoing: RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 83 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 81 (baseline: 100)."
+    },
+    {
+      "type": "SECTOR_NEWS",
+      "content": "Angela Wright laid off workers: schedule a private consultation with an employment attorney \u2014 not the one she works with professionally on behalf of the company, but an independent one she identifies personally. agenda: understand what a negotiated voluntary separation with severance looks like in her state, what triggers enhanced severance obligations, and whether her position as the person managing layoffs creates any particular legal standing or leverage. this is not whistleblowing and not adversarial \u2014 it is a competent professional learning her rights before she needs them."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Business closing: Tamika Jefferson \u2014 go line by line through my $3,177 in monthly expenses and identify anything that can be cut without serious quality-of-life damage. target $400-600 in monthly reduction to extend the runway from 2 months closer to 3. buy myself one more month of decision space without earning a single extra dollar."
+      "content": "Business closing: Rick Tanner \u2014 run the floor as normal. full sales meeting monday morning, standard metrics review, no signals of distress to the team. watch tamika jefferson's behavior closely \u2014 observe without confronting. she may be responding to something she's heard or just tightening her own household. note it."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Howard Liu \u2014 pay closer attention to what mechanic customers say when they come in \u2014 specifically anything about changes at the fleet management company or shifts in how commercial vehicle maintenance is being handled locally. don't ask directly; just listen. if the patricia hawkins rumor is about anything that affects how local mechanics get work, i want to understand it before it affects my orders."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Patricia Hawkins is making some kind of change \u2014 something about Host a private dinner with my general managers acr..."
+      "content": "Someone mentioned that Patricia Hawkins is making some kind of change \u2014 something about Call an all-hands leadership meeting across all fo..."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that David Chen is making some kind of change \u2014 something about Schedule a lunch this month with the regional VP a..."
+      "content": "Someone mentioned that Patricia Hawkins is making some kind of change \u2014 something about Attend Maria Santos's economic resilience town hal..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that David Chen is making some kind of change \u2014 something about Send a carefully worded memo to Regional VP Sandra..."
     },
     {
       "type": "OUTCOME",
-      "content": "You Refresh LinkedIn profile to reflect full scope of HR expertise \u2014 workforce transition management, compliance, organizational development. Set profile to 'Open to Work' visible only to recruiters. Update resume with quantified outcomes: number of terminations managed, compliance programs implemented, cost-per-hire metrics. Target sectors: healthcare, tech, logistics, government \u2014 all growing headcount or facing their own restructuring needs.. Savings grew by $294. "
+      "content": "You Schedule a private consultation with an employment attorney \u2014 not the one she works with professionally on behalf of the company, but an independent one she identifies personally. Agenda: understand what a negotiated voluntary separation with severance looks like in her state, what triggers enhanced severance obligations, and whether her position as the person managing layoffs creates any particular legal standing or leverage. This is not whistleblowing and not adversarial \u2014 it is a competent professional learning her rights before she needs them.. Savings grew by $294. "
     }
   ]
 }

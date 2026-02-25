@@ -1,29 +1,37 @@
 {
-  "tick": 1,
+  "tick": 2,
   "messages": [
     {
-      "type": "RUMOR",
-      "content": "People are saying: RoboRide Inc announces expansion to many new cities. Millfield is listed for Phase 2 deployment, expec. (You're not sure of the exact details.)"
+      "type": "AMBIENT",
+      "content": "Ongoing: RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
+    },
+    {
+      "type": "SECTOR_NEWS",
+      "content": "Angela Wright laid off workers: schedule a private consultation with an employment attorney \u2014 not the one she works with professionally on behalf of the company, but an independent one she identifies personally. agenda: understand what a negotiated voluntary separation with severance looks like in her state, what triggers enhanced severance obligations, and whether her position as the person managing layoffs creates any particular legal standing or leverage. this is not whistleblowing and not adversarial \u2014 it is a competent professional learning her rights before she needs them."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Business closing: Tamika Jefferson \u2014 go line by line through my $3,177 in monthly expenses and identify anything that can be cut without serious quality-of-life damage. target $400-600 in monthly reduction to extend the runway from 2 months closer to 3. buy myself one more month of decision space without earning a single extra dollar."
+      "content": "Business closing: Angela Wright \u2014 use her existing access deliberately. she processes paperwork \u2014 she sees the organizational map before anyone announces it. pay close attention over the next two weeks to: which departments are being asked to document processes 'for continuity,' whether benefits administration queries are being rerouted, and whether senior leadership is having conversations with outside hr consultants or peo vendors. these are the specific signals that precede an hr function restructure. she will know before she's told. she should make sure she sees it."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Business closing: Carlos Ruiz \u2014 full day at the shop \u2014 complete brake overhaul on a 2019 f-150, diagnose a rough idle on a honda accord, and close out two routine services. keep the schedule tight and the quality high."
+      "content": "Business closing: Carlos Ruiz \u2014 after the meeting \u2014 tonight, at the kitchen table, after the kids are in bed \u2014 open the browser tab again. this time don't close it. look specifically at ev and hybrid certification programs: what they cost, how long they take, whether his existing ase certifications carry over, and whether any shops in a 40-mile radius are already hiring for ev-specific work."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Business closing: Kevin O'Brien \u2014 pull internal training materials on mortgage origination and small business loan underwriting. begin self-directed review of sba loan structures and hmda compliance requirements to close the gap between my current expertise and adjacent loan product lines."
+      "content": "Business closing: Howard Liu \u2014 pay closer attention to what mechanic customers say when they come in \u2014 specifically anything about changes at the fleet management company or shifts in how commercial vehicle maintenance is being handled locally. don't ask directly; just listen. if the patricia hawkins rumor is about anything that affects how local mechanics get work, i want to understand it before it affects my orders."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Patricia Hawkins (CEO, Regional Auto Group): Host a private dinner with my general managers across all four locations to communicate a long-term vision message: Regional Auto Group is a family institution, not an exit strategy. I am signaling to my leadership team that the business is being built to last, not sold. This reinforces culture, reduces turnover anxiety at the management level, and begins planting the narrative of succession and institutional continuity."
+      "content": "You heard directly from Patricia Hawkins (CEO, Regional Auto Group): Call an all-hands leadership meeting across all four locations within the next 72 hours. Acknowledge the RoboRide announcement directly \u2014 do not let rumors and 'business closing' whispers fill the vacuum. Deliver a clear message: Regional Auto Group has navigated every disruption in its history, we are assessing this one with clear eyes, and no decisions about staffing or structure will be made in panic. Frame the threat honestly but not catastrophically. The goal is to stop the bleeding of morale before it starts, not to pretend there is no wound."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Patricia Hawkins (CEO, Regional Auto Group): Attend Maria Santos's economic resilience town hall and be visible, not as a victim, but as a voice. Regional Auto Group employs over 200 people in this county. I have standing at that table. I want to understand what policy responses are being considered, who else is in the room, and whether there are coalition opportunities with other business owners facing the same disruption. I am also gathering intelligence. What does the city know about the Phase 2 timeline that was not in the press release?"
     },
     {
       "type": "OUTCOME",
-      "content": "You Allocate an additional $1,200 this month from discretionary income toward the highest-interest debt obligation, reducing monthly interest drag and improving debt ratio trajectory.. Savings grew by $1,184. "
+      "content": "You Call Patricia Hawkins (CEO) under the framing of a routine post-dinner follow-up \u2014 thank her for the gathering, ask if there are any strategic priorities she wants GMs to be watching or preparing for from the floor level. Listen for what she volunteers, what she avoids, and how she sounds.. Savings grew by $1,184. "
     }
   ]
 }

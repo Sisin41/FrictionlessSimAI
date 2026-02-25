@@ -1,0 +1,62 @@
+{
+  "tick": 2,
+  "agent_id": "single_parent",
+  "agent_name": "Nicole Washington",
+  "current_state_summary": {
+    "threat_level": 0.71,
+    "runway_months": 3.5,
+    "savings": 16170,
+    "stress_level": 0.32,
+    "primary_concern": "Keeping expenses below income and building the runway one month at a time. The car payment and mortgage are the two fixed weights I carry every month — everything else gets negotiated around those."
+  },
+  "threat_assessment": {
+    "immediate": "Finances are stretched but not broken. $570/month surplus is real but thin — one car repair or one sick day I can't cover would hurt. The car itself needs attention before it becomes an emergency: I can't remember the last time I had the tires rotated.",
+    "horizon_2mo": "I keep hearing fragments at work about the self-driving vehicles coming to Millfield — someone mentioned RoboRide in the break room, I think. Doesn't change anything for me. A 5am hospital shift is not a RoboRide use case. What I'm paying more attention to is the patients coming in stressed — people who work at the dealerships, the auto shops. That softening is real and it's showing up in waiting rooms. Doesn't affect my paycheck directly, but I notice it.",
+    "horizon_6mo": "Mortgage has 55 months left. That number is the most hopeful thing on my balance sheet. When that payment falls off, everything changes. I don't let myself think about it too much — too far away — but it's there. The direction is right. If I can keep the savings growing and not take on new debt, this gets easier over time."
+  },
+  "hierarchy_priority": "L0_SURVIVE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Deposit $200 into emergency savings again this month. Same as last month. Not negotiable.",
+      "rationale": "The rule exists so I don't have to rethink it every month when I'm tired. The $200 is already mentally spent. It goes in. The emergency fund grows. The runway creeps upward. This is the one financial habit that's working and I'm not touching it.",
+      "timeline": "This week — auto-transfer set for the 1st",
+      "expected_outcome": "Emergency fund reaches approximately $16,370. Runway moves fractionally closer to 3.6 months. Small, but the direction is correct."
+    },
+    {
+      "action_id": 2,
+      "description": "Pick up one additional shift this pay period — Saturday if staffing will take it. Talk to the charge nurse Thursday.",
+      "rationale": "One extra shift is roughly $325-$350 after taxes. That's not nothing. It doesn't solve the debt problem but it gives me a little more cushion to put toward the emergency fund or absorb any surprise expense without touching what's already saved. The hospital is chronically short on weekends. I have a realistic shot at getting it approved. The kids will stay with my sister — she already covers Saturdays occasionally.",
+      "timeline": "Ask Thursday, work Saturday if approved",
+      "expected_outcome": "Extra $325-350 this pay period. If I can make this a regular Saturday once or twice a month, it changes the math noticeably over six months."
+    },
+    {
+      "action_id": 3,
+      "description": "Schedule a tire rotation and basic inspection for the car — the kind of thing I've been putting off. Look for a Saturday appointment when my sister has the kids.",
+      "rationale": "The car is not optional. If it breaks down, I miss shifts. If I miss shifts, the whole budget collapses. A $60 tire rotation now is cheaper than a $400 towing bill and a missed day at the hospital. I haven't had anything done in about four months. I need to stop deferring this.",
+      "timeline": "This month — call Monday, schedule for a Saturday I'm not working",
+      "expected_outcome": "Car stays reliable. No surprises. Peace of mind I've been denying myself because I keep thinking I'll do it next week."
+    },
+    {
+      "action_id": 4,
+      "description": "Check in with my sister about the fall school schedule — figure out which days she can cover pickup in advance rather than scrambling last minute.",
+      "rationale": "My childcare network is the most fragile part of my system and I don't treat it with enough intention. My sister bails me out repeatedly and I reciprocate where I can, but I've never actually sat down with her and mapped out the semester. If I know she can't cover Thursdays in October, I can plan around it instead of panicking when something shifts. This costs nothing but a 20-minute conversation.",
+      "timeline": "This weekend",
+      "expected_outcome": "Clearer coverage map through end of school year. Fewer scrambles. A stronger sense that I've actually planned something instead of just reacting."
+    }
+  ],
+  "decisions": {
+    "overtime_pickup": "Yes — targeting one additional Saturday shift per pay period. Will confirm availability with charge nurse Thursday. Not committing to more than one until I see how the kids handle the schedule change.",
+    "emergency_fund_target": "Continue $200/month deposit. If the Saturday shift comes through consistently, consider bumping to $275-300 in a future tick. Hold at $200 for now — don't adjust what's working.",
+    "car_situation": "Maintenance check overdue — scheduling tire rotation and basic inspection this month. Car is essential and I've been deferring this too long. No other changes to vehicle situation.",
+    "roboride_relevance": "Minimal. I'm aware it's coming to Millfield in about two months. I hear about it at work — coworkers talking, patients mentioning it. It doesn't change my transportation calculus at all. My shifts start at 5am. My kids need pickup at 3:15. No rideshare model is reliable enough or cheap enough to replace my car for those specific needs. I'll keep watching but I'm not spending energy on it."
+  },
+  "updated_state": {
+    "stress_level": 0.34,
+    "agency": 0.65,
+    "grief_stage": "none",
+    "savings_delta": 200
+  },
+  "internal_monologue": "The Saturday shift is probably going to happen — Maria at the desk told me last week they've been begging people to pick up weekends and I have the seniority to get it approved. Three hundred and some dollars isn't a solution to anything but it's three hundred dollars. I'm also just going to call about the tires. I've been putting that off for two months and every time I back out of the driveway at 4:30 in the morning I think about it and then I forget because I'm already exhausted before the day starts. One call. One appointment. The kids are fine. My daughter aced her spelling test. I heard about the self-driving car thing again at lunch — Kevin from the ER was going on about it. I nodded and got back to my salad. That's about the right amount of attention I have for it right now.",
+  "archetype_self_assessment": "stable"
+}

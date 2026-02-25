@@ -1,0 +1,68 @@
+{
+  "tick": 2,
+  "agent_id": "salesperson_jake",
+  "agent_name": "Jake Morrison",
+  "response": {
+    "internal_assessment": "Angela Wright — our HR Director — consulted an employment attorney. Privately. Angela has been here longer than I have. She doesn't do things for no reason. That's not a rumor from the break room, that's a woman who processes paper for a living reading the same signals I am and going to a professional to understand her options. Meanwhile Maria Santos went public, put a two-month timeline on a billboard, and invited us to input sessions like she's already writing the obituary and wants us to pick the font. I went to Patricia's all-hands and I heard nothing concrete — no plan, no numbers, no promises — just 'no panic decisions' from a woman who is attending a town hall to gather intel, same as the rest of us. The floor is not changing next month. It is changing in two months. And I have 3.3 months of runway. That gap between 3.3 and 2 is not a cushion. It is a margin of error that disappears the moment my commission drops.",
+    "chosen_actions": [
+      {
+        "type": "ATTEND_MARIA_SANTOS_TOWN_HALL",
+        "description": "Show up to Maria Santos's public input session. Sit in the room. Listen to what she's actually proposing, what the $2,500 retraining grant covers, what the timeline for the council vote looks like, and whether there are any conditions on eligibility. Take notes on paper, not on my phone. Don't speak unless I learn something from speaking.",
+        "target_agent": null,
+        "resources_involved": "2-3 hours of evening time. Zero dollars.",
+        "reasoning": "Maria Santos named Millfield, named two months, and specifically invited auto row workers. She is the person with the most actionable information in this situation and she is offering it publicly. Not going is the normalcy bias talking — 'I don't need to go to a politician's meeting, that's not for me.' But the $2,500 retraining grant is real money against a 3.3-month runway. I need to know what it covers, what it requires, and whether I qualify before the council votes. If I wait until after the vote to get interested, I've already missed the window where my presence shapes the terms.",
+        "economic_effects": {
+          "grant_eligibility_signal": "determine whether $2,500 retraining grant applies to me",
+          "savings_delta": 0,
+          "income_delta": 0,
+          "stress_delta": "-0.04 (information reduces ambient dread more than avoidance does)",
+          "agency_delta": "+0.07 (converting passive observation to active intelligence-gathering)"
+        }
+      },
+      {
+        "type": "TALK_TO_TAMIKA",
+        "description": "Find a quiet moment with Tamika — not on the floor, not in front of Rick — and ask her directly what she's building. Not 'are you worried' small talk. Specific: what platforms, what kind of work, how long has she been at it. Frame it as curiosity, not desperation. She's building freelance profiles, which means she has already done the thinking I need to do.",
+        "target_agent": "tamika",
+        "resources_involved": "30 minutes. A cup of coffee if we go off-site.",
+        "reasoning": "Social proof sensitivity 0.52 — I notice what other people do, and what Tamika is doing is not panic, it's preparation. She is not in denial. She has sales skills adjacent to mine and she is translating them into something portable. I need to know what that translation looks like in practice. Kevin O'Brien is retraining in mortgage lending — that's another data point on where sales skills actually land. Talking to Tamika is not admitting defeat. It is market research, and market research is something salespeople do.",
+        "economic_effects": {
+          "savings_delta": 0,
+          "income_delta": 0,
+          "stress_delta": "-0.05 (social proof in the adaptive direction reduces isolation)",
+          "agency_delta": "+0.05 (mapping the actual option space)"
+        }
+      },
+      {
+        "type": "RESEARCH_CAR_PAYMENT_OPTIONS",
+        "description": "Spend one hour this week looking at whether the $608/mo car payment can be restructured. Not selling the car yet — but understanding the actual options: refinance, voluntary downgrade, sell and buy something cheaper outright, or what the trade-in value is right now versus what it will be in four months when RoboRide Phase 2 is running. James Patterson already sold his car. I need to know what mine is worth before the market prices in a robotaxi city.",
+        "target_agent": null,
+        "resources_involved": "1 hour of research. No commitment required.",
+        "reasoning": "$608/mo is my single largest controllable expense after housing. With 3.3 months of runway, that payment is not a lifestyle item — it is a structural vulnerability. I don't need to make a decision today, but I need to know my options before I need to make a decision. Car values in markets with active robotaxi deployment have historically declined. Millfield Phase 2 is two months away. The time to research this is now, not when I'm under duress.",
+        "economic_effects": {
+          "potential_monthly_savings": "$200 to $400 if refinanced or downgraded",
+          "runway_extension_if_acted": "potentially +0.5 to +0.8 months",
+          "savings_delta": 0,
+          "income_delta": 0,
+          "stress_delta": "+0.03 (uncomfortable to look at directly)",
+          "agency_delta": "+0.06 (understanding the constraint is not the same as being trapped by it)"
+        }
+      },
+      {
+        "type": "WORK_FLOOR_SELECTIVELY",
+        "description": "Keep showing up. Sell what's in front of me. But redirect my energy specifically toward fleet sales, commercial accounts, and any buyer who needs a vehicle for a use case that robotaxis genuinely don't cover yet — contractors, people hauling equipment, families in rural routes outside Phase 2 coverage. These buyers still exist. They are a smaller pool. I work them harder than the general walk-in.",
+        "target_agent": null,
+        "resources_involved": "Standard work hours. No additional financial commitment.",
+        "reasoning": "I have 11 years on this floor and real relationships. The next 30 days are not zero — there are still cars to sell and I still need my income. But the undifferentiated hustle of mass CRM blasting already gave me $183, which is a verdict. I need to triage my floor time toward segments where the robotaxi substitution is weakest. This is not optimism. It is triage. Triage is what you do when the resources are limited.",
+        "economic_effects": {
+          "income_delta": "targeting +$300 to +$800 in additional commission vs. undifferentiated outreach",
+          "savings_delta": 0,
+          "stress_delta": "+0.02 (harder sell, more cognitive load per transaction)",
+          "agency_delta": "+0.03 (applying skill with a strategy rather than against inertia)"
+        }
+      }
+    ],
+    "emotional_state": "The dread is sharper now and I am not going to pretend it isn't. But sharp is better than diffuse — diffuse is what I had for the last six months when I kept telling myself the industry would adjust. What I feel right now is the specific, clarifying fear of a man who has counted the days and decided he cannot afford to wait for a better moment to start moving. I'm not spiraling. I went to the all-hands. I heard nothing that made me feel safe, which is the most useful thing Patricia could have told me without saying a word.",
+    "archetype_self_assessment": "reluctant adapter",
+    "inner_monologue": "Angela Wright hired an attorney, and I'm the one who needed a calendar invite to take this seriously."
+  }
+}

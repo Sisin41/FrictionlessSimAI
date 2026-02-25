@@ -1,25 +1,21 @@
 {
-  "tick": 1,
+  "tick": 2,
   "messages": [
     {
-      "type": "CAPABILITY_FACT",
-      "content": "RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
+      "type": "AMBIENT",
+      "content": "Ongoing: RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 83 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 81 (baseline: 100)."
     },
     {
       "type": "DIRECT_IMPACT",
-      "content": "Business closing: Carlos Ruiz \u2014 full day at the shop \u2014 complete brake overhaul on a 2019 f-150, diagnose a rough idle on a honda accord, and close out two routine services. keep the schedule tight and the quality high."
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "Business closing: Zoe Martinez \u2014 pick up two additional weekend delivery shifts on doordash to pad income slightly. evenings after cafe closes."
+      "content": "Business closing: Carlos Ruiz \u2014 after the meeting \u2014 tonight, at the kitchen table, after the kids are in bed \u2014 open the browser tab again. this time don't close it. look specifically at ev and hybrid certification programs: what they cost, how long they take, whether his existing ase certifications carry over, and whether any shops in a 40-mile radius are already hiring for ev-specific work."
     },
     {
       "type": "OUTCOME",
-      "content": "You Search for a second part-time or gig-based income source \u2014 delivery driving (DoorDash, Instacart), warehouse shifts, or weekend labor gigs. Target something flexible that doesn't conflict with car wash hours.. Savings grew by $131. "
+      "content": "You Aggressively finalize roommate search \u2014 post on every platform, lower the ask, take the first financially viable applicant. Splitting rent cuts monthly burn nearly in half and extends runway past the displacement window.. Savings grew by $131. "
     }
   ]
 }

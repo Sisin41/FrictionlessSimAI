@@ -1,0 +1,52 @@
+{
+  "tick": 2,
+  "agent_id": "insurance_agent_tom",
+  "agent_name": "Tom Bradley",
+  "response": {
+    "internal_assessment": "James Patterson is selling his car. I know James. He bought the Civic after his daughter started driving and he wanted something safe for her to inherit. That's not a normal cancellation — that's a man who doesn't think he needs a car anymore. 26 policies. I ran the number three times because the first two felt wrong. Four policies gone before RoboRide has run a single fare in Millfield. The follow-up calls last tick produced $106. I spent maybe six hours on the phone. The clients who left didn't leave because I hadn't called them — they left because the underlying thing changed. I can see that now. This is not a cycle. I don't want to say that out loud yet, but I can see it. The question is what I do with seeing it while also not being ready to do what it actually means I should do.",
+    "chosen_actions": [
+      {
+        "type": "market_intelligence_event",
+        "description": "Attend Maria Santos's town hall to learn about the $2,500 retraining grants. Go not as someone seeking a grant — go as someone who wants to understand what's happening in the community and what options exist. Sit in the back. Take notes on paper, not on a phone. Do not raise your hand unless the question is purely informational.",
+        "target_agent": null,
+        "resources_involved": "2-3 hours of time, no financial cost",
+        "reasoning": "I can frame this to myself as due diligence, not distress. A $2,500 grant is real money — $2,500 is two months of margin. Even if I don't take it, knowing it exists is the kind of thing a smart professional tracks. The town hall also tells me who else in Millfield is starting to move, and I watch what others do. If I see people I respect taking the thing seriously, that will matter to me more than the sector data, and I know that about myself, and I'm not proud of it, but it's true.",
+        "economic_effects": {
+          "cost": "$0 direct",
+          "information_gain": "high — current on grant availability, retraining timelines, community response signals",
+          "identity_cost": "moderate — being there means acknowledging the situation is real enough to attend a town hall about it",
+          "runway_impact": "neutral this tick"
+        }
+      },
+      {
+        "type": "product_line_expansion_research",
+        "description": "Call my agency's regional manager and ask — not urgently, casually — what it would take to get licensed in life and health lines. Frame it as 'expanding the practice' and 'better serving existing clients.' Ask about CE requirements, exam costs, and how long other agents in the region took to add the lines. Do not mention the auto book contraction.",
+        "target_agent": null,
+        "resources_involved": "1 hour for the call, potential licensing exam cost ($150-$300) in a future tick",
+        "reasoning": "This is the smallest real move I can make that isn't business as usual. It doesn't require me to say my auto book is dying. It requires me to say I'm a professional who wants to offer more to clients. Both things can be true at once. If the auto book continues shrinking, life and health give me something to sell to the same people I already know. I have 30 relationships — 26 now — and those people have lives and health. I haven't been selling to that. I've been leaving money on the table and now I need the table.",
+        "economic_effects": {
+          "immediate_cost": "$0 this tick",
+          "future_cost": "$150-$300 licensing exam if I proceed",
+          "skill_relevance_trajectory": "begins reversing the 0.15 floor — adjacent insurance lines use the same relationship competency",
+          "timeline_to_revenue": "3-4 months minimum before any new policies generate income",
+          "identity_cost": "low — this is still insurance, still Tom Bradley, just more of him"
+        }
+      },
+      {
+        "type": "strategic_pause_on_cancelled_client_outreach",
+        "description": "Do not call any more cancelled clients this tick. The data from last tick is clear: they did not come back. Calling them again would be spending time to confirm what I already know. Let that chapter close.",
+        "target_agent": null,
+        "resources_involved": "Zero — this is the decision not to spend time",
+        "reasoning": "The $106 from six hours of phone calls told me something. I'm listening. That's new. Usually I'd call it again, tell myself I just needed a better script. I'm not going to do that. I'm going to use those hours for the town hall and the regional manager call instead. This is the part where I act like someone who can read data, which I can.",
+        "economic_effects": {
+          "opportunity_cost": "negligible — the evidence says those calls don't produce returns",
+          "time_freed": "4-6 hours redirected to higher-value activities",
+          "psychological_effect": "admitting the outreach strategy failed is uncomfortable but accurate"
+        }
+      }
+    ],
+    "emotional_state": "The controlled professional surface is still there — Tom will not come apart at work, will not let clients see anything except steadiness. But underneath that surface something has quietly shifted. The refrigerator hum stopped. The silence is louder now. He's not scared exactly. He's become the kind of not-scared that is actually the first quiet cousin of scared, the kind that makes you pick up the phone and ask a casual question to your regional manager that isn't casual at all.",
+    "archetype_self_assessment": "adapter — barely, and only by a thread, and mostly because the data got too loud to keep below the threshold of conscious attention. He is not moving fast. He is not moving with urgency. But he is moving. That's different from tick 1.",
+    "inner_monologue": "I'm not going to that town hall because I'm in trouble — I'm going because I'm the kind of professional who stays informed."
+  }
+}

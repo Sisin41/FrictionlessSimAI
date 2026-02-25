@@ -1,0 +1,62 @@
+{
+  "tick": 2,
+  "agent_id": "uber_driver_2",
+  "agent_name": "Grace Okafor",
+  "current_state_summary": {
+    "threat_level": 0.88,
+    "runway_months": 1.5,
+    "savings": 2612,
+    "stress_level": 0.24,
+    "primary_concern": "Car payment at $573/mo is 26% of income — too high for a 1.5-month runway. RoboRide Phase 2 hitting in 2 months will compete for rideshare demand exactly when I need the income most."
+  },
+  "threat_assessment": {
+    "immediate": "$573/mo car payment consumes more than a quarter of monthly income. With $2,612 in savings and $1,787/mo in expenses, any income interruption collapses the runway fast. The payment is the single biggest lever I have.",
+    "horizon_2mo": "RoboRide Phase 2 launches in Millfield. It won't wipe out rideshare overnight — 3% adoption means most rides still go to human drivers — but it will compress demand in my operating zones, probably starting with airport and long-haul surges, which are my highest-yield slots. I need to earn hard now, before that softens.",
+    "horizon_6mo": "This is where the plan resolves. If I finish the nursing program on schedule, I'm entering the job market as an RN with a 796 credit score and zero identity attachment to rideshare. The $35,485 in debt is manageable on a $60-72K salary. The bridge is the hard part — not the destination."
+  },
+  "hierarchy_priority": "L0_SURVIVE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Contact my credit union this week to formally inquire about refinancing the car loan. I have a 796 credit score — I should not be carrying a $573/mo payment. Even dropping it to $420-$450/mo frees $120-$150 monthly, which extends runway by several weeks. I'll pull my current loan terms, get a competing quote, and initiate the refi application if the numbers work.",
+      "rationale": "This is the single highest-leverage action available to me right now. I don't need to sell the car — I need the car for both driving income and clinical rotations. But I'm almost certainly paying a rate that my current credit score no longer justifies. Refinancing doesn't change my income or expenses structurally; it just removes friction. With 796 credit, I should be able to get this done without a credit inquiry that hurts my score materially.",
+      "timeline": "This week — initiate inquiry Monday, have comparison quotes by Wednesday, submit application by Friday if rate differential is 1.5% or greater",
+      "expected_outcome": "Reduce monthly car payment by $100-$150, extending runway by 0.2-0.3 months. Not dramatic, but it's real cash freed from a fixed cost that was never optimized."
+    },
+    {
+      "action_id": 2,
+      "description": "Shift rideshare strategy from peak-hour maintenance to aggressive pre-launch maximization. For the next 8 weeks before RoboRide Phase 2 hits, I will add one additional block per week — specifically targeting Thursday evening and Sunday morning airport runs, which have historically had thin rideshare supply. I'll track earnings per zone weekly to detect early softening and adjust.",
+      "rationale": "The 2-month window before RoboRide Phase 2 is a known asset. Once AV adoption starts competing with my high-yield slots, my hourly rate drops. The logical move is to front-load income now while demand is still mine to capture. Adding roughly 6-8 hours per week at peak rates should generate an additional $90-$120 per tick. That goes directly to savings — I'm not changing my expenses, just building buffer before the squeeze.",
+      "timeline": "Starting this week, run through the 8-week pre-launch window. Reassess at the 4-week mark based on earnings data.",
+      "expected_outcome": "Savings increase of $280-$340 this tick instead of last tick's $206. Runway extends to approximately 1.7-1.8 months if refinancing also completes. The goal is to have $3,200-$3,500 in savings when RoboRide launches."
+    },
+    {
+      "action_id": 3,
+      "description": "Talk to my nursing program advisor this week about my exact graduation timeline and whether summer clinical slots are available. I need to know the precise number of weeks standing between me and licensure eligibility — not a rough estimate, the actual date. If accelerating by even one rotation block is possible, I want that option on the table.",
+      "rationale": "My exit from rideshare dependency is the RN license. Everything else — the car payment strategy, the peak-hour scheduling, the savings buffer — is bridge financing. If I can complete clinicals 4-6 weeks earlier by taking an available summer block, that moves up the date I can start earning $58-72K annually. I don't know if acceleration is possible, but I need the information to make the decision. Right now I'm optimizing a bridge without knowing exactly how long the bridge is.",
+      "timeline": "Advisor meeting this week — I'll ask specifically: What is my projected completion date? Are summer clinical placements available? Is there any outstanding requirement I could front-load?",
+      "expected_outcome": "Concrete graduation timeline — down to the month. If acceleration is possible, I'll have the specific requirement and cost. If not, I'll know the bridge length and can plan accordingly."
+    },
+    {
+      "action_id": 4,
+      "description": "Open a small dedicated savings bucket — I'll call it the 'RoboRide Buffer' — and deposit the income above my baseline $413/mo margin into it separately, so I can see it building. This is behavioral accounting, not real accounting, but it prevents me from letting the extra peak-hour earnings absorb into general spending.",
+      "rationale": "The risk in the next two months is complacency. I'm steady, my stress is low, and the plan is working — which means I could unconsciously start spending the surplus instead of banking it. Labeling the buffer makes it concrete. I've seen nurses in my program panic-quit clinicals over money because they didn't protect their margin during the good months. I'm not doing that. This costs nothing.",
+      "timeline": "Set up this week — even just a named sub-account or a labeled envelope system in my budgeting app",
+      "expected_outcome": "Behavioral lock on the savings surplus. When RoboRide launches and driving income softens, I have a named reserve rather than a general savings balance that feels spendable."
+    }
+  ],
+  "decisions": {
+    "car_payment_strategy": "Refinance — with a 796 credit score, I'm carrying a payment rate that predates my creditworthiness. This is fixable this week. I keep the car; I just stop overpaying for it.",
+    "rideshare_volume": "Maximize before AV launch — the 8-week window before RoboRide Phase 2 is a known income opportunity. I'll add one high-yield block per week now and scale back only when earnings data shows demand softening in my zones.",
+    "nursing_school_acceleration": "Investigate this week — I need my exact graduation date and whether summer clinicals are available. If I can shave 4-6 weeks off the timeline, the bridge gets shorter and the risk window shrinks.",
+    "financial_bridge": "Refinancing the car loan is the cleanest first move — it reduces a fixed cost without adding new debt. Personal loan is a secondary option only if refinancing fails and income drops materially after RoboRide launches. I'm not borrowing preemptively against a threat that hasn't materialized yet."
+  },
+  "updated_state": {
+    "stress_level": 0.26,
+    "agency": 0.61,
+    "grief_stage": "none",
+    "savings_delta": 248
+  },
+  "internal_monologue": "The car payment number has been bothering me since I did the budget last month — 26% of income on a depreciating asset I need but can't be sentimental about. With a 796 score I should not be paying what I'm paying. That's this week's one concrete task: call the credit union, get the number, move if it makes sense. The RoboRide countdown I can work with — two months is actually enough time to build a real buffer if I'm deliberate. I'm not scared. I'm just doing the math.",
+  "archetype_self_assessment": "adapter"
+}

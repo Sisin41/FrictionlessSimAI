@@ -1,0 +1,63 @@
+{
+  "tick": 2,
+  "agent_id": "council_member",
+  "agent_name": "Maria Santos",
+  "response": {
+    "internal_assessment": "The public statement worked and now I own the moment — which means I also own the failure if I do not follow through with substance. Spending at 81 before RoboRide has even launched is a number that should silence anyone still tempted by normalcy bias. What I am seeing in my inbox is not panic — it is people making rational individual moves: selling cars, consulting attorneys, researching EV certs, running cash-flow scenarios. These are intelligent people doing what intelligent people do when institutions have not yet given them a coordinated alternative. My job this tick is to make the institution faster than their fear. The emergency session has to produce real outputs: a dollar figure, a program name, a vote on record. Process theater at this moment would be worse than silence.",
+    "chosen_actions": [
+      {
+        "type": "GOVERNANCE",
+        "description": "Run the emergency council session with a structured agenda that forces actual votes, not just discussion. Agenda: (1) Authorize a $150,000 Emergency Workforce Transition Fund drawn from the municipal reserve fund — disbursed as direct retraining grants up to $2,500 per affected worker, partnered with Millfield Community College for EV certification, CDL upgrading, and basic tech skills tracks; criteria: documented employment in transportation, auto sales, repair, or adjacent services within the past 12 months. (2) Authorize a $75,000 Small Business Stabilization Grant program — grants up to $5,000 per business, capped at businesses with under 15 employees and documented revenue decline of 15% or more since baseline spending index; application window opens immediately, reviewed by a three-person committee. (3) Vote to require RoboRide to obtain a municipal operating license before Phase 2 launch — license conditions include a local impact fee of $0.25 per ride directed into the workforce fund, quarterly employment impact reporting, and a local hiring preference clause for any human support roles. (4) Formally establish the Economic Transition Task Force with a 90-day charter, monthly public reporting, and seats for one auto worker representative, one small business owner, one community organizer, and two council members. Bring all four items to a roll-call vote before adjournment.",
+        "target_agent": null,
+        "resources_involved": "$225,000 from municipal reserve fund (reserve currently holds approximately $1.1M — this is a 20% draw, defensible as emergency use). 30 hours of Maria's time for preparation, facilitation, and post-session follow-up. Legal review of the RoboRide licensing ordinance will require approximately $3,500 in municipal attorney fees, covered by existing legal budget line.",
+        "reasoning": "The town is moving — Betty Kowalski is running 30%/60% scenarios, Carlos Ruiz is already self-retraining, Angela Wright is consulting attorneys. These people do not need me to validate their fear; they need me to give their individual adaptive moves a structural container. The workforce fund at $2,500 per worker is enough to cover a community college certificate program. The business stabilization grant at $5,000 is not a rescue — it is a bridge. The RoboRide license fee is the most important piece politically: it converts an external company's revenue stream into a local recovery fund, and it puts Millfield on record as a municipality that negotiates rather than just absorbs. The task force creates accountability beyond this one vote. All four items together tell a coherent story: we saw it coming, we acted before the launch, we used every tool available.",
+        "economic_effects": {
+          "workforce_fund_activation": "$150,000 available within 2 weeks of vote",
+          "small_business_bridge": "$75,000 available for 15 qualifying businesses",
+          "roboride_license_fee_revenue": "estimated $18,000-$40,000 annually at $0.25/ride based on comparable city deployments",
+          "council_credibility": "+high — votes on record before launch date",
+          "reserve_fund_impact": "-20%, remains above 6-month operating floor"
+        }
+      },
+      {
+        "type": "DIRECT_OUTREACH",
+        "description": "Host the public input session I promised — two hours, open mic format, held at the community center the evening before the council vote. Personally call Patricia Hawkins, Betty Kowalski, and Carlos Ruiz directly to invite them and ask them to bring colleagues. Not a town hall for optics: a structured listening session where I take notes on paper, name the specific agenda items coming to vote the next day, and tell people exactly what they can do to influence the outcome — email council members before 9am, attend the vote, sign up for the task force. Also call Lisa Nguyen and ask for her anonymized intake data in writing so I can reference real numbers in the council session without exposing individuals.",
+        "target_agent": "small_business_owner",
+        "resources_involved": "4 hours for the session plus 2 hours of personal calls beforehand. Community center rental covered by council event budget. Lisa Nguyen's intake data is free — I just have to ask for it and treat it with the respect it deserves.",
+        "reasoning": "I promised this session and not holding it would be remembered. But more than obligation: the people in my inbox are already past the stage of needing reassurance — they are in planning mode. Betty Kowalski running 60% traffic drop scenarios is exactly the kind of person whose data should be in front of the council. Carlos Ruiz researching EV certs is exactly the kind of worker the $2,500 retraining grant is designed for — but only if he knows it exists. The Lisa Nguyen call is the most important individual action I can take this tick. She has intake data on people already in crisis. That data belongs in the room when we vote on the fund size.",
+        "economic_effects": {
+          "community_trust_in_process": "+high",
+          "program_uptake_probability": "increased by direct outreach to likely first applicants",
+          "lisa_nguyen_data_integration": "crisis intake numbers inform fund sizing accuracy"
+        }
+      },
+      {
+        "type": "STATE_OUTREACH",
+        "description": "Send a formal letter — not an email, a letter on council letterhead with my signature — to our state representative and to the regional director of the State Workforce Development Agency. Attach: (1) the RoboRide Phase 2 announcement, (2) the spending index data showing 19-point decline, (3) our proposed municipal response with dollar figures. Ask for: matching funds for the workforce retraining program under WIOA Title I dislocated worker provisions; designation of Millfield as an economic impact zone eligible for expedited community college partnership funding; and a legislative co-sponsor meeting within 30 days. Follow the letter with a phone call to each office the same afternoon.",
+        "target_agent": null,
+        "resources_involved": "6 hours for drafting, review, and calls. No direct cost. This is the most leveraged action available to me: WIOA dislocated worker grants can range from $200,000 to $2M for qualifying communities. The municipal $150,000 fund becomes a match, not the ceiling.",
+        "reasoning": "Our municipal reserve is real but finite. The state has programs designed for exactly this displacement pattern — they were built for mill towns and auto plant closures, and robotaxi displacement is the same economic physics. I have done the research. I know the program names. What I need is to get Millfield into the intake queue before the state's fiscal year closes and before other municipalities in Phase 2 cities make the same ask. Being first matters. The letter also creates a paper trail that my constituents can see: their council member went to the state, on the record, with specifics, before RoboRide launched.",
+        "economic_effects": {
+          "potential_state_match": "$200,000 to $2,000,000 if WIOA designation is approved",
+          "timeline_to_funds": "60-90 days if application is fast-tracked",
+          "municipal_leverage": "local $225,000 becomes catalyst rather than full obligation"
+        }
+      },
+      {
+        "type": "SIGNAL",
+        "description": "After the council vote, issue a second public statement — this one specific and concrete. Name the programs, name the dollar amounts, name the RoboRide license requirement, name the task force. Include the application link for the small business stabilization grant and the enrollment contact for the community college retraining track. Post to the town website, send to local media, and ask Patricia Hawkins and Betty Kowalski personally to share it in their networks. One sentence at the end reads: 'Millfield is not waiting to be disrupted. We are governing through it.'",
+        "target_agent": null,
+        "resources_involved": "2 hours to draft post-vote. Zero direct cost. High symbolic value — this closes the loop from the tick 1 statement with actual deliverables attached.",
+        "reasoning": "My status anxiety is real and I am not going to pretend otherwise — but in this case it is aligned with constituent interest. People need to know the programs exist or they will not use them. Betty Kowalski running 60% scenarios does not know yet that there is a $5,000 stabilization grant she can apply for tomorrow. Carlos Ruiz does not know there is a $2,500 retraining grant with his name on it. The statement is not self-promotion; it is a distribution mechanism for services. The visible win matters politically and it matters practically.",
+        "economic_effects": {
+          "program_awareness": "direct reach to affected business owners and workers",
+          "maria_political_standing": "strong — action matches prior rhetoric",
+          "community_stabilization": "reduced panic through concrete alternative pathways"
+        }
+      }
+    ],
+    "emotional_state": "resolved and moving — the alarm from last tick has converted into operational urgency; I am not afraid of the council vote or the RoboRide fight or the state bureaucracy; I am afraid of producing process where people needed substance",
+    "archetype_self_assessment": "builder",
+    "inner_monologue": "The spending index is at 81, Carlos Ruiz is already teaching himself EV certs on his own dime, and I am the person with the municipal reserve fund and the state contacts and the council votes — so if the programs do not exist after this week, that is on me, not on RoboRide."
+  }
+}
