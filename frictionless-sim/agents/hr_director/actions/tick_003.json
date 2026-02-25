@@ -1,0 +1,69 @@
+{
+  "tick": 3,
+  "agent_id": "hr_director",
+  "agent_name": "Angela Wright",
+  "current_state_summary": {
+    "threat_level": 0.31,
+    "runway_months": 10.3,
+    "savings": 59366,
+    "stress_level": 0.27,
+    "primary_concern": "Accept Patricia's $12K + Director of Organizational Transition offer — with modifications to the clawback and scope terms"
+  },
+  "threat_assessment": {
+    "immediate": "48-hour decision window on Patricia's offer. Two separate senior leaders reached out about her security in the same tick — Patricia with a formal offer, Rick with a softer probe. That confluence is not coincidental. It means they have already modeled her departure as a risk and are executing parallel retention strategies. She has been seen. That is leverage, not vulnerability.",
+    "horizon_2mo": "If she accepts the modified offer: she leads the workforce transition architecture for 90 days, collects $12K, and exits with a structured case study and documented methodology she owns. If she declines: she continues in her current role without a defined departure window, which is operationally fine but strategically murkier — she loses the $12K and the formal legitimacy of the 'Director of Organizational Transition' title on her consulting resume. The offer is better than it appears on first read, as long as the clawback and scope terms are negotiated.",
+    "horizon_6mo": "Consulting practice viability depends on having a named, completed engagement she can reference. 'Led workforce transition for a multi-location regional auto dealership during a sector disruption event' is a strong first case. It is more credible than 'launched a consulting entity while still employed.' The Patricia offer, correctly structured, is her first consulting project — she just needs to get the terms right so she isn't trapped past the point of usefulness."
+  },
+  "hierarchy_priority": "L5_BUILD",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Call Patricia before the 48-hour window closes and accept the offer — with two non-negotiable modifications: (1) the clawback provision must be defined precisely, not vague. She wants language that specifies exactly what triggers clawback and what does not — specifically, that if the company initiates departure rather than Angela, the $12K is hers to keep. (2) the title 'Director of Organizational Transition' must come with a written definition of scope and timeline — specifically, a defined end date of 90 days, after which her obligations conclude cleanly. She will tell Patricia: 'I've thought carefully about this. I want to do this work. I have two questions about the terms before I say yes formally.'",
+      "rationale": "The $12K is real money. The title is real IP. The work is work she is already doing informally — documenting process continuity, mapping organizational structure for a smaller viable entity, managing communication sequencing for RIF planning. Accepting formalizes compensation for what she is already contributing. The modifications she is requesting are standard employment attorney guidance and Patricia will not be surprised by them — she will likely be reassured that Angela is taking it seriously rather than looking for an exit.",
+      "timeline": "Today — within 24 hours of the lunch",
+      "expected_outcome": "Patricia agrees to the modifications or comes back with a counter that Angela can evaluate. If Patricia refuses to define the clawback cleanly, that is itself signal — and Angela declines gracefully and notes it in her private intelligence memo."
+    },
+    {
+      "action_id": 2,
+      "description": "Respond to Rick's probe with measured openness, not disclosure. When Rick asked 'what would you need to feel secure in your role over the next six months,' the answer Angela gives him is true but incomplete: 'Clarity on what the role looks like in six months. I can manage uncertainty well, but I manage it better when I understand what we're building toward.' She does not mention the Patricia lunch. She does not mention the attorney. She does not mention the consulting entity. She asks Rick a reciprocal question: 'What's your read on where Patricia wants to take the organization from here?' — and she listens carefully to what he does and does not say.",
+      "rationale": "Rick's probe was a control move, not a genuine offer. He wants to slow her exit signal. The right response is to give him something true that does not accelerate his alarm — and to turn the conversation into an intelligence opportunity. What Rick says about Patricia's direction tells her whether Rick has been read in on the restructuring conversation or is operating on instinct. That distinction matters for how she navigates the next 60 days internally.",
+      "timeline": "Today or tomorrow — close in time to when Rick originally approached her",
+      "expected_outcome": "Rick reads her as stable, engaged, and thoughtful — not panicked, not planning an immediate exit. She learns something about how much visibility Rick has into Patricia's restructuring plans. She does not burn the Rick relationship, which she will need as a reference."
+    },
+    {
+      "action_id": 3,
+      "description": "Update the private intelligence memo with this tick's organizational signals. Specifically: (a) Patricia's closed-door session with all four GMs is now visible to Angela through the meeting room booking and the fact that she processes organizational communication. Note who was in the room, when, and that the agenda was not disclosed to her in advance — which is itself unusual. (b) Check whether any benefits administration queries have been rerouted or whether new vendor authorization paperwork has appeared for outplacement services or legal. (c) Note the David Chen fragment — 'memo to regional VP' — which likely relates to the auto sector exposure in a broader portfolio. Compile, date-stamp, and store offline.",
+      "rationale": "Her information advantage is perishable. The moment her transition role becomes visible to the floor, the organizational paperwork that normally flows through her will begin to be filtered. She has a window of approximately 30-45 days of full access. Every piece of signal she documents now is both situational awareness for her exit timing and anonymized IP for her consulting practice. The memo is already started from last tick. She is adding this tick's data.",
+      "timeline": "This week, within 3 days",
+      "expected_outcome": "A private, timestamped document capturing 90 days of pre-restructure organizational signals across a multi-location retail auto operation. This is the foundation of her first consulting case study and the basis for her exit timing judgment."
+    },
+    {
+      "action_id": 4,
+      "description": "Make one direct consulting outreach this tick. Target: a single contact from her professional HR network — someone at a non-auto regional employer, healthcare or logistics preferred — who she has a genuine prior relationship with. The message is short: 'I've been doing some thinking about the work I want to do next. I'm in the early stages of building an HR consultancy focused on workforce transition and organizational design during disruption. Would you have 20 minutes for a coffee conversation in the next few weeks? I'd value your perspective.' No pitch deck. No website link yet. Just the conversation.",
+      "rationale": "The consulting entity exists. The web presence is minimal but live. The next step is not more infrastructure — it is a human conversation with someone who might eventually become a client, a referral source, or a reference. She does not need to have her whole offering defined before she has this conversation. She needs to put a stake in the ground with one trusted professional contact before she is formally in transition mode. The best time to be findable is before you need to be found.",
+      "timeline": "This week",
+      "expected_outcome": "A coffee meeting scheduled with one professional contact who now knows Angela is building toward something independent. Even if it leads nowhere commercially, it begins normalizing her transition narrative in her network — framed proactively, not reactively."
+    },
+    {
+      "action_id": 5,
+      "description": "Review the organizational paperwork flowing through her desk this week specifically for signals of externally-engaged HR consultants or outplacement vendors being scoped. If she sees a vendor inquiry, a contract routing document, or a preliminary SOW from an outside HR consulting firm, she notes it but does not flag it internally and does not interfere with it. She is looking for the specific signal: is Patricia planning to bring in outside workforce reduction expertise, which would mean Angela's transition role is supplemental, or is Angela intended to be the primary architect, which would mean her role is load-bearing and the title is real?",
+      "rationale": "The 'Director of Organizational Transition' title can mean two very different things: it can mean she is the lead architect, trusted and empowered, or it can mean she is the visible face of a process being designed by outside consultants, which would make her the internal target when the decisions become painful. Knowing which is true before she signs shapes what modifications she asks for. If external HR consultants are already being scoped, she negotiates a narrower scope and a shorter timeline. If she is the primary architect, she negotiates more authority and clearer deliverables.",
+      "timeline": "This week, before she finalizes terms with Patricia",
+      "expected_outcome": "A clear read on whether external HR consulting resources are being brought in, which directly shapes the scope of what she accepts and at what terms."
+    }
+  ],
+  "decisions": {
+    "patricia_offer": "Accept — with modifications. The $12K stay bonus is real compensation for work she is already doing or will do regardless. The 'Director of Organizational Transition' title is legitimate resume IP for a workforce transition consultancy. The modifications she requires before signing: (1) clawback language must specify that involuntary departure by the company does not trigger repayment, and (2) the engagement must have a defined 90-day end date with clean release of obligations. She is not declining and she is not accepting the raw offer. She is accepting the offer she can work with. Patricia expected this — the 65% likelihood of acceptance was roughly right, but what Patricia did not fully model is that Angela would have specific terms. That is fine. This is a negotiation, not a power contest.",
+    "rick_navigation": "She gave Rick a true but non-disclosing answer: that what she needs to feel secure is clarity on what the role looks like in six months, not reassurance about the present. She did not acknowledge the Patricia lunch. She did not acknowledge the attorney. She did not acknowledge the consulting entity. She asked Rick what his read is on where Patricia wants to take the organization — and listened to him. What she heard was that Rick is operating on instinct and floor-level signals, not on direct information from Patricia about the restructuring conversation. That means she and Rick are not in direct tension. She can manage that relationship through the transition.",
+    "consulting_first_step": "One direct outreach to a professional contact in a non-auto sector — healthcare or logistics preferred — for a coffee conversation framed as 'I'm building something and I'd value your perspective.' No pitch, no ask, just the conversation. The goal is one human relationship activated in her consulting direction before she is in formal transition mode. She is not waiting for the web presence to be perfect. She is starting the relationship now.",
+    "organizational_intelligence": "She is watching for two things this week: (1) whether any outplacement vendor or external HR consulting firm appears in paperwork flowing through her desk — which would tell her whether she is the primary architect of the transition or the internal face of an externally-designed process. (2) The David Chen fragment about a memo to the regional VP is likely an auto portfolio exposure communication to corporate or investment principals. She does not have the full text but the fragment tells her that the information about sector disruption is moving upward in the ownership structure, which means decisions about scale-down are not just being considered at the Millfield level — they are being considered by whoever owns the portfolio. That is useful for her exit timing: the decisions will come faster than the floor currently expects."
+  },
+  "updated_state": {
+    "stress_level": 0.27,
+    "agency": 0.71,
+    "grief_stage": "none",
+    "savings_delta": 649
+  },
+  "internal_monologue": "Both of them reached out the same tick. Patricia with the offer, Rick with the probe — and neither of them knows the other moved first, or that I have already modeled both conversations before either one happened. That is not a coincidence, it is a timeline. They have decided I am a flight risk and they are managing me. What they have not fully accounted for is that I was never going to leave without something in hand — which means the $12K is closer to fair market value for my cooperation than it is to a gift. I am going to accept it. I am going to negotiate two clean terms first. And I am going to be genuinely useful in the transition role, because the methodology I build there is the first chapter of the consulting practice I'm standing up behind this. The title is not a poisoned chalice. It is a credential — as long as I define the exit date before I walk in.",
+  "archetype_self_assessment": "strategic-mover"
+}

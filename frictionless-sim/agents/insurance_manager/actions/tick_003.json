@@ -1,0 +1,69 @@
+{
+  "tick": 3,
+  "agent_id": "insurance_manager",
+  "agent_name": "Linda Park",
+  "current_state_summary": {
+    "threat_level": 0.52,
+    "runway_months": 16.0,
+    "savings": 118321,
+    "stress_level": 0.14,
+    "primary_concern": "Policy book declining faster than anticipated — 25 policies and RoboRide just went live today. The acceleration begins now, not in two months. Job search pipeline must convert this tick or next."
+  },
+  "threat_assessment": {
+    "immediate": "25 auto policies, down from 30 at baseline — a 17% decline across just two ticks, and RoboRide's actual launch is today. David Chen's loan tightening means fewer auto purchases, which means fewer new policies entering my book to replace the ones lapsing. My income is already below expenses. The pipeline I've built needs to produce an offer in the next 1-2 ticks or I am reacting instead of executing.",
+    "horizon_2mo": "At current pace — 5 policy cancellations per 2 ticks — I reach my personal trigger threshold of 22 policies by tick 4 or 5. RoboRide's $0.18/mile price point is cheap enough to change behavior for discretionary drivers. Employment at 93% means my agents may start quietly exiting, which destabilizes team capacity precisely when I need them to help me understand which remaining clients might be convertible to other lines. Commercial fleet insurance is a new and real demand entering the market today.",
+    "horizon_6mo": "Personal auto as a product line is structurally declining in Millfield. The question is not whether I leave this role — the question is whether I leave on my own terms with an offer in hand, or whether the policy count forces my employer's hand first. If I can convert even one major commercial account — RoboRide's fleet, a logistics company — it buys credibility and time. But job search is the primary track. Commercial fleet is a secondary track worth pursuing because it demonstrates initiative and adds a line to my resume regardless of whether I stay or go."
+  },
+  "hierarchy_priority": "L2_PARTICIPATE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Follow up directly with my fleet risk contact today — not by email, by phone. The framing shifts now that RoboRide is live: 'I wanted to reach out the day it launched because this is the moment the commercial fleet question becomes real. Does your team have appetite to underwrite autonomous vehicle fleets, and is there a conversation worth having about whether I join that effort?' This is not a soft inquiry. This is a direct signal that I am available, that I have the context, and that I move when the market moves.",
+      "rationale": "RoboRide's launch is a forcing function. The fleet risk contact I activated two ticks ago and followed up with last tick now has a concrete market event to respond to. Every day I wait, someone else with fleet underwriting experience is making the same call. My 15-year local market knowledge and existing relationships are a real edge — but only if I deploy them before the window closes. If this contact has an open role or knows of one, today is the day to close the distance.",
+      "timeline": "Today — phone call, not email",
+      "expected_outcome": "Either a clear 'yes, let's set up a formal conversation' — which moves this from pipeline to active interview — or a clear 'not right now,' which lets me redirect energy. Either outcome is better than ambiguity."
+    },
+    {
+      "action_id": 2,
+      "description": "Call Tom Chen, my commercial lines underwriter contact at the regional carrier level, and ask one direct question: is there an appetite to quote commercial fleet coverage for RoboRide's Millfield vehicles, and can I bring that relationship? I am not certain I can place this business — RoboRide may have national carrier relationships already. But I have a local market presence they don't have, and a carrier who wants to enter this segment needs someone who can sit across from RoboRide's operations manager. If the carrier has interest, I schedule an exploratory meeting with both parties within the week.",
+      "rationale": "RoboRide needs commercial fleet insurance. That is a fact as of today. My personal auto book is shrinking. A commercial fleet account of even 15-20 vehicles at $2,500-$4,000 per vehicle annually is $37,500-$80,000 in premium — meaningful enough to change my book's composition and my employer's view of my value, even as personal auto declines. This is not a long-shot play. It is a logical adjacency that I have the relationships to pursue, and pursuing it costs me one phone call.",
+      "timeline": "Today or tomorrow — phone call to carrier contact, then outreach to RoboRide operations if carrier confirms interest",
+      "expected_outcome": "Carrier either has an autonomous vehicle commercial product and wants to write it, or doesn't. If yes, I arrange a three-way conversation. If no, I've spent 30 minutes and have a clear answer that removes this option from my mental queue."
+    },
+    {
+      "action_id": 3,
+      "description": "Send a brief, professional check-in to the healthcare system (risk/compliance division) and municipal government (risk management office) where I submitted applications last tick. Subject line: 'Following up — Risk Management Application, Linda Park.' Two sentences: confirm continued interest, note that my work this week includes active risk modeling for autonomous vehicle market impacts, which is directly relevant to enterprise and public-sector risk portfolios. Attach an updated one-page summary of relevant experience.",
+      "rationale": "Applications without follow-up are noise. A targeted follow-up within one week of submission is standard professional practice and statistically increases callback rates. The RoboRide launch gives me a genuine, timely hook — I am literally managing the risk transition in real time. That is not spin, it is accurate, and it differentiates me from other applicants who have not lived inside this disruption.",
+      "timeline": "This week — email follow-up, within 5 business days of original applications",
+      "expected_outcome": "At minimum, confirmation that my application is in active review. At best, a screening call scheduled within this tick or next."
+    },
+    {
+      "action_id": 4,
+      "description": "Proactively contact my top 8 personal auto policyholders — the ones with the highest premium value and longest tenure — not to retain the auto policy at all costs, but to have an honest conversation about their transportation plans. Open question: 'With RoboRide now live, I wanted to check in and make sure your coverage still fits your actual life.' This positions me as a trusted advisor rather than a retention caller. For clients who are reducing car usage, explore whether they need renter's insurance, personal liability coverage, or life/health products if they are among the workers whose employment has changed. Convert the conversation, not just the policy.",
+      "rationale": "My auto book is going to shrink. That is not a question. The question is whether the client relationships I have built over 15 years follow me out the door or stay with AutoShield. If I can convert even 3 of 8 conversations into a cross-sell on another product line, I slow my book's revenue decline. If I can't convert them but I've had a genuine conversation, I maintain the relationship for wherever I land next. Either way, this is the right action. Letting policies lapse silently without a conversation is a passive choice that costs me both revenue and relationship capital.",
+      "timeline": "This week — 8 targeted outreach calls, 15 minutes each",
+      "expected_outcome": "2-3 conversations that identify cross-sell opportunities in health, life, or property lines; 5-6 conversations that maintain client relationships regardless of auto policy status; zero conversations where the client felt ignored during a significant life change."
+    },
+    {
+      "action_id": 5,
+      "description": "Email Maria Santos's task force coordinator and offer a specific, bounded contribution: I will prepare a one-page risk modeling brief on how autonomous vehicle adoption typically affects local insurance markets, premium volumes, and associated municipal tax revenue from insurance premium taxes. I am not joining the task force as a standing member — I don't have the bandwidth — but I can contribute a specific analytical deliverable that is genuinely useful, that puts my name and expertise in front of the town's economic resilience planning process, and that takes me roughly 3 hours to produce.",
+      "rationale": "Maria's task force is where Millfield's economic response is being coordinated. My risk expertise is exactly what they need and don't have — Maria's staff knows policy and community programs, not actuarial modeling. Contributing a concrete deliverable gets my name attached to the town's institutional response to disruption, which is relevant to any future role in municipal risk management and demonstrates community leadership that hiring managers in the public sector value. It also costs me 3 hours, which is a small investment with a high signaling return.",
+      "timeline": "Email today; deliver brief within 5 days",
+      "expected_outcome": "Task force coordinator accepts the offer, brief is incorporated into the planning process, and I have a documented contribution to Millfield's economic resilience work that I can reference in job applications."
+    }
+  ],
+  "decisions": {
+    "fleet_risk_opportunity": "Pursue directly on two parallel tracks: (1) contact fleet risk colleague today about career opportunity, since RoboRide's launch makes this a live conversation rather than a speculative one; (2) contact regional carrier about commercial fleet underwriting appetite for RoboRide's vehicles. If carrier has product, attempt to bring the business. If RoboRide already has national carrier relationships, this fails quickly and cheaply. Worth the attempt.",
+    "job_search_status": "Pipeline is active across three tracks: fleet risk colleague (relationship-based, most likely to convert), healthcare system risk/compliance (application submitted, follow-up this tick), municipal risk management (application submitted, follow-up this tick). This tick's goal is to move at least one of these from 'application submitted' to 'screening call scheduled.' The fleet risk call today is the highest-probability path to that outcome.",
+    "personal_auto_book": "Proactive outreach to top 8 clients — not to retain auto policies at all costs, but to have honest conversations that preserve relationships and identify cross-sell opportunities. Let smaller, lower-value policies attrite without high-touch retention effort. Redirect energy toward clients where relationship capital and cross-sell potential are both present.",
+    "task_force_engagement": "Yes — bounded contribution only. One analytical deliverable (autonomous vehicle insurance market impact brief), not standing membership. This is the correct level of engagement given my current job search bandwidth. The contribution is genuine, specific, and strategically visible without becoming a time sink."
+  },
+  "updated_state": {
+    "stress_level": 0.14,
+    "agency": 0.68,
+    "grief_stage": "none",
+    "savings_delta": -840
+  },
+  "internal_monologue": "Twenty-five policies. I ran the curve the moment that number arrived: if the rate holds, I hit my trigger threshold at tick 4 or 5 — but RoboRide is live today, which means the rate accelerates, not holds. The interesting thing is that the same event that's collapsing my book is also creating a new insurance market from scratch — RoboRide's vehicles need coverage, and someone is going to write that business. I have spent two ticks building a pipeline. This tick it starts to close, or I reassess what closing looks like.",
+  "archetype_self_assessment": "repositioner"
+}
