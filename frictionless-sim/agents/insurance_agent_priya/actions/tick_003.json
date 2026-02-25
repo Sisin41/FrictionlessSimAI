@@ -1,0 +1,72 @@
+{
+  "tick": 3,
+  "agent_id": "insurance_agent_priya",
+  "agent_name": "Priya Sharma",
+  "current_state_summary": {
+    "threat_level": 0.58,
+    "runway_months": 6.0,
+    "savings": 19945,
+    "stress_level": 0.26,
+    "primary_concern": "My income is already $981 below my expense line and RoboRide is live as of today — the theoretical threat has become an operational one, and my sales pipeline is not reflecting that urgency yet."
+  },
+  "threat_assessment": {
+    "immediate": "RoboRide launched at $0.18/mile this tick. Active auto policies in Millfield are down to 25 — five below baseline — and the trajectory is pointing the wrong direction. My income is $3,019 against $3,341 in expenses. I am spending down savings right now, not building them. Linda is already pivoting toward fleet and commercial coverage; I need to follow that model or I am going to fall further behind on production while waiting for the sector to stabilize.",
+    "horizon_2mo": "Policy attrition will continue as residents run the math on RoboRide versus car ownership. David Chen tightening auto loan criteria means fewer new car buyers entering the market, which means fewer new auto policies to write. The 2-month window I identified in tick 1 is not a future problem — it started today. My income will not recover from auto alone. If I have not diversified my book toward home, renters, and commercial accounts within 60 days, I will be earning significantly less than I am now, with SQL skills that are not yet employable.",
+    "horizon_6mo": "The sector contraction is structural. Fewer cars means fewer auto policies means reduced commissions across the entire agency, not just my book. My role security of 0.89 is real today but it is a lagging indicator — it reflects my past performance, not the shrinking addressable market. In 6 months I need to be either: (a) holding a data analytics role, even a junior one, or (b) demonstrably running a diversified insurance book that is not primarily auto-dependent. Option (a) requires SQL proficiency I don't yet have. Option (b) requires sales effort I am starting now. Both are live tracks. Neither is optional."
+  },
+  "hierarchy_priority": "L2_PARTICIPATE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Accept the grant committee appointment from Maria Santos's office and respond formally this week.",
+      "rationale": "Maria named me — Priya Nair, which is me — to the grant committee alongside Nadia Osei and Robert Dunbar. This is not a favor to accept passively. This puts me in a room where I see which businesses are applying, what their distress patterns look like, which sectors are adapting versus folding, and who the decision-makers in Millfield are actively trying to support. That is a real-time economic intelligence feed that no one else in my position has access to. It also means Maria Santos knows my name in a context that is not 'sells car insurance.' The credential value is secondary. The access is the thing. I respond formally, I show up prepared, and I do not treat this as an honorific.",
+      "timeline": "Respond within 48 hours of receiving contact from Maria's office. Attend first committee meeting whenever scheduled.",
+      "expected_outcome": "Established role on grant committee. Direct visibility into which Millfield businesses and workers are in distress, which retraining paths people are actually choosing, and what the community's economic structure looks like below the headline numbers. Network expansion into municipal decision-making layer."
+    },
+    {
+      "action_id": 2,
+      "description": "Complete SQL Module 3 tonight — specifically the section on JOIN operations if that is where Module 3 lands.",
+      "rationale": "Module 1 was the proof I could start. Module 2 was the proof it was a habit and not a single event. Module 3 is the proof that habit holds when RoboRide is actually live and the stress level goes up and the easier thing is to open LinkedIn and doom-scroll job postings instead of sitting with a tutorial that makes me feel incompetent before it makes me feel capable. The course is the long-term investment. It does not produce income this month. But every module I skip pushes the employability date further out, and I cannot afford to let the horizon drift. I also have a concrete use case now: the grant committee will surface data about local business applications, sector distributions, funding patterns. If I can eventually analyze that data, I am not just a committee member — I am a contributor with a skill the committee does not currently have. That is the specific intersection I am building toward.",
+      "timeline": "Tonight. Not this week — tonight. Before midnight.",
+      "expected_outcome": "Module 3 completed. Running total: 3 of N modules done. Incremental SQL proficiency in multi-table queries. Maintained the habit through a high-distraction tick."
+    },
+    {
+      "action_id": 3,
+      "description": "Follow up on the $2,500 retraining grant application status — and if it is not yet processed, contact millfield.gov/grants directly.",
+      "rationale": "I applied last tick. The outcome record from tick 2 shows only Module 2 completion — no confirmation of grant submission, which mirrors the pattern from tick 1 where I said I would apply and the outcome was ambiguous. I need to know: did the application actually go through, or did I open the form and not finish it? If I am now on the grant committee and have not applied for the grant I am eligible for, that is a specific kind of irony I cannot let stand. I check the status. If it is pending, I note that. If it was never submitted, I complete and submit it today — it is not a complicated form, Maria's office designed it for speed, and $2,500 at my current burn rate is approximately 0.75 months of runway. I do not leave money I qualify for sitting on a government server because I got distracted.",
+      "timeline": "Check status today. Submit if necessary by end of week.",
+      "expected_outcome": "Confirmed status on the $2,500 grant application. Either: receipt of funds pending, or application submitted with confirmation. No ambiguity about whether this action has been completed."
+    },
+    {
+      "action_id": 4,
+      "description": "Follow Linda's model and make contact with Amir Patel to offer business continuity insurance review — specifically commercial property, business interruption, and liability.",
+      "rationale": "Amir owns a gas station and I already reviewed his grant application — he knows my name in a context where I helped him, not sold to him. That is a warm lead. His business is under real pressure from RoboRide: fewer cars on the road eventually means fewer fill-ups, fewer oil changes, less foot traffic. He is applying for a small business grant to adapt. He has not necessarily reviewed whether his insurance coverage reflects his current risk profile. Business interruption coverage becomes more relevant, not less, when a business is navigating structural disruption. I reach out — not as a sales call, but as a follow-up from the grant work. 'I was thinking about your application and wanted to make sure your coverage isn't a gap as you're planning the next phase.' That is a sentence a trusted advisor says. It is also, incidentally, a sentence that could produce a policy. I am following Linda's model: when auto shrinks, find the adjacent commercial need.",
+      "timeline": "Contact Amir this week, before the weekend.",
+      "expected_outcome": "Warm conversation with Amir Patel that either (a) surfaces an insurance need I can actually cover, producing revenue, or (b) deepens the professional relationship with a small business owner who will be in the community through this transition and who may refer others."
+    },
+    {
+      "action_id": 5,
+      "description": "Name the target career destination — write it down, specifically, and hold it for one week to see if it still feels true.",
+      "rationale": "I have been building toward something for three ticks now. SQL modules. Data analyst job searches. 'Insurance operations and data analysis background' on a resume. But I have not named the specific destination. That is a gap in my planning that my low future_orientation (0.37) is happy to leave unfilled — ambiguity is comfortable because it cannot be wrong. But I am on a grant committee now. I am watching a sector contract. I am three SQL modules into a pivot. I owe myself a concrete answer to: what is the actual job? The most honest answer, looking at the Venn diagram of my skills, is: data analyst role at an insurance carrier, reinsurer, or insurtech company — specifically in underwriting analytics, risk modeling, or claims pattern analysis. Not actuarial, because the credentialing timeline is wrong for my situation. Not generic 'data analyst' at a random company, because my insurance knowledge is a genuine edge I should price, not abandon. I write this down tonight, after Module 3. I give it a week. If it still feels right after living with it, it becomes the north star that my SQL modules and job applications are actually pointing at — not a vague 'something with data.'",
+      "timeline": "Write it tonight, after completing Module 3. Revisit next tick.",
+      "expected_outcome": "One concrete job title or role category written down with a two-sentence rationale. Not a plan — a direction. The difference between someone who is building toward something and someone who is just taking courses."
+    }
+  ],
+  "decisions": {
+    "grant_committee_role": "accept",
+    "sql_module_3": "complete_tonight",
+    "grant_application_followup": "check_and_confirm",
+    "amir_patel_contact": "reach_out_this_week",
+    "career_target_naming": "write_tonight_after_module_3",
+    "auto_book_strategy": "follow_linda_model_toward_commercial_and_fleet",
+    "job_applications_status": "pipeline_open_pending_module_progress"
+  },
+  "updated_state": {
+    "stress_level": 0.26,
+    "agency": 0.56,
+    "grief_stage": "none",
+    "savings_delta": -322
+  },
+  "internal_monologue": "RoboRide is not coming anymore — it launched today, $0.18 a mile, fifteen minutes, they have the main roads covered. The 25-policy number is not a projection, it is this week's fact. I am spending more than I earn right now and the market I sell into is actively shrinking. The good news — if I am going to call it that — is that I can see the whole board in a way that Tom and Jake and Amir cannot, and I have a seat at a table Maria Santos just built that is going to tell me things before they become headlines. I need to stop feeling like I am building toward something and start knowing what the something is, specifically, and then do that instead of a general approximation of it. Grant committee, Module 3, Amir, the name of the job I actually want — four real things. The repositioner earns the label by repositioning, not by describing herself as someone who repositions.",
+  "archetype_self_assessment": "repositioner with a direction — still building the bridge, but I can finally see which shore I'm building toward"
+}
