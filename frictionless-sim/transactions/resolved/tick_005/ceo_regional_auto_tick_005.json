@@ -1,0 +1,9 @@
+{
+  "id": "tx_005_ceo_regional_auto_council_member",
+  "tick": 5,
+  "initiator": "ceo_regional_auto",
+  "target": "council_member",
+  "type": "SIGNAL",
+  "description": "Patricia Hawkins formally requests inclusion in Maria Santos's Economic Transition Task Force, positioning Regional Auto Group as a structured-transition employer and offering Angela Wright's workforce vulnerability framework as a contributed resource to inform task force policy work.",
+  "status": "accepted"
+}

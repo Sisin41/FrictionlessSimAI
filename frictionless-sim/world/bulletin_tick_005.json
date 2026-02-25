@@ -1,0 +1,145 @@
+{
+  "tick": 5,
+  "events": [
+    {
+      "type": "layoff",
+      "source_agent": "ceo_regional_auto",
+      "sector": "retail_auto",
+      "visibility": "local_news",
+      "description": "Patricia Hawkins laid off workers: begin privately processing the emotional weight of the layoffs i made this month. these were people \u2014 some of them longtime employees, possibly people my father knew when he ran the original lot. i need to sit with what i did, not just manage the narrative around it. write a private note to myself about each person laid off: what their role was, what they contributed, and what i could realistically do to help them \u2014 whether that is a strong reference, outplacement support through angela's transition program, or a direct call to howard liu or other employers in the network who might have need."
+    },
+    {
+      "type": "layoff",
+      "source_agent": "council_member",
+      "sector": "retail_auto",
+      "visibility": "local_news",
+      "description": "Maria Santos laid off workers: hold a public listening session at millfield community center \u2014 not a town hall, not a press conference, something smaller and more honest. invite anyone who has been laid off, anyone whose business is struggling, anyone who has been to a protest. my job is to listen for ninety minutes and then say out loud what i heard. bring the task force chair. bring the grant committee contact info. let people see that the programs exist and that a human being is running them, not a form. i will specifically address the five active protests by acknowledging that the frustration is legitimate and the timeline of government response is inadequate. i will not promise things i cannot deliver. i will tell them what i have done, what is in motion, and what i am still fighting for."
+    },
+    {
+      "type": "layoff",
+      "source_agent": "council_member",
+      "sector": "retail_auto",
+      "visibility": "local_news",
+      "description": "Maria Santos laid off workers: use betty kowalski's testimony to formally expand the small business stabilization grant program. betty gave direct testimony to the task force. her testimony, combined with the spending index drop from 73 to 69 and the data on two more layoffs, is sufficient grounds to bring a council motion to extend the application window by 60 days and to lower the revenue decline threshold from 15% to 10% for businesses on auto row specifically. auto row is the ground zero of this disruption. the original 15% threshold may be keeping businesses that are hurting but not yet at that benchmark from accessing funds. a 10% threshold on auto row would be targeted, defensible, and directly responsive to the testimony i received."
+    },
+    {
+      "type": "layoff",
+      "source_agent": "dealership_gm",
+      "sector": "retail_auto",
+      "visibility": "local_news",
+      "description": "Rick Tanner laid off workers: formally commit to producing a location-specific consolidation readiness assessment for millfield auto mall within two weeks \u2014 structured around the three-tier framework patricia outlined (ev/av-exposed, transition-ready, anchored roles) but layered with my floor-level knowledge of which techs are certifiable, which salespeople have transferable skills, and what the service lane capacity looks like under a reduced-sales model. not a layoff list. an asset map. i tell patricia this directly in the meeting."
+    },
+    {
+      "type": "closure",
+      "source_agent": "council_member",
+      "sector": "retail_auto",
+      "visibility": "local_news",
+      "description": "Business closing: Maria Santos \u2014 accept david chen's counter-offer and operationalize it. he said the bank does not offer a categorical carve-out but that existing small-dollar loan and secured lending products are available to qualified applicants. i will take him up on that \u2014 not as a political concession but as a practical bridge. coordinate with the grant committee to create a one-page 'next steps' document for retraining enrollees that includes: (1) the $2,500 grant eligibility requirements and how to apply; (2) first community bank's small-dollar loan products with david's name and contact as a designated point of contact; (3) the millfield community college enrollment timeline. the gap between $2,500 and actual financial pressure during retraining is real. david's products do not close that gap completely, but they are real money available now. stop waiting for a perfect solution and start connecting people to the imperfect but functional one."
+    },
+    {
+      "type": "closure",
+      "source_agent": "dealership_gm",
+      "sector": "retail_auto",
+      "visibility": "local_news",
+      "description": "Business closing: Rick Tanner \u2014 after the patricia meeting, send a short note to jake morrison acknowledging the under-$22k floor strategy and clearing any internal friction \u2014 pull the units, make sure the lot positioning happens, confirm that the month-end close target is supported from the top. i do not micromanage jake's pitch, but i make sure he knows the gm is aligned and not going to undercut him with a competing priority."
+    },
+    {
+      "type": "closure",
+      "source_agent": "salesperson_jake",
+      "sector": "retail_auto",
+      "visibility": "local_news",
+      "description": "Business closing: Jake Morrison \u2014 personally work my single best remaining pre-qualified lead \u2014 the buyer who came in twice in the past 60 days, looked at a 2021 civic priced at $19,400, said they needed to 'think about it.' i call them directly, not a text, not an email. i run the monthly payment math with them on the phone: $19,400 financed over 60 months at current rates is under $380/month. i offer to hold the unit for 48 hours at that price with no obligation. this is the one i close. i don't pitch the lot \u2014 i pitch this specific car to this specific person. if they say no i ask one question: what would it take?"
+    },
+    {
+      "type": "closure",
+      "source_agent": "salesperson_jake",
+      "sector": "retail_auto",
+      "visibility": "local_news",
+      "description": "Business closing: Jake Morrison \u2014 request a one-on-one with rick tanner this week. not to complain, not to ask for protection \u2014 to present value. i bring my last 90 days of personal close data, my pipeline of pre-qualified leads by price tier, and a one-page read on which inventory segments still have buyer interest. i also ask him directly, casually, whether the stay bonus patricia mentioned at the all-hands applies to floor sales staff. i want to know if the $12k is on the table before angela's map goes in and before rick has categorized me without my input."
+    },
+    {
+      "type": "closure",
+      "source_agent": "salesperson_tamika",
+      "sector": "retail_auto",
+      "visibility": "local_news",
+      "description": "Business closing: Tamika Jefferson \u2014 close the first paying freelance client from the discovery call pipeline. target: the hvac contractor or one of the two restaurants from the tick 2 outreach \u2014 whoever showed the most engagement. convert the relationship from 'warm conversation' to a signed agreement: $350/month retainer, three months minimum, two social posts per week plus one monthly short-form video. send a simple one-page agreement via email today. no more 'let's talk soon.' a decision is required."
+    },
+    {
+      "type": "closure",
+      "source_agent": "real_estate_agent",
+      "sector": "retail_auto",
+      "visibility": "local_news",
+      "description": "Business closing: Stephanie Morris \u2014 follow up with the two to three prospects from tick 4 outreach who expressed interest, with the explicit goal of converting pipeline conversations into signed listing agreements. present updated valuations incorporating the accelerating vacancy data, the three-car-sale signal from this month, and the deteriorating consumer spending index. for suburban flex-space owners, close on a listing agreement using the post-roboride accessibility argument. for downtown and auto-row owners, create urgency around the window to exit before values compress further."
+    },
+    {
+      "type": "closure",
+      "source_agent": "uber_driver_2",
+      "sector": "retail_auto",
+      "visibility": "local_news",
+      "description": "Business closing: Grace Okafor \u2014 text nicole washington \u2014 the nurse in my network \u2014 and ask one focused question: she is working clinically right now, so i want to know if the hospital is actively hiring new grads or if there is a freeze, and whether she has heard anything about the workforce retraining grant decisions coming out. keep it brief and professional. she is not a close contact (trust 0.49) but she is the right person for this specific question."
+    },
+    {
+      "type": "new_business",
+      "source_agent": "auto_shop_teacher",
+      "sector": "new_economy",
+      "visibility": "local_news",
+      "description": "New venture: Mark Thompson \u2014 respond to frank russo's outreach. call him back directly, set up a coffee meeting this week. approach it as a peer conversation \u2014 two educators with vehicle-related programs watching the same disruption from different angles. listen first: what is he thinking about doing with the driving school? is he looking to pivot, collaborate, or just vent? if he's open to it, float the idea that a driving school with av literacy curriculum could feed into the same auto tech pipeline infrastructure \u2014 safety, sensor awareness, human-av interaction. don't over-pitch. make him feel heard. build the relationship before asking anything of it."
+    },
+    {
+      "type": "protest",
+      "source_agent": "council_member",
+      "sector": "community",
+      "visibility": "local_news",
+      "description": "Community action: Maria Santos \u2014 hold a public listening session at millfield community center \u2014 not a town hall, not a press conference, something smaller and more honest. invite anyone who has been laid off, anyone whose business is struggling, anyone who has been to a protest. my job is to listen for ninety minutes and then say out loud what i heard. bring the task force chair. bring the grant committee contact info. let people see that the programs exist and that a human being is running them, not a form. i will specifically address the five active protests by acknowledging that the frustration is legitimate and the timeline of government response is inadequate. i will not promise things i cannot deliver. i will tell them what i have done, what is in motion, and what i am still fighting for."
+    },
+    {
+      "type": "protest",
+      "source_agent": "council_member",
+      "sector": "community",
+      "visibility": "local_news",
+      "description": "Community action: Maria Santos \u2014 issue a formal public statement on roboride compliance. i followed up last tick after the 48-hour response window expired. whatever their response was, i now make it public. if they are in compliance with the $0.25 per ride fee and the quarterly reporting requirement, i acknowledge it on the record and report the first estimated impact fee revenue figure \u2014 every dollar going into the workforce fund is a story i want told. if they are not in compliance, i issue the formal notice of non-compliance and announce a council briefing within ten days. either outcome serves the community: compliance means the fund is being fed, non-compliance means the council's licensing authority is real and being enforced. what i cannot do is sit on this another tick. the protests are partly about feeling like no one is holding anyone accountable. this is the most concrete accountability action i have."
+    },
+    {
+      "type": "protest",
+      "source_agent": "insurance_manager",
+      "sector": "community",
+      "visibility": "local_news",
+      "description": "Community action: Linda Park \u2014 have the one-on-one with priya sharma that she requested \u2014 and do it honestly. when she delivers her field assessment that the personal auto book is structurally terminal, i don't deflect. i confirm i share that read. i tell her what i did in tick 4: that i already sent the memo to corporate making the case for a commercial fleet pivot. i tell her i don't have a response yet. i ask her directly: if autoshield does not pivot, what is her own timeline? i am not telling her to start looking \u2014 but i am treating her like an adult who already knows the math. this protects my credibility with her more than any reassurance would."
+    },
+    {
+      "type": "protest",
+      "source_agent": "community_organizer",
+      "sector": "community",
+      "visibility": "local_news",
+      "description": "Community action: Lisa Freeman \u2014 follow up directly with david chen at the bank, accepting his offer of a conversation about specific lending products appropriate for retraining program participants. frame this not as renewed pressure for a categorical carve-out but as taking him up on his stated willingness to discuss pathways. prepare three to four concrete profiles \u2014 anonymized, composite \u2014 of retraining enrollees who have demonstrated repayment capacity but fail traditional qualification screens, so the conversation is grounded in specifics, not abstraction. outcome goal: identify at least one existing bank product that could be formally presented to maria santos's task force as an available resource for the excluded populations i testified about."
+    },
+    {
+      "type": "policy",
+      "source_agent": "council_member",
+      "sector": "policy",
+      "visibility": "local_news",
+      "description": "Policy proposal: Maria Santos \u2014 hold a public listening session at millfield community center \u2014 not a town hall, not a press conference, something smaller and more honest. invite anyone who has been laid off, anyone whose business is struggling, anyone who has been to a protest. my job is to listen for ninety minutes and then say out loud what i heard. bring the task force chair. bring the grant committee contact info. let people see that the programs exist and that a human being is running them, not a form. i will specifically address the five active protests by acknowledging that the frustration is legitimate and the timeline of government response is inadequate. i will not promise things i cannot deliver. i will tell them what i have done, what is in motion, and what i am still fighting for."
+    },
+    {
+      "type": "policy",
+      "source_agent": "council_member",
+      "sector": "policy",
+      "visibility": "local_news",
+      "description": "Policy proposal: Maria Santos \u2014 issue a formal public statement on roboride compliance. i followed up last tick after the 48-hour response window expired. whatever their response was, i now make it public. if they are in compliance with the $0.25 per ride fee and the quarterly reporting requirement, i acknowledge it on the record and report the first estimated impact fee revenue figure \u2014 every dollar going into the workforce fund is a story i want told. if they are not in compliance, i issue the formal notice of non-compliance and announce a council briefing within ten days. either outcome serves the community: compliance means the fund is being fed, non-compliance means the council's licensing authority is real and being enforced. what i cannot do is sit on this another tick. the protests are partly about feeling like no one is holding anyone accountable. this is the most concrete accountability action i have."
+    },
+    {
+      "type": "trend",
+      "source_agent": "",
+      "sector": "education",
+      "visibility": "local_news",
+      "description": "12 people enrolled in retraining this month."
+    },
+    {
+      "type": "trend",
+      "source_agent": "",
+      "sector": "retail_auto",
+      "visibility": "local_news",
+      "description": "Noticeable trend: 2 people sold or stopped using their cars this month."
+    }
+  ]
+}

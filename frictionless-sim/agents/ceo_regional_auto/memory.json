@@ -24,6 +24,11 @@
       "tick": 4,
       "summary": "Issue Angela Wright her first formal deliverable as Director of Org Transition: a 30-day workforce vulnerability map. Every role at every location, categorized by three tiers \u2014 EV/AV-exposed (could be eliminated if service volume drops and we do not upskill), transition-ready (can be retrained or redeployed), and anchored (customer-facing or management roles with defensible value in any future model). This is not a layoff list. This is intelligence. I frame it to her exactly that way. I also confirm the $12,000 stay bonus is active and the clock is running.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 5,
+      "summary": "Call Rick Tanner into a direct executive meeting \u2014 not a phone call, a sit-down in my office \u2014 and require him to present the 30-day sales and service data he has been quietly compiling. Make clear that information flow in this organization runs through me, not around me. Review unit volume, margin trends, and service lane health together. If the numbers are as bad as I suspect, begin drafting a formal Q2 operational plan with Rick that addresses the floor's reduced throughput honestly rather than hoping it recovers.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -66,6 +71,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Issue Angela Wright her first formal deliverable as Director of Org Transition: a 30-day workforce vulnerability map. Every role at every location, categorized by three tiers \u2014 EV/AV-exposed (could be eliminated if service volume drops and we do not upskill), transition-ready (can be retrained or redeployed), and anchored (customer-facing or management roles with defensible value in any future model). This is not a layoff list. This is intelligence. I frame it to her exactly that way. I also confirm the $12,000 stay bonus is active and the clock is running.. Savings dropped by $3,227. "
+    },
+    {
+      "tick": 5,
+      "action": "Call Rick Tanner into a direct executive meeting \u2014 not a phone call, a sit-down in my office \u2014 and require him to present the 30-day sales and service data he has been quietly compiling. Make clear that information flow in this organization runs through me, not around me. Review unit volume, margin trends, and service lane health together. If the numbers are as bad as I suspect, begin drafting a formal Q2 operational plan with Rick that addresses the floor's reduced throughput honestly rather than hoping it recovers.",
+      "savings_delta": -16487,
+      "stress_delta": 0.18,
+      "employment_changed": true,
+      "narrative": "You Call Rick Tanner into a direct executive meeting \u2014 not a phone call, a sit-down in my office \u2014 and require him to present the 30-day sales and service data he has been quietly compiling. Make clear that information flow in this organization runs through me, not around me. Review unit volume, margin trends, and service lane health together. If the numbers are as bad as I suspect, begin drafting a formal Q2 operational plan with Rick that addresses the floor's reduced throughput honestly rather than hoping it recovers.. Savings dropped by $16,487. Employment status changed to unemployed. "
     }
   ],
   "reflections": [],

@@ -24,6 +24,11 @@
       "tick": 4,
       "summary": "Contact Nadia Osei, Robert Dunbar, and Priya Nair \u2014 the grant committee \u2014 to get a first report on small business grant applications. How many applications received? How many reviewed? Any approvals pending? Flag any patterns in who is applying and who isn't: if affected workers and businesses aren't finding the program, there's a marketing failure I need to fix immediately. Ask for a written summary by end of week.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 5,
+      "summary": "Hold a public listening session at Millfield Community Center \u2014 not a town hall, not a press conference, something smaller and more honest. Invite anyone who has been laid off, anyone whose business is struggling, anyone who has been to a protest. My job is to listen for ninety minutes and then say out loud what I heard. Bring the task force chair. Bring the grant committee contact info. Let people see that the programs exist and that a human being is running them, not a form. I will specifically address the five active protests by acknowledging that the frustration is legitimate and the timeline of government response is inadequate. I will not promise things I cannot deliver. I will tell them what I have done, what is in motion, and what I am still fighting for.",
+      "emotional_state": "alarmed"
     }
   ],
   "past_outcomes": [
@@ -66,6 +71,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Contact Nadia Osei, Robert Dunbar, and Priya Nair \u2014 the grant committee \u2014 to get a first report on small business grant applications. How many applications received? How many reviewed? Any approvals pending? Flag any patterns in who is applying and who isn't: if affected workers and businesses aren't finding the program, there's a marketing failure I need to fix immediately. Ask for a written summary by end of week.. Savings grew by $791. "
+    },
+    {
+      "tick": 5,
+      "action": "Hold a public listening session at Millfield Community Center \u2014 not a town hall, not a press conference, something smaller and more honest. Invite anyone who has been laid off, anyone whose business is struggling, anyone who has been to a protest. My job is to listen for ninety minutes and then say out loud what I heard. Bring the task force chair. Bring the grant committee contact info. Let people see that the programs exist and that a human being is running them, not a form. I will specifically address the five active protests by acknowledging that the frustration is legitimate and the timeline of government response is inadequate. I will not promise things I cannot deliver. I will tell them what I have done, what is in motion, and what I am still fighting for.",
+      "savings_delta": -3917,
+      "stress_delta": 0.0,
+      "employment_changed": true,
+      "narrative": "You Hold a public listening session at Millfield Community Center \u2014 not a town hall, not a press conference, something smaller and more honest. Invite anyone who has been laid off, anyone whose business is struggling, anyone who has been to a protest. My job is to listen for ninety minutes and then say out loud what I heard. Bring the task force chair. Bring the grant committee contact info. Let people see that the programs exist and that a human being is running them, not a form. I will specifically address the five active protests by acknowledging that the frustration is legitimate and the timeline of government response is inadequate. I will not promise things I cannot deliver. I will tell them what I have done, what is in motion, and what I am still fighting for.. Savings dropped by $3,917. Employment status changed to unemployed. "
     }
   ],
   "reflections": [],

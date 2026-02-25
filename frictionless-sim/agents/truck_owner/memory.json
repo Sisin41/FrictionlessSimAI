@@ -24,6 +24,11 @@
       "tick": 4,
       "summary": "Reach out through my professional network \u2014 Carlos the mechanic, community organizer Lisa Freeman, and other contractors I know \u2014 to get a read on who still has work and what projects are still being planned. Use these conversations to position myself as available and reliable before the competition gets desperate. Also follow up on the Henderson bid with a direct call, offering to hold material pricing for 60 days to give them a reason to commit now rather than wait.",
       "emotional_state": "anxious"
+    },
+    {
+      "tick": 5,
+      "summary": "Call Henderson directly to push for a decision on the garage addition bid. Make clear the 60-day material price hold is still in effect but not indefinite \u2014 frame it as a favor I can only extend a bit longer. If they are not ready to commit, ask directly what is holding them back and whether a phased start date helps.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -66,6 +71,14 @@
       "stress_delta": 0.05,
       "employment_changed": false,
       "narrative": "You Reach out through my professional network \u2014 Carlos the mechanic, community organizer Lisa Freeman, and other contractors I know \u2014 to get a read on who still has work and what projects are still being planned. Use these conversations to position myself as available and reliable before the competition gets desperate. Also follow up on the Henderson bid with a direct call, offering to hold material pricing for 60 days to give them a reason to commit now rather than wait.. Savings grew by $909. "
+    },
+    {
+      "tick": 5,
+      "action": "Call Henderson directly to push for a decision on the garage addition bid. Make clear the 60-day material price hold is still in effect but not indefinite \u2014 frame it as a favor I can only extend a bit longer. If they are not ready to commit, ask directly what is holding them back and whether a phased start date helps.",
+      "savings_delta": 909,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Call Henderson directly to push for a decision on the garage addition bid. Make clear the 60-day material price hold is still in effect but not indefinite \u2014 frame it as a favor I can only extend a bit longer. If they are not ready to commit, ask directly what is holding them back and whether a phased start date helps.. Savings grew by $909. "
     }
   ],
   "reflections": [],

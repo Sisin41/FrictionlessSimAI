@@ -1,0 +1,9 @@
+{
+  "id": "tx_005_insurance_agent_priya_insurance_manager",
+  "tick": 5,
+  "initiator": "insurance_agent_priya",
+  "target": "insurance_manager",
+  "type": "SIGNAL",
+  "description": "Priya Sharma delivers a written field intelligence summary to Linda Park: cancellation data (customers citing RoboRide cost displacement), an honest assessment that the personal auto book is structurally unrecoverable, and a short list of three to five local businesses with vehicle fleets (delivery, HVAC, landscaping) as potential commercial liability prospects. Positions herself as proactively supporting the commercial pivot rather than waiting to be managed. Simultaneously reaches out to colleague Tom Bradley to align on joint commercial prospect presentation.",
+  "status": "accepted"
+}

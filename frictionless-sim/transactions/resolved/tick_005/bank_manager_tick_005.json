@@ -1,0 +1,9 @@
+{
+  "id": "tx_005_bank_manager_council_member",
+  "tick": 5,
+  "initiator": "bank_manager",
+  "target": "council_member",
+  "type": "SIGNAL",
+  "description": "David Chen presents anonymized branch lending data to Maria Santos' economic task force: auto loan application volume down 18% over the prior 90 days, with rising early delinquency indicators concentrated in auto-sector-adjacent employment cohorts. Offers to establish a formal data-sharing framework with the task force. Positions the branch as a ground-level early-warning data source for community disruption response planning.",
+  "status": "accepted"
+}

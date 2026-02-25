@@ -1,0 +1,17 @@
+{
+  "tick": 5,
+  "from_agent": "community_organizer",
+  "to_agent": "bank_manager",
+  "transaction_type": "COMMITMENT",
+  "description": "Lisa Freeman reaches out to David Chen to accept his offered conversation about lending products for retraining program participants. She brings anonymized composite profiles of attendees with non-traditional income histories who have demonstrated repayment capacity but fail standard qualification screens. She is not relitigating the categorical carve-out request. She is taking him up on his explicit offer of a 'principled alternative pathway.'",
+  "resources": {
+    "type": "service",
+    "direction": "both",
+    "amount": 0,
+    "detail": "Lisa provides structured profile data to inform product matching; David Chen provides information on existing bank products and eligibility criteria."
+  },
+  "initiated_by": "community_organizer",
+  "requires_response": true,
+  "expected_outcome": "Identification of at least one bank lending product that could serve retraining participants with variable or interrupted income histories \u2014 to be documented and brought to Maria Santos's task force as a concrete community resource.",
+  "status": "no_counterparty"
+}

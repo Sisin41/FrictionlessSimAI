@@ -24,6 +24,11 @@
       "tick": 4,
       "summary": "Call Priya Sharma, my insurance agent neighbor, and ask a specific question: what would my monthly costs look like if I dropped the car \u2014 what happens to my auto insurance premium, and is there any renter or homeowner rider that would change? I am not telling her I am selling the car. I am getting information. I will also call the RoboRide customer line or check the app to confirm whether the service runs 24 hours a day, 7 days a week \u2014 specifically whether a ride at 2am to a hospital emergency room is a thing I could actually book.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 5,
+      "summary": "Formally adopt RoboRide as my primary transportation method going forward. Delete the mental category of 'trial' and begin treating robotaxi as my normal mode of getting around Millfield. Book a ride this week to the medical clinic for my routine blood pressure check \u2014 the appointment I would have previously driven to \u2014 as a deliberate first act of the new normal.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -66,6 +71,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Call Priya Sharma, my insurance agent neighbor, and ask a specific question: what would my monthly costs look like if I dropped the car \u2014 what happens to my auto insurance premium, and is there any renter or homeowner rider that would change? I am not telling her I am selling the car. I am getting information. I will also call the RoboRide customer line or check the app to confirm whether the service runs 24 hours a day, 7 days a week \u2014 specifically whether a ride at 2am to a hospital emergency room is a thing I could actually book.. Savings grew by $473. "
+    },
+    {
+      "tick": 5,
+      "action": "Formally adopt RoboRide as my primary transportation method going forward. Delete the mental category of 'trial' and begin treating robotaxi as my normal mode of getting around Millfield. Book a ride this week to the medical clinic for my routine blood pressure check \u2014 the appointment I would have previously driven to \u2014 as a deliberate first act of the new normal.",
+      "savings_delta": 473,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Formally adopt RoboRide as my primary transportation method going forward. Delete the mental category of 'trial' and begin treating robotaxi as my normal mode of getting around Millfield. Book a ride this week to the medical clinic for my routine blood pressure check \u2014 the appointment I would have previously driven to \u2014 as a deliberate first act of the new normal.. Savings grew by $473. "
     }
   ],
   "reflections": [],

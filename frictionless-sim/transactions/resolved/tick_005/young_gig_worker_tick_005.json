@@ -1,0 +1,18 @@
+{
+  "tick": 5,
+  "from_agent": "young_gig_worker",
+  "from_name": "Zoe Martinez",
+  "to_agent": "council_member",
+  "to_name": "Maria Santos",
+  "action_type": "SIGNAL",
+  "description": "Zoe Martinez contacts Maria Santos's council office to follow up on the retraining grant application submitted in tick 2. She confirms her application is on file, notes she is now formally unemployed, and asks for a status update and timeline on disbursement for service-sector workers enrolled in retraining programs.",
+  "resources": {
+    "type": "political_capital",
+    "direction": "give",
+    "amount": 1,
+    "detail": "Phone call or in-person visit to council office. Grant application follow-up. Referencing the $2,500 retraining grant for service sector workers."
+  },
+  "expected_outcome": "Confirmation of application status. Potential $2,500 grant disbursement in a future tick if application is approved.",
+  "requires_response": true,
+  "status": "no_counterparty"
+}

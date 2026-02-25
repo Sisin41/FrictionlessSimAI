@@ -1,9 +1,0 @@
-{
-  "id": "tx_005_insurance_manager_bank_manager",
-  "tick": 5,
-  "initiator": "insurance_manager",
-  "target": "bank_manager",
-  "type": "SIGNAL",
-  "description": "Linda Park sends a peer-to-peer professional outreach email to David Chen, framing it as a data-sharing conversation between two risk professionals tracking the same community displacement. Linda offers insurance-sector data (policy cancellation trends, car ownership decline curves, liability shift patterns from personal to corporate fleet) as a contribution to the economic stress picture David is presenting at Maria Santos' task force. She requests a 30-minute call to compare notes — explicitly not a job inquiry, positioned as mutual professional interest in community economic transition data.",
-  "status": "pending"
-}

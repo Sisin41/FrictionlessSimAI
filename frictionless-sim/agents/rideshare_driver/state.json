@@ -30,8 +30,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 3.3,
-      "threat_level": 0.73,
+      "runway_months": 3.4,
+      "threat_level": 0.72,
       "monthly_essentials": 1750,
       "health_cost_from_stress": 0
     },
@@ -42,7 +42,7 @@
     },
     "L2_PARTICIPATE": {
       "employment_status": "employed",
-      "skill_relevance": 0.12,
+      "skill_relevance": 0.15,
       "role_security": 0.47,
       "network_strength": 0.65
     },
@@ -82,8 +82,8 @@
     "sentiment": "determined"
   },
   "psychological": {
-    "stress_level": 0.27,
-    "agency": 0.5,
+    "stress_level": 0.25,
+    "agency": 0.52,
     "grief_stage": "none",
     "temporal_horizon_months": 9,
     "high_stress_ticks": 0
@@ -91,7 +91,7 @@
   "financial": {
     "monthly_income": 3500,
     "monthly_expenses": 2725,
-    "savings": 8935,
+    "savings": 9322,
     "debt_total": 18248,
     "credit_score": 784
   },
@@ -117,8 +117,8 @@
       "description": "enroll in nemt (non-emergency medical transport) driver certification course at millfield community college. pay the $320 course registration fee this week. the course is 6 weeks, evenings only. i can keep driving daytime shifts while completing it. nemt drivers are not being replaced by roboride \u2014 the liability exposure and regulatory complexity of transporting medical patients makes autonomous vehicles nonviable in that segment for the foreseeable future. this is the retrain move i identified last tick. i am done researching it. i am registering.",
       "started_tick": 4,
       "completion_eta_months": 10,
-      "progress": 0.1,
-      "months_invested": 1
+      "progress": 0.2,
+      "months_invested": 2
     }
   ],
   "temporal_mismatches": {
@@ -133,5 +133,5 @@
   },
   "locality": "millfield",
   "archetype": "adapter",
-  "tick_updated": 4
+  "tick_updated": 5
 }

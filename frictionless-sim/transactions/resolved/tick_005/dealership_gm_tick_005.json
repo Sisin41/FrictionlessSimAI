@@ -1,0 +1,9 @@
+{
+  "id": "tx_005_dealership_gm_ceo_regional_auto",
+  "tick": 5,
+  "initiator": "dealership_gm",
+  "target": "ceo_regional_auto",
+  "type": "COMMITMENT",
+  "description": "Rick Tanner presents unfiltered 30-day floor data to Patricia Hawkins in direct executive review: foot traffic down 14%, test-drive conversion dropped from 31% to 22%, service lane utilization holding at 79%, inventory carrying costs disclosed. Rick commits to delivering a Millfield-specific consolidation readiness asset map within two weeks, structured around Patricia's three-tier vulnerability framework. This is the end of information filtering. Rick is positioning himself as the floor-intelligence anchor for whatever consolidation scenario Regional Auto Group executes.",
+  "status": "accepted"
+}

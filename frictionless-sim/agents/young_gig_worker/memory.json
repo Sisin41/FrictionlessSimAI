@@ -24,6 +24,11 @@
       "tick": 4,
       "summary": "Enroll in and begin Google Digital Marketing and E-commerce Certificate on Coursera. Start first two modules this month. This is the retraining path I named last tick \u2014 this month I actually pay for it and start the first coursework. $49/month subscription. I will do this in the evenings after cafe shifts. This is not quitting anything, it is building the parallel skill set so when cafe hours get cut or gig demand dries up, I have somewhere to pivot.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 5,
+      "summary": "Immediately reactivate and maximize gig economy income streams. Sign up for every available platform operating in Millfield: DoorDash (already have account), add Uber Eats and Instacart this week. Commit to 25-30 hours of gig shifts per week on top of any cafe hours available. This is triage. The Coursera cert continues in whatever hours remain, but income comes first.",
+      "emotional_state": "anxious"
     }
   ],
   "past_outcomes": [
@@ -66,6 +71,14 @@
       "stress_delta": -0.02,
       "employment_changed": true,
       "narrative": "You Enroll in and begin Google Digital Marketing and E-commerce Certificate on Coursera. Start first two modules this month. This is the retraining path I named last tick \u2014 this month I actually pay for it and start the first coursework. $49/month subscription. I will do this in the evenings after cafe shifts. This is not quitting anything, it is building the parallel skill set so when cafe hours get cut or gig demand dries up, I have somewhere to pivot.. Savings dropped by $2,404. Employment status changed to unemployed. "
+    },
+    {
+      "tick": 5,
+      "action": "Immediately reactivate and maximize gig economy income streams. Sign up for every available platform operating in Millfield: DoorDash (already have account), add Uber Eats and Instacart this week. Commit to 25-30 hours of gig shifts per week on top of any cafe hours available. This is triage. The Coursera cert continues in whatever hours remain, but income comes first.",
+      "savings_delta": -1188,
+      "stress_delta": 0.05,
+      "employment_changed": false,
+      "narrative": "You Immediately reactivate and maximize gig economy income streams. Sign up for every available platform operating in Millfield: DoorDash (already have account), add Uber Eats and Instacart this week. Commit to 25-30 hours of gig shifts per week on top of any cafe hours available. This is triage. The Coursera cert continues in whatever hours remain, but income comes first.. Savings dropped by $1,188. "
     }
   ],
   "reflections": [],

@@ -24,6 +24,11 @@
       "tick": 4,
       "summary": "Participate in Linda Park's one-on-one meeting. Give her honest, specific field intelligence about customer cancellations \u2014 the real reasons clients are leaving: they sold their cars, switched to RoboRide, or couldn't justify the premium when they're barely driving. Frame it professionally as data, not despair. In exchange, probe Linda for what AutoShield's regional strategy is: are they pivoting to new product lines, are there internal transfers available, is there a corporate retraining program? Listen more than I talk. Take mental notes on whether she seems like she has a plan or whether she's just gathering data to manage upward.",
       "emotional_state": "anxious"
+    },
+    {
+      "tick": 5,
+      "summary": "Respond to Linda Park's briefing on the commercial rideshare and AV liability pivot with a professionally worded acknowledgment. Express willingness to learn about the new product lines. Do not push back, do not ask hard questions about timeline or job security, do not match Priya's energy or ambition. Say the right words. Keep my head down. What I'm actually signaling is: I am not a problem, I am not resistant, I am manageable. This buys time.",
+      "emotional_state": "resigned"
     }
   ],
   "past_outcomes": [
@@ -66,6 +71,14 @@
       "stress_delta": 0.05,
       "employment_changed": false,
       "narrative": "You Participate in Linda Park's one-on-one meeting. Give her honest, specific field intelligence about customer cancellations \u2014 the real reasons clients are leaving: they sold their cars, switched to RoboRide, or couldn't justify the premium when they're barely driving. Frame it professionally as data, not despair. In exchange, probe Linda for what AutoShield's regional strategy is: are they pivoting to new product lines, are there internal transfers available, is there a corporate retraining program? Listen more than I talk. Take mental notes on whether she seems like she has a plan or whether she's just gathering data to manage upward.. Savings dropped by $1,938. "
+    },
+    {
+      "tick": 5,
+      "action": "Respond to Linda Park's briefing on the commercial rideshare and AV liability pivot with a professionally worded acknowledgment. Express willingness to learn about the new product lines. Do not push back, do not ask hard questions about timeline or job security, do not match Priya's energy or ambition. Say the right words. Keep my head down. What I'm actually signaling is: I am not a problem, I am not resistant, I am manageable. This buys time.",
+      "savings_delta": -2697,
+      "stress_delta": 0.03,
+      "employment_changed": false,
+      "narrative": "You Respond to Linda Park's briefing on the commercial rideshare and AV liability pivot with a professionally worded acknowledgment. Express willingness to learn about the new product lines. Do not push back, do not ask hard questions about timeline or job security, do not match Priya's energy or ambition. Say the right words. Keep my head down. What I'm actually signaling is: I am not a problem, I am not resistant, I am manageable. This buys time.. Savings dropped by $2,697. "
     }
   ],
   "reflections": [],

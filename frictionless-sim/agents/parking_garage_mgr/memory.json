@@ -24,6 +24,11 @@
       "tick": 4,
       "summary": "Activate network campaign in earnest. Reach out directly to Robert Jackson \u2014 highest-trust contact, rideshare driver, frontline observer of what RoboRide is doing to human-driven transport in Millfield. Have a real conversation: what is the trajectory, what are operators saying, what skills transfer. Use that intelligence to sharpen my job applications. Simultaneously send direct messages to three professional contacts \u2014 Carlos Ruiz, Rachel Green, and Betty Kowalski \u2014 letting them know I am exploring operations roles outside parking and asking if they know of anything in facilities, logistics, or property management. This is the campaign I committed to. Quiet professional networking, no drama, but deliberate and active.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 5,
+      "summary": "Follow up with Carlos Ruiz, Rachel Green, and Betty Kowalski \u2014 the three contacts I reached out to last tick. Not a cold message this time. A direct, specific ask: do you know of any open operations, facilities, or logistics management roles? Have you heard of anything? I am not broadcasting that I am desperate. I am demonstrating that I am active, targeted, and that my ask is specific enough to be actionable.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -66,6 +71,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Activate network campaign in earnest. Reach out directly to Robert Jackson \u2014 highest-trust contact, rideshare driver, frontline observer of what RoboRide is doing to human-driven transport in Millfield. Have a real conversation: what is the trajectory, what are operators saying, what skills transfer. Use that intelligence to sharpen my job applications. Simultaneously send direct messages to three professional contacts \u2014 Carlos Ruiz, Rachel Green, and Betty Kowalski \u2014 letting them know I am exploring operations roles outside parking and asking if they know of anything in facilities, logistics, or property management. This is the campaign I committed to. Quiet professional networking, no drama, but deliberate and active.. Savings grew by $361. "
+    },
+    {
+      "tick": 5,
+      "action": "Follow up with Carlos Ruiz, Rachel Green, and Betty Kowalski \u2014 the three contacts I reached out to last tick. Not a cold message this time. A direct, specific ask: do you know of any open operations, facilities, or logistics management roles? Have you heard of anything? I am not broadcasting that I am desperate. I am demonstrating that I am active, targeted, and that my ask is specific enough to be actionable.",
+      "savings_delta": 361,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Follow up with Carlos Ruiz, Rachel Green, and Betty Kowalski \u2014 the three contacts I reached out to last tick. Not a cold message this time. A direct, specific ask: do you know of any open operations, facilities, or logistics management roles? Have you heard of anything? I am not broadcasting that I am desperate. I am demonstrating that I am active, targeted, and that my ask is specific enough to be actionable.. Savings grew by $361. "
     }
   ],
   "reflections": [],

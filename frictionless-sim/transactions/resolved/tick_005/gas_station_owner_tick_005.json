@@ -1,0 +1,18 @@
+{
+  "id": "tx_005_gas_station_owner_loan_officer",
+  "tick": 5,
+  "initiator": "gas_station_owner",
+  "target": "loan_officer",
+  "type": "COMMITMENT",
+  "description": "Amir Patel attends scheduled meeting with Kevin O'Brien at the bank to discuss capital improvement loan terms for two Level 2 EV charging stations. Presents prepared cost analysis ($8,000\u2013$15,000 installation estimate), existing electrical infrastructure, and ChargePoint/Blink revenue-share offset model. Seeks written term sheet. No loan commitment made this tick \u2014 information-gathering and relationship advancement only.",
+  "status": "accepted",
+  "secondary_transaction": {
+    "id": "tx_005_gas_station_owner_council_member",
+    "tick": 5,
+    "initiator": "gas_station_owner",
+    "target": "council_member",
+    "type": "SIGNAL",
+    "description": "Amir Patel submits a formal small business stabilization grant application to Maria Santos under the newly expanded 10% revenue decline threshold. Application documents: Auto Row fuel retail sector revenue index at 82 (18% below baseline), car ownership decline from 83% to 77% over five months, robotaxi displacement impact, and Phase 2 AV corridor impact data from comparable cities. Grant amount sought: up to $5,000.",
+    "status": "pending"
+  }
+}

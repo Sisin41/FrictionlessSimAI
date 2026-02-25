@@ -1,0 +1,34 @@
+{
+  "tick": 5,
+  "from_agent": "auto_shop_teacher",
+  "from_name": "Mark Thompson",
+  "transactions": [
+    {
+      "type": "ASSOCIATION",
+      "to_agent": "driving_instructor",
+      "to_name": "Frank Russo",
+      "description": "Mark Thompson responds to Frank Russo's outreach and arranges a coffee meeting. Peer relationship-building between two vehicle-sector educators watching the same AV disruption. Mark listens first, floats the idea of Frank's driving school as a complementary feeder into the Auto Tech Pipeline.",
+      "resources": {
+        "type": "labor",
+        "direction": "both",
+        "amount": 2,
+        "detail": "Mutual professional time exchanged. Low cost, relationship-building orientation."
+      },
+      "expected_outcome": "Increased trust with driving_instructor. Potential future coalition ally for pipeline proposal and grant political support. No immediate financial effect."
+    },
+    {
+      "type": "SIGNAL",
+      "to_agent": "council_member",
+      "to_name": "Maria Santos",
+      "description": "Mark Thompson sends a one-page follow-up memo to Councilmember Maria Santos's office referencing the 12 retraining enrollments and rising unemployment data as real-time validation of the Auto Tech Pipeline demand projections. Reinforces the existing grant and endorsement ask without making a new one.",
+      "resources": {
+        "type": "labor",
+        "direction": "give",
+        "amount": 1,
+        "detail": "One hour of Mark's professional time to draft and send the memo."
+      },
+      "expected_outcome": "Keeps the pipeline proposal visible and data-backed in Santos's office. Strengthens the grant application case. No immediate financial effect."
+    }
+  ],
+  "status": "no_counterparty"
+}

@@ -24,6 +24,11 @@
       "tick": 4,
       "summary": "Accept Maria Santos's invitation to speak at the task force meeting. Prepare structured testimony specifically addressing who is being left out of existing programs: returning workers without current credentials, gig workers with inconsistent income history who don't qualify for traditional assistance, people with transportation barriers who can't reach program sites, individuals who won't self-identify as unemployed due to stigma, and those displaced by automation (specifically rideshare and taxi workers) who are too old or too resource-depleted to retrain without bridge support. Ground all testimony in anonymized intake data from Community Connection Nights, not anecdote alone. Frame the excluded populations not as failures of individual will but as gaps in program design \u2014 this matters for policy, and it matters for how Maria can present it to colleagues who will be resistant.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 5,
+      "summary": "Follow up directly with David Chen at the bank, accepting his offer of a conversation about specific lending products appropriate for retraining program participants. Frame this not as renewed pressure for a categorical carve-out but as taking him up on his stated willingness to discuss pathways. Prepare three to four concrete profiles \u2014 anonymized, composite \u2014 of retraining enrollees who have demonstrated repayment capacity but fail traditional qualification screens, so the conversation is grounded in specifics, not abstraction. Outcome goal: identify at least one existing bank product that could be formally presented to Maria Santos's task force as an available resource for the excluded populations I testified about.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -66,6 +71,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Accept Maria Santos's invitation to speak at the task force meeting. Prepare structured testimony specifically addressing who is being left out of existing programs: returning workers without current credentials, gig workers with inconsistent income history who don't qualify for traditional assistance, people with transportation barriers who can't reach program sites, individuals who won't self-identify as unemployed due to stigma, and those displaced by automation (specifically rideshare and taxi workers) who are too old or too resource-depleted to retrain without bridge support. Ground all testimony in anonymized intake data from Community Connection Nights, not anecdote alone. Frame the excluded populations not as failures of individual will but as gaps in program design \u2014 this matters for policy, and it matters for how Maria can present it to colleagues who will be resistant.. Savings grew by $362. "
+    },
+    {
+      "tick": 5,
+      "action": "Follow up directly with David Chen at the bank, accepting his offer of a conversation about specific lending products appropriate for retraining program participants. Frame this not as renewed pressure for a categorical carve-out but as taking him up on his stated willingness to discuss pathways. Prepare three to four concrete profiles \u2014 anonymized, composite \u2014 of retraining enrollees who have demonstrated repayment capacity but fail traditional qualification screens, so the conversation is grounded in specifics, not abstraction. Outcome goal: identify at least one existing bank product that could be formally presented to Maria Santos's task force as an available resource for the excluded populations I testified about.",
+      "savings_delta": 362,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Follow up directly with David Chen at the bank, accepting his offer of a conversation about specific lending products appropriate for retraining program participants. Frame this not as renewed pressure for a categorical carve-out but as taking him up on his stated willingness to discuss pathways. Prepare three to four concrete profiles \u2014 anonymized, composite \u2014 of retraining enrollees who have demonstrated repayment capacity but fail traditional qualification screens, so the conversation is grounded in specifics, not abstraction. Outcome goal: identify at least one existing bank product that could be formally presented to Maria Santos's task force as an available resource for the excluded populations I testified about.. Savings grew by $362. "
     }
   ],
   "reflections": [],

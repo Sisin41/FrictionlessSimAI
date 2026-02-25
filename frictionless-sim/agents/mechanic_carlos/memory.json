@@ -24,6 +24,11 @@
       "tick": 4,
       "summary": "Contact the EVT Level 2 EV certification program today and schedule the enrollment. Patricia approved the $1,400 and told me to book it. I am not waiting another day. Call the training center, confirm the next available cohort that works around my shop schedule, and register. The 60-hour program can run evenings and weekends. I am locking in a start date.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 5,
+      "summary": "Continue EVT Level 2 evening and weekend coursework \u2014 this month focusing on high-voltage safety protocols and battery management systems. Put in the hours. Show up to class after a full day at the shop even when I'm tired. This is month two of ten. The training will not complete itself.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -66,6 +71,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Contact the EVT Level 2 EV certification program today and schedule the enrollment. Patricia approved the $1,400 and told me to book it. I am not waiting another day. Call the training center, confirm the next available cohort that works around my shop schedule, and register. The 60-hour program can run evenings and weekends. I am locking in a start date.. Savings grew by $193. "
+    },
+    {
+      "tick": 5,
+      "action": "Continue EVT Level 2 evening and weekend coursework \u2014 this month focusing on high-voltage safety protocols and battery management systems. Put in the hours. Show up to class after a full day at the shop even when I'm tired. This is month two of ten. The training will not complete itself.",
+      "savings_delta": 193,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Continue EVT Level 2 evening and weekend coursework \u2014 this month focusing on high-voltage safety protocols and battery management systems. Put in the hours. Show up to class after a full day at the shop even when I'm tired. This is month two of ten. The training will not complete itself.. Savings grew by $193. "
     }
   ],
   "reflections": [],

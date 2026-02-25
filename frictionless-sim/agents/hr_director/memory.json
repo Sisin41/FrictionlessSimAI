@@ -24,6 +24,11 @@
       "tick": 4,
       "summary": "Execute the 30-day workforce vulnerability map for all four Regional Auto Group locations. Systematically audit every role \u2014 service technicians, sales staff, finance and insurance officers, lot attendants, administrative staff, parts department, management \u2014 and classify each as: (1) EV/AV-exposed: tasks that autonomous vehicle technology or EV service shift directly displaces or degrades; (2) transition-ready: roles with transferable skills that could move into adjacent functions with training investment; (3) anchored: roles with durable demand regardless of EV/AV adoption curve. Deliverable format: structured role-by-role matrix per location, with exposure scores, estimated displacement timelines, transition pathway recommendations, and retraining cost-benefit analysis. Frame the document to serve Patricia's operational needs while also serving as a template methodology she will eventually need external consulting support to replicate \u2014 which is exactly what Angela's consulting entity will offer.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 5,
+      "summary": "Push the workforce vulnerability map from preliminary research phase to first complete draft of two of the four location matrices. Complete service technician and F&I officer role clusters across all locations \u2014 the highest EV/AV exposure categories \u2014 so Patricia has substantive intelligence to act on immediately. Build the exposure scores, displacement timelines, and transition pathway recommendations into a structured format that can stand on its own as a methodology document, not just an internal memo.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -66,6 +71,14 @@
       "stress_delta": 0.18,
       "employment_changed": false,
       "narrative": "You Execute the 30-day workforce vulnerability map for all four Regional Auto Group locations. Systematically audit every role \u2014 service technicians, sales staff, finance and insurance officers, lot attendants, administrative staff, parts department, management \u2014 and classify each as: (1) EV/AV-exposed: tasks that autonomous vehicle technology or EV service shift directly displaces or degrades; (2) transition-ready: roles with transferable skills that could move into adjacent functions with training investment; (3) anchored: roles with durable demand regardless of EV/AV adoption curve. Deliverable format: structured role-by-role matrix per location, with exposure scores, estimated displacement timelines, transition pathway recommendations, and retraining cost-benefit analysis. Frame the document to serve Patricia's operational needs while also serving as a template methodology she will eventually need external consulting support to replicate \u2014 which is exactly what Angela's consulting entity will offer.. Savings dropped by $6,611. "
+    },
+    {
+      "tick": 5,
+      "action": "Push the workforce vulnerability map from preliminary research phase to first complete draft of two of the four location matrices. Complete service technician and F&I officer role clusters across all locations \u2014 the highest EV/AV exposure categories \u2014 so Patricia has substantive intelligence to act on immediately. Build the exposure scores, displacement timelines, and transition pathway recommendations into a structured format that can stand on its own as a methodology document, not just an internal memo.",
+      "savings_delta": -6611,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Push the workforce vulnerability map from preliminary research phase to first complete draft of two of the four location matrices. Complete service technician and F&I officer role clusters across all locations \u2014 the highest EV/AV exposure categories \u2014 so Patricia has substantive intelligence to act on immediately. Build the exposure scores, displacement timelines, and transition pathway recommendations into a structured format that can stand on its own as a methodology document, not just an internal memo.. Savings dropped by $6,611. "
     }
   ],
   "reflections": [],

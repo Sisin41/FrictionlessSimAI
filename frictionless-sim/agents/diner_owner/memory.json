@@ -24,6 +24,11 @@
       "tick": 4,
       "summary": "Prepare and deliver testimony to Maria Santos's small business task force meeting. Document the concrete changes I've observed at the diner since the spending index began falling: reduced average check size, fewer covers per lunch shift, regulars substituting coffee-only visits for full meals. Bring three months of rough receipt tallies. Speak plainly about what a spending index of 73 feels like from behind a counter. Advocate for grant extension and expedited disbursement for pending applicants like myself.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 5,
+      "summary": "Follow up directly with Maria Santos's office on the pending grant application submitted at tick 2. Call or visit in person. Ask for a status update and a realistic timeline. If expedited disbursement was discussed at the task force meeting, ask whether my application qualifies. The purpose is twofold: get information I need to plan, and remind them I exist and am waiting.",
+      "emotional_state": "anxious"
     }
   ],
   "past_outcomes": [
@@ -66,6 +71,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Prepare and deliver testimony to Maria Santos's small business task force meeting. Document the concrete changes I've observed at the diner since the spending index began falling: reduced average check size, fewer covers per lunch shift, regulars substituting coffee-only visits for full meals. Bring three months of rough receipt tallies. Speak plainly about what a spending index of 73 feels like from behind a counter. Advocate for grant extension and expedited disbursement for pending applicants like myself.. Savings grew by $116. "
+    },
+    {
+      "tick": 5,
+      "action": "Follow up directly with Maria Santos's office on the pending grant application submitted at tick 2. Call or visit in person. Ask for a status update and a realistic timeline. If expedited disbursement was discussed at the task force meeting, ask whether my application qualifies. The purpose is twofold: get information I need to plan, and remind them I exist and am waiting.",
+      "savings_delta": -4268,
+      "stress_delta": 0.25,
+      "employment_changed": true,
+      "narrative": "You Follow up directly with Maria Santos's office on the pending grant application submitted at tick 2. Call or visit in person. Ask for a status update and a realistic timeline. If expedited disbursement was discussed at the task force meeting, ask whether my application qualifies. The purpose is twofold: get information I need to plan, and remind them I exist and am waiting.. Savings dropped by $4,268. Employment status changed to unemployed. "
     }
   ],
   "reflections": [],

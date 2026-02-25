@@ -1,9 +1,0 @@
-{
-  "id": "tx_005_council_member_bank_manager",
-  "tick": 5,
-  "initiator": "council_member",
-  "target": "bank_manager",
-  "type": "COMMITMENT",
-  "description": "Maria Santos accepts David Chen's counter-offer to the loan carve-out request. Rather than a categorical exception, the two parties will cooperate on a practical referral pathway: the council's grant committee will produce a one-page document directing retraining enrollees to First Community Bank's existing small-dollar and secured loan products, with David Chen named as a designated point of contact for qualifying applicants. This converts David's qualified yes into an operational bridge for displaced workers who need cash-flow support beyond the $2,500 retraining grant.",
-  "status": "pending"
-}

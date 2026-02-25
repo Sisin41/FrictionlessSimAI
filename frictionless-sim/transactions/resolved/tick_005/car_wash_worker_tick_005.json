@@ -1,0 +1,15 @@
+{
+  "tick": 5,
+  "from_agent": "car_wash_worker",
+  "to_agent": "mechanic_carlos",
+  "type": "SIGNAL",
+  "description": "Miguel Hernandez reaches out to Carlos Ruiz to reinforce the apprentice-track conversation from tick 4. Mentions Carlos's EV certification news, updates him that the automotive certificate program is one month in and going well, and signals genuine intent to follow through toward EV work. No financial transaction \u2014 relationship maintenance and reputation signal.",
+  "resources": {
+    "type": "reputation",
+    "direction": "give",
+    "amount": 1,
+    "detail": "Miguel is demonstrating follow-through on a prior informal ask, and aligning himself visibly with Carlos's career direction."
+  },
+  "expected_effect_on_target": "Reinforces that Miguel is serious about the trade skill path. Increases likelihood Carlos remembers Miguel when apprentice or assistant capacity is needed as his EV workload grows.",
+  "status": "no_counterparty"
+}

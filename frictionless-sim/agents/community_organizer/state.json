@@ -31,8 +31,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 6.7,
-      "threat_level": 0.44,
+      "runway_months": 6.8,
+      "threat_level": 0.43,
       "monthly_essentials": 2000,
       "health_cost_from_stress": 0
     },
@@ -43,13 +43,13 @@
     },
     "L2_PARTICIPATE": {
       "employment_status": "employed",
-      "skill_relevance": 0.85,
+      "skill_relevance": 0.87,
       "role_security": 0.57,
       "network_strength": 0.33
     },
     "L3_CONSUME": {
       "discretionary_budget": 1000,
-      "owns_car": true,
+      "owns_car": false,
       "car_payment_monthly": 0,
       "substitution_willingness": 0.3
     },
@@ -85,8 +85,8 @@
     "sentiment": "determined"
   },
   "psychological": {
-    "stress_level": 0.16,
-    "agency": 0.49,
+    "stress_level": 0.14,
+    "agency": 0.51,
     "grief_stage": "none",
     "temporal_horizon_months": 10,
     "high_stress_ticks": 0
@@ -94,7 +94,7 @@
   "financial": {
     "monthly_income": 4000,
     "monthly_expenses": 3276,
-    "savings": 21810,
+    "savings": 22172,
     "debt_total": 38907,
     "credit_score": 743
   },
@@ -107,7 +107,16 @@
       "exit_cost_months": 2
     }
   ],
-  "in_progress_transformations": [],
+  "in_progress_transformations": [
+    {
+      "type": "retraining",
+      "description": "use this week's community connection night to build in a brief structured segment on transportation access: specifically, how to evaluate whether roboride ($0.18/mile, 15-minute wait) is a viable alternative to car ownership for people in different situations \u2014 those with variable hours, those with mobility needs, those who sold or are considering selling their cars. not a promotional segment. a decision-support conversation. three people sold or stopped using cars this month and more will face this choice, especially if they are in retraining programs that don't cover transportation costs. this community needs tools to navigate the transition, not just testimony about the gaps.",
+      "started_tick": 5,
+      "completion_eta_months": 10,
+      "progress": 0.1,
+      "months_invested": 1
+    }
+  ],
   "temporal_mismatches": {
     "commitment_disruption_gap": 0.0,
     "skill_demand_gap": 0.15,
@@ -120,5 +129,5 @@
   },
   "locality": "millfield",
   "archetype": "builder",
-  "tick_updated": 4
+  "tick_updated": 5
 }

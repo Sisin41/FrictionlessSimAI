@@ -1,0 +1,9 @@
+{
+  "id": "tx_005_loan_officer_bank_manager",
+  "tick": 5,
+  "initiator": "loan_officer",
+  "target": "bank_manager",
+  "type": "SIGNAL",
+  "description": "Kevin O'Brien prepares a written one-page delinquency and pipeline brief for David Chen's formal 30-minute check-in. Kevin arrives with firsthand early delinquency pattern data, confirms 18% application volume decline observed at the intake level, and delivers NMLS module progress update (modules 1-3 complete, 4-5 in progress). Kevin asks David for a draft of the new written underwriting criteria to align his intake workflow proactively. This is a professional signal of alignment and institutional reliability directed upward to his direct manager.",
+  "status": "accepted"
+}

@@ -26,8 +26,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 0.5,
-      "threat_level": 0.96,
+      "runway_months": 0.0,
+      "threat_level": 1,
       "monthly_essentials": 1400,
       "health_cost_from_stress": 0
     },
@@ -38,7 +38,7 @@
     },
     "L2_PARTICIPATE": {
       "employment_status": "unemployed",
-      "skill_relevance": 0.72,
+      "skill_relevance": 0.75,
       "role_security": 0.59,
       "network_strength": 0.48
     },
@@ -75,10 +75,10 @@
       "availability_heuristic": 0.55,
       "social_proof_sensitivity": 0.6
     },
-    "sentiment": "determined"
+    "sentiment": "anxious"
   },
   "psychological": {
-    "stress_level": 0.14,
+    "stress_level": 0.19,
     "agency": 0.46,
     "grief_stage": "none",
     "temporal_horizon_months": 10,
@@ -87,7 +87,7 @@
   "financial": {
     "monthly_income": 0,
     "monthly_expenses": 2404,
-    "savings": 1188,
+    "savings": 0,
     "debt_total": 20222,
     "credit_score": 581
   },
@@ -106,8 +106,8 @@
       "description": "enroll in and begin google digital marketing and e-commerce certificate on coursera. start first two modules this month. this is the retraining path i named last tick \u2014 this month i actually pay for it and start the first coursework. $49/month subscription. i will do this in the evenings after cafe shifts. this is not quitting anything, it is building the parallel skill set so when cafe hours get cut or gig demand dries up, i have somewhere to pivot.",
       "started_tick": 4,
       "completion_eta_months": 8,
-      "progress": 0.12,
-      "months_invested": 1
+      "progress": 0.22,
+      "months_invested": 2
     }
   ],
   "temporal_mismatches": {
@@ -122,5 +122,5 @@
   },
   "locality": "millfield",
   "archetype": "adapter",
-  "tick_updated": 4
+  "tick_updated": 5
 }

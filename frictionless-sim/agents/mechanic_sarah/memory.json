@@ -24,6 +24,11 @@
       "tick": 4,
       "summary": "Research and formally enroll in EVT (Electric Vehicle Technology) Level 1 certification program. Use personal time after shifts this week to identify the exact program Patricia approved for Carlos, pull the curriculum and cost, and submit an application or enrollment deposit. This is the first hard commitment toward the cert \u2014 not just browsing, but signing up. I already have electrical in my skill set. This is the logical extension.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 5,
+      "summary": "Continue EVT Level 1 certification coursework \u2014 complete the next module covering EV high-voltage safety and battery management fundamentals. Log at least 8 hours this month on evening and weekend study sessions. Use my existing electrical skills to move faster through the battery module than classmates without that background.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -66,6 +71,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Research and formally enroll in EVT (Electric Vehicle Technology) Level 1 certification program. Use personal time after shifts this week to identify the exact program Patricia approved for Carlos, pull the curriculum and cost, and submit an application or enrollment deposit. This is the first hard commitment toward the cert \u2014 not just browsing, but signing up. I already have electrical in my skill set. This is the logical extension.. Savings grew by $249. "
+    },
+    {
+      "tick": 5,
+      "action": "Continue EVT Level 1 certification coursework \u2014 complete the next module covering EV high-voltage safety and battery management fundamentals. Log at least 8 hours this month on evening and weekend study sessions. Use my existing electrical skills to move faster through the battery module than classmates without that background.",
+      "savings_delta": 249,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Continue EVT Level 1 certification coursework \u2014 complete the next module covering EV high-voltage safety and battery management fundamentals. Log at least 8 hours this month on evening and weekend study sessions. Use my existing electrical skills to move faster through the battery module than classmates without that background.. Savings grew by $249. "
     }
   ],
   "reflections": [],

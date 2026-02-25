@@ -24,6 +24,11 @@
       "tick": 4,
       "summary": "Maintain existing transportation arrangement. Keep personal vehicle for 5am hospital shifts and child pickups. Do not switch to or trial RoboRide for primary logistics. Reduce discretionary spending by approximately $80 this month given ambient economic anxiety \u2014 skip one dinner out, delay a household purchase.",
       "emotional_state": "anxious"
+    },
+    {
+      "tick": 5,
+      "summary": "Maintain personal vehicle for all critical logistics. No change to transportation arrangement. Continue light discretionary spending discipline carried from last tick \u2014 keep the dinner-out skip and the delayed household purchase in place one more month.",
+      "emotional_state": "anxious"
     }
   ],
   "past_outcomes": [
@@ -66,6 +71,14 @@
       "stress_delta": 0.05,
       "employment_changed": false,
       "narrative": "You Maintain existing transportation arrangement. Keep personal vehicle for 5am hospital shifts and child pickups. Do not switch to or trial RoboRide for primary logistics. Reduce discretionary spending by approximately $80 this month given ambient economic anxiety \u2014 skip one dinner out, delay a household purchase.. Savings grew by $285. "
+    },
+    {
+      "tick": 5,
+      "action": "Maintain personal vehicle for all critical logistics. No change to transportation arrangement. Continue light discretionary spending discipline carried from last tick \u2014 keep the dinner-out skip and the delayed household purchase in place one more month.",
+      "savings_delta": 285,
+      "stress_delta": 0.05,
+      "employment_changed": false,
+      "narrative": "You Maintain personal vehicle for all critical logistics. No change to transportation arrangement. Continue light discretionary spending discipline carried from last tick \u2014 keep the dinner-out skip and the delayed household purchase in place one more month.. Savings grew by $285. "
     }
   ],
   "reflections": [],

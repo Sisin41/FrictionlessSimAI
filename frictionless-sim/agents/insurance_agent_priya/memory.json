@@ -24,6 +24,11 @@
       "tick": 4,
       "summary": "One-on-one with Linda Park: give honest field intelligence. Tell her the 25-policy number is a floor that will keep falling as RoboRide adoption accelerates. Share my read that personal auto liability is being absorbed by corporate fleet coverage \u2014 our book of business isn't recoverable, it's structurally shrinking. Don't soften it. Also signal that I'm not waiting passively: mention the SQL and data analysis coursework I've been doing, float the idea that there may be a role in commercial fleet risk analytics or insurtech that AutoShield could pivot toward. Ask her directly: what's the timeline she's working with, and what does she need from me to help navigate it.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 5,
+      "summary": "Complete Module 3 of the SQL and data visualization course \u2014 joins and aggregation. Set aside two dedicated evening sessions this week. The goal is not just finishing the module; it is building one actual output: a simple query that pulls and aggregates hypothetical commercial fleet incident data, something I can screenshot or describe to Linda as proof of capability, not just enrollment.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -66,6 +71,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You One-on-one with Linda Park: give honest field intelligence. Tell her the 25-policy number is a floor that will keep falling as RoboRide adoption accelerates. Share my read that personal auto liability is being absorbed by corporate fleet coverage \u2014 our book of business isn't recoverable, it's structurally shrinking. Don't soften it. Also signal that I'm not waiting passively: mention the SQL and data analysis coursework I've been doing, float the idea that there may be a role in commercial fleet risk analytics or insurtech that AutoShield could pivot toward. Ask her directly: what's the timeline she's working with, and what does she need from me to help navigate it.. Savings dropped by $1,244. "
+    },
+    {
+      "tick": 5,
+      "action": "Complete Module 3 of the SQL and data visualization course \u2014 joins and aggregation. Set aside two dedicated evening sessions this week. The goal is not just finishing the module; it is building one actual output: a simple query that pulls and aggregates hypothetical commercial fleet incident data, something I can screenshot or describe to Linda as proof of capability, not just enrollment.",
+      "savings_delta": -1733,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Complete Module 3 of the SQL and data visualization course \u2014 joins and aggregation. Set aside two dedicated evening sessions this week. The goal is not just finishing the module; it is building one actual output: a simple query that pulls and aggregates hypothetical commercial fleet incident data, something I can screenshot or describe to Linda as proof of capability, not just enrollment.. Savings dropped by $1,733. "
     }
   ],
   "reflections": [],
