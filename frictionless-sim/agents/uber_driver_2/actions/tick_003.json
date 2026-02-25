@@ -1,0 +1,69 @@
+{
+  "tick": 3,
+  "agent_id": "uber_driver_2",
+  "agent_name": "Grace Okafor",
+  "current_state_summary": {
+    "threat_level": 0.74,
+    "runway_months": 1.6,
+    "savings": 2818,
+    "stress_level": 0.24,
+    "primary_concern": "Runway is 1.6 months — still critical, but the refinanced car loan gives me a slightly wider margin. Nursing school completion is the exit strategy. I need to keep $413+ surplus intact and hit my next clinical milestone on schedule."
+  },
+  "threat_assessment": {
+    "immediate": "Runway of 1.6 months remains uncomfortable. The $413 monthly surplus is thin but real — refinancing brought the car payment down and that relief should show up in this month's numbers. No income disruption yet. The inbox says robotaxi adoption is 3%, which I've seen reported before. That's background noise for now — it's not touching my rides in any meaningful way I can feel.",
+    "horizon_2mo": "Robotaxi adoption at 3% is stable, but I know the trend is upward. I don't have a launch date or a number that scares me, but it's sitting in my peripheral vision. If something shifts in my zone — fewer ping requests on a Thursday night, longer waits between rides — I'll notice before I read about it. For now the strategy is the same: drive the high-yield windows, bank the surplus, don't blink.",
+    "horizon_6mo": "The exit door is the RN license. If I complete the program on the timeline my advisor sketched last tick, I transition into hospital employment before rideshare economics become my emergency. The nursing trajectory is solid. Everything between now and licensure is a bridge problem, not a destination problem."
+  },
+  "hierarchy_priority": "L0_SURVIVE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Continue peak-hour rideshare driving this week — Friday evening, Saturday morning airport block, and one Thursday evening session. Maintain the earnings pace that generated the $206 savings delta last tick. Track trip request volume and wait-time patterns mentally as a canary for any demand softening I can't yet explain.",
+      "rationale": "Routine outcome last tick confirms the strategy is working. The inbox shows nothing that changes the driving calculus — 3% robotaxi adoption is low and hasn't shown up as reduced demand in my experience. I drive the same zones, same windows. What I'm adding is attention: if I start getting fewer pings on a Thursday evening than I expect, that's data I need to remember even without a headline to attach it to.",
+      "timeline": "This week, standard schedule. Reassess by Friday based on actual trip volume experienced.",
+      "expected_outcome": "Savings delta of $206-$250 this tick. Maintaining the pattern. Possible early signal of demand softening if RoboRide is pulling any volume — but I won't have the context for it yet, just the feeling."
+    },
+    {
+      "action_id": 2,
+      "description": "Follow up with my nursing program advisor on the exact clinical hours remaining and the next assignment or competency deadline. Last tick I mapped the timeline — this tick I execute on that map. Identify the single next concrete milestone: what is due, when, and what I need to prepare.",
+      "rationale": "The nursing timeline is my exit from financial precarity. Mapping it last tick was necessary; acting on it this tick is what converts that information into actual progress. I need to know: is the next clinical block scheduled? Is there a simulation lab requirement I haven't signed up for? Is there a competency exam window I should register for now? The sooner I lock these dates down, the less risk of a scheduling surprise extending my time in school — and in rideshare dependency.",
+      "timeline": "Email or office visit with advisor this week. Goal is one confirmed next milestone with a date attached.",
+      "expected_outcome": "Concrete next step in the nursing program with a date. Reduces anxiety about timeline uncertainty. Keeps me on track for the exit I already planned."
+    },
+    {
+      "action_id": 3,
+      "description": "Verify the refinanced car loan payment has cleared at the new, lower rate. Confirm the actual monthly payment reduction in my budget — not the estimated number from the application, the real number. Update my monthly expense tracker accordingly so the $413 surplus figure reflects actual post-refi cash flow.",
+      "rationale": "The refinance was the key action from last tick. If it cleared correctly, my monthly expenses dropped and my real surplus is now higher than $413 — which is meaningful given a 1.6-month runway. If there was a processing delay or error, I need to know now, not in three weeks. This is a 10-minute verification task with material financial impact.",
+      "timeline": "Check account portal today or tomorrow. Update budget numbers.",
+      "expected_outcome": "Confirmed lower payment amount. Adjusted surplus figure — likely $450-$480/mo if the refi came through at the target rate. Small improvement but real."
+    },
+    {
+      "action_id": 4,
+      "description": "Look into the Millfield Community College retraining grant or any financial assistance tied to the nursing program for students with strong credit. David Chen's name has come up in conversations — he's apparently involved with some bank partnership for retraining participants. I don't have details. I'll ask the financial aid office at MCC whether there are any bank-partnered programs I haven't tapped.",
+      "rationale": "I have a 796 credit score. That's an asset that most students in my cohort don't have, and I haven't fully used it. The car refinance was one application. But there may be program-linked financial products — a bridge loan at favorable rates, a tuition assistance line, or a grant tied to workforce retraining — that I qualify for specifically because of my credit standing and my enrollment in a healthcare program. Millfield has nursing shortages. Those shortages have funding attached. I should find out if any of it applies to me.",
+      "timeline": "Call or email MCC financial aid office this week. Ask specifically about bank partnerships or retraining grants for nursing students.",
+      "expected_outcome": "Either I learn about a program I qualify for — potentially reducing tuition burden or providing a low-rate bridge — or I rule it out and move on. Either answer has value."
+    },
+    {
+      "action_id": 5,
+      "description": "Ask one or two other rideshare drivers I know — casually, between shifts or via text — what they're seeing in trip volume lately. Not paranoid, just checking. The sector data says 3% robotaxi adoption and I've heard that number before, but I don't always know what's happening at ground level until someone who drives the same zones tells me.",
+      "rationale": "My information sources are direct experience and professional network. The inbox this tick was almost empty — just the sector number and a routine outcome. That's not much to work with. The most reliable signal I have is what I actually experience in the car and what other drivers notice. If there's a new rideshare competitor or a route change or something happening with surge patterns, another driver will mention it before it shows up anywhere official. I'm not panicking — I'm maintaining situational awareness.",
+      "timeline": "Informal check-in this week. No action required unless I hear something specific that changes the picture.",
+      "expected_outcome": "Either reassurance that others are seeing normal volume, or an early signal that something has shifted in the market. Low-cost intelligence gathering."
+    }
+  ],
+  "decisions": {
+    "driving_strategy": "Maintain peak-hour schedule unchanged — Friday evening, Saturday morning airport, Thursday evening. 3% robotaxi adoption is background context, not an operational change. I'll pay attention to trip request volume as a leading indicator of any demand softening, but I'm not adjusting routes or hours based on a number in a sector report.",
+    "nursing_program": "Execute on the timeline mapped last tick. This tick's job is to identify and lock the next concrete milestone — a clinical block date, a simulation lab requirement, a competency exam registration. Planning is done; now I need a date on a calendar.",
+    "financial_management": "Verify the refi payment amount, update the budget, confirm the actual surplus figure. Then investigate the MCC financial aid angle — 796 credit score plus healthcare enrollment is a profile that might unlock something I haven't found yet.",
+    "information_gathering": "Check in with one or two driver contacts about what they're seeing in trip volume. The sector report gives me a percentage but not a street-level picture. Peer intelligence is how I'll catch early demand changes before they hit my earnings."
+  },
+  "updated_state": {
+    "stress_level": 0.24,
+    "agency": 0.57,
+    "grief_stage": "none",
+    "savings_delta": 220
+  },
+  "internal_monologue": "Another routine week — savings up, no surprises, nothing in the inbox except that 3% robotaxi number I keep seeing. Honestly I'm not sure what to do with that figure. Three percent is small. My rides felt normal this week. But I made a note to ask Dani what she's been seeing on her shifts, because sometimes you notice something before you can name it. The real thing I'm focused on is getting the advisor meeting locked down — I need to know exactly how many clinical hours I have left and when the next block opens. The bridge is the hard part, not the destination. I know that. I just need to keep walking.",
+  "archetype_self_assessment": "nursing student executing a bridge plan"
+}
