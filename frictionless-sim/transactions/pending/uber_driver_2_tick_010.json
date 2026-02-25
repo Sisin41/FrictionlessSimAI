@@ -1,0 +1,15 @@
+{
+  "tick": 10,
+  "from_agent": "uber_driver_2",
+  "from_name": "Grace Okafor",
+  "to_agent": "rideshare_driver",
+  "to_name": "Robert Jackson",
+  "type": "SIGNAL",
+  "description": "Status update to Robert Jackson: NEMT cert complete, calling operators this week using his intelligence, requesting specific contact name at operators if he receives an offer first",
+  "resources": {
+    "type": "service",
+    "amount": 0,
+    "detail": "Reciprocal intelligence exchange: Grace confirms cert completion and activation. Requests operator contact name (warm introduction) if Robert converts first. Maintains trust and information-sharing relationship."
+  },
+  "status": "pending"
+}

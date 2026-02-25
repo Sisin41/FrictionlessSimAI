@@ -1,0 +1,27 @@
+{
+  "tick": 10,
+  "from_agent": "diner_owner",
+  "from_name": "Betty Kowalski",
+  "transactions": [
+    {
+      "to_agent": "mechanic_carlos",
+      "to_name": "Carlos Ruiz",
+      "type": "EXCHANGE",
+      "description": "Call Carlos Ruiz to continue intelligence sharing on kitchen-to-delivery conversion and Miguel Hernandez delivery infrastructure connection.",
+      "resource_type": "reputation",
+      "amount": 0,
+      "direction": "both",
+      "detail": "Share real RoboRide terms inquiry status and minimum revenue threshold math — receive intelligence on whether Miguel Hernandez connection relates to last-mile delivery infrastructure viable for kitchen prep hub model"
+    },
+    {
+      "to_agent": "real_estate_agent",
+      "to_name": "Stephanie Morris",
+      "type": "INACTION",
+      "description": "Take Stephanie Morris's incoming call but hold property valuation commitment for one week pending RoboRide written terms decision.",
+      "resource_type": "political_capital",
+      "amount": 0,
+      "direction": "internal",
+      "detail": "Conditional one-week pause on property walk — not a refusal. If RoboRide terms viable by end of week: convert kitchen, no valuation needed yet. If not: call Stephanie back and schedule the property walk."
+    }
+  ]
+}

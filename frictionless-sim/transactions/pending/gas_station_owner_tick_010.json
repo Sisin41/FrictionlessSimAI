@@ -1,0 +1,27 @@
+{
+  "tick": 10,
+  "from_agent": "gas_station_owner",
+  "from_name": "Amir Patel",
+  "transactions": [
+    {
+      "to_agent": "real_estate_agent",
+      "to_name": "Stephanie Morris",
+      "type": "SIGNAL",
+      "description": "30-day status check call on quiet logistics buyer inquiry. Acknowledge and commit to $1,500 valuation fee payment within 30 days.",
+      "resource_type": "currency",
+      "amount": 1500,
+      "direction": "give",
+      "detail": "Commitment to pay the $1,500 commercial property valuation fee from tick 8 site visit and four-scenario analysis"
+    },
+    {
+      "to_agent": "insurance_agent_priya",
+      "to_name": "Priya Sharma",
+      "type": "EXCHANGE",
+      "description": "Request business insurance quote for gas station property — business interruption and liability coverage.",
+      "resource_type": "insurance_policy",
+      "amount": 0,
+      "direction": "both",
+      "detail": "Initial inquiry for business insurance coverage — quote request only, no purchase commitment this tick"
+    }
+  ]
+}

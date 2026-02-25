@@ -1,0 +1,15 @@
+{
+  "tick": 10,
+  "from_agent": "auto_shop_teacher",
+  "from_name": "Mark Thompson",
+  "to_agent": "community_organizer",
+  "to_name": "Lisa Freeman",
+  "type": "ASSOCIATION",
+  "description": "Mark Thompson contacts Lisa Freeman to establish a referral pipeline: community center directs displaced workers with technical or mechanical backgrounds toward the Millfield Auto Tech Pipeline program pending board approval",
+  "resources": {
+    "type": "service",
+    "amount": 0,
+    "detail": "Program information exchange: Mark provides program overview and eligibility criteria to Lisa. Lisa agrees to mention the pipeline as a pathway option during community center intake sessions for displaced workers with relevant backgrounds."
+  },
+  "status": "pending"
+}

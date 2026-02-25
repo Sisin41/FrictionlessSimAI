@@ -1,0 +1,25 @@
+{
+  "tick": 10,
+  "from_agent": "single_parent",
+  "to_agent": "commuter_rachel",
+  "type": "EXCHANGE",
+  "status": "pending",
+  "contingency": "Conditional on Nicole Washington (single_parent) responding yes to the closing ask sent in tick 9/10. If yes, transaction executes. If no, transaction is voided.",
+  "resources": {
+    "type": "currency",
+    "amount": 800,
+    "detail": "Marketing communications pilot fee — $800 for a defined scope of work: communications templates, social media support, and one month of managed content for Nicole Washington's nursing and community presence. Rachel delivers scope document within 48 hours of confirmation."
+  },
+  "initiated_by": "commuter_rachel",
+  "description": "Rachel Green closes the Nicole Washington freelance pilot engagement. Rachel sends a final direct closing message this tick — 'yes means I send the scope document today, no means I check back in 60 days.' If Nicole says yes, this transaction executes as an $800 payment from single_parent to commuter_rachel for the first month of the marketing pilot.",
+  "economic_effects": {
+    "commuter_rachel": {
+      "income_change": 800,
+      "savings_change": 800
+    },
+    "single_parent": {
+      "expense_change": 800,
+      "savings_change": -800
+    }
+  }
+}

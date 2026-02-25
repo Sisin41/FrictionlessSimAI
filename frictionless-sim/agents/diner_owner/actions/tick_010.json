@@ -1,0 +1,71 @@
+{
+  "tick": 10,
+  "agent_id": "diner_owner",
+  "agent_name": "Betty Kowalski",
+  "response": {
+    "internal_assessment": "I am at L0. This is the survival tier and I am not pretending otherwise. Savings at $10,508. Monthly expenses burning at $4,268. That is 2.5 months of runway. Employment status: unemployed — the diner is technically open but producing no net income. The threat level is 0.79. I came into this tick having testified twice before Maria Santos's task force, having initiated contact with RoboRide's partnership coordinator, having called Carlos Ruiz, and having the Stephanie Morris outreach about a property valuation conversation coming. I named the three decision gates in my tick 9 reflection: (1) get the RoboRide written terms — revenue share, equipment requirements, minimum volume, onboarding timeline — and evaluate them against a minimum monthly revenue threshold; (2) do the minimum viable revenue math tonight before this tick closes; (3) act on the Carlos Ruiz / Miguel Hernandez intelligence about kitchen-to-delivery conversion. Tick 10 is when I act on those gates. I am not gathering more information. I am making a decision. The delivery pivot either pencils out or it does not. If it does, I convert this week. If it does not, I need to consider whether the property walk with Stephanie Morris is the right next move before my runway drops below 2 months.",
+    "inbox_interpretation": "Zoe Martinez is coming to pitch me on social media services for the diner — she is targeting me specifically in her word-of-mouth. That is a $100-$150/month ask. At current burn, $150/month is 3.5% of my monthly expenses. Useful only if I am staying open long enough to benefit from it. Worth a short conversation but not a priority this tick. Stephanie Morris is calling after the task force session — she wants to discuss the formal property valuation. That call is coming. I need to have a position before I talk to her: am I ready for the property walk, or am I still pursuing the delivery pivot? The word-of-mouth that Carlos Ruiz is reaching out to Miguel Hernandez as a peer suggests the kitchen-to-delivery conversation I opened is producing downstream effects. That is good intelligence. The community macro — 53% employment, spending at 30 — confirms there is no wait-it-out path. The diner's sit-down customer base is structurally gone. The people who ate here are not employed. The spending index at 30 means even the people who are employed are not spending. My only path forward is a fundamentally different revenue model.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Call the RoboRide local partnership coordinator for a second and final time to get the written terms I requested at tick 8 and followed up on at tick 9. I frame this as a close, not a check-in: 'I submitted my inquiry at tick 8, I followed up at tick 9, and I am calling now because I need the written terms by end of this week to make a go/no-go decision for my kitchen. I have a 2.5-month runway and I cannot wait longer than this week for a term sheet.' I am not rude. I am specific. I give them a deadline because I have a real deadline. If they cannot produce written terms within the week, I treat the RoboRide partnership path as closed and proceed to the property valuation conversation with Stephanie Morris as the primary path.",
+        "target_agent": null,
+        "resources": {
+          "type": "service",
+          "direction": "receive",
+          "amount": 0,
+          "detail": "Request written RoboRide delivery partnership terms — revenue share percentage, equipment requirements, minimum monthly order volume, onboarding timeline — with end-of-week deadline"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I set a 60-day decision gate at tick 9. I am now 30 days in with no written terms. The partnership cannot be a viable path if they cannot produce a term sheet within a week of my third request. I need the terms to run the minimum revenue math. Without the math, I cannot make the decision. The deadline is not a bluff — it is the honest consequence of my runway situation."
+      },
+      {
+        "type": "EXCHANGE",
+        "description": "Call Carlos Ruiz this tick — the conversation I signaled I would have. Tell him directly about the RoboRide partnership inquiry: what I asked for, what the terms look like so far (or the absence of terms), and what minimum revenue I need the delivery pivot to generate to be worth doing. Ask him specifically: does he know anyone who has attempted a commercial kitchen to delivery prep conversion in the region? Does the Miguel Hernandez connection relate to delivery infrastructure in any way I should understand? I share my real numbers with Carlos — he has trust 0.53 and he is the person most likely to give me honest intelligence without managing my emotions around it. I am building a small intelligence network of adapters, as I named in my tick 9 reflection. This is that network in action.",
+        "target_agent": "mechanic_carlos",
+        "resources": {
+          "type": "reputation",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Share real financial situation and RoboRide pivot evaluation with Carlos Ruiz — receive intelligence on kitchen-to-delivery conversion landscape and Miguel Hernandez connection"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Carlos is the one person in my network who understands the mechanical and operational side of the RoboRide ecosystem from a maintenance perspective. He is also adapting, not waiting. He brought Miguel Hernandez into his orbit as a peer last tick — there is something there about the last-mile delivery infrastructure that may directly affect whether a kitchen pivot is viable. I need that intelligence before I commit."
+      },
+      {
+        "type": "INACTION",
+        "description": "Take Stephanie Morris's call after the task force session and listen — but do not commit to a property walk or valuation this tick. I tell her honestly: I am within a week of a go/no-go decision on the RoboRide delivery partnership. If the terms come back viable, I convert the kitchen and I do not need a property valuation yet. If the terms are not viable, I call her back within the week and schedule the walk. I am not stalling — I am sequencing. The property walk and valuation is the right next move if the delivery pivot fails. I do not want to spend the time and emotional energy of a formal valuation process while the pivot decision is still live. One week. Then I decide.",
+        "target_agent": "real_estate_agent",
+        "resources": {
+          "type": "political_capital",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Hold the property valuation conversation in a one-week conditional pause — not a refusal, a sequenced delay tied to the RoboRide terms deadline"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": -4268,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Stephanie will push for the property walk because that is her job and because the market is contracting. She is not wrong that the window is not getting wider. But committing to a valuation process while the delivery pivot is still a live option would mean running two decisions in parallel with the emotional bandwidth of someone at 2.5 months runway. That is a recipe for poor decisions on both. I give myself one week to close the RoboRide question, then I call Stephanie back. She will respect the specificity."
+      }
+    ],
+    "emotional_state": "anxious",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Two and a half months. I testified twice. I called RoboRide twice. I had Carlos for lunch. I have done the right things and the runway is still disappearing at $4,268 a month because the diner has no customers and no income and the grant I applied for eight ticks ago has not come through. I am not going to panic. I am going to get the written terms from RoboRide by end of week, talk to Carlos, do the math tonight, and make a decision before this tick closes. The commercial kitchen is either a delivery prep hub or it is an asset I need to sell. I need to know which one before I run out of time to choose."
+  }
+}

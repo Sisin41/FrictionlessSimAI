@@ -1,0 +1,17 @@
+{
+  "tick": 10,
+  "from_agent": "insurance_agent_priya",
+  "from_name": "Priya Sharma",
+  "transactions": [
+    {
+      "to_agent": "insurance_agent_tom",
+      "to_name": "Tom Bradley",
+      "type": "EXCHANGE",
+      "description": "Real phone conversation with Tom about transition — share job search status (3 applications out, no responses, 2-month runway), ask about Linda Park fleet/logistics contacts, discuss grant application experience.",
+      "resource_type": "reputation",
+      "amount": 0,
+      "direction": "both",
+      "detail": "Mutual intelligence sharing on insurtech job market, retraining grant application process, and potential shared access to Linda Park's commercial fleet risk network"
+    }
+  ]
+}

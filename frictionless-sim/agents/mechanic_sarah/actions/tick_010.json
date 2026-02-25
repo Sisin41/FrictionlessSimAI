@@ -1,0 +1,90 @@
+{
+  "tick": 10,
+  "agent_id": "mechanic_sarah",
+  "agent_name": "Sarah Kim",
+  "response": {
+    "internal_assessment": "I am optimizing at L2 (Participate) — employed, certification accelerating, savings growing. The threat is real but managed. Role security at 0.81 and savings at $17,441 with a positive monthly delta means I am not in crisis. But the consolidation is imminent and the word-of-mouth from Carlos is a direct gift: he is going to give me names and contacts at EV service centers and fleet operators. That is the missing piece I identified in my tick 9 reflection — I named the gap three ticks ago. This tick I receive that intelligence and I act on it. The EVT Level 1 cert is 55-60% complete. Roughly 40% remains. At 10+ hours per month I am 4-5 months from completion. The finish line is visible enough to start preparing what comes after it — not just holding names, but having one substantive conversation with a fleet operator or EV service center before I complete the cert, so I know what they actually test for in hiring.",
+    "inbox_interpretation": "The social signals — Rick Tanner and Angela Wright both visibly stressed — confirm that something real is happening at the management layer. Word-of-mouth from Carlos says he is going to have a real conversation with me, not the managed version. That is what I asked for last tick when I reached out to him about contacts and hiring criteria. The inbox also shows Linda Park closing the AutoShield corporate loop and shifting to exit mode — another person in the ecosystem making the decision that the internal advocacy path is closed. Miguel Hernandez is picking up bike delivery gig work to stop the savings bleed while he stays in his cert program — that is a person with almost no runway making the survival choice. The DIRECT_IMPACT from Carlos reaching out to Zoe Martinez confirms he is thinking about the community the same way I am. The community stress is real. Protests at nine. Employment at 53%. I am employed and cert-building and I need to stay the course without letting the ambient dread pull me off focus.",
+    "chosen_actions": [
+      {
+        "type": "TRANSFORMATION",
+        "description": "Advance EVT Level 1 into the final major module before the certification assessment — integrated vehicle systems and end-to-end diagnostic workflows. Log at least 10 study hours this month. The advanced diagnostics and fault code module is complete. This module is the synthesis section that connects everything — hardware, software, charging infrastructure, battery management — into the kind of holistic diagnostic workflow that fleet operators actually hire for. Completing this module by end of tick brings me to 65-70% completion, leaving the final assessment as the only remaining step.",
+        "target_agent": null,
+        "resources": {
+          "type": "skill",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "EVT Level 1 — integrated systems and diagnostic workflows module, 10+ study hours, targeting 65-70% completion"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 249,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The finish line is in sight. I named this as the 60-day target in my tick 9 reflection. Every hour of study this month is one hour closer to a credential that changes my option set regardless of what the consolidation decides about this shop. The cert belongs to me."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Have the real conversation with Carlos. Receive the contact names and fleet operator intelligence he is prepared to give me. Ask him specifically: which regional fleet operators are actively hiring EV-certified technicians right now, and what do they test for in the hiring process that is not in the curriculum? I want to know the delta between what the EVT Level 1 certification teaches and what a fleet maintenance supervisor actually values at the moment of hiring. Also ask him honestly what he knows about the consolidation timeline and whether my position at this shop is in the tier-one group or the transfer pool. He said he would tell me the real version. I am ready to hear it.",
+        "target_agent": "mechanic_carlos",
+        "resources": {
+          "type": "service",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Real peer conversation — receive EV fleet operator contacts and hiring intelligence, honest discussion of consolidation tier status"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Carlos is giving me something I have been trying to build for three ticks — the names that connect the credential to actual employment. The hiring criteria intelligence is worth more than any study hour because it tells me what to prioritize in the remaining modules and how to present myself when the cert is complete. I also need to know what he knows about the consolidation. The managed version is not what I asked for."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Begin concrete post-certification landscape mapping. Use the names Carlos gives me as a starting point. Research each contact: what company, what fleet size, what their EV maintenance footprint looks like, whether they have any posted positions or have recently expanded. This is not a job application — it is intelligence gathering that takes one evening and tells me whether the fleet maintenance market in this region is actually growing or whether the certification leads primarily to a different geography. If the answer is a different geography, I need to know that now while I am still employed and can plan a transition with runway, not after I complete the cert and discover the local market does not absorb me.",
+        "target_agent": null,
+        "resources": {
+          "type": "skill",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Post-certification landscape research — regional fleet operators, EV service centers, hiring criteria and open positions"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "My tick 9 reflection specifically named this gap: 'the cert gives me credentials; what I do with them is a separate question I have not fully sat with yet.' That was tick 6. It is now tick 10. I need to answer this question while I still have 4-5 months of certification runway and a job. The willingness to move (0.6) and knowledge of other localities (0.37) are numbers I can update with real research. This is the research."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Check in with Zoe Martinez — not from authority, as a peer who is watching the same disruption from an adjacent angle. Carlos already reached out to her this tick. I add my voice. Tell her specifically what I told myself in my tick 9 reflection: the last-mile delivery infrastructure she is entering and the EV technician credential I am building are both parts of the same new ecosystem. I am not coming with advice. I am coming with a frame that might be useful: the RoboRide vehicles that deliver to her routes need people to maintain them. That is the connection between what she is doing and what I am doing. If that is interesting to her, we talk more. If not, at least she knows someone is paying attention from a different angle.",
+        "target_agent": "young_gig_worker",
+        "resources": {
+          "type": "service",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Peer check-in — adjacent ecosystem framing (last-mile delivery and EV maintenance as parts of the same new infrastructure)"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I named this in my tick 9 reflection as something I have been watching with genuine interest, not imitation. The connection between the gig delivery ecosystem and the EV technician credential is real and not obvious to either of us from inside our own lanes. Sharing that frame costs me nothing and might be useful to her. It is also the kind of human presence in a stressed community that I named as mattering — not just individual adaptation but staying connected to the people adapting around me."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Carlos is going to give me names today. I asked for them last tick and he is ready to give them. That is the thing I have been waiting for — not the cert completion, but the intelligence about what the cert leads to. The finish line is in the next four months. I just need to know what is on the other side of it before I get there. And I need to hear what he actually knows about the consolidation, not the version designed to keep me calm."
+  }
+}
