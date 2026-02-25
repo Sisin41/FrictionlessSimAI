@@ -1,0 +1,46 @@
+{
+  "tick": 5,
+  "agent_id": "salesperson_tamika",
+  "agent_name": "Tamika Jefferson",
+  "response": {
+    "internal_assessment": "I'm optimizing L1 STABILIZE and L2 PARTICIPATE simultaneously, because both are under real pressure and they're feeding each other. Savings just dropped for the first time. Runway is 3.1 months. Rick is compiling 'clean floor health' data he's not sharing with me yet — that silence is information. Angela's map says I'm EV/AV-exposed. I've been treating this exit as a slow build but the floor is moving faster than I am. The stay bonus is $12,000 — that's real, that's more than I have in savings right now, and it resets my runway to roughly 9 months if I collect it and leave clean. I need to formally signal I intend to stay long enough to earn it, while simultaneously converting at least one discovery call into an actual paying retainer this month. If I close even $350/month freelance, I've proved the model works. I don't announce anything. I show up at the dealership, I ask about the stay bonus, I close a client on the side. That's the play.",
+    "chosen_actions": [
+      {
+        "type": "COMMITMENT",
+        "description": "Signal to Angela Wright, HR, that I am aware of the $12,000 stay bonus and want to formally register my intent to remain through the qualifying period. Frame it as professional, not desperate — ask what the timeline and conditions are. Get it in writing if possible. This is strategic: I need the bonus clock running and I need HR to have my name on the 'staying' list, not the 'flight risk' list.",
+        "target_agent": "hr_director",
+        "resources_involved": "Stay bonus eligibility, $12,000 conditional on qualifying period completion. No immediate cash change — this starts the clock.",
+        "reasoning": "Loss aversion 2.5x makes the $12,000 feel like $30,000 to lose. With 3.1 months runway and savings at $9,852, I cannot afford to have the bonus expire because I never formally claimed it. This costs me nothing and buys me time. Angela is in a weird position — she's quietly building her own exit consulting entity while managing the stay bonus program. She'll process my request professionally. I'm not showing my hand, I'm just collecting what's available to me."
+      },
+      {
+        "type": "EXCHANGE",
+        "description": "Close the first paying freelance client from the discovery call pipeline. Target: the HVAC contractor or one of the two restaurants from the tick 2 outreach — whoever showed the most engagement. Convert the relationship from 'warm conversation' to a signed agreement: $350/month retainer, three months minimum, two social posts per week plus one monthly short-form video. Send a simple one-page agreement via email today. No more 'let's talk soon.' A decision is required.",
+        "target_agent": "null",
+        "resources_involved": "Potential income: +$350/month starting next tick. Time cost: ~6 hours setup this month. No direct cash outlay.",
+        "reasoning": "I've run two outreach ticks and one follow-up tick. The discovery calls happened last month. Savings dropped $83 — the outreach is no longer free, it's costing me time that I'm not billing at the dealership. If I don't close someone now, this whole side-hustle narrative collapses and I'm just a distracted car salesperson with a LinkedIn account. $350/month is not life-changing but it proves the model and gives me something to show a next client. First client is the hardest. This is the month."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Post one carefully crafted piece of content under my personal brand — not the dealership account — that positions me as a local small business marketing specialist. Keep it specific and useful: a breakdown of what makes local service businesses' social media fail, with three concrete fixes. No mention of my day job, no announcement of anything. Just visible competence. Let it sit and be found.",
+        "target_agent": "null",
+        "resources_involved": "Time: 2 hours. Platforms: LinkedIn, Instagram. No direct cost.",
+        "reasoning": "I signaled publicly last tick and it costs almost nothing. The value is compounding — each post makes the next client conversation shorter. Rick isn't going to see a LinkedIn post about HVAC social media and fire me. The risk is near-zero and the upside is real. I'm building the bridge while still standing on the platform."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "exiter",
+    "inner_monologue": "I am not waiting for Rick to tell me how bad it is — I already know, and I'm the only one who's been building something for when it gets worse."
+  },
+  "economic_effects": {
+    "income_change": 0,
+    "savings_change": 0,
+    "spending_change": 0,
+    "employment_effect": "none",
+    "layoff_count": 0,
+    "hire_count": 0,
+    "new_business": false,
+    "business_closure": false,
+    "protest": false,
+    "policy_change": false
+  }
+}

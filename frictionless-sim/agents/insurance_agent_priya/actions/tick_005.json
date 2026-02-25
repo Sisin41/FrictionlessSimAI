@@ -1,0 +1,46 @@
+{
+  "tick": 5,
+  "agent_id": "insurance_agent_priya",
+  "agent_name": "Priya Sharma",
+  "response": {
+    "internal_assessment": "L2 PARTICIPATE is the level I'm optimizing. Skill relevance is 0.42 and dropping — personal auto policies are at 23 and James Patterson just canceled his, which I heard about directly. Linda asked me in a one-on-one last tick what I'm hearing from canceling customers and whether there are any commercial fleet accounts in my pipeline. That's not a casual question. That's her building a case for a pivot and she wants me as evidence that the field team is already thinking this way. My SQL course is at 12% — Module 3 is joins and aggregation, the module that turns syntax knowledge into actual analytical capability. If I can finish that this month and bring Linda something concrete — even a rough commercial fleet risk framework or a list of local fleet operators I could approach — I stop being a shrinking book agent and start being an asset in a new product line. Tom apparently wants to connect after the Linda meeting too. That's useful; we might be able to pool pipeline intelligence and present a joint commercial opportunity to Linda rather than two separate half-measures. Financially I'm bleeding roughly $1,000-1,200 a month. I have 14-17 months of runway if nothing changes. That's enough cushion to retrain aggressively without panicking — but not enough to drift.",
+    "chosen_actions": [
+      {
+        "type": "TRANSFORMATION",
+        "description": "Complete Module 3 of the SQL and data visualization course — joins and aggregation. Set aside two dedicated evening sessions this week. The goal is not just finishing the module; it is building one actual output: a simple query that pulls and aggregates hypothetical commercial fleet incident data, something I can screenshot or describe to Linda as proof of capability, not just enrollment.",
+        "target_agent": "null",
+        "resources_involved": "Time (approximately 4-6 hours over two evenings). No financial cost — course is free. Opportunity cost is social time. Progress advances from 12% toward approximately 20-22%.",
+        "reasoning": "This is the highest-leverage action I can take right now. The personal auto book is structurally collapsing — 23 policies, falling. Module 3 is the inflection point where SQL becomes genuinely useful for risk analytics work. Every week I delay this is a week I stay a shrinking-book agent instead of a data-capable one. Linda has signaled she is building a commercial pivot case. I want to show up to that conversation with demonstrated skill, not just stated intent."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Respond to Linda Park's one-on-one request with a written field intelligence summary: which customers have canceled and whether they cited RoboRide or general cost; an honest assessment that the personal auto book is not recoverable; and a short list of three to five local businesses with vehicle fleets (delivery, HVAC, landscaping) that I have identified as potential commercial liability prospects I could approach. Frame this as a first step toward the commercial pivot, not a complaint report.",
+        "target_agent": "insurance_manager",
+        "resources_involved": "One to two hours drafting. No financial cost. Signals proactive positioning and field awareness to Linda.",
+        "reasoning": "Linda directly asked for this. Not responding would be a miss — she is assessing morale and whether I am already looking elsewhere. I am not looking elsewhere yet, but I need her to know I am thinking forward, not backward. The fleet prospect list is the key differentiator: it moves the conversation from 'the market is bad' to 'here is where the market might actually be.' Given her internal memo to regional leadership this tick, she needs field input that supports the commercial pivot argument."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Reach out to Tom Bradley — not a long conversation, just a short check-in after the Linda one-on-ones. Ask him directly: did she give him any indication of timeline for the pivot or any signals about role security? Share that I have been identifying local fleet accounts as potential commercial prospects and ask if he has any in his pipeline we could present jointly to Linda as a commercial lead list.",
+        "target_agent": "insurance_agent_tom",
+        "resources_involved": "One brief call or message. No financial cost. Builds collegial intelligence-sharing and possible joint positioning.",
+        "reasoning": "Tom and I are in the same boat and we trust each other at 0.6. Word-of-mouth suggests he is already reaching out to me this tick. A joint commercial prospect list presented to Linda is stronger than two separate ones. It also signals that the field team is cohesive and proactive, not fragmented and demoralized. This costs me nothing and could meaningfully change how Linda frames the pivot internally."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "The book is dying and I've known it for months — the only question now is whether I'm building the next thing fast enough that I'm useful when the pivot happens, or whether I'm just the last person standing in a product line nobody wants."
+  },
+  "economic_effects": {
+    "income_change": -100,
+    "savings_change": -1100,
+    "spending_change": 0,
+    "employment_effect": "none",
+    "layoff_count": 0,
+    "hire_count": 0,
+    "new_business": false,
+    "business_closure": false,
+    "protest": false,
+    "policy_change": false
+  }
+}

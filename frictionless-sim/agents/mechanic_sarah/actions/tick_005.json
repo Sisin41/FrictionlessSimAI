@@ -1,0 +1,39 @@
+{
+  "tick": 5,
+  "agent_id": "mechanic_sarah",
+  "agent_name": "Sarah Kim",
+  "response": {
+    "internal_assessment": "I am optimizing L2 PARTICIPATE and keeping an eye on L1 STABILIZE. The EVT Level 1 cert I enrolled in last month is the right call — Carlos is locking in Level 2 and the high school is now running EV battery programs, which tells me this transition is real and accelerating, not a slow drift. The auto sector index at 82 and 5 protests in town means the anxiety is spreading, but I'm already moving. My L0 threat (0.58) and L1 gap (no insurance) are real but not acute — I have $16k saved, no dependents, and a job. What I need to protect most right now is my employability trajectory. I'm one month into the EVT cert but I need to actually put hours in and also reach out to Mark Thompson at the high school. His EV battery and charging certification program might give me hands-on practice space or overlap with my Level 1 coursework — and connecting with him puts me on his radar if the shop ever tightens headcount. Angela's vulnerability map has mechanics flagged. I'm not waiting to be reclassified.",
+    "chosen_actions": [
+      {
+        "type": "TRANSFORMATION",
+        "description": "Continue EVT Level 1 certification coursework — complete the next module covering EV high-voltage safety and battery management fundamentals. Log at least 8 hours this month on evening and weekend study sessions. Use my existing electrical skills to move faster through the battery module than classmates without that background.",
+        "target_agent": "null",
+        "resources_involved": "Personal time (approx. 8-10 hours), existing enrollment already paid, no new cost this month",
+        "reasoning": "I committed to this last tick. The cert is 12% done and I need to keep the momentum or I lose the sunk cost and the head start. Carlos being on Level 2 already means I cannot afford to treat Level 1 as optional — it's the floor, not the ceiling. My electrical background makes the battery module the fastest path to real differentiation."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Reach out to Mark Thompson, the auto shop teacher at Millfield High, to introduce myself and ask about his EV battery and charging certification program. Frame it as a fellow practitioner wanting to understand the curriculum — not as a student asking for help. See if there's overlap with my EVT Level 1 coursework, access to their lab equipment, or a chance to do some informal cross-training.",
+        "target_agent": "auto_shop_teacher",
+        "resources_involved": "No cost — one email or a quick in-person visit during off hours",
+        "reasoning": "The high school program is a new local resource I did not have last tick. Mark is running certifications that directly overlap my cert path. Even if his program is for teenagers, the equipment access and the relationship are worth something. If layoffs come at the shop, knowing the teacher running the only EV training program in Millfield is a better safety net than not knowing him. My network in the education sector is zero right now — this is a low-cost, low-risk connection to make."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "I'm not doing this because I love EVs — I'm doing it because I can read a room, and this room is changing fast."
+  },
+  "economic_effects": {
+    "income_change": 0,
+    "savings_change": 249,
+    "spending_change": 0,
+    "employment_effect": "none",
+    "layoff_count": 0,
+    "hire_count": 0,
+    "new_business": false,
+    "business_closure": false,
+    "protest": false,
+    "policy_change": false
+  }
+}

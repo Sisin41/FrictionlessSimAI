@@ -1,0 +1,39 @@
+{
+  "tick": 5,
+  "agent_id": "insurance_agent_tom",
+  "agent_name": "Tom Bradley",
+  "response": {
+    "internal_assessment": "L2_PARTICIPATE is still the primary threat and it just got louder. Linda's pivot directive to commercial rideshare and AV liability is now official — not a rumor, not a hint from a word-of-mouth message. She sat across from both me and Priya and said it. I have 23 active policies. James Patterson just cancelled his — sold his car, done, gone. My income is $3,251 against $5,189 in monthly expenses. I'm burning roughly $1,900 a month. My runway at this rate is maybe ten months before I have to tell my wife something serious is happening. L0 and L1 are still intact but the erosion is visible now. The pivot Linda is describing — commercial fleet liability, rideshare operators, AV coverage — is real insurance work. I know that. But it is not my insurance work. My clients are people I've known for a decade. I know their cars, their teenagers, their driving records. Commercial fleet liability is a completely different discipline: actuarial tables I haven't touched, corporate account management, regulatory frameworks I'd have to learn from scratch at 52. Priya is going to be the star of this pivot. She's already halfway there — SQL coursework, data analytics language, she walked into Linda's office with an agenda. I watched her do it and part of me respects it and part of me thinks: that's not who I am. The question is whether I can fake being that person long enough to stay employed, or whether I have to start thinking about what comes after AutoShield. I'm not ready for that thought. So I'll give Linda what she wants to see — attendance, willingness, no visible resistance — while I protect what I actually have left: 23 clients who still own cars and still need their personal auto policies renewed. That's the ground I can hold. That's where my real work is this month.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Respond to Linda Park's briefing on the commercial rideshare and AV liability pivot with a professionally worded acknowledgment. Express willingness to learn about the new product lines. Do not push back, do not ask hard questions about timeline or job security, do not match Priya's energy or ambition. Say the right words. Keep my head down. What I'm actually signaling is: I am not a problem, I am not resistant, I am manageable. This buys time.",
+        "target_agent": "insurance_manager",
+        "resources_involved": "No financial transaction. Time and political capital only.",
+        "reasoning": "Linda has power over me. Trust is at 0.53 — moderate. She has already seen Priya walk in with an agenda and enthusiasm. If I come in resistant or silent, the comparison is damaging. I need to match the minimum expected performance of a willing employee without overpromising anything I can't deliver. Surface compliance costs me nothing this tick and preserves my employment status, which is the only thing standing between my family and a real financial crisis. I am not ready to commit to actual coursework or career transformation. But I can attend a briefing and nod."
+      },
+      {
+        "type": "EXCHANGE",
+        "description": "Call three of my remaining personal auto clients who are up for renewal in the next 60 days — clients I know personally, people who have not yet sold their cars and are not talking about cancelling. Do a retention call: check in as a human being, not as a salesperson. Ask about their cars, their driving habits, whether they're using RoboRide for anything. If they bring up cost, have a genuine conversation about coverage adjustments rather than letting them drift toward cancellation. I am trying to hold the line on 23 policies. Each one I lose is income I cannot replace.",
+        "target_agent": "null",
+        "resources_involved": "Time. Potential retention of 1-2 policies at approximately $180-$220/month commission value each.",
+        "reasoning": "This is the work I actually know how to do. My skill_relevance is 0.15 in the abstract but for personal auto retention calls with long-term clients, it is 0.85. These are the clients Priya does not have. My 28 years of relationship capital is concentrated here and it is the only competitive advantage I have over the new world being built around me. If I can slow the cancellation rate on my existing book, I buy time — financial time, employment time, and the psychological time I need to figure out what comes next. I will not pretend this is a growth strategy. It is a holding action. But holding is what I need right now."
+      }
+    ],
+    "emotional_state": "resigned",
+    "archetype_self_assessment": "resister",
+    "inner_monologue": "I said yes to Linda's pivot the same way I used to say yes to things I didn't believe in at the beginning of my career — with a nod and a quiet plan to figure out later whether I actually mean it."
+  },
+  "economic_effects": {
+    "income_change": 0,
+    "savings_change": -1650,
+    "spending_change": 0,
+    "employment_effect": "none",
+    "layoff_count": 0,
+    "hire_count": 0,
+    "new_business": false,
+    "business_closure": false,
+    "protest": false,
+    "policy_change": false
+  }
+}

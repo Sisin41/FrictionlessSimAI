@@ -1,0 +1,46 @@
+{
+  "tick": 5,
+  "agent_id": "mechanic_carlos",
+  "agent_name": "Carlos Ruiz",
+  "response": {
+    "internal_assessment": "I am holding at L2_PARTICIPATE as the primary optimization target. L0 and L1 are not in crisis — savings at $35,765, employed, 6.6 months runway, $386 monthly surplus. But the numbers around me are not getting better: auto sector at 82, spending index at 69, car ownership at 77%. Fewer cars means fewer jobs for people like me eventually. Role security is 0.77 and I know that number is fragile. The good news: I started the EVT Level 2 training last month. I'm in it. That is real. But I'm only 10% through a 10-month program and the industry is moving faster than I am. I need to keep moving on two tracks simultaneously — show up and do the work at the shop (because my income depends on it and I have three people depending on that income), and keep pushing the training forward so that when ICE work thins out, I am not standing at the edge with nothing in my hands but old certifications. The sector data and Angela Wright's vulnerability classification are not abstract anymore. She is putting mechanics in the 'EV/AV-exposed' bucket. That means HR departments — including Patricia's — are looking at people like me with a calculation in their heads. I have to stay ahead of that calculation.",
+    "chosen_actions": [
+      {
+        "type": "TRANSFORMATION",
+        "description": "Continue EVT Level 2 evening and weekend coursework — this month focusing on high-voltage safety protocols and battery management systems. Put in the hours. Show up to class after a full day at the shop even when I'm tired. This is month two of ten. The training will not complete itself.",
+        "target_agent": null,
+        "resources_involved": "Time: 6-8 hours per week of personal time across evenings and weekends. Tuition already paid by Patricia ($1,400). No new financial cost this month. Investment is purely in effort and discipline.",
+        "reasoning": "The certification was the right call at tick 4. Showing up for month two is the same right call. Status quo bias wants me to coast — I enrolled, I checked the box, I feel better. But checking the box is not the same as acquiring the skill. The only thing that raises my skill_relevance from 0.5 toward 0.75 is actually doing the work over the full ten months. The sector index dropping from 89 to 82 in two months tells me I do not have the luxury of coasting."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Reach out to Mark Thompson at the high school auto shop. Not to ask for anything specific — just to make contact, find out what his EV curriculum looks like, and let him know I am doing the EVT Level 2 certification. Open a professional bridge. He may know things about the local EV service landscape that I do not. And if there is ever a part-time teaching opportunity on EV systems down the road, I want my name to be in his head.",
+        "target_agent": "auto_shop_teacher",
+        "resources_involved": "No financial cost. Time: one conversation, maybe 30 minutes. Investment is in network-building at L4/L5 while the core focus remains L2.",
+        "reasoning": "Trust with Mark is only 0.31 — we don't really know each other. But word-of-mouth says Maria Santos is meeting with him about EV programs, which means he is becoming a node in the local EV transition network. If I want to be part of that network, I have to introduce myself before the network is fully formed and positions are filled. My loss aversion bias would keep me quiet — why bother, I don't know him well, it might be awkward. But awkward is recoverable. Irrelevant is not."
+      },
+      {
+        "type": "EXCHANGE",
+        "description": "Return Dale Cooper's outreach. He reached out through my professional network this month. Dale is a contractor with a truck — a reliable customer who needs real mechanical work. Touch base, confirm I'm still his guy, and remind him the shop is running strong on ICE service. Keep the loyal customer relationship warm.",
+        "target_agent": "truck_owner",
+        "resources_involved": "Service relationship maintenance. No direct financial transaction this tick — just preserving a customer channel worth real money. Dale's truck is 2020 F-350 territory: oil changes, brake work, drivetrain. That's my bread and butter while the EV transition plays out.",
+        "reasoning": "The inbox says Dale reached out to me through his professional network. That is not nothing. He is looking for his mechanic. If I don't respond, he finds another one. My existing ICE customer base is my income floor while I retrain. The sector is contracting but it is not gone — service lane at 79% utilization per Rick Tanner. I keep my current customers while I build the new skill set. Both tracks matter."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "I showed up to the first EV class last month and I understood more than I expected — but that also means I now know how much I don't know, and that's its own kind of weight to carry home at the end of a ten-hour shop day."
+  },
+  "economic_effects": {
+    "income_change": 0,
+    "savings_change": 193,
+    "spending_change": 0,
+    "employment_effect": "none",
+    "layoff_count": 0,
+    "hire_count": 0,
+    "new_business": false,
+    "business_closure": false,
+    "protest": false,
+    "policy_change": false
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tick": 5,
+  "agent_id": "salesperson_jake",
+  "agent_name": "Jake Morrison",
+  "response": {
+    "internal_assessment": "L1 STABILIZE is my primary threat — savings are at $15,182 and falling by over $1,000 a month. I've got maybe 14 months before I'm out of savings entirely, but with a 3-month runway estimate on the books, the psychological pressure is hitting L0 territory. L2 PARTICIPATE is also threatened: Rick Tanner is pulling lot health data and explicitly keeping me and Tamika out of the loop. That is not a neutral signal. Angela Wright is building a workforce vulnerability map categorizing every role at every location — I need to land in 'anchored,' not 'EV/AV-exposed.' The $12k stay bonus Patricia mentioned at the all-hands is active. I need to ask Rick directly whether I'm eligible before I'm classified out of it. The under-$22k floor strategy hasn't closed a unit yet but it was only one tick. I'm not abandoning it. But I need to layer something onto it: a direct personal close attempt with my best remaining lead, AND a meeting with Rick to position myself as indispensable before Angela's vulnerability map gets submitted. Two moves this tick: close or die trying, and protect my institutional standing.",
+    "chosen_actions": [
+      {
+        "type": "EXCHANGE",
+        "description": "Personally work my single best remaining pre-qualified lead — the buyer who came in twice in the past 60 days, looked at a 2021 Civic priced at $19,400, said they needed to 'think about it.' I call them directly, not a text, not an email. I run the monthly payment math with them on the phone: $19,400 financed over 60 months at current rates is under $380/month. I offer to hold the unit for 48 hours at that price with no obligation. This is the one I close. I don't pitch the lot — I pitch this specific car to this specific person. If they say no I ask one question: what would it take?",
+        "target_agent": "null",
+        "resources_involved": "Commission on a $19,400 unit close: approximately $580-700 net. Time: full day focus. Emotional capital: high.",
+        "reasoning": "I've been running a strategy play for a tick and burning savings. The market is not going to improve by waiting. Conversion is at 22% — that means the other 78% are walking because I'm not closing them. I know this buyer. They were close. I am not going to let the best lead on my list go cold another month while I wait for foot traffic to recover. Loss aversion cuts both ways: I'm more afraid of watching this buyer buy from someone else than I am of the call being awkward."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Request a one-on-one with Rick Tanner this week. Not to complain, not to ask for protection — to present value. I bring my last 90 days of personal close data, my pipeline of pre-qualified leads by price tier, and a one-page read on which inventory segments still have buyer interest. I also ask him directly, casually, whether the stay bonus Patricia mentioned at the all-hands applies to floor sales staff. I want to know if the $12k is on the table before Angela's map goes in and before Rick has categorized me without my input.",
+        "target_agent": "dealership_gm",
+        "resources_involved": "Time, preparation, professional standing. No financial cost.",
+        "reasoning": "Rick is gathering data on the lot's health without telling me. That means he's forming a picture of my performance without my perspective in the frame. I have to get in front of that. I'm not going to beg. I'm going to show him that I have leads, I have a strategy, and I am worth keeping. The stay bonus question is secondary — but if it's available to me and I don't ask, I lose $12,000 through silence. That's exactly the kind of loss I cannot afford right now."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "hustler",
+    "inner_monologue": "I've been working a strategy that hasn't paid yet and the clock is getting louder, but I'm not switching into panic mode — I'm switching into precision mode, because right now one closed unit and one right conversation with Rick changes everything."
+  },
+  "economic_effects": {
+    "income_change": 640,
+    "savings_change": -443,
+    "spending_change": 0,
+    "employment_effect": "none",
+    "layoff_count": 0,
+    "hire_count": 0,
+    "new_business": false,
+    "business_closure": false,
+    "protest": false,
+    "policy_change": false
+  }
+}
