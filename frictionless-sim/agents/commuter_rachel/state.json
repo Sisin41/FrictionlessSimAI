@@ -25,8 +25,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 5.4,
-      "threat_level": 0.55,
+      "runway_months": 5.5,
+      "threat_level": 0.54,
       "monthly_essentials": 3000,
       "health_cost_from_stress": 0
     },
@@ -86,7 +86,7 @@
   "financial": {
     "monthly_income": 6000,
     "monthly_expenses": 4817,
-    "savings": 25773,
+    "savings": 26364,
     "debt_total": 63092,
     "credit_score": 697
   },
@@ -112,5 +112,5 @@
   },
   "locality": "millfield",
   "archetype": "I am a status-aware pragmatist who is starting to realize that clinging to the old status signals might itself be the uncool move. I understand branding. I need to apply that skill to myself right now instead of defaulting to an identity that was built before autonomous vehicles were a calendar item in my city.",
-  "tick_updated": 2
+  "tick_updated": 3
 }

@@ -86,7 +86,7 @@
   "financial": {
     "monthly_income": 5200,
     "monthly_expenses": 4630,
-    "savings": 16455,
+    "savings": 16740,
     "debt_total": 47402,
     "credit_score": 623
   },
@@ -119,5 +119,5 @@
   },
   "locality": "millfield",
   "archetype": "Still load-bearing. Still standing. I'm not thinking about autonomous vehicles or economic transitions. I'm thinking about whether I have enough leftovers to not have to cook on Tuesday. That's where I am. And that's okay. Staying alive in the margins is its own kind of competence.",
-  "tick_updated": 2
+  "tick_updated": 3
 }

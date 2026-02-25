@@ -79,7 +79,7 @@
       "availability_heuristic": 0.64,
       "social_proof_sensitivity": 0.48
     },
-    "sentiment": "More clear-eyed than last tick, and slightly unsettled by my own clarity. The savings bump was encouraging and I let it feel like confirmation when it might just be lag \u2014 the old customers responding to the new inventory, before the deeper shift shows up in the numbers. I'm not panicking. But I'm not letting myself feel good about eleven months of runway either. Two kids, a mortgage in its last years, and a business in a sector that every institutional signal says is contracting. The right feeling is alert, not anxious."
+    "sentiment": "neutral"
   },
   "psychological": {
     "stress_level": 0.19,
@@ -89,9 +89,9 @@
     "high_stress_ticks": 0
   },
   "financial": {
-    "monthly_income": 4650,
+    "monthly_income": 4138,
     "monthly_expenses": 3709,
-    "savings": 41760,
+    "savings": 41974,
     "debt_total": 21675,
     "credit_score": 746
   },
@@ -131,5 +131,5 @@
   },
   "locality": "millfield",
   "archetype": "Pragmatist being pushed toward adapter. The inventory restructure was pragmatism \u2014 doing what made sense within my existing domain. Asking Carlos about EV parts, researching the EV supply chain, applying for the grant \u2014 that's starting to look like adaptation. I haven't crossed the line yet. But I'm looking over it.",
-  "tick_updated": 2
+  "tick_updated": 3
 }

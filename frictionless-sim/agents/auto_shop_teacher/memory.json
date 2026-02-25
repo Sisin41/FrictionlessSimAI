@@ -14,6 +14,11 @@
       "tick": 2,
       "summary": "Contact Councilmember Maria Santos's office directly \u2014 email or phone \u2014 to introduce the Millfield Auto Tech Pipeline program and ask about eligibility for the $150K workforce transition fund and the community college EV certification partnership track she just passed. Frame the outreach specifically: Millfield High's program could serve as a high school feeder into the community college certification pathway, creating a two-stage pipeline from HS training to industry-recognized EV credential. Request a brief meeting or a referral to the right contact at the community college. Do not over-ask \u2014 one clear ask, one clear frame.",
       "emotional_state": "Focused and slightly impatient with myself \u2014 the good kind. The presentation is strong and I know it. But I can feel the pull to coast on that, and I'm not going to let it happen. April is close. The Maria Santos angle, the real budget numbers, the ASE and Tesla outreach \u2014 none of this is hard. It's just disciplined follow-through. That's the job right now."
+    },
+    {
+      "tick": 3,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -40,6 +45,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Contact Councilmember Maria Santos's office directly \u2014 email or phone \u2014 to introduce the Millfield Auto Tech Pipeline program and ask about eligibility for the $150K workforce transition fund and the community college EV certification partnership track she just passed. Frame the outreach specifically: Millfield High's program could serve as a high school feeder into the community college certification pathway, creating a two-stage pipeline from HS training to industry-recognized EV credential. Request a brief meeting or a referral to the right contact at the community college. Do not over-ask \u2014 one clear ask, one clear frame.. Savings grew by $450. "
+    },
+    {
+      "tick": 3,
+      "action": "routine",
+      "savings_delta": 450,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings grew by $450. "
     }
   ],
   "reflections": [],

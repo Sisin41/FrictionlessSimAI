@@ -14,6 +14,11 @@
       "tick": 2,
       "summary": "Apply today for Maria Santos's $2,500 retraining grant through the council program. The NMLS mortgage origination course costs approximately $300-600 depending on employer reimbursement status. The grant covers this and potentially additional SBA certification costs. Complete the application form, attach proof of enrollment in the NMLS-approved course, and submit before end of business. This is a no-downside action \u2014 the grant is available, Kevin is eligible, the application takes two hours, and it offsets real out-of-pocket training costs.",
       "emotional_state": "Focused and slightly accelerated. The calm from tick 1 is still the foundation, but the word-of-mouth about David's memo introduces a new variable: institutional timelines are now outside my direct control in a way they were not before. That is not alarming \u2014 it is information. The right response is compression, not panic. I am moving the closing shadow up, filing the grant today, and making sure David sees my progress before Sandra does. This is still methodical. It is methodical with a tighter clock."
+    },
+    {
+      "tick": 3,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -40,6 +45,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Apply today for Maria Santos's $2,500 retraining grant through the council program. The NMLS mortgage origination course costs approximately $300-600 depending on employer reimbursement status. The grant covers this and potentially additional SBA certification costs. Complete the application form, attach proof of enrollment in the NMLS-approved course, and submit before end of business. This is a no-downside action \u2014 the grant is available, Kevin is eligible, the application takes two hours, and it offsets real out-of-pocket training costs.. Savings dropped by $80. "
+    },
+    {
+      "tick": 3,
+      "action": "routine",
+      "savings_delta": -643,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings dropped by $643. "
     }
   ],
   "reflections": [],

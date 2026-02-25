@@ -14,6 +14,11 @@
       "tick": 2,
       "summary": "Show up to Maria Santos's public input session. Sit in the room. Listen to what she's actually proposing, what the $2,500 retraining grant covers, what the timeline for the council vote looks like, and whether there are any conditions on eligibility. Take notes on paper, not on my phone. Don't speak unless I learn something from speaking.",
       "emotional_state": "The dread is sharper now and I am not going to pretend it isn't. But sharp is better than diffuse \u2014 diffuse is what I had for the last six months when I kept telling myself the industry would adjust. What I feel right now is the specific, clarifying fear of a man who has counted the days and decided he cannot afford to wait for a better moment to start moving. I'm not spiraling. I went to the all-hands. I heard nothing that made me feel safe, which is the most useful thing Patricia could have told me without saying a word."
+    },
+    {
+      "tick": 3,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -40,6 +45,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Show up to Maria Santos's public input session. Sit in the room. Listen to what she's actually proposing, what the $2,500 retraining grant covers, what the timeline for the council vote looks like, and whether there are any conditions on eligibility. Take notes on paper, not on my phone. Don't speak unless I learn something from speaking.. Savings dropped by $19. "
+    },
+    {
+      "tick": 3,
+      "action": "routine",
+      "savings_delta": -582,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings dropped by $582. "
     }
   ],
   "reflections": [],

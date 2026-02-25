@@ -26,8 +26,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 10.0,
-      "threat_level": 0.17,
+      "runway_months": 9.0,
+      "threat_level": 0.25,
       "monthly_essentials": 3600,
       "health_cost_from_stress": 0
     },
@@ -76,7 +76,7 @@
       "availability_heuristic": 0.52,
       "social_proof_sensitivity": 0.39
     },
-    "sentiment": "Controlled and forward-facing. The grief \u2014 for the job, for the version of this career she thought she was building \u2014 was processed before this tick began. What's left is professional competence running alongside strategic self-interest, and she is no longer pretending those two things are in conflict. She is effective at her job because that effectiveness buys her time and leverage. She is building her exit because the exit is coming regardless of her feelings about it. These facts coexist without friction."
+    "sentiment": "neutral"
   },
   "psychological": {
     "stress_level": 0.29,
@@ -88,7 +88,7 @@
   "financial": {
     "monthly_income": 0,
     "monthly_expenses": 6611,
-    "savings": 65977,
+    "savings": 59366,
     "debt_total": 120444,
     "credit_score": 653
   },
@@ -121,5 +121,5 @@
   },
   "locality": "millfield",
   "archetype": "strategic-mover \u2014 executing on what she sees, not deliberating about it",
-  "tick_updated": 2
+  "tick_updated": 3
 }

@@ -34,7 +34,7 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 51.8,
+      "runway_months": 52.0,
       "threat_level": 0,
       "monthly_essentials": 1600,
       "health_cost_from_stress": 0
@@ -84,7 +84,7 @@
       "availability_heuristic": 0.32,
       "social_proof_sensitivity": 0.47
     },
-    "sentiment": "Quieter than last tick. The unsettled feeling has not gone away but it has stopped being uncomfortable \u2014 it has become the texture of paying attention, which I recognize. The curiosity is no longer tentative. I am not performing openness. I am open."
+    "sentiment": "neutral"
   },
   "psychological": {
     "stress_level": 0.27,
@@ -96,7 +96,7 @@
   "financial": {
     "monthly_income": 3200,
     "monthly_expenses": 2253,
-    "savings": 116619,
+    "savings": 117092,
     "debt_total": 49942,
     "credit_score": 776
   },
@@ -122,5 +122,5 @@
   },
   "locality": "millfield",
   "archetype": "cautious-adapter moving toward genuine curiosity",
-  "tick_updated": 2
+  "tick_updated": 3
 }

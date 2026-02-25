@@ -14,6 +14,11 @@
       "tick": 2,
       "summary": "Complete the car trade-down transaction this tick \u2014 not 'research,' not 'evaluate,' but execute. Walk into the dealership as a customer, not an employee-adjacent insider. Trade the current vehicle, take the equity, purchase a used vehicle outright using no more than $10,000 from savings \u2014 targeting something in the $8,000-10,000 range with low miles and low maintenance profile. Objective: eliminate the $649/month payment entirely. The net effect is an additional $649/month added to monthly margin, raising monthly surplus from approximately $589 to $1,238 \u2014 effectively doubling runway extension per month.",
       "emotional_state": "Controlled and forward-facing. The grief \u2014 for the job, for the version of this career she thought she was building \u2014 was processed before this tick began. What's left is professional competence running alongside strategic self-interest, and she is no longer pretending those two things are in conflict. She is effective at her job because that effectiveness buys her time and leverage. She is building her exit because the exit is coming regardless of her feelings about it. These facts coexist without friction."
+    },
+    {
+      "tick": 3,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -40,6 +45,14 @@
       "stress_delta": 0.0,
       "employment_changed": true,
       "narrative": "You Complete the car trade-down transaction this tick \u2014 not 'research,' not 'evaluate,' but execute. Walk into the dealership as a customer, not an employee-adjacent insider. Trade the current vehicle, take the equity, purchase a used vehicle outright using no more than $10,000 from savings \u2014 targeting something in the $8,000-10,000 range with low miles and low maintenance profile. Objective: eliminate the $649/month payment entirely. The net effect is an additional $649/month added to monthly margin, raising monthly surplus from approximately $589 to $1,238 \u2014 effectively doubling runway extension per month.. Savings dropped by $6,611. Employment status changed to unemployed. "
+    },
+    {
+      "tick": 3,
+      "action": "routine",
+      "savings_delta": -6611,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings dropped by $6,611. "
     }
   ],
   "reflections": [],

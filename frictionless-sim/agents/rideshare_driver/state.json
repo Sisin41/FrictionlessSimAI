@@ -30,8 +30,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 3.0,
-      "threat_level": 0.75,
+      "runway_months": 3.1,
+      "threat_level": 0.74,
       "monthly_essentials": 1750,
       "health_cost_from_stress": 0
     },
@@ -79,7 +79,7 @@
       "availability_heuristic": 0.31,
       "social_proof_sensitivity": 0.59
     },
-    "sentiment": "Resolved but not calm. The difference between tick 1 and tick 2 is that the fear has found a direction. Last month the fear was ambient \u2014 it was in the walls. This month it is pointing at specific things: the grant form, the permit exam date, Carlos's phone number. Robert is not optimistic. He is not telling himself this is going to be fine. He is telling himself that there are four actions in front of him and each one is something he can actually do, and that doing them is better than not doing them, and that is enough to move on. He is still not telling Marcus anything beyond that work has been busy. The weight of carrying that alone is real. But he is not ready to explain something he hasn't resolved yet. The car payment sits in the back of his mind every time he runs the numbers \u2014 $480 on an asset that serves a market that is expiring. He has not made a decision about it yet. That decision is coming. He knows it's coming. He is not ready for it this tick."
+    "sentiment": "neutral"
   },
   "psychological": {
     "stress_level": 0.29,
@@ -91,7 +91,7 @@
   "financial": {
     "monthly_income": 3500,
     "monthly_expenses": 2725,
-    "savings": 8161,
+    "savings": 8548,
     "debt_total": 18248,
     "credit_score": 784
   },
@@ -124,5 +124,5 @@
   },
   "locality": "millfield",
   "archetype": "transitioning \u2014 still driving, but the driving is now funding the exit, not the destination",
-  "tick_updated": 2
+  "tick_updated": 3
 }

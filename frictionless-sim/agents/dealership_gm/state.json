@@ -79,7 +79,7 @@
       "availability_heuristic": 0.55,
       "social_proof_sensitivity": 0.64
     },
-    "sentiment": "Visibly composed. Doing his job. The unease is present but contained \u2014 he's leaning into the floor work because motion feels like control. Privately: more unsettled than tick 1, because 'rumor' no longer applies. What he felt last tick as a maybe is now a when."
+    "sentiment": "neutral"
   },
   "psychological": {
     "stress_level": 0.2,
@@ -89,9 +89,9 @@
     "high_stress_ticks": 0
   },
   "financial": {
-    "monthly_income": 10230,
+    "monthly_income": 9105,
     "monthly_expenses": 8632,
-    "savings": 91167,
+    "savings": 91403,
     "debt_total": 161902,
     "credit_score": 710
   },
@@ -131,5 +131,5 @@
   },
   "locality": "millfield",
   "archetype": "stable \u2014 but performing stable more consciously than feeling it",
-  "tick_updated": 2
+  "tick_updated": 3
 }

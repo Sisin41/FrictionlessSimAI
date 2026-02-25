@@ -14,6 +14,11 @@
       "tick": 2,
       "summary": "Research and formally apply for Maria Santos's $2,500 retraining grant before the application window opens or fills. Contact the council office directly, find the eligibility criteria for service sector workers, and submit all required documentation this week. This is real money, not potential money.",
       "emotional_state": "The brightness from last tick is still there but it has a different quality now \u2014 less pure validation, more pressure behind it. Like the feeling when you realize you've been telling a good story about your life while quietly ignoring the actual numbers. Not panic. Not yet. But something that finally feels proportionate to a 1.3-month runway."
+    },
+    {
+      "tick": 3,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -40,6 +45,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Research and formally apply for Maria Santos's $2,500 retraining grant before the application window opens or fills. Contact the council office directly, find the eligibility criteria for service sector workers, and submit all required documentation this week. This is real money, not potential money.. Savings grew by $198. "
+    },
+    {
+      "tick": 3,
+      "action": "routine",
+      "savings_delta": 198,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings grew by $198. "
     }
   ],
   "reflections": [],

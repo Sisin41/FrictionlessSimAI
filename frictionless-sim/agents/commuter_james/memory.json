@@ -14,6 +14,11 @@
       "tick": 2,
       "summary": "Actively manage the Accord sale: respond to all inquiries within 2 hours, schedule in-person test drives for the two serious buyers this week, and be prepared to accept $18,800 \u2014 a $600 negotiation concession \u2014 if it closes the deal before end of week. Do not let the listing stall past day 21. Time is the real cost here, not the $600.",
       "emotional_state": "Focused and slightly impatient. The plan is working but the listing is in that uncomfortable middle period where you have interest but no signature. The transport bridge is fine \u2014 no regrets \u2014 but I will feel clean once the sale closes and the proceeds are in the account. The Maria statement and the two-people-sold trend item both feel like confirmation, not comfort: the window I correctly identified is real, and it is narrowing."
+    },
+    {
+      "tick": 3,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -40,6 +45,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Actively manage the Accord sale: respond to all inquiries within 2 hours, schedule in-person test drives for the two serious buyers this week, and be prepared to accept $18,800 \u2014 a $600 negotiation concession \u2014 if it closes the deal before end of week. Do not let the listing stall past day 21. Time is the real cost here, not the $600.. Savings grew by $1,096. "
+    },
+    {
+      "tick": 3,
+      "action": "routine",
+      "savings_delta": 1096,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings grew by $1,096. "
     }
   ],
   "reflections": [],

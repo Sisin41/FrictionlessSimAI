@@ -14,6 +14,11 @@
       "tick": 2,
       "summary": "Apply for Maria Santos's $5,000 small business stabilization grant. Fill out the paperwork this week. The qualification criteria are met. The money is not for spending \u2014 it is for extending runway if the 60% drop scenario materializes. A $5,000 cushion converts a 6.4-month runway into something closer to 7.5 months at 60% revenue loss. That is the difference between having time to adapt and not having time.",
       "emotional_state": "Purposeful and cautious. The fear has not gone away but it has found a shape \u2014 it is no longer ambient, it is directional. There is something that feels like relief in deciding to act rather than continuing to observe. She is not confident. She is willing. That is not the same thing, but it is what the moment calls for."
+    },
+    {
+      "tick": 3,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -40,6 +45,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Apply for Maria Santos's $5,000 small business stabilization grant. Fill out the paperwork this week. The qualification criteria are met. The money is not for spending \u2014 it is for extending runway if the 60% drop scenario materializes. A $5,000 cushion converts a 6.4-month runway into something closer to 7.5 months at 60% revenue loss. That is the difference between having time to adapt and not having time.. Savings grew by $116. "
+    },
+    {
+      "tick": 3,
+      "action": "routine",
+      "savings_delta": 116,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings grew by $116. "
     }
   ],
   "reflections": [],

@@ -31,8 +31,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 6.4,
-      "threat_level": 0.47,
+      "runway_months": 6.5,
+      "threat_level": 0.46,
       "monthly_essentials": 2000,
       "health_cost_from_stress": 0
     },
@@ -82,7 +82,7 @@
       "availability_heuristic": 0.68,
       "social_proof_sensitivity": 0.39
     },
-    "sentiment": "Grounded. There is something steadying about having a specific person ask me for a specific thing by a specific date. Maria asked me for the data in writing. That is not ambiguous. The temptation to over-prepare \u2014 to run the report through three more review passes, to wonder if the task force application is strong enough before I send it \u2014 is present and I am naming it so I can set it aside. The people who came in Tuesday are not ambiguous either. Harold, who drove taxis for eleven years and does not know how to make a resume. The woman who would not give her name but took the handout. They are why I move fast. Not for myself. For them."
+    "sentiment": "neutral"
   },
   "psychological": {
     "stress_level": 0.18,
@@ -94,7 +94,7 @@
   "financial": {
     "monthly_income": 4000,
     "monthly_expenses": 3276,
-    "savings": 21086,
+    "savings": 21448,
     "debt_total": 38907,
     "credit_score": 743
   },
@@ -120,5 +120,5 @@
   },
   "locality": "millfield",
   "archetype": "Bridge-builder operating under live load. The bridge is not theoretical anymore \u2014 Maria is on one end, Harold and the unnamed woman are on the other, and I am the span. My job this tick is not to design a better bridge. It is to let people cross.",
-  "tick_updated": 2
+  "tick_updated": 3
 }

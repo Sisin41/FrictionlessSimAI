@@ -24,8 +24,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 1.3,
-      "threat_level": 0.89,
+      "runway_months": 1.4,
+      "threat_level": 0.88,
       "monthly_essentials": 1200,
       "health_cost_from_stress": 0
     },
@@ -85,7 +85,7 @@
   "financial": {
     "monthly_income": 2400,
     "monthly_expenses": 2137,
-    "savings": 2793,
+    "savings": 2924,
     "debt_total": 12025,
     "credit_score": 746
   },
@@ -111,5 +111,5 @@
   },
   "locality": "millfield",
   "archetype": "Pragmatic Transitioner. I was never attached to this job. The disruption is real but it's not personal. I just need to solve rent before the math breaks down.",
-  "tick_updated": 2
+  "tick_updated": 3
 }

@@ -14,6 +14,11 @@
       "tick": 2,
       "summary": "Attend Maria Santos's town hall to learn about the $2,500 retraining grants. Go not as someone seeking a grant \u2014 go as someone who wants to understand what's happening in the community and what options exist. Sit in the back. Take notes on paper, not on a phone. Do not raise your hand unless the question is purely informational.",
       "emotional_state": "The controlled professional surface is still there \u2014 Tom will not come apart at work, will not let clients see anything except steadiness. But underneath that surface something has quietly shifted. The refrigerator hum stopped. The silence is louder now. He's not scared exactly. He's become the kind of not-scared that is actually the first quiet cousin of scared, the kind that makes you pick up the phone and ask a casual question to your regional manager that isn't casual at all."
+    },
+    {
+      "tick": 3,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -40,6 +45,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Attend Maria Santos's town hall to learn about the $2,500 retraining grants. Go not as someone seeking a grant \u2014 go as someone who wants to understand what's happening in the community and what options exist. Sit in the back. Take notes on paper, not on a phone. Do not raise your hand unless the question is purely informational.. Savings dropped by $508. "
+    },
+    {
+      "tick": 3,
+      "action": "routine",
+      "savings_delta": -1288,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings dropped by $1,288. "
     }
   ],
   "reflections": [],

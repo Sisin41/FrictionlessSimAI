@@ -14,6 +14,11 @@
       "tick": 2,
       "summary": "Request a private, off-calendar meeting with Angela Wright \u2014 not in her office, not at HQ. Invite her to lunch at a location off auto row. The agenda is not 'I know you're talking to an attorney.' The agenda is: I want her to tell me, in her own words, what she is seeing in the organization and what she thinks we should be doing. Give her the conversational opening to be honest about her own position without forcing her to disclose. Make clear that her role in a restructuring scenario \u2014 if there is one \u2014 is not to be eliminated, it is to be the architect of it. Offer to discuss formalizing her participation in the strategic planning process with a defined retention agreement: 90-day stay bonus of $12,000, contingent on her leading the workforce transition plan, whatever form that takes.",
       "emotional_state": "Deliberate. The alarm is still there but it has shifted from sharp to cold. I am not scared of what I might find out anymore \u2014 I am scared of finding out too late. The hardest part of this tick is not the money decisions. It is admitting to the people who work for me that I am modeling a smaller future, and asking them to help me build it."
+    },
+    {
+      "tick": 3,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -40,6 +45,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Request a private, off-calendar meeting with Angela Wright \u2014 not in her office, not at HQ. Invite her to lunch at a location off auto row. The agenda is not 'I know you're talking to an attorney.' The agenda is: I want her to tell me, in her own words, what she is seeing in the organization and what she thinks we should be doing. Give her the conversational opening to be honest about her own position without forcing her to disclose. Make clear that her role in a restructuring scenario \u2014 if there is one \u2014 is not to be eliminated, it is to be the architect of it. Offer to discuss formalizing her participation in the strategic planning process with a defined retention agreement: 90-day stay bonus of $12,000, contingent on her leading the workforce transition plan, whatever form that takes.. Savings grew by $126. "
+    },
+    {
+      "tick": 3,
+      "action": "routine",
+      "savings_delta": -1588,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings dropped by $1,588. "
     }
   ],
   "reflections": [],

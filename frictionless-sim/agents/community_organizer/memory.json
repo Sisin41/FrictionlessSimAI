@@ -14,6 +14,11 @@
       "tick": 2,
       "summary": "Compile and deliver anonymized intake data report to Maria Santos as requested. Report covers Community Connection Night attendees (Tuesdays/Thursdays): aggregate demographics, employment status categories, named stressors cited, services requested, and referral needs. Framed explicitly as evidence for the council vote. Delivered in writing within 48 hours \u2014 not at the end of the week, not after one more review pass. Within 48 hours.",
       "emotional_state": "Grounded. There is something steadying about having a specific person ask me for a specific thing by a specific date. Maria asked me for the data in writing. That is not ambiguous. The temptation to over-prepare \u2014 to run the report through three more review passes, to wonder if the task force application is strong enough before I send it \u2014 is present and I am naming it so I can set it aside. The people who came in Tuesday are not ambiguous either. Harold, who drove taxis for eleven years and does not know how to make a resume. The woman who would not give her name but took the handout. They are why I move fast. Not for myself. For them."
+    },
+    {
+      "tick": 3,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -40,6 +45,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Compile and deliver anonymized intake data report to Maria Santos as requested. Report covers Community Connection Night attendees (Tuesdays/Thursdays): aggregate demographics, employment status categories, named stressors cited, services requested, and referral needs. Framed explicitly as evidence for the council vote. Delivered in writing within 48 hours \u2014 not at the end of the week, not after one more review pass. Within 48 hours.. Savings grew by $362. "
+    },
+    {
+      "tick": 3,
+      "action": "routine",
+      "savings_delta": 362,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings grew by $362. "
     }
   ],
   "reflections": [],

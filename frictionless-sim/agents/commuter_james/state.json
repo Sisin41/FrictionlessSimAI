@@ -25,7 +25,7 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 16.7,
+      "runway_months": 16.9,
       "threat_level": 0,
       "monthly_essentials": 4250,
       "health_cost_from_stress": 0
@@ -77,7 +77,7 @@
       "availability_heuristic": 0.58,
       "social_proof_sensitivity": 0.3
     },
-    "sentiment": "Focused and slightly impatient. The plan is working but the listing is in that uncomfortable middle period where you have interest but no signature. The transport bridge is fine \u2014 no regrets \u2014 but I will feel clean once the sale closes and the proceeds are in the account. The Maria statement and the two-people-sold trend item both feel like confirmation, not comfort: the window I correctly identified is real, and it is narrowing."
+    "sentiment": "neutral"
   },
   "psychological": {
     "stress_level": 0.2,
@@ -89,7 +89,7 @@
   "financial": {
     "monthly_income": 8500,
     "monthly_expenses": 6307,
-    "savings": 105288,
+    "savings": 106384,
     "debt_total": 83721,
     "credit_score": 738
   },
@@ -122,5 +122,5 @@
   },
   "locality": "millfield",
   "archetype": "early-adopter | the spreadsheet was right and I am watching it play out in real time \u2014 the only remaining variable is whether I close the sale before the information fully diffuses",
-  "tick_updated": 2
+  "tick_updated": 3
 }

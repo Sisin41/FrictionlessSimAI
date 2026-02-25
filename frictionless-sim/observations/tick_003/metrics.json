@@ -1,0 +1,20 @@
+{
+  "tick": 3,
+  "employment_rate": 0.93,
+  "average_stress": 0.199,
+  "average_savings": 59150,
+  "archetype_distribution": {
+    "stable": 30
+  },
+  "emotion_distribution": {
+    "neutral": 30
+  },
+  "car_ownership_rate": 0.83,
+  "robotaxi_adoption": 0.03,
+  "spending_index": 73,
+  "gini": 0.294,
+  "layoffs": 0,
+  "new_businesses": 0,
+  "protests": 0,
+  "bulletin_events": 0
+}

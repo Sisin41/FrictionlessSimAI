@@ -30,8 +30,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 6.5,
-      "threat_level": 0.46,
+      "runway_months": 6.6,
+      "threat_level": 0.45,
       "monthly_essentials": 2900,
       "health_cost_from_stress": 0
     },
@@ -80,7 +80,7 @@
       "availability_heuristic": 0.5,
       "social_proof_sensitivity": 0.41
     },
-    "sentiment": "Deliberate. Slower than afraid. The grief is still there \u2014 it is sitting in the chest the way a pulled muscle reminds you it exists every time you breathe. But there is something underneath it now that is not quite hope and is not quite resolve, but is in the neighborhood. The tab is real. The reading is real. Elena deserves to know. Asking Patricia is the kind of thing a man with 23 years and a mortgage does instead of waiting for a memo."
+    "sentiment": "neutral"
   },
   "psychological": {
     "stress_level": 0.26,
@@ -92,7 +92,7 @@
   "financial": {
     "monthly_income": 5800,
     "monthly_expenses": 5414,
-    "savings": 35379,
+    "savings": 35572,
     "debt_total": 89330,
     "credit_score": 767
   },
@@ -132,5 +132,5 @@
   },
   "locality": "millfield",
   "archetype": "adapter",
-  "tick_updated": 2
+  "tick_updated": 3
 }

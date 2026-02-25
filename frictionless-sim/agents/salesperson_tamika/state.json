@@ -75,7 +75,7 @@
       "availability_heuristic": 0.66,
       "social_proof_sensitivity": 0.34
     },
-    "sentiment": "Operational. The word 'focused' was right last tick but this tick it's sharper \u2014 I'm not watching the situation anymore, I'm making moves inside it. Angela's attorney appointment feels like a bell going off that I can't unhear. The timeline at the dealership isn't 'two months until RoboRide.' It's 'whenever Rick and the owners decide to get ahead of the revenue drop.' I don't control that clock. I control the one I'm building. The grant application is the first time I've asked for help from a system instead of just working harder \u2014 that's different, and it feels slightly unfamiliar, but it's the correct move."
+    "sentiment": "neutral"
   },
   "psychological": {
     "stress_level": 0.21,
@@ -85,9 +85,9 @@
     "high_stress_ticks": 0
   },
   "financial": {
-    "monthly_income": 3906,
+    "monthly_income": 3476,
     "monthly_expenses": 3177,
-    "savings": 9786,
+    "savings": 9935,
     "debt_total": 69228,
     "credit_score": 765
   },
@@ -120,5 +120,5 @@
   },
   "locality": "millfield",
   "archetype": "exiter \u2014 the adapter framing was true last tick when I was building the parallel track; this tick I'm orienting toward the door. Stay employed, stay solvent, build the client base. The exit has a shape now.",
-  "tick_updated": 2
+  "tick_updated": 3
 }

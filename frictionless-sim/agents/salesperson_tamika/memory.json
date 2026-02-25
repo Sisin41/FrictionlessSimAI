@@ -14,6 +14,11 @@
       "tick": 2,
       "summary": "Cold outreach to 8 specific local small businesses via direct message and email \u2014 not a blast, individual messages referencing something specific about their current social media presence. Targets drawn from the customer database I carry in my head from the dealership: two restaurants, one nail salon, one HVAC contractor, one insurance agent, two boutique retail shops, one personal trainer. Message structure: one observation about their current posts (specific, not flattering), one question, one sentence about what I do. No deck, no portfolio link yet \u2014 that comes after they reply. Goal: 2 discovery calls booked this tick.",
       "emotional_state": "Operational. The word 'focused' was right last tick but this tick it's sharper \u2014 I'm not watching the situation anymore, I'm making moves inside it. Angela's attorney appointment feels like a bell going off that I can't unhear. The timeline at the dealership isn't 'two months until RoboRide.' It's 'whenever Rick and the owners decide to get ahead of the revenue drop.' I don't control that clock. I control the one I'm building. The grant application is the first time I've asked for help from a system instead of just working harder \u2014 that's different, and it feels slightly unfamiliar, but it's the correct move."
+    },
+    {
+      "tick": 3,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -40,6 +45,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Cold outreach to 8 specific local small businesses via direct message and email \u2014 not a blast, individual messages referencing something specific about their current social media presence. Targets drawn from the customer database I carry in my head from the dealership: two restaurants, one nail salon, one HVAC contractor, one insurance agent, two boutique retail shops, one personal trainer. Message structure: one observation about their current posts (specific, not flattering), one question, one sentence about what I do. No deck, no portfolio link yet \u2014 that comes after they reply. Goal: 2 discovery calls booked this tick.. Savings grew by $364. "
+    },
+    {
+      "tick": 3,
+      "action": "routine",
+      "savings_delta": 149,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings grew by $149. "
     }
   ],
   "reflections": [],

@@ -25,8 +25,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 4.8,
-      "threat_level": 0.6,
+      "runway_months": 4.9,
+      "threat_level": 0.59,
       "monthly_essentials": 1900,
       "health_cost_from_stress": 0
     },
@@ -74,7 +74,7 @@
       "availability_heuristic": 0.68,
       "social_proof_sensitivity": 0.42
     },
-    "sentiment": "Still basically stable, but the ambient unease has sharpened into something more directional. The Carlos observation gave her anxiety a target instead of just a shape. She's not scared \u2014 she's alert. There's a difference."
+    "sentiment": "neutral"
   },
   "psychological": {
     "stress_level": 0.24,
@@ -86,7 +86,7 @@
   "financial": {
     "monthly_income": 3800,
     "monthly_expenses": 3301,
-    "savings": 15947,
+    "savings": 16196,
     "debt_total": 25537,
     "credit_score": 747
   },
@@ -119,5 +119,5 @@
   },
   "locality": "millfield",
   "archetype": "watcher-to-adapter (the transition is starting \u2014 one soft probe, one research session, no commitments yet)",
-  "tick_updated": 2
+  "tick_updated": 3
 }

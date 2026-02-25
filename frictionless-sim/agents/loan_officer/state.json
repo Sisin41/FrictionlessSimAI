@@ -31,8 +31,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 7.5,
-      "threat_level": 0.38,
+      "runway_months": 7.3,
+      "threat_level": 0.39,
       "monthly_essentials": 2750,
       "health_cost_from_stress": 0
     },
@@ -82,7 +82,7 @@
       "availability_heuristic": 0.54,
       "social_proof_sensitivity": 0.58
     },
-    "sentiment": "Focused and slightly accelerated. The calm from tick 1 is still the foundation, but the word-of-mouth about David's memo introduces a new variable: institutional timelines are now outside my direct control in a way they were not before. That is not alarming \u2014 it is information. The right response is compression, not panic. I am moving the closing shadow up, filing the grant today, and making sure David sees my progress before Sandra does. This is still methodical. It is methodical with a tighter clock."
+    "sentiment": "neutral"
   },
   "psychological": {
     "stress_level": 0.11,
@@ -92,9 +92,9 @@
     "high_stress_ticks": 0
   },
   "financial": {
-    "monthly_income": 5115,
+    "monthly_income": 4552,
     "monthly_expenses": 5195,
-    "savings": 38724,
+    "savings": 38081,
     "debt_total": 77544,
     "credit_score": 682
   },
@@ -134,5 +134,5 @@
   },
   "locality": "millfield",
   "archetype": "methodical-adapter, compression phase \u2014 the plan was right, the pace now needs to match the institutional timeline, not just my personal one",
-  "tick_updated": 2
+  "tick_updated": 3
 }

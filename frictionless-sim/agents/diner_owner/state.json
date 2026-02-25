@@ -84,7 +84,7 @@
       "availability_heuristic": 0.55,
       "social_proof_sensitivity": 0.47
     },
-    "sentiment": "Purposeful and cautious. The fear has not gone away but it has found a shape \u2014 it is no longer ambient, it is directional. There is something that feels like relief in deciding to act rather than continuing to observe. She is not confident. She is willing. That is not the same thing, but it is what the moment calls for."
+    "sentiment": "neutral"
   },
   "psychological": {
     "stress_level": 0.2,
@@ -96,7 +96,7 @@
   "financial": {
     "monthly_income": 4500,
     "monthly_expenses": 4268,
-    "savings": 27348,
+    "savings": 27464,
     "debt_total": 19090,
     "credit_score": 744
   },
@@ -129,5 +129,5 @@
   },
   "locality": "millfield",
   "archetype": "adapter \u2014 not from comfort, from necessity. The anchor identity is still true but anchors don't just hold, they hold while you work. The work has started.",
-  "tick_updated": 2
+  "tick_updated": 3
 }

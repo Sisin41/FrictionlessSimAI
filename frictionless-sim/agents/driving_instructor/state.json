@@ -35,8 +35,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 8.2,
-      "threat_level": 0.32,
+      "runway_months": 7.2,
+      "threat_level": 0.4,
       "monthly_essentials": 2000,
       "health_cost_from_stress": 0
     },
@@ -96,7 +96,7 @@
   "financial": {
     "monthly_income": 0,
     "monthly_expenses": 3176,
-    "savings": 26060,
+    "savings": 22884,
     "debt_total": 17550,
     "credit_score": 593
   },
@@ -129,5 +129,5 @@
   },
   "locality": "millfield",
   "archetype": "I have been a driving instructor. I am starting to suspect \u2014 and I resist this, I want to be honest that I resist this \u2014 that what I actually am is a teacher of scared people who need to believe they can do something hard. That is a different job description. I don't know yet if it's one I can sell. But it's the first true thing I've written about myself in a long time.",
-  "tick_updated": 2
+  "tick_updated": 3
 }
