@@ -1,0 +1,46 @@
+{
+  "tick": 5,
+  "agent_id": "bank_manager",
+  "agent_name": "David Chen",
+  "response": {
+    "internal_assessment": "Optimizing L2 PARTICIPATE. Role security sits at 0.36 — the lowest number in my profile and the one that keeps me up at night. L0 and L1 are fine: 25 months runway, $171K buffer. But L2 is where the threat is real and arriving fast. Lending volume index is 82. I can see it in the queue — fewer applications, lower quality, two auto sector employers on the bulletin showing layoffs. The delinquency signals are just starting. Every bank I've ever worked at has one predictable response to a shrinking revenue line: cut headcount, starting with branch managers who look like they're managing a product in structural decline. I cannot let that narrative attach to me. I offered Sandra a branch-level response plan in tick 2. I have not written it. That gap needs to close this month — not as a political document, but as a real operational plan: portfolio stress protocols, a non-auto lending activation roadmap using my commercial lending coursework, and a frank delinquency triage framework. I also have Maria Santos' task force seat, which I have not used aggressively enough. That seat is L4 SIGNAL but it feeds back into L2 — being visibly useful in the community conversation about automation buffers my position with both the bank's regional leadership and local institutional actors. Kevin O'Brien accepting my NMLS mortgage training referral is a positive signal — I need to build on that. He becomes a small-business lending resource too if I can pull him through the training track with me. That starts becoming a diversified branch, not a mono-product shop running off a cliff.",
+    "chosen_actions": [
+      {
+        "type": "COMMITMENT",
+        "description": "Draft and submit to Sandra Okafor the branch-level portfolio stress response plan I offered in tick 2. The document covers three components: (1) a delinquency triage protocol for existing auto loan accounts — tiered by employment sector exposure, flagging accounts in auto manufacturing, dealership, and auto-adjacent services for enhanced monitoring and proactive outreach before they miss a payment; (2) a non-auto lending activation roadmap for the branch, targeting SBA-adjacent small business loans, home equity products, and personal lending — product lines I now have coursework grounding in after five months of the commercial lending module; (3) a 12-month volume replacement projection showing how the branch can offset 30% of auto loan origination decline through product diversification. Frame it as a branch evolution plan, not a crisis document. Send it with a direct note: I am ready to present this in person or on a call, and I am requesting authority to begin activating the non-auto product lines within my existing underwriting mandate.",
+        "target_agent": null,
+        "resources_involved": "Professional time — approximately one full day to draft. No direct financial cost. Uses the commercial lending training investment made since tick 0. Outputs a formal internal document that establishes David as the architect of the branch's pivot rather than a manager caught flat-footed by it.",
+        "reasoning": "This is the highest-leverage L2 action available right now. I have been signaling upward for five months. Sandra has not responded with direction, which means she is either watching to see who leads or is overwhelmed at the regional level. If I wait for her to tell me what to do, I become reactive and replaceable. If I hand her a plan, I become the solution. My commercial lending coursework, now at 20% completion, gives me just enough ground to sketch a credible non-auto roadmap without overreaching. The delinquency triage piece is pure risk management — something no one should be able to criticize. This document also gives me a defensible artifact if the bank ever reviews how branch managers responded to the disruption signal."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Attend and contribute substantively at this month's session of Maria Santos' economic task force. Present a brief data point from the branch's own lending data: auto loan application volume is down 18% over the prior 90 days and delinquency early indicators are rising in auto-sector-adjacent employment cohorts. Frame it as a ground-level signal the task force should factor into any relief program design — specifically, that the people most at risk of missing a payment are not already delinquent, they are the employed-but-at-risk households in auto-adjacent jobs, and any policy that waits for visible financial distress will be too late. Offer to share anonymized portfolio data with the task force if Maria can establish a proper data-sharing framework. Do not offer to share anything without a formal framework — that would be a compliance problem.",
+        "target_agent": "council_member",
+        "resources_involved": "Two to three hours of professional time. No financial cost. The data shared is aggregated and anonymized — no individual accounts. The offer to formalize data sharing creates a future commitment but not an immediate one.",
+        "reasoning": "My task force seat has been passive. The context prompt says I have been 'quietly observing' — that is correct but it is starting to look like I have nothing to contribute. Bringing actual branch-level data to the table changes my role from observer to primary source. Maria Santos gains credibility with the council by citing real lending data. I gain visibility as the person who surfaced the early warning. This also backstops my L2 position: if the bank's regional leadership ever asks whether the branch was engaged with the community disruption response, the answer becomes yes, documented, with data. Loss aversion applies here — the cost of continued silence is higher than the small exposure of sharing a data point in a public policy forum."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Continue the commercial and small business lending coursework, with increased focus this month. Push through the SBA loan fundamentals module — the section most directly applicable to the non-auto product roadmap I am proposing to Sandra. Target 30% course completion by end of this tick, up from 20%. Two to three hours per week, same self-paced format through the bank's professional development benefit.",
+        "target_agent": null,
+        "resources_involved": "Time only. No additional financial cost. Uses existing bank professional development benefit already activated at tick 0.",
+        "reasoning": "The plan I am sending Sandra is only credible if I can answer questions about the non-auto products when she calls. Reaching 30% completion gives me enough grounding in SBA fundamentals to speak to the small business lending component of the pivot proposal without bluffing. This is also the long-game version of L2 stabilization — every point of skill relevance I add makes me harder to cut."
+      }
+    ],
+    "emotional_state": "anxious",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "I have been careful and quiet for five months and the data is now telling me that careful and quiet is what gets you managed out — I need to be the person who wrote the plan, not the person who saw it coming and did nothing."
+  },
+  "economic_effects": {
+    "income_change": 0,
+    "savings_change": 0,
+    "spending_change": 0,
+    "employment_effect": "none",
+    "layoff_count": 0,
+    "hire_count": 0,
+    "new_business": false,
+    "business_closure": false,
+    "protest": false,
+    "policy_change": false
+  }
+}

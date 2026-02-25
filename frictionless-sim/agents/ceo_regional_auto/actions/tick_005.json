@@ -1,0 +1,46 @@
+{
+  "tick": 5,
+  "agent_id": "ceo_regional_auto",
+  "agent_name": "Patricia Hawkins",
+  "response": {
+    "internal_assessment": "I am optimizing at L2 PARTICIPATE. The layoffs happened — I did it, I made the call — and now the organization is watching to see if I know what I am doing or if I am just reacting. The vulnerability map is in my hands. Angela has the intelligence. The question is whether I move from intelligence to action before the situation moves for me. Rick Tanner is sitting on 30 days of floor data he has not brought to me yet. That is not how this organization runs. I need that data directly, not filtered. And Maria Santos is standing up a formal task force — if I am not in that room, auto row gets defined by people who have never sold a car in their life. My role security is still 0.76 but it will not stay there if I lose the information advantage inside my own company. I have 26 months of runway and I built this from one lot. I am not going anywhere. But I am not going to let fear make me passive either.",
+    "chosen_actions": [
+      {
+        "type": "COMMITMENT",
+        "description": "Call Rick Tanner into a direct executive meeting — not a phone call, a sit-down in my office — and require him to present the 30-day sales and service data he has been quietly compiling. Make clear that information flow in this organization runs through me, not around me. Review unit volume, margin trends, and service lane health together. If the numbers are as bad as I suspect, begin drafting a formal Q2 operational plan with Rick that addresses the floor's reduced throughput honestly rather than hoping it recovers.",
+        "target_agent": "dealership_gm",
+        "resources_involved": "Executive time; internal DMS (dealership management system) data access; potential Q2 restructuring of floor staffing at Millfield Auto Mall location",
+        "reasoning": "Rick has been acting like he is protecting me from bad news. I do not need protection. I need accurate data. Every month I do not have the real picture I am making decisions on assumptions. My loss aversion tells me to avoid knowing — but I have learned from 2008 that finding out late is worse than finding out now. The vulnerability map was step one. This is step two: move from org-level intelligence to location-level operational reality."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Contact Maria Santos directly — professional, measured, not defensive — and formally request inclusion in the Economic Transition Task Force she is convening. Frame Regional Auto Group not as a victim of disruption but as a major local employer that has already begun structured workforce transition planning. Offer to bring Angela Wright's vulnerability map framework as a contributed resource to the task force's discussion of workforce categories and retraining eligibility. Signal that auto industry employers want a seat at the policy table, not just a form letter after decisions are made.",
+        "target_agent": "council_member",
+        "resources_involved": "My time and professional credibility; Angela Wright's vulnerability map framework (as a contribution, not a disclosure of internal personnel data); Regional Auto Group's standing as Millfield's largest private employer in the auto sector",
+        "reasoning": "Maria is convening something that will shape policy affecting my business and my employees. If I stay outside that process I get whatever she and the task force decide. If I engage, I shape the conversation. My trust with Maria is 0.52 — enough for a professional relationship, not enough to assume goodwill. I need to show up as a stakeholder who has done the work, not as someone showing up to complain. This is also a L4 SIGNAL move: it positions me as part of the solution in a moment when my industry is being framed as the problem."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Begin privately processing the emotional weight of the layoffs I made this month. These were people — some of them longtime employees, possibly people my father knew when he ran the original lot. I need to sit with what I did, not just manage the narrative around it. Write a private note to myself about each person laid off: what their role was, what they contributed, and what I could realistically do to help them — whether that is a strong reference, outplacement support through Angela's transition program, or a direct call to Howard Liu or other employers in the network who might have need.",
+        "target_agent": null,
+        "resources_involved": "Personal time; my professional network as a reference resource; emotional processing — acknowledging grief without letting it become paralysis",
+        "reasoning": "My stress is listed at 0.15 which is low, but that number does not account for what happened this month. I laid off people. My biases want me to rationalize it and move on — normalcy bias, status quo bias — but the grief is real and if I do not process it I will either make the next set of decisions too coldly or too emotionally. My meaning source is faith and my community ties are strong. I need to let those do their work, not just push through on management instinct alone."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "builder",
+    "inner_monologue": "I built this from one lot and I am not going to lose it because I was too proud to look at the real numbers or too passive to earn a seat at the table where the future of this town gets decided."
+  },
+  "economic_effects": {
+    "income_change": 0,
+    "savings_change": -1200,
+    "spending_change": 0,
+    "employment_effect": "none",
+    "layoff_count": 0,
+    "hire_count": 0,
+    "new_business": false,
+    "business_closure": false,
+    "protest": false,
+    "policy_change": false
+  }
+}
