@@ -1,0 +1,39 @@
+{
+  "agent_id": "mechanic_carlos",
+  "tick": 6,
+  "tickpad": "006",
+  "action_type": "compound",
+  "primary_action": {
+    "type": "retraining_continuation",
+    "description": "Continue EVT Level 2 coursework — month three of ten. This month covers DC fast charging infrastructure, thermal management systems, and regenerative braking diagnostics. I am not skipping a session. The auto sector revenue index is at 79. Unemployment is rising. The robotaxis are multiplying. Every class hour I put in now is a hedge against everything I see happening outside the shop window.",
+    "target": "self",
+    "cost": 0,
+    "expected_outcome": "Training progress advances to 30%. High-voltage safety module completed. Battery diagnostics module begun."
+  },
+  "secondary_action": {
+    "type": "social_response",
+    "description": "When Miguel Hernandez reaches out, I take the call. He is younger, he is navigating the same disruption from a different angle — car wash work, automotive-adjacent, trying to figure out where he fits. I do not give him a speech. I tell him what I actually did: I mapped my existing certifications, I found the gap, I enrolled. I tell him about the EVT Level 2 program — cost, schedule, prerequisites. I tell him Patricia approved the shop's contribution. I tell him what the work feels like after a 10-hour day. I do not pretend it is easy. But I also do not pretend the alternative is better.",
+    "target": "car_wash_worker",
+    "cost": 0,
+    "expected_outcome": "Miguel gets concrete, honest information from someone one step ahead of him. Trust between us increases. He may act on it or not — that is his choice."
+  },
+  "financial": {
+    "spending_change": 0,
+    "savings_delta_expected": 193,
+    "transaction_initiated": false
+  },
+  "emotional_state": "Tired but clear. The sector data is bad and I know it. But I am not waiting for it to get worse before I act — I already acted. The training is the action. Every day I show up to class is a day I am not just sitting in fear. I still do not know if this works. But I know that doing nothing was not going to work either.",
+  "internal_reasoning": "The auto sector is contracting. Robotaxi adoption is visible — 7% of people using them regularly is not a rumor anymore, it is a pattern. My shop is still open and I am still employed, but the revenue index at 79 is a warning that my 0.77 role security is being tested. The EV certification path was the right call. Miguel reaching out is a chance to pass something useful forward. I have no financial leverage to offer him, but I have information and I have honesty. That costs me nothing and it might matter to him. Denise Williams is also circling — I will wait and see what she actually wants before committing any energy there.",
+  "deferred_actions": [
+    {
+      "type": "monitor",
+      "description": "Watch what Denise Williams actually follows up with. She manages a parking garage — her world is changing too. I am not sure what she wants from me. I will not initiate.",
+      "trigger": "direct_contact_from_denise_williams"
+    },
+    {
+      "type": "monitor",
+      "description": "Watch Maria Santos's regulatory push on RoboRide compliance. If the town council puts real friction on autonomous vehicles, that buys time. I am not counting on it, but it matters.",
+      "trigger": "council_decision_on_roboride"
+    }
+  ]
+}

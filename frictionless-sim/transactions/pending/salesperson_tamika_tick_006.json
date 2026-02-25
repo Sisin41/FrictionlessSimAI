@@ -1,0 +1,15 @@
+{
+  "tick": 6,
+  "from_agent": "salesperson_tamika",
+  "to_agent": "external_freelance_client",
+  "transaction_type": "SERVICE_AGREEMENT",
+  "description": "First paying freelance social media retainer — one-page agreement sent to HVAC contractor (or restaurant if HVAC declines). Terms: $350/month, three-month minimum, two social posts per week plus one short-form video per month.",
+  "amount": 350,
+  "recurrence": "monthly",
+  "status": "pending_client_acceptance",
+  "conditions": "Client signs and returns agreement by end of tick 6. If HVAC contractor declines, agreement pivots to strongest restaurant lead.",
+  "income_effect_if_accepted": "+$350/month beginning tick 7",
+  "resources_staked": "6 hours labor, one-page agreement document, freelance portfolio link",
+  "initiated_by": "salesperson_tamika",
+  "relationship_context": "External small business, warm lead from tick 2 cold outreach and tick 4 follow-up. No prior financial relationship."
+}

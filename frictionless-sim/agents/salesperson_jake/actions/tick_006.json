@@ -1,0 +1,32 @@
+{
+  "tick": 6,
+  "agent_id": "salesperson_jake",
+  "action_type": "multi_action",
+  "primary_action": {
+    "type": "direct_meeting_request",
+    "target_agent": "dealership_gm",
+    "description": "Request the one-on-one with Rick Tanner I've been planning. I walk in with paper — my last 90 days of personal close data, my current pipeline broken down by price tier, and a short read on which inventory segments still have real buyer interest. I do not come in to complain or ask for protection. I come in as a salesperson who knows his numbers and wants Rick to see that I know my numbers. I make the case for my own value before his consolidation readiness assessment locks in a category for me. At the end, I ask one direct question, framed casually: 'Rick, the stay bonus Patricia mentioned at the all-hands — does that apply to floor sales staff? I want to plan accordingly.'",
+    "emotional_state": "Controlled urgency. I know the meeting matters more than any single pitch right now. Rick's note cleared internal friction on the strategy — he's not going to undercut me. That means the path forward runs through him. I am not going in hat in hand. I'm going in with receipts.",
+    "tactical_logic": "Rick is building an asset map, not a layoff list. His words, via word of mouth. That is the framing I want to reinforce — I am a transferable asset. My close rate in the under-$22K tier, my 90-day pipeline data, my read on buyer behavior in a contracting market. These are things a GM building a transition plan needs. I am making it easy for him to put me in the right column."
+  },
+  "secondary_action": {
+    "type": "lead_pipeline_rebuild",
+    "description": "After the Rick meeting, pull the CRM and build a fresh shortlist of three to five leads who: (1) were pre-qualified in the last 120 days, (2) looked at inventory under $22K, (3) did not close but did not say a hard no. The Civic lead is spent. I need the next names. For each one I write a two-line note on what their stated hesitation was and what has changed since — rates, lot positioning, the 48-hour hold offer. I do not call any of them today. I prep the list so I can work it methodically starting tomorrow.",
+    "emotional_state": "Methodical. The bleed is real — $1,812 gone last tick on top of the prior two months. I cannot hustle my way out of a structural demand problem but I can make sure I am working the best available targets in the right order. Preparation is the only thing I can control right now."
+  },
+  "financial_context": {
+    "note": "Savings burn is accelerating. Tick 3: -$582. Tick 4: -$1,083. Tick 5: -$1,812. If the trend continues I have roughly six ticks of runway, possibly fewer. The stay bonus, if it applies to floor staff, would be a meaningful stabilizer. That confirmation is worth more than another outreach call right now.",
+    "spending_discipline": "No discretionary spending this tick. Hold the line."
+  },
+  "communication_sent": {
+    "to": "dealership_gm",
+    "channel": "in_person_request",
+    "message_summary": "Jake stops by Rick's office end of day and asks for 20 minutes this week. 'I've got 90-day close data and a pipeline read I want to walk you through before the month closes. And there's one question I want to ask you directly.'"
+  },
+  "stay_bonus_inquiry": {
+    "status": "pending_confirmation",
+    "source_of_awareness": "Patricia's all-hands mention, Angela's word-of-mouth activity suggests stay bonus terms are being formalized",
+    "jake_knows": "Angela said terms were coming in writing. Nothing has arrived. I am not going to wait for the document — I am going to ask Rick directly while I have him in a room."
+  },
+  "summary": "Get in front of Rick Tanner with data before his asset map is finalized. Ask about the stay bonus directly. Rebuild the lead pipeline in the background. Hold spending. The meeting is the move this tick."
+}

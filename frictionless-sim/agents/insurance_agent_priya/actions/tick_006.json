@@ -1,0 +1,21 @@
+{
+  "agent_id": "insurance_agent_priya",
+  "tick": 6,
+  "action_type": "multi_step",
+  "primary_action": "network_outreach_and_job_market_scan",
+  "description": "Execute two actions this tick. First: send a carefully framed peer-to-peer email to David Chen at First Community Bank. Not a job inquiry. Not a request for help. A professional introduction from one risk analyst to another, noting that my work in insurance — tracking policy cancellation patterns, car ownership decline rates, and the shifting liability structures from personal auto to corporate fleet — gives me data that complements what he has been feeding into Maria Santos's task force. I suggest a 30-minute call to compare notes. I frame it as a stakeholder-to-stakeholder conversation about the transition, not as Priya-looking-for-a-lifeline. Second: conduct a quiet, no-commitment job market scan. Not applying. Not updating my LinkedIn headline yet. Just opening tabs: what do data analyst roles at insurance carriers and insurtech firms look like right now? What skills are they asking for beyond what I already have? What is the salary range relative to my current $4,000/month? I am not panicking. I am pricing the exit before I need it.",
+  "reasoning": "Linda confirmed what I already knew: the personal auto book is structurally terminal and her pivot memo to corporate has gone unanswered. She asked about my own timeline — that was not a casual question. That was a manager who respects me enough to tell me the truth without being able to say it directly. My savings are eroding. I finished Module 3 last tick and I have a real output to point to. The David Chen outreach is the smartest move available to me right now: it costs nothing, it builds a relationship in a sector adjacent to where I want to go, and it positions me as a thoughtful peer rather than a displaced worker. The job market scan is private due diligence. I owe it to myself to know what the landscape looks like before I am forced to move through it at speed.",
+  "target_agent": "bank_manager",
+  "communication": {
+    "to": "David Chen, First Community Bank",
+    "subject": "Insurance sector data on auto disruption — worth comparing notes?",
+    "body": "Hi David, my name is Priya Sharma — I'm an auto insurance agent with AutoShield here in Millfield. I've been following the task force work you've been contributing to with Councilmember Santos's office and it struck me that we may be looking at the same disruption from adjacent angles. On my end, I've been tracking the insurance-sector indicators: personal auto policy cancellations accelerating since RoboRide launched, a measurable drop in car ownership in our coverage area, and the structural shift in liability exposure from personal policies toward corporate fleet coverage. I suspect some of that data would complement what you're seeing on the lending side. I'm not reaching out with an agenda — no pitch, no ask. I'm just a risk professional who thinks a 30-minute call between two people who are both watching this transition from the inside might produce something useful for both of us. If that sounds worth your time, I'm available most mornings this week. Either way, I appreciate the work you've been doing to keep credit channels open for people in transition. It matters.",
+    "tone": "peer-to-peer, grounded, low-pressure"
+  },
+  "secondary_action": "job_market_scan",
+  "secondary_description": "Private research: spend one evening reviewing job postings for data analyst, risk analyst, and insurtech analyst roles. Note required skills, salary bands, and geography. No applications. No visible signals. Just information.",
+  "sql_course_update": "Module 3 complete. Will begin Module 4 this tick — window functions and subqueries. One session minimum. The goal is to reach Module 5 by end of next tick.",
+  "emotional_state": "clear-eyed and deliberate. The urgency is real but not panicked. Linda told me the truth. Now I act like someone who heard it.",
+  "financial_note": "Savings approximately $14,410. Monthly burn exceeds income by ~$1,700. Runway estimate: 8-9 months. Still within safe window but the slope is visible. No discretionary cuts yet — the course and the network outreach are the highest-ROI uses of time and energy right now.",
+  "savings_delta_estimate": -1700
+}

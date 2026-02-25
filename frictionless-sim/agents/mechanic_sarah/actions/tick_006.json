@@ -1,0 +1,37 @@
+{
+  "tick": 6,
+  "agent_id": "mechanic_sarah",
+  "agent_name": "Sarah Kim",
+  "action_type": "compound",
+  "primary_action": {
+    "type": "skill_development",
+    "description": "Continue EVT Level 1 certification — complete the module on EV charging infrastructure and onboard diagnostics. This week log at least 8 hours. The sector revenue index dropping to 79 is not abstract anymore. The robotaxis are outside the shop. This cert is not optional hedging — it is the plan.",
+    "target": "self",
+    "effort_level": "high"
+  },
+  "secondary_action": {
+    "type": "network_outreach",
+    "description": "Message Carlos directly and briefly. Not to ask for anything, but to acknowledge what I heard — that he is building a connection at the high school around EV curriculum. Tell him where I am in the Level 1 program. Ask one specific question: is there anything from his EVT Level 2 coursework that I should be front-loading in my Level 1 study now, given where the shop's business is heading. This is not small talk. This is me treating him as the mentor he has been, and signaling that I am serious about the same path he is on.",
+    "target": "mechanic_carlos",
+    "effort_level": "low"
+  },
+  "decision_rationale": "The sector data (auto revenue at 79) and the visible robotaxi adoption are converging into a clear picture I cannot normalcy-bias my way out of. Linda Park is telling her own colleagues that the personal auto book is structurally terminal. That signal is upstream of my shop — if insurance collapses, repair volume follows. Carlos is not just certifying, he is opening doors at the high school. He sees what I see and is already building future optionality at a level I am not yet at. I am two ticks into my EVT Level 1. I need to keep momentum on the cert AND start thinking one step further: what does the world look like when I finish Level 1, and who needs to know me then? Reaching out to Carlos costs nothing and keeps me close to the person with the most useful signal in my network.",
+  "emotional_state": "determined with a sharper edge — the ambient awareness has crystallized into specific concern. Not fear. Not paralysis. The kind of focus that comes from watching a slow tide and finally deciding to move to higher ground.",
+  "financial_impact": {
+    "expected_savings_delta": 249,
+    "cert_cost_ongoing": 0,
+    "notes": "No new financial commitments this tick. Cert costs already enrolled and factored in."
+  },
+  "in_progress_transformation_update": {
+    "type": "retraining",
+    "progress_delta": 0.1,
+    "new_progress": 0.32,
+    "notes": "Charging infrastructure and diagnostics module. Electrical background continues to accelerate progress past baseline pace."
+  },
+  "flags": {
+    "targets_another_agent": false,
+    "requires_transaction": false,
+    "relational_message": true,
+    "relational_target": "mechanic_carlos"
+  }
+}

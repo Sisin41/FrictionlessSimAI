@@ -1,0 +1,46 @@
+{
+  "tick": 6,
+  "agent_id": "salesperson_tamika",
+  "agent_name": "Tamika Jefferson",
+  "response": {
+    "internal_assessment": "Savings bled $640 last tick. I'm sitting around $8,572. Runway is shrinking — I'm under three months comfortable. The sector index is at 79, foot traffic is down 14%, and Rick is building a consolidation asset map that will categorize every salesperson on this floor. Jake Morrison is already requesting a one-on-one with Rick to present his value. If I don't move now I'm going to be categorized without my input — exactly what Jake is trying to avoid. The inbox tells me what I already knew: close the first paying freelance client. Not 'try to close.' Not 'follow up.' Send the agreement and require a decision. The HVAC contractor or one of the restaurants. I've had warm conversations, I've posted content, I've done outreach for four ticks. If I can't close at $350/month after all that, I need to know that too — so I can recalibrate. Meanwhile the stay bonus signal to Angela is confirmed. The clock is running. I hold the day job long enough to collect that $12,000. I don't overplay my hand at the dealership — show up, do the job, don't become invisible. Rick is making an asset map. I want to be on it as 'transferable skills' not 'EV/AV-exposed and checked out.' One visible contribution to the floor this week — even a small one — keeps me off the exit list before I'm ready to exit.",
+    "chosen_actions": [
+      {
+        "type": "EXCHANGE",
+        "description": "Send the one-page freelance agreement to my strongest warm lead — the HVAC contractor based on engagement signals. Terms: $350/month retainer, three-month minimum commitment, two social media posts per week plus one short-form video per month. This is not another follow-up message. The email subject is 'Agreement attached — let me know by Friday.' I am not leaving it open-ended. If they say no, I immediately pivot to the next warmest lead — the restaurant. The goal is one signed agreement by end of this tick. The model is proven or disproven this month.",
+        "target_agent": "null",
+        "resources_involved": "Potential income: +$350/month starting tick 7. Time cost: 3 hours to draft and send clean one-page agreement. No cash outlay.",
+        "reasoning": "Four ticks of pipeline work with zero revenue is a sunk cost I cannot keep extending. Savings have been negative two ticks in a row. The inbox named me directly. The discovery calls happened — what's missing is the close. I know how to close. That's the one skill this job gave me that transfers cleanly. I use it now, on myself."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Approach Rick Tanner — not formally, not asking for anything — and mention one specific thing I noticed on the floor this week that's relevant to his asset map work. Something operational: which inventory segment still has buyer interest, or a specific customer interaction that shows I'm reading the room. Keep it brief, factual, no pitch. I want my name associated with 'floor awareness and transferable skill' in his mental categorization before the assessment is written. I am not Jake, who needs the stay bonus confirmed. I have already done that with Angela. What I need from Rick is to not be invisible.",
+        "target_agent": "dealership_gm",
+        "resources_involved": "Time: 15 minutes. No financial cost. Moderate social capital expenditure — Rick is the highest-trust relationship I have at 0.85.",
+        "reasoning": "Rick is building the consolidation readiness map right now. Angela's framework has three tiers: EV/AV-exposed, transition-ready, anchored roles. I want to be 'transition-ready' — that's the category that buys me time and the stay bonus. Rick knows I have social media skills and customer relationships. He just needs a reason to write me into the asset map as an asset rather than a liability. One good floor observation does that. This costs me almost nothing."
+      },
+      {
+        "type": "INTERNAL",
+        "description": "Do the math on the two-track reality. If I close the HVAC client at $350/month and hold the dealership job for the stay bonus qualifying period, my income picture shifts from deficit to near-balance. But I need to know: what is the actual qualifying period for the $12,000? Angela has my name on the list. I need the timeline. If the qualifying period is four months, that changes my savings calculation significantly. If it's two months, I can afford to be aggressive on the freelance side sooner. I don't ask Angela again this tick — I already asked. I wait for the response. But I sit down privately and model three scenarios: (1) I collect the bonus and leave clean; (2) layoffs happen before the bonus vests; (3) freelance income ramps fast enough that I leave voluntarily before the bonus matters. Each scenario needs a different posture. I write this down, not just in my head.",
+        "target_agent": null,
+        "resources_involved": "Time: 1 hour. Mental overhead reduction — putting it on paper gets it out of the background processing that's eating my focus.",
+        "reasoning": "The cognitive load of running two tracks at once is real. Stress is at 0.17, which is lower than it should be given the actual risk — that's normalcy bias talking. I need to stay sharp about the asymmetry: the downside of being laid off before the bonus vests is much worse than the upside of leaving early. Loss aversion 2.5x means I should weight that scenario heavily. Writing the three scenarios forces me to stop pretending there's just one plan."
+      }
+    ],
+    "emotional_state": "focused and slightly pressured — the urgency is no longer low-level",
+    "archetype_self_assessment": "exiter — actively building the exit, not just planning it",
+    "inner_monologue": "The pipeline is real. The skills are real. Now I need a client with a signature on an agreement. Everything else I've done this month is prep work. This is the thing that actually changes the number."
+  },
+  "economic_effects": {
+    "income_change": 350,
+    "savings_change": 0,
+    "spending_change": 0,
+    "employment_effect": "none",
+    "layoff_count": 0,
+    "hire_count": 0,
+    "new_business": false,
+    "business_closure": false,
+    "protest": false,
+    "policy_change": false
+  }
+}

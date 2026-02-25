@@ -1,0 +1,23 @@
+{
+  "agent_id": "gas_station_owner",
+  "tick": 6,
+  "action_type": "DECISION_AND_OUTREACH",
+  "description": "Review the term sheet from Kevin O'Brien with full attention. The numbers are on the table now — no more deferring. Before signing anything, make one call to ChargePoint's commercial sales line to verify their revenue-share model is active in Millfield and confirm minimum transaction volume thresholds. If ChargePoint confirms viable terms, authorize the capital improvement loan for two Level 2 EV charging stations. If ChargePoint is noncommittal or the numbers don't hold in a 77% employment environment, delay the loan but do not abandon the plan — instead put a 60-day hold with Kevin and revisit next month. Separately, stop in at the diner to talk with Betty Kowalski. She's been following up on something with the city — I want to know if there's a commercial corridor grant or infrastructure subsidy tied to AV corridor designation that I am not yet aware of. I am not panicking. I am deciding.",
+  "target_agent": null,
+  "emotional_state": "Measured. The anxiety has sharpened into something more useful — clarity. I have been through the 2008 fog and I know what it looks like when you wait too long for perfect information. The term sheet is as good as I am going to get without committing. The real question is whether EV adoption in Millfield is fast enough to justify the loan service cost. At 7% robotaxi penetration, it is early. But it is real. I have 13 months of runway. I own the parcel. The infrastructure is already there. If I wait another six months and the sector index drops from 79 to 60, the loan will be harder to get and the case will be weaker. I am 55. My window for capital investment is not infinite. I move now — carefully — or I become the man who watched it coming and did nothing.",
+  "financial_impact_estimate": {
+    "action": "conditional_loan_authorization",
+    "loan_amount_range": [8000, 15000],
+    "monthly_payment_estimate": 220,
+    "expected_charger_revenue_monthly": 300,
+    "net_monthly_impact": 80,
+    "risk_note": "Revenue estimate assumes 4-6 daily charging sessions at $0.35/kWh through revenue-share; contingent on ChargePoint confirmation"
+  },
+  "secondary_action": "Informal conversation with Betty Kowalski at the diner — probe for AV corridor commercial grant information. No cost. High potential information value.",
+  "decision_framework": {
+    "go_criteria": "ChargePoint confirms active revenue-share in Millfield, loan payment under $250/month on 5-year term",
+    "hold_criteria": "ChargePoint noncommittal OR loan payment exceeds $300/month",
+    "abort_criteria": "Auto sector index drops below 65 before installation completes"
+  },
+  "tickpad": "006"
+}

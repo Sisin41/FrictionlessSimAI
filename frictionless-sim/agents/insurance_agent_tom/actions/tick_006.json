@@ -1,0 +1,32 @@
+{
+  "agent_id": "insurance_agent_tom",
+  "tick": 6,
+  "action_type": "multi",
+  "actions": [
+    {
+      "type": "social_outreach",
+      "target": "insurance_agent_priya",
+      "description": "Respond to Priya Sharma's outreach. Accept the conversation she's been trying to have. Not a long call — she said that herself. But I show up for it honestly this time, not managed. I tell her: I got her message, I'm available this week, and I'm not going to pretend I'm not watching the same numbers she is. I ask her what she's actually thinking about doing. I listen. I don't perform stability I don't have."
+    },
+    {
+      "type": "financial_action",
+      "description": "Apply for the $2,500 retraining grant through Maria Santos's office. I sat in the back of that town hall four ticks ago and took notes on paper and told myself I was just gathering information. I wasn't. I was stalling. At current burn rate — expenses running roughly double income — I have maybe seven months of runway before I'm in real trouble. $2,500 doesn't solve the structural problem but it is $2,500. I fill out the application. I attach my professional history. I am honest about what I am: a 28-year insurance professional in a sector that is contracting, looking to understand what transferable credentials exist. I do not wait for corporate AutoShield to validate this move. I do not ask Linda Park's permission."
+    },
+    {
+      "type": "internal_assessment",
+      "description": "I do the math I have been avoiding. Monthly income $2,492 against monthly expenses $5,189. The gap is $2,697 per month — exactly what came out of savings last tick, no coincidence. Savings are currently somewhere around $47,000 based on trajectory. At this burn rate I have roughly 17 months before I hit zero, and that assumes income holds steady, which the policy count data says it will not. I write this number down somewhere physical. Not a spreadsheet, a piece of paper, so I can't minimize it. The number is 17. That is my real horizon, not the psychological hedge of 'keeping my head down.' I acknowledge that the strategy of the past two ticks — performing manageability for Linda Park — has cost me money and bought me nothing actionable."
+    }
+  ],
+  "primary_action_summary": "Accept Priya Sharma's outreach with honesty. Apply for the $2,500 retraining grant from Maria Santos's office. Stop performing stability for an audience that cannot pay my mortgage. Do the real math and let it sit.",
+  "emotional_state": "The resignation is still there, but underneath it something harder. Not hope exactly — more like the specific clarity that arrives when you finally look directly at a number you've been avoiding. 17 months. That is a real number. You can make decisions from a real number. You cannot make decisions from a performance.",
+  "financial_estimate": {
+    "savings_impact": "negative_moderate",
+    "notes": "Grant application costs time, not money. The structural income-expense gap continues. No near-term income improvement expected. Retraining grant if approved would be +$2,500 one-time offset."
+  },
+  "targeting": [
+    {
+      "agent_id": "insurance_agent_priya",
+      "interaction_type": "accept_outreach_honestly"
+    }
+  ]
+}

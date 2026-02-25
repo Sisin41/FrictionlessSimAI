@@ -81,7 +81,23 @@
       "narrative": "You Continue EVT Level 1 certification coursework \u2014 complete the next module covering EV high-voltage safety and battery management fundamentals. Log at least 8 hours this month on evening and weekend study sessions. Use my existing electrical skills to move faster through the battery module than classmates without that background.. Savings grew by $249. "
     }
   ],
-  "reflections": [],
+  "reflections": [
+    {
+      "tick": 6,
+      "reflection": "Six ticks in. I went from going through the motions to being enrolled in a certification program and watching the sector data confirm every quiet anxiety I had. The robotaxis are not rumor. The auto revenue index is down 21 points. Linda Park is telling her colleagues that personal auto insurance is structurally terminal. I am not panicking, and I think that is because I already moved. Ticks 4 and 5 were the decision to act. Tick 6 is the first tick where I am acting from a position of having already committed — not deciding whether to, but just continuing. That feels different. The stress is low not because the threat is low, but because I stopped waiting.",
+      "identity_shift": "I started this simulation as someone who loved working with her hands and treated the computer skills as a secondary thing. I am starting to see those as equal — maybe the diagnostics and electrical work are actually the leading edge of where this goes, not the trailing edge of what I am. The EVT cert is not a backup plan. It is starting to feel like the main plan. Junior Mechanic is a title I hold right now. EV technician is what I am becoming.",
+      "regrets": [
+        "I spent ticks 1 through 3 reading the room passively when the signal was already clear enough to act on. Carlos was already enrolling. I circled before I landed. I lost maybe two ticks of cert progress I could have started sooner.",
+        "I have no insurance coverage. That is a real exposure. I keep moving past it because the monthly cash flow feels tight enough already, but if something goes wrong — health, car, anything — I am exposed in a way that does not match how seriously I am trying to plan everything else."
+      ],
+      "successes": [
+        "Enrolled in EVT Level 1 certification at tick 4 and did not let it slip back to intention. Ticks 5 and 6 both logged real study hours. The electrical background is genuinely paying off — I am ahead of curriculum pace.",
+        "I did not catastrophize. The sector data is bad but I have 5+ months runway and a job that is still intact. I have been proportional. That steadiness is worth something.",
+        "Savings have grown consistently every tick. The financial baseline is holding even while I invest time in certification."
+      ],
+      "adaptation_notes": "The next phase of adaptation is not just completing the cert — it is figuring out what to do the month after completion. Carlos is already thinking about teaching, external bridges, the high school. I am behind on that kind of forward thinking. The cert gives me credentials; what I do with them is a separate question I have not fully sat with yet. Also: Miguel is reaching out to Carlos. People are consolidating around the people who have the clearest read on what is coming. I want to be on the right side of that consolidation — not someone others look to yet, but someone who is visibly moving in the right direction."
+    }
+  ],
   "regrets": [],
   "successes": [],
   "adaptation_history": []

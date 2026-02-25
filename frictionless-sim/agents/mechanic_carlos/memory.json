@@ -81,7 +81,23 @@
       "narrative": "You Continue EVT Level 2 evening and weekend coursework \u2014 this month focusing on high-voltage safety protocols and battery management systems. Put in the hours. Show up to class after a full day at the shop even when I'm tired. This is month two of ten. The training will not complete itself.. Savings grew by $193. "
     }
   ],
-  "reflections": [],
+  "reflections": [
+    {
+      "tick": 6,
+      "reflection": "Three months into this training and the world outside is validating the fear I had at tick one. The auto sector revenue index is at 79. Unemployment is climbing. The robotaxis are not a rumor anymore — they are on my street. I made the right call enrolling. I do not say that to feel good about myself. I say it because the evidence is pointing in one direction and I am now pointed in the same direction, not perpendicular to it. The hardest part is not the coursework. The hardest part is going to class tired, after a full day at the shop, when the shop itself feels like it might be contracting under me. But that tiredness is the cost of not being blindsided in month twelve.",
+      "identity_shift": "The identity as 'mechanic who fixes cars' is quietly becoming 'technician who understands vehicle systems.' The hands are the same. The knowledge base is widening. I am not sure yet if I am proud of this or just resigned to it. Possibly both. What I notice is that I am no longer waiting for someone to tell me what to do — I enrolled before anyone forced me. That is different from how I handled the 2008 crisis, where I just held on and hoped. This time I moved first. That shift feels significant even if I cannot name it cleanly.",
+      "regrets": [
+        "I waited too long at tick zero and tick one — those were two months of watching instead of moving. The information was available. I could have started the certification research sooner.",
+        "I have not talked to Elena honestly enough about the financial pressure. She knows I am doing the training. She does not know I am watching the sector data as closely as I am. That is a form of protection that might also be a form of avoidance."
+      ],
+      "successes": [
+        "Enrolled in EVT Level 2 before being forced to — this was the right move and I made it on my own terms.",
+        "Patricia approved the shop's $1,400 contribution. I asked. She said yes. I did not assume the answer was no.",
+        "Responding to Miguel when he reaches out is the right human move. Passing forward what I know costs me nothing and might matter."
+      ],
+      "adaptation_notes": "The training is at 30% after this tick. Seven months remain. Job security is still 0.77 but the sector index dropping to 79 means that number will be tested. I need to watch for any sign the shop is cutting hours or staff. If role security drops below 0.6, I need to begin networking outward — contact Angela Wright at the regional auto group, be more visible to employers who will need EV-certified technicians. For now: finish month three, stay employed, keep saving the $193 monthly delta, do not panic. The runway is 6.6 months. That is not comfortable but it is not a crisis yet."
+    }
+  ],
   "regrets": [],
   "successes": [],
   "adaptation_history": []
