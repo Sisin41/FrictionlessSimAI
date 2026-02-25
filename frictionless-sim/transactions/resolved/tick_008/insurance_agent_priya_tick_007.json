@@ -1,0 +1,16 @@
+{
+  "from": "insurance_agent_priya",
+  "to": "council_member",
+  "tick": 7,
+  "transaction_type": "grant_application",
+  "amount": 0,
+  "description": "Priya Sharma submits formal application for the $2,500 workforce retraining grant through Maria Santos's office. Supporting documentation includes SQL/data visualization course enrollment, three completed modules, and a working query output on commercial fleet incident data. Application requests clarification on whether the 10% auto row threshold applies to individual workers.",
+  "expected_outcome": "Grant approval of $2,500 to support Priya's transition toward data analyst or commercial fleet risk analytics role.",
+  "secondary_communication": {
+    "from": "insurance_agent_priya",
+    "to": "insurance_manager",
+    "type": "status_inquiry",
+    "description": "Priya sends Linda Park a brief professional note asking for any update on the corporate pivot memo. One-sentence ask, no pressure signal. Decision-relevant: if no response by tick 8, Priya begins treating her departure as likely rather than possible."
+  },
+  "status": "no_counterparty"
+}

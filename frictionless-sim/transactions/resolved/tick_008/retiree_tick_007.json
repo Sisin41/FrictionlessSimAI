@@ -1,0 +1,18 @@
+{
+  "transaction_id": "retiree_tick_007_community_investment",
+  "tick": 7,
+  "type": "donation",
+  "from": "retiree",
+  "target": "community_transition_fund",
+  "amount": 150,
+  "description": "Dorothy Chen makes a $150 contribution to the Millfield Community Transition Fund \u2014 mutual aid pool supporting displaced workers and struggling small businesses during the autonomous vehicle disruption.",
+  "motivation": "Financially secure retiree with monthly surplus redirecting discretionary funds toward community stabilization. Private act, no recognition sought.",
+  "secondary_transaction": {
+    "type": "local_spending",
+    "from": "retiree",
+    "target": "diner_owner",
+    "amount": 25,
+    "description": "Visit to Betty's Diner on Auto Row \u2014 coffee, meal, generous tip. Economic solidarity with a stressed small business owner Dorothy knows personally."
+  },
+  "status": "no_counterparty"
+}

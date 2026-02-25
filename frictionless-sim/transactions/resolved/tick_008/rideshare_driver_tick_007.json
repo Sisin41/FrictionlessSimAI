@@ -1,0 +1,18 @@
+{
+  "transaction_id": "rideshare_driver_tick_007_nemt_outreach",
+  "tick": 7,
+  "timestamp": "tick_007",
+  "from": "rideshare_driver",
+  "target": "community_college",
+  "type": "credential_completion",
+  "amount": 0,
+  "description": "Robert Jackson completes the NEMT (Non-Emergency Medical Transport) driver certification course at Millfield Community College. No additional payment due \u2014 course fee of $320 was paid at enrollment in tick 4. Certification credential issued.",
+  "metadata": {
+    "credential": "NEMT_driver_certification",
+    "course_duration_weeks": 6,
+    "started_tick": 4,
+    "completed_tick": 7,
+    "months_invested": 3
+  },
+  "status": "no_counterparty"
+}

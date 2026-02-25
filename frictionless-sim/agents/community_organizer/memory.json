@@ -34,6 +34,11 @@
       "tick": 6,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 8,
+      "summary": "Reach out to Robert Jackson directly this week \u2014 not a flyer, not a program referral, a personal call. I have had him in my network since tick 0 and I have not made direct contact. That ends this tick. I call him, I acknowledge what is happening to his income with the price drop to $0.12, and I ask two specific questions: how is the NEMT certification going, and has he heard about the RoboRide delivery partnership. The first question is support. The second question is me learning from him \u2014 he will know more about the delivery economics than I do, because he is in the transport sector and he talks to other drivers. If he has information about what the delivery partnership actually pays and requires, that is information I need before I can advise the broader community accurately. I also tell him about Kevin O'Brien's office hours and that they are monthly \u2014 if there is any bridge financing conversation worth having as his rideshare income continues to decline while NEMT certification completes, Kevin is the right person for that. I am not solving Robert's problem in one phone call. I am making the call I should have made four ticks ago.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -92,6 +97,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You routine. Savings grew by $362. "
+    },
+    {
+      "tick": 8,
+      "action": "Reach out to Robert Jackson directly this week \u2014 not a flyer, not a program referral, a personal call. I have had him in my network since tick 0 and I have not made direct contact. That ends this tick. I call him, I acknowledge what is happening to his income with the price drop to $0.12, and I ask two specific questions: how is the NEMT certification going, and has he heard about the RoboRide delivery partnership. The first question is support. The second question is me learning from him \u2014 he will know more about the delivery economics than I do, because he is in the transport sector and he talks to other drivers. If he has information about what the delivery partnership actually pays and requires, that is information I need before I can advise the broader community accurately. I also tell him about Kevin O'Brien's office hours and that they are monthly \u2014 if there is any bridge financing conversation worth having as his rideshare income continues to decline while NEMT certification completes, Kevin is the right person for that. I am not solving Robert's problem in one phone call. I am making the call I should have made four ticks ago.",
+      "savings_delta": 362,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Reach out to Robert Jackson directly this week \u2014 not a flyer, not a program referral, a personal call. I have had him in my network since tick 0 and I have not made direct contact. That ends this tick. I call him, I acknowledge what is happening to his income with the price drop to $0.12, and I ask two specific questions: how is the NEMT certification going, and has he heard about the RoboRide delivery partnership. The first question is support. The second question is me learning from him \u2014 he will know more about the delivery economics than I do, because he is in the transport sector and he talks to other drivers. If he has information about what the delivery partnership actually pays and requires, that is information I need before I can advise the broader community accurately. I also tell him about Kevin O'Brien's office hours and that they are monthly \u2014 if there is any bridge financing conversation worth having as his rideshare income continues to decline while NEMT certification completes, Kevin is the right person for that. I am not solving Robert's problem in one phone call. I am making the call I should have made four ticks ago.. Savings grew by $362. "
     }
   ],
   "reflections": [

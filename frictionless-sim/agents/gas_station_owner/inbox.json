@@ -1,17 +1,17 @@
 {
-  "tick": 8,
+  "tick": 9,
   "messages": [
     {
-      "type": "CAPABILITY_FACT",
-      "content": "RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership with local delivery companies announced."
+      "type": "AMBIENT",
+      "content": "Ongoing: RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership wit"
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 73%."
+      "content": "Local unemployment rising. Employment rate: 67%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 42 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 40 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
@@ -23,7 +23,51 @@
     },
     {
       "type": "SOCIAL",
-      "content": "People around you are stressed: Angela Wright, Betty Kowalski. The mood is tense."
+      "content": "People around you are stressed: Angela Wright, Tom Bradley, Betty Kowalski. The mood is tense."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Reach out to Miguel Hernandez \u2014 not as a mentor gi..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Sarah Kim is making some kind of change \u2014 something about Actually purchase basic health insurance coverage ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Sarah Kim is making some kind of change \u2014 something about Have a direct conversation with Carlos about the R..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Tom Bradley is making some kind of change \u2014 something about Tom sends Linda Park a brief, direct note \u2014 not th..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Reach out to Betty Kowalski directly \u2014 not as a so..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Continue the NMLS mortgage origination training. M..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Hold the Community Center financial office hours s..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Contact RoboRide local partnership coordinator to ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Betty goes to Carlos Ruiz's shop and buys him lunc..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Betty attends Kevin O'Brien's office hours at the ..."
+    },
+    {
+      "type": "OUTCOME",
+      "content": "You Call Stephanie Morris (real estate agent) and accept her offer for a formal property valuation and adaptive reuse scenario analysis. Schedule a site visit this week. I want two things from this engagement: (1) a realistic current market value for the property as-is, and (2) a scenario analysis comparing continued fuel-only operation, EV charging retrofit, and full adaptive reuse sale. I am not committing to sell. I am buying strategic clarity at a moment when my information advantage is still intact \u2014 before the market prices in the full RoboRide shock. Frame this professionally: I am a 25-year property owner who wants to understand all options before making capital allocation decisions. Do not signal desperation. Do not signal passivity either.. Savings dropped by $2,541. "
     }
   ]
 }

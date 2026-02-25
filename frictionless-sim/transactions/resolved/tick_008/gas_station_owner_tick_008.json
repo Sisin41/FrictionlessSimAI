@@ -1,0 +1,19 @@
+{
+  "tick": 8,
+  "from_agent": "gas_station_owner",
+  "to_agent": "real_estate_agent",
+  "type": "EXCHANGE",
+  "subtype": "professional_engagement_initiation",
+  "description": "Amir Patel calls Stephanie Morris to accept her offer for a formal property valuation and adaptive reuse scenario analysis. He schedules a site visit and requests two deliverables: (1) current market value of the property as-is, and (2) a comparative scenario analysis across fuel-only operation, EV charging retrofit, and full adaptive reuse sale. No cash changes hands this tick. This is the initiation of a professional advisory engagement.",
+  "resources": {
+    "type": "professional_services_engagement",
+    "direction": "both",
+    "cash_amount": 0,
+    "detail": "Stephanie provides initial consultation and schedules formal valuation. Amir provides site access, business financials, and property documentation. Valuation fee to be determined and settled in a subsequent tick."
+  },
+  "relationship_effect": {
+    "trust_delta": 0.08,
+    "note": "Amir is responding directly to Stephanie's tick 7 outreach. This increases trust and establishes a substantive advisory relationship."
+  },
+  "status": "no_counterparty"
+}

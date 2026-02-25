@@ -1,0 +1,22 @@
+{
+  "transaction_id": "parking_garage_mgr_tick_008_grace_signal",
+  "tick": 8,
+  "timestamp": "tick_008",
+  "type": "SIGNAL",
+  "from": "parking_garage_mgr",
+  "from_name": "Denise Williams",
+  "target": "uber_driver_2",
+  "target_name": "Grace Okafor",
+  "amount": 0,
+  "category": "relationship_maintenance",
+  "message": "Grace \u2014 I wanted to close the loop and not leave you in the dark. The connection to the Millfield General facilities director moved. Phone screen is in motion and I am preparing for it the way it deserves. You opened that door and I want you to know it is not going to waste. On the RoboRide delivery announcement \u2014 I have been building a business case for converting our garage bays to EV charging and staging zones, and this is the external proof point I needed. That work is going to the owner this week. I know the price drop hit your income directly, and I am thinking about you. You are further along your transition than you realize. Reach out if there is anything in the hospital or facilities world I can be useful on.",
+  "resources": {
+    "type": "social_capital",
+    "direction": "give",
+    "amount": 0,
+    "detail": "Reciprocal relationship signal. Denise closes the loop on the hospital introduction Grace provided last tick, updates her on the phone screen progress, acknowledges Grace's current disruption exposure from the RoboRide price drop, and offers future reciprocity. No material transfer. Reinforces trust relationship (currently 0.80) and maintains the highest-value connection in Denise's professional network."
+  },
+  "savings_impact": 0,
+  "notes": "Non-material transaction. Trust maintenance with highest-value network contact. Grace is in her own acute disruption moment \u2014 this signal costs Denise nothing and preserves the relationship that has been the most productive in her transition campaign.",
+  "status": "accepted"
+}

@@ -1,0 +1,9 @@
+{
+  "from": "diner_owner",
+  "target": "council_member",
+  "type": "grant_disbursement_request",
+  "amount": 5000,
+  "description": "Betty Kowalski formally escalates her pending small business stabilization grant application (originally filed tick 2) by delivering documentation in person to Maria Santos's office. She cites the newly lowered 10% revenue decline threshold for auto row businesses and requests a specific disbursement timeline within five business days. Her diner has gone from reduced revenue to zero income \u2014 well past the 10% threshold \u2014 and her application predates the threshold change, making it eligible under the revised criteria.",
+  "tick": 7,
+  "status": "accepted"
+}

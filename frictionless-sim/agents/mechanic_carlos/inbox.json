@@ -1,17 +1,17 @@
 {
-  "tick": 8,
+  "tick": 9,
   "messages": [
     {
-      "type": "CAPABILITY_FACT",
-      "content": "RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership with local delivery companies announced."
+      "type": "AMBIENT",
+      "content": "Ongoing: RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership wit"
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 73%."
+      "content": "Local unemployment rising. Employment rate: 67%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 42 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 40 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
@@ -22,8 +22,68 @@
       "content": "Auto sector revenue index: 79 (baseline: 100). Foot traffic and sales are somewhat down."
     },
     {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Zoe Martinez \u2014 follow up aggressively on the freelance social media management pitches from tick 7. if i pitched two or three businesses last tick, i am following up by phone or in person this week \u2014 not waiting for them to come to me. i am also expanding the outreach: the diner, any small business on or adjacent to auto row that is still posting on instagram and clearly struggling with their social presence. my rate is $100 to $150 per month. i am pitching the value specifically: in a month where consumer spending is down 58% from baseline and foot traffic is soft, local businesses that stay visible and human on social media have a real edge. i know how to make that happen. i have the phone in my hand right now. the goal this tick is to close at least one paying client before the end of the month \u2014 even $100 is real money at zero savings."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: Zoe Martinez \u2014 investigate and sign up for roboride's delivery partnership program this week. my angle is different from a car-based delivery driver: i am foot and bicycle, which means i am the last-mile layer \u2014 the piece of the delivery chain that gets from the roboride drop point to the apartment door, the thing autonomous vehicles literally cannot do yet. research the partner registration process, check whether millfield's new residential coverage area includes the neighborhoods where i already run doordash routes, and if the rates are competitive or better, begin shifting my hours toward roboride delivery and away from legacy platforms. if roboride is going to compress doordash and uber eats margins anyway \u2014 and at $0.12/mile with 8-minute waits they will \u2014 i want to be inside the system that is winning, not outside the one that is losing. i am also making a short tiktok about this: 'car-free gig worker perspective on the roboride delivery expansion \u2014 here is what it actually means if your hustle is on a bike.' that content is authentic, timely, and builds my social media presence while i research."
+    },
+    {
       "type": "SOCIAL",
       "content": "People around you are stressed: Angela Wright. The mood is tense."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Issue an urgent public policy statement on the Rob..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Convene an emergency coordination session with Pat..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Sarah Kim is making some kind of change \u2014 something about Actually purchase basic health insurance coverage ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Sarah Kim is making some kind of change \u2014 something about Have a direct conversation with Carlos about the R..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about Tell Linda directly, in a brief in-person or writt..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Miguel Hernandez is making some kind of change \u2014 something about Have a direct conversation with Carlos (mechanic_c..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Confirm and prepare for the phone screen with the ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Send a targeted update to Grace Okafor acknowledgi..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Make a decision on health insurance. After five ti..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Follow up with Lisa Freeman to confirm the two rep..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Check in on Betty Kowalski \u2014 not as a contractor l..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Attend Kevin O'Brien's Thursday evening office hou..."
+    },
+    {
+      "type": "OUTCOME",
+      "content": "You Continue EVT Level 2 certification retraining \u2014 month four of ten. This month the coursework moves into EV drivetrain systems, regenerative braking diagnostics, and thermal management of battery packs. The work is getting harder and more directly applicable to the EVs I will be asked to service. Show up to evening and weekend sessions. Do not skip. Do not coast. At 40% completion this is not a turning-back point \u2014 it is the point where the credential becomes visible on the horizon. The training will not complete itself and the market will not wait.. Savings grew by $193. "
     }
   ]
 }

@@ -1,0 +1,13 @@
+{
+  "tick": 8,
+  "from_agent": "council_member",
+  "to_agent": "ceo_regional_auto",
+  "type": "coalition_meeting",
+  "amount": 0,
+  "description": "Maria Santos convenes an emergency coordination session with Patricia Hawkins and Betty Kowalski (diner_owner) together \u2014 the first time Maria has brought two of her key stakeholders into the same room. The meeting is called in direct response to RoboRide's delivery partnership announcement. Maria facilitates but does not lead: she presents the 30-day delivery license notice she has issued and the emergency task force session in 10 days, then asks both women what they are seeing on the ground. Specific questions: how many of Patricia's separated workers have connected with the grant program; what does the delivery announcement mean for Betty's supply chain and customer base. The goal is to establish a two-person aligned constituency that appears together at the task force session, giving the enforcement response institutional weight beyond Maria's individual voice.",
+  "transaction_nature": "social_coordination_multi_party",
+  "secondary_participant": "diner_owner",
+  "expected_outcome": "Trust between council_member and ceo_regional_auto increases marginally. Trust between council_member and diner_owner increases marginally. More importantly, a direct relationship is initiated between ceo_regional_auto and diner_owner as stakeholders in the same economic transition. Patricia gains visibility into how the grant program is reaching (or not reaching) her former workers. Betty gains a channel to raise supply chain concerns in a policy context. Maria gains a coalition that is not entirely dependent on her as the sole connector.",
+  "reversible": true,
+  "status": "no_counterparty"
+}

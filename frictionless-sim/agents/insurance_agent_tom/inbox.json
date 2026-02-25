@@ -1,9 +1,9 @@
 {
-  "tick": 8,
+  "tick": 9,
   "messages": [
     {
-      "type": "RUMOR",
-      "content": "People are saying: RoboRide drops price to very cheap per mile. Wait time now a few minutes. Coverage expanded to residential ar. (You're not sure of the exact details.)"
+      "type": "AMBIENT",
+      "content": "Ongoing: RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership wit"
     },
     {
       "type": "OBSERVATION",
@@ -14,8 +14,92 @@
       "content": "Active auto insurance policies in area: 22. Cancellations increasing."
     },
     {
+      "type": "DIRECT_IMPACT",
+      "content": "Linda Park laid off workers: lay off tom bradley. schedule a direct, private conversation this week. tell him the personal auto book has declined 21% from baseline and the roboride residential expansion will push it further. the regional headcount cannot support two field agents on a contracting book. give him a 30-day notice with a professional reference and a specific offer to introduce him to the logistics and fleet contacts i have been cultivating through my own job search. this is not a performance issue \u2014 it is a structural one, and i will say that plainly. i will not soften it into ambiguity."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: James Patterson \u2014 follow up on the howard liu outreach from tick 7. if he responded, have the actual conversation \u2014 coffee or a call, his choice. if he did not respond, send a shorter follow-up: one line, just a coffee ask, no pressure framing. the goal of this interaction is information exchange and relationship depth, not extraction. howard is watching roboride's delivery partnership announcement from a direct-competition angle \u2014 his auto parts business is already under pressure from declining car ownership. the delivery partnership means roboride is becoming logistics infrastructure. that is either a threat to howard's existing pivot strategy or a new vector he has not fully mapped. i want to know which it is. i am also willing to share what i know from the tech side \u2014 fleet software architecture, how delivery routing optimization tends to work. that is a genuine offer, not a transaction. high-trust contact. time to act like it."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: Dorothy Chen \u2014 stop by betty's diner again this week. i went last tick and i will go again \u2014 not to hover, not to perform concern, but because sustained presence is different from a single visit. a single visit can be curiosity. coming back is a relationship. i will order a meal, tip well, and if betty has bandwidth to talk i will be there for it. if she is slammed, i will eat my food and leave without demanding her attention. i will also mention, if it comes up naturally, that i have heard the roboride delivery partnership has started \u2014 not as a business suggestion she did not ask for, but because it might be worth knowing that robotaxis can now deliver food, which could be either competition or opportunity depending on how she wants to think about it. i will not frame it for her. i will just mention it exists."
+    },
+    {
       "type": "SOCIAL",
       "content": "People around you are stressed: Betty Kowalski. The mood is tense."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Send a second internal memo to AutoShield corporat..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Continue CRMP certification coursework \u2014 now in mo..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Jake Morrison is making some kind of change \u2014 something about Find Tamika before end of week \u2014 not a formal sit-..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Reach out to Miguel Hernandez \u2014 not as a mentor gi..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about Tell Linda directly, in a brief in-person or writt..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Contact RoboRide local partnership coordinator to ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Betty goes to Carlos Ruiz's shop and buys him lunc..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Betty attends Kevin O'Brien's office hours at the ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that James Patterson is making some kind of change \u2014 something about Follow up on the Howard Liu outreach from tick 7. ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that James Patterson is making some kind of change \u2014 something about Recalibrate the monthly roboride transport budget ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Use my slot at the Community Center transportation..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Stop by Betty's Diner again this week. I went last..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Send Tamika Jefferson a brief, direct note \u2014 by te..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Attend Kevin O'Brien's Thursday evening office hou..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Robert Jackson is making some kind of change \u2014 something about Contact Grace Okafor (uber_driver_2) with a direct..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Robert Jackson is making some kind of change \u2014 something about Maintain rideshare driving at a reduced but stable..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Robert Jackson is making some kind of change \u2014 something about Check in with Marcus \u2014 not a full disclosure of th..."
+    },
+    {
+      "type": "OUTCOME",
+      "content": "You Apply formally for the $2,500 workforce retraining grant through Maria Santos's office. Tom fills out the application not as a hedge or a symbol but as a concrete financial and strategic act. He names the target: commercial risk analytics or insurance underwriting support roles that can survive the AV transition. He documents his 28 years of risk assessment experience as directly transferable to data-adjacent roles. He does not frame this as distress \u2014 he frames it as professional development. But internally he is clear: this is not professional development, this is survival infrastructure.. Savings dropped by $5,189. Employment status changed to unemployed. "
     }
   ]
 }

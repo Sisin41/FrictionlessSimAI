@@ -34,6 +34,11 @@
       "tick": 6,
       "summary": "Say yes to Denise Williams. Text her: I can do thirty minutes this week \u2014 Wednesday afternoon or Thursday morning, whichever works for you. I will tell her what the community college process actually looks like, what the grant application requires, and what the realistic timeline is to an income-generating credential from a standing start. In exchange I want to hear one thing from her: how is she reading the pace of change in transport infrastructure from where she sits? She manages a parking garage. She sees the flow of vehicles, the utilization patterns, the conversations with operators. That is ground-level intelligence I do not have.",
       "emotional_state": "steady, cautiously optimistic"
+    },
+    {
+      "tick": 8,
+      "summary": "Contact the workforce development office again \u2014 this time to get a definitive answer on the grant. The window I calculated at tick 5 has now fully elapsed. 6 to 8 weeks from the tick 5 application puts the decision at tick 7 or tick 8. I called at tick 7 for a status update. This tick I follow up on whatever they told me. If the decision has been made, I need the number immediately \u2014 a grant of any size changes my second-half tuition math and may allow me to shift to a heavier course load to accelerate my credential by 1-2 months, which directly addresses the runway problem. If the decision is delayed past 8 weeks, I treat the grant as unreliable and build without it. I need a binary answer this tick: funded or not funded, and if funded, how much. I act accordingly on the tuition front the moment I have that number.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -92,6 +97,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Say yes to Denise Williams. Text her: I can do thirty minutes this week \u2014 Wednesday afternoon or Thursday morning, whichever works for you. I will tell her what the community college process actually looks like, what the grant application requires, and what the realistic timeline is to an income-generating credential from a standing start. In exchange I want to hear one thing from her: how is she reading the pace of change in transport infrastructure from where she sits? She manages a parking garage. She sees the flow of vehicles, the utilization patterns, the conversations with operators. That is ground-level intelligence I do not have.. Savings grew by $206. "
+    },
+    {
+      "tick": 8,
+      "action": "Contact the workforce development office again \u2014 this time to get a definitive answer on the grant. The window I calculated at tick 5 has now fully elapsed. 6 to 8 weeks from the tick 5 application puts the decision at tick 7 or tick 8. I called at tick 7 for a status update. This tick I follow up on whatever they told me. If the decision has been made, I need the number immediately \u2014 a grant of any size changes my second-half tuition math and may allow me to shift to a heavier course load to accelerate my credential by 1-2 months, which directly addresses the runway problem. If the decision is delayed past 8 weeks, I treat the grant as unreliable and build without it. I need a binary answer this tick: funded or not funded, and if funded, how much. I act accordingly on the tuition front the moment I have that number.",
+      "savings_delta": -1787,
+      "stress_delta": -0.02,
+      "employment_changed": true,
+      "narrative": "You Contact the workforce development office again \u2014 this time to get a definitive answer on the grant. The window I calculated at tick 5 has now fully elapsed. 6 to 8 weeks from the tick 5 application puts the decision at tick 7 or tick 8. I called at tick 7 for a status update. This tick I follow up on whatever they told me. If the decision has been made, I need the number immediately \u2014 a grant of any size changes my second-half tuition math and may allow me to shift to a heavier course load to accelerate my credential by 1-2 months, which directly addresses the runway problem. If the decision is delayed past 8 weeks, I treat the grant as unreliable and build without it. I need a binary answer this tick: funded or not funded, and if funded, how much. I act accordingly on the tuition front the moment I have that number.. Savings dropped by $1,787. Employment status changed to unemployed. "
     }
   ],
   "reflections": [

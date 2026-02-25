@@ -34,6 +34,11 @@
       "tick": 6,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 8,
+      "summary": "Open an active job search for data analyst, risk analyst, or insurtech roles. Not informational interviews \u2014 actual applications. Target: at least two applications submitted this tick. Platforms: LinkedIn, Indeed, direct applications to insurtech firms in the region. Focus on roles that cite SQL, data visualization, or commercial fleet risk as requirements. Use the Module 3 query output as a portfolio artifact. Be honest about current employment status and timeline. I am not desperate. I am a 29-year-old with insurance domain knowledge, three completed SQL/data viz modules, a working fleet incident data query, and a clear-eyed read on where my industry is going. That is a real candidate.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -92,6 +97,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You routine. Savings dropped by $2,162. "
+    },
+    {
+      "tick": 8,
+      "action": "Open an active job search for data analyst, risk analyst, or insurtech roles. Not informational interviews \u2014 actual applications. Target: at least two applications submitted this tick. Platforms: LinkedIn, Indeed, direct applications to insurtech firms in the region. Focus on roles that cite SQL, data visualization, or commercial fleet risk as requirements. Use the Module 3 query output as a portfolio artifact. Be honest about current employment status and timeline. I am not desperate. I am a 29-year-old with insurance domain knowledge, three completed SQL/data viz modules, a working fleet incident data query, and a clear-eyed read on where my industry is going. That is a real candidate.",
+      "savings_delta": -3341,
+      "stress_delta": -0.02,
+      "employment_changed": true,
+      "narrative": "You Open an active job search for data analyst, risk analyst, or insurtech roles. Not informational interviews \u2014 actual applications. Target: at least two applications submitted this tick. Platforms: LinkedIn, Indeed, direct applications to insurtech firms in the region. Focus on roles that cite SQL, data visualization, or commercial fleet risk as requirements. Use the Module 3 query output as a portfolio artifact. Be honest about current employment status and timeline. I am not desperate. I am a 29-year-old with insurance domain knowledge, three completed SQL/data viz modules, a working fleet incident data query, and a clear-eyed read on where my industry is going. That is a real candidate.. Savings dropped by $3,341. Employment status changed to unemployed. "
     }
   ],
   "reflections": [

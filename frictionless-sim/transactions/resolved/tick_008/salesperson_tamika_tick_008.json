@@ -1,0 +1,14 @@
+{
+  "tick": 8,
+  "from_agent": "salesperson_tamika",
+  "from_name": "Tamika Jefferson",
+  "to_agent": "hr_director",
+  "to_name": "Angela Wright",
+  "transaction_type": "SIGNAL",
+  "description": "Tamika sends Angela Wright a single professional message acknowledging receipt of the stay bonus eligibility memo and asking one specific administrative question: what is the exact qualifying end date based on her registration in tick 5? The tone is matter-of-fact and competent \u2014 not anxious, not flattering. Tamika frames it as a calendar clarification so she can plan accurately. No negotiation, no emotional appeal, no additional asks. She is treating this as a professional administrative exchange between two colleagues, which is the correct register given the institutional sensitivity of the bonus program during a consolidation period.",
+  "resources_transferred": null,
+  "expected_outcome": "Angela provides the specific qualifying end date. Tamika gains the exact number she needs to calibrate her three-scenario decision model. Trust with Angela holds at 0.56 or inches upward \u2014 the tone is competent and non-needy, which is the signal Angela responds to. Tamika's name remains on the stay bonus eligible list as an active, present employee who is managing her affairs professionally.",
+  "tone": "professional, specific, non-needy",
+  "urgency": "medium",
+  "status": "no_counterparty"
+}

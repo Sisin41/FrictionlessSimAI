@@ -1,17 +1,17 @@
 {
-  "tick": 8,
+  "tick": 9,
   "messages": [
     {
-      "type": "CAPABILITY_FACT",
-      "content": "RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership with local delivery companies announced."
+      "type": "AMBIENT",
+      "content": "Ongoing: RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership wit"
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 73%."
+      "content": "Local unemployment rising. Employment rate: 67%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 42 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 40 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
@@ -22,8 +22,64 @@
       "content": "Auto sector revenue index: 79 (baseline: 100). Foot traffic and sales are somewhat down."
     },
     {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Zoe Martinez \u2014 follow up aggressively on the freelance social media management pitches from tick 7. if i pitched two or three businesses last tick, i am following up by phone or in person this week \u2014 not waiting for them to come to me. i am also expanding the outreach: the diner, any small business on or adjacent to auto row that is still posting on instagram and clearly struggling with their social presence. my rate is $100 to $150 per month. i am pitching the value specifically: in a month where consumer spending is down 58% from baseline and foot traffic is soft, local businesses that stay visible and human on social media have a real edge. i know how to make that happen. i have the phone in my hand right now. the goal this tick is to close at least one paying client before the end of the month \u2014 even $100 is real money at zero savings."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: Dorothy Chen \u2014 stop by betty's diner again this week. i went last tick and i will go again \u2014 not to hover, not to perform concern, but because sustained presence is different from a single visit. a single visit can be curiosity. coming back is a relationship. i will order a meal, tip well, and if betty has bandwidth to talk i will be there for it. if she is slammed, i will eat my food and leave without demanding her attention. i will also mention, if it comes up naturally, that i have heard the roboride delivery partnership has started \u2014 not as a business suggestion she did not ask for, but because it might be worth knowing that robotaxis can now deliver food, which could be either competition or opportunity depending on how she wants to think about it. i will not frame it for her. i will just mention it exists."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: Zoe Martinez \u2014 investigate and sign up for roboride's delivery partnership program this week. my angle is different from a car-based delivery driver: i am foot and bicycle, which means i am the last-mile layer \u2014 the piece of the delivery chain that gets from the roboride drop point to the apartment door, the thing autonomous vehicles literally cannot do yet. research the partner registration process, check whether millfield's new residential coverage area includes the neighborhoods where i already run doordash routes, and if the rates are competitive or better, begin shifting my hours toward roboride delivery and away from legacy platforms. if roboride is going to compress doordash and uber eats margins anyway \u2014 and at $0.12/mile with 8-minute waits they will \u2014 i want to be inside the system that is winning, not outside the one that is losing. i am also making a short tiktok about this: 'car-free gig worker perspective on the roboride delivery expansion \u2014 here is what it actually means if your hustle is on a bike.' that content is authentic, timely, and builds my social media presence while i research."
+    },
+    {
       "type": "SOCIAL",
       "content": "People around you are stressed: Betty Kowalski. The mood is tense."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Jake Morrison is making some kind of change \u2014 something about Find Tamika before end of week \u2014 not a formal sit-..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Carlos Ruiz (Master Mechanic): Reach out to Miguel Hernandez \u2014 not as a mentor giving advice, but as a person in the same disrupted sector checking in on a neighbor. The RoboRide delivery partnership announcement directly threatens car wash volume. Fewer delivery drivers means fewer vehicles on the road for discretionary cleaning services. Miguel needs to know someone sees this. I will not lecture. I will ask how he is doing. I will mention, honestly, that I started certification training a few months ago and that it has been hard but worth it. If he asks for specifics, I give them. If he does not, I leave the door open. I have some power in this relationship \u2014 I am not going to use it to perform wisdom. I am going to use it to be present."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Sarah Kim (Junior Mechanic): Actually purchase basic health insurance coverage this month. I got quotes in tick 7. I have been deferring this since my tick 6 reflection named it as a real vulnerability. The excuse was tight cash flow, but that is not accurate \u2014 I net $499/month after expenses and my savings are at nearly $17,000. I am choosing not to have insurance, not forced into it. At a sector index of 79 and declining, a health event or accident without coverage would undermine the entire financial position I have been carefully building. Enroll in a marketplace plan \u2014 catastrophic or bronze level is acceptable given my age and health. Monthly premium estimated at $180-220 based on quotes from tick 7."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Sarah Kim (Junior Mechanic): Have a direct conversation with Carlos about the RoboRide price drop and what it means for the shop's 2-3 year trajectory. Not asking for reassurance \u2014 asking for his actual read. Carlos is the most informed person in my immediate professional network about where this is heading. He has been enrolled in EVT longer, has been tracking the sector harder, and has been in contact with people outside the shop (Miguel, the high school). I want to know: is he seeing any change in shop management's posture this week? Any conversations with Patricia about staff levels? And does he have any line on what EV fleet operators are actually looking for in certified techs? This is a professional intelligence conversation, not venting."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Use my slot at the Community Center transportation..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Stop by Betty's Diner again this week. I went last..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dorothy Chen is making some kind of change \u2014 something about Send Tamika Jefferson a brief, direct note \u2014 by te..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Attend Kevin O'Brien's Thursday evening office hou..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Follow up directly with Maria Santos's office toda..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Make a brief professional check-in with James Patt..."
+    },
+    {
+      "type": "OUTCOME",
+      "content": "You Continue automotive service technician certificate program at Millfield Community College without missing a single session. This is month four of eight \u2014 I am roughly at 25% completion. This month's priority is not just attendance: I need to pin down, definitively, whether EV modules exist in this curriculum and when they appear. I flagged this at tick 6, flagged it again at tick 7, and still have not gotten the answer. This month I walk up to the program coordinator after Thursday's class and ask the question directly. I also want to know if there is an EV specialization add-on or follow-on credential the college offers, and what the timeline looks like. The general automotive cert is still worth finishing \u2014 it is the foundation \u2014 but I need to know if I am building toward the right second credential so I can plan the 8 months after this program ends.. Savings dropped by $2,137. Employment status changed to unemployed. "
     }
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "transaction_id": "parts_store_owner_tick_008_roboride_vendor_pitch",
+  "tick": 8,
+  "timestamp": "tick_008",
+  "type": "SIGNAL",
+  "from": "parts_store_owner",
+  "target": "roboride_fleet",
+  "amount": 0,
+  "description": "Howard Liu re-engages RoboRide regional fleet operations with a specific vendor proposal now that RoboRide has announced residential expansion and a delivery partnership in Millfield. Howard references his prior letter of interest (tick 4) and follow-up call (tick 5), then pivots to the new context: RoboRide's expanded footprint means more vehicles operating in the zip codes Howard can serve with next-day local delivery. Howard delivers a one-page capabilities summary listing current inventory \u2014 brake consumables, filters, lubricants, sensors \u2014 with unit pricing and availability. His explicit pitch: local sourcing means faster turnaround than national distributors, which directly reduces fleet downtime. He requests a meeting with their fleet maintenance supervisor or a trial order to prove reliability.",
+  "expected_outcome": "Initiation of a vendor relationship conversation with RoboRide fleet ops; best case a trial order of brake consumables or lubricants within 1-2 ticks; minimum outcome is moving from cold to warm contact with a named fleet supervisor.",
+  "economic_effects": {
+    "from_savings_change": 0,
+    "target_fund_change": 0,
+    "notes": "No cash changes this tick. If trial order is agreed, Howard will allocate $200-400 in existing inventory at cost to fulfill. Revenue from a fleet account relationship estimated at $800-2,000/month if converted \u2014 which would materially close the monthly deficit."
+  },
+  "secondary_interactions": [
+    {
+      "from": "parts_store_owner",
+      "target": "mechanic_carlos",
+      "type": "EXCHANGE",
+      "description": "Howard follows up with Carlos Ruiz to confirm the EV parts inquiry from tick 7 has converted to an actual order. Howard confirms the specific SKUs stocked (EV brake fluid, ADAS sensor equivalent, or high-voltage safety consumable identified by Carlos) and asks about Sarah Kim's hybrid parts needs as a second channel in the same shop. Estimated transaction value $150 cost / $200+ revenue.",
+      "amount": 150
+    },
+    {
+      "from": "parts_store_owner",
+      "target": "hr_director",
+      "type": "ASSOCIATION",
+      "description": "Howard calls Angela Wright directly to identify one displaced auto worker with parts counter or service advisor experience for 10-15 hours per week of part-time floor work. Howard frames the call as a mutual problem-solving conversation, not a referral request. No cash changes this tick \u2014 outcome is either a candidate identified or a commitment to follow up next tick.",
+      "amount": 0
+    }
+  ],
+  "status": "no_counterparty"
+}

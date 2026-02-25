@@ -34,6 +34,11 @@
       "tick": 6,
       "summary": "Lock in the AWS Solutions Architect Associate study cadence for this month: complete Module 3 (Compute Services) and Module 4 (Storage Solutions) on the course platform. Log study hours in a simple weekly tracking note. Target: 22-24 hours of study this tick, maintaining the 5-6 hour weekly commitment. Set a midpoint checkpoint \u2014 if I am not at Module 4 by the end of week 2, I restructure my evening schedule. The course does not complete itself.",
       "emotional_state": "focused, with a low-frequency background awareness of how bad things are getting for people around me"
+    },
+    {
+      "tick": 8,
+      "summary": "Advance the AWS Solutions Architect Associate cert through Modules 7 and 8 this tick \u2014 Monitoring and Governance (CloudWatch, CloudTrail, Config) and Security (IAM deep-dive, KMS, Shield, WAF). These are operational modules rather than architectural ones. Less concept-heavy, more pattern-memorization and scenario application. Maintain 5-6 hours per week. The commute time is now more productive: 8-minute RoboRide wait versus 15 means I recover roughly 14 minutes per commute day, which I redirect into flashcard review during the ride. Target: certification at 65-70% completion by end of tick, on track for the 4-month window. One practice exam section this tick \u2014 timed, scored, diagnostic.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -92,6 +97,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Lock in the AWS Solutions Architect Associate study cadence for this month: complete Module 3 (Compute Services) and Module 4 (Storage Solutions) on the course platform. Log study hours in a simple weekly tracking note. Target: 22-24 hours of study this tick, maintaining the 5-6 hour weekly commitment. Set a midpoint checkpoint \u2014 if I am not at Module 4 by the end of week 2, I restructure my evening schedule. The course does not complete itself.. Savings grew by $1,096. "
+    },
+    {
+      "tick": 8,
+      "action": "Advance the AWS Solutions Architect Associate cert through Modules 7 and 8 this tick \u2014 Monitoring and Governance (CloudWatch, CloudTrail, Config) and Security (IAM deep-dive, KMS, Shield, WAF). These are operational modules rather than architectural ones. Less concept-heavy, more pattern-memorization and scenario application. Maintain 5-6 hours per week. The commute time is now more productive: 8-minute RoboRide wait versus 15 means I recover roughly 14 minutes per commute day, which I redirect into flashcard review during the ride. Target: certification at 65-70% completion by end of tick, on track for the 4-month window. One practice exam section this tick \u2014 timed, scored, diagnostic.",
+      "savings_delta": 1096,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Advance the AWS Solutions Architect Associate cert through Modules 7 and 8 this tick \u2014 Monitoring and Governance (CloudWatch, CloudTrail, Config) and Security (IAM deep-dive, KMS, Shield, WAF). These are operational modules rather than architectural ones. Less concept-heavy, more pattern-memorization and scenario application. Maintain 5-6 hours per week. The commute time is now more productive: 8-minute RoboRide wait versus 15 means I recover roughly 14 minutes per commute day, which I redirect into flashcard review during the ride. Target: certification at 65-70% completion by end of tick, on track for the 4-month window. One practice exam section this tick \u2014 timed, scored, diagnostic.. Savings grew by $1,096. "
     }
   ],
   "reflections": [

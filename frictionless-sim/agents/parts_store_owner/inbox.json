@@ -1,6 +1,10 @@
 {
-  "tick": 8,
+  "tick": 9,
   "messages": [
+    {
+      "type": "AMBIENT",
+      "content": "Ongoing: RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership wit"
+    },
     {
       "type": "OBSERVATION",
       "content": "You notice more robotaxis on the streets. About 7% of people seem to be using them regularly."
@@ -10,12 +14,100 @@
       "content": "Auto sector revenue index: 79 (baseline: 100). Foot traffic and sales are somewhat down."
     },
     {
+      "type": "DIRECT_IMPACT",
+      "content": "Patricia Hawkins laid off workers: formally accelerate the consolidation timeline. call rick tanner today and inform him that the roboride residential expansion requires advancing the assessment conclusion from two weeks to 72 hours. i am not asking for a perfect document \u2014 i am asking for his current best read on which of the four locations has the weakest service-lane foundation and which has the strongest. the decision i am making is to close one sales floor location \u2014 the lowest-performing on service lane throughput and lease flexibility \u2014 by end of q2. this is not a contingency plan. i am committing to it now and asking rick to confirm which location the data supports. the service technicians at the closed location will be offered transfers to the surviving locations before any external hiring happens. sales floor staff at the closed location will be informed within one week and processed through angela's transition program."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Tamika Jefferson laid off workers: update the three-scenario model from tick 7 with the new roboride data. specifically: recalculate the probability weight on scenario 2 (laid off before bonus vests) given that the sector index is falling faster than modeled and roboride is now in residential coverage. adjust scenario 1 (collect bonus and leave clean) to account for the delivery partnership \u2014 this is a new demand signal for local services marketing. adjust scenario 3 (freelance ramps fast enough to exit voluntarily) to require $1,050/month in freelance income, not $700 \u2014 the delivery economy is creating more opportunities but also more competition for small business marketing. the scenario map needs to reflect the new environment, not the one i was modeling last month."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Patricia Hawkins \u2014 formally accelerate the consolidation timeline. call rick tanner today and inform him that the roboride residential expansion requires advancing the assessment conclusion from two weeks to 72 hours. i am not asking for a perfect document \u2014 i am asking for his current best read on which of the four locations has the weakest service-lane foundation and which has the strongest. the decision i am making is to close one sales floor location \u2014 the lowest-performing on service lane throughput and lease flexibility \u2014 by end of q2. this is not a contingency plan. i am committing to it now and asking rick to confirm which location the data supports. the service technicians at the closed location will be offered transfers to the surviving locations before any external hiring happens. sales floor staff at the closed location will be informed within one week and processed through angela's transition program."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Rick Tanner \u2014 send patricia a direct, short message \u2014 not a long memo \u2014 attached to the revised draft. the message does two things: first, it flags the roboride pricing event and explains in two sentences why it compresses the timeline and strengthens the tier-one service lane argument. second, it puts the compensation conversation on a deadline. i am explicit: i need a formal conversation about my engagement status before the end of the two-week window, which closes in three days. i am not asking for a favor. i am asking for a contract or a clear offer, and i am telling her that the assessment is not finalized until we have had that conversation. this is not a threat \u2014 it is professional conduct."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Tamika Jefferson \u2014 follow up on the restaurant outreach from tick 7. if they have not responded, make a direct phone call \u2014 not another message. one 10-minute conversation is worth five emails. lead with the roboride angle: more people in residential areas now moving around without cars means lunch spots that are digitally visible will capture foot traffic that used to stop for gas first. offer the 60-day pilot at $300/month, no minimum commitment. goal: verbal yes or no by end of week. a no closes the loop so i can move to the next lead. a yes gives me $650/month freelance income, which is a materially different number than $350."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Nicole Washington \u2014 respond to grace okafor's direct question with the staffing intelligence gathered from nurse colleagues last tick. tell her what i actually know: nemt experience does register with hiring managers at millfield general, but only when the applicant frames it as clinical context, not just driving. the units that are currently expanding \u2014 the post-acute step-down and the transitional care unit \u2014 are the ones where patient transport familiarity could convert. units that are contracting are primarily or-adjacent specialties that are being right-sized. the charge nurse i spoke to said something specific that grace needs to hear: 'i want to see people who already know what a confused patient looks like in a moving vehicle.' that is nemt experience, named. i am also going to close the loop on her tick 7 thank-you \u2014 acknowledge that the denise williams connection happening fast was genuinely satisfying, and that i am glad it landed. this is not a transaction. it is a relationship and i am going to say so."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "New venture: Angela Wright \u2014 formally launch and register workforce transition consulting entity \u2014 file llc formation documents with state business registry, select and register business name ('wright workforce advisory llc' or equivalent), pay filing fees from savings, open a dedicated business checking account. this formalizes the methodology and exit path angela has been building since tick 0. the roboride price drop to $0.12/mile with residential coverage and delivery partnerships represents a step-function expansion of the automotive workforce transition market \u2014 the moment to start the business is now, not after the next disruption event."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: Tamika Jefferson \u2014 update the three-scenario model from tick 7 with the new roboride data. specifically: recalculate the probability weight on scenario 2 (laid off before bonus vests) given that the sector index is falling faster than modeled and roboride is now in residential coverage. adjust scenario 1 (collect bonus and leave clean) to account for the delivery partnership \u2014 this is a new demand signal for local services marketing. adjust scenario 3 (freelance ramps fast enough to exit voluntarily) to require $1,050/month in freelance income, not $700 \u2014 the delivery economy is creating more opportunities but also more competition for small business marketing. the scenario map needs to reflect the new environment, not the one i was modeling last month."
+    },
+    {
       "type": "SOCIAL",
-      "content": "People around you are stressed: Patricia Hawkins, Rick Tanner, Angela Wright. The mood is tense."
+      "content": "People around you are stressed: Rick Tanner, Angela Wright. The mood is tense."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Tamika Jefferson is making some kind of change \u2014 something about Send a brief, professional note to Angela Wright \u2014..."
+      "content": "Someone mentioned that Patricia Hawkins is making some kind of change \u2014 something about Formally accelerate the consolidation timeline. Ca..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Patricia Hawkins is making some kind of change \u2014 something about Send a brief, professional note to Angela Wright a..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Patricia Hawkins is making some kind of change \u2014 something about Reach out to Tamika Jefferson directly \u2014 not throu..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Rick Tanner is making some kind of change \u2014 something about Send Patricia a direct, short message \u2014 not a long..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Angela Wright (HR Director, Regional Auto Group): Formally launch and register workforce transition consulting entity \u2014 file LLC formation documents with state business registry, select and register business name ('Wright Workforce Advisory LLC' or equivalent), pay filing fees from savings, open a dedicated business checking account. This formalizes the methodology and exit path Angela has been building since tick 0. The RoboRide price drop to $0.12/mile with residential coverage and delivery partnerships represents a step-function expansion of the automotive workforce transition market \u2014 the moment to start the business is now, not after the next disruption event."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Angela Wright (HR Director, Regional Auto Group): Send brief, professional acknowledgment to Tamika Jefferson confirming receipt of her engagement signal. Affirm that her active presence on the floor has been noted and is consistent with the stay bonus eligibility criteria issued last tick. Do not create new commitments \u2014 the written terms were issued, the timeline is set. The message tone is: I see you, you are doing the right things, stay the course."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Jake Morrison (Car Salesperson): Find Tamika before end of week \u2014 not a formal sit-down, just a real conversation in a low-pressure moment, before a shift or at lunch. Ask her how she's doing, genuinely. Let her bring up whatever she's working on. If she's exploring outside options, I want to know what she's found. If she's building something, I want to understand it. I am not going to ask her to take me with her. I am going to listen to someone who is in the same position I am and who appears to be moving."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Tamika Jefferson is making some kind of change \u2014 something about Contact Angela Wright to confirm receipt of the st..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Reach out to Miguel Hernandez \u2014 not as a mentor gi..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Sarah Kim is making some kind of change \u2014 something about Actually purchase basic health insurance coverage ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Sarah Kim is making some kind of change \u2014 something about Have a direct conversation with Carlos about the R..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Mark Thompson is making some kind of change \u2014 something about Update the Millfield Auto Tech Pipeline board pres..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Mark Thompson is making some kind of change \u2014 something about Finally close the Howard Liu loop. Call or stop by..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Mark Thompson is making some kind of change \u2014 something about Confirm Sarah Kim's guest instructor visit for the..."
+    },
+    {
+      "type": "OUTCOME",
+      "content": "You Re-approach RoboRide regional fleet operations with a specific, numbers-forward pitch now that their Millfield expansion is publicly announced. Howard drafts a one-page capabilities summary \u2014 not a letter of interest, a vendor proposal \u2014 that lists his current inventory of brake consumables, filters, lubricants, and sensors with unit pricing and next-day local delivery capacity. He calls the regional fleet ops contact, references the prior outreach, and frames the timing explicitly: 'You just announced residential expansion and a delivery partnership. That means more vehicles running more miles in this zip code. I am ten minutes from your nearest maintenance lot and I can have brake pads on their bench by tomorrow morning.' The goal is a trial order or a meeting with their fleet maintenance supervisor. This is the highest-leverage move available given the timing of their expansion announcement.. Savings dropped by $1,824. "
     }
   ]
 }

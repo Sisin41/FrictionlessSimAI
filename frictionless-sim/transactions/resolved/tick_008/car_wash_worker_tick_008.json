@@ -1,0 +1,19 @@
+{
+  "transaction_id": "car_wash_worker_tick_008_retraining_grant",
+  "tick": 8,
+  "timestamp": "tick_008",
+  "type": "retraining_grant_application",
+  "from": "community_center",
+  "target": "car_wash_worker",
+  "amount": 150,
+  "description": "Miguel Hernandez visits Kevin O'Brien's community center office hours to apply for a retraining stipend or grant applicable to his active enrollment in the MCC automotive service technician certificate program. He brings enrollment documentation and income verification. If approved, this represents $150/month in stipend support for an actively retraining low-wage worker in a high-displacement-risk sector. Outcome contingent on program availability and eligibility determination.",
+  "category": "retraining_support",
+  "conditional": true,
+  "condition_description": "Grant approved at community center office hours with Kevin O'Brien. Miguel is enrolled in an 8-month cert program, employed in a sector under direct RoboRide displacement pressure, with documented income at tier 4 and 1.6-month runway.",
+  "affects_state": {
+    "agent_id": "car_wash_worker",
+    "field": "financial.savings",
+    "delta": 150
+  },
+  "status": "accepted"
+}

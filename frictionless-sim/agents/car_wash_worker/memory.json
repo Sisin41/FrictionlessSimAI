@@ -39,6 +39,11 @@
       "tick": 6,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 8,
+      "summary": "Continue automotive service technician certificate program at Millfield Community College without missing a single session. This is month four of eight \u2014 I am roughly at 25% completion. This month's priority is not just attendance: I need to pin down, definitively, whether EV modules exist in this curriculum and when they appear. I flagged this at tick 6, flagged it again at tick 7, and still have not gotten the answer. This month I walk up to the program coordinator after Thursday's class and ask the question directly. I also want to know if there is an EV specialization add-on or follow-on credential the college offers, and what the timeline looks like. The general automotive cert is still worth finishing \u2014 it is the foundation \u2014 but I need to know if I am building toward the right second credential so I can plan the 8 months after this program ends.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -97,6 +102,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You routine. Savings grew by $131. "
+    },
+    {
+      "tick": 8,
+      "action": "Continue automotive service technician certificate program at Millfield Community College without missing a single session. This is month four of eight \u2014 I am roughly at 25% completion. This month's priority is not just attendance: I need to pin down, definitively, whether EV modules exist in this curriculum and when they appear. I flagged this at tick 6, flagged it again at tick 7, and still have not gotten the answer. This month I walk up to the program coordinator after Thursday's class and ask the question directly. I also want to know if there is an EV specialization add-on or follow-on credential the college offers, and what the timeline looks like. The general automotive cert is still worth finishing \u2014 it is the foundation \u2014 but I need to know if I am building toward the right second credential so I can plan the 8 months after this program ends.",
+      "savings_delta": -2137,
+      "stress_delta": -0.02,
+      "employment_changed": true,
+      "narrative": "You Continue automotive service technician certificate program at Millfield Community College without missing a single session. This is month four of eight \u2014 I am roughly at 25% completion. This month's priority is not just attendance: I need to pin down, definitively, whether EV modules exist in this curriculum and when they appear. I flagged this at tick 6, flagged it again at tick 7, and still have not gotten the answer. This month I walk up to the program coordinator after Thursday's class and ask the question directly. I also want to know if there is an EV specialization add-on or follow-on credential the college offers, and what the timeline looks like. The general automotive cert is still worth finishing \u2014 it is the foundation \u2014 but I need to know if I am building toward the right second credential so I can plan the 8 months after this program ends.. Savings dropped by $2,137. Employment status changed to unemployed. "
     }
   ],
   "reflections": [

@@ -1,0 +1,21 @@
+{
+  "tick": 7,
+  "from": "loan_officer",
+  "to": "bank_manager",
+  "type": "outreach_and_formal_request",
+  "subject": "Responding to your outreach + HR tuition reimbursement filing",
+  "message": "David \u2014 got your message. I want to meet. Whatever you are working through, I want to hear it in person. I am available this week, any slot that works for you. Separately: I am filing the HR tuition reimbursement form today for the NMLS mortgage origination course. I am listing you as the approving manager of record. If that needs to route to someone else, let me know and I will update the form. I should have filed this at tick 4. I did not. I am filing it now. The training is real, the progress is real, and I want the institution's record to reflect that independent of any single conversation between us. See you this week.",
+  "transaction_type": "relationship_action",
+  "financial_value": 0,
+  "relationship_effect": {
+    "trust_delta": 0.04,
+    "notes": "Kevin is responding proactively and transparently to an uncertain signal rather than waiting. Formalizing the HR paperwork signals institutional seriousness. Both actions reinforce Kevin as a low-risk, high-effort investment for David to report upward."
+  },
+  "secondary_target": "community_organizer",
+  "secondary_message": "Lisa \u2014 confirming first monthly office hours session at the Community Center for next week. Three new retraining enrollees this month. I will be there to answer questions about small-dollar bank products, credit access, and what First Community Bank can actually do for people in transition. One hour, open door. Let me know what room and what time works.",
+  "secondary_relationship_effect": {
+    "trust_delta": 0.05,
+    "notes": "Kevin following through on the commitment he made last tick to show up at the Community Center. Builds visibility and trust with Lisa Freeman independent of bank internal dynamics."
+  },
+  "status": "no_counterparty"
+}

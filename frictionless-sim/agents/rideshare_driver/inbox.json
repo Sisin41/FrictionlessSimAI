@@ -1,17 +1,17 @@
 {
-  "tick": 8,
+  "tick": 9,
   "messages": [
     {
-      "type": "CAPABILITY_FACT",
-      "content": "RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership with local delivery companies announced."
+      "type": "AMBIENT",
+      "content": "Ongoing: RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership wit"
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 73%."
+      "content": "Local unemployment rising. Employment rate: 67%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 42 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 40 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
@@ -22,12 +22,96 @@
       "content": "Robotaxi adoption: 7%. "
     },
     {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Denise Williams \u2014 send a targeted update to grace okafor acknowledging the roboride delivery announcement and what it means for the garage business case \u2014 and to close the loop on the hospital lead. denise sends a short, warm message: she thanks grace for the introduction to the millfield general contact, confirms the phone screen is in motion, and mentions briefly that the delivery partnership announcement has directly validated the infrastructure modernization work she has been building. she does not ask for anything. this is a relationship maintenance signal \u2014 letting grace know that her help moved the needle, and that denise is executing on both fronts. grace is clearly managing her own urgent situation right now (the roboride price drop hit her income too), so denise keeps the message brief and reciprocal: she acknowledges grace's disruption exposure and says she is thinking of her. one paragraph. no ask."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: Denise Williams \u2014 confirm and prepare for the phone screen with the facilities director at millfield general for the infrastructure operations supervisor role. denise sent her resume and proposed time windows last tick. this tick she follows through: she confirms whichever time was accepted, does targeted preparation for the call, and treats it as a full interview even though it was presented informally. her preparation covers three things: (1) she maps her garage experience onto the specific language in the millfield general job description \u2014 every line about multi-shift staffing, compliance oversight, vendor management, and budget accountability gets a concrete example from her current role; (2) she prepares one forward-looking answer about how she thinks about infrastructure modernization, using her ev/staging research as the proof point \u2014 this is not just self-promotion, it demonstrates she thinks in 5-year time horizons which is exactly what a facilities director needs; (3) she prepares a question about the scope of the role that signals strategic interest: 'how is the facilities function at millfield general thinking about the infrastructure demands of expanded outpatient volume over the next three to five years?' she is not playing the interview as a desperate candidate. she is playing it as a peer conversation between operations professionals."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: Dale Cooper \u2014 do not pursue any delivery work as a response to the roboride delivery partnership announcement. some contractors in dale's position might see autonomous delivery squeezing the margins and think about pivoting to light delivery to fill income gaps. that would be a mistake. dale's competitive advantage is in skilled construction trades \u2014 things that require a human being with expertise and tools on-site. moving into delivery would put him in direct competition with a technology that has a structural cost advantage he cannot overcome. his truck is a construction tool, not a delivery asset. stay in his lane."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: Grace Okafor \u2014 research and enroll in nemt certification. begin active enrollment in the 40-hour nemt certification program. this is conditional on what i hear from robert jackson this week \u2014 if he tells me the sector is saturated or the rates are not real, i re-evaluate. but absent contrary evidence, i treat this as the right move. the 40-hour certification can be completed in 2-3 weeks alongside reduced driving hours. cost is approximately $300-$500 for the course and vehicle inspection. i use savings to fund this. once certified, i can operate as an nemt driver, which gives me medicaid-billable routes at $18-22/hour versus the rideshare income that is now structurally degrading. the certification does not displace nursing school \u2014 it runs alongside it as a bridge income strategy. the nemt credential also has direct relevance to my nursing career: patient transport experience is legitimate clinical exposure that hiring managers recognize."
+    },
+    {
       "type": "SOCIAL",
       "content": "People around you are stressed: Betty Kowalski. The mood is tense."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Tamika Jefferson is making some kind of change \u2014 something about Send a brief, professional note to Angela Wright \u2014..."
+      "content": "Someone mentioned that Tamika Jefferson is making some kind of change \u2014 something about Contact Angela Wright to confirm receipt of the st..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Reach out to Miguel Hernandez \u2014 not as a mentor gi..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Contact RoboRide local partnership coordinator to ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Betty goes to Carlos Ruiz's shop and buys him lunc..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Betty attends Kevin O'Brien's office hours at the ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Confirm and prepare for the phone screen with the ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Send a targeted update to Grace Okafor acknowledgi..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that James Patterson is making some kind of change \u2014 something about Follow up on the Howard Liu outreach from tick 7. ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that James Patterson is making some kind of change \u2014 something about Recalibrate the monthly roboride transport budget ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Make a decision on health insurance. After five ti..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Follow up with Lisa Freeman to confirm the two rep..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Check in on Betty Kowalski \u2014 not as a contractor l..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Follow up directly with Maria Santos's office toda..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Make a brief professional check-in with James Patt..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Grace Okafor (Part-time Rideshare Driver / Nursing Student): Contact the workforce development office again \u2014 this time to get a definitive answer on the grant. The window I calculated at tick 5 has now fully elapsed. 6 to 8 weeks from the tick 5 application puts the decision at tick 7 or tick 8. I called at tick 7 for a status update. This tick I follow up on whatever they told me. If the decision has been made, I need the number immediately \u2014 a grant of any size changes my second-half tuition math and may allow me to shift to a heavier course load to accelerate my credential by 1-2 months, which directly addresses the runway problem. If the decision is delayed past 8 weeks, I treat the grant as unreliable and build without it. I need a binary answer this tick: funded or not funded, and if funded, how much. I act accordingly on the tuition front the moment I have that number."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Grace Okafor (Part-time Rideshare Driver / Nursing Student): Research and enroll in NEMT certification. Begin active enrollment in the 40-hour NEMT certification program. This is conditional on what I hear from Robert Jackson this week \u2014 if he tells me the sector is saturated or the rates are not real, I re-evaluate. But absent contrary evidence, I treat this as the right move. The 40-hour certification can be completed in 2-3 weeks alongside reduced driving hours. Cost is approximately $300-$500 for the course and vehicle inspection. I use savings to fund this. Once certified, I can operate as an NEMT driver, which gives me Medicaid-billable routes at $18-22/hour versus the rideshare income that is now structurally degrading. The certification does not displace nursing school \u2014 it runs alongside it as a bridge income strategy. The NEMT credential also has direct relevance to my nursing career: patient transport experience is legitimate clinical exposure that hiring managers recognize."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Grace Okafor (Part-time Rideshare Driver / Nursing Student): Send a direct message to Nicole Washington. Move beyond the light signal from prior ticks. Tell her plainly: I am 8 months from a CNA credential, the RoboRide expansion just changed my income timeline materially, and I am actively evaluating whether the NEMT bridge buys me enough runway to reach graduation without a financial crisis. I want to know one thing from her professional perspective: for someone entering nursing with a CNA plus NEMT transport experience, is there a pathway at Millfield General that values patient transport background specifically, or is the clinical credential the only thing that matters to hiring managers? I am not asking her to help me get a job. I am asking her to help me make a better decision about sequencing my next six months. She is a nurse, she knows how hiring works from the inside, and she has been warm in our exchanges. This is the moment to ask the direct question rather than another low-friction signal."
+    },
+    {
+      "type": "OUTCOME",
+      "content": "You Activate NEMT certification and accelerate job transition \u2014 move from passive outreach to urgent conversion. Call Millfield Medical Transport again today and explicitly state availability to start within two weeks, not two months. Call CareRide of the Valley dispatcher directly rather than routing through HR \u2014 ask for same-week availability. Follow up on St. Clement's patient transport coordinator contact from tick 7. The posture shifts: I am no longer a stable rideshare driver exploring options. I am a credentialed NEMT driver who needs to land a contract. This is not desperation \u2014 I have a legitimate credential and a clean record \u2014 but the timeline has compressed and I am not going to pretend otherwise in my own head. The goal this tick: secure at least one confirmed interview, ideally one conditional offer or trial arrangement.. Savings grew by $387. "
     }
   ]
 }

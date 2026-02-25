@@ -1,0 +1,11 @@
+{
+  "transaction_id": "single_parent_tick_007_savings",
+  "tick": 7,
+  "type": "savings_deposit",
+  "from": "single_parent",
+  "target": "single_parent_savings",
+  "amount": 350,
+  "description": "Intentional emergency savings deposit \u2014 deliberate increase from passive accumulation to named monthly contribution. Building runway buffer with two dependents.",
+  "timestamp": "tick_007",
+  "status": "no_counterparty"
+}

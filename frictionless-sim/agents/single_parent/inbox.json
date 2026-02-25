@@ -1,13 +1,77 @@
 {
-  "tick": 8,
+  "tick": 9,
   "messages": [
+    {
+      "type": "AMBIENT",
+      "content": "Ongoing: RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership wit"
+    },
     {
       "type": "OBSERVATION",
       "content": "You notice more robotaxis on the streets. About 7% of people seem to be using them regularly."
     },
     {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Denise Williams \u2014 send a targeted update to grace okafor acknowledging the roboride delivery announcement and what it means for the garage business case \u2014 and to close the loop on the hospital lead. denise sends a short, warm message: she thanks grace for the introduction to the millfield general contact, confirms the phone screen is in motion, and mentions briefly that the delivery partnership announcement has directly validated the infrastructure modernization work she has been building. she does not ask for anything. this is a relationship maintenance signal \u2014 letting grace know that her help moved the needle, and that denise is executing on both fronts. grace is clearly managing her own urgent situation right now (the roboride price drop hit her income too), so denise keeps the message brief and reciprocal: she acknowledges grace's disruption exposure and says she is thinking of her. one paragraph. no ask."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: Denise Williams \u2014 confirm and prepare for the phone screen with the facilities director at millfield general for the infrastructure operations supervisor role. denise sent her resume and proposed time windows last tick. this tick she follows through: she confirms whichever time was accepted, does targeted preparation for the call, and treats it as a full interview even though it was presented informally. her preparation covers three things: (1) she maps her garage experience onto the specific language in the millfield general job description \u2014 every line about multi-shift staffing, compliance oversight, vendor management, and budget accountability gets a concrete example from her current role; (2) she prepares one forward-looking answer about how she thinks about infrastructure modernization, using her ev/staging research as the proof point \u2014 this is not just self-promotion, it demonstrates she thinks in 5-year time horizons which is exactly what a facilities director needs; (3) she prepares a question about the scope of the role that signals strategic interest: 'how is the facilities function at millfield general thinking about the infrastructure demands of expanded outpatient volume over the next three to five years?' she is not playing the interview as a desperate candidate. she is playing it as a peer conversation between operations professionals."
+    },
+    {
       "type": "SOCIAL",
       "content": "People around you are stressed: Betty Kowalski. The mood is tense."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about Tell Linda directly, in a brief in-person or writt..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Contact RoboRide local partnership coordinator to ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Betty goes to Carlos Ruiz's shop and buys him lunc..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Betty attends Kevin O'Brien's office hours at the ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Miguel Hernandez is making some kind of change \u2014 something about Have a direct conversation with Carlos (mechanic_c..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Confirm and prepare for the phone screen with the ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Send a targeted update to Grace Okafor acknowledgi..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Follow up directly with Maria Santos's office toda..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Make a brief professional check-in with James Patt..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Grace Okafor is making some kind of change \u2014 something about Contact the workforce development office again \u2014 t..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Grace Okafor is making some kind of change \u2014 something about Research and enroll in NEMT certification. Begin a..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Grace Okafor is making some kind of change \u2014 something about Send a direct message to Nicole Washington. Move b..."
+    },
+    {
+      "type": "OUTCOME",
+      "content": "You Respond to Grace Okafor's direct question with the staffing intelligence gathered from nurse colleagues last tick. Tell her what I actually know: NEMT experience does register with hiring managers at Millfield General, but only when the applicant frames it as clinical context, not just driving. The units that are currently expanding \u2014 the post-acute step-down and the transitional care unit \u2014 are the ones where patient transport familiarity could convert. Units that are contracting are primarily OR-adjacent specialties that are being right-sized. The charge nurse I spoke to said something specific that Grace needs to hear: 'I want to see people who already know what a confused patient looks like in a moving vehicle.' That is NEMT experience, named. I am also going to close the loop on her tick 7 thank-you \u2014 acknowledge that the Denise Williams connection happening fast was genuinely satisfying, and that I am glad it landed. This is not a transaction. It is a relationship and I am going to say so.. Savings grew by $285. "
     }
   ]
 }

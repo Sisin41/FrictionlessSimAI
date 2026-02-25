@@ -1,0 +1,15 @@
+{
+  "transaction_id": "dealership_gm_tick_007",
+  "tick": 7,
+  "tickpad": "007",
+  "from_agent": "dealership_gm",
+  "to_agent": "ceo_regional_auto",
+  "type": "communication_and_deliverable",
+  "subject": "Three-tier asset map \u2014 engagement confirmation and status clarification",
+  "content": "Patricia \u2014 I am on the two-week clock you confirmed. I am starting the three-tier asset map today. Tier one will be the non-negotiable core: certified technician capacity, Carlos Ruiz, the service lane infrastructure. Tier two will be what can be restructured without destroying that core. Tier three will be what can be wound down with minimal collateral damage. I will deliver a draft for your review before it becomes final. One thing I want on the table before I go further: I am treating this as a consulting engagement, not a favor. I want a direct conversation about my formal status and what compensation looks like while I execute this assessment. I have been on this floor for thirty-two years. That is worth something. I am not going anywhere while this work is in progress \u2014 but I am not working for free while my own situation is unresolved. When can we talk?",
+  "expected_response": "Acknowledgment from Patricia of the consulting framing and agreement to a direct conversation about Rick's formal status and compensation during the assessment period",
+  "trust_impact": 0.03,
+  "relationship_type": "colleague",
+  "tone": "direct, professional, without grievance \u2014 but not deferential",
+  "status": "no_counterparty"
+}

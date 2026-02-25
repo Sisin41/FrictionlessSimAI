@@ -75,12 +75,12 @@
       "availability_heuristic": 0.55,
       "social_proof_sensitivity": 0.6
     },
-    "sentiment": "neutral"
+    "sentiment": "determined"
   },
   "psychological": {
-    "stress_level": 0.19,
-    "agency": 0.46,
-    "grief_stage": "none",
+    "stress_level": 0.17,
+    "agency": 0.48,
+    "grief_stage": "bargaining",
     "temporal_horizon_months": 10,
     "high_stress_ticks": 0
   },
@@ -122,5 +122,5 @@
   },
   "locality": "millfield",
   "archetype": "adapter",
-  "tick_updated": 6
+  "tick_updated": 8
 }

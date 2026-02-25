@@ -1,0 +1,21 @@
+{
+  "tick": 7,
+  "from": "commuter_james",
+  "target": "loan_officer",
+  "type": "community_attendance",
+  "subject": "Attending financial literacy office hours",
+  "message": "Kevin \u2014 I heard you are doing open office hours at the Community Center. I am coming. Not because I am in financial trouble, but because I have been watching what is happening in Millfield for seven months and I want to understand it from your vantage point. I will be there. One hour. I am curious what people are asking you.",
+  "transaction_type": "relationship_action",
+  "financial_value": 0,
+  "relationship_effect": {
+    "trust_delta": 0.06,
+    "notes": "James showing up at Kevin's office hours as a stable, engaged community member rather than a distressed client. This signals to Kevin that his session has reach beyond crisis cases and deepens a previously low-trust professional connection. James gains first-hand read on community economic distress through a credible financial intermediary."
+  },
+  "secondary_target": "parts_store_owner",
+  "secondary_message": "Howard \u2014 it has been too long. I keep seeing signals that you are working the RoboRide fleet angle and I want to hear about it directly. Can we grab coffee this week or a quick call? No agenda. I am genuinely curious where things are going for you and I would rather hear it from you than read it second-hand.",
+  "secondary_relationship_effect": {
+    "trust_delta": 0.05,
+    "notes": "James acting on his own noted regret \u2014 ending passivity with his highest-trust contact. Howard is actively pivoting toward fleet relationships in the exact disruption ecosystem James has been navigating. Direct outreach before any need or ask builds relationship equity while James still has no urgency attached to it."
+  },
+  "status": "accepted"
+}

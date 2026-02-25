@@ -34,6 +34,11 @@
       "tick": 6,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 8,
+      "summary": "Re-approach RoboRide regional fleet operations with a specific, numbers-forward pitch now that their Millfield expansion is publicly announced. Howard drafts a one-page capabilities summary \u2014 not a letter of interest, a vendor proposal \u2014 that lists his current inventory of brake consumables, filters, lubricants, and sensors with unit pricing and next-day local delivery capacity. He calls the regional fleet ops contact, references the prior outreach, and frames the timing explicitly: 'You just announced residential expansion and a delivery partnership. That means more vehicles running more miles in this zip code. I am ten minutes from your nearest maintenance lot and I can have brake pads on their bench by tomorrow morning.' The goal is a trial order or a meeting with their fleet maintenance supervisor. This is the highest-leverage move available given the timing of their expansion announcement.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -92,6 +97,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You routine. Savings dropped by $1,323. "
+    },
+    {
+      "tick": 8,
+      "action": "Re-approach RoboRide regional fleet operations with a specific, numbers-forward pitch now that their Millfield expansion is publicly announced. Howard drafts a one-page capabilities summary \u2014 not a letter of interest, a vendor proposal \u2014 that lists his current inventory of brake consumables, filters, lubricants, and sensors with unit pricing and next-day local delivery capacity. He calls the regional fleet ops contact, references the prior outreach, and frames the timing explicitly: 'You just announced residential expansion and a delivery partnership. That means more vehicles running more miles in this zip code. I am ten minutes from your nearest maintenance lot and I can have brake pads on their bench by tomorrow morning.' The goal is a trial order or a meeting with their fleet maintenance supervisor. This is the highest-leverage move available given the timing of their expansion announcement.",
+      "savings_delta": -1824,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Re-approach RoboRide regional fleet operations with a specific, numbers-forward pitch now that their Millfield expansion is publicly announced. Howard drafts a one-page capabilities summary \u2014 not a letter of interest, a vendor proposal \u2014 that lists his current inventory of brake consumables, filters, lubricants, and sensors with unit pricing and next-day local delivery capacity. He calls the regional fleet ops contact, references the prior outreach, and frames the timing explicitly: 'You just announced residential expansion and a delivery partnership. That means more vehicles running more miles in this zip code. I am ten minutes from your nearest maintenance lot and I can have brake pads on their bench by tomorrow morning.' The goal is a trial order or a meeting with their fleet maintenance supervisor. This is the highest-leverage move available given the timing of their expansion announcement.. Savings dropped by $1,824. "
     }
   ],
   "reflections": [

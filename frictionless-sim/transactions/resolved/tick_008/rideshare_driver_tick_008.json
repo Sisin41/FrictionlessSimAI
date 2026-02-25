@@ -1,0 +1,20 @@
+{
+  "source_agent": "rideshare_driver",
+  "source_name": "Robert Jackson",
+  "tick": 8,
+  "targets": [
+    {
+      "target_agent": "uber_driver_2",
+      "target_name": "Grace Okafor",
+      "transaction_type": "EXCHANGE",
+      "message": "Grace \u2014 you asked at tick 7 about hiring timelines on the NEMT side. Here is what I have. Certification is done and in hand. I made first contact last tick with three employers: Millfield Medical Transport, CareRide of the Valley, and St. Clement's patient transport. I am following up on all three this week with real urgency now. RoboRide's residential expansion hit this week \u2014 $0.12 a mile, 8-minute waits, full neighborhood coverage. My original estimate of 4-6 months before rideshare income became unreliable was wrong. It just became weeks. I am not in crisis \u2014 I have the cert and I have savings runway \u2014 but I am no longer exploring NEMT as a future option. I am converting to it now. Specific question for you: has anything come through your hospital or nursing program network about regional NEMT operators, or have any of your passengers mentioned Millfield Medical Transport or CareRide? Also, any word through Nicole or anyone else on the Maria Santos retraining grant? I applied at tick 2 and have heard nothing. That $2,500 would matter right now. You are further along on the nursing credential than I realized from your last note \u2014 I am rooting for you. Keep me posted on what you are seeing.",
+      "resources": {
+        "type": "information",
+        "direction": "both",
+        "amount": 1,
+        "detail": "Robert shares: (1) NEMT certification confirmed complete, (2) active job search status with three specific named employers, (3) explicit timeline compression signal \u2014 RoboRide residential expansion has moved the urgency from months to weeks, (4) current financial posture: holding bridge income while converting. Requests: (1) any NEMT employer intelligence Grace has from her nursing or passenger network, (2) any update on the Maria Santos retraining grant status via council connections."
+      }
+    }
+  ],
+  "status": "no_counterparty"
+}

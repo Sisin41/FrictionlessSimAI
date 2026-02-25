@@ -1,17 +1,17 @@
 {
-  "tick": 8,
+  "tick": 9,
   "messages": [
     {
-      "type": "CAPABILITY_FACT",
-      "content": "RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership with local delivery companies announced."
+      "type": "AMBIENT",
+      "content": "Ongoing: RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership wit"
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 73%."
+      "content": "Local unemployment rising. Employment rate: 67%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 42 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 40 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
@@ -19,7 +19,27 @@
     },
     {
       "type": "SOCIAL",
-      "content": "People around you are stressed: Patricia Hawkins, Rick Tanner. The mood is tense."
+      "content": "People around you are stressed: Rick Tanner. The mood is tense."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Rick Tanner is making some kind of change \u2014 something about Send Patricia a direct, short message \u2014 not a long..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Reach out to Miguel Hernandez \u2014 not as a mentor gi..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Follow up directly with Maria Santos's office toda..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Make a brief professional check-in with James Patt..."
+    },
+    {
+      "type": "OUTCOME",
+      "content": "You Contact RoboRide local partnership coordinator to inquire about the diner kitchen participating in the new delivery network. Betty calls the number listed in the partnership announcement and asks direct questions: what are the requirements to become a delivery prep partner, what does the revenue share look like, how quickly can a small kitchen get set up. She is not committing \u2014 she is gathering information so she can decide whether this is a real option or a dead end.. Savings dropped by $4,268. "
     }
   ]
 }

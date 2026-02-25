@@ -1,21 +1,117 @@
 {
-  "tick": 8,
+  "tick": 9,
   "messages": [
     {
-      "type": "CAPABILITY_FACT",
-      "content": "RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership with local delivery companies announced."
+      "type": "AMBIENT",
+      "content": "Ongoing: RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership wit"
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 73%."
+      "content": "Local unemployment rising. Employment rate: 67%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 42 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 40 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
       "content": "You notice more robotaxis on the streets. About 7% of people seem to be using them regularly."
+    },
+    {
+      "type": "NEWS",
+      "content": "Patricia Hawkins laid off workers: formally accelerate the consolidation timeline. call rick tanner today and inform him that the roboride residential expansion requires advancing the assessment conclusion from two weeks to 72 hours. i am not asking for a perfect document \u2014 i am asking for his current best read on which of the four locations has the weakest service-lane foundation and which has the strongest. the decision i am making is to close one sales floor location \u2014 the lowest-performing on service lane throughput and lease flexibility \u2014 by end of q2. this is not a contingency plan. i am committing to it now and asking rick to confirm which location the data supports. the service technicians at the closed location will be offered transfers to the surviving locations before any external hiring happens. sales floor staff at the closed location will be informed within one week and processed through angela's transition program."
+    },
+    {
+      "type": "NEWS",
+      "content": "Linda Park laid off workers: lay off tom bradley. schedule a direct, private conversation this week. tell him the personal auto book has declined 21% from baseline and the roboride residential expansion will push it further. the regional headcount cannot support two field agents on a contracting book. give him a 30-day notice with a professional reference and a specific offer to introduce him to the logistics and fleet contacts i have been cultivating through my own job search. this is not a performance issue \u2014 it is a structural one, and i will say that plainly. i will not soften it into ambiguity."
+    },
+    {
+      "type": "NEWS",
+      "content": "Tamika Jefferson laid off workers: update the three-scenario model from tick 7 with the new roboride data. specifically: recalculate the probability weight on scenario 2 (laid off before bonus vests) given that the sector index is falling faster than modeled and roboride is now in residential coverage. adjust scenario 1 (collect bonus and leave clean) to account for the delivery partnership \u2014 this is a new demand signal for local services marketing. adjust scenario 3 (freelance ramps fast enough to exit voluntarily) to require $1,050/month in freelance income, not $700 \u2014 the delivery economy is creating more opportunities but also more competition for small business marketing. the scenario map needs to reflect the new environment, not the one i was modeling last month."
+    },
+    {
+      "type": "NEWS",
+      "content": "Business closing: Patricia Hawkins \u2014 formally accelerate the consolidation timeline. call rick tanner today and inform him that the roboride residential expansion requires advancing the assessment conclusion from two weeks to 72 hours. i am not asking for a perfect document \u2014 i am asking for his current best read on which of the four locations has the weakest service-lane foundation and which has the strongest. the decision i am making is to close one sales floor location \u2014 the lowest-performing on service lane throughput and lease flexibility \u2014 by end of q2. this is not a contingency plan. i am committing to it now and asking rick to confirm which location the data supports. the service technicians at the closed location will be offered transfers to the surviving locations before any external hiring happens. sales floor staff at the closed location will be informed within one week and processed through angela's transition program."
+    },
+    {
+      "type": "NEWS",
+      "content": "Business closing: David Chen \u2014 make contact with kevin o'brien informally \u2014 not as his former manager, but as a peer who wants to know how the first community center office hours session went. i want to hear what he is learning: who showed up, what questions people had, what their financial situations actually look like. this is not supervisory. kevin is now operating independent of any reporting relationship with me and he knows it. but the intelligence he is gathering at those sessions \u2014 the ground-level picture of what small businesses and individuals are actually facing \u2014 is something i do not have access to from my current position outside the bank. staying connected to kevin keeps me close to the community lending opportunity i was building toward in my portfolio diversification plan. if i eventually land a role at a credit union or community bank focused on small-dollar lending, what kevin learns at those sessions is directly relevant. and kevin deserves to know that someone who backed his initiative is still paying attention."
+    },
+    {
+      "type": "NEWS",
+      "content": "Business closing: Rick Tanner \u2014 send patricia a direct, short message \u2014 not a long memo \u2014 attached to the revised draft. the message does two things: first, it flags the roboride pricing event and explains in two sentences why it compresses the timeline and strengthens the tier-one service lane argument. second, it puts the compensation conversation on a deadline. i am explicit: i need a formal conversation about my engagement status before the end of the two-week window, which closes in three days. i am not asking for a favor. i am asking for a contract or a clear offer, and i am telling her that the assessment is not finalized until we have had that conversation. this is not a threat \u2014 it is professional conduct."
+    },
+    {
+      "type": "NEWS",
+      "content": "Business closing: Tamika Jefferson \u2014 follow up on the restaurant outreach from tick 7. if they have not responded, make a direct phone call \u2014 not another message. one 10-minute conversation is worth five emails. lead with the roboride angle: more people in residential areas now moving around without cars means lunch spots that are digitally visible will capture foot traffic that used to stop for gas first. offer the 60-day pilot at $300/month, no minimum commitment. goal: verbal yes or no by end of week. a no closes the loop so i can move to the next lead. a yes gives me $650/month freelance income, which is a materially different number than $350."
+    },
+    {
+      "type": "NEWS",
+      "content": "Business closing: Amir Patel \u2014 call kevin o'brien at the bank and tell him i am ready to move forward on the ev charger capital improvement loan. reference the term sheet from our tick 5 meeting. confirm the loan amount ($12,000 \u2014 midpoint of the $8,000\u2013$15,000 range), rate, and monthly payment. ask him to initiate the paperwork. simultaneously, contact chargepoint directly to request a revenue-share partnership proposal for two level 2 stations \u2014 i want their numbers in hand before the loan closes so i can calculate the true net monthly cost. i am not installing this week. i am locking in the financing commitment and getting the network partnership proposal. these are the two remaining dependencies before i can pull the trigger."
+    },
+    {
+      "type": "NEWS",
+      "content": "Business closing: Denise Williams \u2014 send a targeted update to grace okafor acknowledging the roboride delivery announcement and what it means for the garage business case \u2014 and to close the loop on the hospital lead. denise sends a short, warm message: she thanks grace for the introduction to the millfield general contact, confirms the phone screen is in motion, and mentions briefly that the delivery partnership announcement has directly validated the infrastructure modernization work she has been building. she does not ask for anything. this is a relationship maintenance signal \u2014 letting grace know that her help moved the needle, and that denise is executing on both fronts. grace is clearly managing her own urgent situation right now (the roboride price drop hit her income too), so denise keeps the message brief and reciprocal: she acknowledges grace's disruption exposure and says she is thinking of her. one paragraph. no ask."
+    },
+    {
+      "type": "NEWS",
+      "content": "Business closing: Zoe Martinez \u2014 follow up aggressively on the freelance social media management pitches from tick 7. if i pitched two or three businesses last tick, i am following up by phone or in person this week \u2014 not waiting for them to come to me. i am also expanding the outreach: the diner, any small business on or adjacent to auto row that is still posting on instagram and clearly struggling with their social presence. my rate is $100 to $150 per month. i am pitching the value specifically: in a month where consumer spending is down 58% from baseline and foot traffic is soft, local businesses that stay visible and human on social media have a real edge. i know how to make that happen. i have the phone in my hand right now. the goal this tick is to close at least one paying client before the end of the month \u2014 even $100 is real money at zero savings."
+    },
+    {
+      "type": "NEWS",
+      "content": "Business closing: Nicole Washington \u2014 respond to grace okafor's direct question with the staffing intelligence gathered from nurse colleagues last tick. tell her what i actually know: nemt experience does register with hiring managers at millfield general, but only when the applicant frames it as clinical context, not just driving. the units that are currently expanding \u2014 the post-acute step-down and the transitional care unit \u2014 are the ones where patient transport familiarity could convert. units that are contracting are primarily or-adjacent specialties that are being right-sized. the charge nurse i spoke to said something specific that grace needs to hear: 'i want to see people who already know what a confused patient looks like in a moving vehicle.' that is nemt experience, named. i am also going to close the loop on her tick 7 thank-you \u2014 acknowledge that the denise williams connection happening fast was genuinely satisfying, and that i am glad it landed. this is not a transaction. it is a relationship and i am going to say so."
+    },
+    {
+      "type": "NEWS",
+      "content": "Business closing: Mark Thompson \u2014 finally close the howard liu loop. call or stop by the parts store this week. introduce myself as the auto shop teacher building the ev training pipeline and ask him a direct question: what are the shops on auto row actually ordering for ev and hybrid repairs right now, and what do they say they cannot get technicians to handle? i want ground-level demand data from someone who sees the transaction side of the disruption. if he has any contacts at local fleet operators or the delivery companies now partnering with roboride, i want to know. this is a listening visit first. if the relationship is there, i ask if he would be willing to provide a brief written statement for the board presentation about demand for ev-trained technicians from a parts supplier perspective."
+    },
+    {
+      "type": "NEWS",
+      "content": "New venture: Angela Wright \u2014 formally launch and register workforce transition consulting entity \u2014 file llc formation documents with state business registry, select and register business name ('wright workforce advisory llc' or equivalent), pay filing fees from savings, open a dedicated business checking account. this formalizes the methodology and exit path angela has been building since tick 0. the roboride price drop to $0.12/mile with residential coverage and delivery partnerships represents a step-function expansion of the automotive workforce transition market \u2014 the moment to start the business is now, not after the next disruption event."
+    },
+    {
+      "type": "NEWS",
+      "content": "Community action: David Chen \u2014 follow up directly with linda park on the tick 7 outreach \u2014 not a second ask, but a brief, professional note acknowledging the roboride expansion as the context for my outreach. frame it: i reached out last week because i saw this coming, and this week confirms the trajectory. the point is not to say 'i told you so' \u2014 it is to demonstrate that i understand the market with precision, that i can be useful to anyone in the regional financial services space who needs someone who can read disruption early. ask specifically whether she has heard of any credit union, community bank, or insurance-adjacent finance roles in the region \u2014 and offer to share the scenario models i built at first community as context for any conversation she facilitates. this is active relationship management, not passive networking."
+    },
+    {
+      "type": "NEWS",
+      "content": "Community action: Tamika Jefferson \u2014 update the three-scenario model from tick 7 with the new roboride data. specifically: recalculate the probability weight on scenario 2 (laid off before bonus vests) given that the sector index is falling faster than modeled and roboride is now in residential coverage. adjust scenario 1 (collect bonus and leave clean) to account for the delivery partnership \u2014 this is a new demand signal for local services marketing. adjust scenario 3 (freelance ramps fast enough to exit voluntarily) to require $1,050/month in freelance income, not $700 \u2014 the delivery economy is creating more opportunities but also more competition for small business marketing. the scenario map needs to reflect the new environment, not the one i was modeling last month."
+    },
+    {
+      "type": "NEWS",
+      "content": "Community action: Kevin O'Brien \u2014 formally request a portfolio expansion meeting with david chen (or his successor/interim manager if david has departed) to add small business lending and personal loan origination to kevin's active scope. the nmls mortgage pathway is 8 months out. small business and personal loan work is something kevin can do with existing credentials now. frame it as: auto volume is structurally declining, kevin has the compliance and credit skills, the bank has sba products and personal loan products that are underutilized, and kevin wants to be the originator who covers that gap starting this month. this is not a request for reassignment \u2014 it is a request to expand the current role rather than wait for attrition to force a move."
+    },
+    {
+      "type": "NEWS",
+      "content": "Community action: Denise Williams \u2014 confirm and prepare for the phone screen with the facilities director at millfield general for the infrastructure operations supervisor role. denise sent her resume and proposed time windows last tick. this tick she follows through: she confirms whichever time was accepted, does targeted preparation for the call, and treats it as a full interview even though it was presented informally. her preparation covers three things: (1) she maps her garage experience onto the specific language in the millfield general job description \u2014 every line about multi-shift staffing, compliance oversight, vendor management, and budget accountability gets a concrete example from her current role; (2) she prepares one forward-looking answer about how she thinks about infrastructure modernization, using her ev/staging research as the proof point \u2014 this is not just self-promotion, it demonstrates she thinks in 5-year time horizons which is exactly what a facilities director needs; (3) she prepares a question about the scope of the role that signals strategic interest: 'how is the facilities function at millfield general thinking about the infrastructure demands of expanded outpatient volume over the next three to five years?' she is not playing the interview as a desperate candidate. she is playing it as a peer conversation between operations professionals."
+    },
+    {
+      "type": "NEWS",
+      "content": "Community action: James Patterson \u2014 follow up on the howard liu outreach from tick 7. if he responded, have the actual conversation \u2014 coffee or a call, his choice. if he did not respond, send a shorter follow-up: one line, just a coffee ask, no pressure framing. the goal of this interaction is information exchange and relationship depth, not extraction. howard is watching roboride's delivery partnership announcement from a direct-competition angle \u2014 his auto parts business is already under pressure from declining car ownership. the delivery partnership means roboride is becoming logistics infrastructure. that is either a threat to howard's existing pivot strategy or a new vector he has not fully mapped. i want to know which it is. i am also willing to share what i know from the tech side \u2014 fleet software architecture, how delivery routing optimization tends to work. that is a genuine offer, not a transaction. high-trust contact. time to act like it."
+    },
+    {
+      "type": "NEWS",
+      "content": "Community action: Dale Cooper \u2014 do not pursue any delivery work as a response to the roboride delivery partnership announcement. some contractors in dale's position might see autonomous delivery squeezing the margins and think about pivoting to light delivery to fill income gaps. that would be a mistake. dale's competitive advantage is in skilled construction trades \u2014 things that require a human being with expertise and tools on-site. moving into delivery would put him in direct competition with a technology that has a structural cost advantage he cannot overcome. his truck is a construction tool, not a delivery asset. stay in his lane."
+    },
+    {
+      "type": "NEWS",
+      "content": "Community action: Dorothy Chen \u2014 stop by betty's diner again this week. i went last tick and i will go again \u2014 not to hover, not to perform concern, but because sustained presence is different from a single visit. a single visit can be curiosity. coming back is a relationship. i will order a meal, tip well, and if betty has bandwidth to talk i will be there for it. if she is slammed, i will eat my food and leave without demanding her attention. i will also mention, if it comes up naturally, that i have heard the roboride delivery partnership has started \u2014 not as a business suggestion she did not ask for, but because it might be worth knowing that robotaxis can now deliver food, which could be either competition or opportunity depending on how she wants to think about it. i will not frame it for her. i will just mention it exists."
+    },
+    {
+      "type": "NEWS",
+      "content": "Community action: Zoe Martinez \u2014 investigate and sign up for roboride's delivery partnership program this week. my angle is different from a car-based delivery driver: i am foot and bicycle, which means i am the last-mile layer \u2014 the piece of the delivery chain that gets from the roboride drop point to the apartment door, the thing autonomous vehicles literally cannot do yet. research the partner registration process, check whether millfield's new residential coverage area includes the neighborhoods where i already run doordash routes, and if the rates are competitive or better, begin shifting my hours toward roboride delivery and away from legacy platforms. if roboride is going to compress doordash and uber eats margins anyway \u2014 and at $0.12/mile with 8-minute waits they will \u2014 i want to be inside the system that is winning, not outside the one that is losing. i am also making a short tiktok about this: 'car-free gig worker perspective on the roboride delivery expansion \u2014 here is what it actually means if your hustle is on a bike.' that content is authentic, timely, and builds my social media presence while i research."
+    },
+    {
+      "type": "NEWS",
+      "content": "Community action: Grace Okafor \u2014 research and enroll in nemt certification. begin active enrollment in the 40-hour nemt certification program. this is conditional on what i hear from robert jackson this week \u2014 if he tells me the sector is saturated or the rates are not real, i re-evaluate. but absent contrary evidence, i treat this as the right move. the 40-hour certification can be completed in 2-3 weeks alongside reduced driving hours. cost is approximately $300-$500 for the course and vehicle inspection. i use savings to fund this. once certified, i can operate as an nemt driver, which gives me medicaid-billable routes at $18-22/hour versus the rideshare income that is now structurally degrading. the certification does not displace nursing school \u2014 it runs alongside it as a bridge income strategy. the nemt credential also has direct relevance to my nursing career: patient transport experience is legitimate clinical exposure that hiring managers recognize."
+    },
+    {
+      "type": "NEWS",
+      "content": "Policy proposal: Maria Santos \u2014 issue an urgent public policy statement on the roboride expansion announcement. the statement has three specific components: (1) welcome the price reduction as a sign the competitive framework is working, but make clear that lower prices do not reduce the company's obligations under the municipal operating license \u2014 the workforce fund fee applies to every ride, including at $0.12/mile. (2) issue a formal notice that the delivery partnership announced today is not covered under the existing operating license, which was issued for passenger transportation services only. roboride must apply for a delivery operations amendment to the license within 30 days or cease delivery operations in millfield. the amendment application will carry the same workforce fund fee structure and local hiring preference clause. (3) announce an emergency task force session within 10 days to review whether the licensing framework needs to be updated to address residential coverage expansion and multi-service operations. i am not slowing them down. i am making sure every new service line is covered. this statement goes out the same day as their announcement. i do not give them 72 hours to establish the consumer-benefit narrative unchallenged. the council press contact sends it to local news and i post it publicly. this is the policy action this tick."
+    },
+    {
+      "type": "NEWS",
+      "content": "9 people enrolled in retraining this month."
     },
     {
       "type": "SOCIAL",
@@ -23,7 +119,75 @@
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Tamika Jefferson is making some kind of change \u2014 something about Send a brief, professional note to Angela Wright \u2014..."
+      "content": "Someone mentioned that Tamika Jefferson is making some kind of change \u2014 something about Contact Angela Wright to confirm receipt of the st..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about Tell Linda directly, in a brief in-person or writt..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Contact RoboRide local partnership coordinator to ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Betty goes to Carlos Ruiz's shop and buys him lunc..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Betty attends Kevin O'Brien's office hours at the ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Miguel Hernandez is making some kind of change \u2014 something about Have a direct conversation with Carlos (mechanic_c..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that James Patterson is making some kind of change \u2014 something about Follow up on the Howard Liu outreach from tick 7. ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that James Patterson is making some kind of change \u2014 something about Recalibrate the monthly roboride transport budget ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Rachel Green is making some kind of change \u2014 something about Post a specific, grounded LinkedIn piece about com..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Rachel Green is making some kind of change \u2014 something about Follow up directly with Lisa Freeman at the commun..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Rachel Green is making some kind of change \u2014 something about Lock in the transportation cost savings formally. ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Make a decision on health insurance. After five ti..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Follow up with Lisa Freeman to confirm the two rep..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Check in on Betty Kowalski \u2014 not as a contractor l..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Robert Jackson is making some kind of change \u2014 something about Contact Grace Okafor (uber_driver_2) with a direct..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Robert Jackson is making some kind of change \u2014 something about Maintain rideshare driving at a reduced but stable..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Robert Jackson is making some kind of change \u2014 something about Check in with Marcus \u2014 not a full disclosure of th..."
+    },
+    {
+      "type": "OUTCOME",
+      "content": "You Use my slot at the Community Center transportation session this week \u2014 the one I offered to co-facilitate last tick \u2014 to explicitly update my remarks to include the new RoboRide pricing. The price drop to $0.12 per mile and the residential coverage expansion are materially important for older adults and people on fixed incomes who were on the fence. I will not oversell the service. I will say: here is what it cost when I started, here is what it costs now, here is what that means in monthly dollars if you make four trips a week, here is the 8-minute wait time. I will still bring the printed one-page summary I wrote. I will revise the cost figures this morning before I print. I am a retired teacher. Keeping materials current is basic practice.. Savings grew by $473. "
     }
   ]
 }

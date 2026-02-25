@@ -1,0 +1,22 @@
+{
+  "tick": 8,
+  "from_agent": "loan_officer",
+  "from_name": "Kevin O'Brien",
+  "to_agent": "bank_manager",
+  "to_name": "David Chen",
+  "transaction_type": "SIGNAL",
+  "description": "Kevin O'Brien formally requests a portfolio expansion meeting to add small business lending and personal loan origination to his active scope, citing structural decline in auto loan demand following RoboRide's residential expansion and price drop. Kevin frames this as an immediate role expansion within existing credentials \u2014 not a reassignment request \u2014 and brings supporting data: auto lending volume index at 79 and declining, RoboRide delivery partnership threatening auto row businesses, small business clients in Kevin's network showing early stress signals.",
+  "resources": {
+    "type": "information",
+    "direction": "give",
+    "amount": 0,
+    "detail": "Kevin delivers a written one-page brief to David Chen (or interim manager): current auto loan volume trends, identification of three auto row businesses with potential small business lending needs, Kevin's existing SBA and personal loan compliance credentials, and a specific request to be assigned two live small business loan files as a lateral expansion of his current role."
+  },
+  "expected_outcome": "If accepted: Kevin expands his active loan portfolio to include small business and personal loan origination, partially offsetting declining auto loan volume and demonstrating value independent of the NMLS mortgage pathway. If deferred: Kevin has created a documented record of proactive adaptation that any manager can see, and follows up next tick.",
+  "relationship_impact": {
+    "trust_delta": 0.03,
+    "rationale": "Proactive, data-grounded outreach. Kevin is bringing a problem and a solution rather than waiting to be managed."
+  },
+  "filed_tick": 8,
+  "status": "no_counterparty"
+}

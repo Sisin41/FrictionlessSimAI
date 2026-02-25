@@ -34,6 +34,11 @@
       "tick": 6,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 8,
+      "summary": "Call Stephanie Morris (real estate agent) and accept her offer for a formal property valuation and adaptive reuse scenario analysis. Schedule a site visit this week. I want two things from this engagement: (1) a realistic current market value for the property as-is, and (2) a scenario analysis comparing continued fuel-only operation, EV charging retrofit, and full adaptive reuse sale. I am not committing to sell. I am buying strategic clarity at a moment when my information advantage is still intact \u2014 before the market prices in the full RoboRide shock. Frame this professionally: I am a 25-year property owner who wants to understand all options before making capital allocation decisions. Do not signal desperation. Do not signal passivity either.",
+      "emotional_state": "anxious"
     }
   ],
   "past_outcomes": [
@@ -92,6 +97,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You routine. Savings dropped by $1,839. "
+    },
+    {
+      "tick": 8,
+      "action": "Call Stephanie Morris (real estate agent) and accept her offer for a formal property valuation and adaptive reuse scenario analysis. Schedule a site visit this week. I want two things from this engagement: (1) a realistic current market value for the property as-is, and (2) a scenario analysis comparing continued fuel-only operation, EV charging retrofit, and full adaptive reuse sale. I am not committing to sell. I am buying strategic clarity at a moment when my information advantage is still intact \u2014 before the market prices in the full RoboRide shock. Frame this professionally: I am a 25-year property owner who wants to understand all options before making capital allocation decisions. Do not signal desperation. Do not signal passivity either.",
+      "savings_delta": -2541,
+      "stress_delta": 0.05,
+      "employment_changed": false,
+      "narrative": "You Call Stephanie Morris (real estate agent) and accept her offer for a formal property valuation and adaptive reuse scenario analysis. Schedule a site visit this week. I want two things from this engagement: (1) a realistic current market value for the property as-is, and (2) a scenario analysis comparing continued fuel-only operation, EV charging retrofit, and full adaptive reuse sale. I am not committing to sell. I am buying strategic clarity at a moment when my information advantage is still intact \u2014 before the market prices in the full RoboRide shock. Frame this professionally: I am a 25-year property owner who wants to understand all options before making capital allocation decisions. Do not signal desperation. Do not signal passivity either.. Savings dropped by $2,541. "
     }
   ],
   "reflections": [

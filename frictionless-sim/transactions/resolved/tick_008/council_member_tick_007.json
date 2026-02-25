@@ -1,0 +1,12 @@
+{
+  "tick": 7,
+  "from_agent": "council_member",
+  "to_agent": "ceo_regional_auto",
+  "type": "coordination_meeting",
+  "amount": 0,
+  "description": "Maria Santos accepts Patricia Hawkins's outreach and proposes a workforce coordination meeting. Maria brings the concrete 'next steps' document \u2014 connecting displaced workers to the $2,500 transition grant (now being lowered to 10% threshold for auto row), First Community Bank small-dollar loan products via David Chen, and Millfield Community College enrollment. Maria communicates directly that the grant threshold change is in motion, which means some of Patricia's recently separated workers may now qualify. The offer is a practical transition handoff, not political cover. Maria is signaling she wants Patricia as an operational partner in the worker transition pipeline.",
+  "transaction_nature": "social_coordination",
+  "expected_outcome": "Relationship trust between council_member and ceo_regional_auto increases. Patricia Hawkins gains a direct channel to route displaced workers into the transition infrastructure. Maria gains a ground-level partner who has direct contact with affected workers at the moment of separation.",
+  "reversible": true,
+  "status": "no_counterparty"
+}

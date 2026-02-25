@@ -1,0 +1,56 @@
+{
+  "source_agent": "real_estate_agent",
+  "source_name": "Stephanie Morris",
+  "tick": 7,
+  "targets": [
+    {
+      "target_agent": "diner_owner",
+      "target_name": "Betty Kowalski",
+      "transaction_type": "EXCHANGE",
+      "message": "Betty called; Stephanie answers with the full valuation. The diner property \u2014 assessed as a commercial parcel with existing food-service buildout on auto row \u2014 comps at $310,000\u2013$370,000 in current market conditions, down 25\u201330% from the pre-disruption baseline comp of approximately $485,000 set 14 months ago. Stephanie presents all three options Betty asked about: (1) Sale at current range, noting the price is likely to compress further within two ticks once the Tanner consolidation news formalizes and buyer psychology shifts to distress anchoring \u2014 sellers who move now capture the higher end of the range. (2) Sublease \u2014 Betty retains the property under her existing lease structure and finds a subtenant for a non-food, non-auto-dependent use: medical office, trade services, or light storage conversion are the realistic fits given the buildout and auto row location; Stephanie is honest that the subtenant search takes 30\u201360 days in this market and is not guaranteed. (3) Lease renegotiation with her landlord \u2014 if Betty is a tenant rather than an owner, she has real leverage right now; landlords on auto row know vacancy is coming and a known tenant on modified terms is worth more than an empty building. Stephanie also tells Betty two things beyond real estate: Kevin O'Brien from First Community Bank is running office hours at the Community Center starting this week, no application pressure, just a banker who can answer straight questions about bridge options; and Betty's already-filed retraining grant application puts her ahead of most auto row business owners on the support pipeline. Stephanie closes by offering to walk the property this week and produce a formal written valuation Betty can use with a landlord, a buyer, or a bank.",
+      "resources": {
+        "type": "service",
+        "direction": "give",
+        "amount": 0,
+        "detail": "Professional property valuation analysis \u2014 three-option decision framework (sale, sublease, lease renegotiation), comp data, current market range $310K\u2013$370K, referral to Kevin O'Brien office hours at Community Center, and offer of written formal valuation if Betty wants to move forward"
+      }
+    },
+    {
+      "target_agent": "council_member",
+      "target_name": "Maria Santos",
+      "transaction_type": "SIGNAL",
+      "message": "Stephanie contacts Maria Santos's office directly and requests a slot to present a real estate data brief to the auto row task force or council subcommittee. The offer is framed as a civic data contribution, not a commercial solicitation: 'The task force has worker data, business revenue data, and transit adoption figures. What it does not have is property value trajectory \u2014 what is actually happening to the physical assets that anchor auto row. I have been tracking commercial property comps, vacancy trends, and adaptive reuse demand for seven ticks. I can present a 15-minute brief showing property value compression by corridor, projected scenarios at three spending index levels, and where displaced commercial tenants are most likely to find alternative space. I am offering this as a resource for the task force's evidence base.' Stephanie notes she is available this week, before any additional auto row news cycle shifts the framing of the conversation. She is explicit that she has no political interest in the outcome \u2014 her interest is in the task force having accurate real estate data so that whatever policy response the council develops is calibrated to actual property market conditions, not assumptions.",
+      "resources": {
+        "type": "information",
+        "direction": "give",
+        "amount": 0,
+        "detail": "Seven-tick commercial property data brief \u2014 auto row comp trajectory, vacancy trend, adaptive reuse demand mapping, projected value compression at spending index scenarios 42 / 65 / 30 \u2014 offered to task force as civic data contribution"
+      }
+    },
+    {
+      "target_agent": "gas_station_owner",
+      "target_name": "Amir Patel",
+      "transaction_type": "SIGNAL",
+      "message": "Stephanie calls Amir Patel directly \u2014 not an email, a call \u2014 before the Tanner auto mall consolidation assessment becomes a public layoff announcement. She is honest about why she is calling now: 'I have been tracking the Tanner consolidation assessment for two ticks. When that goes public, and I believe it goes public soon, every property owner on auto row gets called by agents who will be working from panic framing. I am calling you now because you deserve the forward-looking version of that conversation. Here is what I know: the spending index is at 42. Your customer base is the auto row workforce \u2014 dealership employees, parts workers, service staff. If Tanner formalizes layoffs, that customer base contracts further and your revenue trajectory gets worse before the market has time to reprice your property upward. The window to transact at a price that reflects your 25-year operating history rather than a distressed-asset discount is narrowing.' Stephanie also gives Amir the adaptive reuse framing she has been building since tick 1: his site \u2014 fuel infrastructure, utilities, highway visibility \u2014 has real demand from EV charging retail operators and fleet services companies. That value exists today. After a major layoff announcement, buyers will anchor on distress instead of upside, and the adaptive reuse premium becomes harder to argue for. Stephanie asks Amir to let her run a formal valuation on the property and bring him a one-page reuse scenario document \u2014 not to pressure him into selling, but so he can make the decision with complete information before the market makes it for him.",
+      "resources": {
+        "type": "information",
+        "direction": "give",
+        "amount": 0,
+        "detail": "Pre-announcement market intelligence \u2014 Tanner consolidation signal, current property value window, adaptive reuse demand framing (EV charging, fleet services) specific to Amir's Route 9 site; offer of formal valuation and one-page reuse scenario document"
+      }
+    },
+    {
+      "target_agent": "parts_store_owner",
+      "target_name": "Parts Store Landlord",
+      "transaction_type": "SIGNAL",
+      "message": "Stephanie makes a follow-up call to the parts store property owner \u2014 the second fence-sitter in her active pipeline \u2014 with the same pre-announcement framing she is using with Amir Patel. The message is calibrated to where this owner is in their decision process: the Tanner assessment formalizing is the signal Stephanie told them to watch for, and it has now formalized. She asks directly: 'Are you ready to have the real conversation this week?' She offers a specific next step \u2014 a property walkthrough and updated valuation \u2014 and sets a deadline framing: if they want to move before the announcement changes buyer psychology, the window is this week or next.",
+      "resources": {
+        "type": "information",
+        "direction": "give",
+        "amount": 0,
+        "detail": "Pre-announcement urgency re-contact \u2014 Tanner consolidation signal confirmation, updated market value framing, offer of property walkthrough and formal valuation this week"
+      }
+    }
+  ],
+  "status": "no_counterparty"
+}

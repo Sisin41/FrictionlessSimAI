@@ -25,7 +25,7 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 5.1,
+      "runway_months": 5.2,
       "threat_level": 0.57,
       "monthly_essentials": 1900,
       "health_cost_from_stress": 0
@@ -37,7 +37,7 @@
     },
     "L2_PARTICIPATE": {
       "employment_status": "employed",
-      "skill_relevance": 0.65,
+      "skill_relevance": 0.68,
       "role_security": 0.81,
       "network_strength": 0.75
     },
@@ -74,11 +74,11 @@
       "availability_heuristic": 0.68,
       "social_proof_sensitivity": 0.42
     },
-    "sentiment": "neutral"
+    "sentiment": "determined"
   },
   "psychological": {
-    "stress_level": 0.2,
-    "agency": 0.44,
+    "stress_level": 0.18,
+    "agency": 0.46,
     "grief_stage": "none",
     "temporal_horizon_months": 10,
     "high_stress_ticks": 0
@@ -86,7 +86,7 @@
   "financial": {
     "monthly_income": 3800,
     "monthly_expenses": 3301,
-    "savings": 16943,
+    "savings": 17192,
     "debt_total": 25537,
     "credit_score": 747
   },
@@ -112,8 +112,8 @@
       "description": "research and formally enroll in evt (electric vehicle technology) level 1 certification program. use personal time after shifts this week to identify the exact program patricia approved for carlos, pull the curriculum and cost, and submit an application or enrollment deposit. this is the first hard commitment toward the cert \u2014 not just browsing, but signing up. i already have electrical in my skill set. this is the logical extension.",
       "started_tick": 4,
       "completion_eta_months": 8,
-      "progress": 0.22,
-      "months_invested": 2
+      "progress": 0.32,
+      "months_invested": 3
     }
   ],
   "temporal_mismatches": {
@@ -128,5 +128,5 @@
   },
   "locality": "millfield",
   "archetype": "adapter",
-  "tick_updated": 6
+  "tick_updated": 8
 }
