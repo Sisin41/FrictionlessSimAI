@@ -4,6 +4,11 @@
       "tick": 0,
       "summary": "Schedule a meeting with branch manager to formally flag the sustained 50% application volume decline and request a portfolio diversification conversation \u2014 specifically, cross-training or reassignment to support mortgage or small business lending.",
       "emotional_state": "Controlled concern. Not panicking \u2014 panic is expensive \u2014 but the low-grade alarm is there. I sleep fine but I'm thinking about this more than I'd like. The feeling isn't dread, it's more like the feeling you get when you realize the weather is changing and you're still deciding whether to grab a jacket. You're not wet yet. You're not going to be wet if you move now."
+    },
+    {
+      "tick": 1,
+      "summary": "Block 90 minutes daily on calendar for mortgage underwriting and SBA 7(a)/504 loan training. Contact the regional training coordinator to formally enroll in the next available NMLS-approved mortgage origination course. Request access to the bank's internal SBA loan files from the past two years to self-study deal structures. Set a 30-day milestone: complete modules 1-4 of mortgage origination curriculum and shadow at least two live mortgage closings.",
+      "emotional_state": "Grounded. The confirmation of what I already suspected is not frightening \u2014 it is clarifying. I feel the kind of calm that comes from having moved first. There is a small undertow of pressure knowing that the institutional gears are now turning above me and timelines may compress, but that pressure is productive. I am not in denial, I am not catastrophizing. I am a 44-year-old professional who has done this work for two decades and still has runway, savings, a supportive manager, and a bank that needs people who can do more than one thing. The next 60 days matter. I will make them count."
     }
   ],
   "past_outcomes": [
@@ -14,6 +19,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Schedule a meeting with branch manager to formally flag the sustained 50% application volume decline and request a portfolio diversification conversation \u2014 specifically, cross-training or reassignment to support mortgage or small business lending.. Savings grew by $152. "
+    },
+    {
+      "tick": 1,
+      "action": "Block 90 minutes daily on calendar for mortgage underwriting and SBA 7(a)/504 loan training. Contact the regional training coordinator to formally enroll in the next available NMLS-approved mortgage origination course. Request access to the bank's internal SBA loan files from the past two years to self-study deal structures. Set a 30-day milestone: complete modules 1-4 of mortgage origination curriculum and shadow at least two live mortgage closings.",
+      "savings_delta": 152,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Block 90 minutes daily on calendar for mortgage underwriting and SBA 7(a)/504 loan training. Contact the regional training coordinator to formally enroll in the next available NMLS-approved mortgage origination course. Request access to the bank's internal SBA loan files from the past two years to self-study deal structures. Set a 30-day milestone: complete modules 1-4 of mortgage origination curriculum and shadow at least two live mortgage closings.. Savings grew by $152. "
     }
   ],
   "reflections": [],

@@ -4,6 +4,11 @@
       "tick": 0,
       "summary": "Begin drafting a modernized curriculum proposal that pivots the auto shop program toward EV fundamentals, hybrid systems, and automotive electronics. Research available industry certification pathways \u2014 specifically ASE's new EV certification tracks and Tesla's education partnership program. Map out what equipment upgrades would be required and begin estimating costs for a board presentation.",
       "emotional_state": "Calm and purposeful. There's a low hum of concern about the board's April review, but it's not anxiety \u2014 it's more like a problem I've decided to solve. I genuinely like this work and I like these kids. The idea of losing the program bothers me more for their sake than mine. I know my teaching skills would land me somewhere else if it came to that, but I'd rather fight for this. I feel like I have time and options, which is the best position to be in."
+    },
+    {
+      "tick": 1,
+      "summary": "Incorporate RoboRide Phase 2 Millfield deployment data directly into the board presentation. Add a dedicated module on EV ecosystem context \u2014 including AV-adjacent service considerations: sensor calibration basics, high-voltage safety protocols, ADAS component awareness, and what local shops will realistically be asked to handle once these vehicles hit Millfield streets. Reframe the proposal narrative: this is not 'saving auto shop,' this is 'Millfield Auto Tech Pipeline' \u2014 a program producing job-ready technicians for the exact vehicles appearing in this community.",
+      "emotional_state": "Focused. There's a sharpness to today that wasn't there before \u2014 the kind of clarity that comes when the abstract becomes concrete. I'm not anxious about RoboRide. I'm energized by it. This is exactly the kind of signal I needed to make the case undeniable. The work ahead is the same work I was already doing, just with a harder edge and a tighter clock. That suits me fine."
     }
   ],
   "past_outcomes": [
@@ -14,6 +19,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Begin drafting a modernized curriculum proposal that pivots the auto shop program toward EV fundamentals, hybrid systems, and automotive electronics. Research available industry certification pathways \u2014 specifically ASE's new EV certification tracks and Tesla's education partnership program. Map out what equipment upgrades would be required and begin estimating costs for a board presentation.. Savings grew by $450. "
+    },
+    {
+      "tick": 1,
+      "action": "Incorporate RoboRide Phase 2 Millfield deployment data directly into the board presentation. Add a dedicated module on EV ecosystem context \u2014 including AV-adjacent service considerations: sensor calibration basics, high-voltage safety protocols, ADAS component awareness, and what local shops will realistically be asked to handle once these vehicles hit Millfield streets. Reframe the proposal narrative: this is not 'saving auto shop,' this is 'Millfield Auto Tech Pipeline' \u2014 a program producing job-ready technicians for the exact vehicles appearing in this community.",
+      "savings_delta": 450,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Incorporate RoboRide Phase 2 Millfield deployment data directly into the board presentation. Add a dedicated module on EV ecosystem context \u2014 including AV-adjacent service considerations: sensor calibration basics, high-voltage safety protocols, ADAS component awareness, and what local shops will realistically be asked to handle once these vehicles hit Millfield streets. Reframe the proposal narrative: this is not 'saving auto shop,' this is 'Millfield Auto Tech Pipeline' \u2014 a program producing job-ready technicians for the exact vehicles appearing in this community.. Savings grew by $450. "
     }
   ],
   "reflections": [],

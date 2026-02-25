@@ -31,7 +31,7 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 11.0,
+      "runway_months": 11.1,
       "threat_level": 0.08,
       "monthly_essentials": 3750,
       "health_cost_from_stress": 0
@@ -82,7 +82,7 @@
       "availability_heuristic": 0.54,
       "social_proof_sensitivity": 0.67
     },
-    "sentiment": "Cautiously purposeful. There's a low-grade anxiety I'm trying not to let myself lean into too hard \u2014 the kind that makes you either freeze up or overcorrect. The inbox is reassuring and I want to believe it, but I've seen what happens when people in this business take 'stable' at face value for too long. Mostly I feel clear-headed. My finances are good. I have time. I'm not panicking; I'm planning. That feels like the right register to be operating in."
+    "sentiment": "Focused and quietly energized. There is real anxiety underneath \u2014 half the book is exposed \u2014 but the T0 analysis work means she is not starting from zero. She has something in her hands. The RoboRide news feels less like a threat than a confirmation of the direction she was already moving. The two-month window before Phase 2 deployment is a gift. She intends to use it."
   },
   "psychological": {
     "stress_level": 0.12,
@@ -94,7 +94,7 @@
   "financial": {
     "monthly_income": 7500,
     "monthly_expenses": 6186,
-    "savings": 68157,
+    "savings": 68814,
     "debt_total": 64097,
     "credit_score": 750
   },
@@ -126,6 +126,6 @@
     "willingness_to_move": 0.4
   },
   "locality": "millfield",
-  "archetype": "I'm a pragmatic professional who reads markets for a living and knows that reading a market and acting on what you see are two different skills. Right now I'm sitting with the discomfort of knowing more than the official narrative is acknowledging, and choosing to treat that discomfort as information rather than noise. I'm not a doom-sayer. I'm someone who prefers to adjust her sails before the wind shifts, not after.",
-  "tick_updated": 0
+  "archetype": "Adapter-Strategist. Stephanie is not a victim of this disruption and she knows it. She is a 15-year commercial specialist with transferable market-reading skills, a local network, and data she compiled before anyone else was looking. Her identity is not 'auto-property agent' \u2014 it is 'commercial market analyst who moves capital to its highest use.' That framing is what lets her see repurposing as opportunity rather than consolation prize.",
+  "tick_updated": 1
 }

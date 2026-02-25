@@ -1,0 +1,52 @@
+{
+  "tick": 1,
+  "agent_id": "insurance_manager",
+  "agent_name": "Linda Park",
+  "response": {
+    "internal_assessment": "This is the moment I've been preparing for. RoboRide in Millfield in two months — Phase 2 confirmed. That's not a rumor, that's a deployment schedule. I've been in risk long enough to know what a confirmed timeline does to the math: it compresses my runway from 16 months to something much shorter if I sit still. The 28 policies are just the beginning — once autonomous vehicles are on Millfield roads, the behavioral shift accelerates. People won't just cancel because they're driving less. They'll cancel because the product becomes irrelevant to their actual lives. My income is already down $567 from baseline. In two months, that curve gets steeper. I have a map — I drew it last tick. I have contacts — I reached out to them. I have a LinkedIn that now says 'risk professional' not just 'insurance manager.' The prep work is done. The question now is not 'should I move' but 'how fast and toward what.' I'm not panicking. Panic is for people who didn't see this coming. I saw it coming. Now I execute. Three actions this tick: enroll in one substantive credential, activate a real job search in adjacent sectors, and set a financial decision threshold. No more watching. Acting.",
+    "chosen_actions": [
+      {
+        "type": "skill_investment",
+        "description": "Enroll in a risk analytics or compliance certification — specifically a RIMS-CRMP (Certified Risk Management Professional) preparatory course or equivalent data-focused credential available online. Commit to 6-8 hours per week. This is not exploratory, this is credential acquisition with a completion timeline.",
+        "target_agent": null,
+        "resources_involved": "$800-1,200 enrollment fee from savings; 6-8 hours/week time commitment",
+        "reasoning": "My skill relevance score is 0.35 — that is the number I need to move most urgently. The RoboRide confirmation gives me a hard deadline. A recognized credential in enterprise risk management signals to non-insurance employers that my pattern recognition and risk modeling skills are portable and current. This is the highest-leverage action I can take right now. The cost is low relative to 16 months of runway. The return is that I become hireable outside my current sector before my sector contracts further.",
+        "economic_effects": {
+          "savings_delta": -1000,
+          "skill_relevance_delta": "+0.08 projected over 2-3 ticks",
+          "income_delta": 0,
+          "stress_delta": "+0.03 (positive productive pressure, not distress)"
+        }
+      },
+      {
+        "type": "active_job_search",
+        "description": "Transition from quiet positioning to active outreach. Contact the fleet risk colleague directly and state plainly that I am exploring a move — not just catching up. Apply to 2-3 posted roles in corporate risk officer or compliance manager positions at mid-to-large firms in the region. Set a geographic search radius that includes relocation if the role is right.",
+        "target_agent": null,
+        "resources_involved": "Time: 3-4 hours this tick; possible future relocation cost budgeted at $8,000-12,000 from savings if needed",
+        "reasoning": "Willingness to move is 0.35 — low but nonzero. RoboRide's confirmation tips my calculus toward accepting relocation for the right opportunity. The two contacts I warmed up last tick are now assets I need to activate. Staying in exploratory mode after receiving confirmed deployment news would be a failure of professional judgment — and I am a professional who judges risk for a living. My identity attachment to this role is only 50%, which means I can make this call cleanly. This is not abandoning my career — this is recognizing that my career is in risk management, not in auto insurance specifically.",
+        "economic_effects": {
+          "savings_delta": 0,
+          "income_delta": "0 this tick; potential +$500-2,000/month if successful in 2-4 ticks",
+          "stress_delta": "+0.04 (activation energy cost — worth it)",
+          "agency_delta": "+0.08 (acting rather than watching)"
+        }
+      },
+      {
+        "type": "financial_contingency_planning",
+        "description": "Set a formal personal decision threshold: if active policy count drops below 22 OR income drops below $6,500/month, I begin drawing down savings to fund a bridge period and accept any credible offer in an adjacent sector regardless of salary match. Write this down. Make it binding on myself now, while I'm calm, not when I'm under pressure.",
+        "target_agent": null,
+        "resources_involved": "No immediate financial cost; commits up to $24,000 of savings as bridge fund if threshold triggered",
+        "reasoning": "I have 16 months of runway and $119,275 in savings. That is a position of strength, not desperation. The danger is letting that strength become complacency — telling myself I can keep watching because I have buffer. The buffer is for executing a transition, not for delaying one. Pre-committing to a trigger threshold is how a risk professional protects against her own status quo bias. I know my bias score is 0.71. The antidote to a known bias is a pre-committed rule, not willpower in the moment.",
+        "economic_effects": {
+          "savings_delta": 0,
+          "stress_delta": "-0.05 (clarity reduces ambient anxiety)",
+          "agency_delta": "+0.05 (self-governance is agency)",
+          "income_delta": 0
+        }
+      }
+    ],
+    "emotional_state": "resolved",
+    "archetype_self_assessment": "adapter — but moving toward proactive repositioner. The adapter watches and adjusts. What I'm doing now is getting ahead of the adjustment, not reacting to it. The confirmation of RoboRide's timeline is the last piece of information I needed to shift from adaptive mode to forward mode. I am still me — methodical, data-driven, risk-aware — but I am done waiting for more data.",
+    "inner_monologue": "The anchor is lifted — I knew it would be — and I am not going to waste the clarity by standing still."
+  }
+}

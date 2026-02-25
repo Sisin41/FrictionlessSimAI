@@ -4,6 +4,11 @@
       "tick": 0,
       "summary": "Conduct a personal spending audit, itemizing all monthly expenses and categorizing them as fixed, discretionary, or image-related. Not to cut the car \u2014 but to find the smaller leaks that don't carry any identity weight. Subscriptions, takeout frequency, the gym I keep meaning to use more.",
       "emotional_state": "Quietly anxious beneath a composed surface. The tick-0 inbox says everything is fine and I believe it, mostly. But there is a low hum of financial discomfort that doesn't match my outward confidence. I feel most grounded when I feel like I am making intentional choices \u2014 so the audit and the auto-transfer will help. The car stays. I'm not ready to have that conversation with myself yet."
+    },
+    {
+      "tick": 1,
+      "summary": "Run detailed cost breakdown of total car ownership vs. projected RoboRide monthly subscription/per-ride costs for commute patterns. Calculate exact runway extension if car is sold at 2-month mark.",
+      "emotional_state": "Cautiously activated. The announcement landed like a real jolt \u2014 not dread, more like the feeling when a vague problem suddenly has a deadline. Status anxiety is present but I can feel my analytical side pushing back on it. The car has always been both armor and anchor. Two months is enough time to think clearly if I start now."
     }
   ],
   "past_outcomes": [
@@ -14,6 +19,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Conduct a personal spending audit, itemizing all monthly expenses and categorizing them as fixed, discretionary, or image-related. Not to cut the car \u2014 but to find the smaller leaks that don't carry any identity weight. Subscriptions, takeout frequency, the gym I keep meaning to use more.. Savings grew by $591. "
+    },
+    {
+      "tick": 1,
+      "action": "Run detailed cost breakdown of total car ownership vs. projected RoboRide monthly subscription/per-ride costs for commute patterns. Calculate exact runway extension if car is sold at 2-month mark.",
+      "savings_delta": 591,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Run detailed cost breakdown of total car ownership vs. projected RoboRide monthly subscription/per-ride costs for commute patterns. Calculate exact runway extension if car is sold at 2-month mark.. Savings grew by $591. "
     }
   ],
   "reflections": [],

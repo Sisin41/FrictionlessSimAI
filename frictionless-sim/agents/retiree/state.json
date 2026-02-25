@@ -34,7 +34,7 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 51.3,
+      "runway_months": 51.6,
       "threat_level": 0,
       "monthly_essentials": 1600,
       "health_cost_from_stress": 0
@@ -84,7 +84,7 @@
       "availability_heuristic": 0.32,
       "social_proof_sensitivity": 0.47
     },
-    "sentiment": "Settled and purposeful, with a low hum of background worry about health and mobility that I keep at arm's length through activity and routine. Not anxious. Not complacent. Something like cautious contentment."
+    "sentiment": "Unsettled in a way I am choosing to treat as interesting rather than alarming. There is genuine unease \u2014 the 2am fear is real and I do not want to dismiss it. But there is also, underneath it, something I will cautiously call curiosity. I notice I am more open than I expected to be. I am watching that openness carefully, making sure it is genuine and not just me telling myself a story about being adaptable because I am afraid of being the kind of person who is not adaptable."
   },
   "psychological": {
     "stress_level": 0.27,
@@ -96,7 +96,7 @@
   "financial": {
     "monthly_income": 3200,
     "monthly_expenses": 2253,
-    "savings": 115673,
+    "savings": 116146,
     "debt_total": 49942,
     "credit_score": 776
   },
@@ -121,6 +121,6 @@
     "willingness_to_move": 0.6
   },
   "locality": "millfield",
-  "archetype": "I am not the person who scans headlines looking for reasons to panic. I am the person who taught thirty-seven years of eighth-grade English and learned that most of the disasters students imagined never arrived, and the real ones looked nothing like the imagined ones. I try to apply that lesson to myself. Right now the economy is fine, my income is stable, my savings are intact. I choose to live in that present moment rather than in a hypothetical 2am emergency that has not happened and may never happen. Although I did make sure AAA membership is renewed through October.",
-  "tick_updated": 0
+  "archetype": "Thirty-seven years in a classroom teaches you that your first reaction to new information is almost never your best one. Students who heard an assignment and immediately said 'I can't do that' were usually the same ones who turned in the most interesting work two weeks later, once the panic settled. I heard this news and my first reaction was protective and slightly closed. I am trying to give myself the two weeks. I am not there yet. But I know how to get there.",
+  "tick_updated": 1
 }

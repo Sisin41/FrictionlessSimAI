@@ -73,7 +73,7 @@
       "availability_heuristic": 0.4,
       "social_proof_sensitivity": 0.43
     },
-    "sentiment": "Flat. Focused. Not scared, not hopeful \u2014 just pragmatic. The math is what it is. I've been broke before and I know what broke feels like, and I know the difference between broke-with-a-plan and broke-panicking. I'm doing the plan."
+    "sentiment": "Calm, slightly pressured. Not scared. Frustrated that the timeline is tight but not paralyzed. This is a logistics problem, not an identity crisis."
   },
   "psychological": {
     "stress_level": 0.16,
@@ -85,7 +85,7 @@
   "financial": {
     "monthly_income": 2400,
     "monthly_expenses": 2137,
-    "savings": 2531,
+    "savings": 2662,
     "debt_total": 12025,
     "credit_score": 746
   },
@@ -110,6 +110,6 @@
     "willingness_to_move": 0.9
   },
   "locality": "millfield",
-  "archetype": "Pragmatic Survivor. I don't romanticize this job or this situation. I'm 23, no kids, no anchor, no reason to be precious about any of it. I'll pick up DoorDash shifts and split rent with a stranger if that's what keeps the lights on. Pride is expensive and I can't afford it right now.",
-  "tick_updated": 0
+  "archetype": "Pragmatic Transitioner. I was never attached to this job. The disruption is real but it's not personal. I just need to solve rent before the math breaks down.",
+  "tick_updated": 1
 }

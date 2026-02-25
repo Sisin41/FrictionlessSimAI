@@ -1,0 +1,73 @@
+{
+  "tick": 1,
+  "agent_id": "loan_officer",
+  "agent_name": "Kevin O'Brien",
+  "response": {
+    "internal_assessment": "The RoboRide Phase 2 announcement removes all remaining doubt. This is not a soft quarter. Millfield is on the list, two months out. My pipeline drop was the leading indicator — now the structural cause is confirmed and public. David heard me, validated the flag, and is already escalating. That means the institutional clock is ticking faster than my personal one. I have roughly 7.4 months of runway and a head start on retraining. The window to position myself as the mortgage and SBA specialist — rather than the displaced auto guy — is open right now, but it will not stay open. My stress is low because I've been ahead of this. I need to stay ahead of it. Three execution priorities this tick: (1) Push the cross-training from 'started' to 'scheduled and measurable,' (2) Have a frank conversation with David about my career trajectory while I still have leverage as the person who called this correctly, (3) Brief my household — not to alarm, but because responsible planning requires it and my dependents deserve honesty.",
+
+    "chosen_actions": [
+      {
+        "type": "professional_development",
+        "description": "Block 90 minutes daily on calendar for mortgage underwriting and SBA 7(a)/504 loan training. Contact the regional training coordinator to formally enroll in the next available NMLS-approved mortgage origination course. Request access to the bank's internal SBA loan files from the past two years to self-study deal structures. Set a 30-day milestone: complete modules 1-4 of mortgage origination curriculum and shadow at least two live mortgage closings.",
+        "target_agent": "bank_manager",
+        "resources_involved": "Personal time, internal training budget ($0 cost to Kevin), NMLS course enrollment (~$300 personal investment if not employer-covered), access to internal loan file archive",
+        "reasoning": "Retraining materials were pulled last tick — that was reconnaissance. This tick is commitment. Formalizing enrollment creates accountability, signals intent to management, and builds a documented skill record. Mortgage and SBA lending are relationship-intensive and locally anchored — they are not easily automated. Kevin's community knowledge and borrower relationships are transferable assets. The faster he builds credentials, the stronger his position when David's escalation to the regional VP triggers a department restructuring conversation.",
+        "economic_effects": {
+          "savings_impact": -300,
+          "income_impact": 0,
+          "stress_delta": -0.02,
+          "skill_relevance_delta": 0.12,
+          "notes": "Small upfront cost for course enrollment. Skill relevance begins compounding toward mortgage/SBA domain. Signals proactive adaptation to employer."
+        }
+      },
+      {
+        "type": "direct_conversation",
+        "description": "Request a focused 30-minute one-on-one with David Chen — not about the portfolio this time, but about Kevin's role. Frame it clearly: 'I flagged the auto loan decline early, you validated it, and now it's confirmed structural. I want to talk about how I fit into where the bank goes from here. I'm already in mortgage and SBA training. I'd like your support to make that transition formal.' Ask directly whether there is a path to a mortgage or commercial lending title within the branch, and what the bank's timeline for restructuring the auto loan function looks like.",
+        "target_agent": "bank_manager",
+        "resources_involved": "30 minutes of David Chen's calendar, Kevin's credibility from the Tick 0 flag",
+        "reasoning": "Kevin has earned political capital by being right first. That capital is perishable — it is most valuable right now, before the regional VP meeting, before restructuring decisions get made above David's level. If Kevin waits until the restructuring is announced, he becomes a passenger. If he walks into David's office now with a clear ask and a retraining plan already in motion, he is a problem-solver the bank wants to retain. This is not desperation — it is confident, well-timed advocacy from a 44-year-old who knows his institution and has demonstrated sound judgment.",
+        "economic_effects": {
+          "savings_impact": 0,
+          "income_impact": 0,
+          "stress_delta": -0.03,
+          "agency_delta": 0.08,
+          "notes": "No direct financial effect this tick. High-leverage action. Increases probability of internal role transition, which protects income continuity. Agency increases because Kevin is steering his own narrative."
+        }
+      },
+      {
+        "type": "household_planning",
+        "description": "Sit down with household dependents for a calm, factual conversation. Not a crisis meeting — a planning meeting. Cover three things: (1) The auto lending industry is changing, Kevin is already retraining, the bank is aware and supportive. (2) The family has 7-plus months of runway and stable income for now — no lifestyle changes required today. (3) As a precaution, the family will pause any discretionary spending increases and defer any large purchases for 90 days while the career transition clarifies. Ask each dependent if they have questions. Be honest about uncertainty without amplifying it.",
+        "target_agent": null,
+        "resources_involved": "One evening, Kevin's emotional bandwidth, household trust",
+        "reasoning": "Kevin has 2 dependents. They are stakeholders in his financial life. Shielding them entirely is a form of disrespect and also a risk — if a harder transition comes later, a household that was never briefed will be less resilient. But the tone matters enormously. Kevin is LOW stress because he has agency and runway. He should communicate from that position: calm, in-control, forward-looking. This conversation costs nothing financially and prevents the much worse conversation that happens if things deteriorate and the family is blindsided.",
+        "economic_effects": {
+          "savings_impact": 0,
+          "income_impact": 0,
+          "stress_delta": -0.01,
+          "household_resilience_delta": 0.15,
+          "notes": "Stress may briefly spike during conversation but resolves lower. Household alignment reduces future friction around spending decisions. Dependents can make informed choices about their own plans."
+        }
+      },
+      {
+        "type": "relationship_management",
+        "description": "Begin a responsible wind-down of the active auto loan dealer relationships. Contact the three primary dealer contacts this week — not to alarm them, but to be straight: application volume is down, the bank is reviewing its auto lending footprint, and Kevin wants to stay in contact regardless of where things land. Do not ghost these relationships. If any dealers ask about the RoboRide announcement, be candid that it is a factor. Log all contacts in the CRM. Flag any borrowers with open loans who might face payment stress in the next 6-12 months due to vehicle depreciation or employment shifts in auto-adjacent sectors.",
+        "target_agent": "bank_manager",
+        "resources_involved": "CRM access, Kevin's dealer network relationships, 2-3 hours of outreach time",
+        "reasoning": "Kevin built these dealer relationships over years. Abandoning them without a word is bad for the bank, bad for his reputation, and unnecessary. A clean, honest wind-down preserves goodwill and keeps Kevin's name respected in the local business community — which matters for mortgage and SBA referrals down the road. Flagging at-risk borrowers is also basic credit risk hygiene. David's stress-test of the portfolio will need this data.",
+        "economic_effects": {
+          "savings_impact": 0,
+          "income_impact": 0,
+          "credit_risk_exposure_delta": -0.05,
+          "reputation_capital": "preserved",
+          "notes": "Proactive relationship management reduces probability of adversarial exits. Loan portfolio risk flags support David's escalation to regional VP with clean data."
+        }
+      }
+    ],
+
+    "emotional_state": "Grounded. The confirmation of what I already suspected is not frightening — it is clarifying. I feel the kind of calm that comes from having moved first. There is a small undertow of pressure knowing that the institutional gears are now turning above me and timelines may compress, but that pressure is productive. I am not in denial, I am not catastrophizing. I am a 44-year-old professional who has done this work for two decades and still has runway, savings, a supportive manager, and a bank that needs people who can do more than one thing. The next 60 days matter. I will make them count.",
+
+    "archetype_self_assessment": "I am the Methodical Adapter. I read the signal early, verified it, flagged it through the right channels, and now I am executing the response before the situation forces my hand. I am not the hero who fights the disruption, and I am not the victim who is surprised by it. I am the professional who does the unglamorous, necessary work of updating his own skill set and having the hard conversations — with his boss, with his family — while the window is open. That is the right thing. That is the only thing.",
+
+    "inner_monologue": "The announcement just turned my educated guess into a fact, and facts are easier to work with than fears — so let's get to work."
+  }
+}

@@ -4,6 +4,11 @@
       "tick": 0,
       "summary": "Run standard weekly schedule of driving lessons. Six students booked this week across beginner and intermediate levels. Coordinate vehicle maintenance check on the school's two cars \u2014 both due for oil change. Collect tuition from two students whose payment is outstanding.",
       "emotional_state": "Calm, grounded, mildly vigilant beneath the surface. Frank feels purposeful today \u2014 he has students to teach and a schedule to keep. The existential undercurrent ('what am I for?') is present but submerged. He will not acknowledge it unless pressed. His stability is genuine but it rests partly on not looking too hard at certain questions."
+    },
+    {
+      "tick": 1,
+      "summary": "Frank sits alone in the office after the last lesson of the day and writes two columns on a legal pad: 'What I teach' and 'How I teach.' The left column says: hand position, mirror checks, parallel parking, reading traffic. The right column says: reading anxiety in a student, breaking a complex skill into steps, building confidence in someone who wants to quit, knowing when to push and when to back off. He stares at the right column for a long time. He does not throw the pad away.",
+      "emotional_state": "Grief with a crack of clarity in it. Frank is not panicking \u2014 he is too seasoned to panic and too proud to show it if he were. But he is grieving, quietly, in the way men like him grieve: by going quiet, by driving home on a longer route than necessary, by not turning on the radio. The grief is for a version of himself he was certain was permanent. The crack of clarity is small but it is real \u2014 the legal pad exercise produced something he did not expect, which is the recognition that the right column on that list does not say the word 'driving' anywhere on it."
     }
   ],
   "past_outcomes": [
@@ -14,6 +19,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Run standard weekly schedule of driving lessons. Six students booked this week across beginner and intermediate levels. Coordinate vehicle maintenance check on the school's two cars \u2014 both due for oil change. Collect tuition from two students whose payment is outstanding.. Savings grew by $412. "
+    },
+    {
+      "tick": 1,
+      "action": "Frank sits alone in the office after the last lesson of the day and writes two columns on a legal pad: 'What I teach' and 'How I teach.' The left column says: hand position, mirror checks, parallel parking, reading traffic. The right column says: reading anxiety in a student, breaking a complex skill into steps, building confidence in someone who wants to quit, knowing when to push and when to back off. He stares at the right column for a long time. He does not throw the pad away.",
+      "savings_delta": -3176,
+      "stress_delta": 0.0,
+      "employment_changed": true,
+      "narrative": "You Frank sits alone in the office after the last lesson of the day and writes two columns on a legal pad: 'What I teach' and 'How I teach.' The left column says: hand position, mirror checks, parallel parking, reading traffic. The right column says: reading anxiety in a student, breaking a complex skill into steps, building confidence in someone who wants to quit, knowing when to push and when to back off. He stares at the right column for a long time. He does not throw the pad away.. Savings dropped by $3,176. Employment status changed to unemployed. "
     }
   ],
   "reflections": [],

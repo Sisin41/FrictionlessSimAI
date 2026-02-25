@@ -30,8 +30,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 9.9,
-      "threat_level": 0.17,
+      "runway_months": 10.1,
+      "threat_level": 0.16,
       "monthly_essentials": 3250,
       "health_cost_from_stress": 0
     },
@@ -80,7 +80,7 @@
       "availability_heuristic": 0.58,
       "social_proof_sensitivity": 0.53
     },
-    "sentiment": "Grounded, confident, mildly ambitious. The kind of quiet satisfaction a man gets when the work is there, the savings are real, and he still enjoys the job. No anxiety. The truck started this morning on the first crank, like it always does."
+    "sentiment": "Calm and slightly alert. Not rattled \u2014 the truck panic that might hit another person is entirely absent. But there is a low-grade unease about the people downstream. The kind of unease a contractor gets when he hears a big local employer is 'evaluating options.' He's done this long enough to know that threat usually travels one hop further than people expect."
   },
   "psychological": {
     "stress_level": 0.15,
@@ -92,7 +92,7 @@
   "financial": {
     "monthly_income": 6500,
     "monthly_expenses": 4681,
-    "savings": 46409,
+    "savings": 47318,
     "debt_total": 99118,
     "credit_score": 755
   },
@@ -124,6 +124,6 @@
     "willingness_to_move": 0
   },
   "locality": "millfield",
-  "archetype": "Provider / Craftsman. I build things that last. My truck is my storefront, my workshop, and my statement of intent every time I pull onto a job site. Three people depend on me and I have never missed a mortgage payment. That is not luck \u2014 that is discipline and skill. The economy rewards men who show up and do the work correctly. I am that man.",
-  "tick_updated": 0
+  "archetype": "I am not in the disrupted category. I am in the 'disruption lands on my customers' category, which is different and in some ways harder to see coming. My tools are fine. My market might need watching.",
+  "tick_updated": 1
 }

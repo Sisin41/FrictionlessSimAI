@@ -4,6 +4,11 @@
       "tick": 0,
       "summary": "Launch personal outreach campaign \u2014 call every past customer in my contact list, text former leads who went cold, and ask existing owners coming in for service if they know anyone in the market. Work the floor harder during peak hours.",
       "emotional_state": "Quietly tense beneath a practiced calm. The number that keeps surfacing is 'two kids' \u2014 Emma's school supplies, Tyler's little league fees. I'm not mentioning this to anyone. On the outside I'm the same Jake: laughing, ready, leaning on the counter like I own the place. But I check the bank app more than I used to. I tell myself that's just being responsible."
+    },
+    {
+      "tick": 1,
+      "summary": "Show up to Patricia's all-hands meeting tomorrow morning. Sit near the front. Listen without the filter of what I want to hear. Actually listen.",
+      "emotional_state": "Cracked but not broken. The normalcy bias is still running \u2014 I caught myself thinking 'robotaxis won't work in midwest winters' twice today \u2014 but there is a new sound underneath it, like something structural shifting. Not panic. Not acceptance. The specific dread of a man who has been mildly wrong for months and is about to find out how wrong, in a room full of colleagues, from a woman who signs his checks. Functional. Present. Scared in the useful direction."
     }
   ],
   "past_outcomes": [
@@ -14,6 +19,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Launch personal outreach campaign \u2014 call every past customer in my contact list, text former leads who went cold, and ask existing owners coming in for service if they know anyone in the market. Work the floor harder during peak hours.. Savings grew by $183. "
+    },
+    {
+      "tick": 1,
+      "action": "Show up to Patricia's all-hands meeting tomorrow morning. Sit near the front. Listen without the filter of what I want to hear. Actually listen.",
+      "savings_delta": 183,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Show up to Patricia's all-hands meeting tomorrow morning. Sit near the front. Listen without the filter of what I want to hear. Actually listen.. Savings grew by $183. "
     }
   ],
   "reflections": [],

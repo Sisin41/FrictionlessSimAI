@@ -25,8 +25,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 2.8,
-      "threat_level": 0.77,
+      "runway_months": 3.0,
+      "threat_level": 0.75,
       "monthly_essentials": 2100,
       "health_cost_from_stress": 0
     },
@@ -75,7 +75,7 @@
       "availability_heuristic": 0.66,
       "social_proof_sensitivity": 0.34
     },
-    "sentiment": "Clear. A little sharp around the edges, which is better than numb. The two-month number hit differently when I actually sat with it instead of scrolling past it. There's no grief about the car sales thing \u2014 I was never really here. That's actually the thing working in my favor right now. I'm not losing an identity. I'm just leaving a room I was never fully in."
+    "sentiment": "Focused. Not calm exactly \u2014 there's a low-level urgency that I'm not suppressing because it's accurate. But not panicked either. The RoboRide announcement didn't break me the way it might have broken someone who was invested in this job. I've been half-out mentally for a while. The announcement just made the timeline visible. The skills audit from last tick gave me something to stand on. Right now I feel like someone who finally stopped circling and picked a door. The door might not be perfect but standing in the hallway was definitely worse."
   },
   "psychological": {
     "stress_level": 0.21,
@@ -87,7 +87,7 @@
   "financial": {
     "monthly_income": 4200,
     "monthly_expenses": 3177,
-    "savings": 8911,
+    "savings": 9422,
     "debt_total": 69228,
     "credit_score": 765
   },
@@ -119,6 +119,6 @@
     "willingness_to_move": 0.7
   },
   "locality": "millfield",
-  "archetype": "Adapter. Not a Stayer, not a Fighter \u2014 I don't have enough attachment to this job to fight for it, and I'm not delusional enough to think it deserves fighting for. The question is whether I move fast enough to actually adapt before the clock runs out. Low normalcy bias is the gift here. I can see this clearly. The danger is clarity without action. I've been clear for a while. The action part starts now.",
-  "tick_updated": 0
+  "archetype": "Adapter, executing. The clarity-without-action problem I flagged last tick is the thing I'm solving right now. I'm not waiting for perfect conditions. I'm not grieving the job. I'm not fighting the automation. I'm using what I have, starting where I am, and building a parallel income track before the current one closes. This is the tick where I stop being a person who sees clearly and start being a person who acts on what she sees.",
+  "tick_updated": 1
 }

@@ -79,7 +79,7 @@
       "availability_heuristic": 0.48,
       "social_proof_sensitivity": 0.62
     },
-    "sentiment": "A low-grade unease that I've gotten good at not looking at directly. On the surface: calm, professional, experienced. Underneath: a persistent background hum \u2014 like a refrigerator you stop hearing until it suddenly goes quiet, and then the silence is louder than the noise ever was. I'm not scared. I'm not ready to be scared yet. That's probably its own kind of problem."
+    "sentiment": "Controlled unease with a surface of confident professionalism. There is a low hum of anxiety underneath \u2014 the kind Tom has learned to keep below the level of conscious attention. The sector data number sits somewhere between the back of his mind and his stomach. He does not dwell on it. Dwelling would mean admitting something he isn't ready to admit."
   },
   "psychological": {
     "stress_level": 0.24,
@@ -89,9 +89,9 @@
     "high_stress_ticks": 0
   },
   "financial": {
-    "monthly_income": 5787,
+    "monthly_income": 5401,
     "monthly_expenses": 5189,
-    "savings": 56099,
+    "savings": 56205,
     "debt_total": 18526,
     "credit_score": 789
   },
@@ -130,6 +130,6 @@
     "willingness_to_move": 0.0
   },
   "locality": "millfield",
-  "archetype": "I'm the veteran who's seen cycles before and trusts the cycle to turn again. Except this time I'm not entirely sure it's a cycle. I won't say that out loud. I'll say 'it's a tough market' and 'relationships still matter' and both of those things are true, but they're also the kinds of true things you say when you don't want to say the harder true thing. I am not frozen. I am moving \u2014 just not in a direction that changes anything.",
-  "tick_updated": 0
+  "archetype": "Tom sees himself as a steady hand \u2014 the experienced professional who doesn't panic at headlines, who has survived market cycles before and come out the other side. He believes this quality is wisdom. He does not yet recognize it as the thing that will hurt him most.",
+  "tick_updated": 1
 }

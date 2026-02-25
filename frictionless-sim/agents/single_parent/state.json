@@ -25,8 +25,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 3.4,
-      "threat_level": 0.72,
+      "runway_months": 3.5,
+      "threat_level": 0.71,
       "monthly_essentials": 2600,
       "health_cost_from_stress": 0
     },
@@ -74,7 +74,7 @@
       "availability_heuristic": 0.66,
       "social_proof_sensitivity": 0.66
     },
-    "sentiment": "Tired but clear-eyed. There's a low hum of anxiety that never fully goes away \u2014 the kind that comes from being the only net under two kids. But I'm not panicking. The job is solid. The car runs. The kids are okay. I just have to keep the pieces in place and not make any moves I can't afford to take back."
+    "sentiment": "Worn down but not broken. The doubles this week hit harder than usual \u2014 there's a kind of tired that sleep doesn't fully fix and I've been living in it. But the savings number went up. The kids are okay. My daughter's fever broke. I'll take the wins where I can find them and not ask for more than that right now."
   },
   "psychological": {
     "stress_level": 0.3,
@@ -86,7 +86,7 @@
   "financial": {
     "monthly_income": 5200,
     "monthly_expenses": 4630,
-    "savings": 15885,
+    "savings": 16170,
     "debt_total": 47402,
     "credit_score": 623
   },
@@ -118,6 +118,6 @@
     "willingness_to_move": 0.2
   },
   "locality": "millfield",
-  "archetype": "I am the load-bearing wall of this family. That's not a complaint \u2014 it's just what's true. My decisions can't be experimental right now. They have to work. Every single time.",
-  "tick_updated": 0
+  "archetype": "Still load-bearing. Still standing. I'm not thinking about autonomous vehicles or economic transitions. I'm thinking about whether I have enough leftovers to not have to cook on Tuesday. That's where I am. And that's okay. Staying alive in the margins is its own kind of competence.",
+  "tick_updated": 1
 }

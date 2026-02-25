@@ -1,9 +1,21 @@
 {
-  "tick": 0,
+  "tick": 1,
   "messages": [
     {
       "type": "RUMOR",
-      "content": "People are saying: Economy functioning normally. Self-driving vehicle technology exists but is not deployed locally. Mi. (You're not sure of the exact details.)"
+      "content": "People are saying: RoboRide Inc announces expansion to many new cities. Millfield is listed for Phase 2 deployment, expec. (You're not sure of the exact details.)"
+    },
+    {
+      "type": "SECTOR_DATA",
+      "content": "Active auto insurance policies in area: 28. "
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Carlos Ruiz \u2014 full day at the shop \u2014 complete brake overhaul on a 2019 f-150, diagnose a rough idle on a honda accord, and close out two routine services. keep the schedule tight and the quality high."
+    },
+    {
+      "type": "OUTCOME",
+      "content": "You Pull a list of the 20 clients who haven't called in over a year and send them a personal check-in email \u2014 something warm, not salesy. Reference their specific policy, ask how the car is treating them, mention that rates are moving around and I want to make sure they're still getting a good deal. Sign it Tom, not 'Tom Bradley, Licensed Agent.'. Savings grew by $299. "
     }
   ]
 }

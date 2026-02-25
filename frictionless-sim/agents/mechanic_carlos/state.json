@@ -80,7 +80,7 @@
       "availability_heuristic": 0.5,
       "social_proof_sensitivity": 0.41
     },
-    "sentiment": "Grounded but quietly unsettled. There's a low hum of unease underneath the routine \u2014 not loud enough to name, not quiet enough to ignore. Pride in today's work. Mild tension when the future comes to mind. Mostly I push the tension away by picking up a wrench."
+    "sentiment": "Grief, beginning. The specific kind that comes before acceptance \u2014 when the story you've told yourself about who you are starts to feel thin. Not collapse. Not despair. But the chest-tightening recognition that 'I fix cars, it's who I am' might be the *past* tense of a true thing rather than the present tense. There is anger underneath it \u2014 at the speed of it, at the unfairness, at having built something real with his hands only to watch the world decide hands like his matter less. But anger is still energy. He is not numb. He is not done."
   },
   "psychological": {
     "stress_level": 0.26,
@@ -92,7 +92,7 @@
   "financial": {
     "monthly_income": 5800,
     "monthly_expenses": 5414,
-    "savings": 34993,
+    "savings": 35186,
     "debt_total": 89330,
     "credit_score": 767
   },
@@ -131,6 +131,6 @@
     "willingness_to_move": 0
   },
   "locality": "millfield",
-  "archetype": "Master Craftsman. That's what I am. A man who knows one thing completely. The satisfaction of a rebuilt engine turning over clean \u2014 there's nothing else like it. I've built a life on that. My boys see me come home with grease under my nails and they know their father does real work. That matters to me more than I can say.",
-  "tick_updated": 0
+  "archetype": "I have spent twenty-three years being someone who solves problems with precision and expertise. I am realizing that the problem in front of me is not an engine problem. It is not something I can fix by working harder or knowing more about combustion systems. It requires me to do something I have almost no practice doing: admitting I don't know how the next chapter of my life works yet, and starting anyway. I am 47 and I thought I was done becoming someone new. I was wrong about that.",
+  "tick_updated": 1
 }

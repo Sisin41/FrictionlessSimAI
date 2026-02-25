@@ -4,6 +4,11 @@
       "tick": 0,
       "summary": "Refresh LinkedIn profile to reflect full scope of HR expertise \u2014 workforce transition management, compliance, organizational development. Set profile to 'Open to Work' visible only to recruiters. Update resume with quantified outcomes: number of terminations managed, compliance programs implemented, cost-per-hire metrics. Target sectors: healthcare, tech, logistics, government \u2014 all growing headcount or facing their own restructuring needs.",
       "emotional_state": "Calm and deliberate. The mild anxiety she carries (stress 0.29) is not panic \u2014 it's the productive discomfort of someone who sees clearly and hasn't yet acted on what she sees. She is not grieving this job or this industry. She is treating the situation like the project manager she secretly is: assess the landscape, reduce unnecessary exposure, activate the options that cost nothing to open. There is something almost relieving about finally moving from awareness to action."
+    },
+    {
+      "tick": 1,
+      "summary": "Schedule a private consultation with an employment attorney \u2014 not the one she works with professionally on behalf of the company, but an independent one she identifies personally. Agenda: understand what a negotiated voluntary separation with severance looks like in her state, what triggers enhanced severance obligations, and whether her position as the person managing layoffs creates any particular legal standing or leverage. This is not whistleblowing and not adversarial \u2014 it is a competent professional learning her rights before she needs them.",
+      "emotional_state": "Angela is operating in what she privately thinks of as 'clear-eyed mode' \u2014 the emotional register she has observed in the best employees she has ever counseled through separations, the ones who arrived at her office already knowing what was coming and had already done most of their grieving before she said a word. There is something almost cold about it, but it is not coldness. It is the kind of clarity that comes from having seen this exact situation enough times to stop pretending it won't resolve the way it always resolves. Her stress has not spiked despite the announcement. If anything, confirmation is less stressful than suspicion. The dread of the unknown was worse than the known thing with a two-month timeline. She is not paralyzed. She is not manic. She is the most methodical she has been in years, which says something about how much energy she was spending pretending not to see what she saw."
     }
   ],
   "past_outcomes": [
@@ -14,6 +19,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Refresh LinkedIn profile to reflect full scope of HR expertise \u2014 workforce transition management, compliance, organizational development. Set profile to 'Open to Work' visible only to recruiters. Update resume with quantified outcomes: number of terminations managed, compliance programs implemented, cost-per-hire metrics. Target sectors: healthcare, tech, logistics, government \u2014 all growing headcount or facing their own restructuring needs.. Savings grew by $294. "
+    },
+    {
+      "tick": 1,
+      "action": "Schedule a private consultation with an employment attorney \u2014 not the one she works with professionally on behalf of the company, but an independent one she identifies personally. Agenda: understand what a negotiated voluntary separation with severance looks like in her state, what triggers enhanced severance obligations, and whether her position as the person managing layoffs creates any particular legal standing or leverage. This is not whistleblowing and not adversarial \u2014 it is a competent professional learning her rights before she needs them.",
+      "savings_delta": 294,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Schedule a private consultation with an employment attorney \u2014 not the one she works with professionally on behalf of the company, but an independent one she identifies personally. Agenda: understand what a negotiated voluntary separation with severance looks like in her state, what triggers enhanced severance obligations, and whether her position as the person managing layoffs creates any particular legal standing or leverage. This is not whistleblowing and not adversarial \u2014 it is a competent professional learning her rights before she needs them.. Savings grew by $294. "
     }
   ],
   "reflections": [],

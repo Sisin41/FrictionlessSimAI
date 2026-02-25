@@ -1,4 +1,25 @@
 {
-  "tick": 0,
-  "messages": []
+  "tick": 1,
+  "messages": [
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Carlos Ruiz \u2014 full day at the shop \u2014 complete brake overhaul on a 2019 f-150, diagnose a rough idle on a honda accord, and close out two routine services. keep the schedule tight and the quality high."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Zoe Martinez \u2014 pick up two additional weekend delivery shifts on doordash to pad income slightly. evenings after cafe closes."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Host a public town hall meeting at the Millfield C..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Reach out to the Millfield Small Business Associat..."
+    },
+    {
+      "type": "OUTCOME",
+      "content": "You Complete standard repair queue at the shop \u2014 brake jobs, oil changes, one transmission diagnostic. Normal productive day.. Savings grew by $249. "
+    }
+  ]
 }

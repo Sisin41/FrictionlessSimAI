@@ -25,7 +25,7 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 3.2,
+      "runway_months": 3.3,
       "threat_level": 0.73,
       "monthly_essentials": 2750,
       "health_cost_from_stress": 0
@@ -76,7 +76,7 @@
       "availability_heuristic": 0.38,
       "social_proof_sensitivity": 0.52
     },
-    "sentiment": "Quietly tense beneath a practiced calm. The number that keeps surfacing is 'two kids' \u2014 Emma's school supplies, Tyler's little league fees. I'm not mentioning this to anyone. On the outside I'm the same Jake: laughing, ready, leaning on the counter like I own the place. But I check the bank app more than I used to. I tell myself that's just being responsible."
+    "sentiment": "Cracked but not broken. The normalcy bias is still running \u2014 I caught myself thinking 'robotaxis won't work in midwest winters' twice today \u2014 but there is a new sound underneath it, like something structural shifting. Not panic. Not acceptance. The specific dread of a man who has been mildly wrong for months and is about to find out how wrong, in a room full of colleagues, from a woman who signs his checks. Functional. Present. Scared in the useful direction."
   },
   "psychological": {
     "stress_level": 0.29,
@@ -88,7 +88,7 @@
   "financial": {
     "monthly_income": 5500,
     "monthly_expenses": 5134,
-    "savings": 16683,
+    "savings": 16866,
     "debt_total": 41695,
     "credit_score": 615
   },
@@ -127,6 +127,6 @@
     "willingness_to_move": 0.05
   },
   "locality": "millfield",
-  "archetype": "I am a closer. I am a relationship builder. This is a slow patch \u2014 the market has slow patches, that's not new. I have survived worse. The product is fine, the economy is fine, people still need cars. My identity is my craft and my craft is people. I have not yet seriously considered whether any of this might be structural. That thought exists somewhere but I have not invited it in.",
-  "tick_updated": 0
+  "archetype": "I've been the Hustler \u2014 head down, phones up, work harder than the problem. That archetype got me through every slow month for eleven years. But the Hustler assumes the game is still being played. The all-hands tomorrow might be the moment I have to consider becoming something else: the Adapter. I don't know what that looks like yet. I know what it costs to find out.",
+  "tick_updated": 1
 }

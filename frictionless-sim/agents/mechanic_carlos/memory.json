@@ -4,6 +4,11 @@
       "tick": 0,
       "summary": "Full day at the shop \u2014 complete brake overhaul on a 2019 F-150, diagnose a rough idle on a Honda Accord, and close out two routine services. Keep the schedule tight and the quality high.",
       "emotional_state": "Grounded but quietly unsettled. There's a low hum of unease underneath the routine \u2014 not loud enough to name, not quiet enough to ignore. Pride in today's work. Mild tension when the future comes to mind. Mostly I push the tension away by picking up a wrench."
+    },
+    {
+      "tick": 1,
+      "summary": "Attend Patricia's all-hands meeting with full presence and without defensive posturing. Listen for concrete information about the Phase 2 timeline, any company pivot plans, and what leadership knows that workers don't. Take notes. Do not deflect.",
+      "emotional_state": "Grief, beginning. The specific kind that comes before acceptance \u2014 when the story you've told yourself about who you are starts to feel thin. Not collapse. Not despair. But the chest-tightening recognition that 'I fix cars, it's who I am' might be the *past* tense of a true thing rather than the present tense. There is anger underneath it \u2014 at the speed of it, at the unfairness, at having built something real with his hands only to watch the world decide hands like his matter less. But anger is still energy. He is not numb. He is not done."
     }
   ],
   "past_outcomes": [
@@ -14,6 +19,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Full day at the shop \u2014 complete brake overhaul on a 2019 F-150, diagnose a rough idle on a Honda Accord, and close out two routine services. Keep the schedule tight and the quality high.. Savings grew by $193. "
+    },
+    {
+      "tick": 1,
+      "action": "Attend Patricia's all-hands meeting with full presence and without defensive posturing. Listen for concrete information about the Phase 2 timeline, any company pivot plans, and what leadership knows that workers don't. Take notes. Do not deflect.",
+      "savings_delta": 193,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Attend Patricia's all-hands meeting with full presence and without defensive posturing. Listen for concrete information about the Phase 2 timeline, any company pivot plans, and what leadership knows that workers don't. Take notes. Do not deflect.. Savings grew by $193. "
     }
   ],
   "reflections": [],

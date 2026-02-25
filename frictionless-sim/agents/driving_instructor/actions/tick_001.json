@@ -1,0 +1,39 @@
+{
+  "tick": 1,
+  "agent_id": "driving_instructor",
+  "agent_name": "Frank Russo",
+  "response": {
+    "internal_assessment": "RoboRide Phase 2 hits Millfield in two months. Two months. I read that three times like the number was going to change. It didn't. I've been telling myself the robo-car thing was for coastal people, tech people, not for a mid-size town like ours. Millfield isn't San Francisco. But there it is in black and white — Phase 2 list, right next to the city name I've driven every street of for thirty years. My skill relevance isn't eroding. It's already eroded. The 0.10 isn't a warning light, it's a reading from a patient who's already flatlined in one organ. I have 10.2 months of runway, which sounds like breathing room until I realize it's exactly long enough to watch myself become irrelevant in slow motion if I don't move. The trap isn't panic. The trap is comfort. I called Marco last night. He said 'Dad, you're a great teacher.' He meant it as reassurance. I'm starting to think he was pointing at something I've been too proud to see.",
+    "chosen_actions": [
+      {
+        "type": "COGNITIVE_REFRAME",
+        "description": "Frank sits alone in the office after the last lesson of the day and writes two columns on a legal pad: 'What I teach' and 'How I teach.' The left column says: hand position, mirror checks, parallel parking, reading traffic. The right column says: reading anxiety in a student, breaking a complex skill into steps, building confidence in someone who wants to quit, knowing when to push and when to back off. He stares at the right column for a long time. He does not throw the pad away.",
+        "target_agent": null,
+        "resources_involved": "Time (45 minutes), one legal pad, no cost",
+        "reasoning": "Frank has been defining himself by the subject matter — driving — rather than the underlying craft, which is teaching under pressure, teaching adults, teaching people who are afraid. This reframe does not resolve his economic problem but it is the necessary precondition for any pivot that isn't denial. Without it, every subsequent action will be defensive and too small. The legal pad exercise is low-stakes enough that his pride can survive it. It also produces a real artifact — a list — that externalizes the insight so he can return to it when the fear tries to rewrite history.",
+        "economic_effects": {
+          "immediate_cost": 0,
+          "runway_impact": "neutral",
+          "strategic_value": "high — unlocks adjacent skill identification",
+          "risk": "low"
+        }
+      },
+      {
+        "type": "INFORMATION_GATHERING",
+        "description": "Frank calls the adult education coordinator at Millfield Community College — he knows her, Janet Brewer, from a safety fair three years ago. He does not pitch anything. He asks one question: what skills are hardest to teach to adults coming back to workforce training? He listens. He takes notes. He does not mention that RoboRide is coming or that he is scared.",
+        "target_agent": "community_college_coordinator",
+        "resources_involved": "Time (30 minutes), existing social capital from prior relationship",
+        "reasoning": "Frank has a network he has not used because he never needed it. One conversation with someone inside adult education costs nothing and could surface whether his pedagogical skills — patience, structured instruction, anxiety management — have market value outside the driving context. He is not committing to anything. He is gathering signal. At 58, with 80% identity attachment, he cannot move fast. But he can listen. Listening is also something he is very good at — he just hasn't applied it to his own situation yet.",
+        "economic_effects": {
+          "immediate_cost": 0,
+          "runway_impact": "neutral",
+          "strategic_value": "medium-high — may identify concrete pivot opportunity",
+          "risk": "low; preserves optionality"
+        }
+      }
+    ],
+    "emotional_state": "Grief with a crack of clarity in it. Frank is not panicking — he is too seasoned to panic and too proud to show it if he were. But he is grieving, quietly, in the way men like him grieve: by going quiet, by driving home on a longer route than necessary, by not turning on the radio. The grief is for a version of himself he was certain was permanent. The crack of clarity is small but it is real — the legal pad exercise produced something he did not expect, which is the recognition that the right column on that list does not say the word 'driving' anywhere on it.",
+    "archetype_self_assessment": "I have been a driving instructor. I am starting to suspect — and I resist this, I want to be honest that I resist this — that what I actually am is a teacher of scared people who need to believe they can do something hard. That is a different job description. I don't know yet if it's one I can sell. But it's the first true thing I've written about myself in a long time.",
+    "inner_monologue": "The car is just the classroom — I've been in love with the classroom so long I forgot I'm the one who knows how to teach."
+  }
+}

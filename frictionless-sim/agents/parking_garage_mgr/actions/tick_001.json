@@ -1,0 +1,49 @@
+{
+  "tick": 1,
+  "agent_id": "parking_garage_mgr",
+  "agent_name": "Denise Williams",
+  "response": {
+    "internal_assessment": "Two months. That is the number. Phase 2 deployment means RoboRide hits Millfield in roughly 60 days, and from that point the decline curve on parking revenue is not a question of if, it is a question of how fast. I have 6.1 months of runway, which sounds comfortable until you subtract two dependents and the reality that job searches in facilities operations management take 8-12 weeks on average. That math leaves me with a window that is already closing. Last tick I did the skills audit and I know what I have: 14 years of operations management, budget oversight ($2.3M annual), vendor contracts, safety compliance, staff supervision, facility systems. None of that is parking-specific. That skillset moves to warehousing, logistics, property management, municipal facilities, hospital plant operations, commercial real estate. The job is not 'parking garage manager.' The job has always been 'keep a complex physical operation running on budget and on schedule.' I need to act on that distinction now, not in month four when desperation sets in and I am negotiating from weakness. Status quo feels safe because the garage is still full today. But I have seen what happens to industries two months before disruption — they look exactly like this.",
+    "chosen_actions": [
+      {
+        "type": "JOB_SEARCH_ACTIVE",
+        "description": "Launch active job search targeting facilities operations and property management roles. Update LinkedIn profile to de-emphasize 'parking' and lead with operations management, budget oversight, and compliance credentials. Apply to minimum 5 positions this tick: warehouse/logistics facility managers, commercial property operations, municipal facilities coordinator roles, hospital or university plant operations.",
+        "target_agent": null,
+        "resources_involved": "Time (est. 10-15 hrs this tick), $0 direct cost. LinkedIn Premium subscription $40/mo — worth it for recruiter visibility.",
+        "reasoning": "Two months to Phase 2 deployment is not a deadline for the garage, it is a deadline for me. Searches take 8-12 weeks. I need to be in final-round conversations before RoboRide's first vehicle parks itself on a Millfield street. Starting now gives me negotiating leverage. Starting in month three means I am explaining a declining operation to skeptical hiring managers.",
+        "economic_effects": {
+          "immediate_cost": 40,
+          "expected_benefit": "New role likely $68k-$82k range based on skills audit comparables — near or above current salary",
+          "risk_avoided": "Unemployment gap with 2 dependents on $21,361 savings"
+        }
+      },
+      {
+        "type": "NETWORK_ACTIVATION",
+        "description": "Contact 3 specific people this week: former colleague now in warehouse logistics at regional distribution center, city facilities director met at a compliance training two years ago, and the commercial property manager who manages two buildings adjacent to the garage. Direct outreach, not broadcast — specific asks for a 20-minute conversation about what they look for in operations hires.",
+        "target_agent": null,
+        "resources_involved": "Time (3-4 hrs), $0 cost. Possibly one lunch meeting ~$25.",
+        "reasoning": "Warm network placements happen faster and at better terms than cold applications. I have real relationships in adjacent industries. These conversations also give me market intelligence on what skills are actually valued right now versus what job postings claim to want.",
+        "economic_effects": {
+          "immediate_cost": 25,
+          "expected_benefit": "Referral-sourced job searches reduce time-to-hire by 3-5 weeks on average",
+          "risk_avoided": "Extended job search duration eating into runway"
+        }
+      },
+      {
+        "type": "CONTINGENCY_PLANNING",
+        "description": "Draft a quiet contingency budget: what does monthly spend look like if I am unemployed at month 4? Identify any discretionary cuts now, before pressure forces them. Do not tell dependents yet — no need to spike household stress without cause — but know the number.",
+        "target_agent": null,
+        "resources_involved": "2 hrs personal time. No cost.",
+        "reasoning": "Knowing the floor removes fear. Right now the savings number feels abstract. If I know exactly how long $21,361 actually lasts under lean conditions, I make better decisions about which jobs to accept and which offers are worth negotiating on. Preparation is not panic.",
+        "economic_effects": {
+          "immediate_cost": 0,
+          "expected_benefit": "Decision clarity. Prevents accepting a bad offer out of unfounded fear, or conversely, waiting too long due to false comfort.",
+          "risk_avoided": "Reactive financial decisions under stress"
+        }
+      }
+    ],
+    "emotional_state": "Controlled urgency. Not panic — I have seen this coming long enough that the fear has had time to convert into focus. There is something almost clarifying about a deadline with a name on it. The ambiguity of 'eventually' was harder than '2 months.' Now I know what I am working against and I know what I have to offer. The stress is real but it is directional stress, the kind you can do something with.",
+    "archetype_self_assessment": "I am moving. The skills audit last tick was necessary groundwork but it was still research. This tick the research ends and the campaign starts. I am not the person who waits for the last customer to leave before locking up — I am the person who already knows the lease terms and has three prospects lined up before the sign goes in the window. That is the manager I have always been. I am applying it to myself now.",
+    "inner_monologue": "The garage is full today and I am already interviewing somewhere else — that is not disloyalty, that is math."
+  }
+}

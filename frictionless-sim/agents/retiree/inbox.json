@@ -1,9 +1,37 @@
 {
-  "tick": 0,
+  "tick": 1,
   "messages": [
     {
       "type": "CAPABILITY_FACT",
-      "content": "Economy functioning normally. Self-driving vehicle technology exists but is not deployed locally. Millfield is a car-dependent small town."
+      "content": "RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
+    },
+    {
+      "type": "MARKET_DATA",
+      "content": "Consumer spending down. Spending index: 83 (baseline: 100)."
+    },
+    {
+      "type": "NEWS",
+      "content": "Business closing: Tamika Jefferson \u2014 go line by line through my $3,177 in monthly expenses and identify anything that can be cut without serious quality-of-life damage. target $400-600 in monthly reduction to extend the runway from 2 months closer to 3. buy myself one more month of decision space without earning a single extra dollar."
+    },
+    {
+      "type": "NEWS",
+      "content": "Business closing: Carlos Ruiz \u2014 full day at the shop \u2014 complete brake overhaul on a 2019 f-150, diagnose a rough idle on a honda accord, and close out two routine services. keep the schedule tight and the quality high."
+    },
+    {
+      "type": "NEWS",
+      "content": "Business closing: Kevin O'Brien \u2014 pull internal training materials on mortgage origination and small business loan underwriting. begin self-directed review of sba loan structures and hmda compliance requirements to close the gap between my current expertise and adjacent loan product lines."
+    },
+    {
+      "type": "NEWS",
+      "content": "Business closing: Zoe Martinez \u2014 pick up two additional weekend delivery shifts on doordash to pad income slightly. evenings after cafe closes."
+    },
+    {
+      "type": "NEWS",
+      "content": "Policy proposal: Maria Santos \u2014 host a public town hall meeting at the millfield community center focused on economic resilience and quality of life. frame it as proactive governance \u2014 listening to constituents, gathering input on priorities for the coming year. use my public speaking skills to reinforce my presence as an engaged, forward-looking council member."
+    },
+    {
+      "type": "OUTCOME",
+      "content": "You Volunteer two afternoons this week at Millfield Public Library, helping adults with basic computer literacy \u2014 email, video calls with family, navigating health insurance portals online.. Savings grew by $473. "
     }
   ]
 }

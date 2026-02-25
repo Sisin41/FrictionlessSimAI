@@ -1,0 +1,48 @@
+{
+  "tick": 1,
+  "agent_id": "truck_owner",
+  "agent_name": "Dale Cooper",
+  "response": {
+    "internal_assessment": "RoboRide coming to Millfield in two months. Good. Let the desk jockeys and soccer moms hand their car keys to a computer — that's got nothing to do with me. Nobody's putting a skid steer attachment on a RoboRide. Nobody's hauling OSB to a jobsite in one of those things. My truck stays. My truck works. That part I am not worried about even a little bit.\n\nBut I'm sitting here thinking about my pipeline. The garage addition bid I'm chasing — that's the Hendersons on Maple. Mike Henderson runs the Chevy dealership on Auto Row. If people stop buying cars, stop needing oil changes, stop coming into the lot... Mike's revenue craters. Mike gets nervous. Mike puts the garage addition on hold. That's $38,000 I was counting on for Q2.\n\nAnd it's not just Mike. Half of Auto Row is service bays and detail shops and tire places. Those are local guys employing local people who hire me to do their decks and their bathrooms and their additions. The chain goes: RoboRide eats car ownership, car ownership dies, Auto Row hollows out, discretionary home improvement spending goes soft, Dale's phone stops ringing as much.\n\nI'm not panicking. Work doesn't disappear — it compresses. But I should be thinking about who my most vulnerable clients are and whether I need to front-load the pipeline.",
+    "chosen_actions": [
+      {
+        "type": "BID_ACCELERATION",
+        "description": "Prioritize closing the Henderson garage addition bid before Phase 2 RoboRide deployment creates uncertainty in the Auto Row economy. Push for a signed contract within 30 days rather than letting it drift.",
+        "target_agent": null,
+        "resources_involved": "Time, bid documents, materials estimate (~$38,000 project value)",
+        "reasoning": "Mike Henderson's dealership income is directly exposed to autonomous vehicle adoption. If Dale waits until after RoboRide launches in Millfield, Henderson may be in a wait-and-see posture and unwilling to commit to a large discretionary spend. Locking in the contract now insulates Dale from downstream demand softness.",
+        "economic_effects": {
+          "expected_revenue_secured": 38000,
+          "pipeline_risk_reduction": "moderate",
+          "timing_advantage": "pre-disruption contract lock-in"
+        }
+      },
+      {
+        "type": "EQUIPMENT_RESEARCH_CONTINUE",
+        "description": "Continue evaluating skid steer purchase. Do not pause or deprioritize. Owning the equipment expands the scope of jobs Dale can take, reducing dependence on any single client segment.",
+        "target_agent": null,
+        "resources_involved": "Savings ($46,409 available), estimated skid steer cost $18,000-$28,000 used",
+        "reasoning": "If local residential demand softens in 6-12 months, Dale needs to be able to compete for commercial and municipal work that requires equipment he currently rents. Owning a skid steer expands his serviceable market and his margin. This is a hedge against downstream demand compression, not a reaction to it.",
+        "economic_effects": {
+          "capital_outlay": "18000-28000",
+          "margin_improvement": "eliminates rental cost on applicable jobs",
+          "market_expansion": "light commercial, site prep, municipality subcontracts"
+        }
+      },
+      {
+        "type": "CLIENT_DIVERSIFICATION_SCAN",
+        "description": "Mentally audit current and prospective clients for Auto Row / car-economy exposure. Flag high-risk clients and begin cultivating relationships with clients whose income is less correlated to vehicle ownership — healthcare, trades, government workers, retirees with fixed income.",
+        "target_agent": null,
+        "resources_involved": "Minimal — relationship work, word of mouth, existing network",
+        "reasoning": "Dale's truck is safe. His order book is not guaranteed safe. A proactive audit costs nothing now and could matter a lot in 12 months if Millfield's car-adjacent economy contracts.",
+        "economic_effects": {
+          "risk_exposure_reduction": "low cost, medium-term benefit",
+          "pipeline_resilience": "improves if Auto Row segment weakens"
+        }
+      }
+    ],
+    "emotional_state": "Calm and slightly alert. Not rattled — the truck panic that might hit another person is entirely absent. But there is a low-grade unease about the people downstream. The kind of unease a contractor gets when he hears a big local employer is 'evaluating options.' He's done this long enough to know that threat usually travels one hop further than people expect.",
+    "archetype_self_assessment": "I am not in the disrupted category. I am in the 'disruption lands on my customers' category, which is different and in some ways harder to see coming. My tools are fine. My market might need watching.",
+    "inner_monologue": "My truck's not going anywhere — but I should probably get Henderson's signature before he starts reading the news."
+  }
+}

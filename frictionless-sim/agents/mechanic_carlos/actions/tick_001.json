@@ -1,0 +1,40 @@
+{
+  "tick": 1,
+  "agent_id": "mechanic_carlos",
+  "agent_name": "Carlos Ruiz",
+  "response": {
+    "internal_assessment": "RoboRide. Two months. Patricia calling everyone in. It has weight now — a company name, a timeline, a CEO who doesn't call all-hands meetings for nothing. Yesterday I closed the tab. I told myself what I always tell myself: I've seen scares before. The electric car wave. The dealership consolidations. The diagnostic software that was supposed to replace us. I survived all of it. But Zoe — Zoe who I've worked next to for six years, who is a *good* mechanic — Zoe is picking up DoorDash shifts. That's not a rumor on a forum. That's Zoe. That's someone who sees something I don't want to see. And now there's a date. Two months isn't 'eventually.' Two months is the school year ending. Two months is before Maria's birthday. I have $34,993 in savings, three kids, and a skill set that is apparently worth 0.50 of what it used to be. Half. My whole life is worth half of what it was. I need to be honest with myself — really honest, not 'I'll figure it out later' honest — about what I'm actually looking at.",
+    "chosen_actions": [
+      {
+        "type": "information_gathering",
+        "description": "Attend Patricia's all-hands meeting with full presence and without defensive posturing. Listen for concrete information about the Phase 2 timeline, any company pivot plans, and what leadership knows that workers don't. Take notes. Do not deflect.",
+        "target_agent": null,
+        "resources_involved": "Time (1-2 hours), emotional reserves",
+        "reasoning": "Denial is no longer a viable strategy. The information asymmetry is dangerous — Patricia called the meeting, which means she has something to say. Whatever it is, Carlos needs the full picture. Going in defensive or not going in mentally present means making decisions on incomplete data with $34,993 and three kids on the line.",
+        "economic_effects": {}
+      },
+      {
+        "type": "skill_research",
+        "description": "After the meeting — tonight, at the kitchen table, after the kids are in bed — open the browser tab again. This time don't close it. Look specifically at EV and hybrid certification programs: what they cost, how long they take, whether his existing ASE certifications carry over, and whether any shops in a 40-mile radius are already hiring for EV-specific work.",
+        "target_agent": null,
+        "resources_involved": "Time (2-3 hours), potential future training costs $800-$3,000",
+        "reasoning": "EV powertrains are different but they are not magic. He has worked on hybrid systems. He understands high-voltage circuits at a basic level. His hands know precision, diagnostics, system thinking — those don't disappear. The question is whether the *specific* knowledge gap is bridgeable in the window he has. He needs data before he can grieve what is actually gone versus what just needs updating.",
+        "economic_effects": {
+          "potential_training_cost": -2000,
+          "potential_salary_preservation": "maintains income trajectory if requalified before displacement"
+        }
+      },
+      {
+        "type": "peer_connection",
+        "description": "Find a moment to talk to Zoe — not about DoorDash, not to judge, but to understand. She saw something. She's acting on it. Carlos needs to understand what she knows that he's been refusing to.",
+        "target_agent": "zoe_coworker",
+        "resources_involved": "15 minutes, vulnerability",
+        "reasoning": "Zoe is a leading indicator. She is not panicking — she is hedging. There is intelligence in that. Pride has been keeping Carlos from conversations like this. Pride is expensive when you have six months of runway and three dependents. She is not beneath him; she may be ahead of him.",
+        "economic_effects": {}
+      }
+    ],
+    "emotional_state": "Grief, beginning. The specific kind that comes before acceptance — when the story you've told yourself about who you are starts to feel thin. Not collapse. Not despair. But the chest-tightening recognition that 'I fix cars, it's who I am' might be the *past* tense of a true thing rather than the present tense. There is anger underneath it — at the speed of it, at the unfairness, at having built something real with his hands only to watch the world decide hands like his matter less. But anger is still energy. He is not numb. He is not done.",
+    "archetype_self_assessment": "I have spent twenty-three years being someone who solves problems with precision and expertise. I am realizing that the problem in front of me is not an engine problem. It is not something I can fix by working harder or knowing more about combustion systems. It requires me to do something I have almost no practice doing: admitting I don't know how the next chapter of my life works yet, and starting anyway. I am 47 and I thought I was done becoming someone new. I was wrong about that.",
+    "inner_monologue": "I closed the tab yesterday and it didn't stay closed, which means the thing I'm afraid of isn't in the tab."
+  }
+}

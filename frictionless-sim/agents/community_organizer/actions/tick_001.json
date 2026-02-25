@@ -1,0 +1,47 @@
+{
+  "tick": 1,
+  "agent_id": "community_organizer",
+  "agent_name": "Lisa Freeman",
+  "response": {
+    "internal_assessment": "The RoboRide Phase 2 announcement changes everything about the timeline. Millfield in two months. Two months. I've been bracing for a slow build — a gradual trickle of people like Harold, people I could absorb one at a time. This is not that. This is a scheduled detonation with a date on it. The grant application I started is no longer a precaution — it's a lifeline I have to close. And Maria's emergency council session is the opening I've been hoping for without knowing I was hoping for it. Maria has political leverage I don't have. I have ground-level data and community trust she doesn't have direct access to. That's a genuine partnership if I can get in the room. My savings at $20,362 gives me 6.2 months — that takes me past the Phase 2 deployment but not through the aftermath. I cannot absorb a surge on existing budget. The evening drop-ins are running and already proving useful: I'm seeing the early arrivals, the people who feel it before they can name it. I need to weaponize that data — turn it into evidence for the grant application and evidence for Maria to bring to the council. Low agency is my enemy right now. I know the moves. I have to make them faster than feels comfortable.",
+    "chosen_actions": [
+      {
+        "type": "coalition_outreach",
+        "description": "Contact Maria Santos directly before the emergency council session — not to lobby, but to offer: real intake data from the drop-in hours, anecdotal testimony I can organize, and my center as a potential node in any council-coordinated response infrastructure. Position the community center as operational support for whatever the council decides, not a supplicant. Ask what she needs from me to make the session productive.",
+        "target_agent": "council_member",
+        "resources_involved": "Time only — one hour call plus preparation. Existing drop-in intake logs (anonymized). My credibility as a 15-year director in this community.",
+        "reasoning": "Maria is calling this session because she sees the wave coming and wants to do something about it. I am the person in Millfield who is already doing something. If I reach her before the session rather than after, I shape what 'community response' looks like in the council's framing. If I wait, I become a line item someone else defines. This is the highest-leverage hour I can spend right now. It also bypasses my low agency tendency to wait and observe — I'm forcing the connection before the moment passes.",
+        "economic_effects": {
+          "direct_cost": 0,
+          "potential_unlock": "Council endorsement or co-sponsorship of grant application could increase funding probability significantly. Council-directed referral pipeline would increase center utilization and justify expanded budget request."
+        }
+      },
+      {
+        "type": "grant_acceleration",
+        "description": "Revise the in-progress County Human Services Emergency Stabilization Fund application to incorporate the RoboRide Phase 2 announcement as a named, documented precipitating event. Add a two-month surge projection with specific program capacity numbers. Include the drop-in hour data as evidence of existing community need. Submit within 10 days rather than the original 3-week timeline.",
+        "target_agent": null,
+        "resources_involved": "$0 direct cost. Approximately 12 hours of concentrated writing time over the next 10 days. Drop-in intake data. RoboRide press release as cited documentation.",
+        "reasoning": "Grant reviewers respond to specificity and timeliness. The Phase 2 announcement is a gift — it gives me a concrete external event to anchor the application's urgency, which is far more compelling than projections from trend lines. I now know when the pressure arrives. I can write a surge response plan with a real timeline. Applications written in visible proximity to a named crisis event — before the crisis fully lands — tend to score higher on prevention framing. I have a narrow window where this reads as preparation rather than reaction. I have to move.",
+        "economic_effects": {
+          "direct_cost": 0,
+          "target_award": "$25,000",
+          "runway_extension_if_awarded": "Approximately 4.5 additional months at current burn, extending total runway to roughly 10.7 months — enough to absorb the post-deployment surge and stabilize on the other side."
+        }
+      },
+      {
+        "type": "program_readiness_assessment",
+        "description": "Conduct a quiet internal audit of center capacity: maximum weekly intake, counselor volunteer availability, referral partner capacity, and physical space constraints. Build a realistic surge model for what a 30%, 50%, and 100% increase in demand would require and cost. This becomes internal decision-support for the next 60 days.",
+        "target_agent": null,
+        "resources_involved": "4 hours of my time. Conversations with two senior volunteers. Existing program records.",
+        "reasoning": "I cannot commit to Maria or the council with credibility unless I know what I can actually absorb. Right now I am operating on intuition and rough estimates. If I am going to position the center as a reliable partner in a council response, I need to be able to say: we can handle X more people per week, we need Y to handle Z. Vague offers of help from community organizations get noted and forgotten. Specific capacity commitments get built into plans. This audit is the difference between being in the response versus being adjacent to it.",
+        "economic_effects": {
+          "direct_cost": 0,
+          "output": "Surge cost model per demand scenario. Basis for any expanded budget request to the council or inclusion in grant amendment."
+        }
+      }
+    ],
+    "emotional_state": "The announcement landed hard. Not in a way I showed — I was alone when I read it, and I let myself sit with it for about four minutes before I started making notes. Two months. I've been running on a slow-burn vigilance for weeks and now there is a date. That's clarifying in a way that's almost a relief, which I recognize is a strange thing to feel. The ambiguity was its own kind of weight. Now I know what I'm preparing for. There is urgency underneath my calm and I am not suppressing it — I am converting it. The call to Maria feels important and also slightly terrifying, which tells me it's the right move. I'm aware of my low agency pattern: I tend to prepare extensively and then hesitate at the moment of action. I am not going to hesitate this time. I'm making the call today.",
+    "archetype_self_assessment": "I hold the container and I build the bridge. I am not a policymaker — Maria is. I am not an economist — I am the person who sees what the economy does to actual people before anyone else has data about it. That is a specific and valuable thing to be right now. My job in the next 60 days is to make sure the container doesn't overflow and that the bridge to institutional resources — the grant, the council, the peer network — holds. I am good at this when I trust myself enough to move at speed. That is the work I'm doing on myself alongside the work I'm doing for the community.",
+    "inner_monologue": "Call Maria before end of day — she needs to know someone on the ground is already running and has real numbers, not just concern."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "tick": 1,
+  "agent_id": "car_wash_worker",
+  "agent_name": "Miguel Hernandez",
+  "response": {
+    "internal_assessment": "Robotaxis coming to Millfield in 2 months. Car wash probably loses a chunk of business when people stop owning cars or driving less. Boss might cut hours or close. I've got 1.2 months of savings left. That lines up badly. DoorDash is already running but gig income is inconsistent and I can't build a plan on it alone. The roommate search needs to close fast — splitting rent is the single biggest lever I have right now. I need a second income stream that isn't dependent on car ownership. Warehouses, grocery stocking, anything with a body count and a paycheck. I'm 23. I don't care about car washes. I care about not being evicted.",
+    "chosen_actions": [
+      {
+        "type": "housing_expense_reduction",
+        "description": "Aggressively finalize roommate search — post on every platform, lower the ask, take the first financially viable applicant. Splitting rent cuts monthly burn nearly in half and extends runway past the displacement window.",
+        "target_agent": null,
+        "resources_involved": "Time, existing apartment lease",
+        "reasoning": "Rent is the biggest fixed cost. Finding a roommate is the fastest and most reliable way to extend runway without needing more income immediately. If I can lock this in within 2 weeks, I buy myself 2+ extra months of safety — enough to clear the robotaxi transition uncertainty.",
+        "economic_effects": {
+          "monthly_expense_reduction": "~$400-600 estimated rent split savings",
+          "runway_extension": "+1.5 to 2 months estimated",
+          "risk": "Low — depends on applicant quality and lease flexibility"
+        }
+      },
+      {
+        "type": "income_diversification",
+        "description": "Apply to warehouse, grocery, or logistics jobs this week — roles that are NOT tied to personal vehicle ownership trends. Target employers hiring now with reliable hourly wages. Keep DoorDash running in parallel as bridge income.",
+        "target_agent": null,
+        "resources_involved": "Time, transportation to interviews",
+        "reasoning": "The car wash is a dead end on a known timeline. Robotaxi Phase 2 is 2 months out. I should not be looking for another car-adjacent job. Warehouses and grocery logistics are growing, not shrinking, and they don't care that I washed cars. If I land something in the next 3-4 weeks, I can overlap income and leave on my terms before the car wash situation forces my hand.",
+        "economic_effects": {
+          "potential_income_increase": "$15-19/hr warehouse vs current car wash wage",
+          "timeline": "Apply this week, possible start within 2-4 weeks",
+          "risk": "Low to medium — competitive but entry-level supply is high"
+        }
+      }
+    ],
+    "emotional_state": "Calm, slightly pressured. Not scared. Frustrated that the timeline is tight but not paralyzed. This is a logistics problem, not an identity crisis.",
+    "archetype_self_assessment": "Pragmatic Transitioner. I was never attached to this job. The disruption is real but it's not personal. I just need to solve rent before the math breaks down.",
+    "inner_monologue": "Two months, okay — I just need to not be broke in two months, that's the whole problem."
+  }
+}

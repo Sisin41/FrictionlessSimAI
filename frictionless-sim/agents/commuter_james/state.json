@@ -25,7 +25,7 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 16.3,
+      "runway_months": 16.5,
       "threat_level": 0,
       "monthly_essentials": 4250,
       "health_cost_from_stress": 0
@@ -43,9 +43,10 @@
     },
     "L3_CONSUME": {
       "discretionary_budget": 2125,
-      "owns_car": true,
+      "owns_car": false,
       "car_payment_monthly": 0,
-      "substitution_willingness": 0.85
+      "substitution_willingness": 0.85,
+      "uses_robotaxi": true
     },
     "L4_SIGNAL": {
       "status_anxiety": 0.64,
@@ -76,7 +77,7 @@
       "availability_heuristic": 0.58,
       "social_proof_sensitivity": 0.3
     },
-    "sentiment": "Calm and mildly optimistic. No acute stress. A background low-grade irritation about the car \u2014 not distress, more like knowing you have a subscription you're going to cancel eventually. The financial picture is good and I know it. Some restless forward-looking energy, the kind that comes from seeing a change coming and just waiting for it to arrive."
+    "sentiment": "Controlled excitement. The kind that comes not from surprise but from validation \u2014 months of watching, waiting, and running numbers, and now the trigger event is real and on a concrete timeline. There is a small pulse of urgency underneath it: I need to move fast on the listing before anyone else in Millfield connects the same dots. But mostly this feels like execution, not panic. I built the plan. Now I run it."
   },
   "psychological": {
     "stress_level": 0.2,
@@ -88,7 +89,7 @@
   "financial": {
     "monthly_income": 8500,
     "monthly_expenses": 6307,
-    "savings": 103096,
+    "savings": 104192,
     "debt_total": 83721,
     "credit_score": 738
   },
@@ -120,6 +121,6 @@
     "willingness_to_move": 0.55
   },
   "locality": "millfield",
-  "archetype": "I'm the analyst who's already done the math. Car ownership for my situation is a legacy behavior \u2014 it made sense before, it makes less sense now, and it will make almost no sense once robotaxis hit Millfield. I'm not in a rush to act before the infrastructure exists, but I'm not going to pretend I have any real attachment to owning a vehicle. It's a depreciating asset that costs me time and money. I'm holding it because there's no alternative yet, not because I want it.",
-  "tick_updated": 0
+  "archetype": "Classic early adopter with disciplined financial framing. I am not selling the car because I am excited about robots. I am selling it because the IRR on holding a depreciating asset through a regional demand shock is negative. The AV enthusiasm is real, but it is the spreadsheet that is pulling the trigger. That is the right order of operations.",
+  "tick_updated": 1
 }

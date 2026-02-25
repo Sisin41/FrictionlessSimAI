@@ -26,8 +26,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 10.9,
-      "threat_level": 0.09,
+      "runway_months": 11.0,
+      "threat_level": 0.08,
       "monthly_essentials": 3600,
       "health_cost_from_stress": 0
     },
@@ -76,7 +76,7 @@
       "availability_heuristic": 0.52,
       "social_proof_sensitivity": 0.39
     },
-    "sentiment": "Calm and deliberate. The mild anxiety she carries (stress 0.29) is not panic \u2014 it's the productive discomfort of someone who sees clearly and hasn't yet acted on what she sees. She is not grieving this job or this industry. She is treating the situation like the project manager she secretly is: assess the landscape, reduce unnecessary exposure, activate the options that cost nothing to open. There is something almost relieving about finally moving from awareness to action."
+    "sentiment": "Angela is operating in what she privately thinks of as 'clear-eyed mode' \u2014 the emotional register she has observed in the best employees she has ever counseled through separations, the ones who arrived at her office already knowing what was coming and had already done most of their grieving before she said a word. There is something almost cold about it, but it is not coldness. It is the kind of clarity that comes from having seen this exact situation enough times to stop pretending it won't resolve the way it always resolves. Her stress has not spiked despite the announcement. If anything, confirmation is less stressful than suspicion. The dread of the unknown was worse than the known thing with a two-month timeline. She is not paralyzed. She is not manic. She is the most methodical she has been in years, which says something about how much energy she was spending pretending not to see what she saw."
   },
   "psychological": {
     "stress_level": 0.29,
@@ -88,7 +88,7 @@
   "financial": {
     "monthly_income": 7200,
     "monthly_expenses": 6611,
-    "savings": 72294,
+    "savings": 72588,
     "debt_total": 120444,
     "credit_score": 653
   },
@@ -120,6 +120,6 @@
     "willingness_to_move": 0.6
   },
   "locality": "millfield",
-  "archetype": "Strategic Realist with Entrepreneurial Undercurrent. Angela is not a victim of circumstance and she knows it. She's been the person delivering hard news to others for years \u2014 she has no illusions about how organizations make decisions, and no illusions that loyalty or tenure are meaningful protections. Her low identity attachment to the role means she's grieving nothing. Her high entrepreneurial drive means she's already mentally sketching what comes next. She sits in the Observer-to-Actor transition: she sees the system clearly, and she is beginning to move.",
-  "tick_updated": 0
+  "archetype": "She is moving from Strategic Realist into what she might call Strategic Mover \u2014 the person who not only sees clearly but has stopped finding reasons to delay acting on what she sees. Her low identity attachment to the HR Director title was always a latent advantage; it is becoming an active one. She does not need to mourn this role to leave it well. She does not need to be angry at the company to protect herself from it. She is both the instrument of its downsizing and one of its eventual subjects, and she has decided that the most honest thing she can do \u2014 for herself, for the employees she still serves, and frankly for the organization \u2014 is to be effective for as long as she stays and be strategic about when she goes.",
+  "tick_updated": 1
 }

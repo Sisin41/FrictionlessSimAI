@@ -4,6 +4,11 @@
       "tick": 0,
       "summary": "Retain personal vehicle as primary transportation for hospital shifts and child pickups. Continue current daily logistics structure.",
       "emotional_state": "Tired but clear-eyed. There's a low hum of anxiety that never fully goes away \u2014 the kind that comes from being the only net under two kids. But I'm not panicking. The job is solid. The car runs. The kids are okay. I just have to keep the pieces in place and not make any moves I can't afford to take back."
+    },
+    {
+      "tick": 1,
+      "summary": "Deposit $200 into emergency savings as planned. Total emergency fund now approximately $16,085. Runway incrementally extended.",
+      "emotional_state": "Worn down but not broken. The doubles this week hit harder than usual \u2014 there's a kind of tired that sleep doesn't fully fix and I've been living in it. But the savings number went up. The kids are okay. My daughter's fever broke. I'll take the wins where I can find them and not ask for more than that right now."
     }
   ],
   "past_outcomes": [
@@ -14,6 +19,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Retain personal vehicle as primary transportation for hospital shifts and child pickups. Continue current daily logistics structure.. Savings grew by $285. "
+    },
+    {
+      "tick": 1,
+      "action": "Deposit $200 into emergency savings as planned. Total emergency fund now approximately $16,085. Runway incrementally extended.",
+      "savings_delta": 285,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Deposit $200 into emergency savings as planned. Total emergency fund now approximately $16,085. Runway incrementally extended.. Savings grew by $285. "
     }
   ],
   "reflections": [],

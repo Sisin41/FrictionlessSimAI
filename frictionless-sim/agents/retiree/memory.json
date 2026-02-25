@@ -4,6 +4,11 @@
       "tick": 0,
       "summary": "Volunteer two afternoons this week at Millfield Public Library, helping adults with basic computer literacy \u2014 email, video calls with family, navigating health insurance portals online.",
       "emotional_state": "Settled and purposeful, with a low hum of background worry about health and mobility that I keep at arm's length through activity and routine. Not anxious. Not complacent. Something like cautious contentment."
+    },
+    {
+      "tick": 1,
+      "summary": "Look up RoboRide Inc on the library computers Tuesday afternoon \u2014 not to make any decision, but to understand what the service actually involves. How does one summon a vehicle? What is the cost per ride? Is there an app required, and if so, is it the kind of app I can learn? I helped three people set up telehealth accounts last week. I can learn an app.",
+      "emotional_state": "Unsettled in a way I am choosing to treat as interesting rather than alarming. There is genuine unease \u2014 the 2am fear is real and I do not want to dismiss it. But there is also, underneath it, something I will cautiously call curiosity. I notice I am more open than I expected to be. I am watching that openness carefully, making sure it is genuine and not just me telling myself a story about being adaptable because I am afraid of being the kind of person who is not adaptable."
     }
   ],
   "past_outcomes": [
@@ -14,6 +19,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Volunteer two afternoons this week at Millfield Public Library, helping adults with basic computer literacy \u2014 email, video calls with family, navigating health insurance portals online.. Savings grew by $473. "
+    },
+    {
+      "tick": 1,
+      "action": "Look up RoboRide Inc on the library computers Tuesday afternoon \u2014 not to make any decision, but to understand what the service actually involves. How does one summon a vehicle? What is the cost per ride? Is there an app required, and if so, is it the kind of app I can learn? I helped three people set up telehealth accounts last week. I can learn an app.",
+      "savings_delta": 473,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Look up RoboRide Inc on the library computers Tuesday afternoon \u2014 not to make any decision, but to understand what the service actually involves. How does one summon a vehicle? What is the cost per ride? Is there an app required, and if so, is it the kind of app I can learn? I helped three people set up telehealth accounts last week. I can learn an app.. Savings grew by $473. "
     }
   ],
   "reflections": [],

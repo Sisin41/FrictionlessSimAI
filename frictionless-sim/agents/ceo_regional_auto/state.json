@@ -31,7 +31,7 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 26.2,
+      "runway_months": 26.3,
       "threat_level": 0,
       "monthly_essentials": 9000,
       "health_cost_from_stress": 0
@@ -81,7 +81,7 @@
       "availability_heuristic": 0.36,
       "social_proof_sensitivity": 0.47
     },
-    "sentiment": "determined"
+    "sentiment": "controlled alarm \u2014 the kind that sharpens rather than scatters"
   },
   "psychological": {
     "stress_level": 0.17,
@@ -93,7 +93,7 @@
   "financial": {
     "monthly_income": 18000,
     "monthly_expenses": 16487,
-    "savings": 432756,
+    "savings": 433512,
     "debt_total": 47864,
     "credit_score": 616
   },
@@ -132,6 +132,6 @@
     "willingness_to_move": 0
   },
   "locality": "millfield",
-  "archetype": "builder",
-  "tick_updated": 0
+  "archetype": "builder at an inflection point; not yet a rebuilder, not willing to be an exiter, beginning to ask whether the thing worth building is the same thing I have always been building",
+  "tick_updated": 1
 }

@@ -1,0 +1,40 @@
+{
+  "tick": 1,
+  "agent_id": "insurance_agent_priya",
+  "agent_name": "Priya Sharma",
+  "response": {
+    "internal_assessment": "RoboRide. Millfield. Phase 2. Two months. Those are not abstract signals anymore — that is a specific company with a specific name for my specific city on a specific timeline. And the policies are already down: 30 to 28. That decline started before the announcement was public. Someone already canceled because they're planning ahead, or because their kid stopped driving, or because they're waiting to see what autonomous means for their premium. It doesn't matter why. The direction is clear and it started. My runway is 6 months on $20,196. That sounds okay until I say it out loud: six months before I am choosing between jobs from a position of desperation rather than a position of choice. The SQL course is still sitting there, enrolled but not opened. I told myself 'tomorrow night' and then I told myself that again. My self-image is 'someone who sees the writing on the wall and isn't scared of change.' My actual behavior this last tick was: opened a browser, read some job titles, closed it. I need to reckon with the fact that those are not the same thing. This tick the question is not whether I understand the situation. I do. The question is whether I do something about it that is irreversible enough that I cannot un-do it tomorrow morning when the urgency fades.",
+    "chosen_actions": [
+      {
+        "type": "SKILL_DEVELOPMENT",
+        "description": "Open the SQL course tonight — not re-enroll, not re-read the syllabus, actually complete Module 1. Set a phone alarm for 8pm labeled 'SQL not optional.' No Maya plans tonight. This gets done.",
+        "target_agent": null,
+        "resources_involved": "2 hours this evening, $0",
+        "reasoning": "The course has been enrolled for a full tick. Enrolled is not the same as started. Every day it sits there is a day the gap between my self-image and my behavior gets a little more embarrassing. Two months is 60 days. If I spend the first tick of a confirmed threat still not opening the first module, I have to seriously reconsider what 'I'm not scared of change' actually means. Module 1 tonight. That's the only standard I'm holding myself to right now — not completion, not proficiency — just: open it and do something that cannot be undone.",
+        "economic_effects": {}
+      },
+      {
+        "type": "JOB_APPLICATION",
+        "description": "Apply to one — exactly one — data analyst or risk analyst adjacent role. Not save it. Not bookmark it. Submit the application. Pick the most realistic posting from the ones I browsed last tick, update the resume summary to lead with 'insurance data experience,' and press send before midnight.",
+        "target_agent": null,
+        "resources_involved": "2-3 hours, resume edit, 1 application submitted",
+        "reasoning": "Last tick I browsed. Browsing is free, low-commitment, and produces nothing. An application is a signal I send to myself as much as to any employer — it says: I am the kind of person who applies, not just the kind of person who reads postings. I am not ready to mass-apply. I am not going to pretend the resume is perfectly polished. But one application, submitted, creates a fact in the world. If they reject me, I will have survived a rejection and it will be easier to send the next one. If they respond, I will have a thread to pull. Either way I've done something that cannot be conveniently deferred to next Sunday.",
+        "economic_effects": {}
+      },
+      {
+        "type": "FINANCIAL_REVIEW",
+        "description": "Actually execute one budget cut identified last tick. Pause or cancel one discretionary subscription. Target: $150-200/month reduction. Not 'identify' — do it now, confirmation email as proof.",
+        "target_agent": null,
+        "resources_involved": "$150-200/month savings, 20 minutes",
+        "reasoning": "Last tick the financial review action was 'identify, don't act.' That was a reasonable first step. It is now a completed step. The policies in my area just dropped again. The confirmed deployment timeline is two months. This is not the moment to identify savings — this is the moment to capture them. Extending runway from 6 months toward 7 or 7.5 months is not dramatic, but it is real. It changes the math on what kind of risk I can take on a job transition. Cutting a subscription I barely use takes 20 minutes and I have already identified the candidates. There is no reason to defer this one.",
+        "economic_effects": {
+          "monthly_expense_reduction": 175,
+          "runway_extension_months": 0.3
+        }
+      }
+    ],
+    "emotional_state": "Unsettled in a productive way. The RoboRide announcement landed differently than the abstract warnings did — there's a company name now, a city name I recognize as mine, a number: two months. The low-grade restlessness from last tick has sharpened into something with more edge to it. Not panic — I'm still employed, still earning, still fine by most measures — but the comfortable distance I was keeping from the threat has closed. I feel a specific kind of discomfort that comes from knowing I did not do what I said I would do last tick. That gap between 'I'm not scared of change' and 'I deferred the SQL course again' is sitting in my chest. I want to close it tonight. That desire feels real, not performed. The question I've been carrying all tick: is this the moment I actually become the person I've been describing myself as, or is this the moment I find out I was narrating a character rather than living one?",
+    "archetype_self_assessment": "My self-image is someone who reads signals early and acts before the wave hits. The evidence from tick zero is that I read signals clearly but my actions lagged significantly behind my understanding. I enrolled in a course and didn't open it. I browsed jobs and didn't apply. Those are the facts. The RoboRide announcement is testing whether 'I can see the writing on the wall' is a description of my perception or a description of my behavior. This tick I am attempting to close that gap — not fully, I am not quitting my job or making irreversible career pivots — but I am attempting to produce at least one output that is not reversible before tomorrow morning. One application submitted. One module completed. One subscription canceled. Three small irreversibilities. If I can do that, I start to earn back the right to call myself someone who acts, not just someone who sees.",
+    "inner_monologue": "RoboRide. Millfield. Okay. That's my city on a list with a company name and a date. The policies are already down. I already know what I need to do. The only question left is whether I'm the person I think I am — and tonight I'm going to find out."
+  }
+}

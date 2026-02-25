@@ -30,8 +30,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 2.7,
-      "threat_level": 0.78,
+      "runway_months": 2.9,
+      "threat_level": 0.76,
       "monthly_essentials": 1750,
       "health_cost_from_stress": 0
     },
@@ -79,7 +79,7 @@
       "availability_heuristic": 0.31,
       "social_proof_sensitivity": 0.59
     },
-    "sentiment": "Anxious and slightly suppressed. There is a low-grade dread running underneath the surface that Robert is actively managing by staying busy. The anxiety is real but not yet loud enough to force a behavioral break. He is functional, outwardly calm to his son, inwardly cycling. Sleep is slightly disrupted \u2014 waking at 3am some nights running numbers in his head. He is not in crisis mode. He is in pre-crisis denial mode, which feels from the inside like competence."
+    "sentiment": "The denial broke. Not completely \u2014 Robert is not in free fall \u2014 but the specific combination of a company name, a city name, and a two-month timeline did something that generalized anxiety about automation could not do. It made the threat concrete. He is now operating in a different register: frightened but not frozen. The fear is functional, which is the best version of fear. He sat in a gas station parking lot for twelve minutes processing something he couldn't process while driving. He is not telling Marcus anything. He is holding the external presentation of stability very tightly. Underneath: a sustained high-stress hum, occasional intrusive calculations in the middle of the night, a specific new guilt about the brakes. He is a man who has spent six years being competent at one thing and is now staring at a horizon where that competence expires. He has not yet grieved that. He is not ready to. He is doing what he knows how to do \u2014 working \u2014 while trying, for the first time, to look sideways at what else might exist."
   },
   "psychological": {
     "stress_level": 0.29,
@@ -91,7 +91,7 @@
   "financial": {
     "monthly_income": 3500,
     "monthly_expenses": 2725,
-    "savings": 7387,
+    "savings": 7774,
     "debt_total": 18248,
     "credit_score": 784
   },
@@ -123,6 +123,6 @@
     "willingness_to_move": 0.5
   },
   "locality": "millfield",
-  "archetype": "I'm a hard worker. I've always been a hard worker. People who show up and put in the hours \u2014 that's who wins in the end. I've been driving for six years and I know this city better than any algorithm does. Passengers still want a real person sometimes. There's always going to be a market for that. I provide good service, I get good ratings, I build loyalty. I'm not like the guys who just coast. I'm the guy who hustles. That's always been enough before.",
-  "tick_updated": 0
+  "archetype": "I used to think the hustle was enough. Show up, work hard, know your city, take care of your customers. That's always been my identity. I'm starting to see that the hustle is real \u2014 the work ethic is real \u2014 but I've been applying it to a shrinking market and calling that a strategy. That's not who I want to be. I want to be the guy who saw it coming and did something before he had no options left. I don't know if I'm that guy yet. But I'm trying to become him while there's still time. Two months is not a lot of time. It's also not zero time. I have to do something with it besides just drive.",
+  "tick_updated": 1
 }

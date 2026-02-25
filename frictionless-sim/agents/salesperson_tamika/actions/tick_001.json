@@ -1,0 +1,69 @@
+{
+  "tick": 1,
+  "agent_id": "salesperson_tamika",
+  "agent_name": "Tamika Jefferson",
+  "response": {
+    "internal_assessment": "The RoboRide Phase 2 announcement is the signal I needed. Millfield in 2 months. That's not a rumor, that's a press release. My runway is 2.8 months, which means if I wait until the floor actually disappears I will have maybe 3 weeks of overlap to figure it out — that's not a plan, that's a cliff. I already did the skills audit. I know what I have: sales psychology, objection handling, social media content creation, short-form video, community engagement, brand voice. These are real skills. They are in demand right now, today, regardless of what happens to car sales. The question was never 'do I have transferable skills.' The question was 'will I actually move.' The answer has to be yes, and it has to start this tick. I have two parallel tracks: (1) launch a freelance social media / content creation presence immediately — this costs nothing, builds in public, and can start generating income before I leave the dealership; (2) keep working the job while it exists, because $4,200/month buys me time. I don't quit yet. But I stop treating this job as my identity or my future. It's a funding mechanism now. I use the platform I have — I work in a business, I talk to people all day, I understand sales and persuasion — and I start building the next thing in parallel. Specific actions: set up a freelance profile on Upwork and/or Contra today, create a simple portfolio of 3 sample social media content pieces using my own dealership as the test case (no permission needed, it's public-facing), DM 5 small local businesses I know from my customer network about their social media pain points. Not pitching yet — listening. Low friction first contact. Also trim expenses: cancel any discretionary subscriptions I don't use, drop monthly spend by ~$200 to extend runway. This is not a dramatic life change. This is a parallel build while the current income lasts.",
+    "chosen_actions": [
+      {
+        "type": "income_diversification",
+        "description": "Create freelance social media / content creation profiles on Upwork and Contra. Build a 3-piece sample portfolio using publicly visible local business content (starting with the dealership's own social presence as a case study). Set hourly rate at $35-45 to undercut established freelancers while still paying above minimum — price for first clients, not for pride.",
+        "target_agent": null,
+        "resources_involved": "Time (evenings, ~6 hours this tick), no cash outlay",
+        "reasoning": "Zero cost to start. Converts existing skills into a visible, monetizable track record before the job disappears. Starting now while still employed means I can afford to price competitively and take lower-paying starter clients without panic. Every week I wait is a week of potential client relationships I don't have.",
+        "economic_effects": {
+          "immediate_income_delta": 0,
+          "projected_income_delta_next_tick": 150,
+          "savings_impact": 0,
+          "risk_level": "low",
+          "runway_extension_months": 0.1
+        }
+      },
+      {
+        "type": "network_activation",
+        "description": "Send 5 direct messages to small local business owners I've interacted with through car sales — people who own shops, service businesses, or restaurants in Millfield. Ask one question: 'Do you feel like your social media is actually working for you?' No pitch. Warm contact using existing relationship capital. Goal is to identify 1-2 discovery calls this tick.",
+        "target_agent": null,
+        "resources_involved": "Time (~1 hour), existing customer relationship database from dealership CRM memory",
+        "reasoning": "My network_strength is 0.66 — that's a real asset I am not using. These people already trust me because I helped them buy a car. Trust is the hardest thing to build in freelancing. I already have it with a subset of local business owners. This is the fastest path to a first paying client.",
+        "economic_effects": {
+          "immediate_income_delta": 0,
+          "projected_income_delta_next_tick": 300,
+          "savings_impact": 0,
+          "risk_level": "very_low",
+          "runway_extension_months": 0.15
+        }
+      },
+      {
+        "type": "expense_reduction",
+        "description": "Audit monthly subscriptions and discretionary spending. Cancel or pause anything not essential. Target: reduce monthly expenses by $150-200, from $3,177 down to approximately $2,977. Specific targets: streaming services beyond one, any unused app subscriptions, reduce dining out budget by setting a weekly cash limit.",
+        "target_agent": null,
+        "resources_involved": "Time (30 minutes), discipline",
+        "reasoning": "Runway is 2.8 months. Every $100/month in cuts adds roughly 0.04 months to runway — small individually, meaningful in aggregate. More importantly, cutting expenses now is a mindset signal: I am treating this seriously, not as a background worry. The $200 cut costs me nothing I actually value and buys me psychological clarity.",
+        "economic_effects": {
+          "immediate_income_delta": 0,
+          "monthly_expense_delta": -175,
+          "savings_impact": 175,
+          "risk_level": "none",
+          "runway_extension_months": 0.2
+        }
+      },
+      {
+        "type": "skill_development",
+        "description": "Spend 3 hours this tick watching current freelance social media pricing and positioning content — not courses, not certifications, just market intelligence. What are Millfield and regional small businesses actually paying for social media management? What deliverables do they expect? What pain points come up repeatedly? Use this to sharpen the portfolio framing and the questions I'm asking in network outreach.",
+        "target_agent": null,
+        "resources_involved": "Time (~3 hours), free resources only",
+        "reasoning": "I know I have the skills. I don't yet know what the market wants packaged. These are different things. A week of market research now will save me 2 months of wrong positioning later. I need to be solving the right problem, not just selling what I know how to do.",
+        "economic_effects": {
+          "immediate_income_delta": 0,
+          "projected_income_delta_next_tick": 100,
+          "savings_impact": 0,
+          "risk_level": "none",
+          "runway_extension_months": 0.05
+        }
+      }
+    ],
+    "emotional_state": "Focused. Not calm exactly — there's a low-level urgency that I'm not suppressing because it's accurate. But not panicked either. The RoboRide announcement didn't break me the way it might have broken someone who was invested in this job. I've been half-out mentally for a while. The announcement just made the timeline visible. The skills audit from last tick gave me something to stand on. Right now I feel like someone who finally stopped circling and picked a door. The door might not be perfect but standing in the hallway was definitely worse.",
+    "archetype_self_assessment": "Adapter, executing. The clarity-without-action problem I flagged last tick is the thing I'm solving right now. I'm not waiting for perfect conditions. I'm not grieving the job. I'm not fighting the automation. I'm using what I have, starting where I am, and building a parallel income track before the current one closes. This is the tick where I stop being a person who sees clearly and start being a person who acts on what she sees.",
+    "inner_monologue": "Two months is enough time to build something real if I start tonight instead of tomorrow."
+  }
+}

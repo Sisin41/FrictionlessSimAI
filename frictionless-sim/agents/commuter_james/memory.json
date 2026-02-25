@@ -4,6 +4,11 @@
       "tick": 0,
       "summary": "Allocate an additional $1,500 from monthly surplus into index funds with tech and mobility sector weighting.",
       "emotional_state": "Calm and mildly optimistic. No acute stress. A background low-grade irritation about the car \u2014 not distress, more like knowing you have a subscription you're going to cancel eventually. The financial picture is good and I know it. Some restless forward-looking energy, the kind that comes from seeing a change coming and just waiting for it to arrive."
+    },
+    {
+      "tick": 1,
+      "summary": "List 2021 Honda Accord for private sale immediately at $19,400 on Facebook Marketplace and Craigslist. Price is set slightly above KBB private party to leave negotiation room. Target close within 3-4 weeks, before RoboRide launch softens used car demand.",
+      "emotional_state": "Controlled excitement. The kind that comes not from surprise but from validation \u2014 months of watching, waiting, and running numbers, and now the trigger event is real and on a concrete timeline. There is a small pulse of urgency underneath it: I need to move fast on the listing before anyone else in Millfield connects the same dots. But mostly this feels like execution, not panic. I built the plan. Now I run it."
     }
   ],
   "past_outcomes": [
@@ -14,6 +19,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Allocate an additional $1,500 from monthly surplus into index funds with tech and mobility sector weighting.. Savings grew by $1,096. "
+    },
+    {
+      "tick": 1,
+      "action": "List 2021 Honda Accord for private sale immediately at $19,400 on Facebook Marketplace and Craigslist. Price is set slightly above KBB private party to leave negotiation room. Target close within 3-4 weeks, before RoboRide launch softens used car demand.",
+      "savings_delta": 1096,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You List 2021 Honda Accord for private sale immediately at $19,400 on Facebook Marketplace and Craigslist. Price is set slightly above KBB private party to leave negotiation room. Target close within 3-4 weeks, before RoboRide launch softens used car demand.. Savings grew by $1,096. "
     }
   ],
   "reflections": [],

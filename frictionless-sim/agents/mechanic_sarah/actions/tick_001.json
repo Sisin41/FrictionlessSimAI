@@ -1,0 +1,33 @@
+{
+  "tick": 1,
+  "agent_id": "mechanic_sarah",
+  "agent_name": "Sarah Kim",
+  "response": {
+    "internal_assessment": "Something feels off today. Carlos was quieter than usual during the morning check-in. He did a full repair day — same as me — but he had this look on his face like he was thinking about something else the whole time. He didn't crack his usual jokes. I heard someone mention an all-hands meeting was called but I don't know what it was about. Nobody's said anything directly to me. I'm probably overthinking it. The shop just has a weird energy right now. Zoe mentioned she's picking up DoorDash shifts on the side — she said it like it was no big deal, but Zoe never needed extra money before. I noticed that. I didn't say anything. I just kept working. After my shift I went back to that computer diagnostics tutorial I started yesterday. It's actually pretty interesting. I don't know why but it felt like the right thing to do tonight.",
+    "chosen_actions": [
+      {
+        "type": "SOCIAL_OBSERVATION",
+        "description": "Passively monitor Carlos's demeanor and the shop mood throughout the day without directly asking what is wrong. File it away as a low-grade anxiety signal.",
+        "target_agent": "mechanic_carlos",
+        "resources_involved": "none",
+        "reasoning": "Sarah's social proof sensitivity (0.65) means she reads behavioral cues well, but her low agency (0.40) and status quo bias (0.72) mean she does not confront the situation or demand answers. She notices, she worries quietly, and she waits for someone else to surface the information.",
+        "economic_effects": {}
+      },
+      {
+        "type": "SKILL_DEVELOPMENT",
+        "description": "Continue the computer diagnostics tutorial series for approximately 45 minutes after her shift. Not because she has a plan — because it feels useful and she's good at it.",
+        "target_agent": null,
+        "resources_involved": "time (0.75 hrs), no cash outlay",
+        "reasoning": "The coworker's offhand comment from Tick 0 planted a seed. The vague unease in the shop today is making that seed grow without Sarah consciously understanding why. Her skill relevance is 0.60 — she senses on some level that knowing more about diagnostics keeps her useful. Identity attachment is 40%, low enough that she doesn't feel threatened by learning something adjacent to pure hands-on work. The 'though' is quietly expanding.",
+        "economic_effects": {
+          "savings_delta": 0,
+          "income_delta": 0,
+          "skill_relevance_delta": "+0.01 (marginal, cumulative over time)"
+        }
+      }
+    ],
+    "emotional_state": "Low-grade unease overlaid on a basically stable day. The anxiety is ambient, not acute — she can't point to a specific cause, which makes it harder to address. The tutorial gave her a small sense of forward motion that she needed without knowing she needed it.",
+    "archetype_self_assessment": "I'm a mechanic. I'm good at my job. I'm not the kind of person who panics about things I can't see yet. But I'm watching.",
+    "inner_monologue": "I don't know what Carlos is worried about, but whatever it is, I should probably know more about the diagnostic side of things anyway."
+  }
+}

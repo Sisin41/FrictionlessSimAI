@@ -1,0 +1,52 @@
+{
+  "tick": 1,
+  "agent_id": "salesperson_jake",
+  "agent_name": "Jake Morrison",
+  "response": {
+    "internal_assessment": "The outreach campaign pulled in $183. One hundred and eighty-three dollars. I worked the phones for two weeks, hit every name in the CRM, sent personal texts to guys I haven't talked to since they drove off the lot — and I moved the needle by $183. That's a tank of gas and a pizza. Meanwhile Patricia is calling an all-hands, which she has literally never done in three years unless someone died or we hit a record quarter. And Maria Solis — who I voted for — is standing at a podium talking about RoboRide like it's a done deal, like it's infrastructure, like it's the library opening. Phase 2. Millfield listed. Two months. They put our town's name in a press release. That's not a rumor. That's not tech-bro noise from some conference in San Francisco. That's our name, in print, with a date attached to it. I keep running the number: 3.2 months of runway. Two kids. Lily's braces appointment is in March. And I'm sitting here with $183 and a CRM full of people who already have cars and apparently are spending 17% less on everything. Consumer index 83. I don't even need to know what that means exactly — I know what it means for my commission. I've been telling myself: people will always want to own a car. That's what I told Karen last week when she asked if I was worried. And I believe it — I do — but I believe it the way you believe your knee doesn't actually hurt that bad when you still need to walk to the car. The all-hands meeting is tomorrow at 9. Patricia is going to say something that I will not be able to unhear. I should go. I don't want to go. I have to go.",
+    "chosen_actions": [
+      {
+        "type": "ATTEND_ALL_HANDS",
+        "description": "Show up to Patricia's all-hands meeting tomorrow morning. Sit near the front. Listen without the filter of what I want to hear. Actually listen.",
+        "target_agent": null,
+        "resources_involved": "Time only. No financial cost.",
+        "reasoning": "My normalcy bias has been doing the work of three people in my head. But Patricia called this meeting because of the RoboRide announcement — not before it, after it. That timing means something. If I skip or zone out or spend the whole meeting thinking about rebuttals, I lose the one moment where I might get real signal from someone who has a view of the whole board. Loss aversion finally tips the scale here: not acting feels more dangerous than hearing something I can't rationalize away. I need to know what the dealership's actual timeline looks like.",
+        "economic_effects": {
+          "savings_delta": 0,
+          "income_delta": 0,
+          "stress_delta": "+0.07 (anticipatory dread)",
+          "agency_delta": "+0.04 (choosing information over avoidance)"
+        }
+      },
+      {
+        "type": "SKILL_INVENTORY_PRIVATE",
+        "description": "Spend 90 minutes tonight — after the kids are in bed — writing down every transferable skill I actually have. Not a resume. A private, honest list. Sales process, customer trust-building, negotiation, financing literacy, CRM systems, reading people. What would these be worth somewhere other than a car lot?",
+        "target_agent": null,
+        "resources_involved": "Time only. A notepad. Honesty.",
+        "reasoning": "The $183 from the outreach campaign told me something true: my current hustle is optimizing a shrinking market. I'm pouring energy into a bucket with a hole. I'm not ready to quit — I have 3.2 months, not 0 — but I need to start mapping what else I could do before I'm desperate enough that I'll take anything. Doing this privately lets me be honest without it feeling like giving up. It's reconnaissance, not retreat.",
+        "economic_effects": {
+          "savings_delta": 0,
+          "income_delta": 0,
+          "stress_delta": "-0.03 (agency through preparation)",
+          "agency_delta": "+0.06 (first crack in the identity lock)"
+        }
+      },
+      {
+        "type": "PAUSE_AGGRESSIVE_CRM_OUTREACH",
+        "description": "Do not send more mass outreach this week. The $183 result is data. Throwing more identical effort at the same problem is not hustle — it's denial with extra steps.",
+        "target_agent": null,
+        "resources_involved": "Saves approximately 8 hours of effort this week.",
+        "reasoning": "I want to keep calling because it feels like doing something. But the numbers just told me it isn't working at the scale I need. Continuing at the same rate would cost me time I could spend on the skill inventory and processing what I hear at the all-hands. Loss aversion applies to time too — I can't afford to spend the next month optimizing a dead channel and then be blindsided with 1.2 months of runway instead of 3.2.",
+        "economic_effects": {
+          "savings_delta": 0,
+          "income_delta": "potentially -$150 to -$300 in marginal commissions forgone",
+          "stress_delta": "-0.05 (releasing the performance of activity)",
+          "agency_delta": "+0.03 (resource reallocation)"
+        }
+      }
+    ],
+    "emotional_state": "Cracked but not broken. The normalcy bias is still running — I caught myself thinking 'robotaxis won't work in midwest winters' twice today — but there is a new sound underneath it, like something structural shifting. Not panic. Not acceptance. The specific dread of a man who has been mildly wrong for months and is about to find out how wrong, in a room full of colleagues, from a woman who signs his checks. Functional. Present. Scared in the useful direction.",
+    "archetype_self_assessment": "I've been the Hustler — head down, phones up, work harder than the problem. That archetype got me through every slow month for eleven years. But the Hustler assumes the game is still being played. The all-hands tomorrow might be the moment I have to consider becoming something else: the Adapter. I don't know what that looks like yet. I know what it costs to find out.",
+    "inner_monologue": "They put Millfield in the press release, and Patricia never calls an all-hands for good news."
+  }
+}

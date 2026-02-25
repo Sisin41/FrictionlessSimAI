@@ -4,6 +4,11 @@
       "tick": 0,
       "summary": "Execute standard daily operations: staffing rotations, equipment checks, revenue reconciliation, monthly maintenance log. Keep the garage running at peak efficiency. No visible change in posture.",
       "emotional_state": "Composed. Slightly vigilant beneath the surface. Not anxious enough to act, not comfortable enough to be fully at ease. The kind of low-grade alertness you develop when you have dependents and a job that requires you to see problems before they become emergencies. Professionally, today is fine. Personally, I'm running a background process."
+    },
+    {
+      "tick": 1,
+      "summary": "Launch active job search targeting facilities operations and property management roles. Update LinkedIn profile to de-emphasize 'parking' and lead with operations management, budget oversight, and compliance credentials. Apply to minimum 5 positions this tick: warehouse/logistics facility managers, commercial property operations, municipal facilities coordinator roles, hospital or university plant operations.",
+      "emotional_state": "Controlled urgency. Not panic \u2014 I have seen this coming long enough that the fear has had time to convert into focus. There is something almost clarifying about a deadline with a name on it. The ambiguity of 'eventually' was harder than '2 months.' Now I know what I am working against and I know what I have to offer. The stress is real but it is directional stress, the kind you can do something with."
     }
   ],
   "past_outcomes": [
@@ -14,6 +19,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Execute standard daily operations: staffing rotations, equipment checks, revenue reconciliation, monthly maintenance log. Keep the garage running at peak efficiency. No visible change in posture.. Savings grew by $361. "
+    },
+    {
+      "tick": 1,
+      "action": "Launch active job search targeting facilities operations and property management roles. Update LinkedIn profile to de-emphasize 'parking' and lead with operations management, budget oversight, and compliance credentials. Apply to minimum 5 positions this tick: warehouse/logistics facility managers, commercial property operations, municipal facilities coordinator roles, hospital or university plant operations.",
+      "savings_delta": 361,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Launch active job search targeting facilities operations and property management roles. Update LinkedIn profile to de-emphasize 'parking' and lead with operations management, budget oversight, and compliance credentials. Apply to minimum 5 positions this tick: warehouse/logistics facility managers, commercial property operations, municipal facilities coordinator roles, hospital or university plant operations.. Savings grew by $361. "
     }
   ],
   "reflections": [],

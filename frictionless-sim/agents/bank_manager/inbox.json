@@ -1,9 +1,17 @@
 {
-  "tick": 0,
+  "tick": 1,
   "messages": [
     {
       "type": "RUMOR",
-      "content": "People are saying: Economy functioning normally. Self-driving vehicle technology exists but is not deployed locally. Mi. (You're not sure of the exact details.)"
+      "content": "People are saying: RoboRide Inc announces expansion to many new cities. Millfield is listed for Phase 2 deployment, expec. (You're not sure of the exact details.)"
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Kevin O'Brien \u2014 pull internal training materials on mortgage origination and small business loan underwriting. begin self-directed review of sba loan structures and hmda compliance requirements to close the gap between my current expertise and adjacent loan product lines."
+    },
+    {
+      "type": "OUTCOME",
+      "content": "You Enroll in an online continuing education module on commercial and small business lending \u2014 a skill adjacent to my current auto loan focus but one that would broaden my portfolio relevance inside the bank. Two hours per week, self-paced. No cost through the bank's professional development benefit.. Savings grew by $1,269. "
     }
   ]
 }

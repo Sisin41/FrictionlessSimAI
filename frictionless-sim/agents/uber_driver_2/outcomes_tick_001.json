@@ -1,0 +1,10 @@
+[
+  {
+    "tick": 1,
+    "action": "Drive peak hours only \u2014 Friday evening, Saturday morning airport surge, and one weekday evening block. Skip low-yield midday slots to preserve energy for clinical hours.",
+    "savings_delta": 206,
+    "stress_delta": 0.0,
+    "employment_changed": false,
+    "narrative": "You Drive peak hours only \u2014 Friday evening, Saturday morning airport surge, and one weekday evening block. Skip low-yield midday slots to preserve energy for clinical hours.. Savings grew by $206. "
+  }
+]

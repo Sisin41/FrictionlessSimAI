@@ -1,0 +1,337 @@
+{
+  "ceo_regional_auto": {
+    "name": "Patricia Hawkins",
+    "actions": [
+      "Call an all-hands leadership meeting across all four locations within the next 72 hours. Acknowledge the RoboRide announcement directly \u2014 do not let rumors and 'business closing' whispers fill the vacuum. Deliver a clear message: Regional Auto Group has navigated every disruption in its history, we are assessing this one with clear eyes, and no decisions about staffing or structure will be made in panic. Frame the threat honestly but not catastrophically. The goal is to stop the bleeding of morale before it starts, not to pretend there is no wound.",
+      "Move $75,000 from operating cash into a dedicated contingency reserve account, separate from floor plan and payroll accounts. This is not a withdrawal from the business \u2014 it is a structured buffer. If new vehicle sales soften over the next 90 days as buyers wait to see how the robotaxi rollout lands, I want three months of operating expenses accessible without touching credit lines.",
+      "Initiate a service department audit across all four locations to identify the revenue ceiling of a service-forward model. I want to know: what is the maximum service and maintenance revenue this group can generate if new vehicle sales decline 30%? Can we grow our fleet maintenance contracts with local businesses and municipalities? Can we build a certified EV technician pipeline starting now, before the wave hits, so we are the service infrastructure for the vehicles that DO come to this region \u2014 including robotaxi fleet maintenance? Commission the audit internally, present findings in 30 days.",
+      "Attend Maria Santos's economic resilience town hall and be visible, not as a victim, but as a voice. Regional Auto Group employs over 200 people in this county. I have standing at that table. I want to understand what policy responses are being considered, who else is in the room, and whether there are coalition opportunities with other business owners facing the same disruption. I am also gathering intelligence. What does the city know about the Phase 2 timeline that was not in the press release?"
+    ],
+    "emotion": "controlled alarm \u2014 the kind that sharpens rather than scatters",
+    "archetype": "builder at an inflection point; not yet a rebuilder, not willing to be an exiter, beginning to ask whether the thing worth building is the same thing I have always been building",
+    "inner_monologue": "I will not burn down what Dad started, but I also cannot protect something that does not exist anymore \u2014 so I need to find out, fast, what still does."
+  },
+  "bank_manager": {
+    "name": "David Chen",
+    "actions": [
+      "Send a carefully worded memo to Regional VP Sandra Okafor flagging the RoboRide Phase 2 rumor as an unconfirmed market signal with potential implications for the branch's auto loan portfolio. Frame it as a proactive risk flag, not a crisis. Request a 30-minute call to discuss whether other branches in the region are seeing similar signals. Attach a brief one-page scenario sketch showing what a 15% and 30% decline in auto loan origination volume would mean for branch P&L over 12 months.",
+      "Call Patricia Osei (CEO of Millfield Chamber \u2014 if she's in the simulation, the likely proxy for local business intelligence) and Rick Hernandez (dealership GM) \u2014 not to reveal the rumor, but to have routine check-in conversations that let me gauge whether they're hearing anything. Ask open questions about foot traffic, consumer sentiment, financing inquiries. Listen more than I talk. Do not disclose the RoboRide rumor directly \u2014 I only have unconfirmed information and tipping them prematurely could cause unnecessary panic or give them information I'm not authorized to share.",
+      "Accelerate the commercial and small business lending cross-training. Double my weekly hours from 2 to 4, and specifically pull the bank's internal materials on SBA loan products and small business credit underwriting. I'm also going to have a direct conversation with Kevin \u2014 acknowledge that I've seen him pivoting toward mortgage origination, tell him I support it, and ask him to share what he's been reading. His information may be more current and specific than my rumor.",
+      "Run an internal portfolio stress test on the branch's auto loan book. Identify which accounts are most exposed to a prolonged auto demand softening \u2014 specifically high-LTV loans on depreciating vehicles, dealer floor plan facilities, and any personal loans tied to vehicle-adjacent businesses. Do not change any credit policies yet. Just know where the exposure is so that when and if I need to act, I'm acting on data rather than scrambling."
+    ],
+    "emotion": "focused, controlled urgency \u2014 not alarmed but no longer passively monitoring",
+    "archetype": "adapter moving toward active hedger \u2014 I'm not waiting to be told what's happening, I'm shaping my response in advance while staying within the bounds of what I actually know",
+    "inner_monologue": "I don't have the fact yet, but I have two people who are acting like they do \u2014 and that's close enough to start moving."
+  },
+  "council_member": {
+    "name": "Maria Santos",
+    "actions": [
+      "Call an emergency town council session specifically on the RoboRide Phase 2 announcement and its economic implications for Millfield. Frame the agenda as: (1) threat assessment \u2014 what the two-month deployment timeline means for transportation-adjacent employment and consumer spending; (2) immediate response options \u2014 workforce retraining fund, emergency small business stabilization grant program, zoning and licensing considerations for robotaxi operations; (3) a mandate to form a standing Economic Transition Task Force with quarterly reporting. Prepare a short briefing document so council members arrive informed rather than reactive. Be clear in public materials: this is not alarmism, this is governance.",
+      "Activate the Small Business Association relationship I established last tick and convert it from introductory to operational. Call the SBA director directly, share the RoboRide announcement, and ask for two things: (1) a rapid informal survey of which member businesses have direct exposure \u2014 transportation services, parking, fuel, repair shops, auto-adjacent retail \u2014 and (2) their commitment to co-present economic impact data at the emergency council session. This puts their credibility behind the policy response and gives business owners a seat at the table before they feel ignored.",
+      "Issue a formal public statement as Council Member Maria Santos \u2014 not a press release drafted by committee, but a direct, plain-language statement posted to the town website and shared with local media. The statement names RoboRide, names the two-month timeline, names the spending index decline, and says plainly: 'This is real, it is coming, and the council is already working on a response.' It explicitly invites Auto Row workers, transportation employees, and affected business owners to a public input session before the emergency council vote. It does not say 'everything will be fine.' It says 'you will not be left to face this alone.'",
+      "Reach out this week to our state representative's office and to the regional economic development agency to request: (1) information on any state-level workforce transition funding already available \u2014 WIOA grants, community college partnership programs, economic adjustment assistance; (2) a formal consultation call with their economic policy staff before the emergency council session. I am not asking for money yet \u2014 I am building the conduit so the ask can be fast when we are ready to make it."
+    ],
+    "emotion": "alarmed and resolute \u2014 the alarm is appropriate and the resolution is chosen",
+    "archetype": "builder operating at full relevance \u2014 this is the exact crisis that my skills, my position, and my relationships were built to address; the question is not whether I can do this but whether I will be honest enough to do it right",
+    "inner_monologue": "I held a town hall about resilience last month without knowing what was coming, and now I know exactly what is coming \u2014 so I have exactly one ethical option, which is to act like I mean it."
+  },
+  "dealership_gm": {
+    "name": "Rick Tanner",
+    "actions": [
+      "Call Patricia Hawkins (CEO) under the framing of a routine post-dinner follow-up \u2014 thank her for the gathering, ask if there are any strategic priorities she wants GMs to be watching or preparing for from the floor level. Listen for what she volunteers, what she avoids, and how she sounds.",
+      "Schedule a casual call with Kevin O'Brien at the bank under the pretext of reviewing the dealership's commercial credit line and floor plan financing terms \u2014 standard end-of-quarter operational touch. Use the small talk before business to gauge Kevin's read on auto lending conditions and his own career trajectory.",
+      "Run the floor as normal. Full sales meeting Monday morning, standard metrics review, no signals of distress to the team. Watch Tamika Jefferson's behavior closely \u2014 observe without confronting. She may be responding to something she's heard or just tightening her own household. Note it.",
+      "Privately \u2014 at home, not at the dealership \u2014 Rick begins a mental inventory. What does he actually know how to do? Finance management, dealership operations, fleet sales, team leadership, vendor negotiation. Not for a resume. Just to know. He doesn't write anything down yet. He just lets the question sit."
+    ],
+    "emotion": "controlled unease \u2014 outwardly steady, inwardly shaken in a way he won't admit to anyone including himself",
+    "archetype": "stable \u2014 but the definition of stable just got a little harder to hold onto",
+    "inner_monologue": "I'm not scared, I'm gathering information \u2014 that's what I tell myself, and I'm going to keep telling myself that until I get Patricia on the phone and find out if it's still true."
+  },
+  "insurance_manager": {
+    "name": "Linda Park",
+    "actions": [
+      "Enroll in a risk analytics or compliance certification \u2014 specifically a RIMS-CRMP (Certified Risk Management Professional) preparatory course or equivalent data-focused credential available online. Commit to 6-8 hours per week. This is not exploratory, this is credential acquisition with a completion timeline.",
+      "Transition from quiet positioning to active outreach. Contact the fleet risk colleague directly and state plainly that I am exploring a move \u2014 not just catching up. Apply to 2-3 posted roles in corporate risk officer or compliance manager positions at mid-to-large firms in the region. Set a geographic search radius that includes relocation if the role is right.",
+      "Set a formal personal decision threshold: if active policy count drops below 22 OR income drops below $6,500/month, I begin drawing down savings to fund a bridge period and accept any credible offer in an adjacent sector regardless of salary match. Write this down. Make it binding on myself now, while I'm calm, not when I'm under pressure."
+    ],
+    "emotion": "resolved",
+    "archetype": "adapter \u2014 but moving toward proactive repositioner. The adapter watches and adjusts. What I'm doing now is getting ahead of the adjustment, not reacting to it. The confirmation of RoboRide's timeline is the last piece of information I needed to shift from adaptive mode to forward mode. I am still me \u2014 methodical, data-driven, risk-aware \u2014 but I am done waiting for more data.",
+    "inner_monologue": "The anchor is lifted \u2014 I knew it would be \u2014 and I am not going to waste the clarity by standing still."
+  },
+  "hr_director": {
+    "name": "Angela Wright",
+    "actions": [
+      "Schedule a private consultation with an employment attorney \u2014 not the one she works with professionally on behalf of the company, but an independent one she identifies personally. Agenda: understand what a negotiated voluntary separation with severance looks like in her state, what triggers enhanced severance obligations, and whether her position as the person managing layoffs creates any particular legal standing or leverage. This is not whistleblowing and not adversarial \u2014 it is a competent professional learning her rights before she needs them.",
+      "Execute the car payment decision. Trade the current vehicle to a dealership \u2014 she works adjacent to one, which creates a mildly useful transaction \u2014 and replace with either a paid-off used vehicle from savings or a significantly cheaper financed option. Target: eliminate or reduce the $649/month payment to under $200/month or zero. Apply the delta directly to extending monthly runway.",
+      "Move the documentation project from 'personal notes' to 'actual consulting collateral.' Specifically: draft a one-page service offering for small to mid-sized businesses needing fractional HR Director services, especially companies navigating workforce transitions (hiring freezes, RIFs, benefit restructures). Research whether any HR consulting firms operating in Millfield or adjacent markets are hiring experienced contractors. Identify two or three potential anchor clients \u2014 businesses in sectors growing despite the auto contraction \u2014 and think through how she would approach them.",
+      "Use her existing access deliberately. She processes paperwork \u2014 she sees the organizational map before anyone announces it. Pay close attention over the next two weeks to: which departments are being asked to document processes 'for continuity,' whether benefits administration queries are being rerouted, and whether senior leadership is having conversations with outside HR consultants or PEO vendors. These are the specific signals that precede an HR function restructure. She will know before she's told. She should make sure she sees it."
+    ],
+    "emotion": "Angela is operating in what she privately thinks of as 'clear-eyed mode' \u2014 the emotional register she has observed in the best employees she has ever counseled through separations, the ones who arrived at her office already knowing what was coming and had already done most of their grieving before she said a word. There is something almost cold about it, but it is not coldness. It is the kind of clarity that comes from having seen this exact situation enough times to stop pretending it won't resolve the way it always resolves. Her stress has not spiked despite the announcement. If anything, confirmation is less stressful than suspicion. The dread of the unknown was worse than the known thing with a two-month timeline. She is not paralyzed. She is not manic. She is the most methodical she has been in years, which says something about how much energy she was spending pretending not to see what she saw.",
+    "archetype": "She is moving from Strategic Realist into what she might call Strategic Mover \u2014 the person who not only sees clearly but has stopped finding reasons to delay acting on what she sees. Her low identity attachment to the HR Director title was always a latent advantage; it is becoming an active one. She does not need to mourn this role to leave it well. She does not need to be angry at the company to protect herself from it. She is both the instrument of its downsizing and one of its eventual subjects, and she has decided that the most honest thing she can do \u2014 for herself, for the employees she still serves, and frankly for the organization \u2014 is to be effective for as long as she stays and be strategic about when she goes.",
+    "inner_monologue": "I've written the letter enough times to know it never gets easier for the person reading it \u2014 so I'm going to make sure I'm not the one reading it."
+  },
+  "salesperson_jake": {
+    "name": "Jake Morrison",
+    "actions": [
+      "Show up to Patricia's all-hands meeting tomorrow morning. Sit near the front. Listen without the filter of what I want to hear. Actually listen.",
+      "Spend 90 minutes tonight \u2014 after the kids are in bed \u2014 writing down every transferable skill I actually have. Not a resume. A private, honest list. Sales process, customer trust-building, negotiation, financing literacy, CRM systems, reading people. What would these be worth somewhere other than a car lot?",
+      "Do not send more mass outreach this week. The $183 result is data. Throwing more identical effort at the same problem is not hustle \u2014 it's denial with extra steps."
+    ],
+    "emotion": "Cracked but not broken. The normalcy bias is still running \u2014 I caught myself thinking 'robotaxis won't work in midwest winters' twice today \u2014 but there is a new sound underneath it, like something structural shifting. Not panic. Not acceptance. The specific dread of a man who has been mildly wrong for months and is about to find out how wrong, in a room full of colleagues, from a woman who signs his checks. Functional. Present. Scared in the useful direction.",
+    "archetype": "I've been the Hustler \u2014 head down, phones up, work harder than the problem. That archetype got me through every slow month for eleven years. But the Hustler assumes the game is still being played. The all-hands tomorrow might be the moment I have to consider becoming something else: the Adapter. I don't know what that looks like yet. I know what it costs to find out.",
+    "inner_monologue": "They put Millfield in the press release, and Patricia never calls an all-hands for good news."
+  },
+  "salesperson_tamika": {
+    "name": "Tamika Jefferson",
+    "actions": [
+      "Create freelance social media / content creation profiles on Upwork and Contra. Build a 3-piece sample portfolio using publicly visible local business content (starting with the dealership's own social presence as a case study). Set hourly rate at $35-45 to undercut established freelancers while still paying above minimum \u2014 price for first clients, not for pride.",
+      "Send 5 direct messages to small local business owners I've interacted with through car sales \u2014 people who own shops, service businesses, or restaurants in Millfield. Ask one question: 'Do you feel like your social media is actually working for you?' No pitch. Warm contact using existing relationship capital. Goal is to identify 1-2 discovery calls this tick.",
+      "Audit monthly subscriptions and discretionary spending. Cancel or pause anything not essential. Target: reduce monthly expenses by $150-200, from $3,177 down to approximately $2,977. Specific targets: streaming services beyond one, any unused app subscriptions, reduce dining out budget by setting a weekly cash limit.",
+      "Spend 3 hours this tick watching current freelance social media pricing and positioning content \u2014 not courses, not certifications, just market intelligence. What are Millfield and regional small businesses actually paying for social media management? What deliverables do they expect? What pain points come up repeatedly? Use this to sharpen the portfolio framing and the questions I'm asking in network outreach."
+    ],
+    "emotion": "Focused. Not calm exactly \u2014 there's a low-level urgency that I'm not suppressing because it's accurate. But not panicked either. The RoboRide announcement didn't break me the way it might have broken someone who was invested in this job. I've been half-out mentally for a while. The announcement just made the timeline visible. The skills audit from last tick gave me something to stand on. Right now I feel like someone who finally stopped circling and picked a door. The door might not be perfect but standing in the hallway was definitely worse.",
+    "archetype": "Adapter, executing. The clarity-without-action problem I flagged last tick is the thing I'm solving right now. I'm not waiting for perfect conditions. I'm not grieving the job. I'm not fighting the automation. I'm using what I have, starting where I am, and building a parallel income track before the current one closes. This is the tick where I stop being a person who sees clearly and start being a person who acts on what she sees.",
+    "inner_monologue": "Two months is enough time to build something real if I start tonight instead of tomorrow."
+  },
+  "mechanic_carlos": {
+    "name": "Carlos Ruiz",
+    "actions": [
+      "Attend Patricia's all-hands meeting with full presence and without defensive posturing. Listen for concrete information about the Phase 2 timeline, any company pivot plans, and what leadership knows that workers don't. Take notes. Do not deflect.",
+      "After the meeting \u2014 tonight, at the kitchen table, after the kids are in bed \u2014 open the browser tab again. This time don't close it. Look specifically at EV and hybrid certification programs: what they cost, how long they take, whether his existing ASE certifications carry over, and whether any shops in a 40-mile radius are already hiring for EV-specific work.",
+      "Find a moment to talk to Zoe \u2014 not about DoorDash, not to judge, but to understand. She saw something. She's acting on it. Carlos needs to understand what she knows that he's been refusing to."
+    ],
+    "emotion": "Grief, beginning. The specific kind that comes before acceptance \u2014 when the story you've told yourself about who you are starts to feel thin. Not collapse. Not despair. But the chest-tightening recognition that 'I fix cars, it's who I am' might be the *past* tense of a true thing rather than the present tense. There is anger underneath it \u2014 at the speed of it, at the unfairness, at having built something real with his hands only to watch the world decide hands like his matter less. But anger is still energy. He is not numb. He is not done.",
+    "archetype": "I have spent twenty-three years being someone who solves problems with precision and expertise. I am realizing that the problem in front of me is not an engine problem. It is not something I can fix by working harder or knowing more about combustion systems. It requires me to do something I have almost no practice doing: admitting I don't know how the next chapter of my life works yet, and starting anyway. I am 47 and I thought I was done becoming someone new. I was wrong about that.",
+    "inner_monologue": "I closed the tab yesterday and it didn't stay closed, which means the thing I'm afraid of isn't in the tab."
+  },
+  "mechanic_sarah": {
+    "name": "Sarah Kim",
+    "actions": [
+      "Passively monitor Carlos's demeanor and the shop mood throughout the day without directly asking what is wrong. File it away as a low-grade anxiety signal.",
+      "Continue the computer diagnostics tutorial series for approximately 45 minutes after her shift. Not because she has a plan \u2014 because it feels useful and she's good at it."
+    ],
+    "emotion": "Low-grade unease overlaid on a basically stable day. The anxiety is ambient, not acute \u2014 she can't point to a specific cause, which makes it harder to address. The tutorial gave her a small sense of forward motion that she needed without knowing she needed it.",
+    "archetype": "I'm a mechanic. I'm good at my job. I'm not the kind of person who panics about things I can't see yet. But I'm watching.",
+    "inner_monologue": "I don't know what Carlos is worried about, but whatever it is, I should probably know more about the diagnostic side of things anyway."
+  },
+  "gas_station_owner": {
+    "name": "Amir Patel",
+    "actions": [
+      "Research RoboRide's actual Phase 2 deployment model. Call the Millfield Chamber of Commerce, search news archives, find out if any other Phase 2 cities have published impact data on independent fuel retailers. Specifically: are these electric vehicles, hybrid, or mixed fleet? What is their daily fueling or charging behavior? Do they use commercial fuel accounts?",
+      "Call \u2014 not visit, call \u2014 the service managers at Kowalski Ford and the Toyota lot. Ask directly: have they heard about RoboRide? What are they seeing in new car sales inquiries? What is Patricia saying at Regional Auto Group? Listen more than I talk. Take notes.",
+      "Quietly pull out the last three years of revenue by category \u2014 fuel, convenience store, car wash, fleet accounts \u2014 and annotate which revenue streams depend on Auto Row dealership proximity versus which serve the general driving public. Do not share this with family yet. This is a private working document.",
+      "Defer the planned pump canopy resurfacing ($2,800) until next quarter. Do not cut it \u2014 defer it. Keep all current staff hours intact. No signals sent to the family or employees that anything is wrong."
+    ],
+    "emotion": "Unsettled but controlled. The kind of feeling I remember from 2008, when I watched the dealers across the street start dimming their lot lights to save money and knew something large was moving underneath the surface. Not panic. Not denial. Something between them \u2014 a quiet alertness, like a man who hears a sound he does not recognize and goes very still before deciding how to move. The pride is still there. So is the fear. I am holding them both for now.",
+    "archetype": "I am still a steward. But the thing I am stewarding may be more fragile than I have allowed myself to believe. Normalcy is not a strategy \u2014 it is a comfort. I know the difference, even if I have been choosing comfort. Twenty-five years does not make me immune to disruption. It means I have survived enough disruption to know it is survivable. That is not nothing. But I need to stop treating my track record as a prediction of the future and start treating it as a source of skills I can redirect. Not today. But soon.",
+    "inner_monologue": "I told my wife this morning that I had some calls to make \u2014 I did not tell her why, and I will not tell her yet, because I do not actually know anything yet, and the worst thing I could do is bring her a fear without also bringing her a plan."
+  },
+  "insurance_agent_tom": {
+    "name": "Tom Bradley",
+    "actions": [
+      "Follow up personally by phone with the two clients whose policies appear to have cancelled \u2014 try to win them back or at least learn why they left.",
+      "Set a Google Alert for 'RoboRide Millfield' and check local news occasionally. Will revisit the automation question if and when the deployment is confirmed.",
+      "Continue standard policy renewals, quote follow-ups, and client service calls. Maintain current pipeline."
+    ],
+    "emotion": "Controlled unease with a surface of confident professionalism. There is a low hum of anxiety underneath \u2014 the kind Tom has learned to keep below the level of conscious attention. The sector data number sits somewhere between the back of his mind and his stomach. He does not dwell on it. Dwelling would mean admitting something he isn't ready to admit.",
+    "archetype": "Tom sees himself as a steady hand \u2014 the experienced professional who doesn't panic at headlines, who has survived market cycles before and come out the other side. He believes this quality is wisdom. He does not yet recognize it as the thing that will hurt him most.",
+    "inner_monologue": "It's just two policies \u2014 I've had worse Januaries."
+  },
+  "insurance_agent_priya": {
+    "name": "Priya Sharma",
+    "actions": [
+      "Open the SQL course tonight \u2014 not re-enroll, not re-read the syllabus, actually complete Module 1. Set a phone alarm for 8pm labeled 'SQL not optional.' No Maya plans tonight. This gets done.",
+      "Apply to one \u2014 exactly one \u2014 data analyst or risk analyst adjacent role. Not save it. Not bookmark it. Submit the application. Pick the most realistic posting from the ones I browsed last tick, update the resume summary to lead with 'insurance data experience,' and press send before midnight.",
+      "Actually execute one budget cut identified last tick. Pause or cancel one discretionary subscription. Target: $150-200/month reduction. Not 'identify' \u2014 do it now, confirmation email as proof."
+    ],
+    "emotion": "Unsettled in a productive way. The RoboRide announcement landed differently than the abstract warnings did \u2014 there's a company name now, a city name I recognize as mine, a number: two months. The low-grade restlessness from last tick has sharpened into something with more edge to it. Not panic \u2014 I'm still employed, still earning, still fine by most measures \u2014 but the comfortable distance I was keeping from the threat has closed. I feel a specific kind of discomfort that comes from knowing I did not do what I said I would do last tick. That gap between 'I'm not scared of change' and 'I deferred the SQL course again' is sitting in my chest. I want to close it tonight. That desire feels real, not performed. The question I've been carrying all tick: is this the moment I actually become the person I've been describing myself as, or is this the moment I find out I was narrating a character rather than living one?",
+    "archetype": "My self-image is someone who reads signals early and acts before the wave hits. The evidence from tick zero is that I read signals clearly but my actions lagged significantly behind my understanding. I enrolled in a course and didn't open it. I browsed jobs and didn't apply. Those are the facts. The RoboRide announcement is testing whether 'I can see the writing on the wall' is a description of my perception or a description of my behavior. This tick I am attempting to close that gap \u2014 not fully, I am not quitting my job or making irreversible career pivots \u2014 but I am attempting to produce at least one output that is not reversible before tomorrow morning. One application submitted. One module completed. One subscription canceled. Three small irreversibilities. If I can do that, I start to earn back the right to call myself someone who acts, not just someone who sees.",
+    "inner_monologue": "RoboRide. Millfield. Okay. That's my city on a list with a company name and a date. The policies are already down. I already know what I need to do. The only question left is whether I'm the person I think I am \u2014 and tonight I'm going to find out."
+  },
+  "loan_officer": {
+    "name": "Kevin O'Brien",
+    "actions": [
+      "Block 90 minutes daily on calendar for mortgage underwriting and SBA 7(a)/504 loan training. Contact the regional training coordinator to formally enroll in the next available NMLS-approved mortgage origination course. Request access to the bank's internal SBA loan files from the past two years to self-study deal structures. Set a 30-day milestone: complete modules 1-4 of mortgage origination curriculum and shadow at least two live mortgage closings.",
+      "Request a focused 30-minute one-on-one with David Chen \u2014 not about the portfolio this time, but about Kevin's role. Frame it clearly: 'I flagged the auto loan decline early, you validated it, and now it's confirmed structural. I want to talk about how I fit into where the bank goes from here. I'm already in mortgage and SBA training. I'd like your support to make that transition formal.' Ask directly whether there is a path to a mortgage or commercial lending title within the branch, and what the bank's timeline for restructuring the auto loan function looks like.",
+      "Sit down with household dependents for a calm, factual conversation. Not a crisis meeting \u2014 a planning meeting. Cover three things: (1) The auto lending industry is changing, Kevin is already retraining, the bank is aware and supportive. (2) The family has 7-plus months of runway and stable income for now \u2014 no lifestyle changes required today. (3) As a precaution, the family will pause any discretionary spending increases and defer any large purchases for 90 days while the career transition clarifies. Ask each dependent if they have questions. Be honest about uncertainty without amplifying it.",
+      "Begin a responsible wind-down of the active auto loan dealer relationships. Contact the three primary dealer contacts this week \u2014 not to alarm them, but to be straight: application volume is down, the bank is reviewing its auto lending footprint, and Kevin wants to stay in contact regardless of where things land. Do not ghost these relationships. If any dealers ask about the RoboRide announcement, be candid that it is a factor. Log all contacts in the CRM. Flag any borrowers with open loans who might face payment stress in the next 6-12 months due to vehicle depreciation or employment shifts in auto-adjacent sectors."
+    ],
+    "emotion": "Grounded. The confirmation of what I already suspected is not frightening \u2014 it is clarifying. I feel the kind of calm that comes from having moved first. There is a small undertow of pressure knowing that the institutional gears are now turning above me and timelines may compress, but that pressure is productive. I am not in denial, I am not catastrophizing. I am a 44-year-old professional who has done this work for two decades and still has runway, savings, a supportive manager, and a bank that needs people who can do more than one thing. The next 60 days matter. I will make them count.",
+    "archetype": "I am the Methodical Adapter. I read the signal early, verified it, flagged it through the right channels, and now I am executing the response before the situation forces my hand. I am not the hero who fights the disruption, and I am not the victim who is surprised by it. I am the professional who does the unglamorous, necessary work of updating his own skill set and having the hard conversations \u2014 with his boss, with his family \u2014 while the window is open. That is the right thing. That is the only thing.",
+    "inner_monologue": "The announcement just turned my educated guess into a fact, and facts are easier to work with than fears \u2014 so let's get to work."
+  },
+  "diner_owner": {
+    "name": "Betty Kowalski",
+    "actions": [
+      "Spend extended time on the floor during lunch service actively listening to what the Auto Row workers know and believe about the RoboRide timeline, the Phase 2 rollout, and what the bosses are saying. Ask careful, genuine questions \u2014 not as market research but as a neighbor who wants to understand. Record notes in the back after close.",
+      "After close tonight, sit down with the ledger and draft two versions of a budget: one where lunch traffic drops 30%, one where it drops 60%. Calculate the break-even point. Identify which costs are fixed and which are variable. Do not share this with anyone yet \u2014 this is private, internal triage.",
+      "Keep the diner open, keep the hours exactly the same, keep the prices the same. Show up tomorrow at 6am as always. Do not change anything visible. The workers need this place to be solid right now \u2014 if the diner starts looking nervous, they will feel it. Be the anchor."
+    ],
+    "emotion": "Frightened but functional. The fear is specific and real \u2014 not the ambient low-level dread of a bad week but a concrete threat that arrived with a timeline attached. There is grief underneath the fear, the grief of someone who has built something for thirty years watching the ground under it shift. She is not panicking. She is also not pretending. She refilled coffee cups she didn't need to refill. That is the honest measure of where she is.",
+    "archetype": "I said last month that I am an anchor. Anchors are only useful if they hold. Right now I am testing whether that is actually true about me or whether it was just a comfortable thing to believe when nothing was pulling against it. I am 61. I do not want to reinvent this place. I do not want to reinvent myself. But I also spent thirty years learning how to read a room, and this room is telling me something I have to hear.",
+    "inner_monologue": "Tommy left his usual two-dollar tip and didn't make a joke on the way out the door, and that scared me more than anything I read this morning."
+  },
+  "driving_instructor": {
+    "name": "Frank Russo",
+    "actions": [
+      "Frank sits alone in the office after the last lesson of the day and writes two columns on a legal pad: 'What I teach' and 'How I teach.' The left column says: hand position, mirror checks, parallel parking, reading traffic. The right column says: reading anxiety in a student, breaking a complex skill into steps, building confidence in someone who wants to quit, knowing when to push and when to back off. He stares at the right column for a long time. He does not throw the pad away.",
+      "Frank calls the adult education coordinator at Millfield Community College \u2014 he knows her, Janet Brewer, from a safety fair three years ago. He does not pitch anything. He asks one question: what skills are hardest to teach to adults coming back to workforce training? He listens. He takes notes. He does not mention that RoboRide is coming or that he is scared."
+    ],
+    "emotion": "Grief with a crack of clarity in it. Frank is not panicking \u2014 he is too seasoned to panic and too proud to show it if he were. But he is grieving, quietly, in the way men like him grieve: by going quiet, by driving home on a longer route than necessary, by not turning on the radio. The grief is for a version of himself he was certain was permanent. The crack of clarity is small but it is real \u2014 the legal pad exercise produced something he did not expect, which is the recognition that the right column on that list does not say the word 'driving' anywhere on it.",
+    "archetype": "I have been a driving instructor. I am starting to suspect \u2014 and I resist this, I want to be honest that I resist this \u2014 that what I actually am is a teacher of scared people who need to believe they can do something hard. That is a different job description. I don't know yet if it's one I can sell. But it's the first true thing I've written about myself in a long time.",
+    "inner_monologue": "The car is just the classroom \u2014 I've been in love with the classroom so long I forgot I'm the one who knows how to teach."
+  },
+  "car_wash_worker": {
+    "name": "Miguel Hernandez",
+    "actions": [
+      "Aggressively finalize roommate search \u2014 post on every platform, lower the ask, take the first financially viable applicant. Splitting rent cuts monthly burn nearly in half and extends runway past the displacement window.",
+      "Apply to warehouse, grocery, or logistics jobs this week \u2014 roles that are NOT tied to personal vehicle ownership trends. Target employers hiring now with reliable hourly wages. Keep DoorDash running in parallel as bridge income."
+    ],
+    "emotion": "Calm, slightly pressured. Not scared. Frustrated that the timeline is tight but not paralyzed. This is a logistics problem, not an identity crisis.",
+    "archetype": "Pragmatic Transitioner. I was never attached to this job. The disruption is real but it's not personal. I just need to solve rent before the math breaks down.",
+    "inner_monologue": "Two months, okay \u2014 I just need to not be broke in two months, that's the whole problem."
+  },
+  "parking_garage_mgr": {
+    "name": "Denise Williams",
+    "actions": [
+      "Launch active job search targeting facilities operations and property management roles. Update LinkedIn profile to de-emphasize 'parking' and lead with operations management, budget oversight, and compliance credentials. Apply to minimum 5 positions this tick: warehouse/logistics facility managers, commercial property operations, municipal facilities coordinator roles, hospital or university plant operations.",
+      "Contact 3 specific people this week: former colleague now in warehouse logistics at regional distribution center, city facilities director met at a compliance training two years ago, and the commercial property manager who manages two buildings adjacent to the garage. Direct outreach, not broadcast \u2014 specific asks for a 20-minute conversation about what they look for in operations hires.",
+      "Draft a quiet contingency budget: what does monthly spend look like if I am unemployed at month 4? Identify any discretionary cuts now, before pressure forces them. Do not tell dependents yet \u2014 no need to spike household stress without cause \u2014 but know the number."
+    ],
+    "emotion": "Controlled urgency. Not panic \u2014 I have seen this coming long enough that the fear has had time to convert into focus. There is something almost clarifying about a deadline with a name on it. The ambiguity of 'eventually' was harder than '2 months.' Now I know what I am working against and I know what I have to offer. The stress is real but it is directional stress, the kind you can do something with.",
+    "archetype": "I am moving. The skills audit last tick was necessary groundwork but it was still research. This tick the research ends and the campaign starts. I am not the person who waits for the last customer to leave before locking up \u2014 I am the person who already knows the lease terms and has three prospects lined up before the sign goes in the window. That is the manager I have always been. I am applying it to myself now.",
+    "inner_monologue": "The garage is full today and I am already interviewing somewhere else \u2014 that is not disloyalty, that is math."
+  },
+  "commuter_james": {
+    "name": "James Patterson",
+    "actions": [
+      "List 2021 Honda Accord for private sale immediately at $19,400 on Facebook Marketplace and Craigslist. Price is set slightly above KBB private party to leave negotiation room. Target close within 3-4 weeks, before RoboRide launch softens used car demand.",
+      "Sit down with Sarah tonight. Walk her through the full cost-benefit analysis: current car costs, projected RoboRide pricing, bridge plan, and the two-month timeline. Present it as a decision together, not a fait accompli \u2014 but come armed with the numbers.",
+      "Build a detailed 12-month cash flow comparison: current car ownership costs versus projected AV usage costs, including bridge period, RoboRide subscription tiers if available, and surge pricing buffer. Add proceeds from car sale to investment account \u2014 index funds with continued mobility sector weighting."
+    ],
+    "emotion": "Controlled excitement. The kind that comes not from surprise but from validation \u2014 months of watching, waiting, and running numbers, and now the trigger event is real and on a concrete timeline. There is a small pulse of urgency underneath it: I need to move fast on the listing before anyone else in Millfield connects the same dots. But mostly this feels like execution, not panic. I built the plan. Now I run it.",
+    "archetype": "Classic early adopter with disciplined financial framing. I am not selling the car because I am excited about robots. I am selling it because the IRR on holding a depreciating asset through a regional demand shock is negative. The AV enthusiasm is real, but it is the spreadsheet that is pulling the trigger. That is the right order of operations.",
+    "inner_monologue": "The alert fired, the city is on the list, and every day I wait is money I am handing back to a used car buyer six months from now \u2014 list the car tonight."
+  },
+  "commuter_rachel": {
+    "name": "Rachel Green",
+    "actions": [
+      "Run detailed cost breakdown of total car ownership vs. projected RoboRide monthly subscription/per-ride costs for commute patterns. Calculate exact runway extension if car is sold at 2-month mark.",
+      "Draft internal narrative and LinkedIn positioning around 'early autonomous vehicle adopter' identity \u2014 assess whether professional peers in marketing/brand management would read this as status-positive or status-negative.",
+      "Confirm $300/month auto-transfer to savings is active and scheduled per T0 commitment."
+    ],
+    "emotion": "Cautiously activated. The announcement landed like a real jolt \u2014 not dread, more like the feeling when a vague problem suddenly has a deadline. Status anxiety is present but I can feel my analytical side pushing back on it. The car has always been both armor and anchor. Two months is enough time to think clearly if I start now.",
+    "archetype": "I am a status-aware pragmatist who is starting to realize that clinging to the old status signals might itself be the uncool move. I understand branding. I need to apply that skill to myself right now instead of defaulting to an identity that was built before autonomous vehicles were a calendar item in my city.",
+    "inner_monologue": "The car payment is $487 a month I'm spending to feel like myself, and I need to figure out if that's worth it or if there's a cheaper way to feel like myself that also saves my financial life."
+  },
+  "truck_owner": {
+    "name": "Dale Cooper",
+    "actions": [
+      "Prioritize closing the Henderson garage addition bid before Phase 2 RoboRide deployment creates uncertainty in the Auto Row economy. Push for a signed contract within 30 days rather than letting it drift.",
+      "Continue evaluating skid steer purchase. Do not pause or deprioritize. Owning the equipment expands the scope of jobs Dale can take, reducing dependence on any single client segment.",
+      "Mentally audit current and prospective clients for Auto Row / car-economy exposure. Flag high-risk clients and begin cultivating relationships with clients whose income is less correlated to vehicle ownership \u2014 healthcare, trades, government workers, retirees with fixed income."
+    ],
+    "emotion": "Calm and slightly alert. Not rattled \u2014 the truck panic that might hit another person is entirely absent. But there is a low-grade unease about the people downstream. The kind of unease a contractor gets when he hears a big local employer is 'evaluating options.' He's done this long enough to know that threat usually travels one hop further than people expect.",
+    "archetype": "I am not in the disrupted category. I am in the 'disruption lands on my customers' category, which is different and in some ways harder to see coming. My tools are fine. My market might need watching.",
+    "inner_monologue": "My truck's not going anywhere \u2014 but I should probably get Henderson's signature before he starts reading the news."
+  },
+  "retiree": {
+    "name": "Dorothy Chen",
+    "actions": [
+      "Look up RoboRide Inc on the library computers Tuesday afternoon \u2014 not to make any decision, but to understand what the service actually involves. How does one summon a vehicle? What is the cost per ride? Is there an app required, and if so, is it the kind of app I can learn? I helped three people set up telehealth accounts last week. I can learn an app.",
+      "Keep the car service appointment at Kowalski's that I scheduled last month. Do not cancel it. The car is mine and I intend to keep it in working order. This is not a reaction to the RoboRide news \u2014 it was already planned. But I am being honest that part of why I am not canceling it is that I want to feel that weight of continuity, the appointment that was there before the announcement and is still there after.",
+      "Host book group Tuesday as planned. I will not raise RoboRide unless someone else does. Margaret drives; Connie does not and takes the 47 bus to get here. I am curious whether Connie has heard the news and what she makes of it. I will listen more than I talk on this one."
+    ],
+    "emotion": "Unsettled in a way I am choosing to treat as interesting rather than alarming. There is genuine unease \u2014 the 2am fear is real and I do not want to dismiss it. But there is also, underneath it, something I will cautiously call curiosity. I notice I am more open than I expected to be. I am watching that openness carefully, making sure it is genuine and not just me telling myself a story about being adaptable because I am afraid of being the kind of person who is not adaptable.",
+    "archetype": "Thirty-seven years in a classroom teaches you that your first reaction to new information is almost never your best one. Students who heard an assignment and immediately said 'I can't do that' were usually the same ones who turned in the most interesting work two weeks later, once the panic settled. I heard this news and my first reaction was protective and slightly closed. I am trying to give myself the two weeks. I am not there yet. But I know how to get there.",
+    "inner_monologue": "The car will still be in the garage in two months, and I will still have the keys, and maybe that is all I need to hold onto while I figure out what I actually think about this."
+  },
+  "young_gig_worker": {
+    "name": "Zoe Martinez",
+    "actions": [
+      "Film and post a TikTok/Reel tonight: 'I built my life around not owning a car two years ago \u2014 here's why Millfield being added to RoboRide Phase 2 means I'm already living the lifestyle everyone else is about to have to learn.' Lean into being early, not desperate. Energy is high right now. Use it.",
+      "Lock in the two extra DoorDash weekend shifts already planned. Do not cancel or defer them despite the excitement. Keep the income floor stable.",
+      "Spend 30 minutes researching RoboRide creator programs, referral schemes, or early-adopter partnerships. Check if they have any influencer or affiliate structure for the Phase 2 launch cities."
+    ],
+    "emotion": "Genuinely energized \u2014 this is the rare feeling of being vindicated by reality rather than just telling yourself you made the right call. There is a kind of brightness to it. But underneath: the $2,998 and 1.2-month number exists. She knows it. She is choosing not to let it flatten the high right now. The stress is still there at baseline, still normalized, still not ringing any alarms it probably should.",
+    "archetype": "I was right and now I can prove I was right with a camera in my hand. That is not nothing. The content path was always the move I kept saying I would take seriously \u2014 maybe this is the thing that finally makes me take it seriously. I am not behind. I am positioned. I just have to actually follow through this time and not let the idea be enough.",
+    "inner_monologue": "I have to post tonight while I still feel like this, before I wake up tomorrow and talk myself into waiting until it's perfect."
+  },
+  "single_parent": {
+    "name": "Nicole Washington",
+    "actions": [
+      "Deposit $200 into emergency savings as planned. Total emergency fund now approximately $16,085. Runway incrementally extended.",
+      "Continue using personal vehicle for all transportation. No changes to childcare logistics or shift coverage arrangements.",
+      "Cook dinner for sister this weekend as reciprocity for Thursday childcare backup."
+    ],
+    "emotion": "Worn down but not broken. The doubles this week hit harder than usual \u2014 there's a kind of tired that sleep doesn't fully fix and I've been living in it. But the savings number went up. The kids are okay. My daughter's fever broke. I'll take the wins where I can find them and not ask for more than that right now.",
+    "archetype": "Still load-bearing. Still standing. I'm not thinking about autonomous vehicles or economic transitions. I'm thinking about whether I have enough leftovers to not have to cook on Tuesday. That's where I am. And that's okay. Staying alive in the margins is its own kind of competence.",
+    "inner_monologue": "I don't even know what the announcement was and I'm too tired to look it up \u2014 whatever it is, it's not feeding my kids tonight."
+  },
+  "parts_store_owner": {
+    "name": "Howard Liu",
+    "actions": [
+      "Begin liquidating the bottom-performing 20% of DIY-specific SKUs \u2014 clearance pricing to move them out, freeing up roughly $4,000-6,000 in shelf space and working capital. Immediately redirect that freed capital toward restocking the professional-grade lines where mechanics have been telling me they face lead-time delays: brake hardware, specialty gaskets, import vehicle sensors.",
+      "Follow up personally with the three independent mechanic shops that showed the most interest during the T0 outreach. Bring a printed catalog of specialty import parts I can now source through the new supplier contact. Propose a standing weekly order arrangement \u2014 they commit to buying certain staple items from me, I guarantee availability and will deliver to their bay twice a week if needed.",
+      "Pay closer attention to what mechanic customers say when they come in \u2014 specifically anything about changes at the fleet management company or shifts in how commercial vehicle maintenance is being handled locally. Don't ask directly; just listen. If the Patricia Hawkins rumor is about anything that affects how local mechanics get work, I want to understand it before it affects my orders."
+    ],
+    "emotion": "Cautiously encouraged. The savings bump feels like confirmation that the outreach wasn't just time spent \u2014 it's starting to convert. But Tamika's closure is a gut-punch reminder that eleven months of runway is not safety, it's borrowed time with interest. I'm moving faster than I was at T0, but the underlying anxiety hasn't lifted. Two dependents. A mortgage with 46 months left. These aren't abstractions. I keep the pressure on myself on purpose.",
+    "archetype": "Still a pragmatist operating inside his domain. The inventory restructure and the delivery offer aren't big swings \u2014 they're the right moves for someone who knows his own constraints. I'm not pivoting to a different industry, I'm pivoting to a different customer within the same industry. That feels like the honest version of adaptation: not reinventing yourself, just getting better at finding who actually needs what you have.",
+    "inner_monologue": "I don't know what Patricia Hawkins is doing and I can't afford to care until it shows up in my order patterns \u2014 what I do know is that Marcus at Eastside Auto asked me last week if I could get him a set of timing chain kits for three different Honda models within 48 hours, and if I can say yes to that reliably, I become someone he calls first instead of last."
+  },
+  "rideshare_driver": {
+    "name": "Robert Jackson",
+    "actions": [
+      "Push driving hours to 60-62 per week for the next four weeks while the window is still open. Prioritize high-margin ride types: airport runs, late-night premium hours, and any local events. Log every dollar. The income window before RoboRide arrives is finite and I need to bank as much as possible.",
+      "Get the brake work done this week. Cannot defer further. I'm driving Marcus to school in this car.",
+      "Spend 3-4 hours this week \u2014 not while driving, real focused time \u2014 looking into what local employers, trade schools, or retraining programs exist in Millfield. Not committing to anything. Not spending money. Just finding out what the actual options are. CDL licensing. Delivery logistics. Facilities work. HVAC apprenticeships. Anything that uses physical reliability and schedule consistency, which is what I actually have to offer.",
+      "Post in the local rideshare driver forum \u2014 not to vent, but to ask specifically: has anyone in Millfield started transitioning out? What did you move into? What was the application process like? Find one other driver who is actually doing something, not just talking about it."
+    ],
+    "emotion": "The denial broke. Not completely \u2014 Robert is not in free fall \u2014 but the specific combination of a company name, a city name, and a two-month timeline did something that generalized anxiety about automation could not do. It made the threat concrete. He is now operating in a different register: frightened but not frozen. The fear is functional, which is the best version of fear. He sat in a gas station parking lot for twelve minutes processing something he couldn't process while driving. He is not telling Marcus anything. He is holding the external presentation of stability very tightly. Underneath: a sustained high-stress hum, occasional intrusive calculations in the middle of the night, a specific new guilt about the brakes. He is a man who has spent six years being competent at one thing and is now staring at a horizon where that competence expires. He has not yet grieved that. He is not ready to. He is doing what he knows how to do \u2014 working \u2014 while trying, for the first time, to look sideways at what else might exist.",
+    "archetype": "I used to think the hustle was enough. Show up, work hard, know your city, take care of your customers. That's always been my identity. I'm starting to see that the hustle is real \u2014 the work ethic is real \u2014 but I've been applying it to a shrinking market and calling that a strategy. That's not who I want to be. I want to be the guy who saw it coming and did something before he had no options left. I don't know if I'm that guy yet. But I'm trying to become him while there's still time. Two months is not a lot of time. It's also not zero time. I have to do something with it besides just drive.",
+    "inner_monologue": "Millfield. They put Millfield on the list and I've got two months and $7,387 and a son who thinks everything is fine, and tonight after I get the brakes fixed and Marcus is asleep I'm going to sit at the kitchen table and find out what a CDL license actually costs and how long it takes to get one, because I have to do something real now, not just more hours, something that survives the next two months and the two months after that."
+  },
+  "real_estate_agent": {
+    "name": "Stephanie Morris",
+    "actions": [
+      "Publish a structured market brief titled 'Auto-Adjacent Commercial Property in Millfield: What the RoboRide Expansion Means for Owners, Investors, and Tenants.' Brief covers: (1) current vacancy trend data for dealerships, repair shops, and gas stations in the Millfield corridor, (2) projected demand compression over 18 months post-RoboRide Phase 2 deployment, (3) adaptive reuse case studies from Phase 1 cities \u2014 robotaxi staging lots, EV charging retail hybrid nodes, ghost kitchen conversions. Distributed to existing client list, posted to LinkedIn, submitted to Millfield Business Journal as guest analysis.",
+      "Contact the owners of Stephanie's three current auto-adjacent listings directly \u2014 before they see the news cycle and panic. Frame the conversation around adaptive reuse valuation: what the property is worth repositioned, not what it is worth in a declining auto-service market. Prepare a one-page repurposing brief for each property: highest and best use scenarios cross-referenced against the warehousing, medical, and food-service demand data from T0 analysis. Identify two to three prospective tenants or buyers for each scenario from existing commercial tenant network."
+    ],
+    "emotion": "Focused and quietly energized. There is real anxiety underneath \u2014 half the book is exposed \u2014 but the T0 analysis work means she is not starting from zero. She has something in her hands. The RoboRide news feels less like a threat than a confirmation of the direction she was already moving. The two-month window before Phase 2 deployment is a gift. She intends to use it.",
+    "archetype": "Adapter-Strategist. Stephanie is not a victim of this disruption and she knows it. She is a 15-year commercial specialist with transferable market-reading skills, a local network, and data she compiled before anyone else was looking. Her identity is not 'auto-property agent' \u2014 it is 'commercial market analyst who moves capital to its highest use.' That framing is what lets her see repurposing as opportunity rather than consolation prize.",
+    "inner_monologue": "I pulled that vacancy data three weeks ago because something felt off \u2014 and now I'm the only one in Millfield holding the map."
+  },
+  "auto_shop_teacher": {
+    "name": "Mark Thompson",
+    "actions": [
+      "Incorporate RoboRide Phase 2 Millfield deployment data directly into the board presentation. Add a dedicated module on EV ecosystem context \u2014 including AV-adjacent service considerations: sensor calibration basics, high-voltage safety protocols, ADAS component awareness, and what local shops will realistically be asked to handle once these vehicles hit Millfield streets. Reframe the proposal narrative: this is not 'saving auto shop,' this is 'Millfield Auto Tech Pipeline' \u2014 a program producing job-ready technicians for the exact vehicles appearing in this community.",
+      "Accelerate enrollment in the EV safety and service fundamentals course \u2014 target a confirmed registration this week, not next. Prioritize any course that includes high-voltage safety certification, as that credential directly maps to the most pressing gap a local shop would face servicing RoboRide-style vehicles. If the community college's next cohort is full, identify an ASE-approved weekend intensive as backup. Aim for course completion before the April board review.",
+      "Prioritize outreach to local independent repair shops over dealerships this tick. The RoboRide expansion means independent shops \u2014 not just OEM dealers \u2014 are the ones who will be blindsided. A call framed as 'RoboRide is coming to Millfield in two months, are you thinking about technician readiness?' opens a real conversation and positions me as someone connected to what's actually happening. Aim for two to three shop owner conversations this week. Gather their candid take on whether they feel prepared \u2014 those quotes become testimony for the board presentation."
+    ],
+    "emotion": "Focused. There's a sharpness to today that wasn't there before \u2014 the kind of clarity that comes when the abstract becomes concrete. I'm not anxious about RoboRide. I'm energized by it. This is exactly the kind of signal I needed to make the case undeniable. The work ahead is the same work I was already doing, just with a harder edge and a tighter clock. That suits me fine.",
+    "archetype": "The announcement confirms what I already believed. I'm not scrambling \u2014 I'm ahead of it. The teachers who lose their programs are the ones who react. I was already in motion. Now I have wind at my back and two months of community-visible proof arriving on schedule. The board review in April is going to feel very different than it would have yesterday.",
+    "inner_monologue": "RoboRide just handed me the closing argument \u2014 Millfield is the program, and April is too late to start preparing."
+  },
+  "community_organizer": {
+    "name": "Lisa Freeman",
+    "actions": [
+      "Contact Maria Santos directly before the emergency council session \u2014 not to lobby, but to offer: real intake data from the drop-in hours, anecdotal testimony I can organize, and my center as a potential node in any council-coordinated response infrastructure. Position the community center as operational support for whatever the council decides, not a supplicant. Ask what she needs from me to make the session productive.",
+      "Revise the in-progress County Human Services Emergency Stabilization Fund application to incorporate the RoboRide Phase 2 announcement as a named, documented precipitating event. Add a two-month surge projection with specific program capacity numbers. Include the drop-in hour data as evidence of existing community need. Submit within 10 days rather than the original 3-week timeline.",
+      "Conduct a quiet internal audit of center capacity: maximum weekly intake, counselor volunteer availability, referral partner capacity, and physical space constraints. Build a realistic surge model for what a 30%, 50%, and 100% increase in demand would require and cost. This becomes internal decision-support for the next 60 days."
+    ],
+    "emotion": "The announcement landed hard. Not in a way I showed \u2014 I was alone when I read it, and I let myself sit with it for about four minutes before I started making notes. Two months. I've been running on a slow-burn vigilance for weeks and now there is a date. That's clarifying in a way that's almost a relief, which I recognize is a strange thing to feel. The ambiguity was its own kind of weight. Now I know what I'm preparing for. There is urgency underneath my calm and I am not suppressing it \u2014 I am converting it. The call to Maria feels important and also slightly terrifying, which tells me it's the right move. I'm aware of my low agency pattern: I tend to prepare extensively and then hesitate at the moment of action. I am not going to hesitate this time. I'm making the call today.",
+    "archetype": "I hold the container and I build the bridge. I am not a policymaker \u2014 Maria is. I am not an economist \u2014 I am the person who sees what the economy does to actual people before anyone else has data about it. That is a specific and valuable thing to be right now. My job in the next 60 days is to make sure the container doesn't overflow and that the bridge to institutional resources \u2014 the grant, the council, the peer network \u2014 holds. I am good at this when I trust myself enough to move at speed. That is the work I'm doing on myself alongside the work I'm doing for the community.",
+    "inner_monologue": "Call Maria before end of day \u2014 she needs to know someone on the ground is already running and has real numbers, not just concern."
+  },
+  "uber_driver_2": {
+    "name": "Grace Okafor",
+    "actions": [
+      "Drive peak hours only \u2014 Friday evening, Saturday morning airport surge, and one weekday evening block. Skip low-yield midday slots to preserve energy for clinical hours.",
+      "Complete all scheduled clinical rotation hours at St. Augustine Medical Center. Submit medication administration competency documentation by end of tick.",
+      "Casual observation of robotaxi presence in service zones \u2014 no formal action taken, no strategy change triggered."
+    ],
+    "emotion": "Steady. A little tired from the clinical block Tuesday, but grounded. The plan is working. I just have to keep executing.",
+    "archetype": "I'm not a rideshare driver. I'm a nursing student who drives to pay tuition. That distinction matters to me. The car is a tool. The stethoscope is the goal.",
+    "inner_monologue": "Head down, keep moving \u2014 the finish line is closer than the disruption."
+  }
+}

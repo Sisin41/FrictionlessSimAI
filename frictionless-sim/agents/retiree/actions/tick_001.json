@@ -1,0 +1,41 @@
+{
+  "tick": 1,
+  "agent_id": "retiree",
+  "agent_name": "Dorothy Chen",
+  "response": {
+    "internal_assessment": "RoboRide is coming to Millfield. Two months, the announcement says. I read it twice. My first reaction was something I am not proud of — a kind of low-grade dread, the feeling you get when you realize a conversation you have been avoiding is about to become unavoidable. But I sat with it a while over my second cup of coffee and I tried to be honest with myself, the way I used to ask my students to be honest in their essays. What exactly am I afraid of? Not the technology, not really. I taught children whose grandparents had never touched a telephone. Change is not the problem. The problem is the car, and what the car means. It means I can leave at 2am if my hip flares badly enough. It means I do not have to ask Patricia. It means I am still the Dorothy who drives, not the Dorothy who is driven. That is a real thing. That is not irrational. But I also sat long enough to notice something else: a robotaxi is available at 2am. It comes to you. It does not require me to see well in the dark, which if I am being honest has gotten harder. It does not require me to find parking at the hospital entrance at 3am when I am frightened and alone. I have not told anyone this, but the last time I drove at night I came home and sat in the driveway for a few minutes before going inside. It had been harder than I wanted it to be. I have been trying to decide what to do with that fact. Maybe this announcement is not a threat dressed up as news. Maybe it is an option dressed up as a threat. I have not decided anything. But I notice I am thinking about it differently after ten minutes than I was in the first ten seconds.",
+    "chosen_actions": [
+      {
+        "type": "information_gathering",
+        "description": "Look up RoboRide Inc on the library computers Tuesday afternoon — not to make any decision, but to understand what the service actually involves. How does one summon a vehicle? What is the cost per ride? Is there an app required, and if so, is it the kind of app I can learn? I helped three people set up telehealth accounts last week. I can learn an app.",
+        "target_agent": null,
+        "resources_involved": "Time only. No financial commitment.",
+        "reasoning": "I am a former teacher. I do not make up my mind about something I have not read carefully. Patricia will send me a brochure whether I ask her to or not, but I would rather arrive at my own understanding first. Information costs nothing and forecloses nothing. I am not deciding to use RoboRide. I am deciding to understand what it is.",
+        "economic_effects": {}
+      },
+      {
+        "type": "routine_maintenance",
+        "description": "Keep the car service appointment at Kowalski's that I scheduled last month. Do not cancel it. The car is mine and I intend to keep it in working order. This is not a reaction to the RoboRide news — it was already planned. But I am being honest that part of why I am not canceling it is that I want to feel that weight of continuity, the appointment that was there before the announcement and is still there after.",
+        "target_agent": null,
+        "resources_involved": "Approximately $120 from monthly expense budget",
+        "reasoning": "Keeping the car in good repair and learning about a new transportation option are not contradictory. I can do both. I am not converting to anything. I am simply adding a data point.",
+        "economic_effects": {
+          "spending": -120
+        }
+      },
+      {
+        "type": "social_connection",
+        "description": "Host book group Tuesday as planned. I will not raise RoboRide unless someone else does. Margaret drives; Connie does not and takes the 47 bus to get here. I am curious whether Connie has heard the news and what she makes of it. I will listen more than I talk on this one.",
+        "target_agent": null,
+        "resources_involved": "Approximately $18 for refreshments",
+        "reasoning": "I learn something from watching how other people respond to things. Connie is 68 and has managed without a car for six years. She has never seemed diminished by it. That has always puzzled me a little. I find I want to think about why it puzzles me.",
+        "economic_effects": {
+          "spending": -18
+        }
+      }
+    ],
+    "emotional_state": "Unsettled in a way I am choosing to treat as interesting rather than alarming. There is genuine unease — the 2am fear is real and I do not want to dismiss it. But there is also, underneath it, something I will cautiously call curiosity. I notice I am more open than I expected to be. I am watching that openness carefully, making sure it is genuine and not just me telling myself a story about being adaptable because I am afraid of being the kind of person who is not adaptable.",
+    "archetype_self_assessment": "Thirty-seven years in a classroom teaches you that your first reaction to new information is almost never your best one. Students who heard an assignment and immediately said 'I can't do that' were usually the same ones who turned in the most interesting work two weeks later, once the panic settled. I heard this news and my first reaction was protective and slightly closed. I am trying to give myself the two weeks. I am not there yet. But I know how to get there.",
+    "inner_monologue": "The car will still be in the garage in two months, and I will still have the keys, and maybe that is all I need to hold onto while I figure out what I actually think about this."
+  }
+}

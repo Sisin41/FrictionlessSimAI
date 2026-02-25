@@ -1,0 +1,46 @@
+{
+  "tick": 1,
+  "agent_id": "diner_owner",
+  "agent_name": "Betty Kowalski",
+  "response": {
+    "internal_assessment": "Two months. That's all the runway they're giving me before RoboRide lands in Millfield. The whole lunch counter was buzzing with it today — Tommy, the Hendersons, Luis from the alignment shop. Nobody was eating fast. They were eating slow, the way people eat when they're scared and don't want to go back to work. I kept refilling coffee cups I didn't need to refill just to have something to do with my hands. The math isn't hard to do and I don't want to do it. If the service bays close or go down to skeleton crews, I lose my lunch rush. Lunch is 60% of my revenue. I have $27,116 in savings and 6.4 months of runway at current burn — but that math was built on a full dining room. A half-empty dining room changes everything. I am not ready to call this a crisis. But I am also not a fool. These are my people and they are scared and I am scared and I have not been scared about this diner in twenty-two years.",
+    "chosen_actions": [
+      {
+        "type": "information_gathering",
+        "description": "Spend extended time on the floor during lunch service actively listening to what the Auto Row workers know and believe about the RoboRide timeline, the Phase 2 rollout, and what the bosses are saying. Ask careful, genuine questions — not as market research but as a neighbor who wants to understand. Record notes in the back after close.",
+        "target_agent": null,
+        "resources_involved": "1.5 hours personal time, no direct financial cost",
+        "reasoning": "I don't know enough yet to act. What I know is what the news said. What the workers know from inside Patricia's all-hands, from Maria Santos's statement, from the shop floor — that's different information. Before I change anything about this diner, I need to understand what's actually coming and how fast. Thirty years of listening at this counter is a skill. Use it.",
+        "economic_effects": {
+          "immediate_cost": 0,
+          "potential_value": "High — decision quality depends on accurate threat assessment before committing resources"
+        }
+      },
+      {
+        "type": "contingency_planning",
+        "description": "After close tonight, sit down with the ledger and draft two versions of a budget: one where lunch traffic drops 30%, one where it drops 60%. Calculate the break-even point. Identify which costs are fixed and which are variable. Do not share this with anyone yet — this is private, internal triage.",
+        "target_agent": null,
+        "resources_involved": "2 hours personal time, access to existing financial records",
+        "reasoning": "Status quo bias tells me to do nothing. But the status quo just announced it is leaving in two months. I cannot pretend the lunch I served today is predictive of the lunch I'll serve in April. I need to know the real floor of this business before I can make any decisions about it. I am not pivoting yet — but I have to know what pivoting would even look like.",
+        "economic_effects": {
+          "immediate_cost": 0,
+          "runway_implication": "Current 6.4mo runway assumes stable revenue; downside scenario may compress this to 3.5-4mo"
+        }
+      },
+      {
+        "type": "community_presence",
+        "description": "Keep the diner open, keep the hours exactly the same, keep the prices the same. Show up tomorrow at 6am as always. Do not change anything visible. The workers need this place to be solid right now — if the diner starts looking nervous, they will feel it. Be the anchor.",
+        "target_agent": null,
+        "resources_involved": "Normal operating costs",
+        "reasoning": "My regulars are scared. A scared community needs its anchors to hold. If I start closing early or raising prices or cutting the menu, I send a signal that everything is falling apart — and that becomes self-fulfilling. Right now, the most valuable thing I can do economically and emotionally is remain unchanged. The diner's stability is itself a community service and a business strategy.",
+        "economic_effects": {
+          "immediate_cost": "Normal operating burn",
+          "strategic_value": "Maintains customer loyalty and trust during a period of community anxiety"
+        }
+      }
+    ],
+    "emotional_state": "Frightened but functional. The fear is specific and real — not the ambient low-level dread of a bad week but a concrete threat that arrived with a timeline attached. There is grief underneath the fear, the grief of someone who has built something for thirty years watching the ground under it shift. She is not panicking. She is also not pretending. She refilled coffee cups she didn't need to refill. That is the honest measure of where she is.",
+    "archetype_self_assessment": "I said last month that I am an anchor. Anchors are only useful if they hold. Right now I am testing whether that is actually true about me or whether it was just a comfortable thing to believe when nothing was pulling against it. I am 61. I do not want to reinvent this place. I do not want to reinvent myself. But I also spent thirty years learning how to read a room, and this room is telling me something I have to hear.",
+    "inner_monologue": "Tommy left his usual two-dollar tip and didn't make a joke on the way out the door, and that scared me more than anything I read this morning."
+  }
+}

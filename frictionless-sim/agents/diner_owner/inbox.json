@@ -1,9 +1,21 @@
 {
-  "tick": 0,
+  "tick": 1,
   "messages": [
     {
       "type": "CAPABILITY_FACT",
-      "content": "Economy functioning normally. Self-driving vehicle technology exists but is not deployed locally. Millfield is a car-dependent small town."
+      "content": "RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
+    },
+    {
+      "type": "MARKET_DATA",
+      "content": "Consumer spending down. Spending index: 83 (baseline: 100)."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Carlos Ruiz \u2014 full day at the shop \u2014 complete brake overhaul on a 2019 f-150, diagnose a rough idle on a honda accord, and close out two routine services. keep the schedule tight and the quality high."
+    },
+    {
+      "type": "OUTCOME",
+      "content": "You Host the monthly Auto Row worker appreciation lunch \u2014 discounted daily special for all shop employees. Put a handwritten chalkboard sign out front. Spend time at the counter talking with regulars, learning names of the newer hires.. Savings grew by $116. "
     }
   ]
 }

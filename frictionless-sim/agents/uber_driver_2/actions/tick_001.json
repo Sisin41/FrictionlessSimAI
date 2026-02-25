@@ -1,0 +1,45 @@
+{
+  "tick": 1,
+  "agent_id": "uber_driver_2",
+  "agent_name": "Grace Okafor",
+  "response": {
+    "internal_assessment": "Finances are tight but manageable. $2,406 in savings gives me about 1.3 months of buffer if driving income dried up completely, but it won't. I'm hitting peak hours consistently — Friday nights, Saturday mornings, airport runs during commute windows. The clinical rotation schedule is locked in and I'm not compromising on that. Nursing school is the whole point. Rideshare is just the engine funding it. I've seen a few more robotaxis on the roads lately but nothing that's eating into my income yet. I'll keep an eye on it but I'm not worried — by the time it actually matters, I'll have my RN license.",
+    "chosen_actions": [
+      {
+        "type": "economic_activity",
+        "description": "Drive peak hours only — Friday evening, Saturday morning airport surge, and one weekday evening block. Skip low-yield midday slots to preserve energy for clinical hours.",
+        "target_agent": null,
+        "resources_involved": "Personal vehicle, fuel, approximately 18 hours of driving time this tick",
+        "reasoning": "Maximizing hourly yield per drive session protects savings runway without sacrificing clinical attendance. Every hour I drive at off-peak rates is an hour I could have studied or slept. Peak discipline keeps income stable without burning out.",
+        "economic_effects": {
+          "projected_income": "+$310 to +$370 this tick",
+          "fuel_cost": "-$55",
+          "net_contribution_to_savings": "+$255 to +$315",
+          "runway_change": "stable or slight improvement"
+        }
+      },
+      {
+        "type": "education_investment",
+        "description": "Complete all scheduled clinical rotation hours at St. Augustine Medical Center. Submit medication administration competency documentation by end of tick.",
+        "target_agent": null,
+        "resources_involved": "Time, clinical placement slot, nursing program enrollment",
+        "reasoning": "Clinical hours are non-negotiable. Missing even one rotation requires a makeup that can delay graduation. The license is the exit ramp. Everything else is secondary.",
+        "economic_effects": {
+          "short_term": "No income, costs time",
+          "long_term": "RN licensure projected to yield $58,000-$72,000 annually, eliminating rideshare dependency entirely"
+        }
+      },
+      {
+        "type": "passive_monitoring",
+        "description": "Casual observation of robotaxi presence in service zones — no formal action taken, no strategy change triggered.",
+        "target_agent": null,
+        "resources_involved": "Attention only",
+        "reasoning": "Not a current threat to income. Robotaxis are still sparse in my operating zones. I'll know when it becomes real. Until then, no reason to spend mental energy on it that should go to pharmacology study.",
+        "economic_effects": {}
+      }
+    ],
+    "emotional_state": "Steady. A little tired from the clinical block Tuesday, but grounded. The plan is working. I just have to keep executing.",
+    "archetype_self_assessment": "I'm not a rideshare driver. I'm a nursing student who drives to pay tuition. That distinction matters to me. The car is a tool. The stethoscope is the goal.",
+    "inner_monologue": "Head down, keep moving — the finish line is closer than the disruption."
+  }
+}

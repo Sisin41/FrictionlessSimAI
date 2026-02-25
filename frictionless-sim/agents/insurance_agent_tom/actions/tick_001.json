@@ -1,0 +1,49 @@
+{
+  "tick": 1,
+  "agent_id": "insurance_agent_tom",
+  "agent_name": "Tom Bradley",
+  "response": {
+    "internal_assessment": "The sector data shows 28 policies — down from 30. Two cancellations. Could be anything. People move, they get married, they bundle with their homeowner's policy somewhere else. I've seen dips before. Every spring there's some churn. The RoboRide rumor is just that — a rumor. Millfield is Phase 2, which means it hasn't even happened yet. Phase 2 could be 6 months away, could be 2 years. These tech rollouts always take longer than the press releases say. Carlos had a full repair day, which actually tells me something: people still own cars, cars still break, cars still need insurance. The fundamentals are intact. I sent 20 personalized emails last tick — that's real relationship work, the kind of thing that separates me from some website. My clients know my name. They call me when they have an accident at 11pm. A chatbot can't do that. I should wait to see if the RoboRide news gets confirmed before I do anything drastic. Acting on a rumor would be reckless. Prudent professionals gather data before pivoting.",
+    "chosen_actions": [
+      {
+        "type": "client_outreach",
+        "description": "Follow up personally by phone with the two clients whose policies appear to have cancelled — try to win them back or at least learn why they left.",
+        "target_agent": null,
+        "resources_involved": "2-3 hours of time, existing client contact list",
+        "reasoning": "Two lost policies are a concrete problem I can address directly. This is within my existing skill set and feels productive. It also avoids confronting the larger question of whether the whole book is eroding.",
+        "economic_effects": {
+          "potential_policy_recovery": "unlikely but nonzero",
+          "time_cost": "low",
+          "skill_development": "none — reinforces existing competency only"
+        }
+      },
+      {
+        "type": "passive_monitoring",
+        "description": "Set a Google Alert for 'RoboRide Millfield' and check local news occasionally. Will revisit the automation question if and when the deployment is confirmed.",
+        "target_agent": null,
+        "resources_involved": "Negligible — 10 minutes to set up",
+        "reasoning": "Acting on an unconfirmed rumor would be overreacting. Responsible professionals verify information before making major life decisions. The alert means I'm not ignoring it — I'm being methodical.",
+        "economic_effects": {
+          "information_gain": "minimal — reactive rather than proactive",
+          "cost": "zero dollars",
+          "opportunity_cost": "high — another tick without retraining or exploring adjacent roles"
+        }
+      },
+      {
+        "type": "business_as_usual",
+        "description": "Continue standard policy renewals, quote follow-ups, and client service calls. Maintain current pipeline.",
+        "target_agent": null,
+        "resources_involved": "Full work week, existing agency infrastructure",
+        "reasoning": "28 years of relationships don't disappear overnight. The best use of my time is deepening what I'm good at. The market may shift but I will always have my existing book. Loyalty runs both ways.",
+        "economic_effects": {
+          "revenue_stability": "marginal — defends existing book but does not grow it",
+          "skill_relevance_change": 0,
+          "runway_consumed": "1 month"
+        }
+      }
+    ],
+    "emotional_state": "Controlled unease with a surface of confident professionalism. There is a low hum of anxiety underneath — the kind Tom has learned to keep below the level of conscious attention. The sector data number sits somewhere between the back of his mind and his stomach. He does not dwell on it. Dwelling would mean admitting something he isn't ready to admit.",
+    "archetype_self_assessment": "Tom sees himself as a steady hand — the experienced professional who doesn't panic at headlines, who has survived market cycles before and come out the other side. He believes this quality is wisdom. He does not yet recognize it as the thing that will hurt him most.",
+    "inner_monologue": "It's just two policies — I've had worse Januaries."
+  }
+}

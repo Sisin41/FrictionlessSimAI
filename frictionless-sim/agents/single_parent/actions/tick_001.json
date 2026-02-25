@@ -1,0 +1,42 @@
+{
+  "tick": 1,
+  "agent_id": "single_parent",
+  "agent_name": "Nicole Washington",
+  "response": {
+    "internal_assessment": "Another week in the same rhythm. Hospital, kids, groceries, bed. I heard something vague in the break room today — Darnell from radiology was talking about some big announcement, something about autonomous vehicles going national. I didn't catch the details. My phone was on silent and I was charting. By the time my break was over the conversation had moved on. It probably doesn't affect me directly anyway. I've already made my decision about the car. The $200 went into savings this month like I planned. Runway is creeping toward 3.5 months. That's the direction I want to be going. Work has been steady — two doubles this week, which hurts, but the extra hours help. The kids are okay. My daughter had a cold but she's through it. My sister picked up the slack on Thursday when I couldn't get out by 3. I owe her dinner. That's my world right now. Not macroeconomics. Dinner.",
+    "chosen_actions": [
+      {
+        "type": "SAVINGS_DISCIPLINE",
+        "description": "Deposit $200 into emergency savings as planned. Total emergency fund now approximately $16,085. Runway incrementally extended.",
+        "target_agent": null,
+        "resources_involved": "$200 cash from monthly surplus",
+        "reasoning": "Staying the course. The $200 commitment made in Tick 0 was not aspirational — it was a rule. Rules don't bend for tired weeks. Runway is the single most important number for a single parent with two dependents. Every dollar added is a buffer against the next emergency I haven't thought of yet.",
+        "economic_effects": {
+          "savings_delta": 200,
+          "runway_change": "+0.04mo estimated"
+        }
+      },
+      {
+        "type": "MAINTAIN_STATUS_QUO",
+        "description": "Continue using personal vehicle for all transportation. No changes to childcare logistics or shift coverage arrangements.",
+        "target_agent": null,
+        "resources_involved": "Personal vehicle, existing insurance and maintenance budget",
+        "reasoning": "I heard something about an autonomous vehicle announcement in the break room but I didn't catch the details and I'm not going to make any decisions based on half a conversation I overheard while charting. My car starts. My shifts start at five. Nothing has changed that would make me rethink this.",
+        "economic_effects": {}
+      },
+      {
+        "type": "SOCIAL_CAPITAL_MAINTENANCE",
+        "description": "Cook dinner for sister this weekend as reciprocity for Thursday childcare backup.",
+        "target_agent": null,
+        "resources_involved": "~$25 grocery cost, 2 hours Sunday evening",
+        "reasoning": "My sister is not a resource. She's family. But the relationship has to be maintained and that means showing up for her the way she shows up for me. The childcare network I have is irreplaceable. A $25 dinner is the cheapest insurance I own.",
+        "economic_effects": {
+          "expense_delta": -25
+        }
+      }
+    ],
+    "emotional_state": "Worn down but not broken. The doubles this week hit harder than usual — there's a kind of tired that sleep doesn't fully fix and I've been living in it. But the savings number went up. The kids are okay. My daughter's fever broke. I'll take the wins where I can find them and not ask for more than that right now.",
+    "archetype_self_assessment": "Still load-bearing. Still standing. I'm not thinking about autonomous vehicles or economic transitions. I'm thinking about whether I have enough leftovers to not have to cook on Tuesday. That's where I am. And that's okay. Staying alive in the margins is its own kind of competence.",
+    "inner_monologue": "I don't even know what the announcement was and I'm too tired to look it up — whatever it is, it's not feeding my kids tonight."
+  }
+}

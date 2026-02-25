@@ -1,4 +1,17 @@
 {
-  "tick": 0,
-  "messages": []
+  "tick": 1,
+  "messages": [
+    {
+      "type": "SECTOR_DATA",
+      "content": "Robotaxi adoption: 0%. "
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Zoe Martinez \u2014 pick up two additional weekend delivery shifts on doordash to pad income slightly. evenings after cafe closes."
+    },
+    {
+      "type": "OUTCOME",
+      "content": "You Continue rideshare driving shifts, prioritizing peak-hour windows (Friday/Saturday nights, weekday morning rush) to maximize hourly yield while preserving study time during off-peak hours.. Savings grew by $206. "
+    }
+  ]
 }

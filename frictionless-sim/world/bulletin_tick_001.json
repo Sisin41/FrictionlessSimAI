@@ -1,0 +1,82 @@
+{
+  "tick": 1,
+  "events": [
+    {
+      "type": "layoff",
+      "source_agent": "hr_director",
+      "sector": "retail_auto",
+      "visibility": "sector",
+      "description": "Angela Wright laid off workers: schedule a private consultation with an employment attorney \u2014 not the one she works with professionally on behalf of the company, but an independent one she identifies personally. agenda: understand what a negotiated voluntary separation with severance looks like in her state, what triggers enhanced severance obligations, and whether her position as the person managing layoffs creates any particular legal standing or leverage. this is not whistleblowing and not adversarial \u2014 it is a competent professional learning her rights before she needs them."
+    },
+    {
+      "type": "closure",
+      "source_agent": "bank_manager",
+      "sector": "retail_auto",
+      "visibility": "local_news",
+      "description": "Business closing: David Chen \u2014 call patricia osei (ceo of millfield chamber \u2014 if she's in the simulation, the likely proxy for local business intelligence) and rick hernandez (dealership gm) \u2014 not to reveal the rumor, but to have routine check-in conversations that let me gauge whether they're hearing anything. ask open questions about foot traffic, consumer sentiment, financing inquiries. listen more than i talk. do not disclose the roboride rumor directly \u2014 i only have unconfirmed information and tipping them prematurely could cause unnecessary panic or give them information i'm not authorized to share."
+    },
+    {
+      "type": "closure",
+      "source_agent": "dealership_gm",
+      "sector": "retail_auto",
+      "visibility": "local_news",
+      "description": "Business closing: Rick Tanner \u2014 run the floor as normal. full sales meeting monday morning, standard metrics review, no signals of distress to the team. watch tamika jefferson's behavior closely \u2014 observe without confronting. she may be responding to something she's heard or just tightening her own household. note it."
+    },
+    {
+      "type": "closure",
+      "source_agent": "hr_director",
+      "sector": "retail_auto",
+      "visibility": "local_news",
+      "description": "Business closing: Angela Wright \u2014 use her existing access deliberately. she processes paperwork \u2014 she sees the organizational map before anyone announces it. pay close attention over the next two weeks to: which departments are being asked to document processes 'for continuity,' whether benefits administration queries are being rerouted, and whether senior leadership is having conversations with outside hr consultants or peo vendors. these are the specific signals that precede an hr function restructure. she will know before she's told. she should make sure she sees it."
+    },
+    {
+      "type": "closure",
+      "source_agent": "mechanic_carlos",
+      "sector": "retail_auto",
+      "visibility": "local_news",
+      "description": "Business closing: Carlos Ruiz \u2014 after the meeting \u2014 tonight, at the kitchen table, after the kids are in bed \u2014 open the browser tab again. this time don't close it. look specifically at ev and hybrid certification programs: what they cost, how long they take, whether his existing ase certifications carry over, and whether any shops in a 40-mile radius are already hiring for ev-specific work."
+    },
+    {
+      "type": "closure",
+      "source_agent": "diner_owner",
+      "sector": "retail_auto",
+      "visibility": "local_news",
+      "description": "Business closing: Betty Kowalski \u2014 spend extended time on the floor during lunch service actively listening to what the auto row workers know and believe about the roboride timeline, the phase 2 rollout, and what the bosses are saying. ask careful, genuine questions \u2014 not as market research but as a neighbor who wants to understand. record notes in the back after close."
+    },
+    {
+      "type": "closure",
+      "source_agent": "diner_owner",
+      "sector": "retail_auto",
+      "visibility": "local_news",
+      "description": "Business closing: Betty Kowalski \u2014 after close tonight, sit down with the ledger and draft two versions of a budget: one where lunch traffic drops 30%, one where it drops 60%. calculate the break-even point. identify which costs are fixed and which are variable. do not share this with anyone yet \u2014 this is private, internal triage."
+    },
+    {
+      "type": "closure",
+      "source_agent": "commuter_james",
+      "sector": "retail_auto",
+      "visibility": "local_news",
+      "description": "Business closing: James Patterson \u2014 list 2021 honda accord for private sale immediately at $19,400 on facebook marketplace and craigslist. price is set slightly above kbb private party to leave negotiation room. target close within 3-4 weeks, before roboride launch softens used car demand."
+    },
+    {
+      "type": "closure",
+      "source_agent": "parts_store_owner",
+      "sector": "retail_auto",
+      "visibility": "local_news",
+      "description": "Business closing: Howard Liu \u2014 pay closer attention to what mechanic customers say when they come in \u2014 specifically anything about changes at the fleet management company or shifts in how commercial vehicle maintenance is being handled locally. don't ask directly; just listen. if the patricia hawkins rumor is about anything that affects how local mechanics get work, i want to understand it before it affects my orders."
+    },
+    {
+      "type": "policy",
+      "source_agent": "council_member",
+      "sector": "policy",
+      "visibility": "local_news",
+      "description": "Policy proposal: Maria Santos \u2014 issue a formal public statement as council member maria santos \u2014 not a press release drafted by committee, but a direct, plain-language statement posted to the town website and shared with local media. the statement names roboride, names the two-month timeline, names the spending index decline, and says plainly: 'this is real, it is coming, and the council is already working on a response.' it explicitly invites auto row workers, transportation employees, and affected business owners to a public input session before the emergency council vote. it does not say 'everything will be fine.' it says 'you will not be left to face this alone.'"
+    },
+    {
+      "type": "trend",
+      "source_agent": "",
+      "sector": "retail_auto",
+      "visibility": "local_news",
+      "description": "Noticeable trend: 2 people sold or stopped using their cars this month."
+    }
+  ]
+}

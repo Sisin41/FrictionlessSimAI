@@ -1,0 +1,61 @@
+{
+  "tick": 1,
+  "agent_id": "council_member",
+  "agent_name": "Maria Santos",
+  "response": {
+    "internal_assessment": "Everything has changed in one tick and I was positioned perfectly for it — but positioning is not the same as acting, and the window to lead rather than react is measured in days, not months. The RoboRide Phase 2 announcement is not a rumor or a trend line. It is a named company, a named city, a two-month clock. The spending index at 83 confirms the anxiety is already in the system — people can feel something coming even before they can name it. Patricia Hawkins just held a leadership dinner, which means the Auto Row business community is circling its wagons privately. David Chen is meeting with a regional VP, which means the banking sector is assessing exposure. If I do not step into the public square with a clear, honest assessment this tick, others will define the narrative for me — and the narrative they choose will probably be either denial or panic, neither of which serves my constituents. My advantage is that I held the town hall last tick without knowing the specifics, which means I now look like someone who saw this coming. I have to honor that trust by not softening the truth. Auto Row workers deserve honesty. They do not need a council member who manages their feelings; they need one who helps them plan. My builder instinct says: do not just sound alarms — attach solutions to every statement I make. Emergency session plus policy draft plus state-level outreach is the triad. Coalition with the Small Business Association turns that relationship from social to operational. The political risk of being too honest is real but it is smaller than the political risk of being caught minimizing a confirmed threat.",
+    "chosen_actions": [
+      {
+        "type": "GOVERNANCE",
+        "description": "Call an emergency town council session specifically on the RoboRide Phase 2 announcement and its economic implications for Millfield. Frame the agenda as: (1) threat assessment — what the two-month deployment timeline means for transportation-adjacent employment and consumer spending; (2) immediate response options — workforce retraining fund, emergency small business stabilization grant program, zoning and licensing considerations for robotaxi operations; (3) a mandate to form a standing Economic Transition Task Force with quarterly reporting. Prepare a short briefing document so council members arrive informed rather than reactive. Be clear in public materials: this is not alarmism, this is governance.",
+        "target_agent": null,
+        "resources_involved": "Approximately 20 hours personal time for preparation, agenda drafting, and facilitation. Council meeting costs covered by existing municipal budget. Briefing document uses research already begun last tick. Moderate political capital expenditure — calling an emergency session signals urgency but I have the credibility from the town hall to justify it.",
+        "reasoning": "The two-month timeline is too short for a normal committee process. An emergency session signals that the council is awake and responsive, not waiting for the crisis to mature. It also creates a public record that I acted early and specifically — not vaguely. The task force structure ensures this does not end with one meeting. My policy and community organizing skills are exactly what this moment requires. Not acting at the governance level this tick would be the most consequential error I could make.",
+        "economic_effects": {
+          "council_credibility": "+high",
+          "community_anxiety_management": "stabilizing — structured response reduces panic",
+          "policy_pipeline": "opens retraining fund and small business stabilization tracks"
+        }
+      },
+      {
+        "type": "COALITION",
+        "description": "Activate the Small Business Association relationship I established last tick and convert it from introductory to operational. Call the SBA director directly, share the RoboRide announcement, and ask for two things: (1) a rapid informal survey of which member businesses have direct exposure — transportation services, parking, fuel, repair shops, auto-adjacent retail — and (2) their commitment to co-present economic impact data at the emergency council session. This puts their credibility behind the policy response and gives business owners a seat at the table before they feel ignored.",
+        "target_agent": "small_business_owner",
+        "resources_involved": "Three to four hours of calls and coordination. No direct monetary cost. The relationship exists — this is activation, not cultivation. The SBA has their own interest in being seen as proactive.",
+        "reasoning": "Coalitions built before crises are worth ten times more than those assembled during them. I have this relationship exactly because I made the low-urgency investment last tick. Using it now is not transactional — it is the point. Business owners knowing the council is moving fast will reduce individual panic decisions and give me intelligence I cannot get any other way. Patricia Hawkins held a private dinner; I need the wider business community inside my tent, not waiting outside for someone else to brief them.",
+        "economic_effects": {
+          "small_business_stability": "improved by reducing information asymmetry",
+          "council_business_trust": "+moderate",
+          "early_warning_network": "activated"
+        }
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Issue a formal public statement as Council Member Maria Santos — not a press release drafted by committee, but a direct, plain-language statement posted to the town website and shared with local media. The statement names RoboRide, names the two-month timeline, names the spending index decline, and says plainly: 'This is real, it is coming, and the council is already working on a response.' It explicitly invites Auto Row workers, transportation employees, and affected business owners to a public input session before the emergency council vote. It does not say 'everything will be fine.' It says 'you will not be left to face this alone.'",
+        "target_agent": null,
+        "resources_involved": "Two to three hours to draft and clear with council communications. Zero direct cost. High symbolic value. Moderate political risk — being this direct will draw criticism from those who prefer soft messaging — but it is the honest action.",
+        "reasoning": "The spending index is already at 83. People in this town are already adjusting behavior even if they cannot articulate why. They deserve a council member who names the thing. Platitudes will be noticed as platitudes at this moment. The statement also creates accountability — if I say 'we are acting,' I have to act, which is the right kind of pressure. Patricia Hawkins' private dinner is a closed-room response; my public statement is the open-room response. Constituents will notice the difference.",
+        "economic_effects": {
+          "public_trust": "+moderate to high",
+          "information_environment": "improved — reduces misinformation and rumor-driven panic",
+          "maria_political_standing": "strengthened by directness"
+        }
+      },
+      {
+        "type": "OUTREACH",
+        "description": "Reach out this week to our state representative's office and to the regional economic development agency to request: (1) information on any state-level workforce transition funding already available — WIOA grants, community college partnership programs, economic adjustment assistance; (2) a formal consultation call with their economic policy staff before the emergency council session. I am not asking for money yet — I am building the conduit so the ask can be fast when we are ready to make it.",
+        "target_agent": null,
+        "resources_involved": "Four to five hours including drafting a one-page situation summary to send ahead of any call. No direct cost. The political capital here is spent at the state level, which is separate from my local base and does not deplete it.",
+        "reasoning": "Millfield cannot solve a structural automation shock with municipal resources alone. The state has programs designed for exactly this kind of displacement. But state bureaucracies move slowly unless someone local has already done the intake work. I need to open that pipeline now so it is ready when workers actually need to access it in two to three months. My research into other municipalities' responses — begun last tick — gives me enough vocabulary to have a credible conversation with state staff rather than showing up unprepared.",
+        "economic_effects": {
+          "external_resource_pipeline": "opened",
+          "workforce_transition_readiness": "+low now, +high by tick 3-4 if pipeline is established",
+          "fiscal_burden_on_municipality": "reduced by accessing external funding"
+        }
+      }
+    ],
+    "emotional_state": "alarmed and resolute — the alarm is appropriate and the resolution is chosen",
+    "archetype_self_assessment": "builder operating at full relevance — this is the exact crisis that my skills, my position, and my relationships were built to address; the question is not whether I can do this but whether I will be honest enough to do it right",
+    "inner_monologue": "I held a town hall about resilience last month without knowing what was coming, and now I know exactly what is coming — so I have exactly one ethical option, which is to act like I mean it."
+  }
+}

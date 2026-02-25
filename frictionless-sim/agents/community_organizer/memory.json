@@ -4,6 +4,11 @@
       "tick": 0,
       "summary": "Quietly expand drop-in hours at the center by 6 hours per week \u2014 Tuesday and Thursday evenings \u2014 framed as a 'community connection night' rather than crisis support. No stigma attached. Coffee, tables, a counselor on soft rotation. Lower the barrier to entry.",
       "emotional_state": "Contained. Purposeful. There is a steady low-grade alarm underneath the routine \u2014 the kind I've learned not to dismiss and not to amplify. I am not afraid. I am watchful. The work feels more urgent than it did six months ago but I am keeping that urgency internal so it doesn't transfer to the people who come to us for steadiness. I am tired in a familiar way. I am not burned out yet but I can see the shape of it from here if I don't pace myself."
+    },
+    {
+      "tick": 1,
+      "summary": "Contact Maria Santos directly before the emergency council session \u2014 not to lobby, but to offer: real intake data from the drop-in hours, anecdotal testimony I can organize, and my center as a potential node in any council-coordinated response infrastructure. Position the community center as operational support for whatever the council decides, not a supplicant. Ask what she needs from me to make the session productive.",
+      "emotional_state": "The announcement landed hard. Not in a way I showed \u2014 I was alone when I read it, and I let myself sit with it for about four minutes before I started making notes. Two months. I've been running on a slow-burn vigilance for weeks and now there is a date. That's clarifying in a way that's almost a relief, which I recognize is a strange thing to feel. The ambiguity was its own kind of weight. Now I know what I'm preparing for. There is urgency underneath my calm and I am not suppressing it \u2014 I am converting it. The call to Maria feels important and also slightly terrifying, which tells me it's the right move. I'm aware of my low agency pattern: I tend to prepare extensively and then hesitate at the moment of action. I am not going to hesitate this time. I'm making the call today."
     }
   ],
   "past_outcomes": [
@@ -14,6 +19,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Quietly expand drop-in hours at the center by 6 hours per week \u2014 Tuesday and Thursday evenings \u2014 framed as a 'community connection night' rather than crisis support. No stigma attached. Coffee, tables, a counselor on soft rotation. Lower the barrier to entry.. Savings grew by $362. "
+    },
+    {
+      "tick": 1,
+      "action": "Contact Maria Santos directly before the emergency council session \u2014 not to lobby, but to offer: real intake data from the drop-in hours, anecdotal testimony I can organize, and my center as a potential node in any council-coordinated response infrastructure. Position the community center as operational support for whatever the council decides, not a supplicant. Ask what she needs from me to make the session productive.",
+      "savings_delta": 362,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Contact Maria Santos directly before the emergency council session \u2014 not to lobby, but to offer: real intake data from the drop-in hours, anecdotal testimony I can organize, and my center as a potential node in any council-coordinated response infrastructure. Position the community center as operational support for whatever the council decides, not a supplicant. Ask what she needs from me to make the session productive.. Savings grew by $362. "
     }
   ],
   "reflections": [],

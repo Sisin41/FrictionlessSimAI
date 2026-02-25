@@ -1,0 +1,59 @@
+{
+  "tick": 1,
+  "agent_id": "rideshare_driver",
+  "agent_name": "Robert Jackson",
+  "response": {
+    "internal_assessment": "I read the RoboRide announcement three times. Millfield is on the list. Phase 2. Two months. I've been telling myself the robots were somewhere else, some other city, some other version of the problem. Not here. Not my streets. Not the airport loop on Route 9 or the hospital pickup zone on Clement where I know every nurse's shift schedule. Two months. I've got 2.7 months of savings. The numbers are sitting right next to each other in my head and they won't stop touching. This isn't a slow week. This isn't competition from other drivers or a bad weather stretch. This is a company with billions of dollars announcing, in writing, that they are coming to take my income. In two months. I have $7,387. Marcus starts third grade in September. He needs new shoes, he outgrows everything. I haven't fixed the brakes. I've been driving Marcus to school in a car with brakes I've been deferring for three weeks. That landed on me just now like a separate thing and I had to pull over. I sat in the parking lot of the Speedway on Deering for maybe twelve minutes. I did not cry. I came close. I keep thinking about what I actually know how to do. I drive. That's the thing I know how to do. I'm very good at it. And the market for the thing I'm very good at has a named competitor with a deployment date arriving in sixty days. My skill relevance feels like it dropped to zero while I was reading the press release. I know it didn't. But it feels like it. The question I can't stop asking is: what do I do with two months? Because I can extend the hours more. I'm already at fifty-five. I could push to sixty, sixty-five. More hours, slightly more money, slightly more wear on the car I can't afford to repair. Or I could — I don't know what the other option even looks like. I don't have a resume. I have a rideshare account and a four-point-nine rating. That's what I have. I need to do something that isn't just driving more. I know that. Knowing it and doing it are not the same thing when you don't know what to do instead. What I do know is that I cannot let Marcus feel this. I cannot let this become his memory of being eight years old.",
+    "chosen_actions": [
+      {
+        "type": "increase_work_hours",
+        "description": "Push driving hours to 60-62 per week for the next four weeks while the window is still open. Prioritize high-margin ride types: airport runs, late-night premium hours, and any local events. Log every dollar. The income window before RoboRide arrives is finite and I need to bank as much as possible.",
+        "target_agent": null,
+        "resources_involved": "Personal vehicle — brakes still deferred (critical risk), fuel costs increase to ~$210-230/month, significant physical toll, time away from Marcus",
+        "reasoning": "This is the wrong long-term move and I know it. Driving more does not solve the structural problem. But it does extend my runway, and runway is the only thing standing between Marcus and a real disruption to his life. Two months to stockpile cash while I can is not a growth strategy — it's a hold-the-line strategy. I'm holding the line so I have time to figure out the next thing. This is still the gig trap. I am choosing to stay in it a little longer because I don't yet know how to get out.",
+        "economic_effects": {
+          "savings_change": "+$600 to +$900 estimated over 4 weeks from added hours",
+          "vehicle_wear": "accelerated, brake risk escalating",
+          "runway_extension": "+0.3 to +0.4 months if expenses stay flat"
+        }
+      },
+      {
+        "type": "emergency_maintenance",
+        "description": "Get the brake work done this week. Cannot defer further. I'm driving Marcus to school in this car.",
+        "target_agent": null,
+        "resources_involved": "$280-350 from savings — painful but non-negotiable after I thought it through in that parking lot",
+        "reasoning": "The deferred brake work crossed a line I didn't fully see until the RoboRide news made me actually sit with what I've been doing. I've been so focused on not spending money that I put my son in a car with degrading brakes. That is the one thing I will not allow the financial pressure to do to me — make me a danger to Marcus. The $300 hurts. It reduces my runway. It's the right call and it's happening this week.",
+        "economic_effects": {
+          "savings_change": "-$300 approximate",
+          "safety_restoration": "vehicle returned to safe operating condition",
+          "runway_change": "-0.1 months"
+        }
+      },
+      {
+        "type": "skill_research",
+        "description": "Spend 3-4 hours this week — not while driving, real focused time — looking into what local employers, trade schools, or retraining programs exist in Millfield. Not committing to anything. Not spending money. Just finding out what the actual options are. CDL licensing. Delivery logistics. Facilities work. HVAC apprenticeships. Anything that uses physical reliability and schedule consistency, which is what I actually have to offer.",
+        "target_agent": null,
+        "resources_involved": "Time only — 3-4 hours. No financial commitment this tick.",
+        "reasoning": "I have been doing passive monitoring. That is over. Passive monitoring was appropriate when the threat was abstract. The threat is now named, dated, and local. I am not ready to make a decision about retraining. I do not have enough information. But I need to start getting that information now, not in six weeks when I'm panicking with thirty days of savings left. I'm not going to suddenly become a software engineer. I'm not going to pretend this is a pivot to something exciting. I'm looking for the closest next thing that a 41-year-old man who is reliable, knows this city, and can work hard is actually qualified to walk into. That research starts this week.",
+        "economic_effects": {
+          "savings_change": "$0 this tick",
+          "optionality": "identifies potential transition paths before crisis forces a panic decision"
+        }
+      },
+      {
+        "type": "community_contact",
+        "description": "Post in the local rideshare driver forum — not to vent, but to ask specifically: has anyone in Millfield started transitioning out? What did you move into? What was the application process like? Find one other driver who is actually doing something, not just talking about it.",
+        "target_agent": null,
+        "resources_involved": "Time only — 30 minutes",
+        "reasoning": "I've been reading the forum passively. People are scared. A lot of them are doing what I'm doing — more hours, more denial. But statistically someone in that group has already taken a step. I need to find that person. I don't need inspiration. I need a specific data point from someone who actually lives in this city and has started moving. Social proof is a lever I can pull without money.",
+        "economic_effects": {
+          "savings_change": "$0",
+          "information_value": "potential lead on viable transition path"
+        }
+      }
+    ],
+    "emotional_state": "The denial broke. Not completely — Robert is not in free fall — but the specific combination of a company name, a city name, and a two-month timeline did something that generalized anxiety about automation could not do. It made the threat concrete. He is now operating in a different register: frightened but not frozen. The fear is functional, which is the best version of fear. He sat in a gas station parking lot for twelve minutes processing something he couldn't process while driving. He is not telling Marcus anything. He is holding the external presentation of stability very tightly. Underneath: a sustained high-stress hum, occasional intrusive calculations in the middle of the night, a specific new guilt about the brakes. He is a man who has spent six years being competent at one thing and is now staring at a horizon where that competence expires. He has not yet grieved that. He is not ready to. He is doing what he knows how to do — working — while trying, for the first time, to look sideways at what else might exist.",
+    "archetype_self_assessment": "I used to think the hustle was enough. Show up, work hard, know your city, take care of your customers. That's always been my identity. I'm starting to see that the hustle is real — the work ethic is real — but I've been applying it to a shrinking market and calling that a strategy. That's not who I want to be. I want to be the guy who saw it coming and did something before he had no options left. I don't know if I'm that guy yet. But I'm trying to become him while there's still time. Two months is not a lot of time. It's also not zero time. I have to do something with it besides just drive.",
+    "inner_monologue": "Millfield. They put Millfield on the list and I've got two months and $7,387 and a son who thinks everything is fine, and tonight after I get the brakes fixed and Marcus is asleep I'm going to sit at the kitchen table and find out what a CDL license actually costs and how long it takes to get one, because I have to do something real now, not just more hours, something that survives the next two months and the two months after that."
+  }
+}

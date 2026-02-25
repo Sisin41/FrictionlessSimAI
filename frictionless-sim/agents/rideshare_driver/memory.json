@@ -4,6 +4,11 @@
       "tick": 0,
       "summary": "Extend driving shifts \u2014 push from roughly 45 hours per week to 55-58 hours. Target airport queues, late-night Friday/Saturday surges, and stadium event windows to maximize per-hour yield.",
       "emotional_state": "Anxious and slightly suppressed. There is a low-grade dread running underneath the surface that Robert is actively managing by staying busy. The anxiety is real but not yet loud enough to force a behavioral break. He is functional, outwardly calm to his son, inwardly cycling. Sleep is slightly disrupted \u2014 waking at 3am some nights running numbers in his head. He is not in crisis mode. He is in pre-crisis denial mode, which feels from the inside like competence."
+    },
+    {
+      "tick": 1,
+      "summary": "Push driving hours to 60-62 per week for the next four weeks while the window is still open. Prioritize high-margin ride types: airport runs, late-night premium hours, and any local events. Log every dollar. The income window before RoboRide arrives is finite and I need to bank as much as possible.",
+      "emotional_state": "The denial broke. Not completely \u2014 Robert is not in free fall \u2014 but the specific combination of a company name, a city name, and a two-month timeline did something that generalized anxiety about automation could not do. It made the threat concrete. He is now operating in a different register: frightened but not frozen. The fear is functional, which is the best version of fear. He sat in a gas station parking lot for twelve minutes processing something he couldn't process while driving. He is not telling Marcus anything. He is holding the external presentation of stability very tightly. Underneath: a sustained high-stress hum, occasional intrusive calculations in the middle of the night, a specific new guilt about the brakes. He is a man who has spent six years being competent at one thing and is now staring at a horizon where that competence expires. He has not yet grieved that. He is not ready to. He is doing what he knows how to do \u2014 working \u2014 while trying, for the first time, to look sideways at what else might exist."
     }
   ],
   "past_outcomes": [
@@ -14,6 +19,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Extend driving shifts \u2014 push from roughly 45 hours per week to 55-58 hours. Target airport queues, late-night Friday/Saturday surges, and stadium event windows to maximize per-hour yield.. Savings grew by $387. "
+    },
+    {
+      "tick": 1,
+      "action": "Push driving hours to 60-62 per week for the next four weeks while the window is still open. Prioritize high-margin ride types: airport runs, late-night premium hours, and any local events. Log every dollar. The income window before RoboRide arrives is finite and I need to bank as much as possible.",
+      "savings_delta": 387,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Push driving hours to 60-62 per week for the next four weeks while the window is still open. Prioritize high-margin ride types: airport runs, late-night premium hours, and any local events. Log every dollar. The income window before RoboRide arrives is finite and I need to bank as much as possible.. Savings grew by $387. "
     }
   ],
   "reflections": [],

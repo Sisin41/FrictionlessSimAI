@@ -1,9 +1,29 @@
 {
-  "tick": 0,
+  "tick": 1,
   "messages": [
     {
       "type": "CAPABILITY_FACT",
-      "content": "Economy functioning normally. Self-driving vehicle technology exists but is not deployed locally. Millfield is a car-dependent small town."
+      "content": "RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
+    },
+    {
+      "type": "MARKET_DATA",
+      "content": "Consumer spending down. Spending index: 83 (baseline: 100)."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Tamika Jefferson \u2014 go line by line through my $3,177 in monthly expenses and identify anything that can be cut without serious quality-of-life damage. target $400-600 in monthly reduction to extend the runway from 2 months closer to 3. buy myself one more month of decision space without earning a single extra dollar."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Patricia Hawkins is making some kind of change \u2014 something about Host a private dinner with my general managers acr..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that David Chen is making some kind of change \u2014 something about Schedule a lunch this month with the regional VP a..."
+    },
+    {
+      "type": "OUTCOME",
+      "content": "You Refresh LinkedIn profile to reflect full scope of HR expertise \u2014 workforce transition management, compliance, organizational development. Set profile to 'Open to Work' visible only to recruiters. Update resume with quantified outcomes: number of terminations managed, compliance programs implemented, cost-per-hire metrics. Target sectors: healthcare, tech, logistics, government \u2014 all growing headcount or facing their own restructuring needs.. Savings grew by $294. "
     }
   ]
 }

@@ -4,6 +4,11 @@
       "tick": 0,
       "summary": "Enroll in a free online SQL and data visualization course (Mode Analytics or similar). Commit to one hour on weekday evenings \u2014 not every evening, realistically three or four times a week.",
       "emotional_state": "Calm on the surface, with a low-grade restlessness underneath. Not panicked \u2014 there's no reason to panic yet \u2014 but aware that calm is doing some work to keep the urgency quiet. Slightly frustrated with myself for how many Sunday afternoons have slipped by without the job search I keep scheduling. Not spiraling about it. Just noting it."
+    },
+    {
+      "tick": 1,
+      "summary": "Open the SQL course tonight \u2014 not re-enroll, not re-read the syllabus, actually complete Module 1. Set a phone alarm for 8pm labeled 'SQL not optional.' No Maya plans tonight. This gets done.",
+      "emotional_state": "Unsettled in a productive way. The RoboRide announcement landed differently than the abstract warnings did \u2014 there's a company name now, a city name I recognize as mine, a number: two months. The low-grade restlessness from last tick has sharpened into something with more edge to it. Not panic \u2014 I'm still employed, still earning, still fine by most measures \u2014 but the comfortable distance I was keeping from the threat has closed. I feel a specific kind of discomfort that comes from knowing I did not do what I said I would do last tick. That gap between 'I'm not scared of change' and 'I deferred the SQL course again' is sitting in my chest. I want to close it tonight. That desire feels real, not performed. The question I've been carrying all tick: is this the moment I actually become the person I've been describing myself as, or is this the moment I find out I was narrating a character rather than living one?"
     }
   ],
   "past_outcomes": [
@@ -14,6 +19,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Enroll in a free online SQL and data visualization course (Mode Analytics or similar). Commit to one hour on weekday evenings \u2014 not every evening, realistically three or four times a week.. Savings grew by $196. "
+    },
+    {
+      "tick": 1,
+      "action": "Open the SQL course tonight \u2014 not re-enroll, not re-read the syllabus, actually complete Module 1. Set a phone alarm for 8pm labeled 'SQL not optional.' No Maya plans tonight. This gets done.",
+      "savings_delta": 71,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Open the SQL course tonight \u2014 not re-enroll, not re-read the syllabus, actually complete Module 1. Set a phone alarm for 8pm labeled 'SQL not optional.' No Maya plans tonight. This gets done.. Savings grew by $71. "
     }
   ],
   "reflections": [],

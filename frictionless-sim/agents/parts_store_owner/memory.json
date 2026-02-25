@@ -4,6 +4,11 @@
       "tick": 0,
       "summary": "Spend two weeks systematically talking to the professional mechanics and small independent shops in the region \u2014 find out what they're actually struggling to source, what their lead times look like from existing suppliers, and whether any of them feel underserved by the big distributors.",
       "emotional_state": "Controlled unease. Not panicking \u2014 the savings buffer and positive monthly flow keep the immediate fear muted. But I'm not comfortable either. There's a background anxiety that has been present for a couple years now, a low-grade awareness that I'm watching the ground erode under something I built. The feeling isn't paralyzing; it's clarifying. I've been too patient. Time to move."
+    },
+    {
+      "tick": 1,
+      "summary": "Begin liquidating the bottom-performing 20% of DIY-specific SKUs \u2014 clearance pricing to move them out, freeing up roughly $4,000-6,000 in shelf space and working capital. Immediately redirect that freed capital toward restocking the professional-grade lines where mechanics have been telling me they face lead-time delays: brake hardware, specialty gaskets, import vehicle sensors.",
+      "emotional_state": "Cautiously encouraged. The savings bump feels like confirmation that the outreach wasn't just time spent \u2014 it's starting to convert. But Tamika's closure is a gut-punch reminder that eleven months of runway is not safety, it's borrowed time with interest. I'm moving faster than I was at T0, but the underlying anxiety hasn't lifted. Two dependents. A mortgage with 46 months left. These aren't abstractions. I keep the pressure on myself on purpose."
     }
   ],
   "past_outcomes": [
@@ -14,6 +19,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Spend two weeks systematically talking to the professional mechanics and small independent shops in the region \u2014 find out what they're actually struggling to source, what their lead times look like from existing suppliers, and whether any of them feel underserved by the big distributors.. Savings grew by $645. "
+    },
+    {
+      "tick": 1,
+      "action": "Begin liquidating the bottom-performing 20% of DIY-specific SKUs \u2014 clearance pricing to move them out, freeing up roughly $4,000-6,000 in shelf space and working capital. Immediately redirect that freed capital toward restocking the professional-grade lines where mechanics have been telling me they face lead-time delays: brake hardware, specialty gaskets, import vehicle sensors.",
+      "savings_delta": 645,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Begin liquidating the bottom-performing 20% of DIY-specific SKUs \u2014 clearance pricing to move them out, freeing up roughly $4,000-6,000 in shelf space and working capital. Immediately redirect that freed capital toward restocking the professional-grade lines where mechanics have been telling me they face lead-time delays: brake hardware, specialty gaskets, import vehicle sensors.. Savings grew by $645. "
     }
   ],
   "reflections": [],

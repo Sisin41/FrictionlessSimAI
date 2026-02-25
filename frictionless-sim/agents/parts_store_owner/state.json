@@ -30,7 +30,7 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 11.0,
+      "runway_months": 11.1,
       "threat_level": 0.08,
       "monthly_essentials": 2500,
       "health_cost_from_stress": 0
@@ -79,7 +79,7 @@
       "availability_heuristic": 0.64,
       "social_proof_sensitivity": 0.48
     },
-    "sentiment": "Controlled unease. Not panicking \u2014 the savings buffer and positive monthly flow keep the immediate fear muted. But I'm not comfortable either. There's a background anxiety that has been present for a couple years now, a low-grade awareness that I'm watching the ground erode under something I built. The feeling isn't paralyzing; it's clarifying. I've been too patient. Time to move."
+    "sentiment": "Cautiously encouraged. The savings bump feels like confirmation that the outreach wasn't just time spent \u2014 it's starting to convert. But Tamika's closure is a gut-punch reminder that eleven months of runway is not safety, it's borrowed time with interest. I'm moving faster than I was at T0, but the underlying anxiety hasn't lifted. Two dependents. A mortgage with 46 months left. These aren't abstractions. I keep the pressure on myself on purpose."
   },
   "psychological": {
     "stress_level": 0.19,
@@ -91,7 +91,7 @@
   "financial": {
     "monthly_income": 5000,
     "monthly_expenses": 3709,
-    "savings": 40645,
+    "savings": 41290,
     "debt_total": 21675,
     "credit_score": 746
   },
@@ -130,6 +130,6 @@
     "willingness_to_move": 0.1
   },
   "locality": "millfield",
-  "archetype": "I'm a pragmatist who built something real with his hands and his knowledge. I'm not a tech entrepreneur, I'm not going to pivot to selling something I don't understand. But I'm also not my father's generation of shop owner who just keeps doing what they've always done until the doors close. I adapt within my domain. The question is whether my domain is large enough to hold me.",
-  "tick_updated": 0
+  "archetype": "Still a pragmatist operating inside his domain. The inventory restructure and the delivery offer aren't big swings \u2014 they're the right moves for someone who knows his own constraints. I'm not pivoting to a different industry, I'm pivoting to a different customer within the same industry. That feels like the honest version of adaptation: not reinventing yourself, just getting better at finding who actually needs what you have.",
+  "tick_updated": 1
 }

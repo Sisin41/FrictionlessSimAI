@@ -4,6 +4,11 @@
       "tick": 0,
       "summary": "Host the monthly Auto Row worker appreciation lunch \u2014 discounted daily special for all shop employees. Put a handwritten chalkboard sign out front. Spend time at the counter talking with regulars, learning names of the newer hires.",
       "emotional_state": "Content and purposeful. Mild background satisfaction from a strong lunch service. No anxiety. The inbox confirmation that things are stable reinforces what I already knew \u2014 no need to worry, just work."
+    },
+    {
+      "tick": 1,
+      "summary": "Spend extended time on the floor during lunch service actively listening to what the Auto Row workers know and believe about the RoboRide timeline, the Phase 2 rollout, and what the bosses are saying. Ask careful, genuine questions \u2014 not as market research but as a neighbor who wants to understand. Record notes in the back after close.",
+      "emotional_state": "Frightened but functional. The fear is specific and real \u2014 not the ambient low-level dread of a bad week but a concrete threat that arrived with a timeline attached. There is grief underneath the fear, the grief of someone who has built something for thirty years watching the ground under it shift. She is not panicking. She is also not pretending. She refilled coffee cups she didn't need to refill. That is the honest measure of where she is."
     }
   ],
   "past_outcomes": [
@@ -14,6 +19,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Host the monthly Auto Row worker appreciation lunch \u2014 discounted daily special for all shop employees. Put a handwritten chalkboard sign out front. Spend time at the counter talking with regulars, learning names of the newer hires.. Savings grew by $116. "
+    },
+    {
+      "tick": 1,
+      "action": "Spend extended time on the floor during lunch service actively listening to what the Auto Row workers know and believe about the RoboRide timeline, the Phase 2 rollout, and what the bosses are saying. Ask careful, genuine questions \u2014 not as market research but as a neighbor who wants to understand. Record notes in the back after close.",
+      "savings_delta": 116,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Spend extended time on the floor during lunch service actively listening to what the Auto Row workers know and believe about the RoboRide timeline, the Phase 2 rollout, and what the bosses are saying. Ask careful, genuine questions \u2014 not as market research but as a neighbor who wants to understand. Record notes in the back after close.. Savings grew by $116. "
     }
   ],
   "reflections": [],

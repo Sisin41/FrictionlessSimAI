@@ -4,6 +4,11 @@
       "tick": 0,
       "summary": "Price and pursue bid on a two-car garage addition \u2014 largest single job this year if awarded. Spend evening reviewing material costs and labor hours to sharpen the estimate.",
       "emotional_state": "Grounded, confident, mildly ambitious. The kind of quiet satisfaction a man gets when the work is there, the savings are real, and he still enjoys the job. No anxiety. The truck started this morning on the first crank, like it always does."
+    },
+    {
+      "tick": 1,
+      "summary": "Prioritize closing the Henderson garage addition bid before Phase 2 RoboRide deployment creates uncertainty in the Auto Row economy. Push for a signed contract within 30 days rather than letting it drift.",
+      "emotional_state": "Calm and slightly alert. Not rattled \u2014 the truck panic that might hit another person is entirely absent. But there is a low-grade unease about the people downstream. The kind of unease a contractor gets when he hears a big local employer is 'evaluating options.' He's done this long enough to know that threat usually travels one hop further than people expect."
     }
   ],
   "past_outcomes": [
@@ -14,6 +19,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Price and pursue bid on a two-car garage addition \u2014 largest single job this year if awarded. Spend evening reviewing material costs and labor hours to sharpen the estimate.. Savings grew by $909. "
+    },
+    {
+      "tick": 1,
+      "action": "Prioritize closing the Henderson garage addition bid before Phase 2 RoboRide deployment creates uncertainty in the Auto Row economy. Push for a signed contract within 30 days rather than letting it drift.",
+      "savings_delta": 909,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Prioritize closing the Henderson garage addition bid before Phase 2 RoboRide deployment creates uncertainty in the Auto Row economy. Push for a signed contract within 30 days rather than letting it drift.. Savings grew by $909. "
     }
   ],
   "reflections": [],

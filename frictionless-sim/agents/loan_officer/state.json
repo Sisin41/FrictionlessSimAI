@@ -31,7 +31,7 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 7.4,
+      "runway_months": 7.5,
       "threat_level": 0.38,
       "monthly_essentials": 2750,
       "health_cost_from_stress": 0
@@ -82,7 +82,7 @@
       "availability_heuristic": 0.54,
       "social_proof_sensitivity": 0.58
     },
-    "sentiment": "Controlled concern. Not panicking \u2014 panic is expensive \u2014 but the low-grade alarm is there. I sleep fine but I'm thinking about this more than I'd like. The feeling isn't dread, it's more like the feeling you get when you realize the weather is changing and you're still deciding whether to grab a jacket. You're not wet yet. You're not going to be wet if you move now."
+    "sentiment": "Grounded. The confirmation of what I already suspected is not frightening \u2014 it is clarifying. I feel the kind of calm that comes from having moved first. There is a small undertow of pressure knowing that the institutional gears are now turning above me and timelines may compress, but that pressure is productive. I am not in denial, I am not catastrophizing. I am a 44-year-old professional who has done this work for two decades and still has runway, savings, a supportive manager, and a bank that needs people who can do more than one thing. The next 60 days matter. I will make them count."
   },
   "psychological": {
     "stress_level": 0.11,
@@ -94,7 +94,7 @@
   "financial": {
     "monthly_income": 5500,
     "monthly_expenses": 5195,
-    "savings": 38652,
+    "savings": 38804,
     "debt_total": 77544,
     "credit_score": 682
   },
@@ -133,6 +133,6 @@
     "willingness_to_move": 0.2
   },
   "locality": "millfield",
-  "archetype": "Pragmatic adapter. I'm not a denier and I'm not a catastrophizer. I read the spreadsheet for what it says, not what I want it to say. My identity is reasonably tied to this job but not so tightly that I'd go down with a sinking ship to protect the title on my business card. I've built real skills. Those skills work in other rooms.",
-  "tick_updated": 0
+  "archetype": "I am the Methodical Adapter. I read the signal early, verified it, flagged it through the right channels, and now I am executing the response before the situation forces my hand. I am not the hero who fights the disruption, and I am not the victim who is surprised by it. I am the professional who does the unglamorous, necessary work of updating his own skill set and having the hard conversations \u2014 with his boss, with his family \u2014 while the window is open. That is the right thing. That is the only thing.",
+  "tick_updated": 1
 }

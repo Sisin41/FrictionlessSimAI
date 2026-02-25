@@ -4,6 +4,11 @@
       "tick": 0,
       "summary": "Continue rideshare driving shifts, prioritizing peak-hour windows (Friday/Saturday nights, weekday morning rush) to maximize hourly yield while preserving study time during off-peak hours.",
       "emotional_state": "Controlled tension. The runway number is uncomfortable but not paralyzing. There's a clarity that comes from having a plan \u2014 I'm not drifting, I'm executing. Stress is real (0.22) but manageable. Hope is the dominant undercurrent because school is actually happening."
+    },
+    {
+      "tick": 1,
+      "summary": "Drive peak hours only \u2014 Friday evening, Saturday morning airport surge, and one weekday evening block. Skip low-yield midday slots to preserve energy for clinical hours.",
+      "emotional_state": "Steady. A little tired from the clinical block Tuesday, but grounded. The plan is working. I just have to keep executing."
     }
   ],
   "past_outcomes": [
@@ -14,6 +19,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Continue rideshare driving shifts, prioritizing peak-hour windows (Friday/Saturday nights, weekday morning rush) to maximize hourly yield while preserving study time during off-peak hours.. Savings grew by $206. "
+    },
+    {
+      "tick": 1,
+      "action": "Drive peak hours only \u2014 Friday evening, Saturday morning airport surge, and one weekday evening block. Skip low-yield midday slots to preserve energy for clinical hours.",
+      "savings_delta": 206,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Drive peak hours only \u2014 Friday evening, Saturday morning airport surge, and one weekday evening block. Skip low-yield midday slots to preserve energy for clinical hours.. Savings grew by $206. "
     }
   ],
   "reflections": [],

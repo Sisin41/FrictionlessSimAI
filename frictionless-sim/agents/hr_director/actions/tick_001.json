@@ -1,0 +1,62 @@
+{
+  "tick": 1,
+  "agent_id": "hr_director",
+  "agent_name": "Angela Wright",
+  "response": {
+    "internal_assessment": "Millfield. Phase 2. Two months. I read that line three times and my hands stayed completely still, which is how I knew it had landed somewhere past the part of me that still pretends to be surprised. I've been processing the slow-motion version of this for months. Now I have a date. RoboRide doesn't announce Phase 2 deployment and then quietly turn around — they have investors to satisfy, timelines to hit, and a press release to justify. What this means for the dealerships is obvious. What this means for my employer specifically is that the next twelve to eighteen months are going to be a controlled demolition, and someone has to manage the paperwork. That someone has historically been me. Here is the thing I have to hold clearly in my mind: they will need me to stay long enough to do the hard work. I have institutional leverage right now that I will not have in six months. The company needs me present and functional to manage what's coming. That is not sentiment — that is a negotiating position. I should use it. Consumer spending at 83 is declining. Tamika is cutting expenses. Patricia's leadership dinner and David Chen's VP meetings tell me the people above me are already circling wagons at a level I'm not invited to. I process their paperwork but I don't sit at those tables. That asymmetry used to feel like job security. Now it feels like the gap between knowing the ship is sinking and being in the room where the lifeboats are discussed. Two decisions are crystallizing: First, I need to talk to someone — a career attorney or a senior HR consultant I trust — about severance negotiation strategy. Not because I plan to be fired, but because I need to understand what a voluntary departure with severance looks like versus waiting to be let go. I have leverage now. I will have less of it later. Second, I need to move faster on the consulting infrastructure. Not dramatically — no announcements, no drama — but the institutional knowledge documentation I started last tick needs to become something real. I should also research whether any RoboRide deployment cities have seen a wave of displaced auto-sector HR talent looking for transition support. That's a niche. That might be my niche. The car payment: I need to resolve this this tick. Not research it — resolve it. At $649/month with $72k in savings and no dependents, carrying that debt is irrational. Trade down, eliminate the payment, extend my runway. Every month I delay that decision is money I'm handing to a lender on a depreciating asset during a period of deliberate financial tightening.",
+    "chosen_actions": [
+      {
+        "type": "legal_and_financial_consultation",
+        "description": "Schedule a private consultation with an employment attorney — not the one she works with professionally on behalf of the company, but an independent one she identifies personally. Agenda: understand what a negotiated voluntary separation with severance looks like in her state, what triggers enhanced severance obligations, and whether her position as the person managing layoffs creates any particular legal standing or leverage. This is not whistleblowing and not adversarial — it is a competent professional learning her rights before she needs them.",
+        "target_agent": null,
+        "resources_involved": "$300-500 consultation fee from savings; 2 hours of personal time",
+        "reasoning": "She has institutional leverage right now that she will not have after the layoffs begin in earnest. Understanding her legal position while she is still indispensable — and before she has administered the bulk of the reduction-in-force — is the single highest-value information purchase available to her this tick. The cost is trivial relative to the potential severance differential.",
+        "economic_effects": {
+          "immediate_cost": -400,
+          "expected_value": "High — potential to structure exit with 2 to 4 additional months of income via negotiated severance; knowledge has asymmetric upside",
+          "stress_impact": "Slightly reduces stress by converting uncertainty into a defined plan"
+        }
+      },
+      {
+        "type": "vehicle_trade_down",
+        "description": "Execute the car payment decision. Trade the current vehicle to a dealership — she works adjacent to one, which creates a mildly useful transaction — and replace with either a paid-off used vehicle from savings or a significantly cheaper financed option. Target: eliminate or reduce the $649/month payment to under $200/month or zero. Apply the delta directly to extending monthly runway.",
+        "target_agent": null,
+        "resources_involved": "Current vehicle equity; estimated $8,000-12,000 from savings if purchasing a used vehicle outright; net monthly savings of $400-649",
+        "reasoning": "This decision was already correct last tick. Now that the two-month RoboRide timeline is confirmed, it becomes urgent. Every $449/month saved extends her L0 runway by approximately 0.06 months per month — and more importantly, it removes a fixed obligation that would constrain her if income drops suddenly. She has been a person who knew better and didn't act. She stops being that person today.",
+        "economic_effects": {
+          "immediate_cost": -10000,
+          "monthly_savings": 449,
+          "runway_extension_per_month": 0.06,
+          "stress_impact": "Moderate reduction — removes a financial anchor she has been carrying with awareness and mild shame"
+        }
+      },
+      {
+        "type": "accelerate_consulting_infrastructure",
+        "description": "Move the documentation project from 'personal notes' to 'actual consulting collateral.' Specifically: draft a one-page service offering for small to mid-sized businesses needing fractional HR Director services, especially companies navigating workforce transitions (hiring freezes, RIFs, benefit restructures). Research whether any HR consulting firms operating in Millfield or adjacent markets are hiring experienced contractors. Identify two or three potential anchor clients — businesses in sectors growing despite the auto contraction — and think through how she would approach them.",
+        "target_agent": null,
+        "resources_involved": "0 dollars; 5 hours personal time over the next two weeks",
+        "reasoning": "The RoboRide announcement makes the displacement wave predictable and soon. That predictability is useful — it means other businesses in Millfield are also trying to figure out what it means for their labor market, their benefit costs, their workforce planning. She is the most qualified person in the region to help them think about this. Building this capability now, while employed and drawing a salary, is the lowest-risk version of this move. She is not quitting — she is building a landing pad.",
+        "economic_effects": {
+          "immediate_cost": 0,
+          "expected_value": "Medium-high — positions her to generate $5,000-8,000/month in consulting income within 3-6 months of departure; exact timeline depends on client acquisition speed",
+          "stress_impact": "Reduces stress by creating a concrete forward path"
+        }
+      },
+      {
+        "type": "internal_intelligence_gathering",
+        "description": "Use her existing access deliberately. She processes paperwork — she sees the organizational map before anyone announces it. Pay close attention over the next two weeks to: which departments are being asked to document processes 'for continuity,' whether benefits administration queries are being rerouted, and whether senior leadership is having conversations with outside HR consultants or PEO vendors. These are the specific signals that precede an HR function restructure. She will know before she's told. She should make sure she sees it.",
+        "target_agent": null,
+        "resources_involved": "Zero cost; attentional investment only",
+        "reasoning": "Her insider position is a perishable asset. She has a 30-to-60-day information advantage over any outside observer. Using that advantage to time her own exit — or her negotiation — is not disloyal. She has been loyal for years. The company will not extend her the same courtesy when the moment comes. She has written enough of those letters to know exactly how they read.",
+        "economic_effects": {
+          "immediate_cost": 0,
+          "expected_value": "High option value — maintains warning window before any involuntary separation event; preserves ability to act rather than react",
+          "stress_impact": "Neutral to slightly positive — converts ambient dread into active situational awareness"
+        }
+      }
+    ],
+    "emotional_state": "Angela is operating in what she privately thinks of as 'clear-eyed mode' — the emotional register she has observed in the best employees she has ever counseled through separations, the ones who arrived at her office already knowing what was coming and had already done most of their grieving before she said a word. There is something almost cold about it, but it is not coldness. It is the kind of clarity that comes from having seen this exact situation enough times to stop pretending it won't resolve the way it always resolves. Her stress has not spiked despite the announcement. If anything, confirmation is less stressful than suspicion. The dread of the unknown was worse than the known thing with a two-month timeline. She is not paralyzed. She is not manic. She is the most methodical she has been in years, which says something about how much energy she was spending pretending not to see what she saw.",
+    "archetype_self_assessment": "She is moving from Strategic Realist into what she might call Strategic Mover — the person who not only sees clearly but has stopped finding reasons to delay acting on what she sees. Her low identity attachment to the HR Director title was always a latent advantage; it is becoming an active one. She does not need to mourn this role to leave it well. She does not need to be angry at the company to protect herself from it. She is both the instrument of its downsizing and one of its eventual subjects, and she has decided that the most honest thing she can do — for herself, for the employees she still serves, and frankly for the organization — is to be effective for as long as she stays and be strategic about when she goes.",
+    "inner_monologue": "I've written the letter enough times to know it never gets easier for the person reading it — so I'm going to make sure I'm not the one reading it."
+  }
+}

@@ -4,6 +4,11 @@
       "tick": 0,
       "summary": "Search for a second part-time or gig-based income source \u2014 delivery driving (DoorDash, Instacart), warehouse shifts, or weekend labor gigs. Target something flexible that doesn't conflict with car wash hours.",
       "emotional_state": "Flat. Focused. Not scared, not hopeful \u2014 just pragmatic. The math is what it is. I've been broke before and I know what broke feels like, and I know the difference between broke-with-a-plan and broke-panicking. I'm doing the plan."
+    },
+    {
+      "tick": 1,
+      "summary": "Aggressively finalize roommate search \u2014 post on every platform, lower the ask, take the first financially viable applicant. Splitting rent cuts monthly burn nearly in half and extends runway past the displacement window.",
+      "emotional_state": "Calm, slightly pressured. Not scared. Frustrated that the timeline is tight but not paralyzed. This is a logistics problem, not an identity crisis."
     }
   ],
   "past_outcomes": [
@@ -14,6 +19,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Search for a second part-time or gig-based income source \u2014 delivery driving (DoorDash, Instacart), warehouse shifts, or weekend labor gigs. Target something flexible that doesn't conflict with car wash hours.. Savings grew by $131. "
+    },
+    {
+      "tick": 1,
+      "action": "Aggressively finalize roommate search \u2014 post on every platform, lower the ask, take the first financially viable applicant. Splitting rent cuts monthly burn nearly in half and extends runway past the displacement window.",
+      "savings_delta": 131,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Aggressively finalize roommate search \u2014 post on every platform, lower the ask, take the first financially viable applicant. Splitting rent cuts monthly burn nearly in half and extends runway past the displacement window.. Savings grew by $131. "
     }
   ],
   "reflections": [],
