@@ -1,21 +1,21 @@
 {
-  "tick": 2,
+  "tick": 3,
   "messages": [
     {
-      "type": "AMBIENT",
-      "content": "Ongoing: RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
+      "type": "CAPABILITY_FACT",
+      "content": "RoboRide launches autonomous ride-share service in Millfield. Price: $0.18 per mile. Average wait time: 15 minutes. Coverage: main roads and commercial areas."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 81 (baseline: 100)."
+      "content": "Local unemployment rising. Employment rate: 93%."
     },
     {
-      "type": "DIRECT_IMPACT",
-      "content": "Business closing: Carlos Ruiz \u2014 after the meeting \u2014 tonight, at the kitchen table, after the kids are in bed \u2014 open the browser tab again. this time don't close it. look specifically at ev and hybrid certification programs: what they cost, how long they take, whether his existing ase certifications carry over, and whether any shops in a 40-mile radius are already hiring for ev-specific work."
+      "type": "MARKET_DATA",
+      "content": "Consumer spending down. Spending index: 76 (baseline: 100)."
     },
     {
       "type": "OUTCOME",
-      "content": "You Spend extended time on the floor during lunch service actively listening to what the Auto Row workers know and believe about the RoboRide timeline, the Phase 2 rollout, and what the bosses are saying. Ask careful, genuine questions \u2014 not as market research but as a neighbor who wants to understand. Record notes in the back after close.. Savings grew by $116. "
+      "content": "You Apply for Maria Santos's $5,000 small business stabilization grant. Fill out the paperwork this week. The qualification criteria are met. The money is not for spending \u2014 it is for extending runway if the 60% drop scenario materializes. A $5,000 cushion converts a 6.4-month runway into something closer to 7.5 months at 60% revenue loss. That is the difference between having time to adapt and not having time.. Savings grew by $116. "
     }
   ]
 }

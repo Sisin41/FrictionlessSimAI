@@ -1,13 +1,9 @@
 {
-  "tick": 2,
+  "tick": 3,
   "messages": [
     {
-      "type": "AMBIENT",
-      "content": "Ongoing: RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
-    },
-    {
       "type": "OUTCOME",
-      "content": "You Deposit $200 into emergency savings as planned. Total emergency fund now approximately $16,085. Runway incrementally extended.. Savings grew by $285. "
+      "content": "You routine. Savings grew by $285. "
     }
   ]
 }

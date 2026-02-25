@@ -1,21 +1,17 @@
 {
-  "tick": 2,
+  "tick": 3,
   "messages": [
     {
-      "type": "AMBIENT",
-      "content": "Ongoing: RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "Business closing: Carlos Ruiz \u2014 after the meeting \u2014 tonight, at the kitchen table, after the kids are in bed \u2014 open the browser tab again. this time don't close it. look specifically at ev and hybrid certification programs: what they cost, how long they take, whether his existing ase certifications carry over, and whether any shops in a 40-mile radius are already hiring for ev-specific work."
+      "type": "SECTOR_DATA",
+      "content": "Auto sector revenue index: 89 (baseline: 100). Foot traffic and sales are somewhat down."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Issue a formal public statement as Council Member ..."
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about After the council vote, issue a second public stat..."
     },
     {
       "type": "OUTCOME",
-      "content": "You Passively monitor Carlos's demeanor and the shop mood throughout the day without directly asking what is wrong. File it away as a low-grade anxiety signal.. Savings grew by $249. "
+      "content": "You Approach Carlos casually at end of shift \u2014 not a direct confrontation, but a low-stakes opening. Something like: 'Hey, you've been quiet this week. You doing anything interesting after work?' Let him lead. If he mentions EV certs, engage. If he deflects, back off and note that he deflected.. Savings grew by $249. "
     }
   ]
 }

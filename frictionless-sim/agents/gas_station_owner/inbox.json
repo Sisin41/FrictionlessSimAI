@@ -1,17 +1,25 @@
 {
-  "tick": 2,
+  "tick": 3,
   "messages": [
     {
-      "type": "AMBIENT",
-      "content": "Ongoing: RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
+      "type": "CAPABILITY_FACT",
+      "content": "RoboRide launches autonomous ride-share service in Millfield. Price: $0.18 per mile. Average wait time: 15 minutes. Coverage: main roads and commercial areas."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 81 (baseline: 100)."
+      "content": "Local unemployment rising. Employment rate: 93%."
+    },
+    {
+      "type": "MARKET_DATA",
+      "content": "Consumer spending down. Spending index: 76 (baseline: 100)."
+    },
+    {
+      "type": "SECTOR_DATA",
+      "content": "Auto sector revenue index: 89 (baseline: 100). Foot traffic and sales are somewhat down."
     },
     {
       "type": "OUTCOME",
-      "content": "You Research RoboRide's actual Phase 2 deployment model. Call the Millfield Chamber of Commerce, search news archives, find out if any other Phase 2 cities have published impact data on independent fuel retailers. Specifically: are these electric vehicles, hybrid, or mixed fleet? What is their daily fueling or charging behavior? Do they use commercial fuel accounts?. Savings grew by $910. "
+      "content": "You Apply for Maria Chen's $5,000 small business stabilization grant. Fill out the full application this week. Frame it around the AV corridor impact on Auto Row-adjacent fuel retailers \u2014 which is exactly what the data supports. Do not over-dramatize. Do not under-state. Present the Phase 2 impact data from other cities as evidence. Have Priya review it before submission.. Savings grew by $665. "
     }
   ]
 }

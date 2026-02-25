@@ -1,13 +1,21 @@
 {
-  "tick": 2,
+  "tick": 3,
   "messages": [
     {
-      "type": "AMBIENT",
-      "content": "Ongoing: RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
+      "type": "RUMOR",
+      "content": "People are saying: RoboRide launches autonomous ride-share service in Millfield. Price: very cheap per mile. Average wait ti. (You're not sure of the exact details.)"
+    },
+    {
+      "type": "SECTOR_DATA",
+      "content": "Auto loan applications down. Lending volume index: 89."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Business closing: Kevin O'Brien \u2014 contact the mortgage department this week \u2014 not via email, in person \u2014 and ask to observe a closing. specifically target the next scheduled closing within 10 business days. kevin's enrollment gives him standing to request this. if the branch mortgage officer has a closing this week, ask to sit in as an enrolled trainee. log the shadow observation with the nmls course coordinator as a required practicum hour. this closes the gap in the 30-day milestone: modules 1-4 plus two live shadows. one shadow completed by end of tick 2 gets the milestone back on track."
     },
     {
       "type": "OUTCOME",
-      "content": "You Send a carefully worded memo to Regional VP Sandra Okafor flagging the RoboRide Phase 2 rumor as an unconfirmed market signal with potential implications for the branch's auto loan portfolio. Frame it as a proactive risk flag, not a crisis. Request a 30-minute call to discuss whether other branches in the region are seeing similar signals. Attach a brief one-page scenario sketch showing what a 15% and 30% decline in auto loan origination volume would mean for branch P&L over 12 months.. Savings grew by $1,269. "
+      "content": "You Send a follow-up communication to Sandra Okafor \u2014 not another memo, but a direct request for a 20-minute call this week. Reference the Maria Santos public statement and the RoboRide Phase 2 confirmation as the reason for urgency. Attach an updated scenario model with a third scenario added: 50% decline in auto loan origination over 18 months, reflecting a more aggressive adoption curve. Make clear I am ready to present a branch-level response plan if she wants one. Frame it as seeking alignment, not asking permission.. Savings grew by $937. "
     }
   ]
 }

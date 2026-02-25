@@ -1,17 +1,13 @@
 {
-  "tick": 2,
+  "tick": 3,
   "messages": [
-    {
-      "type": "AMBIENT",
-      "content": "Ongoing: RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
-    },
     {
       "type": "SECTOR_DATA",
       "content": "Robotaxi adoption: 3%. "
     },
     {
       "type": "OUTCOME",
-      "content": "You Drive peak hours only \u2014 Friday evening, Saturday morning airport surge, and one weekday evening block. Skip low-yield midday slots to preserve energy for clinical hours.. Savings grew by $206. "
+      "content": "You routine. Savings grew by $206. "
     }
   ]
 }

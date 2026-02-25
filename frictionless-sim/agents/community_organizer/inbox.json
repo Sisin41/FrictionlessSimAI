@@ -1,57 +1,65 @@
 {
-  "tick": 2,
+  "tick": 3,
   "messages": [
     {
-      "type": "AMBIENT",
-      "content": "Ongoing: RoboRide Inc announces expansion to 50 new cities. Millfield is listed for Phase 2 deployment, expected in 2 months."
+      "type": "CAPABILITY_FACT",
+      "content": "RoboRide launches autonomous ride-share service in Millfield. Price: $0.18 per mile. Average wait time: 15 minutes. Coverage: main roads and commercial areas."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 81 (baseline: 100)."
+      "content": "Local unemployment rising. Employment rate: 93%."
+    },
+    {
+      "type": "MARKET_DATA",
+      "content": "Consumer spending down. Spending index: 76 (baseline: 100)."
     },
     {
       "type": "NEWS",
-      "content": "Business closing: David Chen \u2014 call patricia osei (ceo of millfield chamber \u2014 if she's in the simulation, the likely proxy for local business intelligence) and rick hernandez (dealership gm) \u2014 not to reveal the rumor, but to have routine check-in conversations that let me gauge whether they're hearing anything. ask open questions about foot traffic, consumer sentiment, financing inquiries. listen more than i talk. do not disclose the roboride rumor directly \u2014 i only have unconfirmed information and tipping them prematurely could cause unnecessary panic or give them information i'm not authorized to share."
+      "content": "Business closing: Patricia Hawkins \u2014 request a private, off-calendar meeting with angela wright \u2014 not in her office, not at hq. invite her to lunch at a location off auto row. the agenda is not 'i know you're talking to an attorney.' the agenda is: i want her to tell me, in her own words, what she is seeing in the organization and what she thinks we should be doing. give her the conversational opening to be honest about her own position without forcing her to disclose. make clear that her role in a restructuring scenario \u2014 if there is one \u2014 is not to be eliminated, it is to be the architect of it. offer to discuss formalizing her participation in the strategic planning process with a defined retention agreement: 90-day stay bonus of $12,000, contingent on her leading the workforce transition plan, whatever form that takes."
     },
     {
       "type": "NEWS",
-      "content": "Business closing: Rick Tanner \u2014 run the floor as normal. full sales meeting monday morning, standard metrics review, no signals of distress to the team. watch tamika jefferson's behavior closely \u2014 observe without confronting. she may be responding to something she's heard or just tightening her own household. note it."
+      "content": "Business closing: Patricia Hawkins \u2014 convene a closed-door session with rick tanner and the two other gms \u2014 not the broad all-hands, but the four people who run the floors. the agenda is one question: if new vehicle sales decline 40% over the next 18 months, what does a solvent, smaller version of regional auto group look like? i am not asking them to plan for closure. i am asking them to help me plan for a company that is half its current size but still viable. assign each gm to bring a single-page response next week: which of their current operations survive that scenario, and what would need to change. i will share the service audit results when they are complete. this meeting is not a decision \u2014 it is a pressure test."
     },
     {
       "type": "NEWS",
-      "content": "Business closing: Angela Wright \u2014 use her existing access deliberately. she processes paperwork \u2014 she sees the organizational map before anyone announces it. pay close attention over the next two weeks to: which departments are being asked to document processes 'for continuity,' whether benefits administration queries are being rerouted, and whether senior leadership is having conversations with outside hr consultants or peo vendors. these are the specific signals that precede an hr function restructure. she will know before she's told. she should make sure she sees it."
+      "content": "Business closing: Rick Tanner \u2014 pull angela wright into a private conversation before she escalates her attorney situation further. don't address what i know \u2014 i can't, because the way i know it exposes how closely i've been watching. instead: tell her i'm thinking about how to protect the team heading into a volatile period, ask her what she would need to feel secure in her role over the next six months, and listen. the goal is not to stop her from leaving. the goal is to slow the signal she's sending to the rest of the floor. an hr director quietly consulting an attorney has a gravitational effect \u2014 people notice when the person who knows how severance works starts acting like she needs to know how severance works."
     },
     {
       "type": "NEWS",
-      "content": "Business closing: Carlos Ruiz \u2014 after the meeting \u2014 tonight, at the kitchen table, after the kids are in bed \u2014 open the browser tab again. this time don't close it. look specifically at ev and hybrid certification programs: what they cost, how long they take, whether his existing ase certifications carry over, and whether any shops in a 40-mile radius are already hiring for ev-specific work."
+      "content": "Business closing: Rick Tanner \u2014 run the floor at full intensity for the next 30 days. personally take the floor two afternoons per week \u2014 rick tanner on the lot, talking to customers, not just managing from the office. pipeline review every monday. push the team on closures before roboride launches, because the window of 'normal buying behavior' is closing and i know it even if the team doesn't. every deal we close in the next 30 days is a deal we close before uncertainty kills foot traffic."
     },
     {
       "type": "NEWS",
-      "content": "Business closing: Betty Kowalski \u2014 spend extended time on the floor during lunch service actively listening to what the auto row workers know and believe about the roboride timeline, the phase 2 rollout, and what the bosses are saying. ask careful, genuine questions \u2014 not as market research but as a neighbor who wants to understand. record notes in the back after close."
+      "content": "Business closing: Tamika Jefferson \u2014 keep performing at the dealership without visible signal of exit planning. close cars. show up on time. be pleasant to rick. do not discuss job searches, freelance work, or maria's town hall at work. the $4,200/month income is still funding the bridge-build \u2014 every week i keep it is another week i can afford to take the right first client instead of any client. the exit is not this tick. the exit is when freelance income hits $2,000/month or when the dealership makes the first involuntary move \u2014 whichever comes first."
     },
     {
       "type": "NEWS",
-      "content": "Business closing: Betty Kowalski \u2014 after close tonight, sit down with the ledger and draft two versions of a budget: one where lunch traffic drops 30%, one where it drops 60%. calculate the break-even point. identify which costs are fixed and which are variable. do not share this with anyone yet \u2014 this is private, internal triage."
+      "content": "Business closing: Tom Bradley \u2014 do not call any more cancelled clients this tick. the data from last tick is clear: they did not come back. calling them again would be spending time to confirm what i already know. let that chapter close."
     },
     {
       "type": "NEWS",
-      "content": "Business closing: James Patterson \u2014 list 2021 honda accord for private sale immediately at $19,400 on facebook marketplace and craigslist. price is set slightly above kbb private party to leave negotiation room. target close within 3-4 weeks, before roboride launch softens used car demand."
+      "content": "Business closing: Kevin O'Brien \u2014 contact the mortgage department this week \u2014 not via email, in person \u2014 and ask to observe a closing. specifically target the next scheduled closing within 10 business days. kevin's enrollment gives him standing to request this. if the branch mortgage officer has a closing this week, ask to sit in as an enrolled trainee. log the shadow observation with the nmls course coordinator as a required practicum hour. this closes the gap in the 30-day milestone: modules 1-4 plus two live shadows. one shadow completed by end of tick 2 gets the milestone back on track."
     },
     {
       "type": "NEWS",
-      "content": "Business closing: Howard Liu \u2014 pay closer attention to what mechanic customers say when they come in \u2014 specifically anything about changes at the fleet management company or shifts in how commercial vehicle maintenance is being handled locally. don't ask directly; just listen. if the patricia hawkins rumor is about anything that affects how local mechanics get work, i want to understand it before it affects my orders."
+      "content": "Business closing: Betty Kowalski \u2014 apply for maria santos's $5,000 small business stabilization grant. fill out the paperwork this week. the qualification criteria are met. the money is not for spending \u2014 it is for extending runway if the 60% drop scenario materializes. a $5,000 cushion converts a 6.4-month runway into something closer to 7.5 months at 60% revenue loss. that is the difference between having time to adapt and not having time."
     },
     {
       "type": "NEWS",
-      "content": "Policy proposal: Maria Santos \u2014 issue a formal public statement as council member maria santos \u2014 not a press release drafted by committee, but a direct, plain-language statement posted to the town website and shared with local media. the statement names roboride, names the two-month timeline, names the spending index decline, and says plainly: 'this is real, it is coming, and the council is already working on a response.' it explicitly invites auto row workers, transportation employees, and affected business owners to a public input session before the emergency council vote. it does not say 'everything will be fine.' it says 'you will not be left to face this alone.'"
+      "content": "Business closing: James Patterson \u2014 actively manage the accord sale: respond to all inquiries within 2 hours, schedule in-person test drives for the two serious buyers this week, and be prepared to accept $18,800 \u2014 a $600 negotiation concession \u2014 if it closes the deal before end of week. do not let the listing stall past day 21. time is the real cost here, not the $600."
     },
     {
       "type": "NEWS",
-      "content": "Noticeable trend: 2 people sold or stopped using their cars this month."
+      "content": "Community action: David Chen \u2014 begin a quiet, procedurally sound tightening of new auto loan origination criteria at the margin. specifically: raise the minimum credit score threshold for new unsecured auto loans by 10 points, shorten maximum loan terms from 72 months to 60 months on vehicles older than 3 years, and flag any new dealer floor plan renewal requests for enhanced review before approval. do not announce this as a policy change \u2014 frame it internally as 'refreshed underwriting guidelines' consistent with the bank's general credit quality standards. document the rationale as standard risk cycle management, not roboride-specific."
+    },
+    {
+      "type": "NEWS",
+      "content": "Policy proposal: Maria Santos \u2014 after the council vote, issue a second public statement \u2014 this one specific and concrete. name the programs, name the dollar amounts, name the roboride license requirement, name the task force. include the application link for the small business stabilization grant and the enrollment contact for the community college retraining track. post to the town website, send to local media, and ask patricia hawkins and betty kowalski personally to share it in their networks. one sentence at the end reads: 'millfield is not waiting to be disrupted. we are governing through it.'"
     },
     {
       "type": "OUTCOME",
-      "content": "You Contact Maria Santos directly before the emergency council session \u2014 not to lobby, but to offer: real intake data from the drop-in hours, anecdotal testimony I can organize, and my center as a potential node in any council-coordinated response infrastructure. Position the community center as operational support for whatever the council decides, not a supplicant. Ask what she needs from me to make the session productive.. Savings grew by $362. "
+      "content": "You Compile and deliver anonymized intake data report to Maria Santos as requested. Report covers Community Connection Night attendees (Tuesdays/Thursdays): aggregate demographics, employment status categories, named stressors cited, services requested, and referral needs. Framed explicitly as evidence for the council vote. Delivered in writing within 48 hours \u2014 not at the end of the week, not after one more review pass. Within 48 hours.. Savings grew by $362. "
     }
   ]
 }
