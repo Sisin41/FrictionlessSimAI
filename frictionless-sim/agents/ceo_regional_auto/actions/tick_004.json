@@ -1,0 +1,95 @@
+{
+  "tick": 4,
+  "agent_id": "ceo_regional_auto",
+  "agent_name": "Patricia Hawkins",
+  "response": {
+    "internal_assessment": "I am optimizing at L2 (PARTICIPATE) bleeding into L5 (BUILD). L0 and L1 are fine — I have 26 months of runway and $432K in savings. But my monthly income-to-expense gap is real: I'm spending more than I earn as personal compensation, and the sector index at 89 tells me this won't get better on its own. My role security sits at 0.76 — that number is going to drift down if I don't actively build the case that I am steering this organization rather than watching it shrink. Angela's role being active is the most important structural lever I have right now. Carlos's ask is small money with outsized relationship and strategic stakes. The GM modeling response is a political signal — whoever writes the clearest-eyed single page wins trust when the hard decisions come.",
+
+    "inbox_interpretation": "The sector index at 89 is the most important number in my inbox. That is an 11-point drop from baseline and RoboRide is one month in. If this is a linear slide — even if it flattens — I need to know where we bottom. The OUTCOME message says I went routine last tick and lost $1,588. That deficit is real and structural: my personal monthly spend ($16,487) exceeds my income ($14,899) by nearly $1,600. I am dipping into savings every month at roughly that rate. Over 26 months that is manageable but it is NOT sustainable if my dealership salary erodes. RoboRide at $0.18/mile is not just a competitor — it is a psychological anchor in this town. Every person who takes one ride starts mentally recalculating what a car costs them. That affects showroom traffic in a way that takes 6-18 months to fully materialize. I am in the leading edge of that wave right now. The inbox is quiet on Angela and Carlos — those are action items from prior ticks that live in my memory, not confirmed inbox events. I treat them as actionable.",
+
+    "chosen_actions": [
+      {
+        "type": "COMMITMENT",
+        "description": "Issue Angela Wright her first formal deliverable as Director of Org Transition: a 30-day workforce vulnerability map. Every role at every location, categorized by three tiers — EV/AV-exposed (could be eliminated if service volume drops and we do not upskill), transition-ready (can be retrained or redeployed), and anchored (customer-facing or management roles with defensible value in any future model). This is not a layoff list. This is intelligence. I frame it to her exactly that way. I also confirm the $12,000 stay bonus is active and the clock is running.",
+        "target_agent": "hr_director",
+        "resources": {
+          "type": "labor",
+          "direction": "receive",
+          "amount": 0,
+          "detail": "Angela Wright begins workforce vulnerability mapping across all four locations — 30-day deliverable. No new cash outlay this tick; $12K bonus commitment was established tick 2."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Angela accepted the role. An active role without a first deliverable is theater. I need to convert her agreement into actual organizational intelligence before the 90-day clock burns. A workforce vulnerability map is the logical first product — it gives me the data I need to decide what a 40%-smaller company actually looks like in terms of people, not just revenue. It also keeps Angela's attention focused inward on the organization rather than outward toward whatever external opportunities she was exploring before I made the offer."
+      },
+      {
+        "type": "TRANSFER",
+        "description": "Approve Carlos Ruiz's EVT Level 2 certification request. Cut the check for $1,400 today. Tell him: yes, we are preparing for EV service. Do not overqualify it. Do not make it a speech about the future. Just say: this matters, you matter, do it. Let him schedule the 60-hour training on a timeline that works with shop coverage.",
+        "target_agent": "mechanic_carlos",
+        "resources": {
+          "type": "currency",
+          "direction": "give",
+          "amount": 1400,
+          "detail": "Training reimbursement for EVT Level 2 EV certification course. $1,400 direct payment covering course fees."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 1400,
+          "savings_change": -1400,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Carlos walked to my office at 8am. That is not a casual inquiry — that is a man who wants to know whether his future is here. Saying no to $1,400 in training sends a signal worth ten times that amount in negative trust. He is my most skilled mechanic. If EV service becomes a survival line for this dealership group — which it very possibly will as ICE service volume drops with RoboRide adoption — Carlos certified is an asset. Carlos uncertified and shopping his resume is a loss I cannot absorb. The cost is trivial. The retention and strategic signal value is not."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Write my single-page GM response to the 40%-smaller modeling exercise. The page has three sections: (1) which of our four locations has the most defensible service lane revenue relative to new car sales — my analysis is that service revenue is stickier than sales in a rideshare environment, (2) which location has the highest exposure to RoboRide-adjacent demographics — likely the location nearest transit corridors and younger residential zones, and (3) a clear-eyed recommendation: if we consolidate, we consolidate around service capacity and certified technicians, not around showroom square footage. Submit this to Rick Tanner and the GM group before end of week. Do not soften it.",
+        "target_agent": "dealership_gm",
+        "resources": {
+          "type": "reputation",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Single-page strategic response to 40%-smaller modeling scenario, delivered to GM group. Positions Patricia as the clearest strategic voice in the room."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The GM who writes the vaguest page loses. The GM who writes the most frightened page loses too. I need to write the page that shows I have already done the analysis and am not waiting for permission to think hard. My trust with Rick Tanner is 0.77 — the highest in my network. If he is also wrestling with the same modeling, my clarity gives him something to anchor to. This is also self-protective: if consolidation decisions come and I have not staked out a clear analytical position, I become a passive object of someone else's plan rather than a shaper of it."
+      },
+      {
+        "type": "INACTION",
+        "description": "No changes to staffing, compensation, or physical locations this tick. The sector index at 89 is concerning but not yet at a threshold that justifies structural moves. I watch for another month of data before making any irreversible call. I note the monthly savings deficit (~$1,588/month) and accept it as the current cost of stability — I have 26 months of runway, and burning a few thousand in savings this month is far less costly than a premature restructuring that destroys morale and accelerates departures.",
+        "target_agent": null,
+        "resources": {
+          "type": "currency",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Watchful holding pattern. No structural changes."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "2008 taught me that the people who moved fastest were not always the people who moved smartest. I have runway. Angela is now generating intelligence. One more month of sector data will tell me whether 89 is a floor or a slope. Premature action at L5 (BUILD) when L0 and L1 are stable is a bias trap. I resist it."
+      }
+    ],
+
+    "emotional_state": "determined",
+
+    "archetype_self_assessment": "builder",
+
+    "inner_monologue": "Carlos standing at my door at 8am — that is the organization asking me a question. The answer to that question is $1,400 and a yes. Angela has her assignment now. The GM page is going to be uncomfortable to write but the discomfort is the point — if I flinch in the writing, I will flinch in the room. The sector index at 89 is not a crisis. It is a countdown. I know countdowns. I have been through enough of them to know that the people who survive them are the ones who spent the quiet months building the thing they would need when the noise got loud."
+  }
+}

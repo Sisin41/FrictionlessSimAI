@@ -1,33 +1,17 @@
 {
-  "tick": 3,
+  "tick": 4,
   "messages": [
     {
-      "type": "RUMOR",
-      "content": "People are saying: RoboRide launches autonomous ride-share service in Millfield. Price: very cheap per mile. Average wait ti. (You're not sure of the exact details.)"
+      "type": "AMBIENT",
+      "content": "Ongoing: RoboRide launches autonomous ride-share service in Millfield. Price: $0.18 per mile. Average wait time: 15 minutes. Cove"
     },
     {
       "type": "SECTOR_DATA",
       "content": "Auto sector revenue index: 89 (baseline: 100). Foot traffic and sales are somewhat down."
     },
     {
-      "type": "DIRECT_IMPACT",
-      "content": "Business closing: Patricia Hawkins \u2014 request a private, off-calendar meeting with angela wright \u2014 not in her office, not at hq. invite her to lunch at a location off auto row. the agenda is not 'i know you're talking to an attorney.' the agenda is: i want her to tell me, in her own words, what she is seeing in the organization and what she thinks we should be doing. give her the conversational opening to be honest about her own position without forcing her to disclose. make clear that her role in a restructuring scenario \u2014 if there is one \u2014 is not to be eliminated, it is to be the architect of it. offer to discuss formalizing her participation in the strategic planning process with a defined retention agreement: 90-day stay bonus of $12,000, contingent on her leading the workforce transition plan, whatever form that takes."
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "Business closing: Patricia Hawkins \u2014 convene a closed-door session with rick tanner and the two other gms \u2014 not the broad all-hands, but the four people who run the floors. the agenda is one question: if new vehicle sales decline 40% over the next 18 months, what does a solvent, smaller version of regional auto group look like? i am not asking them to plan for closure. i am asking them to help me plan for a company that is half its current size but still viable. assign each gm to bring a single-page response next week: which of their current operations survive that scenario, and what would need to change. i will share the service audit results when they are complete. this meeting is not a decision \u2014 it is a pressure test."
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "Business closing: Tamika Jefferson \u2014 keep performing at the dealership without visible signal of exit planning. close cars. show up on time. be pleasant to rick. do not discuss job searches, freelance work, or maria's town hall at work. the $4,200/month income is still funding the bridge-build \u2014 every week i keep it is another week i can afford to take the right first client instead of any client. the exit is not this tick. the exit is when freelance income hits $2,000/month or when the dealership makes the first involuntary move \u2014 whichever comes first."
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "Business closing: Kevin O'Brien \u2014 contact the mortgage department this week \u2014 not via email, in person \u2014 and ask to observe a closing. specifically target the next scheduled closing within 10 business days. kevin's enrollment gives him standing to request this. if the branch mortgage officer has a closing this week, ask to sit in as an enrolled trainee. log the shadow observation with the nmls course coordinator as a required practicum hour. this closes the gap in the 30-day milestone: modules 1-4 plus two live shadows. one shadow completed by end of tick 2 gets the milestone back on track."
-    },
-    {
       "type": "OUTCOME",
-      "content": "You Request a private, one-on-one sit-down with Patricia Hawkins \u2014 not a phone call, an in-person meeting. Frame it as a GM operational briefing: floor plan financing concerns, staffing continuity, Q2 inventory strategy. But the real agenda is to get her to tell me, without a room full of people watching, what the actual plan is for this store. Is Regional Auto Group holding Millfield? Is there a timeline I need to know? I have 4 dependents and I am not going to manage this floor blind for another tick.. Savings grew by $799. "
+      "content": "You routine. Savings grew by $236. "
     }
   ]
 }

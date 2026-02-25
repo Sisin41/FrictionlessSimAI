@@ -1,57 +1,9 @@
 {
-  "tick": 3,
+  "tick": 4,
   "messages": [
     {
-      "type": "CAPABILITY_FACT",
-      "content": "RoboRide launches autonomous ride-share service in Millfield. Price: $0.18 per mile. Average wait time: 15 minutes. Coverage: main roads and commercial areas."
-    },
-    {
-      "type": "NEWS",
-      "content": "Business closing: Patricia Hawkins \u2014 request a private, off-calendar meeting with angela wright \u2014 not in her office, not at hq. invite her to lunch at a location off auto row. the agenda is not 'i know you're talking to an attorney.' the agenda is: i want her to tell me, in her own words, what she is seeing in the organization and what she thinks we should be doing. give her the conversational opening to be honest about her own position without forcing her to disclose. make clear that her role in a restructuring scenario \u2014 if there is one \u2014 is not to be eliminated, it is to be the architect of it. offer to discuss formalizing her participation in the strategic planning process with a defined retention agreement: 90-day stay bonus of $12,000, contingent on her leading the workforce transition plan, whatever form that takes."
-    },
-    {
-      "type": "NEWS",
-      "content": "Business closing: Patricia Hawkins \u2014 convene a closed-door session with rick tanner and the two other gms \u2014 not the broad all-hands, but the four people who run the floors. the agenda is one question: if new vehicle sales decline 40% over the next 18 months, what does a solvent, smaller version of regional auto group look like? i am not asking them to plan for closure. i am asking them to help me plan for a company that is half its current size but still viable. assign each gm to bring a single-page response next week: which of their current operations survive that scenario, and what would need to change. i will share the service audit results when they are complete. this meeting is not a decision \u2014 it is a pressure test."
-    },
-    {
-      "type": "NEWS",
-      "content": "Business closing: Rick Tanner \u2014 pull angela wright into a private conversation before she escalates her attorney situation further. don't address what i know \u2014 i can't, because the way i know it exposes how closely i've been watching. instead: tell her i'm thinking about how to protect the team heading into a volatile period, ask her what she would need to feel secure in her role over the next six months, and listen. the goal is not to stop her from leaving. the goal is to slow the signal she's sending to the rest of the floor. an hr director quietly consulting an attorney has a gravitational effect \u2014 people notice when the person who knows how severance works starts acting like she needs to know how severance works."
-    },
-    {
-      "type": "NEWS",
-      "content": "Business closing: Rick Tanner \u2014 run the floor at full intensity for the next 30 days. personally take the floor two afternoons per week \u2014 rick tanner on the lot, talking to customers, not just managing from the office. pipeline review every monday. push the team on closures before roboride launches, because the window of 'normal buying behavior' is closing and i know it even if the team doesn't. every deal we close in the next 30 days is a deal we close before uncertainty kills foot traffic."
-    },
-    {
-      "type": "NEWS",
-      "content": "Business closing: Tamika Jefferson \u2014 keep performing at the dealership without visible signal of exit planning. close cars. show up on time. be pleasant to rick. do not discuss job searches, freelance work, or maria's town hall at work. the $4,200/month income is still funding the bridge-build \u2014 every week i keep it is another week i can afford to take the right first client instead of any client. the exit is not this tick. the exit is when freelance income hits $2,000/month or when the dealership makes the first involuntary move \u2014 whichever comes first."
-    },
-    {
-      "type": "NEWS",
-      "content": "Business closing: Tom Bradley \u2014 do not call any more cancelled clients this tick. the data from last tick is clear: they did not come back. calling them again would be spending time to confirm what i already know. let that chapter close."
-    },
-    {
-      "type": "NEWS",
-      "content": "Business closing: Kevin O'Brien \u2014 contact the mortgage department this week \u2014 not via email, in person \u2014 and ask to observe a closing. specifically target the next scheduled closing within 10 business days. kevin's enrollment gives him standing to request this. if the branch mortgage officer has a closing this week, ask to sit in as an enrolled trainee. log the shadow observation with the nmls course coordinator as a required practicum hour. this closes the gap in the 30-day milestone: modules 1-4 plus two live shadows. one shadow completed by end of tick 2 gets the milestone back on track."
-    },
-    {
-      "type": "NEWS",
-      "content": "Business closing: Betty Kowalski \u2014 apply for maria santos's $5,000 small business stabilization grant. fill out the paperwork this week. the qualification criteria are met. the money is not for spending \u2014 it is for extending runway if the 60% drop scenario materializes. a $5,000 cushion converts a 6.4-month runway into something closer to 7.5 months at 60% revenue loss. that is the difference between having time to adapt and not having time."
-    },
-    {
-      "type": "NEWS",
-      "content": "Business closing: James Patterson \u2014 actively manage the accord sale: respond to all inquiries within 2 hours, schedule in-person test drives for the two serious buyers this week, and be prepared to accept $18,800 \u2014 a $600 negotiation concession \u2014 if it closes the deal before end of week. do not let the listing stall past day 21. time is the real cost here, not the $600."
-    },
-    {
-      "type": "NEWS",
-      "content": "Community action: David Chen \u2014 begin a quiet, procedurally sound tightening of new auto loan origination criteria at the margin. specifically: raise the minimum credit score threshold for new unsecured auto loans by 10 points, shorten maximum loan terms from 72 months to 60 months on vehicles older than 3 years, and flag any new dealer floor plan renewal requests for enhanced review before approval. do not announce this as a policy change \u2014 frame it internally as 'refreshed underwriting guidelines' consistent with the bank's general credit quality standards. document the rationale as standard risk cycle management, not roboride-specific."
-    },
-    {
-      "type": "NEWS",
-      "content": "Policy proposal: Maria Santos \u2014 after the council vote, issue a second public statement \u2014 this one specific and concrete. name the programs, name the dollar amounts, name the roboride license requirement, name the task force. include the application link for the small business stabilization grant and the enrollment contact for the community college retraining track. post to the town website, send to local media, and ask patricia hawkins and betty kowalski personally to share it in their networks. one sentence at the end reads: 'millfield is not waiting to be disrupted. we are governing through it.'"
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that David Chen is making some kind of change \u2014 something about Send a follow-up communication to Sandra Okafor \u2014 ..."
+      "type": "AMBIENT",
+      "content": "Ongoing: RoboRide launches autonomous ride-share service in Millfield. Price: $0.18 per mile. Average wait time: 15 minutes. Cove"
     },
     {
       "type": "OUTCOME",

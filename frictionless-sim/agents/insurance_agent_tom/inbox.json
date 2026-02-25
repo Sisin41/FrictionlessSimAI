@@ -1,21 +1,17 @@
 {
-  "tick": 3,
+  "tick": 4,
   "messages": [
     {
-      "type": "RUMOR",
-      "content": "People are saying: RoboRide launches autonomous ride-share service in Millfield. Price: very cheap per mile. Average wait ti. (You're not sure of the exact details.)"
+      "type": "AMBIENT",
+      "content": "Ongoing: RoboRide launches autonomous ride-share service in Millfield. Price: $0.18 per mile. Average wait time: 15 minutes. Cove"
     },
     {
       "type": "SECTOR_DATA",
       "content": "Active auto insurance policies in area: 25. "
     },
     {
-      "type": "DIRECT_IMPACT",
-      "content": "Business closing: James Patterson \u2014 actively manage the accord sale: respond to all inquiries within 2 hours, schedule in-person test drives for the two serious buyers this week, and be prepared to accept $18,800 \u2014 a $600 negotiation concession \u2014 if it closes the deal before end of week. do not let the listing stall past day 21. time is the real cost here, not the $600."
-    },
-    {
       "type": "OUTCOME",
-      "content": "You Attend Maria Santos's town hall to learn about the $2,500 retraining grants. Go not as someone seeking a grant \u2014 go as someone who wants to understand what's happening in the community and what options exist. Sit in the back. Take notes on paper, not on a phone. Do not raise your hand unless the question is purely informational.. Savings dropped by $508. "
+      "content": "You routine. Savings dropped by $1,288. "
     }
   ]
 }

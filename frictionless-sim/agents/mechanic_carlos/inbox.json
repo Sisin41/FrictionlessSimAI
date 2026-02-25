@@ -1,9 +1,9 @@
 {
-  "tick": 3,
+  "tick": 4,
   "messages": [
     {
-      "type": "CAPABILITY_FACT",
-      "content": "RoboRide launches autonomous ride-share service in Millfield. Price: $0.18 per mile. Average wait time: 15 minutes. Coverage: main roads and commercial areas."
+      "type": "AMBIENT",
+      "content": "Ongoing: RoboRide launches autonomous ride-share service in Millfield. Price: $0.18 per mile. Average wait time: 15 minutes. Cove"
     },
     {
       "type": "MARKET_DATA",
@@ -11,19 +11,15 @@
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 76 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 73 (baseline: 100)."
     },
     {
       "type": "SECTOR_DATA",
       "content": "Auto sector revenue index: 89 (baseline: 100). Foot traffic and sales are somewhat down."
     },
     {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about After the council vote, issue a second public stat..."
-    },
-    {
       "type": "OUTCOME",
-      "content": "You Spend 90 minutes actually reading the EV certification page that has been open in the browser. Not skimming. Reading. Map his existing ASE certifications against the prerequisites for EVT (Electric Vehicle Technician) Level 2 certification. Write down on paper what he already has and what the actual gap is \u2014 not what he fears the gap is. Identify cost, time commitment, and whether the program can be done while employed.. Savings grew by $193. "
+      "content": "You routine. Savings grew by $193. "
     }
   ]
 }

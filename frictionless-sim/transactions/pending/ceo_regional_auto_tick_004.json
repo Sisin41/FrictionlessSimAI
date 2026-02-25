@@ -1,0 +1,9 @@
+{
+  "from": "ceo_regional_auto",
+  "target": "mechanic_carlos",
+  "tick": 4,
+  "type": "TRANSFER",
+  "offer": "Patricia Hawkins approves Carlos Ruiz's EVT Level 2 EV certification request and cuts a $1,400 check to cover course fees. She tells him directly: yes, we are preparing for EV service, do it on a timeline that works with shop coverage.",
+  "resources": {"type": "currency", "amount": 1400},
+  "why_they_accept": "Carlos walked to the CEO's office himself asking exactly this question — he already wants to do this. The $1,400 removes the only barrier. The approval also answers his deeper question about whether Regional Auto Group is investing in an EV future, which affects his own decision about whether to stay or start looking."
+}

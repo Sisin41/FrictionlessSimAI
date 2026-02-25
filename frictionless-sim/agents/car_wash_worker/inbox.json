@@ -1,9 +1,9 @@
 {
-  "tick": 3,
+  "tick": 4,
   "messages": [
     {
-      "type": "CAPABILITY_FACT",
-      "content": "RoboRide launches autonomous ride-share service in Millfield. Price: $0.18 per mile. Average wait time: 15 minutes. Coverage: main roads and commercial areas."
+      "type": "AMBIENT",
+      "content": "Ongoing: RoboRide launches autonomous ride-share service in Millfield. Price: $0.18 per mile. Average wait time: 15 minutes. Cove"
     },
     {
       "type": "MARKET_DATA",
@@ -11,7 +11,7 @@
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 76 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 73 (baseline: 100)."
     },
     {
       "type": "SECTOR_DATA",

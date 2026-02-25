@@ -1,0 +1,109 @@
+{
+  "tick": 4,
+  "agent_id": "council_member",
+  "agent_name": "Maria Santos",
+  "response": {
+    "internal_assessment": "Optimizing L6_TRANSCEND / L4_SIGNAL — my purpose is community, and that purpose is currently being tested against silence. L0 through L3 are fine. Savings are growing, employment is stable for me personally, I have runway. The threat is not to my survival — it's to my effectiveness and legitimacy as a public servant. The programs exist on paper. I need to know if they exist in practice. The inbox is almost empty: no grant application numbers, no task force meeting report, no RoboRide compliance response, no word from Mark Thompson, no feedback from David Chen. That silence is itself information. Either the programs are running quietly and I haven't been looped in, or there are execution gaps that nobody is surfacing because nobody has been asked to surface them. Both possibilities require the same response: I go get the information myself. My political capital is tied to these programs producing visible results before the next council meeting.",
+    "inbox_interpretation": "The inbox this month is thin and that worries me more than bad news would. AMBIENT confirms RoboRide is still operating. MARKET_DATA shows employment at 93% and spending index at 73 — both still depressed from baseline, no meaningful recovery yet. That's expected at month 4 of a disruption, but it means the programs haven't had time to show results yet, and I can't afford for them to run slowly. My OUTCOME says 'routine, savings grew $791' — which tells me I did nothing consequential last tick. That's a problem. I authorized four major programs in tick 2. Tick 3 I went quiet. Tick 4 I still have no data on grant applications, no task force meeting agenda, no RoboRide compliance answer, no Mark Thompson meeting, no David Chen follow-through on the loan carve-out. I'm the one who pushed all this through. If I don't drive it, nobody will. The silence is on me.",
+    "chosen_actions": [
+      {
+        "type": "COMMITMENT",
+        "description": "Contact Nadia Osei, Robert Dunbar, and Priya Nair — the grant committee — to get a first report on small business grant applications. How many applications received? How many reviewed? Any approvals pending? Flag any patterns in who is applying and who isn't: if affected workers and businesses aren't finding the program, there's a marketing failure I need to fix immediately. Ask for a written summary by end of week.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "give",
+          "amount": 2,
+          "detail": "Two hours of outreach, phone calls, and follow-up email to grant committee members to establish a reporting cadence and get first-cycle application data"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I voted these programs into existence. I am accountable for whether they work. The grant committee is operating without oversight from me and I have zero visibility into whether any grants have been disbursed. At month 4 of a disruption, small businesses that needed this money two months ago may already have made survival decisions without it. I need the numbers now, not at the quarterly report."
+      },
+      {
+        "type": "COMMITMENT",
+        "description": "Convene the first formal Economic Transition Task Force meeting. Set the agenda: (1) Lisa Freeman presents any data on displaced worker patterns and sector-level employment impact; (2) Betty Kowalski reports from the small business side on foot traffic and revenue trends; (3) Carlos Ruiz speaks to what the auto worker community is experiencing on the ground; (4) Sandra Okafor brings the community organizing perspective on who is being left out of the programs. My role is to chair, listen, and identify gaps. Output: a short written summary of the first meeting that I can share publicly, demonstrating the task force is functional and not just a title.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "give",
+          "amount": 4,
+          "detail": "Four hours coordinating, chairing, and summarizing the first task force meeting — scheduling logistics plus two-hour meeting plus write-up"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The task force has a 90-day charter and monthly public reporting obligation that I pushed through. If the first meeting hasn't happened yet, I'm already behind. Getting Lisa Freeman's data in particular is critical — she's the one who can tell me whether the $150K retraining fund is being drawn down or sitting idle. Betty Kowalski at the diner gives me a ground-truth read on small business conditions that the committee paperwork won't show."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Follow up with RoboRide on the compliance check I sent last tick. The 48-hour response window has expired. I need to know: Did they respond? Are they in compliance with the municipal operating license conditions — specifically the $0.25 per ride impact fee and the quarterly employment impact reporting requirement? If they have not responded, I draft a formal notice of non-compliance and schedule a council briefing. If they have responded with compliance, I acknowledge it publicly. Either way, the company needs to see that the licensing conditions are being enforced, not just written.",
+        "target_agent": null,
+        "resources": {
+          "type": "political_capital",
+          "direction": "give",
+          "amount": 5,
+          "detail": "Political capital spent on enforcement follow-through — holding a corporation accountable in public view either strengthens my position or starts a fight I need to be ready for"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "An unenforced ordinance is worse than no ordinance at all. RoboRide is still operating per the AMBIENT message. If they haven't responded to my compliance check, that is a direct test of whether the council's authority means anything. My identity attachment is 0.7 — I am not someone who backs down from a fight I chose to start, especially one I took to a roll-call vote. The $0.25 per ride fee going into the workforce fund is real money that affected workers need. I have to make that fee real, not aspirational."
+      },
+      {
+        "type": "ASSOCIATION",
+        "description": "Meet with Mark Thompson, the auto shop teacher at the high school, to hear his proposal for aligning his program with the council's workforce retraining narrative. Listen first. Understand what resources or recognition he needs. If his vocational program can be credibly linked to the retraining grant criteria, that gives affected workers a local pathway and gives me a concrete community partnership to point to. Do not over-commit; this is a listening meeting. But show up.",
+        "target_agent": null,
+        "resources": {
+          "type": "service",
+          "direction": "both",
+          "amount": 1,
+          "detail": "One hour meeting — I give my time and political visibility; he potentially gives a workforce pipeline that makes the retraining program more credible and locally grounded"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Mark Thompson reached out to me. That means he sees an opportunity to connect his work to mine. A vocational auto-skills teacher who wants to partner with a council workforce fund is exactly the kind of local story that makes policy legible to residents — and makes it harder for anyone to argue the programs are just bureaucratic. The cost is one hour. The upside is a human face on the retraining program and a potential referral pipeline for grant applicants."
+      },
+      {
+        "type": "COMMITMENT",
+        "description": "Follow up with David Chen at First Community Bank on the loan carve-out for retraining program participants. I called him last tick; I need to know whether the bank will offer deferred repayment terms or reduced rates for workers who are actively enrolled in retraining and drawing on the grant. This is a gap in the program: $2,500 is not enough if someone has a car payment and rent. A bank partnership that buys them 90 days on existing debt while they retrain would make the program significantly more effective. Push for a concrete answer.",
+        "target_agent": "bank_manager",
+        "resources": {
+          "type": "reputation",
+          "direction": "give",
+          "amount": 3,
+          "detail": "Spending some political credibility to push for a financial institution partnership — if David says no, I've used up a favor; if he says yes, the program gains real teeth"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I called David last tick about this and have no answer yet. The gap between a $2,500 retraining grant and a worker's actual financial pressure during a transition period is real. If First Community Bank will not partner on a carve-out, I need to know that so I can look at other levers — a council resolution formally requesting bank cooperation, or going to the state credit union association. I cannot let this sit another tick. Workers who need retraining cannot afford to wait while I play phone tag."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "builder",
+    "inner_monologue": "I spent tick 2 fighting to get these programs authorized, and tick 3 I went quiet — probably needed the rest, but now I'm looking at a nearly blank inbox and no news on any of it, and that's on me. These programs don't run themselves. The grant committee isn't going to volunteer bad news. RoboRide isn't going to remind me the 48 hours is up. Nobody is going to call me to set up the task force meeting. I am the engine here, and if I coast, the momentum dies. Employment is at 93% and spending is at 73 — those numbers are going to get worse before they get better, and when they do, voters are going to ask what the council was doing. I need to have an answer that goes beyond 'we voted on some programs.' I need receipts."
+  }
+}
