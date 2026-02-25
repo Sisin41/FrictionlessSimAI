@@ -1,0 +1,28 @@
+{
+  "agent_id": "insurance_agent_priya",
+  "tick": 7,
+  "action_type": "multi_step",
+  "primary_action": "submit_retraining_grant_application",
+  "description": "Submit the $2,500 retraining grant application to Maria Santos's office today. Not this week. Today. This has been on my list since tick 2. I have flagged it twice in reflections as a specific failure of follow-through. I have the documentation: SQL course enrollment, Module 3 completion, the working query output I built on commercial fleet incident data. The threshold is now 10% on auto row — I do not know if that applies to workers directly or only to businesses, but I contact the office and ask. If I qualify, I submit. If the grant is business-only, I document that I asked and move on. Either way, I close this loop tonight. The money matters — $2,500 is more than a month of my income deficit — but the act of doing it matters more. I have been narrating a person who takes action. I need to be that person.",
+  "reasoning": "My tick 6 reflection was unambiguous: 'by tick 8 or 9 I should have: (1) the grant application submitted.' I am at tick 7. That window is now. Savings have dropped to roughly $13,981 and I am burning approximately $2,100 per month beyond my income. The retraining grant is the single most obvious, lowest-friction action available to me and I have deferred it twice. There is no good reason for that. I submit it this tick.",
+  "secondary_action": "request_status_update_from_linda",
+  "secondary_description": "Send Linda a brief professional note asking if she has heard back from corporate on the pivot memo. Not anxious, not pressuring. One sentence: 'Any update on the memo? Wanted to check before I make any decisions this month.' I need to know whether to treat a seat at the new table as possible or to start treating my departure as likely. My reflection said: if she has not heard back by tick 8, I begin treating departure as likely. I need the data point now so I can act correctly next tick.",
+  "tertiary_action": "check_david_chen_response_and_advance_module_4",
+  "tertiary_description": "Check whether David Chen responded to the outreach I sent last tick. If he did, confirm the 30-minute call and prepare two or three data points to bring — policy cancellation slope, personal-to-fleet liability shift numbers, RoboRide adoption curve relative to insurance uptake. If he has not responded, I note it and do not follow up yet — one tick is not enough time. Separately, complete at least one session of Module 4 this week. Window functions and subqueries. The course is a background process now, not the primary focus — but it cannot stall.",
+  "target_agent": "council_member",
+  "communication": {
+    "to": "Maria Santos's office, Millfield City Council",
+    "subject": "Retraining Grant Application — Priya Sharma, AutoShield Insurance",
+    "body": "My name is Priya Sharma. I am an auto insurance agent at AutoShield Insurance in Millfield. I am writing to apply for the workforce retraining grant and to confirm my eligibility given the 10% threshold adjustment for auto row businesses. I have been enrolled in an SQL and data visualization course since the beginning of this year. I have completed three modules including joins, aggregation, and data visualization. My goal is to transition into a data analyst or commercial fleet risk analytics role as personal auto insurance volume in Millfield continues to decline due to autonomous ride-share adoption. I can document: course enrollment, module completions, and a working query output on commercial fleet incident data. If additional materials are required, please let me know and I will provide them within 24 hours. I understand the grant amount is $2,500. Even if my employment situation does not meet the precise threshold language for individual workers, I am asking directly rather than assuming I do not qualify. Thank you for making this resource available.",
+    "tone": "professional, direct, no desperation signal"
+  },
+  "sql_course_update": "Module 4 in progress — window functions and subqueries. One session minimum this tick. Not the primary focus this tick, but not allowed to stall.",
+  "emotional_state": "Tight. Not panicked but the numbers are real and I have been soft-pedaling the urgency for two ticks in a row. The inbox is full of layoff news — Patricia Hawkins, Rick Tanner, people from the auto mall. The policy count is at 22. Spending index is at 42. Angela and Betty are listed as stressed. This is not abstract disruption anymore. This is the economy I work inside. I feel the difference between knowing things are bad and seeing the names of people having hard months. That makes me want to move faster, not freeze. Submitting the grant application is the thing I can do right now that is concrete, free, and overdue. I do it first.",
+  "financial_note": "Savings approximately $11,819 after tick 6 outcome (-$2,162). Monthly burn still exceeds income by roughly $2,100. Runway: approximately 5.6 months at current rate. The $2,500 grant would add more than a month of buffer if it comes through. That is not trivial at this stage.",
+  "savings_delta_estimate": -2100,
+  "hierarchy_notes": {
+    "L0_SURVIVE": "Runway at 5.6 months. Threat level rising. Grant application is a direct survival action.",
+    "L2_PARTICIPATE": "Linda status check is required to know whether to treat employment as stable or begin active transition. Deferring this question past tick 8 would be a mistake.",
+    "L5_BUILD": "Grant + David Chen network + SQL Module 4 are all building toward the next role. The preparation phase has been real. The movement phase begins this tick."
+  }
+}

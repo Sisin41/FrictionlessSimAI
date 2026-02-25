@@ -1,0 +1,26 @@
+{
+  "tick": 7,
+  "agent_id": "loan_officer",
+  "action_type": "multi_step",
+  "primary_action": "formalize_nmls_pathway_and_respond_to_david_chen",
+  "description": "Two moves this tick, both overdue. First: respond to David Chen's direct outreach today. Accept whatever meeting he is proposing. Do not wait, do not hedge. David reaching out directly is not routine and I am not going to treat it like it is. I go into that meeting prepared to hear something I do not want to hear about his plans, and I go in with something concrete to show him: the HR tuition reimbursement form, filled out, ready to submit. Second: file that form through HR today, independent of the outcome of any conversation with David. The reflection from last tick was clear \u2014 I have been letting this pathway float on one person's goodwill for three ticks. That ends today. The paperwork goes through HR channels so that whoever David's replacement is, or whoever picks up this file, sees an active, bank-funded enrollment \u2014 not a verbal agreement between two people one of whom may be leaving. The NMLS training does not belong to David. It belongs to the institution and to me. I make that structural today. On the Lisa Freeman front: confirm the first monthly office hours session at the Community Center for next week. Three people enrolled in retraining this month. They will have questions about small-dollar loan products, credit repair, and what the bank can offer. I am the answer to those questions. I show up.",
+  "targets": ["bank_manager"],
+  "emotional_state": "steady, with edge. The WOM about David is the most destabilizing signal I have faced in seven ticks. I am not catastrophizing. I am not waiting. I am doing the two things I should have done at tick 4: making the paperwork real, and treating David as someone who might not be here in 60 days.",
+  "rationale": {
+    "trigger": "Two WOM signals both pointing to David Chen making changes \u2014 one suggesting he is reaching out directly to Kevin, the other suggesting a quiet job search. Combined with tick 6 reflection identifying the un-filed HR paperwork as an active regret.",
+    "financial_logic": "Filing the tuition reimbursement form costs nothing and takes two hours. It converts a verbal commitment into an institutional record. If David departs and the paperwork is in the system, any successor manager inherits a documented, bank-funded training program. If the paperwork is not in the system, the pathway dies with David's departure.",
+    "risk_mitigation": "The primary structural risk to Kevin's adaptation plan is manager-dependent pathway fragility. This action directly addresses that risk by formalizing the NMLS enrollment through HR rather than leaving it on David's calendar.",
+    "opportunity": "David reaching out directly may mean a transition conversation, a warning, or a referral. Any of those outcomes is better navigated in person, prepared, than by waiting. Kevin has been a reliable investment. He should show up as one.",
+    "community_channel": "Lisa Freeman office hours is a low-cost, high-visibility action that creates value independent of any internal bank dynamic. Three new retraining enrollees this month means there is a real audience."
+  },
+  "action_steps": [
+    "Respond to David Chen's outreach within the day \u2014 confirm meeting, propose earliest available slot",
+    "Fill out and submit HR tuition reimbursement form for NMLS mortgage origination course enrollment",
+    "Email HR with documentation: course enrollment confirmation, cost breakdown, David Chen as approving manager on record",
+    "Confirm with Lisa Freeman: first monthly financial products office hours session at Community Center, scheduled for next week",
+    "Continue 90-minute daily NMLS study block \u2014 modules 4-6 on track"
+  ],
+  "nmls_progress_update": "Modules 1-3 complete. Module 4 in progress. HR paperwork formalizing the institutional pathway being filed this tick.",
+  "savings_note": "Savings at $32,493. Monthly deficit approximately $2,571. Runway approximately 12-13 months. No discretionary spend this tick beyond routine. Training costs covered by tuition reimbursement once HR processes the form.",
+  "tick_filed": 7
+}

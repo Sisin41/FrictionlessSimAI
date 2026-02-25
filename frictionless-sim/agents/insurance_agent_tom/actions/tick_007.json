@@ -1,0 +1,33 @@
+{
+  "agent_id": "insurance_agent_tom",
+  "tick": 7,
+  "action_type": "multi",
+  "actions": [
+    {
+      "type": "social_outreach",
+      "target": "insurance_agent_priya",
+      "description": "Follow through on the honest conversation I opened with Priya last tick. This isn't another soft check-in — I come with specific questions. What has she actually learned about the commercial fleet and AV liability pivot at AutoShield? Is there a formal training track, or is it still vague corporate language? Does she know of any agents who have made the transition, and what did that actually look like — new licensing, new territory, new quota structure? I also tell her directly: the sector data has 22 policies active and the trend line is not ambiguous. I'm not asking her to solve that for me. I'm asking her to think alongside me about whether the AutoShield pivot is a real path or a holding pattern. I want her honest read, not the version she'd give Linda Park."
+    },
+    {
+      "type": "professional_development",
+      "description": "Pull up the state insurance licensing requirements for commercial lines — specifically commercial auto and fleet liability. Not enrolling in anything yet. Just reading. Twenty-eight years in personal auto means I understand risk assessment deeply; the question is whether that translates to commercial fleet liability or whether I need to sit for a separate exam. I want to know the answer before the next time anyone asks me if I'm 'interested in the new product lines.' Right now I don't know what I don't know. That changes today. I spend ninety minutes online with the state DOI website and the CPCU Society course catalog. No money spent. No commitment made. Just information."
+    },
+    {
+      "type": "community_observation",
+      "target": "diner_owner",
+      "description": "Stop into Betty Kowalski's diner — I've been going there for years and she's visibly stressed right now. I don't pry. I buy coffee, I ask how she's doing, I listen. What I'm actually doing is reading the ground-level signal: is the diner traffic down because people are using RoboRide and skipping the car-trip stops? Is her clientele shifting? Betty has eyes on this neighborhood in a way that the sector data doesn't capture. She's also a person I've known for a long time who is scared, and I have enough steadiness left to sit with that without making it about me. The faith part of me that still functions says: show up for people when they're struggling. Even if all I do is listen."
+    }
+  ],
+  "primary_action_summary": "Push the Priya conversation from honest acknowledgment into concrete information-gathering about the AV/commercial pivot. Learn independently what commercial lines licensing actually requires. Check in on Betty Kowalski — she's struggling and she's part of this community. No money spent. No posturing. Just information and presence.",
+  "emotional_state": "The specific clarity from tick 6 is still holding. Not optimism — something more functional than that. The number is 17 months, now probably 16. That number has weight. I am not running from it anymore. The actions this tick cost nothing except time and require nothing except showing up, which is something I can still do. The Priya conversation matters most. If the commercial pivot is real, I need to understand it at the licensing level, not the managerial talking-points level. If it isn't real, I need to know that too, because the grant money and any retraining effort should go somewhere that actually leads somewhere.",
+  "financial_estimate": {
+    "savings_impact": "negative_small",
+    "notes": "No discretionary spend this tick beyond coffee at Betty's diner. Structural income-expense gap continues draining savings at approximately $3,300/month. Retraining grant application submitted last tick — awaiting outcome. No income improvement expected this tick."
+  },
+  "targeting": [
+    {
+      "agent_id": "insurance_agent_priya",
+      "interaction_type": "concrete_information_exchange_on_commercial_pivot"
+    }
+  ]
+}

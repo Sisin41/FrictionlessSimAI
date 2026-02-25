@@ -1,0 +1,46 @@
+{
+  "tick": 7,
+  "agent_id": "salesperson_tamika",
+  "agent_name": "Tamika Jefferson",
+  "response": {
+    "internal_assessment": "Savings dropped $1,173 last tick. I'm now around $6,866. That's roughly three months of runway if I do nothing, and less than two if the layoffs hit before the stay bonus vests. This is no longer a slow bleed — this is a real timeline. The consolidation is not coming. It happened. Patricia laid off workers this month. The asset map Rick is building is not academic anymore — it is the document that decides who stays and who is categorized out before the service-and-retention model goes live. I sent the HVAC agreement last tick. I haven't heard back yet or the outcome hasn't resolved in my favor — savings dropped, which means no income from freelance landed this tick. That means I pivot immediately to the restaurant lead. I do not wait to hear 'no' before I move. The two-track scenario modeling I planned last tick — I do it this tick, on paper, tonight. Three scenarios: collect the bonus and leave clean; position eliminated before the bonus vests; freelance ramps fast enough I leave voluntarily. Each one needs a different posture. The dual-track model is still correct but I am running out of ticks to execute on the freelance side. I also need to make sure Rick's asset map does not finalize without my name categorized correctly. Jake already had his one-on-one with Rick. I cannot let the map close with Jake as the visible salesperson and me as background noise.",
+    "chosen_actions": [
+      {
+        "type": "EXCHANGE",
+        "description": "Pivot immediately to the restaurant lead — do not wait for a definitive 'no' from the HVAC contractor. Send a targeted outreach to the restaurant owner: one specific observation about their social presence (they are not posting consistently on weekday lunches, which is their highest foot traffic window), one concrete deliverable offer (a four-week content calendar built around their actual menu and hours), and a low-friction entry price point of $300/month for a 60-day pilot, no minimum commitment. Frame it around the economic moment: auto row is tense, but lunch counters that stay visible online hold their regulars. I know this neighborhood and I know how to make content that converts. Get a decision within five business days. The goal is one signed agreement — HVAC or restaurant — before the end of this tick cycle.",
+        "target_agent": null,
+        "resources_involved": "Time: 2 hours to draft targeted outreach and pilot offer. No cash outlay. Potential income: +$300/month starting next tick if pilot converts.",
+        "reasoning": "I cannot let a second tick pass with zero freelance revenue while savings continue bleeding. The HVAC agreement was the right move last tick. If it did not close, the correct response is not to wait — it is to run the parallel track I already identified. The restaurant is warm. The pitch angle (lunch visibility, neighborhood context, low-friction pilot) is differentiated from the generic retainer I sent HVAC. A 60-day pilot with no minimum is an easier yes for a small business owner who is also watching the auto row collapse."
+      },
+      {
+        "type": "INTERNAL",
+        "description": "Execute the three-scenario financial model — on paper, tonight, not in my head. Scenario one: stay bonus qualifies in two months, freelance income hits $350/month by tick 9, I collect the $12,000 and exit cleanly with 8+ months runway. Scenario two: position eliminated before bonus vests — I need to know the exact savings floor where I can absorb that loss and still have 90 days to convert freelance into primary income. Scenario three: freelance ramps to $700+/month before the bonus matters, I make an informed voluntary exit decision rather than a reactive one. The output of this exercise is not a plan — it is three different behavioral postures, so I know which one I am operating in at any given moment. Right now I think I am in scenario one but I do not have the qualifying period confirmed yet, which means I might be in scenario two and not know it.",
+        "target_agent": null,
+        "resources_involved": "Time: 1.5 hours. Output: one handwritten page with three columns — trigger conditions, savings floor, required freelance income to cover. This is not a spreadsheet. It is a decision map.",
+        "reasoning": "The cognitive load of running two tracks with unresolved variables is degrading my execution. My stress reads at 0.17 but that number is probably normalcy bias — I am underweighting tail risk. Writing the scenarios forces me to actually price the downside of losing this job before the bonus vests. Loss aversion at 2.5x means that scenario should be weighted heavily in my posture. It has not been. I have been acting like the bonus is guaranteed. It is not. It is contingent on not being in a workforce reduction before the qualifying period closes."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Send a brief, professional note to Angela Wright — not asking again about the stay bonus timeline, but signaling continued commitment and surface-level visibility. The message: acknowledge that the transition support resources she is coordinating are real and valued, and confirm that I remain fully engaged on the floor. This is not a follow-up about the $12,000. It is a presence signal. Angela is actively cross-referencing layoff lists against transition program enrollment. I want my name associated with 'staying and contributing,' not 'flight risk or passive.' One short, professional message. No questions, no asks.",
+        "target_agent": "hr_director",
+        "resources_involved": "Time: 20 minutes. Social capital: low expenditure. Trust with Angela is 0.56 — this costs nothing to maintain and keeps the stay bonus flag active.",
+        "reasoning": "Angela is the one person who controls whether my name stays on the stay bonus list. Patricia's pivot to service-and-retention means HR is actively sorting who gets support and who gets transition paperwork. I do not need to be in Angela's active attention — I just need to not fall off her radar as a stable, present employee. One touch this tick is proportional. More than one is needy. Zero is invisible."
+      }
+    ],
+    "emotional_state": "controlled urgency — the situation is real and the clock is audible, but I'm not in panic, I'm in execution mode",
+    "archetype_self_assessment": "exiter — the pipeline exists, the bridge exists, I need one of them to produce revenue before the math catches up with me",
+    "inner_monologue": "The consolidation is not a rumor anymore. People I know are transitioning out of this building right now. The asset map Rick is writing is not a planning document — it is a list. I need to be on it as a person with transferable skills, not a person in the AV-exposed sales tier with no future. The freelance pivot is not a side project anymore. It is the exit. The stay bonus is the bridge. I have to close a client this tick or the bridge gets longer than the runway."
+  },
+  "economic_effects": {
+    "income_change": 0,
+    "savings_change": 0,
+    "spending_change": 0,
+    "employment_effect": "none",
+    "layoff_count": 0,
+    "hire_count": 0,
+    "new_business": false,
+    "business_closure": false,
+    "protest": false,
+    "policy_change": false
+  }
+}

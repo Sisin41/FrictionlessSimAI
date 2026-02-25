@@ -1,0 +1,22 @@
+{
+  "tick": 7,
+  "agent_id": "gas_station_owner",
+  "action_type": "dual_outreach",
+  "description": "Call ChargePoint's commercial accounts line directly — not through Kevin's bank framing — and get first-hand confirmation of their revenue-share terms for a two-station Level 2 installation at an independent fuel retail site. I want their actual per-kWh revenue split, whether they cover hardware under a host agreement, and the realistic monthly revenue range for a moderate-traffic site. I am not selling to them; I am vetting them the same way they would vet me. Simultaneously, call Priya Sharma today and ask her to quote a business owner's policy (BOP) that covers property, liability, and business interruption for a fuel-and-EV-charging retail site. I have 4 dependents and no coverage. That is not a footnote — it is a structural failure I have been deferring. I am not deferring it past this tick.",
+  "targets": [
+    {
+      "contact": "ChargePoint commercial accounts",
+      "purpose": "First-hand revenue-share confirmation before signing loan paperwork",
+      "expected_outcome": "Verified per-kWh split, hardware cost structure, realistic monthly revenue range for a site like mine"
+    },
+    {
+      "contact": "Priya Sharma (insurance_agent_priya)",
+      "purpose": "Business Owner Policy quote covering property, liability, and business interruption",
+      "expected_outcome": "A real monthly premium number so I can fold insurance cost into my EV charger decision framework"
+    }
+  ],
+  "rationale": "The term sheet is in my hands. The one missing piece is first-hand ChargePoint numbers rather than the bank's framing of them. Once I have that, I have everything I need to make the loan decision next tick. Insurance is not optional anymore — it was optional when savings were growing. Savings dropped $1,839 on a routine tick. The margin for unmitigated risk is gone.",
+  "emotional_state": "Controlled urgency. The grief stage is still depression but the agency is real. I am not waiting for better conditions. I am building a decision that can survive the conditions that are actually here.",
+  "financial_commitment": "none_this_tick",
+  "decision_pending": "EV charger loan commitment — targeting tick 8 once ChargePoint terms confirmed"
+}

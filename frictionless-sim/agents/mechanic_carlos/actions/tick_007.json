@@ -1,0 +1,31 @@
+{
+  "tick": 7,
+  "agent_id": "mechanic_carlos",
+  "action_type": "compound",
+  "primary_action": {
+    "type": "training_continuation",
+    "description": "Continue EVT Level 2 evening and weekend coursework — month three, focusing on charging infrastructure, onboard chargers, and inverter/motor controller diagnostics. The sector data is not improving. The robotaxis are visible on my street now. Every hour in that classroom is an hour toward a credential that will still matter when the dust settles. Show up after the shop closes. Do the reading. Take the practice tests seriously. This is month three of ten. Progress is real even when it doesn't feel like it.",
+    "target": "self",
+    "cost": 0,
+    "expected_outcome": "incremental_skill_gain",
+    "in_progress_transformation_update": {
+      "type": "retraining",
+      "progress_increment": 0.1,
+      "months_invested_increment": 1,
+      "notes": "Month three completed. Inverter diagnostics and charging systems. The coursework is getting harder and more directly applicable."
+    }
+  },
+  "secondary_action": {
+    "type": "social_outreach",
+    "description": "Send a short, low-key message to Angela Wright at the regional auto group. Not a job inquiry — not yet. Something honest: the sector numbers are rough, I've seen she's stressed, I wanted to check in as a neighbor who's watching the same disruption from a different seat. Mention that I'm in the middle of EVT Level 2 certification in case she hears of shops or groups looking for EV-certified technicians down the road. Plant the seed without the desperation. Trust with Angela is only 0.4 — this is a trust-building move, not a ask.",
+    "target": "hr_director",
+    "cost": 0,
+    "expected_outcome": "network_warm_contact",
+    "relationship_intent": "strengthen_low_trust_connection"
+  },
+  "financial_action": null,
+  "rationale": "The sector is contracting — auto revenue at 79, employment at 73%, consumer spending at 42. These numbers are moving in one direction. My role security is still 0.77 but that number was set in a different environment. The reflection from last tick was explicit: if security drops below 0.6, start networking outward. I am not waiting for 0.59. The right move is to begin warm contact now, before I need something. Angela Wright is stressed — I know this from the neighborhood. A human check-in costs me nothing and keeps a door from closing before I need it open. Meanwhile the training continues. It has to. Month three is not the time to ease up.",
+  "emotional_state": "Steady. Not calm exactly — there is too much bad news for calm. But steady. The sector data is doing what I expected it to do. The certification is doing what I hoped it would do. The right move this tick is to keep working the training and make one quiet, dignified move toward a future network before it becomes urgent. I am not panicking. I am preparing.",
+  "stress_assessment": "Mild uptick from sector news. The robotaxis on the street are no longer abstract. But I have a plan in motion. The plan is working. Stress is a signal, not an emergency.",
+  "tick_updated": 7
+}

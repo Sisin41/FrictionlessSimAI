@@ -1,0 +1,13 @@
+{
+  "tick": 7,
+  "from_agent": "salesperson_tamika",
+  "from_name": "Tamika Jefferson",
+  "to_agent": "hr_director",
+  "to_name": "Angela Wright",
+  "transaction_type": "SIGNAL",
+  "description": "Tamika sends Angela Wright a brief, professional message — not requesting information about the stay bonus timeline, but signaling continued engagement and presence on the floor. The message acknowledges that the transition support work Angela is coordinating is real and valued, and confirms that Tamika remains fully committed and active. No asks, no follow-up questions. A presence signal designed to keep her name on the 'stable, staying' list rather than the 'flight risk or passive' list as the consolidation assessment finalizes.",
+  "resources_transferred": null,
+  "expected_outcome": "Tamika remains visible to Angela as a committed, present employee — not flagged for transition outreach or removed from stay bonus eligibility tracking. Trust maintained at 0.56.",
+  "tone": "professional, brief, non-needy",
+  "urgency": "low"
+}
