@@ -1,0 +1,71 @@
+{
+  "tick": 8,
+  "agent_id": "driving_instructor",
+  "agent_name": "Frank Russo",
+  "response": {
+    "internal_assessment": "Savings are at $13,356. Burn rate is $3,176 a month. I have four months, maybe four and a half if nothing goes wrong. Nothing is going wrong but nothing is going right either — I am in motion but I do not have income yet. RoboRide just dropped to twelve cents a mile. That number matters. Twelve cents a mile with an eight-minute wait and residential coverage means this is not a novelty anymore — this is infrastructure. The structural shift I have been watching arrive is arriving. The grant I researched last tick — I am applying for it today. $2,500 does not solve the problem but it buys me time and it is money I am entitled to as a business owner who took a real hit. The adult ed coordinator — I called on tick 7, left a message if she was out, gave it two business days as I planned. This is tick 8. I am following up. I do not know yet what the word about Tamika Jefferson means. She is a car salesperson. The RoboRide news would hit her business hard too. People who are not buying cars are not coming to her lot. I know what it is like to watch your livelihood erode by a technology you had nothing to do with building. If she is making a change — pivoting, or leaving — that is information. I do not know what to do with it yet. But I notice it.",
+    "inbox_interpretation": "The RoboRide price drop to $0.12/mile is the most significant signal in the inbox. This is not a competitive pricing move — this is a market normalization event. At twelve cents a mile with residential coverage, the friction of not having a license drops dramatically for a meaningful segment of the population. Teenagers, elderly adults, people in suburbs who previously needed a car to function — these are my student pool. That pool is not empty yet, but it is shrinking structurally, not cyclically. The word about Tamika Jefferson making a change is ambient noise that I will hold without acting on — she is in the car sales world and if she is pivoting, we might have common ground at some point, but I am not going to reach out speculatively. The 7% adoption number I saw last tick will go up from here. The RoboRide news confirms what I already decided: the AV literacy curriculum is the right direction. The price drop does not change my course. It accelerates it.",
+    "chosen_actions": [
+      {
+        "type": "COMMITMENT",
+        "description": "Frank applies for the $2,500 small business stabilization grant that the council is offering to auto-sector businesses with documented revenue decline. His driving school qualifies: it is auto-sector adjacent, it operates under a business license, and his revenue decline is documented and well above the 10% threshold — it is total. He assembles the required documentation: prior year revenue records, business license, a one-page description of the business and its revenue impact from the AV transition. He submits the application online or by hand-delivery to city hall, whichever the process requires. He has all the documentation already because he pulled the requirements in tick 7. He does not exaggerate his situation. He does not minimize it either. He states the facts: he ran a licensed driving school for twenty-eight years, his student enrollment dropped to zero as autonomous vehicle adoption accelerated, and he is actively pivoting to AV literacy instruction. He notes the pivot in the application because it shows he is using the money to rebuild, not just to delay.",
+        "target_agent": "council_member",
+        "resources": {
+          "type": "grant_application",
+          "direction": "receive",
+          "amount": 2500,
+          "detail": "Applying for small business stabilization grant — $2,500 for auto-sector businesses with documented revenue decline. Documentation assembled and submitted this tick. Outcome pending."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Frank researched this grant last tick and has all the documentation ready. At $13,356 in savings and $3,176/month burn, he cannot afford to leave available money on the table. The grant buys him roughly three-quarters of a month. More importantly, applying for it is consistent with the identity he is building — a man who is adapting, not waiting to be rescued. He notes the pivot in his application deliberately: it frames him as someone using the assistance constructively, which is both true and strategically sound."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Frank calls the adult continuing education intake coordinator for the second time — a follow-up, not a re-pitch. Two business days have passed since the first call, exactly as he planned. If he left a voicemail on tick 7, he references it briefly and asks for fifteen minutes at her convenience. If she answers, he makes the same ask: a short conversation about whether there is a gap in the district's adult ed catalog for AV literacy instruction. He mentions Mark Thompson by name. He mentions the three-module outline he has already drafted. He mentions the RoboRide price drop as context — not to alarm, but to make clear that the need is current, not theoretical. He keeps the call under three minutes if she picks up, unless she wants to talk longer. He does not oversell. He is not asking her to solve his problem. He is asking whether his solution matches a need the district has.",
+        "target_agent": "auto_shop_teacher",
+        "resources": {
+          "type": "time",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Follow-up call to adult ed coordinator — Mark Thompson's referral being activated. No money changes hands. This is a relationship and pipeline action."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Frank committed in tick 7 to giving it two business days before a second attempt. Tick 8 is that second attempt. The RoboRide price drop actually strengthens his pitch — it makes the AV literacy need more concrete and more urgent. He is not changing his approach based on the news, he is noting it as supporting context. The follow-up call is the single most important action he can take this tick because it is the action most likely to generate income within his runway."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Frank adds a fourth element to his AV literacy curriculum: a short practical module on the economics of autonomous transportation — what RoboRide's pricing model means for household transportation budgets, how to evaluate whether keeping a car still makes financial sense, and how to make the transition from car ownership to AV-dependent mobility without getting caught in a gap. He is not adding this because it is academically interesting. He is adding it because he lived the numbers: $0.12/mile, 8-minute wait, residential coverage. He knows what those numbers mean for a family in Millfield. He sketches the module in an hour — not polished, but real. He titles it 'The Math of Moving: Autonomous Transportation and Your Household Budget.' He updates his two-page curriculum outline to a three-page document with four modules. This is the document he will hand the adult ed coordinator when they meet.",
+        "target_agent": null,
+        "resources": {
+          "type": "time",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Two hours of curriculum development — updating the AV literacy outline from three modules to four. No money spent. This is an investment in the quality and timeliness of the pitch asset."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The RoboRide price drop makes the economics module both more relevant and more specific. Frank has firsthand knowledge of what the number means — he is watching his own livelihood affected by the same structural shift he would be teaching. Adding this module makes the curriculum more current and more practical. It also differentiates his offering from anything a generic adult education instructor could provide: he is not teaching AV literacy from a textbook. He is teaching it from the inside."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Twelve cents a mile. I sat with that number for a while this morning. I am not angry about it anymore — I was, for a few ticks, but anger at a number is like being angry at weather. What I am is clear. I have four months and three things I am doing today: applying for the grant, making the follow-up call, and updating the curriculum. All three are things I can actually do. None of them require someone to rescue me. The adult ed coordinator either calls back or she doesn't — but I will have called twice, brought a referral, and shown up with a document that is better than anything I showed up with last time. That is what I know how to do. You do not teach someone to drive by hoping they figure it out. You show up, you are prepared, and you make the ask."
+  }
+}
