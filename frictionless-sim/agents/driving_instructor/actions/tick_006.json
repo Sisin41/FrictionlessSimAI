@@ -1,0 +1,28 @@
+{
+  "tick": 6,
+  "agent_id": "driving_instructor",
+  "agent_name": "Frank Russo",
+  "decision_summary": "Take the coffee meeting with Mark Thompson. Come prepared, not desperate.",
+  "primary_action": {
+    "type": "relationship_investment",
+    "target_agent": "auto_shop_teacher",
+    "description": "Frank calls Mark Thompson back and confirms the coffee meeting — this week, Frank's choice of place, somewhere neutral and quiet. Frank shows up prepared. He has thought about the AV literacy angle Mark floated and he has decided Mark is right: a driving school with autonomous vehicle literacy curriculum is a more defensible idea than a generic 'career transitions' course. Frank does not lead with need. He leads with the idea. He tells Mark: 'I've been thinking about what you said. People don't just need to learn to drive anymore — they need to understand what the car is doing when it's driving itself. Sensor awareness, when to trust the system, when to override it. That's not a tech course. That's a safety course. And I can teach safety.' Frank listens. He asks Mark directly who runs the district's adult ed intake — he wants the name Mark promised. He takes notes. He does not ask for anything beyond the name and the next step. He buys the coffee.",
+    "emotional_state": "Frank is calm in the way that a man gets calm when he finally sees one real path through the fog. The savings number is in his head every morning — $16,532 and dropping. He has done the math. He has maybe five months before the decisions get harder. But this morning he is not thinking about the math. He is thinking about what to say to Mark. He is rehearsing it in the car on the way to the coffee shop. He has done this his whole career — you prepare before you teach, you don't wing it. He is not winging this.",
+    "expected_outcome": "Get the name and contact for adult ed intake coordinator. Establish shared understanding with Mark that AV literacy is the curriculum angle. Keep the relationship warm and peer-to-peer, not supplicant-to-gatekeeper."
+  },
+  "secondary_action": {
+    "type": "research",
+    "description": "After the coffee meeting, Frank sits in the car for twenty minutes before driving home and writes three things in his notepad: (1) the name Mark gave him for adult ed intake, (2) the AV literacy course outline — three modules, rough titles only, nothing polished — and (3) a question he wants to ask at the community listening session Maria Santos is holding, if he goes. He is not sure he will go. He is not a 'public listening session' kind of person. But the layoffs at the dealership, the news about businesses closing — he grew up in this town. He knows some of those people. He decides he will think about it.",
+    "rationale": "Frank does not scatter. He is working one real channel and building toward the next ask. He is not applying to anything yet — he does not have enough to apply with. He is gathering what he needs."
+  },
+  "financial_action": {
+    "type": "none",
+    "rationale": "No financial transaction this tick. Frank is preserving savings. His expenses continue: $1,161 mortgage, $641 family, $308 car payment, $1,066 other. Total burn $3,176. He is watching the number. He is not panicking. He is not doing nothing."
+  },
+  "social_signals": {
+    "community_engagement": "Frank is aware of the listening session. He is ambivalent about attending — he does not like performing vulnerability in public, and he is not sure he has anything to contribute that is not just his own complaint. But he is watching. If someone he trusts tells him it is worth going, he will go.",
+    "network_activity": "Low. Frank is not broadcasting. He is not posting on social media. He is working quietly."
+  },
+  "internal_monologue": "The legal pad from tick 1 is still on the desk. The right column — the one that didn't say 'driving' anywhere — keeps pulling at him. He is 58. He has one dependent. He has five months of runway if he is careful. He is being careful. Mark Thompson is the first person who has looked at Frank's situation and said 'here is something you could actually do' rather than 'I'm sorry, that's a tough spot.' Frank is not going to waste that.",
+  "tick_updated": 6
+}

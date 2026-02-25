@@ -1,0 +1,31 @@
+{
+  "agent_id": "commuter_rachel",
+  "tick": 6,
+  "action_type": "multi",
+  "actions": [
+    {
+      "type": "professional_development",
+      "description": "Convert the freelance services menu I drafted last tick into an actual outreach. Identify two to three small businesses in Millfield that are visibly struggling — possibly in the auto-adjacent sector or local retail — and reach out with a targeted, low-pressure pitch: social media management and marketing communications on a short-term retainer, $400-500/month, no long commitment required. Frame it around their survival, not my need. Use Tamika Jefferson's visible freelance activity as a signal that this market exists. I don't quit my job. I open a second income channel quietly.",
+      "target": null,
+      "rationale": "The spending index is at 48. Local layoffs are accelerating. My role security sits at 0.46. I have done everything right on the internal front — I had the 1:1, I presented the ROI data, I drafted the freelance menu. The next logical step is not more preparation. It is one real client conversation. The economy is not waiting for me to feel ready."
+    },
+    {
+      "type": "cost_management",
+      "description": "Formally track my RoboRide usage this month and benchmark it against what a car payment plus insurance would have cost. I already don't own a car. I need to make that decision feel like a win, not a compromise. Calculate the monthly savings and add the delta to my savings auto-transfer. The $0.18/mile rate with 7% of people now using it regularly means this is becoming a normal infrastructure choice, not a sacrifice.",
+      "target": null,
+      "rationale": "I gave up the car before many others. I should not be second-guessing that decision when the rest of Millfield is still holding on to theirs out of status anxiety. I need to internalize this as strategic, not as loss. The concrete savings number will help."
+    },
+    {
+      "type": "network_outreach",
+      "description": "Send a brief, professional message to Nicole Washington — a nurse in my network (trust 0.56) — asking if the hospital has any marketing or communications needs, or if she knows anyone at the healthcare system who handles external communications and community outreach. Not a cold pitch. A genuine question from a contact she respects. Hospitals are one of the few sectors not collapsing right now.",
+      "target": "single_parent",
+      "rationale": "Healthcare is stable while auto and retail are in freefall. Nicole is a warm enough contact that a professional inquiry won't feel intrusive. My marketing and communication skills transfer cleanly to healthcare outreach, patient communications, community health campaigns. This is network diversification, not desperation."
+    }
+  ],
+  "emotional_state": "Measured urgency. The inbox was full of other people's crises this tick — layoffs, business closings, the whole auto ecosystem unraveling. I felt the difference between watching it happen and being in the middle of it. I'm not in the middle yet. But the window to act from a position of strength is narrowing. I'm not panicking. I am moving.",
+  "financial_notes": {
+    "savings_target": 28137,
+    "freelance_income_potential_monthly": 400,
+    "risk_level": "low — no spending increase, no major commitment, just outreach"
+  }
+}

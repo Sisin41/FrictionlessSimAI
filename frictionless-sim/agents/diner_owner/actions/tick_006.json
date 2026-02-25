@@ -1,0 +1,31 @@
+{
+  "tick": 6,
+  "agent_id": "diner_owner",
+  "action_type": "outreach_and_contingency_planning",
+  "summary": "Accept Stephanie Morris's invitation for coffee. Go in with eyes open — she may be sniffing for a sale or a sublease opportunity, but right now information is cheap and I need all of it. Listen more than I talk. Ask what commercial spaces on Auto Row are doing. Ask whether anyone is subletting kitchen time or shared-use arrangements. Do not commit to anything. Also begin a quiet, private triage of the diner's actual numbers: what does it cost to stay open at 40% revenue vs. closing temporarily vs. converting part of the space. Write this down in the back office after close. Not to make a decision tonight but to know what the decisions would cost.",
+  "targets": [
+    {
+      "agent_id": "real_estate_agent",
+      "name": "Stephanie Morris",
+      "interaction_type": "in_person_meeting",
+      "intent": "information_gathering",
+      "message": "Stephanie — yes, let's get that coffee. I've got Tuesday or Wednesday open before the lunch rush, say 8:30. I want to hear what you're seeing on the commercial side. Things feel different out here and I'd rather understand it than just watch it happen."
+    }
+  ],
+  "financial_action": {
+    "type": "none",
+    "amount": 0,
+    "rationale": "Holding all cash. Savings at $23,312 with runway under 6 months at current burn. No discretionary spending until grant status clarifies or revenue picture changes."
+  },
+  "internal_state": {
+    "emotional_tone": "grim clarity",
+    "stress_assessment": "High but directed. The spending index at 48 is not a bad week — it is a structural break. The diner has probably passed the point where riding it out is a plan. I am not ready to say that out loud yet. But I am ready to do the math.",
+    "decision_rationale": "Stephanie reaching out is not coincidental. Real estate agents don't invite diner owners to coffee out of goodwill — she sees something moving in this market. I should find out what she knows before she finds out what I don't know. The contingency triage is for me, private, no action attached. Just knowing what it would cost to close, to sublet, to shrink. Knowing is not deciding. I need to know.",
+    "denial_check": "I am not pretending this is recoverable without change. A spending index of 48 means customers are not coming back the same way. The question is what 'different' looks like — not whether different is coming."
+  },
+  "deferred_actions": [
+    "Grant application still pending — no new action this tick, but if no word by tick 7 I will escalate or accept it is not coming",
+    "Have not yet spoken to Carlos Ruiz about his high school auto outreach — worth understanding what he sees for the neighborhood"
+  ],
+  "tick_updated": 6
+}

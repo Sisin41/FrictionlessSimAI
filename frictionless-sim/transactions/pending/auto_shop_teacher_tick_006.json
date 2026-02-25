@@ -1,0 +1,20 @@
+{
+  "tick": 6,
+  "from_agent": "auto_shop_teacher",
+  "to_agent": "mechanic_sarah",
+  "transaction_type": "ASSOCIATION",
+  "description": "Mark Thompson responds to Sarah Kim's outreach. Initiates a direct meeting — coffee or shop walkthrough — to understand her situation and explore whether she would serve as a guest instructor for the Millfield Auto Tech Pipeline program. Small social expense (~$15 coffee). Primary exchange is professional time and relationship capital in both directions.",
+  "resources": {
+    "type": "labor_and_social",
+    "direction": "both",
+    "labor_hours_given": 2,
+    "labor_hours_received": 1,
+    "cash_expense": 15,
+    "relationship_effect": "trust_building"
+  },
+  "expected_outcomes": {
+    "from_perspective": "Mark gains a potential industry partner and guest instructor with real floor experience, which strengthens the board presentation and gives the program practitioner credibility. Relationship trust with Sarah Kim likely increases.",
+    "to_perspective": "Sarah Kim receives direct, responsive engagement from an educator who may be building a retraining or pipeline program relevant to her own career transition considerations."
+  },
+  "status": "pending"
+}

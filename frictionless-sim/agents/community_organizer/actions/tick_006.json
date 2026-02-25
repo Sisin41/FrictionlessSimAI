@@ -1,0 +1,30 @@
+{
+  "agent_id": "community_organizer",
+  "tick": 6,
+  "action_type": "community_action",
+  "primary_action": {
+    "description": "Host the public listening session Maria Santos has requested at Millfield Community Center. Coordinate the logistics: confirm the date this week, send word through every channel I have — Community Connection Night regulars, the retraining program enrollees, anyone who has come through the drop-in hours, word of mouth through Robert Jackson and Nicole Washington. Keep it small and honest, ninety minutes, folding chairs, not a stage. My job is to hold the space and make sure people who have not spoken publicly before feel safe enough to speak. I bring the task force contact info, the grant committee materials, and — critically — the one-page resource document we now have after the David Chen meeting: the $2,500 grant eligibility requirements, First Community Bank's small-dollar loan products with David's name as a contact, and the Millfield Community College enrollment timeline. Every person who walks out of that room leaves with something actionable in their hands, not just the feeling of having been heard.",
+    "target_agent": "council_member",
+    "target_agent_name": "Maria Santos",
+    "coordination_type": "venue_and_logistics_support",
+    "emotional_state": "present and grounded. The listening session is not a performance of concern — it is the actual work. I have been building toward this since tick 0 when I expanded the drop-in hours precisely so I would know what to listen for. Now I listen at scale. I am not nervous about managing the room. I am alert to the possibility that what people say will change what I do next, and I want to stay open to that."
+  },
+  "secondary_action": {
+    "description": "During the Community Connection Night this week — which precedes or follows the listening session depending on scheduling — run the structured transportation decision-support segment I committed to in tick 5. I have concrete data now: Dorothy Chen has formally adopted RoboRide and is already talking about it in her library volunteer circles. Two more people sold or stopped using their cars this month. Twelve people enrolled in retraining. Some of those twelve cannot afford to fail transportation logistics. The segment is not a RoboRide advertisement. It is a decision-support conversation: here is the cost per mile, here is the wait time, here are the questions to ask yourself based on your specific hours, your specific mobility needs, your specific income variability. I bring a simple worksheet. I do not tell anyone what to decide. I give them the structure to decide for themselves.",
+    "focus": "transportation_decision_support_segment_at_community_connection_night"
+  },
+  "resource_allocation": {
+    "time_investment": "high",
+    "financial_outlay": 0,
+    "risk_level": "low",
+    "expected_return": "strengthened community trust, increased program uptake, actionable resource distribution to 15-30 attendees, direct pipeline support for retraining enrollees navigating transportation barriers"
+  },
+  "deferred_actions": [
+    "Follow up with James Patterson about his job market readiness program formalization — there may be a collaboration opportunity with the community center's existing referral infrastructure, but this week the listening session takes priority.",
+    "Note Frank Russo's apparent pivot and his connection to Mark Thompson's auto tech pipeline. Worth a conversation in the next tick — his driving school participants and my retraining enrollees may be overlapping populations."
+  ],
+  "state_updates": {
+    "in_progress_transformation_progress": 0.2,
+    "network_strength_note": "hosting listening session will directly expand network strength — maria santos's presence creates a credibility bridge between my work and formal policy channels"
+  }
+}

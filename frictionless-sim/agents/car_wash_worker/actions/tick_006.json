@@ -1,0 +1,23 @@
+{
+  "tick": 6,
+  "agent_id": "car_wash_worker",
+  "action_type": "multi_action",
+  "primary_action": {
+    "type": "continue_training",
+    "description": "Stay enrolled and attend automotive service technician certificate classes. Program hits roughly 20% completion this month. Do not skip. The streak is the only thing I have going on the skill side and I am not breaking it while the job market is deteriorating around me."
+  },
+  "secondary_action": {
+    "type": "network_outreach",
+    "target_agent": "mark_thompson_high_school",
+    "description": "Reach out to Mark Thompson, auto shop teacher at Millfield High, to introduce myself. Keep it brief and low-pressure — I am a car wash attendant enrolled at Millfield Community College in the automotive service tech certificate program. Carlos Ruiz and Sarah Kim both mentioned his name independently this month. That is not a coincidence. I want to know what his EV curriculum looks like, whether there is any crossover with what I am learning, and whether there are any lab access opportunities. I am not asking for a job or a favor. I am just opening a door before it gets crowded.",
+    "tone": "peer introduction, not supplication",
+    "investment": "low — one message or phone call, nothing more"
+  },
+  "financial_decision": {
+    "type": "hold_steady",
+    "description": "No new financial commitments. Savings are building slowly ($131/month net). Consumer spending is down hard (index 48), unemployment is rising, and the auto sector is contracting. This is not the moment to take on additional costs. Keep expenses flat. Do not test new gig income streams this tick — the retraining is the active investment and I cannot dilute focus."
+  },
+  "observation": "Two mechanics I trust — Carlos and Sarah — are both pivoting toward EV systems, independently, in the same tick. The market data confirms the auto sector is softening. RoboRide is accelerating. The direction of travel is clear: EV skills are the durable exit ramp, not general automotive. I am not there yet, but I am orienting toward it. The certificate program I am in is general-track automotive. I need to find out if there is an EV module I can angle toward or if I need to plan a follow-on credential after this one.",
+  "emotional_state": "Focused. A little more alert than last tick. The news is bad for a lot of people around me — Stephanie Morris is scrambling, Dorothy Chen is switching to RoboRide, the unemployment number is real — but none of that changes what I need to do. I just need to keep moving.",
+  "tick_updated": 6
+}

@@ -1,0 +1,22 @@
+{
+  "agent_id": "parking_garage_mgr",
+  "tick": 6,
+  "tickpad": "006",
+  "action_type": "job_search_and_network_activation",
+  "summary": "Reach out directly to Grace Okafor — she is checking on hospital hiring this tick and her trust is high (0.80). Send her a short, specific message: I know she is already talking to her hospital contact, so I am not cold-asking her. I tell her I am actively exploring hospital and university plant operations manager roles, and if Nicole Washington mentions anything about facilities or infrastructure staffing alongside the nursing side, I would genuinely appreciate a heads-up. Keep it brief. One ask, clearly framed, from someone she trusts. Simultaneously, submit two targeted applications this tick: one to a municipal facilities or parks department coordinator posting (search city job board and the county HR portal), and one to Millfield General or the regional hospital system if any plant operations or facilities coordinator role is posted. Frame both applications using the garage as a 24/7 safety-critical multi-shift environment — not a parking story, an operations story. The macro is deteriorating: spending index at 48, unemployment rising, robotaxi adoption visible at 7%. My role feels secure today but the math does not favor patience. I keep working the transition without tipping into panic.",
+  "primary_action": "contact_grace_okafor_re_hospital_facilities",
+  "secondary_action": "submit_2_targeted_job_applications",
+  "targets": [
+    {
+      "agent_id": "uber_driver_2",
+      "name": "Grace Okafor",
+      "message": "Hey Grace — I heard you are already in touch with someone at the hospital about hiring. Not asking you to do my job search for me, but if Nicole mentions anything on the facilities or plant operations side (not nursing — building operations, infrastructure, maintenance management), I would really appreciate a quick note. I am actively applying to those roles. You know my background — I think it fits. Thanks."
+    }
+  ],
+  "financial_action": null,
+  "transaction": null,
+  "emotional_state": "Steady. The signal I needed was already in my network and I almost missed it. Grace is in motion in exactly the right direction. The spending index number is ugly — 48 is not a soft landing, that is a community under real stress. I am not panicking because I prepared, but I am not comfortable either. Two months of networking needs to start converting into callbacks. I am doing the right things. I need one of them to land.",
+  "stress_delta": 0.0,
+  "retraining_progress_delta": 0.05,
+  "notes": "Tick 6 divisible by 3 — reflection logged in memory.json. No financial transaction this tick. Grace Okafor contact does not require a pending transaction file — outreach only."
+}
