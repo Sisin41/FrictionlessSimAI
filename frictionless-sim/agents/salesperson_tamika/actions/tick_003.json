@@ -1,0 +1,76 @@
+{
+  "tick": 3,
+  "agent_id": "salesperson_tamika",
+  "agent_name": "Tamika Jefferson",
+  "current_state_summary": {
+    "threat_level": 0.74,
+    "runway_months": 3.1,
+    "savings": 9786,
+    "stress_level": 0.24,
+    "primary_concern": "RoboRide is now live and the dealership restructuring clock is running — she has roughly 90 days before Angela's transition architecture reshapes headcount, so she needs the freelance track to produce its first real revenue before that decision lands."
+  },
+  "threat_assessment": {
+    "immediate": "Rick is on the lot two afternoons a week and doing Monday pipeline reviews. Visibility is high. She needs 1-2 closes this week on the used under-$22K inventory he's centering — not just to keep her role secure but because she needs the commission. David's loan tightening (credit score threshold up 10 points, max term down to 60 months for older vehicles) may complicate closings on the value-buyer segment Rick is now targeting. She needs to know which deals in her pipeline are at risk from the new criteria before they fall apart at the finance desk.",
+    "horizon_2mo": "Angela accepted Patricia's offer and is now designing the restructuring. A 90-day end date on that engagement means the restructuring framework will be handed off around day 60-75 — decisions about headcount will follow shortly after. Tamika's role security is 0.55, which means she's not first on the list but she's not protected either. If the freelance track hasn't produced at least one paying client by that point, she'll be negotiating from a weaker position. The grant application is the one lever she can pull this week that costs nothing and adds runway.",
+    "horizon_6mo": "RoboRide at $0.18/mile changes the value proposition of vehicle ownership for a segment of Millfield buyers — particularly the under-$22K used car buyer who is already financially stretched. If adoption accelerates and consumer spending stays compressed (76 index, down from 100), dealership revenue will contract further. A 40%-smaller dealership, as Patricia is modeling, may not support the current sales headcount. Tamika's exit condition — $2,000/month freelance or first involuntary dealership move — needs to be reached before that shrinkage becomes a staffing event."
+  },
+  "hierarchy_priority": "L2_PARTICIPATE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Follow up on the 8 outreach messages sent last tick. Check every channel (DM, email, LinkedIn) for replies. For any that replied: respond within 2 hours and propose a specific 20-minute call with two time slots this week. For any that did not reply: send a single follow-up message — different angle, shorter, no ask except a yes/no on whether this is relevant to them right now. Goal: book 2 discovery calls before Friday.",
+      "rationale": "The outreach is already out. The conversion happens in the follow-up, not the first message. Eight messages to warm adjacent contacts should produce at least 2-3 replies at this stage. If none replied, that is data: either the message framing missed, or the contacts need a second touch. Either way, the follow-up sequence is the correct next move, not sending new cold messages.",
+      "timeline": "Days 1-3 of this tick (this week, evenings after the lot closes)",
+      "expected_outcome": "2 discovery calls booked. Even 1 call that converts to a $300-500/month retainer meaningfully extends runway and validates the track. Zero replies from follow-up would trigger a message reframe for next tick."
+    },
+    {
+      "action_id": 2,
+      "description": "Close 1-2 deals this week on the used under-$22K inventory Rick is pushing. Before each deal reaches finance, run a quick informal credit temperature check with the buyer — not a formal inquiry, just enough to know whether they're likely to clear David's new threshold. If a buyer is borderline, tighten the deal structure on the front end: lower price, shorten the financing term she recommends, get the payment number where it needs to be. Do not let deals die at the finance desk on something she could have caught earlier.",
+      "rationale": "This is real commission income she needs, and it is the most visible performance signal Rick will see this week. The used under-$22K reorientation actually suits her — she knows how to sell to value buyers who are doing math. David's tightened loan criteria are a new variable, but she can work around them by doing better deal-structuring on her end. Losing a deal at finance after she worked it is avoidable; she needs to own the whole arc.",
+      "timeline": "Ongoing across this week's lot hours — she is especially visible during Rick's two afternoon appearances",
+      "expected_outcome": "1-2 closed deals, commission income, continued strong visibility with Rick. A clean week on the floor."
+    },
+    {
+      "action_id": 3,
+      "description": "Apply for Maria Santos's $2,500 retraining grant via millfield.gov/grants. Write the application tonight or tomorrow evening. Frame the application honestly: service sector worker in automotive retail, actively building a parallel track in freelance social media and digital marketing, specific skills being developed (content strategy, small business client management, platform analytics). Reference the Upwork and Contra profiles as evidence of active transition. Keep it factual, short, and direct — this is not a sob story, it is a documented career transition that fits the exact program criteria.",
+      "rationale": "This is $2,500 that requires no client to say yes and no deal to close. The application takes 2 hours. She paid into the tax base that funds it. Maria designed this program for exactly her situation. The normalcy bias that makes people hesitate on public support programs costs money she should not leave on the table. Runway is the variable she is managing — this extends it by nearly a month.",
+      "timeline": "Application written and submitted within 48 hours",
+      "expected_outcome": "$2,500 added to savings within 2-4 weeks of approval, approximately 0.8 months of runway extension. Even if delayed, the application creates a record of her transition that could matter later."
+    },
+    {
+      "action_id": 4,
+      "description": "Watch Angela's new posture and listen for any HR signals without asking questions or showing interest. Angela is now architect of the workforce restructuring. The things to track: Does HR schedule any all-hands or one-on-ones outside the normal cadence? Does Angela begin doing floor walks? Does the tone of Monday pipeline reviews shift from performance to role-definition? None of these triggers an action yet — they are early-warning signals. She notes them and says nothing.",
+      "rationale": "Angela's 90-day transition timeline means the restructuring framework will be handed off in roughly 60-75 days. Tamika is not in the room where that decision gets made, but she can read the signals that precede it. The discipline is passive observation only — no conversations at work about what Angela is doing, no visible concern, no questions to colleagues. She is just paying attention.",
+      "timeline": "Ongoing — this is a background awareness task, not a scheduled action",
+      "expected_outcome": "She does not get surprised. If involuntary action comes, she has 1-2 weeks of signal before it lands formally, which is enough time to accelerate her exit on her own terms."
+    },
+    {
+      "action_id": 5,
+      "description": "Price out the cost and process of filing a sole proprietor DBA in the county — this is 30 minutes of research, not a commitment to do it this tick. The $5,000 small business stabilization grant may require a registered business entity. She needs to know the answer before she decides whether to apply for that fund. If the DBA costs under $75 and takes a week to process, the math is obvious. She does not need a business bank account yet — she just needs to know the threshold requirement so she can decide next tick.",
+      "rationale": "She flagged this in tick 2 as an open question. Leaving it unresolved delays a potential $5,000 application. This is a 30-minute research task that removes a decision blocker. If a DBA is required and cheap, she files it. If the stabilization fund has different eligibility criteria that she already meets, she applies sooner.",
+      "timeline": "This week, under an hour — county clerk website or a quick call",
+      "expected_outcome": "She knows whether to apply for the $5,000 grant this tick or next, and whether a DBA filing is in her near-term plan."
+    }
+  ],
+  "decisions": {
+    "follow_up_outreach": "Yes — follow up on all 8 messages from tick 2 before sending any new cold outreach",
+    "target_discovery_calls_this_tick": 2,
+    "grant_application_retraining": "Apply immediately via millfield.gov/grants — this tick, within 48 hours",
+    "grant_application_small_business": "Research DBA requirement first; decide on application next tick",
+    "floor_posture": "Full performance — close deals, be visible to Rick, no signals of exit planning",
+    "angela_monitoring": "Passive observation only — no engagement, no questions, note HR cadence changes",
+    "discuss_exit_plan_at_work": "No — discipline holds",
+    "mention_maria_programs_at_work": "No",
+    "loan_criteria_adaptation": "Run informal credit temperature check before deals reach finance desk to avoid kills at the F&I office",
+    "roboride_response": "Noted — accelerates her exit timeline but does not change the immediate action set. She keeps executing.",
+    "exit_trigger_conditions": "Freelance income reaches $2,000/month OR dealership makes first involuntary move — whichever comes first"
+  },
+  "updated_state": {
+    "stress_level": 0.24,
+    "agency": 0.65,
+    "grief_stage": "none",
+    "savings_delta": 1200
+  },
+  "internal_monologue": "RoboRide is live. That's the bell I've been waiting for — it doesn't mean panic, it means the clock is real now and I already started before it rang, which is exactly where I want to be. Eight messages went out last tick and I haven't checked replies in the last 12 hours because I was on the lot. Tonight I check. Tonight I follow up. I need one of those eight to turn into a call by Thursday. The grant application is two hours of writing that buys me a month of runway — I am not too proud for that math. Angela taking Patricia's offer with a 90-day exit means someone is drawing an org chart right now that I'm not in the room for. I don't need to be in that room. I need to be closing a used Accord on Thursday afternoon when Rick walks through, and I need to have a freelance client on the line by the time Angela hands off that framework.",
+  "archetype_self_assessment": "exiter in motion — two tracks, no visible seams, executing"
+}

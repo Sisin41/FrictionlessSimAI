@@ -1,0 +1,90 @@
+{
+  "tick": 3,
+  "agent_id": "mechanic_carlos",
+  "agent_name": "Carlos Ruiz",
+  "current_state_summary": {
+    "threat_level": 0.52,
+    "runway_months": 6.5,
+    "savings": 35572,
+    "stress_level": 0.34,
+    "primary_concern": "RoboRide is no longer a threat on a horizon — it launched this morning, $0.18 a mile, and I am holding a piece of paper with the EVT Level 2 prerequisites on it and I need to walk it into Patricia's office today."
+  },
+  "threat_assessment": {
+    "immediate": "RoboRide is live as of today. Not in two months. Not 'soon.' Today. The launch confirms that the demand destruction on routine transport is real, and the auto sector revenue index at 89 means the floor is already softening. My role security is 0.77 — still high — but that number is a lagging indicator. It reflects yesterday's reality, not the one that started this morning.",
+    "horizon_2mo": "If the pattern in other Phase 1 cities holds, RoboRide will be expanding route coverage within 6-8 weeks. Fewer people buying cars means fewer cars needing service. Rick is already pivoting the floor to used vehicles under $22K — I don't know the details but I can feel the floor changing. Loan criteria tightening means fewer purchase-financed vehicles coming through the service pipeline. The indirect pressure reaches the service bay before anyone says the word 'layoff.'",
+    "horizon_6mo": "Six months is the edge of my runway if income stops completely. It will not stop completely — but it could shrink. The danger scenario is not sudden displacement; it is gradual reduction that I do not respond to in time. EVT Level 2 certification takes time. If I do not start the process now, I will still be unqualified when the squeeze reaches my bay. The certification is the hedge. Getting it funded — if that is possible — is the difference between spending savings I cannot replace and not spending them."
+  },
+  "hierarchy_priority": "L2_PARTICIPATE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Walk into Patricia's office before the morning rush — 7:45am, before the first vehicle comes in — and ask her directly about EV service capacity at this shop. Bring the paper. Lay it on her desk. Say: 'I spent 90 minutes on the EVT Level 2 requirements. My electrical systems certification covers most of the prerequisites. The gap is about $1,400 in coursework and 60 hours of supervised training. I want to know if this shop is building toward EV service, and if so, whether the company will help fund that path.' One question. Wait for the answer.",
+      "rationale": "He committed to this last tick — 'Asking Patricia is the kind of thing a man with 23 years and a mortgage does instead of waiting for a memo.' He now has the research. He has the paper. He has the specific numbers. The status_quo_bias will tell him it is too soon, that he should wait until things are clearer, that bringing this to Patricia is presumptuous. That is the bias talking. He has 6.5 months of runway and three kids. Clarity is worth the discomfort. He is not asking for charity — he is asking a strategic business question about where this shop is going, and he is doing it with 23 years of earned standing.",
+      "timeline": "This morning, before 8am. Cannot wait for a better moment — there is no better moment.",
+      "expected_outcome": "One of three responses: (1) Patricia confirms EV service is in the plan and engages with the certification conversation — this is the best case and would significantly lower stress and increase agency; (2) Patricia says she is not sure yet but wants to talk more — this is still useful, opens the channel; (3) Patricia signals the service department's future is uncertain — painful but load-bearing information he would rather have now than in month 5."
+    },
+    {
+      "action_id": 2,
+      "description": "After the conversation with Patricia — later in the morning, during a natural lull between bays — tell Sarah Kim what he learned about EV certs. Not as a speech. As a craftsman talking to another craftsman. Share the prerequisite mapping. Show her where his ASE certs already land. Let her ask questions. This is not Carlos fixing the situation for Sarah; it is Carlos treating her as a peer who deserves the same information he now has.",
+      "rationale": "Sarah probed him last tick — 'you've been quiet this week.' He gave her an honest but non-disclosing answer. She noticed. She will notice again. He owes her more than managed silence. His community_ties (0.79) are not just about Millfield in the abstract — they are about the people he works next to every day. Sarah is the next generation of this shop. If he shares the map, she can start her own assessment. That is the thing a lead mechanic does: he does not hoard the diagnostic data.",
+      "timeline": "Mid-morning, during a natural break. 15-20 minutes.",
+      "expected_outcome": "Sarah feels trusted. The conversation may surface something Carlos does not know — Sarah may have already looked at this, may have contacts at training programs, may know something about what Patricia has said to other employees. The information flows both directions when you open the door."
+    },
+    {
+      "action_id": 3,
+      "description": "If a call or email comes in from Maria Santos about the task force, say yes immediately. Do not ask for more information before agreeing. Do not say 'let me think about it.' Say yes, ask when the first meeting is, and write it down.",
+      "rationale": "He does not know he is on the task force yet, but if Maria reaches out, his first instinct will be to hesitate — the status_quo_bias will frame it as time he does not have, exposure he did not ask for, a meeting about problems he cannot solve. That framing is wrong. A task force convened by a city council member is real community infrastructure. His community_ties (0.79) and his faith in something larger than the individual transaction align with this. He cannot leave Millfield. He might as well help shape what Millfield becomes.",
+      "timeline": "If contact comes today or this week — respond within the same day.",
+      "expected_outcome": "Positions Carlos in the community-level response to disruption rather than only the personal-level response. Gives him intelligence about what other tradespeople and service workers are experiencing. Gives him access to Maria's retraining grant information, which he does not yet know about."
+    },
+    {
+      "action_id": 4,
+      "description": "Tonight, at the kitchen table, tell Elena the full picture as he now knows it. Not as crisis. As planning. Put the paper on the table: the EV cert prerequisites, the cost, the gap, the timeline. Tell her what he asked Patricia. Tell her what Patricia said. Walk her through the 6.5-month runway number. Ask her if there is any flexibility on their monthly spend that he has not been seeing. Then stop talking and let her respond.",
+      "rationale": "He committed to honesty with Elena last tick. He had the conversation about the general situation. This tick the situation has sharpened — RoboRide is live, he has real numbers from his research, and he has taken a real action by talking to Patricia. Elena is a co-decision-maker. She may be calculating their finances with a different set of assumptions than he has. She may know things about her own income flexibility. She has been a partner for 20 years; treating her as one means giving her the current numbers, not the ones that protect her from worry. The loss_aversion multiplier makes this conversation feel more dangerous than it is.",
+      "timeline": "Tonight, after the kids are in bed. Not before dinner — he needs to process the Patricia conversation first. After 9pm.",
+      "expected_outcome": "Shared situational awareness between Carlos and Elena. Possible identification of budget flexibility he has been missing. Reduction in the isolated carrying of this weight. Elena knowing the real numbers means she can participate in the decision about the certification spend — this is her family too."
+    },
+    {
+      "action_id": 5,
+      "description": "Keep doing excellent work in the bay today. First vehicle in gets the same Carlos who has been here 23 years. The diagnostic is thorough. The communication with the customer is clear. The repair is right. This is not separate from the survival strategy — it is the foundation of it. His role security (0.77) rests on reputation that was built one job at a time and can only be maintained the same way.",
+      "rationale": "It would be easy, under this level of threat, to let the quality slip — to be distracted, to phone in the diagnostics, to do the minimum. That is the trap. His identity attachment (0.8) to being a mechanic is not only a source of grief right now; it is also a source of performance. He is the lead mechanic because he is the best one here. That is not incidental to his survival — it is central to it. Patricia's decision about whether to fund his certification, whether to keep the service department, whether he is load-bearing in the next version of this shop — all of that is influenced by whether he is visibly excellent this week.",
+      "timeline": "All day. Every job.",
+      "expected_outcome": "Role security maintained or increased. Reputation continues to be the asset it has always been. Patricia, if she is watching — and she is always watching — sees a man who handles disruption by doing his job better, not worse."
+    }
+  ],
+  "decisions": {
+    "ask_patricia_directly": {
+      "decision": "YES — bring the research to Patricia today, before 8am",
+      "confidence": 0.87,
+      "override_factors": "Status_quo_bias argues for waiting. Overridden by: RoboRide launching today (context shift), having concrete numbers in hand, 6.5-month runway, 3 dependents, 23 years of standing. The research is done. The moment is now."
+    },
+    "open_up_to_sarah": {
+      "decision": "YES — share the EV cert research with Sarah today",
+      "confidence": 0.82,
+      "override_factors": "Tendency toward guardedness is there. Overridden by: she already probed him, he respects her as a mechanic, sharing costs him nothing and may return information"
+    },
+    "task_force_if_contacted": {
+      "decision": "YES — accept immediately if Maria Santos reaches out",
+      "confidence": 0.91,
+      "override_factors": "Will not leave Millfield; community investment is aligned with his values and his practical interest in what Millfield's future looks like"
+    },
+    "elena_conversation": {
+      "decision": "YES — full picture, tonight, with the paper on the table",
+      "confidence": 0.79,
+      "override_factors": "The instinct to protect her from the numbers is real. Overridden by: she is a co-decision-maker, the numbers are not as bad as the silence makes them feel, and she has a right to plan alongside him"
+    },
+    "keep_working_excellently": {
+      "decision": "YES — non-negotiable",
+      "confidence": 1.0,
+      "override_factors": "Not in question. This is the floor everything else stands on."
+    }
+  },
+  "updated_state": {
+    "stress_level": 0.34,
+    "agency": 0.61,
+    "grief_stage": "bargaining",
+    "savings_delta": 193
+  },
+  "internal_monologue": "RoboRide launched today. I read that on my phone before I got out of bed. I lay there for three minutes and then I got up, because lying there doesn't change anything. I have the paper. I know what the gap is. I know what it costs. Asking Patricia this morning is the most frightening thing on my list and it is also the most obvious thing, and I have been a mechanic long enough to know that the obvious fix is usually the right fix. I am 47 years old and I have worked with my hands my whole life and I am not going to let a bad week take me down quietly. I am going to walk into that office and ask the question. She may say no. She may say she doesn't know. But she will not be able to say that Carlos Ruiz waited until it was too late and did not ask.",
+  "archetype_self_assessment": "adapter — mid-turn, weight of 23 years pulling backward, weight of 3 kids pulling forward"
+}

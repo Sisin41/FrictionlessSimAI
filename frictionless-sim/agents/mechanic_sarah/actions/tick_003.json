@@ -1,0 +1,64 @@
+{
+  "tick": 3,
+  "agent_id": "mechanic_sarah",
+  "agent_name": "Sarah Kim",
+  "current_state_summary": {
+    "threat_level": 0.6,
+    "runway_months": 4.8,
+    "savings": 15947,
+    "stress_level": 0.28,
+    "primary_concern": "The sector data is soft, Carlos said something about EV certs when I asked, and I don't know what Maria Santos is actually doing — three vague signals that are starting to feel less vague."
+  },
+  "threat_assessment": {
+    "immediate": "None that I can see directly. My job is stable, Rick hasn't said anything, the shop is slower but it's not alarming. The floor isn't panicking. I'm fine today.",
+    "horizon_2mo": "If foot traffic keeps dropping and the auto sector stays soft, Rick could start making decisions about headcount or hours. I don't have information that says this is coming, but it's the logical next step if revenue keeps sliding. Carlos knows something I don't fully know yet.",
+    "horizon_6mo": "This is where it gets murky. If the sector is reorganizing around EVs — and Carlos's research suggests he thinks it is — then shops that don't adapt could lose business to dealership service centers or specialty EV shops. My electrical and diagnostics background actually lines up with that future, but I haven't done anything to make that connection real yet. The Maria Santos thing might matter but I can't tell how."
+  },
+  "hierarchy_priority": "L2_PARTICIPATE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Process and catalog what Carlos said when I probed him. He engaged — he mentioned the EV thing. Maybe said something like 'just looking into some certification stuff' or 'the industry's changing.' Whatever it was, it confirmed he's actively researching, not just vaguely worried. I'm writing this down mentally: Carlos is in motion. That's meaningful data.",
+      "rationale": "My most actionable information this tick came from that probe. The outcome confirmed he engaged rather than deflected — he said something about EVs or certs. Carlos is deliberate. If he's researching something, it's because he's already concluded the situation is real. My availability heuristic makes his signal vivid and hard to dismiss. My normalcy bias wants to say 'he's just thorough, that's Carlos,' but the sector data plus his behavior is two data points pointing the same direction. I'm logging this as a meaningful signal, not ambient noise.",
+      "timeline": "Mental processing — ongoing through the shift, no outward action",
+      "expected_outcome": "Sharpened internal model of the situation. The Carlos signal moves from 'noticed' to 'weighted.' This raises my readiness to take a small concrete step without triggering the anxiety that comes from feeling like I've overreacted."
+    },
+    {
+      "action_id": 2,
+      "description": "During lunch break, spend 20-30 minutes on my phone actually looking at what EV mechanic certifications exist — specifically ASE L3 (Light Duty Hybrid/EV) and whether my existing ASE electrical cert gives me any credit or fast-track. Not enrolling. Not deciding. Just reading the actual requirements page so I know what the terrain looks like.",
+      "rationale": "I started this last tick in the abstract — I was going to do a 60-90 minute research session. But now I have a more specific prompt from what Carlos said. He gave me a direction. My future_orientation (0.63) pulls me toward wanting a concrete picture of what an adaptation path would look like, even if I don't take it. My normalcy bias keeps this from being a commitment — I'm just reading. But reading is different from not reading. This is the second step in the watcher-to-adapter arc: last tick I confirmed the signal was real, this tick I start mapping the territory. Cost: zero dollars, 25 minutes.",
+      "timeline": "Lunch break today",
+      "expected_outcome": "I learn that ASE L3 certification requires hands-on EV diagnostic hours that I can't get without access to an EV. I also learn that there are online prep courses in the $300-500 range. I don't spend any money. But now I know the shape of the path and its first gate. That's worth something."
+    },
+    {
+      "action_id": 3,
+      "description": "Ask Zoe or one of the other shop employees if they know what Maria Santos actually did or announced — something about a council vote. Keep it casual. 'Hey, did you see anything about what the mayor's office put out? Someone mentioned something.' Don't show that it's meaningful to me.",
+      "rationale": "The word-of-mouth fragment I got was truncated — 'after the council vote, issue a second public stat...' That sounds like a policy announcement. Maria Santos is the mayor. If she's putting out public statements about something related to the auto sector or transportation or employment, that's important context. My professional_network is the shop grapevine. Zoe has talked before about local news. This is a low-cost information probe that might give me a fragment — not the full picture, but a fragment. It costs nothing and might connect a dot. My social_proof_sensitivity is low (0.42), so I'm not doing this because everyone else is doing it — I'm doing it because I want to know what the signal means.",
+      "timeline": "End of shift, casual conversation",
+      "expected_outcome": "Best case: Zoe has seen something — maybe mentions 'retraining grants' or 'task force' or 'RoboRide' as a word she heard. I don't know what any of those mean in full, but they give me a richer map. Realistic case: she shrugs and says she heard something about transportation. I get a word or a phrase I can look up later. Worst case: she doesn't know either and I've spent 3 minutes on a dead end. All acceptable."
+    },
+    {
+      "action_id": 4,
+      "description": "Notice — without acting on it — that I still have no health insurance. Look at my bank account. $15,947 saved, $499/month surplus. The math says I could afford a basic ACA marketplace plan. I don't sign up. But I let myself see the number clearly and acknowledge that one bad thing happening — a car accident, a bad cut at work — could erase months of savings. File it as 'I know this is a gap and I am choosing not to fix it right now.'",
+      "rationale": "My normalcy bias (0.68) has kept me from engaging with this vulnerability. Mechanics get cuts, strains, the occasional serious injury. I have $16K saved but if I needed an ER visit I could lose $4-8K of that in a night. I'm not going to sign up this tick — the normalcy bias is still pulling hard and there's no immediate trigger — but I want to at least be honest with myself that I'm carrying this risk deliberately, not accidentally. Making it a conscious choice rather than an avoidance is a tiny step in agency. Nothing spent, nothing signed, but the gap is now labeled.",
+      "timeline": "Evening, personal finance review",
+      "expected_outcome": "No financial change. Stress slightly elevated because I looked at the gap honestly. But agency ticks up marginally because I named the thing I'm choosing not to do. This is the groundwork for a future tick where I actually do something about it."
+    }
+  ],
+  "decisions": {
+    "enroll_in_ev_certification": false,
+    "purchase_health_insurance": false,
+    "approach_rick_about_role": false,
+    "intensify_job_search": false,
+    "contact_maria_santos_office": false,
+    "financial_restructuring": false
+  },
+  "updated_state": {
+    "stress_level": 0.28,
+    "agency": 0.44,
+    "grief_stage": "none",
+    "savings_delta": 249
+  },
+  "internal_monologue": "Carlos said 'the EV thing' like it was already a settled matter in his head, not a question he was still working out — and that's the part I keep coming back to. He's not worried about whether it's happening. He's working out what to do about it. That's a different posture. I keep telling myself the shop is fine today, and it is, but 'fine today' and 'fine in six months' aren't the same sentence and I've been using them interchangeably. The Maria Santos rumor is too vague to mean anything yet, but I want to know the actual word — whatever follows 'second public stat.' Words like that don't float around without something attached to them.",
+  "archetype_self_assessment": "watcher-to-adapter (two concrete research steps taken, no commitments, gap acknowledged but not closed)"
+}

@@ -1,0 +1,73 @@
+{
+  "tick": 3,
+  "agent_id": "salesperson_jake",
+  "agent_name": "Jake Morrison",
+  "current_state_summary": {
+    "threat_level": 0.73,
+    "runway_months": 3.3,
+    "savings": 16847,
+    "stress_level": 0.41,
+    "primary_concern": "RoboRide is live today, Patricia is modeling the dealership 40% smaller, David tightened loans, and my commission window is closing faster than my runway."
+  },
+  "threat_assessment": {
+    "immediate": "Rick is running full floor intensity and visibly watching who produces. If I am not closing used vehicles under $22K this week, I become the non-producing salesperson in a dealership that Patricia is about to shrink. That gets me cut first. The loan tightening also means buyers I would have closed last month now don't qualify — that's lost commission I can't get back.",
+    "horizon_2mo": "Patricia's '40% smaller' GM meeting is not hypothetical. She ran the numbers. In 60 days, there are probably 2-3 fewer salespeople on this floor. With a 615 credit score and $16,847 in savings, I cannot absorb a gap in income. If I'm not the one who stays, I have maybe five weeks before I start missing payments.",
+    "horizon_6mo": "RoboRide expands to Phase 2 coverage. New car sales drop another 15-20%. The used under-$22K segment holds longer but compresses too. If I am still in this role in six months without a parallel income stream or a completed retraining path, I am in a housing crisis — $1,465 mortgage on either unemployment or a drastically reduced commission base."
+  },
+  "hierarchy_priority": "L0_SURVIVE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Work the used vehicle floor hard this week — every shift, full presence. Target the under-$22K segment Rick has already reoriented to. Specifically: pull the current used inventory list, identify the 8-10 vehicles priced $14K-$21K that have been sitting longest, and run personal outreach to prior customers who bought new 4-6 years ago and might be open to a trade-down or a second vehicle purchase. Aim for 2 closed deals this tick at average commission of $600-$900 each.",
+      "rationale": "Rick's floor intensity message is social proof I cannot ignore — he is telling me the window is now, not next month. My strongest skill is sales and I have 11 years of customer relationships in Millfield. The used under-$22K segment is less exposed to loan tightening (lower principal, shorter terms, more cash buyers). I need commissions now. This is the one lever I can pull this week that directly affects whether I can pay my mortgage in two months.",
+      "timeline": "Immediately, every working day this tick",
+      "expected_outcome": "$1,200-$1,800 in commission income this tick, visible productivity to Rick and Patricia, and at least 2 closed deals that put me on the right side of any staffing calculation"
+    },
+    {
+      "action_id": 2,
+      "description": "Apply for Maria Santos's $2,500 retraining grant at millfield.gov/grants or by calling 555-0192. Fill out the application this week — not next week. I am a service sector worker in auto retail facing documented industry displacement. I qualify. The $2,500 extends my runway from 3.3 months to approximately 3.8 months, which is not safety but it is margin.",
+      "rationale": "I went to the town hall. I heard Maria name the grant, name the link, name the phone number. I took notes. The application cost is time, not money. My normalcy bias will tell me 'that's for people who've already lost their job' — that is the bias talking, not the eligibility criteria. $2,500 against a $16,847 savings balance is a 14.8% increase in my runway. A man with 2 dependents and a $1,465 mortgage does not leave that on the table because it feels like admitting something.",
+      "timeline": "Complete application within the first 3 days of this tick",
+      "expected_outcome": "Application submitted. $2,500 grant approved within 2-3 weeks, extending runway to approximately 3.8 months. The act of applying also forces me to articulate my situation in writing, which is its own kind of clarity."
+    },
+    {
+      "action_id": 3,
+      "description": "Spend one focused hour — not scattered browsing, one hour with a notepad — mapping where sales, customer service, and negotiation skills actually transfer in Millfield's current economy. Specific targets to research: insurance sales (State Farm has an office on Route 9), real estate (Millfield residential market not yet disrupted), B2B account management roles at regional distributors, and whether the RoboRide rollout itself creates any local fleet management or customer service positions. Write down 3 specific job titles and the name of one person or company to contact for each.",
+      "rationale": "I am not quitting the dealership. But 3.3 months is not enough runway to wait until I have no choice. The research costs me one hour and produces actionable information. My identity attachment to the sales role is 0.65 — meaning I still have 35% of room to imagine myself somewhere else. I need to use that room before I'm desperate enough that it closes. This is not betrayal of the job. It is what a man with 2 dependents is obligated to do.",
+      "timeline": "One evening this tick, after the kids are in bed",
+      "expected_outcome": "A list of 3 specific transfer targets with at least one real contact name for each. Not a plan yet — just a map. Maps are how you stop being lost."
+    },
+    {
+      "action_id": 4,
+      "description": "Look up the current trade-in value of my own vehicle on KBB and CarGurus — takes 15 minutes. Note what the vehicle is worth today versus what it will likely be worth in 4 months if RoboRide Phase 2 runs and general AV adoption depresses used car values in covered markets. Do not act yet. Just know the number.",
+      "rationale": "My $608/month car payment is the largest controllable expense I have. I identified this as a vulnerability in tick 2 and then did not act on it. RoboRide being live today changes the valuation math — Phase 2 coverage will depreciate vehicles in the Millfield market. The time to know what the car is worth is before the market prices in a robotaxi city, not after. I do not need to sell it today. I need to know the number so I can decide with information instead of avoidance.",
+      "timeline": "15 minutes this week, any day",
+      "expected_outcome": "A specific dollar figure for current trade-in value and a rough estimate of depreciation exposure over the next 4 months. If the gap is more than $3,000, I make a different decision than if it's $800."
+    }
+  ],
+  "decisions": {
+    "apply_for_retraining_grant": true,
+    "grant_url": "millfield.gov/grants",
+    "grant_phone": "555-0192",
+    "grant_amount": 2500,
+    "floor_presence": "full — matching Rick's intensity, visible and producing",
+    "sales_target_segment": "used vehicles under $22K, prioritizing inventory sitting 30+ days",
+    "aggressive_crm_blast": false,
+    "targeted_prior_customer_outreach": true,
+    "begin_transfer_skill_research": true,
+    "quit_job": false,
+    "make_large_financial_moves": false,
+    "vehicle_valuation_check": true,
+    "vehicle_sale_decision": "defer — gather information only this tick",
+    "contact_david_chen_about_personal_loan": false,
+    "stress_management_approach": "productive action over rumination — close deals, submit grant, do the hour of research"
+  },
+  "updated_state": {
+    "stress_level": 0.41,
+    "agency": 0.73,
+    "grief_stage": "bargaining",
+    "savings_delta": -19
+  },
+  "internal_monologue": "RoboRide is live. Not a rumor. Not a pilot. Live, today, $0.18 a mile, fifteen minutes and someone's car shows up. Patricia ran the 40%-smaller math in a closed-door meeting and didn't tell any of us. Rick is on the lot two afternoons a week pushing floor intensity because he knows the same thing I know — the window is closing and whoever closes cars in this window keeps their job and whoever doesn't gives Patricia an easy list. I have two kids and $16,847 and 3.3 months and a mortgage I cannot miss. I am applying for that $2,500 grant today, not because it saves me, but because I do not have the luxury of pride right now. I am going to sell two used cars this week if I have to camp by the door. And tonight, after the kids are asleep, I am going to write down three job titles on a piece of paper and not show it to anyone — because that's not giving up, that's what a father does.",
+  "archetype_self_assessment": "reluctant adapter turning the corner — the reluctance is still there but it's losing the argument"
+}
