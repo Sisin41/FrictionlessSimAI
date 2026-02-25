@@ -9,6 +9,11 @@
       "tick": 1,
       "summary": "Push driving hours to 60-62 per week for the next four weeks while the window is still open. Prioritize high-margin ride types: airport runs, late-night premium hours, and any local events. Log every dollar. The income window before RoboRide arrives is finite and I need to bank as much as possible.",
       "emotional_state": "The denial broke. Not completely \u2014 Robert is not in free fall \u2014 but the specific combination of a company name, a city name, and a two-month timeline did something that generalized anxiety about automation could not do. It made the threat concrete. He is now operating in a different register: frightened but not frozen. The fear is functional, which is the best version of fear. He sat in a gas station parking lot for twelve minutes processing something he couldn't process while driving. He is not telling Marcus anything. He is holding the external presentation of stability very tightly. Underneath: a sustained high-stress hum, occasional intrusive calculations in the middle of the night, a specific new guilt about the brakes. He is a man who has spent six years being competent at one thing and is now staring at a horizon where that competence expires. He has not yet grieved that. He is not ready to. He is doing what he knows how to do \u2014 working \u2014 while trying, for the first time, to look sideways at what else might exist."
+    },
+    {
+      "tick": 2,
+      "summary": "Apply for Maria's $2,500 workforce retraining grant this week. Not research it. Not bookmark it. Fill out the form and submit it. The council is expected to pass the program. I qualify. Waiting to apply until after it passes is the same logic that kept me from fixing the brakes \u2014 deferring a clear action because the timing feels slightly uncertain. The time to apply is now.",
+      "emotional_state": "Resolved but not calm. The difference between tick 1 and tick 2 is that the fear has found a direction. Last month the fear was ambient \u2014 it was in the walls. This month it is pointing at specific things: the grant form, the permit exam date, Carlos's phone number. Robert is not optimistic. He is not telling himself this is going to be fine. He is telling himself that there are four actions in front of him and each one is something he can actually do, and that doing them is better than not doing them, and that is enough to move on. He is still not telling Marcus anything beyond that work has been busy. The weight of carrying that alone is real. But he is not ready to explain something he hasn't resolved yet. The car payment sits in the back of his mind every time he runs the numbers \u2014 $480 on an asset that serves a market that is expiring. He has not made a decision about it yet. That decision is coming. He knows it's coming. He is not ready for it this tick."
     }
   ],
   "past_outcomes": [
@@ -27,6 +32,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Push driving hours to 60-62 per week for the next four weeks while the window is still open. Prioritize high-margin ride types: airport runs, late-night premium hours, and any local events. Log every dollar. The income window before RoboRide arrives is finite and I need to bank as much as possible.. Savings grew by $387. "
+    },
+    {
+      "tick": 2,
+      "action": "Apply for Maria's $2,500 workforce retraining grant this week. Not research it. Not bookmark it. Fill out the form and submit it. The council is expected to pass the program. I qualify. Waiting to apply until after it passes is the same logic that kept me from fixing the brakes \u2014 deferring a clear action because the timing feels slightly uncertain. The time to apply is now.",
+      "savings_delta": 387,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Apply for Maria's $2,500 workforce retraining grant this week. Not research it. Not bookmark it. Fill out the form and submit it. The council is expected to pass the program. I qualify. Waiting to apply until after it passes is the same logic that kept me from fixing the brakes \u2014 deferring a clear action because the timing feels slightly uncertain. The time to apply is now.. Savings grew by $387. "
     }
   ],
   "reflections": [],

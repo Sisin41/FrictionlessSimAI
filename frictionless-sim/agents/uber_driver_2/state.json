@@ -25,8 +25,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 1.5,
-      "threat_level": 0.88,
+      "runway_months": 1.6,
+      "threat_level": 0.87,
       "monthly_essentials": 1100,
       "health_cost_from_stress": 0
     },
@@ -74,7 +74,7 @@
       "availability_heuristic": 0.54,
       "social_proof_sensitivity": 0.54
     },
-    "sentiment": "Steady. A little tired from the clinical block Tuesday, but grounded. The plan is working. I just have to keep executing."
+    "sentiment": "neutral"
   },
   "psychological": {
     "stress_level": 0.22,
@@ -86,7 +86,7 @@
   "financial": {
     "monthly_income": 2200,
     "monthly_expenses": 1787,
-    "savings": 2612,
+    "savings": 2818,
     "debt_total": 35485,
     "credit_score": 796
   },
@@ -104,5 +104,5 @@
   },
   "locality": "millfield",
   "archetype": "I'm not a rideshare driver. I'm a nursing student who drives to pay tuition. That distinction matters to me. The car is a tool. The stethoscope is the goal.",
-  "tick_updated": 1
+  "tick_updated": 2
 }

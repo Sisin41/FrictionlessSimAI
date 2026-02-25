@@ -9,6 +9,11 @@
       "tick": 1,
       "summary": "Attend Patricia's all-hands meeting with full presence and without defensive posturing. Listen for concrete information about the Phase 2 timeline, any company pivot plans, and what leadership knows that workers don't. Take notes. Do not deflect.",
       "emotional_state": "Grief, beginning. The specific kind that comes before acceptance \u2014 when the story you've told yourself about who you are starts to feel thin. Not collapse. Not despair. But the chest-tightening recognition that 'I fix cars, it's who I am' might be the *past* tense of a true thing rather than the present tense. There is anger underneath it \u2014 at the speed of it, at the unfairness, at having built something real with his hands only to watch the world decide hands like his matter less. But anger is still energy. He is not numb. He is not done."
+    },
+    {
+      "tick": 2,
+      "summary": "Spend 90 minutes actually reading the EV certification page that has been open in the browser. Not skimming. Reading. Map his existing ASE certifications against the prerequisites for EVT (Electric Vehicle Technician) Level 2 certification. Write down on paper what he already has and what the actual gap is \u2014 not what he fears the gap is. Identify cost, time commitment, and whether the program can be done while employed.",
+      "emotional_state": "Deliberate. Slower than afraid. The grief is still there \u2014 it is sitting in the chest the way a pulled muscle reminds you it exists every time you breathe. But there is something underneath it now that is not quite hope and is not quite resolve, but is in the neighborhood. The tab is real. The reading is real. Elena deserves to know. Asking Patricia is the kind of thing a man with 23 years and a mortgage does instead of waiting for a memo."
     }
   ],
   "past_outcomes": [
@@ -27,6 +32,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Attend Patricia's all-hands meeting with full presence and without defensive posturing. Listen for concrete information about the Phase 2 timeline, any company pivot plans, and what leadership knows that workers don't. Take notes. Do not deflect.. Savings grew by $193. "
+    },
+    {
+      "tick": 2,
+      "action": "Spend 90 minutes actually reading the EV certification page that has been open in the browser. Not skimming. Reading. Map his existing ASE certifications against the prerequisites for EVT (Electric Vehicle Technician) Level 2 certification. Write down on paper what he already has and what the actual gap is \u2014 not what he fears the gap is. Identify cost, time commitment, and whether the program can be done while employed.",
+      "savings_delta": 193,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Spend 90 minutes actually reading the EV certification page that has been open in the browser. Not skimming. Reading. Map his existing ASE certifications against the prerequisites for EVT (Electric Vehicle Technician) Level 2 certification. Write down on paper what he already has and what the actual gap is \u2014 not what he fears the gap is. Identify cost, time commitment, and whether the program can be done while employed.. Savings grew by $193. "
     }
   ],
   "reflections": [],

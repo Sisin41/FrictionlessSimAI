@@ -9,6 +9,11 @@
       "tick": 1,
       "summary": "Spend extended time on the floor during lunch service actively listening to what the Auto Row workers know and believe about the RoboRide timeline, the Phase 2 rollout, and what the bosses are saying. Ask careful, genuine questions \u2014 not as market research but as a neighbor who wants to understand. Record notes in the back after close.",
       "emotional_state": "Frightened but functional. The fear is specific and real \u2014 not the ambient low-level dread of a bad week but a concrete threat that arrived with a timeline attached. There is grief underneath the fear, the grief of someone who has built something for thirty years watching the ground under it shift. She is not panicking. She is also not pretending. She refilled coffee cups she didn't need to refill. That is the honest measure of where she is."
+    },
+    {
+      "tick": 2,
+      "summary": "Apply for Maria Santos's $5,000 small business stabilization grant. Fill out the paperwork this week. The qualification criteria are met. The money is not for spending \u2014 it is for extending runway if the 60% drop scenario materializes. A $5,000 cushion converts a 6.4-month runway into something closer to 7.5 months at 60% revenue loss. That is the difference between having time to adapt and not having time.",
+      "emotional_state": "Purposeful and cautious. The fear has not gone away but it has found a shape \u2014 it is no longer ambient, it is directional. There is something that feels like relief in deciding to act rather than continuing to observe. She is not confident. She is willing. That is not the same thing, but it is what the moment calls for."
     }
   ],
   "past_outcomes": [
@@ -27,6 +32,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Spend extended time on the floor during lunch service actively listening to what the Auto Row workers know and believe about the RoboRide timeline, the Phase 2 rollout, and what the bosses are saying. Ask careful, genuine questions \u2014 not as market research but as a neighbor who wants to understand. Record notes in the back after close.. Savings grew by $116. "
+    },
+    {
+      "tick": 2,
+      "action": "Apply for Maria Santos's $5,000 small business stabilization grant. Fill out the paperwork this week. The qualification criteria are met. The money is not for spending \u2014 it is for extending runway if the 60% drop scenario materializes. A $5,000 cushion converts a 6.4-month runway into something closer to 7.5 months at 60% revenue loss. That is the difference between having time to adapt and not having time.",
+      "savings_delta": 116,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Apply for Maria Santos's $5,000 small business stabilization grant. Fill out the paperwork this week. The qualification criteria are met. The money is not for spending \u2014 it is for extending runway if the 60% drop scenario materializes. A $5,000 cushion converts a 6.4-month runway into something closer to 7.5 months at 60% revenue loss. That is the difference between having time to adapt and not having time.. Savings grew by $116. "
     }
   ],
   "reflections": [],

@@ -9,6 +9,11 @@
       "tick": 1,
       "summary": "Film and post a TikTok/Reel tonight: 'I built my life around not owning a car two years ago \u2014 here's why Millfield being added to RoboRide Phase 2 means I'm already living the lifestyle everyone else is about to have to learn.' Lean into being early, not desperate. Energy is high right now. Use it.",
       "emotional_state": "Genuinely energized \u2014 this is the rare feeling of being vindicated by reality rather than just telling yourself you made the right call. There is a kind of brightness to it. But underneath: the $2,998 and 1.2-month number exists. She knows it. She is choosing not to let it flatten the high right now. The stress is still there at baseline, still normalized, still not ringing any alarms it probably should."
+    },
+    {
+      "tick": 2,
+      "summary": "Research and formally apply for Maria Santos's $2,500 retraining grant before the application window opens or fills. Contact the council office directly, find the eligibility criteria for service sector workers, and submit all required documentation this week. This is real money, not potential money.",
+      "emotional_state": "The brightness from last tick is still there but it has a different quality now \u2014 less pure validation, more pressure behind it. Like the feeling when you realize you've been telling a good story about your life while quietly ignoring the actual numbers. Not panic. Not yet. But something that finally feels proportionate to a 1.3-month runway."
     }
   ],
   "past_outcomes": [
@@ -27,6 +32,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Film and post a TikTok/Reel tonight: 'I built my life around not owning a car two years ago \u2014 here's why Millfield being added to RoboRide Phase 2 means I'm already living the lifestyle everyone else is about to have to learn.' Lean into being early, not desperate. Energy is high right now. Use it.. Savings grew by $198. "
+    },
+    {
+      "tick": 2,
+      "action": "Research and formally apply for Maria Santos's $2,500 retraining grant before the application window opens or fills. Contact the council office directly, find the eligibility criteria for service sector workers, and submit all required documentation this week. This is real money, not potential money.",
+      "savings_delta": 198,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Research and formally apply for Maria Santos's $2,500 retraining grant before the application window opens or fills. Contact the council office directly, find the eligibility criteria for service sector workers, and submit all required documentation this week. This is real money, not potential money.. Savings grew by $198. "
     }
   ],
   "reflections": [],

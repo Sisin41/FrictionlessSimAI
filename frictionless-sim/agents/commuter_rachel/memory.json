@@ -9,6 +9,11 @@
       "tick": 1,
       "summary": "Run detailed cost breakdown of total car ownership vs. projected RoboRide monthly subscription/per-ride costs for commute patterns. Calculate exact runway extension if car is sold at 2-month mark.",
       "emotional_state": "Cautiously activated. The announcement landed like a real jolt \u2014 not dread, more like the feeling when a vague problem suddenly has a deadline. Status anxiety is present but I can feel my analytical side pushing back on it. The car has always been both armor and anchor. Two months is enough time to think clearly if I start now."
+    },
+    {
+      "tick": 2,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -27,6 +32,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Run detailed cost breakdown of total car ownership vs. projected RoboRide monthly subscription/per-ride costs for commute patterns. Calculate exact runway extension if car is sold at 2-month mark.. Savings grew by $591. "
+    },
+    {
+      "tick": 2,
+      "action": "routine",
+      "savings_delta": 591,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings grew by $591. "
     }
   ],
   "reflections": [],

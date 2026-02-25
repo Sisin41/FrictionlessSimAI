@@ -43,8 +43,8 @@
     },
     "L3_CONSUME": {
       "discretionary_budget": 1375,
-      "owns_car": true,
-      "car_payment_monthly": 608,
+      "owns_car": false,
+      "car_payment_monthly": 0,
       "substitution_willingness": 0.35
     },
     "L4_SIGNAL": {
@@ -76,7 +76,7 @@
       "availability_heuristic": 0.38,
       "social_proof_sensitivity": 0.52
     },
-    "sentiment": "Cracked but not broken. The normalcy bias is still running \u2014 I caught myself thinking 'robotaxis won't work in midwest winters' twice today \u2014 but there is a new sound underneath it, like something structural shifting. Not panic. Not acceptance. The specific dread of a man who has been mildly wrong for months and is about to find out how wrong, in a room full of colleagues, from a woman who signs his checks. Functional. Present. Scared in the useful direction."
+    "sentiment": "The dread is sharper now and I am not going to pretend it isn't. But sharp is better than diffuse \u2014 diffuse is what I had for the last six months when I kept telling myself the industry would adjust. What I feel right now is the specific, clarifying fear of a man who has counted the days and decided he cannot afford to wait for a better moment to start moving. I'm not spiraling. I went to the all-hands. I heard nothing that made me feel safe, which is the most useful thing Patricia could have told me without saying a word."
   },
   "psychological": {
     "stress_level": 0.29,
@@ -86,9 +86,9 @@
     "high_stress_ticks": 0
   },
   "financial": {
-    "monthly_income": 5500,
+    "monthly_income": 5115,
     "monthly_expenses": 5134,
-    "savings": 16866,
+    "savings": 16847,
     "debt_total": 41695,
     "credit_score": 615
   },
@@ -127,6 +127,6 @@
     "willingness_to_move": 0.05
   },
   "locality": "millfield",
-  "archetype": "I've been the Hustler \u2014 head down, phones up, work harder than the problem. That archetype got me through every slow month for eleven years. But the Hustler assumes the game is still being played. The all-hands tomorrow might be the moment I have to consider becoming something else: the Adapter. I don't know what that looks like yet. I know what it costs to find out.",
-  "tick_updated": 1
+  "archetype": "reluctant adapter",
+  "tick_updated": 2
 }

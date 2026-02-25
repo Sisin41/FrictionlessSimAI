@@ -9,6 +9,11 @@
       "tick": 1,
       "summary": "Open the SQL course tonight \u2014 not re-enroll, not re-read the syllabus, actually complete Module 1. Set a phone alarm for 8pm labeled 'SQL not optional.' No Maya plans tonight. This gets done.",
       "emotional_state": "Unsettled in a productive way. The RoboRide announcement landed differently than the abstract warnings did \u2014 there's a company name now, a city name I recognize as mine, a number: two months. The low-grade restlessness from last tick has sharpened into something with more edge to it. Not panic \u2014 I'm still employed, still earning, still fine by most measures \u2014 but the comfortable distance I was keeping from the threat has closed. I feel a specific kind of discomfort that comes from knowing I did not do what I said I would do last tick. That gap between 'I'm not scared of change' and 'I deferred the SQL course again' is sitting in my chest. I want to close it tonight. That desire feels real, not performed. The question I've been carrying all tick: is this the moment I actually become the person I've been describing myself as, or is this the moment I find out I was narrating a character rather than living one?"
+    },
+    {
+      "tick": 2,
+      "summary": "Complete Module 2 of the SQL course tonight. Not schedule it, not read the overview \u2014 open it and finish it. Module 1 was the proof I could start. Module 2 is the proof that last tick was a habit forming, not a one-time event.",
+      "emotional_state": "Sharper than last tick. Less philosophical, more operational. The unsettled feeling is still there but it has a different quality now \u2014 it's not the anxiety of seeing something bad coming, it's the specific discomfort of knowing I probably left two of my three commitments undone. That discomfort is useful. I'm not going to perform self-forgiveness about it or spend energy on guilt. I'm going to do the things tonight. The grant application is new and it's the clearest decision in the list \u2014 Maria Santos put $2,500 on a table and pointed at me and said 'that's for you.' Leaving it there would be a specific kind of foolishness I cannot afford at 6 months runway."
     }
   ],
   "past_outcomes": [
@@ -27,6 +32,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Open the SQL course tonight \u2014 not re-enroll, not re-read the syllabus, actually complete Module 1. Set a phone alarm for 8pm labeled 'SQL not optional.' No Maya plans tonight. This gets done.. Savings grew by $71. "
+    },
+    {
+      "tick": 2,
+      "action": "Complete Module 2 of the SQL course tonight. Not schedule it, not read the overview \u2014 open it and finish it. Module 1 was the proof I could start. Module 2 is the proof that last tick was a habit forming, not a one-time event.",
+      "savings_delta": -322,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Complete Module 2 of the SQL course tonight. Not schedule it, not read the overview \u2014 open it and finish it. Module 1 was the proof I could start. Module 2 is the proof that last tick was a habit forming, not a one-time event.. Savings dropped by $322. "
     }
   ],
   "reflections": [],

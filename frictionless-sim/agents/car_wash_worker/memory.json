@@ -9,6 +9,11 @@
       "tick": 1,
       "summary": "Aggressively finalize roommate search \u2014 post on every platform, lower the ask, take the first financially viable applicant. Splitting rent cuts monthly burn nearly in half and extends runway past the displacement window.",
       "emotional_state": "Calm, slightly pressured. Not scared. Frustrated that the timeline is tight but not paralyzed. This is a logistics problem, not an identity crisis."
+    },
+    {
+      "tick": 2,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -27,6 +32,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Aggressively finalize roommate search \u2014 post on every platform, lower the ask, take the first financially viable applicant. Splitting rent cuts monthly burn nearly in half and extends runway past the displacement window.. Savings grew by $131. "
+    },
+    {
+      "tick": 2,
+      "action": "routine",
+      "savings_delta": 131,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings grew by $131. "
     }
   ],
   "reflections": [],

@@ -9,6 +9,11 @@
       "tick": 1,
       "summary": "Contact Maria Santos directly before the emergency council session \u2014 not to lobby, but to offer: real intake data from the drop-in hours, anecdotal testimony I can organize, and my center as a potential node in any council-coordinated response infrastructure. Position the community center as operational support for whatever the council decides, not a supplicant. Ask what she needs from me to make the session productive.",
       "emotional_state": "The announcement landed hard. Not in a way I showed \u2014 I was alone when I read it, and I let myself sit with it for about four minutes before I started making notes. Two months. I've been running on a slow-burn vigilance for weeks and now there is a date. That's clarifying in a way that's almost a relief, which I recognize is a strange thing to feel. The ambiguity was its own kind of weight. Now I know what I'm preparing for. There is urgency underneath my calm and I am not suppressing it \u2014 I am converting it. The call to Maria feels important and also slightly terrifying, which tells me it's the right move. I'm aware of my low agency pattern: I tend to prepare extensively and then hesitate at the moment of action. I am not going to hesitate this time. I'm making the call today."
+    },
+    {
+      "tick": 2,
+      "summary": "Compile and deliver anonymized intake data report to Maria Santos as requested. Report covers Community Connection Night attendees (Tuesdays/Thursdays): aggregate demographics, employment status categories, named stressors cited, services requested, and referral needs. Framed explicitly as evidence for the council vote. Delivered in writing within 48 hours \u2014 not at the end of the week, not after one more review pass. Within 48 hours.",
+      "emotional_state": "Grounded. There is something steadying about having a specific person ask me for a specific thing by a specific date. Maria asked me for the data in writing. That is not ambiguous. The temptation to over-prepare \u2014 to run the report through three more review passes, to wonder if the task force application is strong enough before I send it \u2014 is present and I am naming it so I can set it aside. The people who came in Tuesday are not ambiguous either. Harold, who drove taxis for eleven years and does not know how to make a resume. The woman who would not give her name but took the handout. They are why I move fast. Not for myself. For them."
     }
   ],
   "past_outcomes": [
@@ -27,6 +32,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Contact Maria Santos directly before the emergency council session \u2014 not to lobby, but to offer: real intake data from the drop-in hours, anecdotal testimony I can organize, and my center as a potential node in any council-coordinated response infrastructure. Position the community center as operational support for whatever the council decides, not a supplicant. Ask what she needs from me to make the session productive.. Savings grew by $362. "
+    },
+    {
+      "tick": 2,
+      "action": "Compile and deliver anonymized intake data report to Maria Santos as requested. Report covers Community Connection Night attendees (Tuesdays/Thursdays): aggregate demographics, employment status categories, named stressors cited, services requested, and referral needs. Framed explicitly as evidence for the council vote. Delivered in writing within 48 hours \u2014 not at the end of the week, not after one more review pass. Within 48 hours.",
+      "savings_delta": 362,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Compile and deliver anonymized intake data report to Maria Santos as requested. Report covers Community Connection Night attendees (Tuesdays/Thursdays): aggregate demographics, employment status categories, named stressors cited, services requested, and referral needs. Framed explicitly as evidence for the council vote. Delivered in writing within 48 hours \u2014 not at the end of the week, not after one more review pass. Within 48 hours.. Savings grew by $362. "
     }
   ],
   "reflections": [],

@@ -9,6 +9,11 @@
       "tick": 1,
       "summary": "Call Patricia Hawkins (CEO) under the framing of a routine post-dinner follow-up \u2014 thank her for the gathering, ask if there are any strategic priorities she wants GMs to be watching or preparing for from the floor level. Listen for what she volunteers, what she avoids, and how she sounds.",
       "emotional_state": "controlled unease \u2014 outwardly steady, inwardly shaken in a way he won't admit to anyone including himself"
+    },
+    {
+      "tick": 2,
+      "summary": "Request a private, one-on-one sit-down with Patricia Hawkins \u2014 not a phone call, an in-person meeting. Frame it as a GM operational briefing: floor plan financing concerns, staffing continuity, Q2 inventory strategy. But the real agenda is to get her to tell me, without a room full of people watching, what the actual plan is for this store. Is Regional Auto Group holding Millfield? Is there a timeline I need to know? I have 4 dependents and I am not going to manage this floor blind for another tick.",
+      "emotional_state": "Visibly composed. Doing his job. The unease is present but contained \u2014 he's leaning into the floor work because motion feels like control. Privately: more unsettled than tick 1, because 'rumor' no longer applies. What he felt last tick as a maybe is now a when."
     }
   ],
   "past_outcomes": [
@@ -27,6 +32,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Call Patricia Hawkins (CEO) under the framing of a routine post-dinner follow-up \u2014 thank her for the gathering, ask if there are any strategic priorities she wants GMs to be watching or preparing for from the floor level. Listen for what she volunteers, what she avoids, and how she sounds.. Savings grew by $1,184. "
+    },
+    {
+      "tick": 2,
+      "action": "Request a private, one-on-one sit-down with Patricia Hawkins \u2014 not a phone call, an in-person meeting. Frame it as a GM operational briefing: floor plan financing concerns, staffing continuity, Q2 inventory strategy. But the real agenda is to get her to tell me, without a room full of people watching, what the actual plan is for this store. Is Regional Auto Group holding Millfield? Is there a timeline I need to know? I have 4 dependents and I am not going to manage this floor blind for another tick.",
+      "savings_delta": 799,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Request a private, one-on-one sit-down with Patricia Hawkins \u2014 not a phone call, an in-person meeting. Frame it as a GM operational briefing: floor plan financing concerns, staffing continuity, Q2 inventory strategy. But the real agenda is to get her to tell me, without a room full of people watching, what the actual plan is for this store. Is Regional Auto Group holding Millfield? Is there a timeline I need to know? I have 4 dependents and I am not going to manage this floor blind for another tick.. Savings grew by $799. "
     }
   ],
   "reflections": [],

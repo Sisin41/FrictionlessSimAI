@@ -9,6 +9,11 @@
       "tick": 1,
       "summary": "Follow up personally by phone with the two clients whose policies appear to have cancelled \u2014 try to win them back or at least learn why they left.",
       "emotional_state": "Controlled unease with a surface of confident professionalism. There is a low hum of anxiety underneath \u2014 the kind Tom has learned to keep below the level of conscious attention. The sector data number sits somewhere between the back of his mind and his stomach. He does not dwell on it. Dwelling would mean admitting something he isn't ready to admit."
+    },
+    {
+      "tick": 2,
+      "summary": "Attend Maria Santos's town hall to learn about the $2,500 retraining grants. Go not as someone seeking a grant \u2014 go as someone who wants to understand what's happening in the community and what options exist. Sit in the back. Take notes on paper, not on a phone. Do not raise your hand unless the question is purely informational.",
+      "emotional_state": "The controlled professional surface is still there \u2014 Tom will not come apart at work, will not let clients see anything except steadiness. But underneath that surface something has quietly shifted. The refrigerator hum stopped. The silence is louder now. He's not scared exactly. He's become the kind of not-scared that is actually the first quiet cousin of scared, the kind that makes you pick up the phone and ask a casual question to your regional manager that isn't casual at all."
     }
   ],
   "past_outcomes": [
@@ -27,6 +32,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Follow up personally by phone with the two clients whose policies appear to have cancelled \u2014 try to win them back or at least learn why they left.. Savings grew by $106. "
+    },
+    {
+      "tick": 2,
+      "action": "Attend Maria Santos's town hall to learn about the $2,500 retraining grants. Go not as someone seeking a grant \u2014 go as someone who wants to understand what's happening in the community and what options exist. Sit in the back. Take notes on paper, not on a phone. Do not raise your hand unless the question is purely informational.",
+      "savings_delta": -508,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Attend Maria Santos's town hall to learn about the $2,500 retraining grants. Go not as someone seeking a grant \u2014 go as someone who wants to understand what's happening in the community and what options exist. Sit in the back. Take notes on paper, not on a phone. Do not raise your hand unless the question is purely informational.. Savings dropped by $508. "
     }
   ],
   "reflections": [],

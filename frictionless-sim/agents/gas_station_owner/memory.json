@@ -9,6 +9,11 @@
       "tick": 1,
       "summary": "Research RoboRide's actual Phase 2 deployment model. Call the Millfield Chamber of Commerce, search news archives, find out if any other Phase 2 cities have published impact data on independent fuel retailers. Specifically: are these electric vehicles, hybrid, or mixed fleet? What is their daily fueling or charging behavior? Do they use commercial fuel accounts?",
       "emotional_state": "Unsettled but controlled. The kind of feeling I remember from 2008, when I watched the dealers across the street start dimming their lot lights to save money and knew something large was moving underneath the surface. Not panic. Not denial. Something between them \u2014 a quiet alertness, like a man who hears a sound he does not recognize and goes very still before deciding how to move. The pride is still there. So is the fear. I am holding them both for now."
+    },
+    {
+      "tick": 2,
+      "summary": "Apply for Maria Chen's $5,000 small business stabilization grant. Fill out the full application this week. Frame it around the AV corridor impact on Auto Row-adjacent fuel retailers \u2014 which is exactly what the data supports. Do not over-dramatize. Do not under-state. Present the Phase 2 impact data from other cities as evidence. Have Priya review it before submission.",
+      "emotional_state": "Heavier than last tick. Last tick was the feeling before the diagnosis. This tick is the feeling after \u2014 where the denial window has closed and I am standing in the knowledge now, not approaching it. I am not catastrophizing. I have been through enough to know that catastrophizing is just another way of avoiding real planning. But I am done managing my comfort. The research was supposed to give me hope and it gave me confirmation instead. I am 55 years old. I built something real. I am not going to let normalcy bias walk me backward into a wall I saw coming."
     }
   ],
   "past_outcomes": [
@@ -27,6 +32,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Research RoboRide's actual Phase 2 deployment model. Call the Millfield Chamber of Commerce, search news archives, find out if any other Phase 2 cities have published impact data on independent fuel retailers. Specifically: are these electric vehicles, hybrid, or mixed fleet? What is their daily fueling or charging behavior? Do they use commercial fuel accounts?. Savings grew by $910. "
+    },
+    {
+      "tick": 2,
+      "action": "Apply for Maria Chen's $5,000 small business stabilization grant. Fill out the full application this week. Frame it around the AV corridor impact on Auto Row-adjacent fuel retailers \u2014 which is exactly what the data supports. Do not over-dramatize. Do not under-state. Present the Phase 2 impact data from other cities as evidence. Have Priya review it before submission.",
+      "savings_delta": 665,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Apply for Maria Chen's $5,000 small business stabilization grant. Fill out the full application this week. Frame it around the AV corridor impact on Auto Row-adjacent fuel retailers \u2014 which is exactly what the data supports. Do not over-dramatize. Do not under-state. Present the Phase 2 impact data from other cities as evidence. Have Priya review it before submission.. Savings grew by $665. "
     }
   ],
   "reflections": [],

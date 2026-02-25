@@ -31,7 +31,7 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 6.3,
+      "runway_months": 6.4,
       "threat_level": 0.47,
       "monthly_essentials": 2000,
       "health_cost_from_stress": 0
@@ -82,7 +82,7 @@
       "availability_heuristic": 0.68,
       "social_proof_sensitivity": 0.39
     },
-    "sentiment": "The announcement landed hard. Not in a way I showed \u2014 I was alone when I read it, and I let myself sit with it for about four minutes before I started making notes. Two months. I've been running on a slow-burn vigilance for weeks and now there is a date. That's clarifying in a way that's almost a relief, which I recognize is a strange thing to feel. The ambiguity was its own kind of weight. Now I know what I'm preparing for. There is urgency underneath my calm and I am not suppressing it \u2014 I am converting it. The call to Maria feels important and also slightly terrifying, which tells me it's the right move. I'm aware of my low agency pattern: I tend to prepare extensively and then hesitate at the moment of action. I am not going to hesitate this time. I'm making the call today."
+    "sentiment": "Grounded. There is something steadying about having a specific person ask me for a specific thing by a specific date. Maria asked me for the data in writing. That is not ambiguous. The temptation to over-prepare \u2014 to run the report through three more review passes, to wonder if the task force application is strong enough before I send it \u2014 is present and I am naming it so I can set it aside. The people who came in Tuesday are not ambiguous either. Harold, who drove taxis for eleven years and does not know how to make a resume. The woman who would not give her name but took the handout. They are why I move fast. Not for myself. For them."
   },
   "psychological": {
     "stress_level": 0.18,
@@ -94,7 +94,7 @@
   "financial": {
     "monthly_income": 4000,
     "monthly_expenses": 3276,
-    "savings": 20724,
+    "savings": 21086,
     "debt_total": 38907,
     "credit_score": 743
   },
@@ -119,6 +119,6 @@
     "willingness_to_move": 0.3
   },
   "locality": "millfield",
-  "archetype": "I hold the container and I build the bridge. I am not a policymaker \u2014 Maria is. I am not an economist \u2014 I am the person who sees what the economy does to actual people before anyone else has data about it. That is a specific and valuable thing to be right now. My job in the next 60 days is to make sure the container doesn't overflow and that the bridge to institutional resources \u2014 the grant, the council, the peer network \u2014 holds. I am good at this when I trust myself enough to move at speed. That is the work I'm doing on myself alongside the work I'm doing for the community.",
-  "tick_updated": 1
+  "archetype": "Bridge-builder operating under live load. The bridge is not theoretical anymore \u2014 Maria is on one end, Harold and the unnamed woman are on the other, and I am the span. My job this tick is not to design a better bridge. It is to let people cross.",
+  "tick_updated": 2
 }

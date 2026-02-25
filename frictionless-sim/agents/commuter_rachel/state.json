@@ -25,8 +25,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 5.2,
-      "threat_level": 0.57,
+      "runway_months": 5.4,
+      "threat_level": 0.55,
       "monthly_essentials": 3000,
       "health_cost_from_stress": 0
     },
@@ -74,7 +74,7 @@
       "availability_heuristic": 0.44,
       "social_proof_sensitivity": 0.62
     },
-    "sentiment": "Cautiously activated. The announcement landed like a real jolt \u2014 not dread, more like the feeling when a vague problem suddenly has a deadline. Status anxiety is present but I can feel my analytical side pushing back on it. The car has always been both armor and anchor. Two months is enough time to think clearly if I start now."
+    "sentiment": "neutral"
   },
   "psychological": {
     "stress_level": 0.12,
@@ -86,7 +86,7 @@
   "financial": {
     "monthly_income": 6000,
     "monthly_expenses": 4817,
-    "savings": 25182,
+    "savings": 25773,
     "debt_total": 63092,
     "credit_score": 697
   },
@@ -112,5 +112,5 @@
   },
   "locality": "millfield",
   "archetype": "I am a status-aware pragmatist who is starting to realize that clinging to the old status signals might itself be the uncool move. I understand branding. I need to apply that skill to myself right now instead of defaulting to an identity that was built before autonomous vehicles were a calendar item in my city.",
-  "tick_updated": 1
+  "tick_updated": 2
 }

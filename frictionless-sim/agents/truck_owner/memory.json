@@ -9,6 +9,11 @@
       "tick": 1,
       "summary": "Prioritize closing the Henderson garage addition bid before Phase 2 RoboRide deployment creates uncertainty in the Auto Row economy. Push for a signed contract within 30 days rather than letting it drift.",
       "emotional_state": "Calm and slightly alert. Not rattled \u2014 the truck panic that might hit another person is entirely absent. But there is a low-grade unease about the people downstream. The kind of unease a contractor gets when he hears a big local employer is 'evaluating options.' He's done this long enough to know that threat usually travels one hop further than people expect."
+    },
+    {
+      "tick": 2,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -27,6 +32,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Prioritize closing the Henderson garage addition bid before Phase 2 RoboRide deployment creates uncertainty in the Auto Row economy. Push for a signed contract within 30 days rather than letting it drift.. Savings grew by $909. "
+    },
+    {
+      "tick": 2,
+      "action": "routine",
+      "savings_delta": 909,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings grew by $909. "
     }
   ],
   "reflections": [],

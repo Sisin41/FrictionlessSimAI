@@ -30,8 +30,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 6.2,
-      "threat_level": 0.48,
+      "runway_months": 6.3,
+      "threat_level": 0.47,
       "monthly_essentials": 2100,
       "health_cost_from_stress": 0
     },
@@ -81,7 +81,7 @@
       "availability_heuristic": 0.45,
       "social_proof_sensitivity": 0.63
     },
-    "sentiment": "Controlled urgency. Not panic \u2014 I have seen this coming long enough that the fear has had time to convert into focus. There is something almost clarifying about a deadline with a name on it. The ambiguity of 'eventually' was harder than '2 months.' Now I know what I am working against and I know what I have to offer. The stress is real but it is directional stress, the kind you can do something with."
+    "sentiment": "neutral"
   },
   "psychological": {
     "stress_level": 0.2,
@@ -93,7 +93,7 @@
   "financial": {
     "monthly_income": 4200,
     "monthly_expenses": 3478,
-    "savings": 21722,
+    "savings": 22083,
     "debt_total": 25977,
     "credit_score": 755
   },
@@ -126,5 +126,5 @@
   },
   "locality": "millfield",
   "archetype": "I am moving. The skills audit last tick was necessary groundwork but it was still research. This tick the research ends and the campaign starts. I am not the person who waits for the last customer to leave before locking up \u2014 I am the person who already knows the lease terms and has three prospects lined up before the sign goes in the window. That is the manager I have always been. I am applying it to myself now.",
-  "tick_updated": 1
+  "tick_updated": 2
 }

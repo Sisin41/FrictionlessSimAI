@@ -9,6 +9,11 @@
       "tick": 1,
       "summary": "Send a carefully worded memo to Regional VP Sandra Okafor flagging the RoboRide Phase 2 rumor as an unconfirmed market signal with potential implications for the branch's auto loan portfolio. Frame it as a proactive risk flag, not a crisis. Request a 30-minute call to discuss whether other branches in the region are seeing similar signals. Attach a brief one-page scenario sketch showing what a 15% and 30% decline in auto loan origination volume would mean for branch P&L over 12 months.",
       "emotional_state": "focused, controlled urgency \u2014 not alarmed but no longer passively monitoring"
+    },
+    {
+      "tick": 2,
+      "summary": "Send a follow-up communication to Sandra Okafor \u2014 not another memo, but a direct request for a 20-minute call this week. Reference the Maria Santos public statement and the RoboRide Phase 2 confirmation as the reason for urgency. Attach an updated scenario model with a third scenario added: 50% decline in auto loan origination over 18 months, reflecting a more aggressive adoption curve. Make clear I am ready to present a branch-level response plan if she wants one. Frame it as seeking alignment, not asking permission.",
+      "emotional_state": "deliberate urgency \u2014 the situation has clarified and I am moving with precision, not speed for its own sake. Privately more unsettled than I show at work."
     }
   ],
   "past_outcomes": [
@@ -27,6 +32,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Send a carefully worded memo to Regional VP Sandra Okafor flagging the RoboRide Phase 2 rumor as an unconfirmed market signal with potential implications for the branch's auto loan portfolio. Frame it as a proactive risk flag, not a crisis. Request a 30-minute call to discuss whether other branches in the region are seeing similar signals. Attach a brief one-page scenario sketch showing what a 15% and 30% decline in auto loan origination volume would mean for branch P&L over 12 months.. Savings grew by $1,269. "
+    },
+    {
+      "tick": 2,
+      "action": "Send a follow-up communication to Sandra Okafor \u2014 not another memo, but a direct request for a 20-minute call this week. Reference the Maria Santos public statement and the RoboRide Phase 2 confirmation as the reason for urgency. Attach an updated scenario model with a third scenario added: 50% decline in auto loan origination over 18 months, reflecting a more aggressive adoption curve. Make clear I am ready to present a branch-level response plan if she wants one. Frame it as seeking alignment, not asking permission.",
+      "savings_delta": 937,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Send a follow-up communication to Sandra Okafor \u2014 not another memo, but a direct request for a 20-minute call this week. Reference the Maria Santos public statement and the RoboRide Phase 2 confirmation as the reason for urgency. Attach an updated scenario model with a third scenario added: 50% decline in auto loan origination over 18 months, reflecting a more aggressive adoption curve. Make clear I am ready to present a branch-level response plan if she wants one. Frame it as seeking alignment, not asking permission.. Savings grew by $937. "
     }
   ],
   "reflections": [],

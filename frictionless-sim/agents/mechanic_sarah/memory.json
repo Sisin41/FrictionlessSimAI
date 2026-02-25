@@ -9,6 +9,11 @@
       "tick": 1,
       "summary": "Passively monitor Carlos's demeanor and the shop mood throughout the day without directly asking what is wrong. File it away as a low-grade anxiety signal.",
       "emotional_state": "Low-grade unease overlaid on a basically stable day. The anxiety is ambient, not acute \u2014 she can't point to a specific cause, which makes it harder to address. The tutorial gave her a small sense of forward motion that she needed without knowing she needed it."
+    },
+    {
+      "tick": 2,
+      "summary": "Approach Carlos casually at end of shift \u2014 not a direct confrontation, but a low-stakes opening. Something like: 'Hey, you've been quiet this week. You doing anything interesting after work?' Let him lead. If he mentions EV certs, engage. If he deflects, back off and note that he deflected.",
+      "emotional_state": "Still basically stable, but the ambient unease has sharpened into something more directional. The Carlos observation gave her anxiety a target instead of just a shape. She's not scared \u2014 she's alert. There's a difference."
     }
   ],
   "past_outcomes": [
@@ -27,6 +32,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Passively monitor Carlos's demeanor and the shop mood throughout the day without directly asking what is wrong. File it away as a low-grade anxiety signal.. Savings grew by $249. "
+    },
+    {
+      "tick": 2,
+      "action": "Approach Carlos casually at end of shift \u2014 not a direct confrontation, but a low-stakes opening. Something like: 'Hey, you've been quiet this week. You doing anything interesting after work?' Let him lead. If he mentions EV certs, engage. If he deflects, back off and note that he deflected.",
+      "savings_delta": 249,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Approach Carlos casually at end of shift \u2014 not a direct confrontation, but a low-stakes opening. Something like: 'Hey, you've been quiet this week. You doing anything interesting after work?' Let him lead. If he mentions EV certs, engage. If he deflects, back off and note that he deflected.. Savings grew by $249. "
     }
   ],
   "reflections": [],

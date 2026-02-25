@@ -9,6 +9,11 @@
       "tick": 1,
       "summary": "Drive peak hours only \u2014 Friday evening, Saturday morning airport surge, and one weekday evening block. Skip low-yield midday slots to preserve energy for clinical hours.",
       "emotional_state": "Steady. A little tired from the clinical block Tuesday, but grounded. The plan is working. I just have to keep executing."
+    },
+    {
+      "tick": 2,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -27,6 +32,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You Drive peak hours only \u2014 Friday evening, Saturday morning airport surge, and one weekday evening block. Skip low-yield midday slots to preserve energy for clinical hours.. Savings grew by $206. "
+    },
+    {
+      "tick": 2,
+      "action": "routine",
+      "savings_delta": 206,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings grew by $206. "
     }
   ],
   "reflections": [],

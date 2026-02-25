@@ -26,8 +26,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 1.3,
-      "threat_level": 0.89,
+      "runway_months": 1.4,
+      "threat_level": 0.88,
       "monthly_essentials": 1400,
       "health_cost_from_stress": 0
     },
@@ -75,7 +75,7 @@
       "availability_heuristic": 0.55,
       "social_proof_sensitivity": 0.6
     },
-    "sentiment": "Genuinely energized \u2014 this is the rare feeling of being vindicated by reality rather than just telling yourself you made the right call. There is a kind of brightness to it. But underneath: the $2,998 and 1.2-month number exists. She knows it. She is choosing not to let it flatten the high right now. The stress is still there at baseline, still normalized, still not ringing any alarms it probably should."
+    "sentiment": "The brightness from last tick is still there but it has a different quality now \u2014 less pure validation, more pressure behind it. Like the feeling when you realize you've been telling a good story about your life while quietly ignoring the actual numbers. Not panic. Not yet. But something that finally feels proportionate to a 1.3-month runway."
   },
   "psychological": {
     "stress_level": 0.16,
@@ -87,7 +87,7 @@
   "financial": {
     "monthly_income": 2800,
     "monthly_expenses": 2404,
-    "savings": 3196,
+    "savings": 3394,
     "debt_total": 20222,
     "credit_score": 581
   },
@@ -112,6 +112,6 @@
     "willingness_to_move": 0.95
   },
   "locality": "millfield",
-  "archetype": "I was right and now I can prove I was right with a camera in my hand. That is not nothing. The content path was always the move I kept saying I would take seriously \u2014 maybe this is the thing that finally makes me take it seriously. I am not behind. I am positioned. I just have to actually follow through this time and not let the idea be enough.",
-  "tick_updated": 1
+  "archetype": "gig-survivor waking up | adapter starting to move",
+  "tick_updated": 2
 }

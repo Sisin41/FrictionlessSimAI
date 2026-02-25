@@ -82,7 +82,7 @@
       "availability_heuristic": 0.54,
       "social_proof_sensitivity": 0.58
     },
-    "sentiment": "Grounded. The confirmation of what I already suspected is not frightening \u2014 it is clarifying. I feel the kind of calm that comes from having moved first. There is a small undertow of pressure knowing that the institutional gears are now turning above me and timelines may compress, but that pressure is productive. I am not in denial, I am not catastrophizing. I am a 44-year-old professional who has done this work for two decades and still has runway, savings, a supportive manager, and a bank that needs people who can do more than one thing. The next 60 days matter. I will make them count."
+    "sentiment": "Focused and slightly accelerated. The calm from tick 1 is still the foundation, but the word-of-mouth about David's memo introduces a new variable: institutional timelines are now outside my direct control in a way they were not before. That is not alarming \u2014 it is information. The right response is compression, not panic. I am moving the closing shadow up, filing the grant today, and making sure David sees my progress before Sandra does. This is still methodical. It is methodical with a tighter clock."
   },
   "psychological": {
     "stress_level": 0.11,
@@ -92,9 +92,9 @@
     "high_stress_ticks": 0
   },
   "financial": {
-    "monthly_income": 5500,
+    "monthly_income": 5115,
     "monthly_expenses": 5195,
-    "savings": 38804,
+    "savings": 38724,
     "debt_total": 77544,
     "credit_score": 682
   },
@@ -133,6 +133,6 @@
     "willingness_to_move": 0.2
   },
   "locality": "millfield",
-  "archetype": "I am the Methodical Adapter. I read the signal early, verified it, flagged it through the right channels, and now I am executing the response before the situation forces my hand. I am not the hero who fights the disruption, and I am not the victim who is surprised by it. I am the professional who does the unglamorous, necessary work of updating his own skill set and having the hard conversations \u2014 with his boss, with his family \u2014 while the window is open. That is the right thing. That is the only thing.",
-  "tick_updated": 1
+  "archetype": "methodical-adapter, compression phase \u2014 the plan was right, the pace now needs to match the institutional timeline, not just my personal one",
+  "tick_updated": 2
 }

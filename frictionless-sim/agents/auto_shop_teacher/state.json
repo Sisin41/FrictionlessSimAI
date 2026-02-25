@@ -25,8 +25,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 7.8,
-      "threat_level": 0.35,
+      "runway_months": 7.9,
+      "threat_level": 0.34,
       "monthly_essentials": 2250,
       "health_cost_from_stress": 0
     },
@@ -76,7 +76,7 @@
       "availability_heuristic": 0.42,
       "social_proof_sensitivity": 0.67
     },
-    "sentiment": "Focused. There's a sharpness to today that wasn't there before \u2014 the kind of clarity that comes when the abstract becomes concrete. I'm not anxious about RoboRide. I'm energized by it. This is exactly the kind of signal I needed to make the case undeniable. The work ahead is the same work I was already doing, just with a harder edge and a tighter clock. That suits me fine."
+    "sentiment": "Focused and slightly impatient with myself \u2014 the good kind. The presentation is strong and I know it. But I can feel the pull to coast on that, and I'm not going to let it happen. April is close. The Maria Santos angle, the real budget numbers, the ASE and Tesla outreach \u2014 none of this is hard. It's just disciplined follow-through. That's the job right now."
   },
   "psychological": {
     "stress_level": 0.12,
@@ -88,7 +88,7 @@
   "financial": {
     "monthly_income": 4500,
     "monthly_expenses": 3600,
-    "savings": 27900,
+    "savings": 28350,
     "debt_total": 57778,
     "credit_score": 766
   },
@@ -120,6 +120,6 @@
     "willingness_to_move": 0.55
   },
   "locality": "millfield",
-  "archetype": "The announcement confirms what I already believed. I'm not scrambling \u2014 I'm ahead of it. The teachers who lose their programs are the ones who react. I was already in motion. Now I have wind at my back and two months of community-visible proof arriving on schedule. The board review in April is going to feel very different than it would have yesterday.",
-  "tick_updated": 1
+  "archetype": "Still ahead. But 'ahead' isn't a permanent state \u2014 it's a posture you maintain. The teachers who lose their programs in April are the ones who had a good idea in January and thought that was enough. I've got a reframed proposal with real data. Now I need real numbers, real names, and real funding on the table before I walk through that door.",
+  "tick_updated": 2
 }
