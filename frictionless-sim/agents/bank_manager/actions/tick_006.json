@@ -1,0 +1,71 @@
+{
+  "tick": 6,
+  "agent_id": "bank_manager",
+  "agent_name": "David Chen",
+  "response": {
+    "internal_assessment": "I am unemployed. The outcome from tick 5 confirmed it — savings dropped by a full month of expenses and employment status changed. I don't fully understand the mechanism. Did Sandra receive the plan and respond by eliminating my position? Did the bank restructure? I have no direct response from her in this inbox. What I do know: auto loan volume is at index 79, robotaxi adoption is visibly accelerating at 7%, and both Kevin O'Brien and Linda Park are making moves. Kevin has apparently prepared a written brief specifically for me — that is not nothing. He is my subordinate and he trusts me more than most. I need to understand what he has prepared. I have 24 months of runway at current burn rate, but with zero income that clock is real. I am not in crisis yet. I am in the 'controlled urgency' phase. The commercial lending coursework is 30% complete — I should not abandon it. My skills are finance, risk assessment, lending, management. These transfer. But I need to move from institutional loyalty to individual positioning now.",
+    "inbox_interpretation": "The sector data confirms what I already modeled: auto loan applications are down, lending volume at 79. This validates every memo I sent. The robotaxi observation — 7% regular usage — is faster adoption than the low scenario I sketched. Linda Park (AutoShield Insurance) making changes is significant; auto insurance follows auto ownership, and if she is pivoting, the ecosystem signal is clear. Kevin O'Brien preparing a brief for me suggests he is either seeking guidance, warning me of something, or positioning himself relative to my departure. His trust score is highest among my contacts. I need to read that brief and respond to it. The word-of-mouth about Linda Park contacting Priya Sharma is vague but suggests she is working her network actively — something I should be doing too.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Reach out directly to Kevin O'Brien to receive and review the one-page brief he has prepared. Frame it as a collegial professional conversation — not as a manager checking in, but as a peer who respects the work he has done. I want to understand what he has written and whether it relates to my position change, the branch situation, or something else. This is also an opportunity to be honest with him: I am no longer in the branch manager seat and he should know that before he hears it through other channels. Maintaining his trust is more valuable now than managing appearances.",
+        "target_agent": "loan_officer",
+        "resources": {
+          "type": "information",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Exchange of professional intelligence — I share my current status honestly, I receive the brief he has prepared. No money changes hands."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Kevin is my highest-trust contact. He prepared a brief specifically for me. That is a door open — I need to walk through it. If he is preparing to pivot himself, understanding his read on the situation costs me nothing and may surface information I need. If he is preparing something that could help my re-employment positioning, I want that. Relationship maintenance now is not a luxury, it is survival infrastructure."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Continue the commercial and small business lending coursework module — do not let unemployment become an excuse to slow down. I am now 30% complete, 3 months in. The coursework completion is the single most concrete skill signal I can offer a new employer. Push to 40% this tick. The material is directly applicable to community bank hiring in any locality. Two to three focused hours this week.",
+        "target_agent": null,
+        "resources": {
+          "type": "time",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "No cost — the bank's professional development benefit may or may not persist through unemployment, but the coursework is self-paced and I will find a way to access it regardless."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Skill-building is the one investment that cannot be taken from me. I have a 24-month runway. I do not need to panic-apply for jobs today. I need to emerge from this period more qualified than I entered it. The coursework also keeps me mentally active and signals to my own psychology that I am building, not just surviving."
+      },
+      {
+        "type": "COMMITMENT",
+        "description": "Begin a quiet, targeted job search — not mass applications, but a short list of three to five community banks or regional credit unions within commutable range where my branch management experience and the commercial lending coursework would be a genuine fit. I will not post publicly on LinkedIn yet. I will work through my professional network, starting with contacts I already trust. This is reconnaissance, not desperation.",
+        "target_agent": null,
+        "resources": {
+          "type": "time",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Research and networking effort only. No application fees. No recruiter costs at this stage."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I have $167,983 in savings and $6,961 in monthly expenses. I have roughly 24 months before this becomes a survival question. But waiting is not a strategy. The finance sector in Millfield is contracting around auto-adjacent revenue. I need to position myself in a bank that is growing into small business and commercial lending — exactly the sector I have been studying. My value proposition is: branch manager with hands-on auto portfolio risk management during a disruption event, now cross-trained in commercial lending. That is a credible story. I need to start telling it."
+      }
+    ],
+    "emotional_state": "anxious",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "I did everything right and I still ended up unemployed. I flagged the risk early, I built the skills, I wrote the plan — and somehow that process ended with the employment status changing. I don't know if I was pushed out because I made too much noise, or if the bank restructured around the declining auto portfolio, or if something else happened that I still don't fully understand. What I know is: I have savings, I have skills, and I have a story to tell. Kevin prepared something for me. That matters. I am not going to panic-spiral — I am going to read that brief, keep studying, and start making careful calls."
+  }
+}
