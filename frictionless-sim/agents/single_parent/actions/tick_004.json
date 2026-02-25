@@ -1,0 +1,33 @@
+{
+  "tick": 4,
+  "agent_id": "single_parent",
+  "agent_name": "Nicole Washington",
+  "response": {
+    "internal_assessment": "L0 SURVIVE is still my primary concern. Threat level 0.7 with only 3.6 months runway is not comfortable — it's survivable, but thin. Every month I keep expenses flat and savings growing is a month I'm not one crisis away from disaster. The economy around me feels like it's tightening. Unemployment is rising in town. My job in healthcare feels relatively solid but 'relatively' is doing a lot of work in that sentence. I'm not building — I'm holding. Holding is the goal right now.",
+    "inbox_interpretation": "RoboRide is out there and I know about it — $0.18/mile sounds cheap until you do the math. My commute to the hospital alone is 11 miles each way. At 5am when I start, a 15-minute wait isn't a minor inconvenience — it's a missed shift. And then after work, picking up Marcus from school at 3:15 and Destiny from her aunt's at 4:30 — there's no margin for 'average wait time.' I've heard these promises before. The tech works in demos. I'm not a demo. The unemployment news is the thing that actually scares me. It's not my job directly, but scared people spend less, and scared people are everywhere right now. My savings went up $285 again — same as every month. That's the one number I can actually trust.",
+    "chosen_actions": [
+      {
+        "type": "INACTION",
+        "description": "Maintain existing transportation arrangement. Keep personal vehicle for 5am hospital shifts and child pickups. Do not switch to or trial RoboRide for primary logistics. Reduce discretionary spending by approximately $80 this month given ambient economic anxiety — skip one dinner out, delay a household purchase.",
+        "target_agent": null,
+        "resources": {
+          "type": "currency",
+          "direction": "internal",
+          "amount": 80,
+          "detail": "Discretionary cutback of ~$80 redirected to savings buffer given rising unemployment signals and spending index decline"
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": -80,
+          "savings_change": 80,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The RoboRide math doesn't work for my schedule. 15-minute average wait times are incompatible with hospital shift start times and child pickup windows with hard deadlines. My car payment is $413/month — that's real money — but it is also the thing that makes every other part of my life possible. Selling the car or relying on a service I can't control would be losing something I can't get back if it doesn't work. Loss aversion is high here and it's rational: if RoboRide fails me at 5am, I could lose my job. That risk is not worth the savings. What I can do is trim the edges — skip the restaurant, hold off on the thing I was going to buy — and let the savings number tick up a little more. The unemployment news is a warning shot I'm going to take seriously without making a drastic move."
+      }
+    ],
+    "emotional_state": "anxious",
+    "archetype_self_assessment": "stable",
+    "inner_monologue": "I keep doing the math on RoboRide and the math keeps coming out wrong for me. It's not that I'm against it — if my life looked different, maybe. But my life doesn't look different. It looks like 5am and two kids and a mortgage and a job I can't be late to. The unemployment thing is sitting in my chest like a stone. Not because I think I'm losing my job — nurses don't get laid off the way warehouse workers do — but because when the people around you are scared, you feel it. I'm going to hold on tighter and spend a little less and hope the next few months are boring."
+  }
+}

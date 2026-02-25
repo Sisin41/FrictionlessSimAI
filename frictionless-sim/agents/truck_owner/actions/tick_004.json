@@ -1,0 +1,33 @@
+{
+  "tick": 4,
+  "agent_id": "truck_owner",
+  "agent_name": "Dale Cooper",
+  "response": {
+    "internal_assessment": "L2_PARTICIPATE is my primary optimization target this tick. Survival (L0) is fine — ten months of runway, savings still growing. But my role security at 0.76 is not bulletproof, and a spending index of 73 with unemployment ticking up to 7% means my customers are tightening. Construction work comes from people who feel confident enough to spend on their homes or businesses. Right now they don't. I need to protect my pipeline before jobs dry up, not after.",
+    "inbox_interpretation": "The OUTCOME says I'm fine — savings up $909 as usual. But the MARKET_DATA is the headline I can't ignore: spending index 73 against a baseline of 100, and employment at 93%. That's not a rumor. That's real. I called this in tick 1 — the disruption doesn't hit my truck, it hits my customers. Fewer people hiring rideshare drivers means less income across the board, which means fewer home improvement projects. The Henderson garage bid I was pushing is exactly the kind of discretionary spend that evaporates in a slowdown. RoboRide is ambient background noise for me personally — I need a truck, robotaxi doesn't replace what I do. But the downstream spending collapse it's causing in Millfield is my actual risk. My normalcy bias wants to say everything is fine, but the data says it isn't. I'm not panicking. I'm adjusting.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Reach out through my professional network — Carlos the mechanic, community organizer Lisa Freeman, and other contractors I know — to get a read on who still has work and what projects are still being planned. Use these conversations to position myself as available and reliable before the competition gets desperate. Also follow up on the Henderson bid with a direct call, offering to hold material pricing for 60 days to give them a reason to commit now rather than wait.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Investing personal time in network activation and pipeline protection — phone calls, job site conversations, bid follow-up. No money changes hands. This is relationship maintenance and prospecting."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "My network_strength is only 0.35, which is a real vulnerability. In a tightening market, work goes to people you know and trust, not the lowest bidder. Spending time now to activate relationships and lock in commitments costs me nothing and protects against the scenario where jobs stop coming in and I'm scrambling. Doing nothing (pure INACTION) is the status quo pull — but the market data is too clear to ignore. I'm not overreacting, I'm doing the contractor version of weather-proofing before a storm arrives."
+      }
+    ],
+    "emotional_state": "anxious",
+    "archetype_self_assessment": "stable",
+    "inner_monologue": "Spending index seventy-three. That's not a blip, that's people shutting their wallets. I've seen this before — 2008, you didn't feel it until three months of no calls, and by then half the contractors in the county were desperate. My truck is fine, my savings are fine, but none of that matters if the phone stops ringing. Time to work the phones myself before I'm waiting for them to ring."
+  }
+}

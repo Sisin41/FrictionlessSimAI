@@ -1,0 +1,52 @@
+{
+  "tick": 4,
+  "agent_id": "uber_driver_2",
+  "agent_name": "Grace Okafor",
+  "response": {
+    "internal_assessment": "Optimizing at L2 (PARTICIPATE) with an eye on L5 (BUILD). My L0 threat is high numerically but my actual situation has been stable — savings up $206 every month, same as clockwork. The RoboRide launch is the first explicit signal that the disruption I always knew was coming is now real and local. But I'm not a driver trying to stay a driver. I'm a nursing student. 3% adoption means my income is intact for now. The Robert Jackson contact is the most interesting thing in my inbox — NEMT pathway intelligence is exactly what I need to think about if robotaxi adoption accelerates before I graduate.",
+    "inbox_interpretation": "RoboRide at $0.18/mile with 3% adoption — that's barely a blip. At 3%, most customers aren't switching yet. I'm not panicking. I always knew this was temporary. The AMBIENT about RoboRide is actually validation of my whole plan: I need to be out of this car before the car becomes worthless as income. Robert reaching out about healthcare pathways and grant status is timely and smart. He has NEMT intelligence I don't have, and I have nursing school contacts and grant pathway knowledge he probably doesn't. This is a real trade worth making. My savings are steady. My school is progressing. No crisis today.",
+    "chosen_actions": [
+      {
+        "type": "EXCHANGE",
+        "description": "Respond to Robert Jackson's outreach. Share what I know about healthcare worker grant programs and nursing pathway timelines. In return, get his NEMT pathway intelligence — which routes, which companies, what equipment certifications matter, whether NEMT drivers can bill differently than rideshare. This is directly useful for understanding whether I have a bridge option if RoboRide eats my rideshare income before I graduate.",
+        "target_agent": "rideshare_driver",
+        "resources": {
+          "type": "skill",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Giving: knowledge of healthcare grant programs, nursing school pathway context, what certifications are valued. Receiving: NEMT route and billing intelligence, which operators are in Millfield, what the regulatory environment looks like."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Trust with Robert is 0.74 — high for a colleague. He's a full-time rideshare driver who is probably more worried about RoboRide than I am, and he's smart enough to be building toward healthcare. NEMT is interesting because autonomous vehicles can't easily do it — medical passengers need human assistance in ways that robotaxis can't provide. If I can get certified for NEMT while finishing nursing school, that's a hedge. The exchange costs me nothing but time on a text thread."
+      },
+      {
+        "type": "INACTION",
+        "description": "Continue routine rideshare driving. No behavior change this month. Peak-hour focus, protect study time. RoboRide at 3% adoption is not yet eating into my income in any measurable way. Changing nothing until I see it in my actual earnings.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Same driving pattern as previous ticks — peak hours Friday evening, Saturday morning, one weekday block."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 206,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "3% robotaxi adoption does not justify changing my income strategy. Loss aversion cuts both ways — I'd be giving up real, consistent income to respond to a threat that hasn't materialized yet in my earnings. I watch, I gather intelligence via Robert, and I act when I actually see erosion."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "RoboRide is here. I knew it was coming and it still feels different now that it's actually live in town. But 3% adoption — that's nothing yet. I'm not a driver. I keep having to remind myself of that. Robert texting me about NEMT is actually the most useful thing that's happened this month — if there's a lane for medically-trained drivers that robots can't fill, that's exactly the kind of information I need to know about right now. Eyes open, keep moving, don't panic about a problem that hasn't hit my bank account yet."
+  }
+}

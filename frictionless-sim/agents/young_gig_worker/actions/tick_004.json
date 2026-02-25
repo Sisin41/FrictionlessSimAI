@@ -1,0 +1,33 @@
+{
+  "tick": 4,
+  "agent_id": "young_gig_worker",
+  "agent_name": "Zoe Martinez",
+  "response": {
+    "internal_assessment": "L1_STABILIZE is my primary threat. Savings around $3,790, runway roughly 1.5 months. That number has not moved meaningfully despite four ticks of positive savings deltas — because the underlying buffer is just thin. Meanwhile the macro is deteriorating: unemployment up, spending index at 73, the cafe will feel this. My gig work demand is tied to consumer spending, so that income stream is also softening. L0 is not yet lit but it will be if I lose even one income leg. The cert I named last tick needs to actually start this month. Naming it and not doing it is the exact trap I have been in — the story I tell myself instead of the thing I actually do.",
+    "inbox_interpretation": "Employment at 93% and spending at 73 is a slow bleed, not a cliff — but it is directional and it is moving against me. The auto sector being down 11 points matters less to me directly since I do not own a car, but it is a signal about the broader local economy: people are tightening, discretionary spending is falling, which means fewer cafe visits and fewer delivery orders. The OUTCOME message says I just ran routine and saved $198. That is fine but it is not movement. I still have no word back on the Maria Santos retraining grant from Tick 2 — two months of silence. I have to proceed as if it is not coming, or at least not in time to matter. The Google Digital Marketing cert costs money and time but it is the exit ramp I identified. The window to start building a secondary skill before things get worse is now, while I still have income and modest savings to absorb the cost.",
+    "chosen_actions": [
+      {
+        "type": "TRANSFORMATION",
+        "description": "Enroll in and begin Google Digital Marketing and E-commerce Certificate on Coursera. Start first two modules this month. This is the retraining path I named last tick — this month I actually pay for it and start the first coursework. $49/month subscription. I will do this in the evenings after cafe shifts. This is not quitting anything, it is building the parallel skill set so when cafe hours get cut or gig demand dries up, I have somewhere to pivot.",
+        "target_agent": null,
+        "resources": {
+          "type": "skill",
+          "direction": "internal",
+          "amount": 49,
+          "detail": "Enrolled in Google Digital Marketing and E-commerce Certificate via Coursera. $49/month. Began modules on digital marketing fundamentals and e-commerce basics. Adding 'digital_marketing' to in-progress skills. Targeting completion in approximately 6 months."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 49,
+          "savings_change": -49,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I named this path at Tick 3. Tick 4 is when I stop naming it and start doing it. The cost is $49/month which I can absorb at my current savings level. The alternative is waiting — but unemployment is rising, spending is falling, and my gig income is likely softening already. Every month I delay is a month I am less qualified when the job market gets tighter. My tech-savvy and social-media skills give me a real foundation for this certificate. The risk of NOT doing it — sitting on a 0.7 skill relevance score while the economy shifts under me — is higher than the $49 hit. Loss aversion actually points toward action here: the loss I am avoiding by enrolling is the future unemployment that comes from staying static."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Okay. Stop talking about the cert and actually pay for it. It is forty-nine dollars. I have spent more than that convincing myself I was being strategic while doing nothing for a full month. The grant might come through, it might not — I cannot build my plan around a check that has not shown up. The economy numbers are getting worse and I can feel it at the cafe, fewer regulars, quieter mornings. This is the time to move, not the time to wait and see."
+  }
+}
