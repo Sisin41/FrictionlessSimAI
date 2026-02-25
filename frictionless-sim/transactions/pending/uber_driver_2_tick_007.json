@@ -1,0 +1,43 @@
+{
+  "source_agent": "uber_driver_2",
+  "source_name": "Grace Okafor",
+  "tick": 7,
+  "targets": [
+    {
+      "target_agent": "parking_garage_mgr",
+      "target_name": "Denise Williams",
+      "transaction_type": "EXCHANGE",
+      "message": "Denise — glad the meeting happened and very glad the Millfield General connection moved as fast as it did. I passed your name to Nicole because it made sense, not expecting it to land that quickly. Hope the facilities director conversation goes well. When you have a moment, I wanted to circle back on two things from our meeting that I want to make sure I have right: the Friday evening utilization pattern you mentioned, and the EV staging zone business case you are building. The second one is more relevant to my own planning than I let on during the meeting — if the garage becomes a RoboRide staging hub, that changes my Friday evening income window in ways I need to see coming. Not asking you to share anything you are not comfortable sharing. Just want to stay in the loop as you build that case.",
+      "resources": {
+        "type": "information",
+        "direction": "both",
+        "amount": 1,
+        "detail": "Grace reinforces the network connection and confirms the successful referral outcome. Requests ground-level intel on parking utilization trends and RoboRide staging zone development timeline that would serve as an early-warning signal for rideshare income compression. Offers continued openness about retraining pathway progress in exchange."
+      }
+    },
+    {
+      "target_agent": "rideshare_driver",
+      "target_name": "Robert Jackson",
+      "transaction_type": "EXCHANGE",
+      "message": "Robert — I think the six-week NEMT course would be wrapping up about now if the timing I gave you at tick 5 was right. Congratulations if you just finished. When you have a moment and things settle, I am still very interested in what you are seeing on the hiring side — whether the companies are moving quickly on new certs, what the onboarding process actually looks like on the ground. No rush and no pressure. Hope it went well.",
+      "resources": {
+        "type": "information",
+        "direction": "receive",
+        "amount": 1,
+        "detail": "Grace follows up on the open NEMT hiring intel exchange initiated at tick 5. Robert has just completed his NEMT certification and now has first-hand, real-time intelligence on employer hiring patterns, onboarding processes, and compensation reality — exactly what Grace needs to evaluate the NEMT sector as a possible bridge or parallel track to nursing. Warm, non-pressuring tone acknowledges his milestone."
+      }
+    },
+    {
+      "target_agent": "single_parent",
+      "target_name": "Nicole Washington",
+      "transaction_type": "SIGNAL",
+      "message": "Nicole — just wanted to say thank you for passing Denise Williams's name to the facilities director at Millfield General. I know that kind of introduction takes a small amount of professional capital and I appreciate that you did it. I have been watching the hospital staffing conversation from a distance — I know things are in flux with nurse deployment right now. If anything comes up that you think would be useful for someone 8 months out from a CNA credential to know about, I am paying attention. No ask, just keeping the line open.",
+      "resources": {
+        "type": "reputation",
+        "direction": "give",
+        "amount": 1,
+        "detail": "Grace closes the loop on the Denise Williams referral, acknowledging Nicole's role in making the connection happen. Maintains the nursing network contact with a low-friction, non-pressuring signal. Keeps the channel open for staffing intelligence that Nicole may surface through her tick 7 nurse colleague outreach without directly asking for it."
+      }
+    }
+  ]
+}

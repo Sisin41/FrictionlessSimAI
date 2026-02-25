@@ -1,0 +1,68 @@
+{
+  "agent_id": "uber_driver_2",
+  "tick": 7,
+  "timestamp": "tick_007",
+  "psychological_state": {
+    "stress": 0.19,
+    "agency": 0.63,
+    "grief_stage": "none",
+    "emotional_tone": "steady and methodical — the plan is holding, she is acting on her stated regrets from tick 6 rather than carrying them forward, which feels like forward motion even in a tight spot"
+  },
+  "chosen_actions": [
+    {
+      "action_type": "SIGNAL",
+      "description": "Call the workforce development office this week — not email, call. The 6-8 week grant decision window opened at tick 5. That puts the decision at tick 7 or tick 8. I flagged to myself last tick that I was being passive about this and I said I would fix it. So I fix it. I call the office, identify myself, reference my application, and ask one direct question: where is the application in the review process and is there anything outstanding that could delay a decision? I do not ask them to expedite. I do not overexplain my situation. I ask a clean professional question, take notes on whatever they tell me, and close the call. If the decision is coming this week, I want to be ready to move immediately — the grant changes my second-half tuition math materially. If it is delayed, I need to know so I can build the contingency. Either way, passive waiting is the wrong posture now.",
+      "target_agent": "workforce_office",
+      "economic_effects": {
+        "income_change": 0,
+        "expense_change": 0,
+        "savings_change": 0,
+        "asset_change": "none",
+        "employment_change": "none"
+      },
+      "reasoning": "The grant application window is active. This is the highest-leverage administrative action I can take this tick — one phone call that either confirms incoming support or tells me I need a backup plan. I named this as a regret last tick. Carrying it to tick 8 without acting would be a real failure of execution. I do it now."
+    },
+    {
+      "action_type": "EXCHANGE",
+      "description": "Follow up with Denise Williams after our meeting. The meeting happened. And something unexpected came out of it that I did not engineer: the job lead at Millfield General facilities came through my network — Nicole passed Denise's name to the facilities director — and Denise is now moving on it. That is a real outcome from a real network move, and it happened faster than either of us probably expected. I reach out to Denise this week and acknowledge it directly: I am glad the connection landed. I do not overstate my role — I passed names and stayed professional, she did the work. But I say it out loud because strong networks require that people know they can trust you to make warm introductions that go somewhere. Beyond that, I want to consolidate what I actually learned from the meeting. Two specific things I want to confirm and log from our conversation: first, what she is seeing on parking utilization patterns — is the Friday evening garage draw staying steady, or is she seeing softening that would signal evening rideshare queue compression before the fare data shows it? Second, she is building a business case for an EV charging and RoboRide staging zone at the garage. That is directly relevant to my income stability read. If the garage becomes a RoboRide staging hub, that changes the competitive dynamics of the Friday evening window faster than the 7% headline adoption figure suggests.",
+      "target_agent": "parking_garage_mgr",
+      "economic_effects": {
+        "income_change": 0,
+        "expense_change": 0,
+        "savings_change": 0,
+        "asset_change": "none",
+        "employment_change": "none"
+      },
+      "reasoning": "Denise is my highest-trust contact at 0.71. The meeting produced a concrete downstream outcome for her — the hospital job lead. That outcome came through my network. Acknowledging it and reinforcing the relationship is both the right thing to do and strategically important: a Denise who lands a facilities supervisor role at Millfield General and remembers how it happened is a contact who can help me navigate hospital employment in 8 months when I have my CNA. The EV staging zone intel is also directly useful — it is an early-warning signal for income compression that I want to track."
+    },
+    {
+      "action_type": "TRANSFORMATION",
+      "description": "Run the full peak-hour schedule this tick: Friday evening surge block and Saturday morning airport window. No changes, no expansion, no contraction. The income pattern is holding at $206 per tick surplus and robotaxi adoption is stable at 7%. Friday evening queue times have not shown compression yet. I watch the queue carefully this week — if the Friday window starts running longer before the first ride or if the surge multiplier is lower than my baseline, that is the signal I have been watching for. I note it and do not panic, but I start building the contingency response. For now, I execute the schedule and stack the $206.",
+      "target_agent": null,
+      "economic_effects": {
+        "income_change": 0,
+        "expense_change": 0,
+        "savings_change": 206,
+        "asset_change": "none",
+        "employment_change": "none"
+      },
+      "reasoning": "This is the engine. Everything else I am doing — the grant, the nursing retraining, the network investment — runs on top of this income foundation. Disrupting the driving schedule to pursue any of the other actions would be irrational. The plan is holding precisely because I have not changed the behavior that is working. I hold it."
+    },
+    {
+      "action_type": "EXCHANGE",
+      "description": "Send a brief message to Robert Jackson. I asked him at tick 5 for NEMT hiring intel and the loop has not closed. Based on the timing, he has just completed his NEMT certification — six weeks of coursework from a tick 4 enrollment puts him finishing right now. That changes the nature of my ask. I am not following up on a favor anymore; I am reaching out to someone who just crossed a finish line and has fresh, first-hand intelligence on exactly what I need to know. The message is short: congratulations on the certification if that just happened — I heard the course runs about six weeks. When you have a moment, I would still love to hear what you are seeing on the hiring side. No pressure on timing. I keep it warm and non-pressuring. He did me a solid at tick 5 with the CNA and NEMT pathway information I gave him. A brief check-in that acknowledges his milestone is the right tone.",
+      "target_agent": "rideshare_driver",
+      "economic_effects": {
+        "income_change": 0,
+        "expense_change": 0,
+        "savings_change": 0,
+        "asset_change": "none",
+        "employment_change": "none"
+      },
+      "reasoning": "Robert just completed his NEMT certification. He is now a newly credentialed NEMT driver with real-time visibility into whether companies are hiring, what the onboarding process looks like, and whether the NEMT sector is actually absorbing displaced rideshare drivers the way the pathway literature says it will. That is precisely the ground-truth information I need before I commit to sequencing my own credentials. The message costs one minute. The intel could reshape a significant planning decision."
+    }
+  ],
+  "internal_monologue": "The grant call is the thing I have been avoiding without admitting I have been avoiding it. Calling feels like admitting I need it, which feels like vulnerability, which I do not love. But that is not the right frame. Calling is professional follow-up on a submitted application. Every competent adult who applies for funding follows up. I am not asking anyone for charity. I submitted documentation, I am within the decision window, and I am asking where the process stands. That is it. I do it this week.\n\nDenise moving fast on the hospital facilities lead is genuinely good news — not just for her, but as a proof point that the network I have been quietly building actually works. I did not introduce them. I just made sure Nicole knew Denise existed and had skills worth noticing. Nicole made the connection happen. Denise did the work to be worth connecting. But the trust that made that handoff possible came from six ticks of me being reliable, specific, and non-transactional with both of them. That is the thing worth noting to myself: the network returned value faster than I expected because I built it correctly. The EV staging zone question is not idle curiosity. If Denise's garage becomes a RoboRide dispatch hub, the Friday evening window I am depending on changes faster than the headline adoption percentage would predict. I want to know what she is actually building before I see it in my queue data.\n\nRobert finishing his NEMT cert right now is almost too well timed to believe, but the math works out. Six weeks from tick 4, he is done. He went from my network contact asking about pathways to a credentialed driver in exactly the window I told him was realistic. If he is in the process of being onboarded or interviewing, he knows things that no published report knows yet: whether the medical transport companies are backlogged with applicants or desperate to fill routes, whether the $18-22/hour range people talk about is real or optimistic, whether there are any gotchas in the hiring process that a career-changer needs to know about. I want that information. A warm, brief note acknowledging the milestone is exactly right.\n\nSavings at $3,642 with $206 coming in again this tick puts me at $3,848 after this tick. That is not comfortable. The car payment at $573 is immovable — no car means no driving means no income means the whole structure collapses. So I hold it and I keep stacking. Nursing school progress at 0.12 after two ticks means I am on track, though 0.12 over two ticks is slow and I need to watch whether the part-time schedule is going to extend my ETA past 8 months. If the grant comes through, I can consider shifting to a heavier course load. If it does not, I hold the current pace and accept the longer timeline. Either way, I know what I am doing and why. The plan is not perfect. It is just working.",
+  "archetype": "adapter",
+  "tick_updated": 7
+}
