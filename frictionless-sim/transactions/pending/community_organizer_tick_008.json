@@ -1,0 +1,49 @@
+{
+  "tick": 8,
+  "from_agent": "community_organizer",
+  "from_name": "Lisa Freeman",
+  "transactions": [
+    {
+      "type": "SIGNAL",
+      "to_agent": "rideshare_driver",
+      "to_name": "Robert Jackson",
+      "description": "Lisa Freeman makes direct personal contact with Robert Jackson for the first time — a phone call acknowledging the RoboRide price drop to $0.12/mile and its impact on his rideshare income, checking in on the NEMT certification progress, and asking for his read on the new delivery partnership from the transport worker perspective. Lisa also informs Robert about Kevin O'Brien's monthly bank office hours at the community center as a resource for bridge financing during the gap between rideshare income decline and NEMT certification completion.",
+      "resources": {
+        "type": "social_capital",
+        "direction": "both",
+        "amount": 0,
+        "detail": "No financial transfer. Lisa gives time and information; gains intelligence about delivery partnership economics from Robert's firsthand knowledge of the transport sector."
+      },
+      "intent": "relationship_building_and_intelligence_gathering",
+      "expected_trust_delta": 0.08
+    },
+    {
+      "type": "SIGNAL",
+      "to_agent": "council_member",
+      "to_name": "Maria Santos",
+      "description": "Lisa Freeman shares the finalized community center impact document with Maria Santos, framed as a task force update rather than a budget defense. Document covers eight ticks of Community Connection Night data, retraining enrollments connected, bank product office hours outcomes, and the center's role as a first-contact infrastructure node for displaced workers who are not yet self-identifying as in crisis.",
+      "resources": {
+        "type": "information",
+        "direction": "give",
+        "amount": 0,
+        "detail": "One-page impact document. No financial transfer. Proactive institutional visibility before a budget conversation, not during one."
+      },
+      "intent": "institutional_resilience_and_relationship_maintenance",
+      "expected_trust_delta": 0.05
+    },
+    {
+      "type": "EXCHANGE",
+      "to_agent": "young_gig_worker",
+      "to_name": "Zoe Martinez",
+      "description": "Lisa Freeman follows up with Zoe Martinez to verify the $49 micro-grant from last tick covered the Coursera subscription, confirm ongoing certificate enrollment, and share information about the RoboRide delivery partnership as a potential near-term income source accessible without car ownership. Check on basic stability: housing, food, basics.",
+      "resources": {
+        "type": "information_and_time",
+        "direction": "give",
+        "amount": 0,
+        "detail": "No additional financial transfer this tick — follow-up check on prior micro-grant effectiveness and introduction of new income opportunity information."
+      },
+      "intent": "ongoing_case_support_and_opportunity_brokering",
+      "expected_trust_delta": 0.06
+    }
+  ]
+}

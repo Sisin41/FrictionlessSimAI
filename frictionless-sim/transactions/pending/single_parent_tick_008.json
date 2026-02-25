@@ -1,0 +1,20 @@
+{
+  "transaction_id": "single_parent_tick_008_grace_exchange",
+  "tick": 8,
+  "source_agent": "single_parent",
+  "source_name": "Nicole Washington",
+  "targets": [
+    {
+      "target_agent": "uber_driver_2",
+      "target_name": "Grace Okafor",
+      "transaction_type": "EXCHANGE",
+      "message": "Grace — I appreciate you asking directly. I went and had real conversations with colleagues last week, so I actually have something to tell you instead of a polished non-answer. Here is what I know: NEMT experience is not invisible at Millfield General, but it does not land on its own. Hiring managers — especially at the charge nurse level who actually influence the hire — are not scanning resumes looking for patient transport. What converts is when the applicant makes the connection explicit: that you have handled confused patients in motion, that you know what cardiac distress looks like before it becomes an emergency, that you have managed the difference between a patient who is scared and a patient who is deteriorating. One of the charge nurses I spoke to — in the transitional care unit, which is one of the units currently expanding — said almost exactly this: 'I want to see people who already know what a confused patient looks like in a moving vehicle.' That is your experience, named. The units where this framing will land: the post-acute step-down unit and transitional care are both growing. They want people with real-world exposure to fragile patients outside a controlled clinical environment. OR-adjacent specialties are contracting — don't focus energy there. The short answer to your question is: yes, NEMT experience carries weight, but you have to carry it explicitly. If you apply to Millfield General and do not connect those dots in your interview, the experience disappears. If you connect them, it is a genuine differentiator for someone 8 months from a CNA credential. On the Denise Williams referral — I was genuinely glad that landed. Some introductions fall into nothing. That one moved. I hope the facilities conversation goes somewhere real for her. Keep me posted on where things go with the cert.",
+      "resources": {
+        "type": "information",
+        "direction": "give",
+        "amount": 1,
+        "detail": "Nicole delivers ground-truth hiring intelligence from inside Millfield General based on tick 7 nurse colleague outreach. Key content: (1) NEMT experience is not auto-recognized but is a real differentiator when explicitly framed as clinical context. (2) Specific charge nurse quote validating the NEMT-to-CNA bridge. (3) Unit-level intelligence: post-acute step-down and transitional care expanding, OR-adjacent contracting. (4) Explicit framing advice for job application and interview sequencing. Warm closing on Denise Williams referral to reinforce the relationship is genuine, not transactional."
+      }
+    }
+  ]
+}

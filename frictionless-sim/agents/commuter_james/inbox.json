@@ -1,9 +1,9 @@
 {
-  "tick": 7,
+  "tick": 8,
   "messages": [
     {
-      "type": "AMBIENT",
-      "content": "Ongoing: RoboRide launches autonomous ride-share service in Millfield. Price: $0.18 per mile. Average wait time: 15 minutes. Cove"
+      "type": "CAPABILITY_FACT",
+      "content": "RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership with local delivery companies announced."
     },
     {
       "type": "MARKET_DATA",
@@ -16,70 +16,6 @@
     {
       "type": "OBSERVATION",
       "content": "You notice more robotaxis on the streets. About 7% of people seem to be using them regularly."
-    },
-    {
-      "type": "NEWS",
-      "content": "Patricia Hawkins laid off workers: formally accept rick tanner's two-week timeline for the millfield auto mall consolidation readiness assessment. confirm in writing that his three-tier asset map \u2014 not a layoff list \u2014 is the authoritative document i will use for any q2 consolidation decisions. signal to him directly that the service lane is the survival core and that i will not make staffing decisions that undercut certified technician capacity. this is the strategic pivot i have been building toward: from a four-location sales-volume model to a service-and-retention model built around the parts of the business that autonomous ride-share cannot touch."
-    },
-    {
-      "type": "NEWS",
-      "content": "Patricia Hawkins laid off workers: write private notes \u2014 not for distribution, not for hr files \u2014 about each person laid off this month. document their role, their tenure, what they contributed to the business my father started, and what i can realistically do for them: a direct call to howard liu at the parts store, a strong written reference, a referral into angela's transition program, or outplacement support through the maria santos task force channels now that the grant threshold is being lowered to 10% for auto row businesses. i will not manage the narrative on this. i will sit with what i did."
-    },
-    {
-      "type": "NEWS",
-      "content": "Patricia Hawkins laid off workers: contact angela wright to confirm receipt of her formal progress update and to give her one additional directive: cross-reference the people i laid off this month against her transition program enrollment list. anyone from my layoffs who has not yet enrolled \u2014 i want angela to reach out personally, with my name behind it, and ensure they know the $2,500 grant threshold is being lowered to 10% on auto row, that first community bank has small-dollar loan products via david chen, and that millfield community college enrollment is open. i am not managing optics. i am making sure the people i let go have a path."
-    },
-    {
-      "type": "NEWS",
-      "content": "Maria Santos laid off workers: bring a council motion to expand the small business stabilization grant program: extend the application window by 60 days and lower the revenue decline threshold from 15% to 10% for businesses on auto row specifically. betty kowalski's direct testimony before the task force, combined with the spending index dropping from 73 to 48 and two additional layoff events this month, constitutes sufficient grounds to act. a 10% threshold on auto row is targeted, defensible, and directly responsive to the testimony i received. businesses that are hurting but haven't yet crossed the 15% line are being shut out of relief they need now. i draft the motion this week and push for a vote at the next council meeting."
-    },
-    {
-      "type": "NEWS",
-      "content": "Maria Santos laid off workers: respond to patricia hawkins's direct outreach. accept a meeting \u2014 but frame it carefully. i am interested in workforce coordination: if she has auto tech employees she's letting go, and i have retraining programs, there is a practical handoff to build. i will bring the one-page 'next steps' document that lisa freeman's work with david chen is producing \u2014 the document that connects laid-off workers to the $2,500 grant, the bank's small-dollar loan products, and the community college enrollment timeline. patricia can hand that document to every worker she's laying off. that is something concrete she can do. i do not offer her political cover for the layoffs. i offer collaboration on the transition side."
-    },
-    {
-      "type": "NEWS",
-      "content": "Rick Tanner laid off workers: write a private note \u2014 not a report, not a memo \u2014 about each person who was laid off this month. what their role was. what they contributed. who i can call on their behalf: howard liu at the parts store, any service contacts who might have openings, angela's transition program. this is not about managing my image. it is about the fact that some of these people have been on this floor since before i was gm, and i was the one signing off on the staffing decisions that made their positions vulnerable."
-    },
-    {
-      "type": "NEWS",
-      "content": "Tamika Jefferson laid off workers: do the math on the two-track reality. if i close the hvac client at $350/month and hold the dealership job for the stay bonus qualifying period, my income picture shifts from deficit to near-balance. but i need to know: what is the actual qualifying period for the $12,000? angela has my name on the list. i need the timeline. if the qualifying period is four months, that changes my savings calculation significantly. if it's two months, i can afford to be aggressive on the freelance side sooner. i don't ask angela again this tick \u2014 i already asked. i wait for the response. but i sit down privately and model three scenarios: (1) i collect the bonus and leave clean; (2) layoffs happen before the bonus vests; (3) freelance income ramps fast enough that i leave voluntarily before the bonus matters. each scenario needs a different posture. i write this down, not just in my head."
-    },
-    {
-      "type": "NEWS",
-      "content": "Stephanie Morris laid off workers: execute an emergency re-outreach to all active listing prospects \u2014 prioritizing auto row and downtown property owners \u2014 using the spending index collapse (48) and the city council's formal designation of auto row as distressed (10% grant threshold) as dual urgency anchors. for owners who said 'not yet' at tick 5, reframe the conversation: the city has now publicly confirmed what i've been telling them privately. for owners already in pipeline conversations, move hard toward signed listing agreements this week. the message is direct: the window to transact at a price that reflects this property's history rather than its future is closing. price compression on auto row properties will accelerate once the tanner auto mall consolidation assessment becomes public and layoffs formalize. sellers who move now are ahead of that signal; sellers who wait will be pricing into a market that has already absorbed the news."
-    },
-    {
-      "type": "NEWS",
-      "content": "Business closing: Rick Tanner \u2014 accept jake morrison's request for a one-on-one this week. i review whatever data he brings \u2014 90-day close numbers, pipeline by price tier, inventory segment read \u2014 without defensiveness. i answer his question about the stay bonus honestly: i have heard the $12k figure mentioned but i do not have confirmed details yet, and i tell him i am raising it directly with patricia this week. i do not categorize him or his future before angela's map is done. i treat this as the conversation of two people trying to hold something together."
-    },
-    {
-      "type": "NEWS",
-      "content": "Business closing: Tamika Jefferson \u2014 do the math on the two-track reality. if i close the hvac client at $350/month and hold the dealership job for the stay bonus qualifying period, my income picture shifts from deficit to near-balance. but i need to know: what is the actual qualifying period for the $12,000? angela has my name on the list. i need the timeline. if the qualifying period is four months, that changes my savings calculation significantly. if it's two months, i can afford to be aggressive on the freelance side sooner. i don't ask angela again this tick \u2014 i already asked. i wait for the response. but i sit down privately and model three scenarios: (1) i collect the bonus and leave clean; (2) layoffs happen before the bonus vests; (3) freelance income ramps fast enough that i leave voluntarily before the bonus matters. each scenario needs a different posture. i write this down, not just in my head."
-    },
-    {
-      "type": "NEWS",
-      "content": "Business closing: Stephanie Morris \u2014 call betty kowalski directly \u2014 she has been following up with maria santos's office and her testimony shaped the 10% grant threshold policy for auto row. i want to know what auto row owners are telling her about their hold-or-sell thinking right now, especially after the spending collapse. i also want to plant a seed: for business owners on auto row who are weighing whether to close or restructure, the real estate decision \u2014 lease, sell, sublease \u2014 is something they should not make without a proper valuation. i am not soliciting clients through betty, but i am making sure she knows my name is the right name to say when that question comes up. trust with betty is 0.57 \u2014 this relationship has room to deepen."
-    },
-    {
-      "type": "NEWS",
-      "content": "New venture: Patricia Hawkins \u2014 contact angela wright to confirm receipt of her formal progress update and to give her one additional directive: cross-reference the people i laid off this month against her transition program enrollment list. anyone from my layoffs who has not yet enrolled \u2014 i want angela to reach out personally, with my name behind it, and ensure they know the $2,500 grant threshold is being lowered to 10% on auto row, that first community bank has small-dollar loan products via david chen, and that millfield community college enrollment is open. i am not managing optics. i am making sure the people i let go have a path."
-    },
-    {
-      "type": "NEWS",
-      "content": "Community action: Maria Santos \u2014 issue the formal public statement on roboride compliance. the 48-hour response window i set last tick has expired. i make the outcome public: if roboride has paid the $0.25 per-ride impact fee into the workforce fund and submitted quarterly reporting, i acknowledge it on record and publicize the first dollar figure flowing into the fund \u2014 making it a story about the licensing framework working. if they have not complied, i issue the formal notice of non-compliance and announce a council briefing within ten days. either outcome is a win for accountability. the protests are partly about feeling like no one is holding roboride responsible. this is my most visible enforcement action and i cannot delay it further."
-    },
-    {
-      "type": "NEWS",
-      "content": "Policy proposal: Maria Santos \u2014 issue the formal public statement on roboride compliance. the 48-hour response window i set last tick has expired. i make the outcome public: if roboride has paid the $0.25 per-ride impact fee into the workforce fund and submitted quarterly reporting, i acknowledge it on record and publicize the first dollar figure flowing into the fund \u2014 making it a story about the licensing framework working. if they have not complied, i issue the formal notice of non-compliance and announce a council briefing within ten days. either outcome is a win for accountability. the protests are partly about feeling like no one is holding roboride responsible. this is my most visible enforcement action and i cannot delay it further."
-    },
-    {
-      "type": "NEWS",
-      "content": "3 people enrolled in retraining this month."
-    },
-    {
-      "type": "OUTCOME",
-      "content": "You Lock in the AWS Solutions Architect Associate study cadence for this month: complete Module 3 (Compute Services) and Module 4 (Storage Solutions) on the course platform. Log study hours in a simple weekly tracking note. Target: 22-24 hours of study this tick, maintaining the 5-6 hour weekly commitment. Set a midpoint checkpoint \u2014 if I am not at Module 4 by the end of week 2, I restructure my evening schedule. The course does not complete itself.. Savings grew by $1,096. "
     }
   ]
 }

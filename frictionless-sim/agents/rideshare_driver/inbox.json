@@ -1,9 +1,9 @@
 {
-  "tick": 7,
+  "tick": 8,
   "messages": [
     {
-      "type": "AMBIENT",
-      "content": "Ongoing: RoboRide launches autonomous ride-share service in Millfield. Price: $0.18 per mile. Average wait time: 15 minutes. Cove"
+      "type": "CAPABILITY_FACT",
+      "content": "RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership with local delivery companies announced."
     },
     {
       "type": "MARKET_DATA",
@@ -27,31 +27,7 @@
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Tamika Jefferson is making some kind of change \u2014 something about Approach Rick Tanner \u2014 not formally, not asking fo..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that James Patterson is making some kind of change \u2014 something about Make one quiet, low-stakes professional move this ..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Accept that Henderson is cooling and shift focus \u2014..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Follow up with Lisa Freeman directly \u2014 she respond..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Call Betty Kowalski directly \u2014 she has been follow..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Grace Okafor (Part-time Rideshare Driver / Nursing Student): Follow up with Nicole Washington. Tick 5 I reached out asking about hospital hiring conditions and grant decision timelines. If I have not heard back, I send one short follow-up: just checking if she had a moment to think about the questions I sent. Keep it to two sentences. If she responded and I missed it, I acknowledge that. Either way, I need the hiring climate answer before I commit to the CNA track as my primary graduation-to-job strategy."
-    },
-    {
-      "type": "OUTCOME",
-      "content": "You routine. Savings grew by $387. "
+      "content": "Someone mentioned that Tamika Jefferson is making some kind of change \u2014 something about Send a brief, professional note to Angela Wright \u2014..."
     }
   ]
 }

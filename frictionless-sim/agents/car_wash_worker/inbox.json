@@ -1,9 +1,9 @@
 {
-  "tick": 7,
+  "tick": 8,
   "messages": [
     {
-      "type": "AMBIENT",
-      "content": "Ongoing: RoboRide launches autonomous ride-share service in Millfield. Price: $0.18 per mile. Average wait time: 15 minutes. Cove"
+      "type": "CAPABILITY_FACT",
+      "content": "RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership with local delivery companies announced."
     },
     {
       "type": "MARKET_DATA",
@@ -22,24 +22,8 @@
       "content": "Auto sector revenue index: 79 (baseline: 100). Foot traffic and sales are somewhat down."
     },
     {
-      "type": "DIRECT_IMPACT",
-      "content": "Stephanie Morris laid off workers: execute an emergency re-outreach to all active listing prospects \u2014 prioritizing auto row and downtown property owners \u2014 using the spending index collapse (48) and the city council's formal designation of auto row as distressed (10% grant threshold) as dual urgency anchors. for owners who said 'not yet' at tick 5, reframe the conversation: the city has now publicly confirmed what i've been telling them privately. for owners already in pipeline conversations, move hard toward signed listing agreements this week. the message is direct: the window to transact at a price that reflects this property's history rather than its future is closing. price compression on auto row properties will accelerate once the tanner auto mall consolidation assessment becomes public and layoffs formalize. sellers who move now are ahead of that signal; sellers who wait will be pricing into a market that has already absorbed the news."
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "Business closing: Stephanie Morris \u2014 call betty kowalski directly \u2014 she has been following up with maria santos's office and her testimony shaped the 10% grant threshold policy for auto row. i want to know what auto row owners are telling her about their hold-or-sell thinking right now, especially after the spending collapse. i also want to plant a seed: for business owners on auto row who are weighing whether to close or restructure, the real estate decision \u2014 lease, sell, sublease \u2014 is something they should not make without a proper valuation. i am not soliciting clients through betty, but i am making sure she knows my name is the right name to say when that question comes up. trust with betty is 0.57 \u2014 this relationship has room to deepen."
-    },
-    {
       "type": "SOCIAL",
       "content": "People around you are stressed: Betty Kowalski. The mood is tense."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Call Betty Kowalski directly \u2014 she has been follow..."
-    },
-    {
-      "type": "OUTCOME",
-      "content": "You routine. Savings grew by $131. "
     }
   ]
 }

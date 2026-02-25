@@ -1,9 +1,9 @@
 {
-  "tick": 7,
+  "tick": 8,
   "messages": [
     {
-      "type": "AMBIENT",
-      "content": "Ongoing: RoboRide launches autonomous ride-share service in Millfield. Price: $0.18 per mile. Average wait time: 15 minutes. Cove"
+      "type": "CAPABILITY_FACT",
+      "content": "RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership with local delivery companies announced."
     },
     {
       "type": "MARKET_DATA",
@@ -24,30 +24,6 @@
     {
       "type": "SOCIAL",
       "content": "People around you are stressed: Angela Wright. The mood is tense."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Issue the formal public statement on RoboRide comp..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Bring a council motion to expand the small busines..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Respond to Patricia Hawkins's direct outreach. Acc..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Accept that Henderson is cooling and shift focus \u2014..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Follow up with Lisa Freeman directly \u2014 she respond..."
-    },
-    {
-      "type": "OUTCOME",
-      "content": "You routine. Savings grew by $193. "
     }
   ]
 }

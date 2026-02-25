@@ -1,10 +1,6 @@
 {
-  "tick": 7,
+  "tick": 8,
   "messages": [
-    {
-      "type": "AMBIENT",
-      "content": "Ongoing: RoboRide launches autonomous ride-share service in Millfield. Price: $0.18 per mile. Average wait time: 15 minutes. Cove"
-    },
     {
       "type": "OBSERVATION",
       "content": "You notice more robotaxis on the streets. About 7% of people seem to be using them regularly."
@@ -16,22 +12,6 @@
     {
       "type": "SOCIAL",
       "content": "People around you are stressed: Rick Tanner, Angela Wright. The mood is tense."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Issue the formal public statement on RoboRide comp..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Bring a council motion to expand the small busines..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Respond to Patricia Hawkins's direct outreach. Acc..."
-    },
-    {
-      "type": "OUTCOME",
-      "content": "You routine. Savings grew by $249. "
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "tick": 7,
+  "tick": 8,
   "messages": [
     {
-      "type": "AMBIENT",
-      "content": "Ongoing: RoboRide launches autonomous ride-share service in Millfield. Price: $0.18 per mile. Average wait time: 15 minutes. Cove"
+      "type": "RUMOR",
+      "content": "People are saying: RoboRide drops price to very cheap per mile. Wait time now a few minutes. Coverage expanded to residential ar. (You're not sure of the exact details.)"
     },
     {
       "type": "OBSERVATION",
@@ -16,14 +16,6 @@
     {
       "type": "SOCIAL",
       "content": "People around you are stressed: Betty Kowalski. The mood is tense."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that James Patterson is making some kind of change \u2014 something about Make one quiet, low-stakes professional move this ..."
-    },
-    {
-      "type": "OUTCOME",
-      "content": "You routine. Savings dropped by $3,362. "
     }
   ]
 }

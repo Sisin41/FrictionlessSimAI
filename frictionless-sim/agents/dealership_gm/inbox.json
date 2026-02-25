@@ -1,9 +1,9 @@
 {
-  "tick": 7,
+  "tick": 8,
   "messages": [
     {
-      "type": "AMBIENT",
-      "content": "Ongoing: RoboRide launches autonomous ride-share service in Millfield. Price: $0.18 per mile. Average wait time: 15 minutes. Cove"
+      "type": "RUMOR",
+      "content": "People are saying: RoboRide drops price to very cheap per mile. Wait time now a few minutes. Coverage expanded to residential ar. (You're not sure of the exact details.)"
     },
     {
       "type": "OBSERVATION",
@@ -14,52 +14,12 @@
       "content": "Auto sector revenue index: 79 (baseline: 100). Foot traffic and sales are somewhat down."
     },
     {
-      "type": "DIRECT_IMPACT",
-      "content": "Patricia Hawkins laid off workers: formally accept rick tanner's two-week timeline for the millfield auto mall consolidation readiness assessment. confirm in writing that his three-tier asset map \u2014 not a layoff list \u2014 is the authoritative document i will use for any q2 consolidation decisions. signal to him directly that the service lane is the survival core and that i will not make staffing decisions that undercut certified technician capacity. this is the strategic pivot i have been building toward: from a four-location sales-volume model to a service-and-retention model built around the parts of the business that autonomous ride-share cannot touch."
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "Patricia Hawkins laid off workers: write private notes \u2014 not for distribution, not for hr files \u2014 about each person laid off this month. document their role, their tenure, what they contributed to the business my father started, and what i can realistically do for them: a direct call to howard liu at the parts store, a strong written reference, a referral into angela's transition program, or outplacement support through the maria santos task force channels now that the grant threshold is being lowered to 10% for auto row businesses. i will not manage the narrative on this. i will sit with what i did."
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "Patricia Hawkins laid off workers: contact angela wright to confirm receipt of her formal progress update and to give her one additional directive: cross-reference the people i laid off this month against her transition program enrollment list. anyone from my layoffs who has not yet enrolled \u2014 i want angela to reach out personally, with my name behind it, and ensure they know the $2,500 grant threshold is being lowered to 10% on auto row, that first community bank has small-dollar loan products via david chen, and that millfield community college enrollment is open. i am not managing optics. i am making sure the people i let go have a path."
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "Tamika Jefferson laid off workers: do the math on the two-track reality. if i close the hvac client at $350/month and hold the dealership job for the stay bonus qualifying period, my income picture shifts from deficit to near-balance. but i need to know: what is the actual qualifying period for the $12,000? angela has my name on the list. i need the timeline. if the qualifying period is four months, that changes my savings calculation significantly. if it's two months, i can afford to be aggressive on the freelance side sooner. i don't ask angela again this tick \u2014 i already asked. i wait for the response. but i sit down privately and model three scenarios: (1) i collect the bonus and leave clean; (2) layoffs happen before the bonus vests; (3) freelance income ramps fast enough that i leave voluntarily before the bonus matters. each scenario needs a different posture. i write this down, not just in my head."
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "Business closing: Tamika Jefferson \u2014 do the math on the two-track reality. if i close the hvac client at $350/month and hold the dealership job for the stay bonus qualifying period, my income picture shifts from deficit to near-balance. but i need to know: what is the actual qualifying period for the $12,000? angela has my name on the list. i need the timeline. if the qualifying period is four months, that changes my savings calculation significantly. if it's two months, i can afford to be aggressive on the freelance side sooner. i don't ask angela again this tick \u2014 i already asked. i wait for the response. but i sit down privately and model three scenarios: (1) i collect the bonus and leave clean; (2) layoffs happen before the bonus vests; (3) freelance income ramps fast enough that i leave voluntarily before the bonus matters. each scenario needs a different posture. i write this down, not just in my head."
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "New venture: Patricia Hawkins \u2014 contact angela wright to confirm receipt of her formal progress update and to give her one additional directive: cross-reference the people i laid off this month against her transition program enrollment list. anyone from my layoffs who has not yet enrolled \u2014 i want angela to reach out personally, with my name behind it, and ensure they know the $2,500 grant threshold is being lowered to 10% on auto row, that first community bank has small-dollar loan products via david chen, and that millfield community college enrollment is open. i am not managing optics. i am making sure the people i let go have a path."
-    },
-    {
       "type": "SOCIAL",
       "content": "People around you are stressed: Patricia Hawkins, Angela Wright. The mood is tense."
     },
     {
       "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Patricia Hawkins (CEO, Regional Auto Group): Formally accept Rick Tanner's two-week timeline for the Millfield Auto Mall consolidation readiness assessment. Confirm in writing that his three-tier asset map \u2014 not a layoff list \u2014 is the authoritative document I will use for any Q2 consolidation decisions. Signal to him directly that the service lane is the survival core and that I will not make staffing decisions that undercut certified technician capacity. This is the strategic pivot I have been building toward: from a four-location sales-volume model to a service-and-retention model built around the parts of the business that autonomous ride-share cannot touch."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Patricia Hawkins (CEO, Regional Auto Group): Write private notes \u2014 not for distribution, not for HR files \u2014 about each person laid off this month. Document their role, their tenure, what they contributed to the business my father started, and what I can realistically do for them: a direct call to Howard Liu at the parts store, a strong written reference, a referral into Angela's transition program, or outplacement support through the Maria Santos task force channels now that the grant threshold is being lowered to 10% for auto row businesses. I will not manage the narrative on this. I will sit with what I did."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Patricia Hawkins (CEO, Regional Auto Group): Contact Angela Wright to confirm receipt of her formal progress update and to give her one additional directive: cross-reference the people I laid off this month against her transition program enrollment list. Anyone from my layoffs who has not yet enrolled \u2014 I want Angela to reach out personally, with my name behind it, and ensure they know the $2,500 grant threshold is being lowered to 10% on auto row, that First Community Bank has small-dollar loan products via David Chen, and that Millfield Community College enrollment is open. I am not managing optics. I am making sure the people I let go have a path."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Tamika Jefferson is making some kind of change \u2014 something about Approach Rick Tanner \u2014 not formally, not asking fo..."
-    },
-    {
-      "type": "OUTCOME",
-      "content": "You Request an in-person sit-down with Patricia Hawkins in her new owner-operator capacity within the next 5 business days. The agenda is explicit: what is my role in the restructured organization, what authority do I retain over the Millfield location, and is there a formal Q2 operational plan she wants me to execute. I go in having already internalized the numbers \u2014 service lane at 79%, showroom down, conversion rates off \u2014 and I do not pretend any of this is recoverable without a deliberate pivot. I also raise the $12k stay bonus Jake mentioned: I want to know if that program exists, whether it applies to floor sales staff, and whether I have any role in administering it.. Savings dropped by $8,632. Employment status changed to unemployed. "
+      "content": "Someone mentioned that Tamika Jefferson is making some kind of change \u2014 something about Send a brief, professional note to Angela Wright \u2014..."
     }
   ]
 }

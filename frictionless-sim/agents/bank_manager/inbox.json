@@ -1,9 +1,9 @@
 {
-  "tick": 7,
+  "tick": 8,
   "messages": [
     {
-      "type": "AMBIENT",
-      "content": "Ongoing: RoboRide launches autonomous ride-share service in Millfield. Price: $0.18 per mile. Average wait time: 15 minutes. Cove"
+      "type": "RUMOR",
+      "content": "People are saying: RoboRide drops price to very cheap per mile. Wait time now a few minutes. Coverage expanded to residential ar. (You're not sure of the exact details.)"
     },
     {
       "type": "OBSERVATION",
@@ -16,10 +16,6 @@
     {
       "type": "SOCIAL",
       "content": "People around you are stressed: Patricia Hawkins, Rick Tanner. The mood is tense."
-    },
-    {
-      "type": "OUTCOME",
-      "content": "You Reach out directly to Kevin O'Brien to receive and review the one-page brief he has prepared. Frame it as a collegial professional conversation \u2014 not as a manager checking in, but as a peer who respects the work he has done. I want to understand what he has written and whether it relates to my position change, the branch situation, or something else. This is also an opportunity to be honest with him: I am no longer in the branch manager seat and he should know that before he hears it through other channels. Maintaining his trust is more valuable now than managing appearances.. Savings dropped by $6,961. "
     }
   ]
 }
