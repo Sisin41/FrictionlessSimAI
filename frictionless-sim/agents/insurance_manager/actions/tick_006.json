@@ -1,0 +1,38 @@
+{
+  "tick": 6,
+  "agent_id": "insurance_manager",
+  "agent_name": "Linda Park",
+  "response": {
+    "internal_assessment": "The numbers are unambiguous now. Active policies in area: 22 and falling. We were at 25 two ticks ago. RoboRide is visibly on the streets — 7% of people using them regularly, 2 more people sold or stopped using their cars this month. Employment rate 77%. Consumer spending index at 48. The personal auto book is not recovering. Priya and I both know this. Tom Bradley is apparently responding to my commercial fleet briefing — so that memo landed somewhere. Howard Liu is chasing RoboRide fleet contacts. I sent the corporate memo six ticks of effort ago and I have heard nothing back. My savings are at roughly $109K but I'm bleeding roughly $3,400 per month net against income. At this burn rate I have about 32 months before I'm in trouble — but if I lose employment that compresses to 14.8 months of runway. The CRMP cert is 20% done. The three external applications from tick 2 are still outstanding. I need to follow up on those calls I was supposed to make. The honest pressure this tick: corporate has not responded to my pivot memo, Priya told me she's watching the clock, and I have real external application leads going cold.",
+    "inbox_interpretation": "The key signal for me this tick is the word-of-mouth on Tom Bradley — he is 'responding to Linda Park's briefing on commercial fleet.' That means the internal commercial fleet argument is getting traction at the agent level. Priya Sharma is also 'reaching out to Tom Bradley' which tells me she is networking inside the team, probably hedging. Howard Liu is chasing RoboRide's regional fleet contacts — that is a real commercial policy lead I should be positioned to capture if AutoShield can actually write those policies. My direct inbox action from last tick (the community action from Maria Santos's thread referencing me by name) confirms what I already know: have the Priya one-on-one honestly. That happened. The outcome confirms it happened and cost $3,965 in savings. Now I need the NEXT move. 12 people enrolled in retraining this month — the community is adapting, which means some of those new retraining enrollees may eventually need commercial liability or professional coverage. The RoboRide ambient data ($0.18/mile, 15-min wait, growing adoption) accelerates the personal auto cancellation curve. Corporate silence is the loudest signal of all.",
+    "chosen_actions": [
+      {
+        "action_type": "follow_up_external_applications",
+        "description": "Execute the three follow-up calls I committed to in my retraining plan but have not yet completed. Call the regional logistics company, the healthcare system risk division, and the municipal risk management office directly — by name, by phone. Specific script: 'Did you receive my application, is there a next step, and can we schedule a 20-minute conversation?' These leads are going cold. This tick I make the calls, not emails. I document each outcome. If any of the three express interest, I schedule a conversation for within the next two weeks.",
+        "target": "external_job_market",
+        "priority": 1
+      },
+      {
+        "action_type": "escalate_corporate_memo",
+        "description": "Send a follow-up to the regional leadership memo I sent at tick 4 on the commercial fleet pivot. The original memo got no response. I am now following up with current data: policies down to 22, 2 more vehicle exits this month, RoboRide at 7% adoption, Howard Liu actively cultivating a RoboRide fleet contact. I frame this follow-up not as panic but as a data update that makes the case stronger. I ask specifically: what is the timeline for a decision on the commercial product line, and am I authorized to begin preliminary conversations with commercial fleet prospects? I need an answer either way — so I can plan.",
+        "target": "autoshield_corporate",
+        "priority": 2
+      },
+      {
+        "action_type": "contact_howard_liu",
+        "description": "Call Howard Liu directly. He is chasing RoboRide fleet contacts. I want to understand what he's found — is there an actual fleet manager at RoboRide's regional operation? If RoboRide is running 7% of local trips, they have vehicles, they have liability exposure, they need commercial fleet coverage. Even if AutoShield cannot currently write that policy type for this region, knowing the contact and the need puts me in position when the pivot memo gets approved — or when I land somewhere that can write it. Howard's trust is 0.5 — enough for a straight professional conversation.",
+        "target": "howard_liu",
+        "priority": 3
+      },
+      {
+        "action_type": "advance_crmp_certification",
+        "description": "Put in the scheduled 6-8 hours this month on the CRMP coursework. The module focus remains liability risk transfer and commercial fleet risk assessment. This is not optional — it is the credential that makes me hirable outside personal auto. At 20% completion with 10 months to go, I cannot let this slip. I study even if I am tired. I study especially because the external applications depend on me being able to credibly claim this credential is in progress.",
+        "target": "self",
+        "priority": 4
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Corporate has had six ticks to respond to that memo and I have heard nothing, which is itself an answer I need to stop pretending isn't one. The Priya conversation confirmed what we both already knew — the personal auto book is over — and now she's looking at her own clock, which means I need to be further along than she is when this collapses. The external calls I was supposed to make are still not made. That's on me. This month I pick up the phone."
+  }
+}

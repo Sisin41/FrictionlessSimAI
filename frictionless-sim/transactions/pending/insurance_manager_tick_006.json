@@ -1,0 +1,13 @@
+{
+  "tick": 6,
+  "from_agent": "insurance_manager",
+  "from_name": "Linda Park",
+  "to_agent": "parts_store_owner",
+  "to_name": "Howard Liu",
+  "transaction_type": "information_request",
+  "description": "Linda Park calls Howard Liu directly to ask about his RoboRide fleet contact outreach. She wants to know: is there an actual fleet manager or regional operations contact at RoboRide she should be talking to about commercial fleet liability coverage? She frames it as a professional peer conversation — Howard is chasing them for parts supply, she is positioning for the insurance side. She is not asking him to do anything for her; she is asking what he has found so she can be ready when the AutoShield pivot is approved.",
+  "value_exchanged": "information",
+  "expected_outcome": "Howard Liu shares what he knows about RoboRide's local fleet operations and whether a commercial insurance conversation is viable. Linda gains a warm contact lead or at minimum a clearer sense of the opportunity size.",
+  "trust_delta_expected": 0.05,
+  "urgency": "medium"
+}

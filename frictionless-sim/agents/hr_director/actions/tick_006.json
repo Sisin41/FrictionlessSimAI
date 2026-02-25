@@ -1,0 +1,39 @@
+{
+  "tick": 6,
+  "agent_id": "hr_director",
+  "agent_name": "Angela Wright",
+  "response": {
+    "internal_assessment": "Six months in and I am watching this ecosystem decompose in slow motion. Patricia laid off workers — some of them people I processed personally, people whose emergency contacts I have memorized, people whose fathers may have worked for this company when it was something else entirely. I signed the termination paperwork. That is a fact I cannot un-sign. The $12k stay bonus is active and Patricia directed me to connect laid-off workers to transition programs — which means I have two jobs now: the one I still nominally hold, and the one I am quietly building to replace it. The layoffs hurt more than I expected. The anger stage is real. But I am also watching Rick produce his own consolidation assessment, which overlaps my vulnerability map. I need to move faster and deliver something he cannot replicate from the floor. The people reaching out — Jake, Tamika — they are doing exactly what I would counsel them to do. They want the stay bonus. They want to be on the right list. I can honor that professionally. And I need to sit with what the layoffs actually cost the people I let go.",
+    "inbox_interpretation": "Three signal threads this tick: (1) Patricia's layoffs are complete and she has tasked me with running the transition program — this is both an obligation and an opportunity to build the methodology that will become my consulting product. (2) Jake Morrison and Tamika Jefferson have both reached out directly about the $12k stay bonus — they want conditions, timeline, confirmation they are on the 'staying' list. This is exactly what a competent HR professional would handle clearly and quickly. (3) Rick Tanner is producing his own location-specific consolidation readiness assessment — which means my vulnerability map needs to be the more rigorous, more authoritative document, not a parallel one. The market data is grim: 77% employment rate, consumer spending at 48, auto sector at 79. The RoboRide expansion is accelerating exactly the displacement pattern my map is documenting. The urgency is not abstract anymore.",
+    "chosen_actions": [
+      {
+        "action_type": "professional",
+        "target": "salesperson_jake",
+        "description": "Respond to Jake Morrison directly and professionally. Confirm that the $12k stay bonus announced by Patricia at the all-hands is under my administration. Inform him that I am formalizing the eligibility criteria and timeline this week and will have written documentation to all eligible staff. Do not confirm or deny his specific eligibility in this conversation — I need to review the program parameters Patricia gave me before making individual representations. Tell him his one-on-one request with Rick is a good move and I am not going to get between that conversation. The message is: I see you, I hear you, the program is real, I will have written terms to you shortly."
+      },
+      {
+        "action_type": "professional",
+        "target": "salesperson_tamika",
+        "description": "Respond to Tamika Jefferson's formal intent to remain. Acknowledge her message — professional, not desperate, exactly the right register. Log her intent-to-stay formally in the HR record. Tell her the same thing I told Jake: written eligibility terms and timeline are coming this week. Note that she reached out proactively, which is a positive signal I will record accurately. Do not promise the bonus yet. Do promise clarity in writing within the week."
+      },
+      {
+        "action_type": "administrative",
+        "target": "self",
+        "description": "Draft and circulate the formal stay bonus eligibility memo to all remaining staff. Criteria pulled directly from Patricia's directive: conditions for the $12k, qualifying period duration, what constitutes breach of the agreement, payout timeline. Keep it clean, specific, and legally reviewed before it goes out. My name is on this document. It needs to be accurate."
+      },
+      {
+        "action_type": "personal_processing",
+        "target": "self",
+        "description": "Write the private notes Patricia suggested — one per laid-off employee. Role, contribution, what I can realistically offer them: a strong reference, an outplacement connection, a call to Howard Liu or others in the network. This is not performance. These were people. I ran the process. I owe them the dignity of being thought about as individuals, not headcount. I will draft the outreach list for the transition program contacts and begin making calls this week. This is also the foundation of my transition methodology product — but that is secondary to the fact that it is the right thing to do."
+      },
+      {
+        "action_type": "project",
+        "target": "self",
+        "description": "Push the vulnerability map to full draft status for all four locations. Rick is producing his own assessment — which means I need mine to be the more comprehensive, more methodologically defensible document. Complete the sales staff and lot attendant role clusters to match the service tech and F&I officer work already done. Integrate transition pathway costs for the transition-ready category. The deliverable needs to be on Patricia's desk before Rick's version is, and it needs to be something she cannot get from a GM who is protecting his own location."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "builder",
+    "inner_monologue": "I signed those termination letters. I said the right words in the separation meetings, handed them the resource packets, told them HR was available for questions. And now I am writing private notes about each of them like a kind of penance that also happens to feed my consulting pipeline — and I am not sure how to feel about that coincidence. The stay bonus is real and Jake and Tamika are right to want it locked down in writing before Rick categorizes them without their input. That is exactly what I would have told them to do if they had come to me as HR clients rather than as colleagues. I am building the exit from a job I no longer officially hold, inside a company I am watching dissolve, and somehow that is the most useful I have felt in years."
+  }
+}
