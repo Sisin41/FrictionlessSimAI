@@ -42,7 +42,7 @@
       "insurance_coverage": "none"
     },
     "L2_PARTICIPATE": {
-      "employment_status": "unemployed",
+      "employment_status": "employed",
       "skill_relevance": 0.4,
       "role_security": 0.76,
       "network_strength": 0.43

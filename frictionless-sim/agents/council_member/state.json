@@ -42,7 +42,7 @@
       "insurance_coverage": "none"
     },
     "L2_PARTICIPATE": {
-      "employment_status": "unemployed",
+      "employment_status": "employed",
       "skill_relevance": 0.82,
       "role_security": 0.83,
       "network_strength": 0.63
@@ -91,7 +91,7 @@
     "high_stress_ticks": 0
   },
   "financial": {
-    "monthly_income": 0,
+    "monthly_income": 3500,
     "monthly_expenses": 3917,
     "savings": 62121,
     "debt_total": 62334,
