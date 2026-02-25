@@ -54,6 +54,11 @@
       "tick": 10,
       "summary": "Launch the Financial Triage Navigator function at the community center. Not as a pilot \u2014 as an operating service that begins this week. The structure: Tuesday and Thursday evenings during community connection night, a trained volunteer (I will start as the volunteer) sits with a community member for 45 minutes. The session covers: current income and expense picture, what programs they have already applied for and what the status is, what programs they qualify for but have not applied to, and a specific prioritized list of three next steps with contact information attached. I am not a financial planner. I am a person who knows what resources exist in Millfield and can map them to a person's actual situation in plain language. I start doing this this week.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 11,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -136,6 +141,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Launch the Financial Triage Navigator function at the community center. Not as a pilot \u2014 as an operating service that begins this week. The structure: Tuesday and Thursday evenings during community connection night, a trained volunteer (I will start as the volunteer) sits with a community member for 45 minutes. The session covers: current income and expense picture, what programs they have already applied for and what the status is, what programs they qualify for but have not applied to, and a specific prioritized list of three next steps with contact information attached. I am not a financial planner. I am a person who knows what resources exist in Millfield and can map them to a person's actual situation in plain language. I start doing this this week.. Savings grew by $362. "
+    },
+    {
+      "tick": 11,
+      "action": "routine",
+      "savings_delta": 362,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings grew by $362. "
     }
   ],
   "reflections": [

@@ -1,0 +1,9 @@
+{
+  "tick": 11,
+  "from": "retiree",
+  "to": "diner_owner",
+  "amount": 25,
+  "reason": "Diner visit - meal and generous tip. Regular patronage of Betty Kowalski's diner as community support and relationship maintenance. Dorothy also extends a workshop speaker invitation during the visit.",
+  "action_type": "EXCHANGE",
+  "status": "no_counterparty"
+}

@@ -1,8 +1,0 @@
-{
-  "tick": 11,
-  "from": "gas_station_owner",
-  "to": "real_estate_agent",
-  "amount": 1500,
-  "reason": "Payment of Stephanie Morris's $1,500 commercial property valuation fee for the tick 8 site visit and four-scenario adaptive reuse analysis — committed to payment at tick 10 and executing this tick",
-  "action_type": "EXCHANGE"
-}

@@ -54,6 +54,11 @@
       "tick": 10,
       "summary": "Submit the $2,500 workforce retraining grant application through Maria Santos's office TODAY. Not after the job search follow-up. Not after Tom's call. First. I fill out the application form, document my three completed SQL/data visualization modules and the Module 4 in progress, name the target transition: commercial risk analytics or data analyst roles in insurtech or fleet risk adjacent sectors. I attach the fleet incident data query as a portfolio artifact demonstrating the coursework is producing usable output. I submit it. I get a confirmation number. I write it down. This has been a named failure in my tick 6 and tick 9 reflections. It does not make it to tick 11 as an open item.",
       "emotional_state": "anxious"
+    },
+    {
+      "tick": 11,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -136,6 +141,14 @@
       "stress_delta": 0.05,
       "employment_changed": false,
       "narrative": "You Submit the $2,500 workforce retraining grant application through Maria Santos's office TODAY. Not after the job search follow-up. Not after Tom's call. First. I fill out the application form, document my three completed SQL/data visualization modules and the Module 4 in progress, name the target transition: commercial risk analytics or data analyst roles in insurtech or fleet risk adjacent sectors. I attach the fleet incident data query as a portfolio artifact demonstrating the coursework is producing usable output. I submit it. I get a confirmation number. I write it down. This has been a named failure in my tick 6 and tick 9 reflections. It does not make it to tick 11 as an open item.. Savings dropped by $3,341. "
+    },
+    {
+      "tick": 11,
+      "action": "routine",
+      "savings_delta": -3341,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings dropped by $3,341. "
     }
   ],
   "reflections": [

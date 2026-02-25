@@ -1,8 +1,0 @@
-{
-  "tick": 11,
-  "from": "ceo_regional_auto",
-  "to": "dealership_gm",
-  "amount": 4500,
-  "reason": "First month payment on 90-day consulting contract — assessment finalization and transition-phase operational advisory. Patricia Hawkins pays Rick Tanner per the signed contract executed in tick 10.",
-  "action_type": "EXCHANGE"
-}

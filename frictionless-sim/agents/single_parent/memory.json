@@ -54,6 +54,11 @@
       "tick": 10,
       "summary": "Actively verify my employment status at Millfield General this week. If hours were reduced or a scheduling change created a gap, I need to know the actual situation immediately. Contact my charge nurse or the staffing office directly - not passively. Confirm current schedule, check for any administrative changes to my position, and document the status clearly. If I am still employed but in a slow month, I know my actual runway. If something changed, I need to know before the next paycheck cycle.",
       "emotional_state": "anxious"
+    },
+    {
+      "tick": 11,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -136,6 +141,14 @@
       "stress_delta": 0.05,
       "employment_changed": false,
       "narrative": "You Actively verify my employment status at Millfield General this week. If hours were reduced or a scheduling change created a gap, I need to know the actual situation immediately. Contact my charge nurse or the staffing office directly - not passively. Confirm current schedule, check for any administrative changes to my position, and document the status clearly. If I am still employed but in a slow month, I know my actual runway. If something changed, I need to know before the next paycheck cycle.. Savings dropped by $4,630. "
+    },
+    {
+      "tick": 11,
+      "action": "routine",
+      "savings_delta": -4630,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings dropped by $4,630. "
     }
   ],
   "reflections": [

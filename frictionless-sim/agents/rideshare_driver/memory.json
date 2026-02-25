@@ -49,6 +49,11 @@
       "tick": 10,
       "summary": "Make final decisive push to convert NEMT employer pipeline. Call Millfield Medical Transport and CareRide of the Valley again \u2014 not to check in, but to move to decision. State availability clearly: I am certified, I have a clean driving record, I can begin within one week. Ask directly: is there an interview or an onboarding slot I can schedule this week? If any offer is on the table, I accept it this call. I do not ask for time to think. I do not negotiate on rate for the first contract \u2014 I accept the standard Medicaid-billable rate and work to prove myself. A contract in hand at standard rates beats continued waiting.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 11,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -131,6 +136,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Make final decisive push to convert NEMT employer pipeline. Call Millfield Medical Transport and CareRide of the Valley again \u2014 not to check in, but to move to decision. State availability clearly: I am certified, I have a clean driving record, I can begin within one week. Ask directly: is there an interview or an onboarding slot I can schedule this week? If any offer is on the table, I accept it this call. I do not ask for time to think. I do not negotiate on rate for the first contract \u2014 I accept the standard Medicaid-billable rate and work to prove myself. A contract in hand at standard rates beats continued waiting.. Savings grew by $387. "
+    },
+    {
+      "tick": 11,
+      "action": "routine",
+      "savings_delta": 387,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings grew by $387. "
     }
   ],
   "reflections": [

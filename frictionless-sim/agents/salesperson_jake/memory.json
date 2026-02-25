@@ -54,6 +54,11 @@
       "tick": 10,
       "summary": "Process what Rick told me in our direct conversation. Whatever he shared \u2014 which location is closing, whether my position is in the transition pool or at a surviving location \u2014 I use that information to update my three-lane map. If my location is the one closing, I immediately activate Lane B: I reach out to Rick this week to tell him directly that I want the service advisor or fleet-account relationship role he identified in the restructured organization. I do not wait for a formal posting. I call Rick and say: 'You told me there's a role that needs someone who can sell relationships. That's me. I want to be considered for it.' I have 0.73 trust with Rick and he knows my work. If my location is surviving, I stay on the floor and work the close this month while locking in the stay bonus.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 11,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -136,6 +141,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Process what Rick told me in our direct conversation. Whatever he shared \u2014 which location is closing, whether my position is in the transition pool or at a surviving location \u2014 I use that information to update my three-lane map. If my location is the one closing, I immediately activate Lane B: I reach out to Rick this week to tell him directly that I want the service advisor or fleet-account relationship role he identified in the restructured organization. I do not wait for a formal posting. I call Rick and say: 'You told me there's a role that needs someone who can sell relationships. That's me. I want to be considered for it.' I have 0.73 trust with Rick and he knows my work. If my location is surviving, I stay on the floor and work the close this month while locking in the stay bonus.. Savings dropped by $3,840. "
+    },
+    {
+      "tick": 11,
+      "action": "routine",
+      "savings_delta": -463,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. Savings dropped by $463. "
     }
   ],
   "reflections": [

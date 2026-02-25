@@ -54,6 +54,11 @@
       "tick": 10,
       "summary": "Call Millfield Medical Transport and CareRide of the Valley this week \u2014 the same operators Robert named. I have the NEMT certification in hand. I lead with that fact and state my availability clearly: I am certified, I have a clean driving record, I have a vehicle that meets commercial standards, and I can start within the week. I ask one direct question: is there an onboarding slot available and when can I schedule an interview or orientation? I do not wait for Robert's offer to confirm before calling. I act on his intelligence directly. If Robert has already spoken to these operators, I mention his name \u2014 not to piggyback on his application, but to establish that I come from the same credible pipeline he does.",
       "emotional_state": "anxious"
+    },
+    {
+      "tick": 11,
+      "summary": "routine",
+      "emotional_state": "neutral"
     }
   ],
   "past_outcomes": [
@@ -136,6 +141,14 @@
       "stress_delta": 0.05,
       "employment_changed": false,
       "narrative": "You Call Millfield Medical Transport and CareRide of the Valley this week \u2014 the same operators Robert named. I have the NEMT certification in hand. I lead with that fact and state my availability clearly: I am certified, I have a clean driving record, I have a vehicle that meets commercial standards, and I can start within the week. I ask one direct question: is there an onboarding slot available and when can I schedule an interview or orientation? I do not wait for Robert's offer to confirm before calling. I act on his intelligence directly. If Robert has already spoken to these operators, I mention his name \u2014 not to piggyback on his application, but to establish that I come from the same credible pipeline he does.. Savings dropped by $68. "
+    },
+    {
+      "tick": 11,
+      "action": "routine",
+      "savings_delta": 0,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You routine. "
     }
   ],
   "reflections": [
