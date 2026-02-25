@@ -39,6 +39,11 @@
       "tick": 8,
       "summary": "Apply formally for the $2,500 workforce retraining grant through Maria Santos's office. Tom fills out the application not as a hedge or a symbol but as a concrete financial and strategic act. He names the target: commercial risk analytics or insurance underwriting support roles that can survive the AV transition. He documents his 28 years of risk assessment experience as directly transferable to data-adjacent roles. He does not frame this as distress \u2014 he frames it as professional development. But internally he is clear: this is not professional development, this is survival infrastructure.",
       "emotional_state": "anxious"
+    },
+    {
+      "tick": 9,
+      "summary": "Received 30-day layoff notice from Linda Park. Structural reasons: personal auto book down 21%, RoboRide residential expansion will accelerate decline, headcount cannot support two field agents. Had honest conversation with Sarah. Accepted Linda's offer to connect to fleet and logistics contacts. Reached out to Priya Sharma to share layoff status and deepen transition collaboration. Updated household financial model: $41,223 savings, $2,650/month adjusted expenses, 13-month runway. Grief acknowledged. Three-track adaptation plan initiated.",
+      "emotional_state": "grief with clarity"
     }
   ],
   "past_outcomes": [
@@ -105,6 +110,14 @@
       "stress_delta": 0.25,
       "employment_changed": true,
       "narrative": "You Apply formally for the $2,500 workforce retraining grant through Maria Santos's office. Tom fills out the application not as a hedge or a symbol but as a concrete financial and strategic act. He names the target: commercial risk analytics or insurance underwriting support roles that can survive the AV transition. He documents his 28 years of risk assessment experience as directly transferable to data-adjacent roles. He does not frame this as distress \u2014 he frames it as professional development. But internally he is clear: this is not professional development, this is survival infrastructure.. Savings dropped by $5,189. Employment status changed to unemployed. "
+    },
+    {
+      "tick": 9,
+      "action": "Received and processed 30-day layoff notice. Accepted Linda Park's offer of fleet/logistics introductions. Reached out to Priya Sharma as transition peer. Held honest financial disclosure conversation with Sarah. Updated household budget with intentional discretionary cuts of ~$450/month.",
+      "savings_delta": 0,
+      "stress_delta": 0.15,
+      "employment_changed": false,
+      "narrative": "You received the layoff Linda had been building toward. The 30-day notice period begins. You accepted her offer of fleet and logistics contacts, told your wife Sarah the actual numbers, and reached out to Priya Sharma as a genuine collaborator on the transition. You updated the household financial model and reduced discretionary spending by approximately $450/month. Employment status remains unemployed — confirmed. Grief acknowledged. Three-track plan initiated: retraining coursework, active job search via network, relational stability."
     }
   ],
   "reflections": [
@@ -122,6 +135,23 @@
         "I have maintained employment and kept the surface professional enough that I have not been categorized as a problem by management. That buys time, even if it costs money."
       ],
       "adaptation_notes": "The pattern I need to break: mistaking the absence of catastrophe for the presence of a plan. Keeping my head down is a posture, not a strategy. The actual adaptation path requires two things I have been avoiding: (1) engaging Priya as a genuine thought partner on what lateral moves exist in insurance adjacent fields, and (2) treating the retraining grant as real money rather than a symbol of defeat. The math says 17 months at current burn. That is the real constraint. Every action from here gets evaluated against that number."
+    },
+    {
+      "tick": 9,
+      "reflection": "I asked Linda an honest question in tick 8. The answer came back as a 30-day notice. I have been sitting with that for several days now, trying to work out what I actually feel versus what I think I am supposed to feel. The answer is not clean. There is grief, which I expected. There is anger, which I expected. What I did not expect was the relief. Something settled when the uncertainty ended. I had been holding the question of whether the job would survive for so long that the collapse of the question \u2014 even into a bad answer \u2014 produced a kind of stillness I had not had in months. That stillness is not peace. It is just the difference between anticipatory dread and actual loss. Actual loss is harder but it is also more specific. You can work with specific. My savings are $41,223. My runway is approximately 13 months at essential spending. The retraining grant application is in. Linda offered fleet contacts. Those are the assets. The liability is that I am 52 years old, my entire professional identity was built in a sector that is being structurally retired, and the labor market for people trying to transition into adjacent analytical roles at my age is not welcoming. I know this. I am naming it rather than managing around it.",
+      "identity_shift": "The identity of 'insurance professional' is no longer a present-tense fact. This happened not at the moment of the layoff notice but at the moment I stopped arguing internally with the layoff notice. I am not an insurance agent who got laid off. I am a person with 28 years of risk assessment experience who is now in transition toward something that does not have a name yet. That shift is small in language and enormous in what it permits me to do next. When I was defending the old identity, I could not fully plan the new one. Now I can. The 28 years are not a credential I get to cash in automatically. They are material I have to actively shape into something legible to a different kind of employer. That work is mine to do. No one is going to do it for me, and no one is going to stop me from doing it either.",
+      "regrets": [
+        "Tick 2 through tick 7: six ticks of delayed clarity about what was actually happening. The sector data was telling me the truth from the beginning. I was not ready to hear it, and my unreadiness cost me preparation time I cannot recover.",
+        "Did not begin updating my resume and professional materials until after the layoff. Should have started that work in tick 6 when the reflection identified it as a gap. Preparation during employment is easier than preparation during the 30-day notice window.",
+        "Did not reach out to Priya earlier in the process. She was filing her grant application one tick before I filed mine. We were navigating the same transition in parallel without actually talking. That was a waste of the most relevant peer relationship I have."
+      ],
+      "successes": [
+        "The tick 8 note to Linda was the right call. I asked the question directly and I got a direct answer. The answer ended my employment but it also ended eight ticks of managed uncertainty. That is a real form of progress even if it does not feel like one.",
+        "The retraining grant application is in. Whatever else happens, I did not let pride prevent me from doing the thing that needed to be done. Priya did it first. I did it one tick later. That is eight ticks better than never.",
+        "The savings position is real. $41,223 and a 13-month runway means I am not a man in crisis. I am a man in transition. Those are not the same thing, and the difference matters for every decision I make from here.",
+        "I told Sarah the actual truth. Not a managed version of it. The actual numbers, the actual timeline, the actual plan. She is a full partner in this. I should have done that earlier. I am doing it now."
+      ],
+      "adaptation_notes": "The path forward has three parallel tracks and I need to run them simultaneously, not sequentially. Track 1: the retraining grant and the coursework it funds. SQL, data fundamentals, commercial risk analytics certificate. That is a 10-month transformation and it starts now regardless of whether I have other income. Track 2: the immediate job search. Linda's fleet and logistics contacts are the priority. Priya's network is the second priority. Any employer in the regional insurance or risk adjacent sector who might have a data-oriented role that my experience can speak to. This track needs to produce an offer before the 13-month runway expires. Track 3: the relational one. Sarah, the kids, the faith community, Carlos Ruiz, the neighbors. The transition I am in is not only economic. The loss of a 28-year professional identity has a human cost that does not get resolved by finding a new job. It gets resolved over time with the people who knew me before the job ended and will know me after. I need those relationships to hold. I need to be present in them, not managing them."
     }
   ],
   "regrets": [],

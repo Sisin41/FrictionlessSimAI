@@ -1,0 +1,72 @@
+{
+  "tick": 9,
+  "agent_id": "driving_instructor",
+  "agent_name": "Frank Russo",
+  "response": {
+    "internal_assessment": "Savings are at $10,180. That is three months, maybe a little less. I have been in motion for five ticks now — reaching out, building curriculum, applying for the grant, calling the adult ed coordinator twice. Motion is not the same as income. I need the adult ed coordinator to respond. I need the grant to come through. I need at least one of these pipelines to yield something real before the end of next month or I am making harder decisions than I want to make. The word from Mark Thompson this tick is significant. He is presenting to the school board about the EV training pipeline and he is centering the RoboRide delivery expansion as the evidence that local fleet maintenance is a genuine employment category. That is my lane too. The AV literacy curriculum I built is the human side of that same transition — the people who need to understand how to live in a world where autonomous vehicles are infrastructure, not novelty. Mark and I are building toward the same audience from different angles. I need to talk to him. The 9 people enrolled in retraining this month — that number means the adult education apparatus is active, people are coming in. I want to be one of the instructors they find when they get there. This tick I am doing three things: I am showing up in person at the adult ed office if I have not gotten a response from the coordinator, I am calling Mark Thompson to coordinate on his board presentation, and I am watching for the grant outcome. If the grant comes through, I have breathing room. If it does not, I am adjusting my timeline.",
+    "inbox_interpretation": "Mark Thompson's word-of-mouth messages are the most actionable signals in my inbox this tick. He is doing exactly what a good colleague does — building the institutional case that I can attach my own work to. The 'Fleet Maintenance Gap' framing he is developing for the board presentation is adjacent to the 'AV Literacy Gap' I am pitching to adult ed. These are not competing ideas — they are the same structural argument approached from different angles. If I can coordinate with him before his board presentation, we strengthen both pitches. The RoboRide delivery partnership announcement also matters for my curriculum: the fourth module I added last tick — 'The Math of Moving' — is now even more timely. At $0.12/mile with residential coverage and a delivery partnership, the economics of car ownership in Millfield are shifting in real-time. I can teach that from lived experience. The news about Angela Wright launching a workforce transition consulting entity is notable. She is formalizing the methodology she has been building. If she is doing workforce transition consulting and I am developing AV literacy instruction, there may be a point of contact — she needs instructors for transition cohorts and I need a platform. I am not reaching out speculatively this tick. I am noting it and keeping it in reserve.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Frank does not make a third phone call to the adult ed coordinator. He goes in person. He drives to the district office during morning business hours, asks for the coordinator by name, and explains briefly that he has called twice and wants five minutes if she has them. If she is available, he hands her the four-module curriculum document and makes one ask: a fifteen-minute meeting within the next two weeks to discuss whether there is a fit between what he has built and what the district's adult ed catalog needs. If she is not available, he leaves the curriculum document with the front desk in a labeled envelope with a handwritten note — his name, Mark Thompson's name as the referral, his phone number, and one line: 'I would like five minutes at your convenience. I have already developed the curriculum.' He does not apologize for showing up. He is a professional with a real product and a real referral. Showing up in person after two unreturned calls is not desperate — it is what people who are serious about their work do.",
+        "target_agent": "adult_ed_coordinator",
+        "resources": {
+          "type": "time_and_curriculum_document",
+          "direction": "outbound",
+          "amount": 0,
+          "detail": "In-person visit to district adult ed office. No money changes hands. Frank brings the four-module AV literacy curriculum document. This is a pipeline escalation — moving from phone to physical presence after two calls."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "pending — this action is the most direct path to part-time teaching income within the runway"
+        },
+        "reasoning": "Frank has called twice. The coordinator has either been unavailable or has not responded. At $10,180 in savings and a 3.2-month runway, he cannot continue cycling through phone calls indefinitely. An in-person visit with the curriculum document in hand changes the nature of the interaction — it signals seriousness, provides a tangible artifact, and makes it harder to delay. Mark Thompson's referral is warm. Frank's curriculum is real. He is not asking for a favor; he is asking for a meeting about a course he has already built. In-person is the right escalation at this stage."
+      },
+      {
+        "type": "COLLABORATION",
+        "description": "Frank calls Mark Thompson this week — not to ask for help, but to share intelligence and coordinate. He tells Mark he saw the word about the board presentation and the 'Fleet Maintenance Gap' framing. He says: the same structural argument applies to the adult literacy side — people who are going to live with autonomous vehicles need to understand how to coexist with them safely and how to evaluate the economics. The two programs are complementary, not competing. If Mark's board presentation is positioning Millfield's workforce for the EV maintenance economy, Frank's AV literacy curriculum is positioning Millfield's adult population for the daily reality of living alongside autonomous systems. Frank asks one specific question: would it be useful to Mark if Frank drafted a one-paragraph statement about the adult literacy demand — something Mark could reference in the board presentation as context for why the tech pipeline matters beyond technician jobs? Frank is not asking for anything in return. He is offering something that costs him an hour and strengthens a colleague's case.",
+        "target_agent": "auto_shop_teacher",
+        "resources": {
+          "type": "time_and_expertise",
+          "direction": "outbound",
+          "amount": 0,
+          "detail": "Phone call and potential one-paragraph written statement for Mark Thompson's board presentation. No money. This is reciprocal relationship maintenance — Frank helped Mark build toward the board presentation over several ticks, and now he is offering to be useful at the critical moment."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "relationship_capital_with_mark_thompson",
+          "employment_change": "none"
+        },
+        "reasoning": "Mark Thompson is Frank's highest-trust relationship in the simulation (0.83). Mark has been a genuine partner in building toward the adult ed pathway. His board presentation is the institutional event that could open district resources for EV and AV education in Millfield — and Frank's curriculum lives in that same institutional space. Strengthening Mark's presentation costs Frank nothing and deepens the collaboration that is Frank's most viable path to income. It also keeps Frank's name in the room at the board level, which matters if the adult ed coordinator is asking around about whether the program has institutional backing."
+      },
+      {
+        "type": "MONITORING",
+        "description": "Frank checks on the grant status. He applied in tick 8 and the application was submitted with complete documentation. He either follows up with city hall to confirm receipt and ask for a timeline, or he watches his mail and email. He does not call to apply pressure — he calls to confirm that the application is in the queue and to understand when decisions are being communicated. If the grant is approved, he deposits the $2,500 immediately and updates his runway calculation. If it is under review, he notes the timeline and holds. If it is denied, he responds with equanimity — $2,500 would have been helpful but it was never load-bearing. The core work continues regardless.",
+        "target_agent": "council_member",
+        "resources": {
+          "type": "time",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Brief follow-up contact with city hall grants office to confirm application status. No money changes hands this tick regardless of outcome. Grant income would be $2,500 if approved."
+        },
+        "economic_effects": {
+          "income_change": 2500,
+          "expense_change": 0,
+          "savings_change": 2500,
+          "asset_change": "none",
+          "employment_change": "none",
+          "conditional": "income_change and savings_change only apply if grant is approved this tick"
+        },
+        "reasoning": "The grant application has a 60% approval probability based on how it was structured. Frank has strong documentation, a clear pivot narrative, and a qualifying business. Checking status is professional conduct. If approved this tick, the $2,500 extends his runway from 3.2 months to approximately 4 months — meaningful time that could coincide with a first adult ed contract or part-time teaching arrangement beginning to generate income."
+      }
+    ],
+    "emotional_state": "determined — with a sharper edge than previous ticks. Frank knows the numbers. He is not panicking but he is no longer in the phase where deliberate pace feels entirely comfortable. He is in the phase where he needs to see results from the actions he has already taken.",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Three months. Maybe three and a half if the grant comes through. I have been doing the right things — I know that. The curriculum is real. The referral from Mark is real. The follow-up calls happened when they were supposed to happen. But I am fifty-eight years old and I have been unemployed for nine ticks and my savings are below eleven thousand dollars and I have a mortgage and a dependent. I do not get to keep doing the right things indefinitely and wait for them to pay off. Today I am going in person. Not because phone calls are beneath me. Because I have made two phone calls, I have a real product, and I have a referral from a man who is respected in this district. Showing up is not desperation. Showing up is what you do when you are serious. I taught people to drive by sitting in the passenger seat and keeping my voice calm while they figured out how to do something that terrified them. I can walk into a district office with a curriculum document and ask for a meeting. That is the easiest thing I have done in nine ticks."
+  }
+}

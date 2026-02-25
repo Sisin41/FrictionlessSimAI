@@ -2,12 +2,12 @@
   "past_actions": [
     {
       "tick": 0,
-      "summary": "Search for a second part-time or gig-based income source \u2014 delivery driving (DoorDash, Instacart), warehouse shifts, or weekend labor gigs. Target something flexible that doesn't conflict with car wash hours.",
-      "emotional_state": "Flat. Focused. Not scared, not hopeful \u2014 just pragmatic. The math is what it is. I've been broke before and I know what broke feels like, and I know the difference between broke-with-a-plan and broke-panicking. I'm doing the plan."
+      "summary": "Search for a second part-time or gig-based income source — delivery driving (DoorDash, Instacart), warehouse shifts, or weekend labor gigs. Target something flexible that doesn't conflict with car wash hours.",
+      "emotional_state": "Flat. Focused. Not scared, not hopeful — just pragmatic. The math is what it is. I've been broke before and I know what broke feels like, and I know the difference between broke-with-a-plan and broke-panicking. I'm doing the plan."
     },
     {
       "tick": 1,
-      "summary": "Aggressively finalize roommate search \u2014 post on every platform, lower the ask, take the first financially viable applicant. Splitting rent cuts monthly burn nearly in half and extends runway past the displacement window.",
+      "summary": "Aggressively finalize roommate search — post on every platform, lower the ask, take the first financially viable applicant. Splitting rent cuts monthly burn nearly in half and extends runway past the displacement window.",
       "emotional_state": "Calm, slightly pressured. Not scared. Frustrated that the timeline is tight but not paralyzed. This is a logistics problem, not an identity crisis."
     },
     {
@@ -22,18 +22,18 @@
     },
     {
       "tick": 4,
-      "summary": "Enroll in a part-time automotive service technician certificate program at Millfield Community College. Classes start next month, evenings and weekends \u2014 does not conflict with car wash shifts. Goal: gain a marketable trade skill before the car wash role evaporates. Asked Carlos (mechanic_carlos) informally if he thinks it's worth it and would consider me for an apprentice-track role once I have basics.",
+      "summary": "Enroll in a part-time automotive service technician certificate program at Millfield Community College. Classes start next month, evenings and weekends — does not conflict with car wash shifts. Goal: gain a marketable trade skill before the car wash role evaporates. Asked Carlos (mechanic_carlos) informally if he thinks it's worth it and would consider me for an apprentice-track role once I have basics.",
       "emotional_state": "determined"
     },
     {
       "tick": 5,
-      "summary": "Stay enrolled and attend automotive service technician certificate classes this month. No skipping. Program is at 12% completion \u2014 keep the streak alive and push toward 20%.",
+      "summary": "Stay enrolled and attend automotive service technician certificate classes this month. No skipping. Program is at 12% completion — keep the streak alive and push toward 20%.",
       "emotional_state": "determined"
     },
     {
       "tick": 6,
-      "summary": "Continue automotive service technician certificate program. Reach out to Mark Thompson at Millfield High to open a professional bridge around EV curriculum. Carlos and Sarah both independently pointed to him \u2014 that is a convergent signal I cannot ignore. Keep finances flat, no new commitments.",
-      "emotional_state": "Focused. A little more alert. The contraction is real now \u2014 I can see it in the unemployment numbers, in the spending data, in who around me is scrambling. But I am not scrambling. I am building."
+      "summary": "Continue automotive service technician certificate program. Reach out to Mark Thompson at Millfield High to open a professional bridge around EV curriculum. Carlos and Sarah both independently pointed to him — that is a convergent signal I cannot ignore. Keep finances flat, no new commitments.",
+      "emotional_state": "Focused. A little more alert. The contraction is real now — I can see it in the unemployment numbers, in the spending data, in who around me is scrambling. But I am not scrambling. I am building."
     },
     {
       "tick": 6,
@@ -42,26 +42,31 @@
     },
     {
       "tick": 8,
-      "summary": "Continue automotive service technician certificate program at Millfield Community College without missing a single session. This is month four of eight \u2014 I am roughly at 25% completion. This month's priority is not just attendance: I need to pin down, definitively, whether EV modules exist in this curriculum and when they appear. I flagged this at tick 6, flagged it again at tick 7, and still have not gotten the answer. This month I walk up to the program coordinator after Thursday's class and ask the question directly. I also want to know if there is an EV specialization add-on or follow-on credential the college offers, and what the timeline looks like. The general automotive cert is still worth finishing \u2014 it is the foundation \u2014 but I need to know if I am building toward the right second credential so I can plan the 8 months after this program ends.",
+      "summary": "Continue automotive service technician certificate program at Millfield Community College without missing a single session. This is month four of eight — I am roughly at 25% completion. This month's priority is not just attendance: I need to pin down, definitively, whether EV modules exist in this curriculum and when they appear. I flagged this at tick 6, flagged it again at tick 7, and still have not gotten the answer. This month I walk up to the program coordinator after Thursday's class and ask the question directly. I also want to know if there is an EV specialization add-on or follow-on credential the college offers, and what the timeline looks like. The general automotive cert is still worth finishing — it is the foundation — but I need to know if I am building toward the right second credential so I can plan the 8 months after this program ends.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 9,
+      "summary": "Emergency income recovery: maximize bike gig work (DoorDash, potential RoboRide last-mile) to generate $400-600 this month without missing a class. Continue cert program — month 5 of 8, non-negotiable streak. Call Carlos back — he reached out to me, I return it. Follow up on Kevin O'Brien retraining grant application from tick 8.",
+      "emotional_state": "tense but controlled"
     }
   ],
   "past_outcomes": [
     {
       "tick": 0,
-      "action": "Search for a second part-time or gig-based income source \u2014 delivery driving (DoorDash, Instacart), warehouse shifts, or weekend labor gigs. Target something flexible that doesn't conflict with car wash hours.",
+      "action": "Search for a second part-time or gig-based income source — delivery driving (DoorDash, Instacart), warehouse shifts, or weekend labor gigs. Target something flexible that doesn't conflict with car wash hours.",
       "savings_delta": 131,
       "stress_delta": 0.0,
       "employment_changed": false,
-      "narrative": "You Search for a second part-time or gig-based income source \u2014 delivery driving (DoorDash, Instacart), warehouse shifts, or weekend labor gigs. Target something flexible that doesn't conflict with car wash hours.. Savings grew by $131. "
+      "narrative": "You Search for a second part-time or gig-based income source — delivery driving (DoorDash, Instacart), warehouse shifts, or weekend labor gigs. Target something flexible that doesn't conflict with car wash hours.. Savings grew by $131. "
     },
     {
       "tick": 1,
-      "action": "Aggressively finalize roommate search \u2014 post on every platform, lower the ask, take the first financially viable applicant. Splitting rent cuts monthly burn nearly in half and extends runway past the displacement window.",
+      "action": "Aggressively finalize roommate search — post on every platform, lower the ask, take the first financially viable applicant. Splitting rent cuts monthly burn nearly in half and extends runway past the displacement window.",
       "savings_delta": 131,
       "stress_delta": 0.0,
       "employment_changed": false,
-      "narrative": "You Aggressively finalize roommate search \u2014 post on every platform, lower the ask, take the first financially viable applicant. Splitting rent cuts monthly burn nearly in half and extends runway past the displacement window.. Savings grew by $131. "
+      "narrative": "You Aggressively finalize roommate search — post on every platform, lower the ask, take the first financially viable applicant. Splitting rent cuts monthly burn nearly in half and extends runway past the displacement window.. Savings grew by $131. "
     },
     {
       "tick": 2,
@@ -81,19 +86,19 @@
     },
     {
       "tick": 4,
-      "action": "Enroll in a part-time automotive service technician certificate program at Millfield Community College. Classes start next month, evenings and weekends \u2014 does not conflict with car wash shifts. Goal: gain a marketable trade skill before the car wash role evaporates. Asked Carlos (mechanic_carlos) informally if he thinks it's worth it and would consider me for an apprentice-track role once I have basics.",
+      "action": "Enroll in a part-time automotive service technician certificate program at Millfield Community College. Classes start next month, evenings and weekends — does not conflict with car wash shifts. Goal: gain a marketable trade skill before the car wash role evaporates. Asked Carlos (mechanic_carlos) informally if he thinks it's worth it and would consider me for an apprentice-track role once I have basics.",
       "savings_delta": 131,
       "stress_delta": -0.02,
       "employment_changed": false,
-      "narrative": "You Enroll in a part-time automotive service technician certificate program at Millfield Community College. Classes start next month, evenings and weekends \u2014 does not conflict with car wash shifts. Goal: gain a marketable trade skill before the car wash role evaporates. Asked Carlos (mechanic_carlos) informally if he thinks it's worth it and would consider me for an apprentice-track role once I have basics.. Savings grew by $131. "
+      "narrative": "You Enroll in a part-time automotive service technician certificate program at Millfield Community College. Classes start next month, evenings and weekends — does not conflict with car wash shifts. Goal: gain a marketable trade skill before the car wash role evaporates. Asked Carlos (mechanic_carlos) informally if he thinks it's worth it and would consider me for an apprentice-track role once I have basics.. Savings grew by $131. "
     },
     {
       "tick": 5,
-      "action": "Stay enrolled and attend automotive service technician certificate classes this month. No skipping. Program is at 12% completion \u2014 keep the streak alive and push toward 20%.",
+      "action": "Stay enrolled and attend automotive service technician certificate classes this month. No skipping. Program is at 12% completion — keep the streak alive and push toward 20%.",
       "savings_delta": 131,
       "stress_delta": -0.02,
       "employment_changed": false,
-      "narrative": "You Stay enrolled and attend automotive service technician certificate classes this month. No skipping. Program is at 12% completion \u2014 keep the streak alive and push toward 20%.. Savings grew by $131. "
+      "narrative": "You Stay enrolled and attend automotive service technician certificate classes this month. No skipping. Program is at 12% completion — keep the streak alive and push toward 20%.. Savings grew by $131. "
     },
     {
       "tick": 6,
@@ -105,20 +110,20 @@
     },
     {
       "tick": 8,
-      "action": "Continue automotive service technician certificate program at Millfield Community College without missing a single session. This is month four of eight \u2014 I am roughly at 25% completion. This month's priority is not just attendance: I need to pin down, definitively, whether EV modules exist in this curriculum and when they appear. I flagged this at tick 6, flagged it again at tick 7, and still have not gotten the answer. This month I walk up to the program coordinator after Thursday's class and ask the question directly. I also want to know if there is an EV specialization add-on or follow-on credential the college offers, and what the timeline looks like. The general automotive cert is still worth finishing \u2014 it is the foundation \u2014 but I need to know if I am building toward the right second credential so I can plan the 8 months after this program ends.",
+      "action": "Continue automotive service technician certificate program at Millfield Community College without missing a single session. This is month four of eight — I am roughly at 25% completion. This month's priority is not just attendance: I need to pin down, definitively, whether EV modules exist in this curriculum and when they appear. I flagged this at tick 6, flagged it again at tick 7, and still have not gotten the answer. This month I walk up to the program coordinator after Thursday's class and ask the question directly. I also want to know if there is an EV specialization add-on or follow-on credential the college offers, and what the timeline looks like. The general automotive cert is still worth finishing — it is the foundation — but I need to know if I am building toward the right second credential so I can plan the 8 months after this program ends.",
       "savings_delta": -2137,
       "stress_delta": -0.02,
       "employment_changed": true,
-      "narrative": "You Continue automotive service technician certificate program at Millfield Community College without missing a single session. This is month four of eight \u2014 I am roughly at 25% completion. This month's priority is not just attendance: I need to pin down, definitively, whether EV modules exist in this curriculum and when they appear. I flagged this at tick 6, flagged it again at tick 7, and still have not gotten the answer. This month I walk up to the program coordinator after Thursday's class and ask the question directly. I also want to know if there is an EV specialization add-on or follow-on credential the college offers, and what the timeline looks like. The general automotive cert is still worth finishing \u2014 it is the foundation \u2014 but I need to know if I am building toward the right second credential so I can plan the 8 months after this program ends.. Savings dropped by $2,137. Employment status changed to unemployed. "
+      "narrative": "You Continue automotive service technician certificate program at Millfield Community College without missing a single session. This is month four of eight — I am roughly at 25% completion. This month's priority is not just attendance: I need to pin down, definitively, whether EV modules exist in this curriculum and when they appear. I flagged this at tick 6, flagged it again at tick 7, and still have not gotten the answer. This month I walk up to the program coordinator after Thursday's class and ask the question directly. I also want to know if there is an EV specialization add-on or follow-on credential the college offers, and what the timeline looks like. The general automotive cert is still worth finishing — it is the foundation — but I need to know if I am building toward the right second credential so I can plan the 8 months after this program ends.. Savings dropped by $2,137. Employment status changed to unemployed. "
     }
   ],
   "reflections": [
     {
       "tick": 6,
-      "reflection": "Six ticks in and I have not broken. That is the thing I keep coming back to. The world around me is visibly worse than when this started \u2014 unemployment is up, the auto sector is contracting, RoboRide has people ditching cars, spending is in the floor. Stephanie Morris is out there chasing listings like something is on fire because something is on fire. Jake Morrison is changing something. Dorothy Chen switched to RoboRide. And I am still washing cars, still going to class on Tuesday and Thursday nights and Saturday mornings, still watching $131 pile up each month. That is not nothing. That is discipline. But the most important thing I learned this tick came from the inbox, not from myself: Carlos and Sarah both, independently, pointed to EV. They did not coordinate. They both just knew. That is a direction, not a coincidence. My current certificate is general automotive. I need to figure out if I can tilt it toward EV before the program ends or plan a follow-on credential. The exit ramp I need is not \u2018auto tech\u2019 broadly \u2014 it is EV-specific, and I am not there yet.",
-      "identity_shift": "I started this as someone who described this job as \u2018just a job I need for rent.\u2019 I still do not love washing cars. But the training is starting to feel like something I actually own. Six months ago I would have said I had no real skills. Now I am two months into a certificate program and I have two master-level mechanics in my corner who think I have the right instincts. That is an identity upgrade, even if it is slow. I am not a car wash worker who is drifting anymore. I am someone building toward a trade.",
+      "reflection": "Six ticks in and I have not broken. That is the thing I keep coming back to. The world around me is visibly worse than when this started — unemployment is up, the auto sector is contracting, RoboRide has people ditching cars, spending is in the floor. Stephanie Morris is out there chasing listings like something is on fire because something is on fire. Jake Morrison is changing something. Dorothy Chen switched to RoboRide. And I am still washing cars, still going to class on Tuesday and Thursday nights and Saturday mornings, still watching $131 pile up each month. That is not nothing. That is discipline. But the most important thing I learned this tick came from the inbox, not from myself: Carlos and Sarah both, independently, pointed to EV. They did not coordinate. They both just knew. That is a direction, not a coincidence. My current certificate is general automotive. I need to figure out if I can tilt it toward EV before the program ends or plan a follow-on credential. The exit ramp I need is not 'auto tech' broadly — it is EV-specific, and I am not there yet.",
+      "identity_shift": "I started this as someone who described this job as 'just a job I need for rent.' I still do not love washing cars. But the training is starting to feel like something I actually own. Six months ago I would have said I had no real skills. Now I am two months into a certificate program and I have two master-level mechanics in my corner who think I have the right instincts. That is an identity upgrade, even if it is slow. I am not a car wash worker who is drifting anymore. I am someone building toward a trade.",
       "regrets": [
-        "I should have started the retraining earlier \u2014 ticks 2 and 3 were routine and I just let them pass. The threat was visible from tick 0 and I spent two months not moving.",
+        "I should have started the retraining earlier — ticks 2 and 3 were routine and I just let them pass. The threat was visible from tick 0 and I spent two months not moving.",
         "I still do not know if my certificate program has any EV content. I have been enrolled for two months and I have not asked this question. That is a gap."
       ],
       "successes": [
@@ -127,6 +132,22 @@
         "Savings are still growing every month despite a tightening local economy. Flat expenses, no new debt. The discipline is working."
       ],
       "adaptation_notes": "The EV signal is the dominant new input. Both high-trust colleagues pointed to Mark Thompson at the high school independently. Action: make contact with Thompson this tick, low-investment, no ask. Separately: I need to review what EV content, if any, is in the Millfield Community College certificate curriculum and whether I can elective into EV modules. The eight-month timeline on my current program now feels like it might be producing the wrong credential if I graduate into a world that already moved past general automotive. Staying alert to that. Not panicking. But watching."
+    },
+    {
+      "tick": 9,
+      "reflection": "I am unemployed. I have $1,180 in savings and $1,200 in monthly essentials. That is a sub-one-month runway. I am saying this without softening it because softening it would be the beginning of a bad decision. What I know: I have been in this cert program for five months without missing a class. The program is at roughly 37% completion — month 5 of 8. Carlos, who is further along in the same transition arc, reached out to tell me he has been doing his own cert training and that it has been hard but worth it. That is not random encouragement. That is a man with better information than me confirming the destination is real. The employment rate is 67%. The spending index is 40. The auto sector is at 79 and declining. RoboRide cut prices again and expanded residential. Betty Kowalski is stressed. Everyone I know in this economy is in some kind of motion — Zoe is chasing the RoboRide last-mile angle, Stephanie is working the real estate grind, Dorothy is reorganizing. The contraction is total and it is accelerating. And I am the person who started building before the floor fell. That matters. But it will not matter if I do not survive the next three months financially.",
+      "identity_shift": "Something shifted this tick that I want to name clearly: the job is gone and I am not in grief about it. I described it from the beginning as 'just a job I need for rent.' Turns out I meant it. What I feel is not loss — it is urgency. The identity I have been building since tick 4 is the cert program, the trade, the credential that is three months away. The car wash was never the thing. Losing it confirmed that. I am not a car wash worker. I am someone who used to wash cars while building toward something else, and now I just have the something else to hold onto.",
+      "regrets": [
+        "I still have not gotten a definitive answer on EV modules in the MCC curriculum. Five months enrolled and I still have not asked the program coordinator directly. This cannot persist into tick 10.",
+        "I did not replace the bike delivery income in tick 8 when I had the chance — I made a deliberate choice to hold back — and now I am unemployed with no gig income running. The inaction was defensible at the time but it left me more exposed than I needed to be.",
+        "The Kevin O'Brien grant follow-up should have been more aggressive. I do not know yet if it came through. I should have the answer already."
+      ],
+      "successes": [
+        "Cert streak intact through tick 8 and into tick 9. Five months, no skipped sessions. That is the asset.",
+        "Carlos reached out to me proactively. I built a relationship worth enough that a master mechanic who is himself navigating a hard transition took time to check in on me. That is real.",
+        "I recognized the financial emergency clearly and without panic. The plan is appropriate to the situation: gig work to bridge the income gap, protect the class schedule, call Carlos back, follow up on the grant. No spiral. No rash moves."
+      ],
+      "adaptation_notes": "The dominant constraint has shifted from 'build the credential' to 'survive long enough to finish the credential.' These are not in conflict — they are sequential. Survive first, then finish. Gig income is the bridge. The RoboRide last-mile angle Zoe is pursuing is worth investigating independently — if she finds a good entry point, that is information I can use. Carlos's outreach is the most important relationship event of the simulation so far. He is three to six months ahead of me on the automotive-to-EV path. If I stay present in that relationship, it could mean an apprentice-track conversation by the time I graduate. Three months left. The EV curriculum question is now a genuine blocker — I need the answer before I can decide whether to pursue a follow-on EV specialization or whether the MCC cert itself covers sufficient ground."
     }
   ],
   "regrets": [],

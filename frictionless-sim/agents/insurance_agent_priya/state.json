@@ -111,11 +111,11 @@
   "in_progress_transformations": [
     {
       "type": "retraining",
-      "description": "complete module 3 of the sql/data visualization course this tick. after linda's one-on-one surfaces what autoshield's actual timeline looks like, i want to have something concrete to point to if i need to move fast. module 3 \u2014 joins and aggregation \u2014 is the one that makes the difference between knowing sql syntax and being able to actually answer business questions with data. one evening session minimum, ideally two.",
+      "description": "complete module 4 of the sql/data visualization course this tick \u2014 window functions and subqueries. this is now an active job search differentiator, not a preparation hedge. applications are already out citing sql skills. finishing module 4 and updating linkedin and application materials upon completion is the immediate priority. three evening hours committed.",
       "started_tick": 4,
       "completion_eta_months": 8,
-      "progress": 0.32,
-      "months_invested": 3
+      "progress": 0.48,
+      "months_invested": 4
     }
   ],
   "temporal_mismatches": {

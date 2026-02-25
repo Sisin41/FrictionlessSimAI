@@ -1,0 +1,109 @@
+{
+  "tick": 9,
+  "agent_id": "insurance_manager",
+  "agent_name": "Linda Park",
+  "response": {
+    "internal_assessment": "The corporate deadline expired. Fourteen days, and nothing — not a response, not an acknowledgment, not a request for more time. Two memos. Nine months. Twenty-two active policies and falling. That silence is the answer. I am no longer waiting for AutoShield to authorize a pivot that they have already decided, by inaction, not to make. The institutional structure I have been working inside for over a decade is not going to reorganize itself around what the data shows. I know that now. What I also know: I have $93,000 in savings, a CRMP certification in progress at five months, a network I have been cultivating, and a job that is still paying me $8,500 a month. I am not in crisis. But I am done treating the corporate silence as a neutral outcome. I am shifting my primary energy from 'save the regional office' to 'position Linda Park for the next chapter.' That is not giving up. That is reading correctly. The conversation with Priya is overdue. She already knows the math. She sent a word-of-mouth signal this tick that suggests she is about to tell me something directly — I need to hear it before she makes a move without me knowing. David Chen reached out to me specifically, asking if I know of any finance-adjacent roles. He was a bank manager who read the disruption early. That is not a coincidence — that is a peer extending a professional hand. I respond to that. Tom Bradley sent me a note. I honor the relationship by reading it carefully and following through on the introduction I promised him. I am also going to make a decision I have been circling: I am going to make contact with at least one of the three external employers I applied to in tick 2 and followed up on in tick 6, and this time I am asking a different question — not 'did you receive my application' but 'I am actively available, is there a conversation to be had now?' That is a different posture. It is the right one.",
+    "inbox_interpretation": "No corporate response in inbox. That is the data point that governs everything else this tick. Employment at 67% means the labor market is deteriorating — external employers are also under pressure, which means the window to land something may be narrowing, not widening. Policies at 22 with cancellations increasing means the book is going to reach a floor where even a lean one-agent operation cannot justify regional overhead. The social signal — Rick Tanner stressed, Tom Bradley stressed — tracks exactly where I am. The word-of-mouth from Priya ('Tell Linda directly, in a brief in-person or written...') is a strong signal she is preparing to tell me she is leaving or has a lead. I need to get in front of that conversation rather than respond to it. David Chen's outreach is a genuine professional gesture from someone who reads the environment accurately. I am not letting that go cold the way I let the tick-2 applications go cold.",
+    "chosen_actions": [
+      {
+        "type": "TRANSFORMATION",
+        "description": "Formally close the AutoShield corporate loop and shift to primary exit mode. The 14-day deadline has passed with no response. I will send one final, brief internal communication — not another memo, not another recommendation — simply a written record that I am noting the absence of a response and that I am proceeding under the assumption that no commercial fleet pivot authorization is forthcoming. This creates a clean paper trail. I am not burning the relationship; I am documenting the outcome professionally. From this tick forward, my primary professional energy shifts from operating this regional office toward positioning myself for the next role. AutoShield employment remains intact as income — I am not resigning — but I am no longer treating internal advocacy as a viable primary path.",
+        "target_agent": null,
+        "resources": {
+          "type": "information",
+          "direction": "give",
+          "amount": 0,
+          "detail": "One final brief internal note to AutoShield corporate: acknowledging the non-response, noting the policy trajectory, stating I am managing the office prudently within existing authorization. Professional. Final. Documented."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "I sent two memos. I gave a deadline. They said nothing. Continuing to advocate internally is not rational behavior — it is the sunk-cost fallacy in professional clothing. Documenting the non-response and formally shifting posture is what a risk professional does. It also protects me legally and professionally if AutoShield later claims they were not informed."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Have a direct, private conversation with Priya Sharma this week — in person or by call, not by message. The word-of-mouth signals she is about to tell me something directly. I go to her first. I tell her honestly: corporate did not respond. I am not planning to resign, but I am actively exploring outside options. I ask her directly: where is she in her own thinking, and is there a version of the next chapter where we work together or refer each other for roles? This is peer honesty, not a management conversation. I respect her enough to have it before she decides without me. I also want to understand if she has any intelligence on the three external employers I applied to — she has been building her own network and may have signal I do not.",
+        "target_agent": "insurance_agent_priya",
+        "resources": {
+          "type": "information",
+          "direction": "exchange",
+          "amount": 0,
+          "detail": "Honest peer conversation with Priya Sharma: corporate non-response, Linda's shift to exit planning, mutual job search intelligence sharing."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Priya is my most trusted colleague. She reads the market accurately. Her word-of-mouth signal this tick suggests she is moving. If she leaves without a conversation, I lose the most valuable professional relationship I have in this region. Being honest with her first — before she has to approach me — preserves the relationship and may surface information I need."
+      },
+      {
+        "type": "NETWORK",
+        "description": "Respond to David Chen's outreach. He reached out specifically to ask about insurance-adjacent finance roles in the region and offered to share his scenario models. I respond with a genuine, professional reply: I acknowledge the outreach and the timing — corporate did not pivot, and I am actively looking. I do not have a specific role to point him to today, but I know the regional landscape well and I will keep his name and capabilities in mind. I ask to see the scenario models he mentioned — not to be polite, but because a bank manager's disruption scenario models are actually useful to me as I think about commercial risk portfolio construction. I also offer to connect him to my contact at the regional logistics company, where I have a warm application relationship. This is a genuine two-way exchange, not a networking performance.",
+        "target_agent": "bank_manager",
+        "resources": {
+          "type": "information",
+          "direction": "exchange",
+          "amount": 0,
+          "detail": "Professional response to David Chen. Request his scenario models. Offer connection to logistics company contact. Acknowledge mutual disruption exposure."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "David Chen reached out to me — that is not passive networking, that is an active professional who sees alignment. He is analytically rigorous, has operated in regional finance, and is navigating disruption from a different angle than I am. That is exactly the kind of relationship that produces leads, references, and information I cannot get from my current position. I already let the tick-2 external applications go cold by not following through. I am not repeating that pattern."
+      },
+      {
+        "type": "COMMITMENT",
+        "description": "Re-engage the strongest of the three external employer leads with an updated posture. Of the three — regional logistics company, healthcare system risk division, municipal risk management office — pick the one where the tick-6 follow-up call generated the warmest signal. Call that contact directly this week. The message is different now: I am not asking if there is a process to follow. I am stating clearly that I am actively available, that my CRMP certification is in month six with commercial fleet risk module complete, and that given the regional employment and insurance landscape, the timing for my transition is now rather than later. I am asking for a conversation, not an application update. If no warm signal was established in tick 6, I prioritize the municipal risk management office — government risk roles have the most stability in the current environment and the skill match is strongest.",
+        "target_agent": null,
+        "resources": {
+          "type": "time",
+          "direction": "internal",
+          "amount": 10,
+          "detail": "One direct phone call to the best external employer lead. Updated posture: actively available, CRMP in progress, asking for a real conversation."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "My external search has been too passive. I sent applications in tick 2 and made follow-up calls in tick 6, but both were framed as process questions. The environment has changed. I am no longer a regional manager trying to manage a transition while staying put. I am a risk professional actively seeking a next role. That is a different ask and it deserves a different call."
+      },
+      {
+        "type": "COMMITMENT",
+        "description": "Continue CRMP certification coursework — now month 6, ~25% complete. This tick's focus: the commercial liability and fleet coverage modules that are directly applicable to RoboRide-era fleet operators. I also complete the two portfolio scenarios I committed to last tick — one for a last-mile logistics operator using autonomous vehicle fleets, one for a municipal transit authority managing mixed autonomous-human vehicle liability. These are not hypothetical exercises. They are writing samples and talking points for the external job search conversations I am now actively pursuing.",
+        "target_agent": null,
+        "resources": {
+          "type": "time",
+          "direction": "internal",
+          "amount": 30,
+          "detail": "6-8 hours per week on CRMP coursework. Complete two fleet risk portfolio scenarios. Material directly supports external job search conversations."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": -80,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The CRMP cert is the credential I am building for future-Linda regardless of current employer. With corporate confirming by silence that no pivot is coming, the cert's value has shifted from 'internal positioning tool' to 'external market signal.' I accelerate, not maintain."
+      }
+    ],
+    "emotional_state": "clear-eyed and moving",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "I keep coming back to the same thing: I have been managing the decline of something I built with the hope that the institution behind it would meet me halfway. They did not. That is not a betrayal — it is just a fact. Large organizations move slowly or not at all when the core business is contracting. I knew that. I have known that. The memos were necessary but they were also, if I am honest with myself, a way to delay the moment where I have to say out loud: I am leaving. I am not leaving today. I am not resigning this tick. But I am done treating staying as the default and leaving as the contingency. That flipped. I have $93,000 in savings. I have a certification in progress. I have a strong professional reference in Priya if I earn it by being honest with her now. I have a lead list. I have a skill set that is not just insurance — it is risk, compliance, data analysis, and management. I am 42. I have time. But only if I move now, not after the next tick of institutional silence."
+  }
+}
