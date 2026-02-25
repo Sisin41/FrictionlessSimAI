@@ -1,0 +1,40 @@
+{
+  "agent_id": "single_parent",
+  "tick": 11,
+  "hierarchy_level": "L0_SURVIVE",
+  "emotional_state": "anxious but functional",
+  "archetype": "stable",
+  "actions": [
+    {
+      "type": "SIGNAL",
+      "description": "Escalate the employment verification action from last tick. Nicole confirmed she is unemployed as of tick 9. This tick she takes the next step: contact HR directly at Millfield General to understand the nature of the separation - was this a reduction in force, a scheduling elimination, or a leave of absence that was improperly coded? She also contacts her union rep if she has one. She needs to know whether she has recall rights, whether she is eligible for unemployment insurance, and whether the role has a path back. She documents every contact and response in writing. This is not passive verification - it is active investigation of her employment rights.",
+      "target": null,
+      "expected_outcome": "Nicole knows concretely: (1) why she is listed as unemployed, (2) whether she has recall or rehire rights, (3) what her unemployment insurance eligibility looks like, and (4) whether there is a return path. This information determines every other financial decision this month."
+    },
+    {
+      "type": "COMMITMENT",
+      "description": "File for unemployment insurance immediately. With zero income and $8,620 in savings burning at $4,630/month, Nicole has fewer than two months of runway. Unemployment insurance is not optional - it is the difference between one month of runway and potentially three. She files online or in person this week, provides all required documentation of her employment history and separation, and tracks the application status. She does not wait to understand the full picture of her employment status before filing - she files based on what she knows now and updates if circumstances change.",
+      "target": null,
+      "expected_outcome": "UI claim filed and in process. If approved at standard rates, UI benefits would replace approximately 40-50% of her previous income, extending her runway from under 2 months to 3-4 months and giving her time to find replacement employment without a catastrophic cash position."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Reach out to Grace Okafor this tick with a specific ask, not just an update. Nicole has been giving Grace professional intelligence about Millfield General's hiring cycles. Now Nicole needs something back: she asks Grace directly whether she has heard anything about why nursing staff hours were reduced or positions eliminated at Millfield General, and whether the transitional care unit specifically (where Grace's CNA application is targeted) is still hiring or has frozen. This is mutual intelligence exchange, not charity. Grace has ground-level access that Nicole does not have right now.",
+      "target": null,
+      "expected_outcome": "Grace provides whatever she knows about current staffing conditions at Millfield General. Even partial intelligence helps Nicole calibrate how long the employment interruption is likely to last and whether to prioritize returning to Millfield General or exploring alternative healthcare employers."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Apply to at least two healthcare positions this week - not just at Millfield General, but at alternative healthcare employers within commuting distance. Nicole's nursing skills are highly relevant (0.9 skill relevance) and she has full insurance coverage. She targets: (1) a competing hospital or urgent care center within 30 minutes, and (2) a home health agency that needs RN-level staff for home visits. She also contacts the Lisa Freeman community center to understand whether the Financial Triage Navigator can help her identify available emergency assistance programs for people in sudden income interruption. She does not rely solely on recalling to Millfield General.",
+      "target": null,
+      "expected_outcome": "Two applications submitted to alternative healthcare employers. Awareness of any emergency assistance available through the Financial Triage Navigator. Nicole is not dependent on a single employer for income restoration."
+    },
+    {
+      "type": "INACTION",
+      "description": "Suspend the RoboRide trial for afternoon school pickups this tick. With savings at $8,620 and zero income, every $30 in discretionary spending matters. The trial data from tick 9 was actionable (9-14 minute wait, acceptable for the 3pm window) and can be resumed when income is restored. For now, Nicole returns to using her personal vehicle for all logistics until the employment situation stabilizes. She does not cancel her car insurance or change any fixed commitments - she just does not spend on the trial.",
+      "target": null,
+      "expected_outcome": "$30/month preserved. RoboRide trial paused but not abandoned - the data is stored and the trial resumes when the financial situation stabilizes. No change to fixed expense commitments."
+    }
+  ],
+  "reasoning": "Nicole is at L0_SURVIVE with a genuine threat level of 0.84. Her savings dropped to $8,620 and she is unemployed with $4,630/month in expenses. With two dependents, this is a real crisis in slow motion. Her tick 10 actions correctly identified the need to verify employment status, but tick 11 requires escalation: active investigation of her employment rights, an immediate UI claim, intelligence gathering through her Grace Okafor relationship, and parallel job applications that do not wait for Millfield General to clarify her status. The RoboRide trial pause is the right call - she correctly suspended the $800 pilot offer from Rachel Green last tick on the same logic. Her nursing skills are her most valuable asset (skill_relevance 0.9) and the healthcare sector is not experiencing the same disruption as auto retail. The path back to income stability is through healthcare employment, not through waiting. Her archetype is 'stable' but her current situation demands active adaptation - the stability is in her skills and character, not in her circumstances right now."
+}

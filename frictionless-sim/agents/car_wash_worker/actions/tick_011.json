@@ -1,0 +1,34 @@
+{
+  "agent_id": "car_wash_worker",
+  "tick": 11,
+  "hierarchy_level": "L0_SURVIVE",
+  "emotional_state": "tense but controlled. Miguel has zero savings and $1,200/month in essentials. The gig work is the only thing keeping him enrolled in the cert program. Carlos reached out to him directly this tick with real information — fleet operator names, EV module intelligence, honest assessment of the landscape. That is the most valuable thing that has happened to Miguel in the simulation. He is not spiraling. He is executing.",
+  "archetype": "adapter",
+  "actions": [
+    {
+      "type": "EXCHANGE",
+      "description": "Receive the information Carlos Ruiz is offering this tick — fleet operator contacts, EV module intelligence, honest assessment of what the certification actually leads to. Carlos confirmed he is calling Miguel directly with real data: the EV modules exist, he has two regional fleet maintenance contacts and one EV dealership actively hiring certified technicians. Miguel listens carefully and writes everything down. He asks Carlos three specific follow-up questions: (1) Of the three contacts, which one is the most realistic hire for someone completing the Millfield CC general automotive cert with no EV specialization yet? (2) What did the EVT Level 2 certification actually cost, and does Carlos think it is worth pursuing immediately after the MCC cert or is the general cert sufficient for entry-level fleet positions? (3) Is there a specific gap between what the MCC curriculum teaches and what fleet maintenance supervisors actually test for in hiring — something Carlos knows from being in the network that is not in the brochure? Miguel does not perform stability or gratitude. He asks the questions that will change his planning.",
+      "target": "mechanic_carlos",
+      "expected_outcome": "Miguel gets actionable intelligence about the post-cert employer landscape: which contacts to approach, whether to pursue an EV specialization credential, and what to prepare for in a fleet maintenance hiring process. This conversation is the most important career intelligence available to him and it costs nothing except honesty."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Attend every scheduled automotive service technician certificate class this month without exception — month 7 of 8, cert now at roughly 50-55% completion. This tick Miguel also finally gets the definitive answer on EV modules: he walks up to the program coordinator after Thursday's class and asks directly whether EV or hybrid content appears in the remaining curriculum, and if not, what the Millfield Community College offers as a follow-on EV specialization credential and what it costs. He does not leave that conversation without a written answer — he asks the coordinator to email him the curriculum breakdown if the verbal answer is incomplete. This question has been deferred for six months. It cannot be deferred again — two months from completion, he needs to plan the 8 months after this program ends.",
+      "target": null,
+      "expected_outcome": "Cert streak intact through month 7. EV curriculum question resolved with a definitive answer from the program coordinator — either the cert includes meaningful EV content in the final modules, or Miguel has a clear picture of what a follow-on EV specialization credential costs and how long it takes. This answer changes his post-cert planning significantly."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Maximize gig income this month — DoorDash bike delivery and RoboRide last-mile delivery partner program. Miguel registered for or advanced the RoboRide partnership application last tick. This tick he begins active delivery shifts on the RoboRide platform, scheduling 15-20 hours per week on mornings, afternoons, and Sunday hours that do not conflict with Tuesday evening class, Thursday evening class, or Saturday morning class. He tracks his earnings weekly. Target: $500-700 this month — enough to cover monthly essentials ($1,200) with a small surplus that starts rebuilding the savings buffer. He does not take shifts that compromise his class schedule. The cert is the asset. The gig work is the bridge.",
+      "target": null,
+      "expected_outcome": "Miguel generates $500-700 in gig income this month, covering monthly essentials and beginning to rebuild a minimal savings buffer. Maintaining the class schedule without interruption keeps the cert timeline intact. Two months of surviving this way is the minimum needed to reach graduation."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Respond to Sarah Kim's outreach — she checked in on Miguel this tick as a peer watching the same disruption from the EV technician angle. Miguel responds honestly: cert is at month 7 of 8, gig work is keeping him enrolled, Carlos just gave him real intelligence about the post-cert employer landscape. He engages Sarah's framing about the infrastructure connection — that bike last-mile delivery workers and EV technicians are both part of what makes RoboRide operate — and asks her one genuine question: from her vantage working on EV certification and watching the fleet operator space, what does she think the realistic entry-level pathway looks like for someone who completes the MCC general automotive cert? She has more information than him about that specific question and he does not pretend otherwise.",
+      "target": "mechanic_sarah",
+      "expected_outcome": "Miguel strengthens the relationship with Sarah Kim — a peer who is further along the EV technician pathway and has fleet operator intelligence. The honest, peer-to-peer conversation builds mutual trust without performing stability or asking for charity. Miguel gets a second data point on the post-cert landscape to cross-reference with what Carlos told him."
+    }
+  ],
+  "reasoning": "Miguel Hernandez is two months from completing a credential that represents eleven months of discipline and sacrifice. His savings are at zero, his income is entirely from gig delivery work, and he has no employer. The dominant dynamic this tick is that Carlos Ruiz reached out directly with real intelligence — fleet operator contacts, EV certification pathway, honest landscape assessment. That intelligence is more valuable than any single action Miguel could take independently. The call with Carlos closes the EV curriculum question from a practitioner's perspective while the conversation with the program coordinator closes it from the institutional side. Gig income is the survival bridge — it must continue at maximum viable output without disrupting the class schedule. Sarah Kim's outreach is a relationship worth maintaining: she has fleet operator intelligence and she initiated contact, which signals that the network Miguel has been building through the cert program is actually working."
+}

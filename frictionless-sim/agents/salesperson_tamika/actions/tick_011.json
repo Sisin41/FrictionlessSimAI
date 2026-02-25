@@ -1,0 +1,34 @@
+{
+  "agent_id": "salesperson_tamika",
+  "tick": 11,
+  "hierarchy_level": "L0_SURVIVE + L5_BUILD",
+  "emotional_state": "determined",
+  "archetype": "exiter",
+  "actions": [
+    {
+      "type": "EXCHANGE",
+      "description": "Close the restaurant pilot — this is the highest-priority revenue action this tick. Call them directly, not a message. Make the ask binary: 'I want to know if the 60-day pilot at $300/month makes sense for you right now. If yes, I can have the one-page agreement in your inbox within two hours. If no, I understand — tell me and I move on.' Frame the ask around this week's reality: spending is at 26% of baseline, RoboRide is now in residential areas, and lunch spots that stay digitally present capture the foot traffic that used to stop for gas first. If they say yes, send the agreement within two hours — same template as the HVAC agreement, adjusted for 60-day pilot terms at $300/month. If they say no, acknowledge it and immediately identify the next warm lead. Do not leave this unresolved for another tick.",
+      "target": "diner_owner",
+      "expected_outcome": "Restaurant pilot either closed at $300/month (bringing total freelance income to $650/month and proving the two-client model) or definitively resolved as a no, allowing immediate pivot to the next lead. Either outcome is better than continued ambiguity. A yes extends runway by approximately 0.1 months per tick."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Connect with Angela Wright directly — peer-to-peer conversation, not a congratulations note. Acknowledge that Wright Workforce Advisory LLC launched and that the transition intake she is running for the closed location is putting her in contact with people who will need exactly what Tamika does: social media presence, personal brand positioning, and communications support as they move into freelance or small business work. Propose the referral arrangement: Tamika amplifies Angela's visibility in her network and refers displaced workers who need workforce coaching or resume help; Angela introduces transitioning workers who are planning to launch freelance or service businesses and need marketing support. Offer to be a case study for Wright Workforce Advisory LLC — a sales floor worker who built a freelance content practice in real time during a disruption. That story is differentiated and useful for Angela's methodology documentation.",
+      "target": "hr_director",
+      "expected_outcome": "Mutual referral partnership established with Angela Wright. Tamika gains access to a pipeline of transitioning workers who are 60-90 days from needing marketing services. Angela gains a case study that makes her methodology concrete. One warm referral from this channel converts faster than ten cold outreach messages."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Identify two new outreach targets from the RoboRide delivery ecosystem and send individual, specific cold outreach messages to each this week. Target profile 1: a small business in the residential coverage expansion zone that relies on local foot traffic or local pickup — a pharmacy, specialty retail shop, or dry cleaner where digital visibility translates directly to local customer retention. Target profile 2: a sole-proprietor tradesperson or contractor who has a service area but no social media presence — electrician, plumber, HVAC tech. Message structure for each: one specific observation about their current online presence (or absence), one question, one sentence about what Tamika does. No deck, no portfolio link, no pitch until they reply. Keep the ask cost-free for them.",
+      "target": null,
+      "expected_outcome": "Two new outreach messages sent to targeted potential clients. Pipeline begins to grow beyond the current two leads. At least one reply expected within two weeks. These are the candidates for the third client needed to reach the $1,050/month threshold that ends the runway burn."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Have a real check-in conversation with Jake Morrison — honest, not managed. Tell him what the exiter side actually feels like: the scariest number is not the unemployment rate, it is the 0.5-month runway number when it becomes personal. Tell him the one thing he should do faster than she did: get a second client before the first runway pressure hits, not after. If he is moving toward Lane C — the retraining grant and community college credential path — tell him what she actually knows from researching it: the $2,500 grant from Maria Santos is real and the office is responsive, but the credential timeline is longer than the brochure suggests. Ask him one question back: what does his actual three-lane map look like right now, and which lane has the shortest trigger distance?",
+      "target": "salesperson_jake",
+      "expected_outcome": "Jake receives real intelligence from the exiter side about the runway math and the retraining grant process. Tamika maintains and reinforces the 0.87 trust relationship with Jake. The conversation is human and grounded — not a networking transaction, but two people who worked the same floor being honest about what comes next."
+    }
+  ],
+  "reasoning": "Tamika is at L0 survival — savings at $0, $3,177/month in expenses, $350/month from one HVAC client, and a restaurant pilot that has been in pending status for two ticks. The math is binary: she needs the restaurant pilot to close this tick, or she needs to know definitively that it will not, so she can pivot to the next lead. The Angela Wright connection is the highest-leverage relationship move available because it opens a pipeline of transitioning workers who are 60-90 days from needing exactly what Tamika does. The two new outreach messages keep the pipeline moving in parallel without consuming significant time. The Jake conversation is the human move — it costs nothing and it is the kind of thing that matters in a community under real stress. Tamika's archetype is 'exiter' and she has fully exited — the freelance track is the track, the dual-track model is over. This tick she closes the restaurant pilot or pivots immediately, builds the Angela partnership, and keeps the pipeline moving toward the $1,050/month threshold that stabilizes her position."
+}

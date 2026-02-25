@@ -1,0 +1,34 @@
+{
+  "agent_id": "driving_instructor",
+  "tick": 11,
+  "hierarchy_level": "L0_SURVIVE / L1_STABILIZE",
+  "emotional_state": "determined — edged with urgency. Frank's savings are now below $1,000 after another month of burn at $3,176. He is not panicking but he understands the clock is real. Mark Thompson's direct messages this tick are the most valuable intelligence he has received in the simulation. The board presentation succeeded. There is a named pathway forward. He acts on it.",
+  "archetype": "adapter",
+  "actions": [
+    {
+      "type": "SIGNAL",
+      "description": "Follow up immediately on Mark Thompson's direct word-of-mouth: the board presentation on the Millfield Auto Tech Pipeline was delivered, and Mark is actively seeking a decision timeline from the board secretary. Frank calls Mark back this week — not to pitch, not to ask for anything new — but to confirm: (1) Is the workforce transition grant pathway connection established? (2) Is there a named grant contact Frank should reach directly for his adult ed curriculum application? (3) Did the board presentation include any reference to adult education or AV literacy instruction as a community need? Frank comes in with specific questions, not a general check-in. He has read the word-of-mouth about Mark's next moves — the board timeline inquiry, the Sarah Kim debrief, the Lisa Freeman referral pipeline — and he wants to understand where the adult ed curriculum fits inside that structure.",
+      "target": "auto_shop_teacher",
+      "expected_outcome": "Frank gets a clear answer on whether the workforce transition grant pathway applies to his adult ed curriculum, and whether there is a named institutional contact he should reach next. Even a partial answer — a contact name, a timeline, a next step — is progress that closes ambiguity."
+    },
+    {
+      "type": "COMMITMENT",
+      "description": "Contact Lisa Freeman at the Millfield Community Center — by phone or in person this week. Frank knows from the inbox that Lisa is actively running community connection nights with structured programming, that the Financial Triage Navigator is now live, and that Mark Thompson is also reaching out to Lisa about the Auto Tech Pipeline referral pathway. Frank positions his outreach clearly: he is the person who built the AV literacy and career transition curriculum that Lisa's programming and Dorothy Chen's expanded workshop proposal could actually use. Frank's pitch is direct: 'I have a four-module curriculum on AV literacy and career skill rebuilding that I developed specifically for displaced workers and older adults navigating this transition. It is ready to run. I am offering two free sessions to see if it fits what you are building here.' He brings the curriculum document. He makes a concrete offer — two pilot sessions, no commitment — rather than a vague expression of interest.",
+      "target": "community_organizer",
+      "expected_outcome": "Lisa Freeman schedules a brief meeting or agrees to review the curriculum document. A pilot session offer gives her something concrete to say yes to. Frank gets his foot in the door at the community center as a workshop facilitator — which is faster to income than the school district track and builds the credibility the district track requires."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Call city hall and check the status of the $2,500 small business stabilization grant submitted in tick 8. Frank makes a single, professional call to the office that received the application — asks whether the application is complete, whether it is in review, and whether there is an expected decision date. He does not push, does not negotiate, does not complain. He asks one clear question: where does this application stand? If the application has been approved, he asks about disbursement timing. If it has been rejected, he asks what category it fell short in so he can assess whether a corrected re-application is possible. If it is still in review, he logs the date of this call and plans to follow up once more in two ticks.",
+      "target": null,
+      "expected_outcome": "Frank gets a definitive status on the $2,500 grant. Even a rejection is better than ambiguity at this point — he needs to know whether to plan around receiving these funds or remove them from his scenario planning entirely. With savings now under $1,000 after this tick's burn, the grant is the most immediate potential cash infusion available."
+    },
+    {
+      "type": "INACTION",
+      "description": "Frank does not make another visit or call to the district adult education coordinator this tick. He went in person at tick 9, left a curriculum document and a handwritten note with Mark Thompson's name as a referral. He has now heard from Mark that the board presentation is moving forward and that the workforce transition grant pathway is being connected to the pipeline. Frank waits for the district coordinator to respond to his in-person visit before he escalates further. Over-contact with an institutional contact at this stage would signal desperation rather than professionalism. The school district track is in motion. The community center track is the one he is actively pushing this tick.",
+      "target": null,
+      "expected_outcome": "Frank preserves his professional standing with the district adult ed coordinator by not following up before she has had reasonable time to act on his in-person visit. The patience is deliberate and disciplined — not passive avoidance."
+    }
+  ],
+  "reasoning": "Frank Russo is operating at a genuine survival threshold. Savings are essentially depleted after eleven months of zero income and $3,176/month in expenses. The two critical parallel tracks — school district adult ed and community center programming — are both in motion but neither has produced income yet. This tick's key intelligence is direct from Mark Thompson: the Millfield Auto Tech Pipeline board presentation succeeded, Mark is pursuing the board decision timeline and the workforce transition grant connection, and he is actively reaching out to Lisa Freeman to build a referral pipeline. That means Frank and Mark are converging on the same institutional space (community center + workforce transition grant) from different angles. Frank's job this tick is to make sure his curriculum is visible inside that converging space. The community center pilot offer — two free sessions — is the fastest path to credibility and eventual income. The grant status call is the fastest path to cash. Calling Mark for the specific contact name closes the ambiguity on which door to push hardest."
+}

@@ -1,0 +1,34 @@
+{
+  "agent_id": "parking_garage_mgr",
+  "tick": 11,
+  "hierarchy_level": "L2_PARTICIPATE / L5_BUILD",
+  "emotional_state": "determined with a current of patient tension. Denise is employed, financially stable ($24,971 in savings after this tick's $361 gain), and running multiple parallel tracks simultaneously. The Millfield General process is at institutional speed — she is waiting without chasing. The garage transformation memo is in the owner's hands. Two new job applications went out last tick. This tick she continues the campaign while maintaining the discipline of not over-contacting the hospital.",
+  "archetype": "builder",
+  "actions": [
+    {
+      "type": "COMMITMENT",
+      "description": "Submit one additional targeted job application this tick — specifically in the municipal operations or infrastructure coordination space. The city's regulatory response to RoboRide delivery licensing, the staging zone infrastructure buildout, and the community-level response programs (Financial Triage Navigator, retraining pipelines) are all creating operational complexity that requires exactly Denise's skill profile: multi-shift management, budget oversight, compliance, and community-facing coordination. Denise targets a specific role: municipal facilities coordinator or infrastructure operations manager at a city department or port authority within reasonable commute distance. She frames the cover letter around the operational complexity that disruption creates — not around parking. The letter mentions 24/7 operations management, safety-critical compliance, and revenue reconciliation as her core credentials. She does not mention the garage building.",
+      "target": null,
+      "expected_outcome": "Application submitted to a municipal operations or infrastructure role, advancing the job search campaign that has been running since tick 4. Each application increases the probability of a response and keeps the pipeline active while the Millfield General process moves at institutional speed."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Follow up directly with the garage owner about the transformation memo submitted in tick 8. The owner has had the memo for three ticks. The word-of-mouth in the inbox confirms that city council is actively licensing RoboRide delivery operations and that the regulatory framework for staging zones is being established. That is the strongest possible external validation of the memo's core business case. Denise sends a brief, professional update email: 'I wanted to flag that the city's delivery licensing framework is now in place, which is exactly the regulatory context I referenced in the memo. The staging zone business case is strengthening. I am available whenever you are ready to discuss the conversion options.' She does not press. She updates with new information. That is appropriate and professional.",
+      "target": null,
+      "expected_outcome": "The garage owner receives updated context that strengthens the memo's business case. Even if the owner does not respond immediately, Denise has demonstrated that she is tracking the market in real time and that the memo was not a static document but part of an ongoing analysis. This is the last touch she makes on the memo before waiting for a decision."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Reach out to Grace Okafor — the Millfield General contact who generated the phone screen opportunity. Grace's word-of-mouth confirms she is completing her NEMT cert and calling fleet operators this week. Denise sends a brief, warm note acknowledging Grace's update and sharing one piece of information in return: the Millfield General step-down unit expansion she mentioned in a prior note is worth Grace keeping in mind for the medium-term nursing trajectory. Denise does not ask about the job application status. She maintains the reciprocal relationship that has been the foundation of the hospital track since tick 6. If Grace has any update on the facilities search process, she will share it — but Denise does not ask directly. The discipline of not asking is as important as the discipline of staying in touch.",
+      "target": null,
+      "expected_outcome": "Denise keeps the Grace Okafor relationship warm and reciprocal without over-contacting. The note signals continued engagement without anxiety about the application timeline. Grace continues to have a reason to think of Denise as a peer worth maintaining contact with — which is the best possible position to be in while waiting for a hospital hiring decision."
+    },
+    {
+      "type": "INACTION",
+      "description": "Do not contact the Millfield General facilities director this tick. The thank-you note was sent at tick 9. It has been two ticks. Institutional hiring processes at hospitals routinely take 3-6 weeks between phone screen and next contact. If Denise hears nothing by tick 13, she will reassess. Until then, she holds. Reaching out prematurely would undermine the professional composure she has been projecting through nine months of deliberate transition management. The discipline of waiting correctly is a skill that demonstrates exactly the judgment a facilities operations manager needs.",
+      "target": null,
+      "expected_outcome": "Denise preserves her professional standing with Millfield General by allowing the institutional process to proceed at its own speed. No action is itself the correct action at this stage of the hiring process."
+    }
+  ],
+  "reasoning": "Denise Williams is executing a textbook multi-track transition strategy: job search running continuously, garage transformation proposal submitted, network maintained, financial position stable. The dominant tension this tick is patience — the Millfield General phone screen is done and the follow-up note was sent two ticks ago, but institutional processes take time. Denise's task is to keep all other tracks active without undermining the hospital process by over-contacting. The municipal application expands the pipeline. The garage owner update provides new market context without pressuring a decision. The Grace Okafor note maintains the reciprocal relationship that made the hospital opportunity possible. The deliberate inaction on the direct hospital contact demonstrates the professional self-regulation that distinguishes builders from scrapers. Employment at 50% in Millfield makes the countercyclical hospital track even more valuable — Denise's framing since tick 6 has been correct and is becoming more correct with each tick."
+}

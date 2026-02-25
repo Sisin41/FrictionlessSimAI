@@ -1,0 +1,40 @@
+{
+  "agent_id": "young_gig_worker",
+  "tick": 11,
+  "hierarchy_level": "L0_SURVIVE",
+  "emotional_state": "determined with underlying flatness",
+  "archetype": "adapter",
+  "actions": [
+    {
+      "type": "EXCHANGE",
+      "description": "Follow through on the Betty Kowalski pitch from last tick. Zoe's tick 10 outcome shows the action happened but no income materialized - which means she pitched but Betty was not ready to commit, or the walk-in happened but the close did not land. This tick Zoe follows up with one more direct ask, not a third warmup. She tells Betty: 'I walked in last week and showed you what I do. I am asking for a yes or a no today. I can have your first post up by Thursday for $120 this month. If you are not ready, I understand - I have other businesses to talk to.' If Betty says no, Zoe walks to the next business on auto row the same day and makes the same ask. She does not leave this tick without at least one signed verbal agreement or a firm written yes.",
+      "target": "diner_owner",
+      "expected_outcome": "At minimum, Betty gives a definitive yes or no. If yes, Zoe has her first social media client at $120/month and the three-layer model becomes a fact instead of a plan. If no, Zoe moves to the next business and closes one of them. A no from Betty is not failure - it is information that redirects effort to the next target."
+    },
+    {
+      "type": "COMMITMENT",
+      "description": "Complete the RoboRide delivery partner program registration that was planned last tick. Zoe submits the application this tick - not investigates, not researches further, submits. She completes the registration form, provides whatever documentation is required (ID, bike confirmation, delivery zone selection), and receives confirmation of submission. She targets 15-20 hours of delivery work per week scheduled around Coursera coursework (Tuesday/Thursday evenings and Saturday mornings remain reserved for the cert). Target income: $400-500/month from delivery shifts.",
+      "target": null,
+      "expected_outcome": "Application submitted and in process. If approved within 1-2 weeks, Zoe begins generating $400-500/month in delivery income that covers her $1,400/month essentials at roughly 30-35% coverage. Combined with the social media client income at $120/month, she begins to close the gap between zero income and survival."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Respond to Sarah Kim's outreach with genuine presence. Sarah reached out as a peer navigating the same transition from a different angle - she is on the maintenance side (EV tech certification) and she sees Zoe as someone on the gig demand side. Zoe tells her honestly where she is: working on the delivery partner registration, cert at 32%, zero savings but forward motion. She engages the infrastructure frame Sarah is building - that bike last-mile workers and EV technicians are both nodes in what RoboRide actually requires to function at residential scale. If Sarah is building a mental map of who the new transport ecosystem needs, Zoe wants to be a named part of that map. She is not above learning from someone with a clearer view of the maintenance side.",
+      "target": "mechanic_sarah",
+      "expected_outcome": "A genuine peer conversation that maps adjacent positions in the same transition. Zoe learns something about the maintenance side of the RoboRide ecosystem. Sarah learns something about the gig demand side. The relationship becomes a mutual resource rather than a one-time check-in."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Continue the Coursera Google Digital Marketing and E-commerce Certificate at current pace. The cert is at 32% completion as of tick 11. Zoe logs at least 6 hours of coursework this month in the time blocks she has carved out (Tuesday/Thursday evenings, Saturday mornings). She uses the Lisa Freeman micro-grant if it is still active for the $49 monthly subscription, or she pays it herself from any income generated this month. The cert does not stop. It is the long-term bet and she does not abandon it because the short-term is hard.",
+      "target": null,
+      "expected_outcome": "Cert advances from 32% toward 36-38% completion. Zoe maintains momentum on the credential that the three-layer model depends on for the ceiling layer. The cert progress also becomes portfolio evidence for future social media clients - she can show she is formally training in digital marketing, not just winging it."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Follow up on the Maria Santos retraining grant application submitted at tick 2. Zoe has not followed up in six ticks. This tick she calls or visits the council office to check on the status of the $2,500 application she submitted. The application is six ticks old. She asks directly: was it approved, denied, or still in review? If approved, she asks how to collect. If denied, she asks why and whether there is an appeal. If still in review, she asks for a timeline. This is a long-deferred action that could change her runway math significantly.",
+      "target": "council_member",
+      "expected_outcome": "Zoe knows the grant status for the first time since she applied. If the $2,500 was approved, it is potentially available and changes her financial position immediately. If denied, she has closure. If still in review, she has a timeline. Any of these outcomes is better than continued silence on $2,500 in potential income she applied for and never followed up on."
+    }
+  ],
+  "reasoning": "Zoe is at L0_SURVIVE with threat level 1.0, zero savings, zero income, and $2,404/month in expenses. Her cert is at 32% completion with about 5 months remaining. She is at the point in the simulation where the three-layer model she identified at tick 9 either becomes real or she is in genuine crisis. Tick 11 is the tick where the delivery partner registration actually happens (it was planned in tick 10 too but needs to close), where the Betty close either lands or Zoe moves to the next business, and where the grant follow-up - deferred for six ticks - finally happens. The Sarah Kim relationship is genuinely mutual and worth investing in even at zero savings, because relationships are how someone with a 581 credit score and no savings survives a structural shock. Her stress is surprisingly low (0.15) and she is in grief_stage: depression, which means the flatness she named in her tick 9 reflection is real but she is still functional. The determination to keep moving despite the flatness is the adaptive behavior that keeps her in the game."
+}

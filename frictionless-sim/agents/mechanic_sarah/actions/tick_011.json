@@ -1,0 +1,34 @@
+{
+  "agent_id": "mechanic_sarah",
+  "tick": 11,
+  "hierarchy_level": "L2_PARTICIPATE",
+  "emotional_state": "determined",
+  "archetype": "adapter",
+  "actions": [
+    {
+      "type": "TRANSFORMATION",
+      "description": "Complete the integrated vehicle systems and end-to-end diagnostic workflows module of EVT Level 1 — the final major module before the certification assessment. Log at least 10 study hours this month. This is the synthesis section: hardware, software, charging infrastructure, battery management, all connected into the holistic diagnostic workflow that fleet operators actually test for in hiring. After this tick, only the final certification assessment remains. The credential is 80-85% complete. The finish line is visible and close. Prioritize the sub-sections that align with what Carlos tells me fleet operators specifically test for — use the intelligence from his contacts to direct the remaining study hours toward the highest-signal content.",
+      "target": null,
+      "expected_outcome": "EVT Level 1 certification advances to approximately 80-85% completion. Only the final assessment remains after this module. Savings grow by $249 from continued employment. The credential is weeks away from being complete."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Receive Carlos Ruiz's direct conversation — the real version, not the managed senior-mechanic version. Take in what he knows: the tier-one consolidation status of this floor, the transfer process for technicians at the closed location, and the specific contacts at regional EV service centers and fleet operators he has been building through the certification network. Write down the names and contact details he provides. Ask him one specific question: beyond the EVT Level 1 curriculum, what do fleet operators actually test for in hiring? What is the delta between what the certification teaches and what a fleet maintenance supervisor looks for at the moment of hiring? Use his answer to direct the remaining study hours in the integrated systems module toward the highest-signal content. Also ask him directly: is my position at this shop in the tier-one group or the transfer consideration pool?",
+      "target": "mechanic_carlos",
+      "expected_outcome": "Sarah receives the contact names and hiring criteria intelligence that have been the missing piece since tick 9. She has specific regional fleet operators to research, specific sub-module content to prioritize, and an honest answer from Carlos about her own consolidation tier status. The post-certification plan now has real names attached to it."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Begin concrete post-certification landscape mapping using the contacts Carlos provides. Research each operator: company name, fleet size, EV maintenance footprint, any posted positions or recent expansion announcements, geographic location relative to Millfield. Determine whether the regional fleet maintenance market is actually growing — not whether the certification is worth having, but whether the local market absorbs certified technicians or whether the employment upside requires geographic flexibility. Also research RoboRide's reported regional service infrastructure buildout: if they are expanding coverage to residential areas, are they building a local maintenance network or routing vehicles to centralized service hubs? That answer changes the geography calculation. Complete this research in one evening — it is intelligence gathering, not a job application.",
+      "target": null,
+      "expected_outcome": "Post-certification landscape is mapped with real names and real data. Sarah knows which regional operators exist, whether the local market absorbs certified technicians, and whether geographic flexibility (willingness to move at 0.6) is necessary or optional. The gap named in tick 6 — 'the cert gives me credentials; what I do with them is a separate question' — is answered with real information."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Follow up with Zoe Martinez — engage the infrastructure frame honestly. In the Zoe conversation, share the specific observation from the tick 10 reflection: the last-mile delivery infrastructure Zoe is entering and the EV technician credential Sarah is building are both parts of the same new ecosystem. The RoboRide vehicles that deliver to Zoe's routes need people to maintain them. That connection is not obvious from inside either lane — share it as a genuine observation, not a pitch. Ask Zoe what she is actually seeing in the RoboRide delivery program registration process: what does the infrastructure look like on the ground? Is there any indication of where the vehicle maintenance is being routed? That intelligence is useful to Sarah's landscape research and costs Zoe nothing to share.",
+      "target": "young_gig_worker",
+      "expected_outcome": "Relationship with Zoe Martinez is maintained as a genuine peer connection. Sarah gains ground-level intelligence about the RoboRide delivery infrastructure that complements the fleet operator research from the Carlos conversation. The adjacent ecosystem frame is shared honestly — two people building different parts of the same new infrastructure."
+    }
+  ],
+  "reasoning": "Sarah is at L2 Participate with strong fundamentals: employment intact, savings at $17,690 and growing ($249/month delta), certification at 65-70% completion entering this tick, role security at 0.81. The tier-one consolidation status of the floor Carlos works on is good news for Sarah's immediate employment, but the longer-term question — what happens after this phase — is exactly what the post-certification landscape mapping is designed to answer. This tick is the most information-dense tick of the simulation for Sarah: she receives the contacts she has been asking Carlos for since tick 8, she completes the second-to-last module of the certification, and she runs the landscape research that tells her whether the credential leads to local employment or geographic flexibility. The Zoe conversation is the human thread that keeps Sarah present in the community while she focuses on individual adaptation. At 31 with no dependents and a willingness to move of 0.6, Sarah has more flexibility than Carlos. The certification is the right move regardless of what the local market looks like — but knowing what the local market actually looks like before the credential is complete is the difference between a good plan and an excellent one."
+}

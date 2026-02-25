@@ -1,0 +1,40 @@
+{
+  "agent_id": "parts_store_owner",
+  "tick": 11,
+  "hierarchy_level": "L1_STABILIZE",
+  "emotional_state": "determined and focused",
+  "archetype": "adapter",
+  "actions": [
+    {
+      "type": "TRANSFORMATION",
+      "description": "RoboRide close is resolved. Either Howard received a yes (trial order) in which case he executes immediately on the inventory reserved - brake consumables, filters, lubricants, sensors - and begins fulfillment, or RoboRide gave no response and the channel is formally closed this tick. Inventory reserved for RoboRide ($1,800 worth) is reallocated to Carlos Ruiz and Sarah Kim EV accounts. Howard calls Carlos directly to let him know the EV and hybrid parts inventory is now fully available without the RoboRide allocation holding it, and to confirm what he needs for the next 30 days. This closes a seven-tick thread and redirects capital to proven relationships.",
+      "target": "mechanic_carlos",
+      "expected_outcome": "Either a first RoboRide trial order is placed and inventory flows, or the reserved EV inventory is freed up and redirected to Carlos/Sarah. Either way, the open loop closes and savings stop burning on a stalled channel."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Follow through on the Angela Wright placement partnership that she confirmed in the inbox. Angela accepted the two-way arrangement in principle: Wright Workforce Advisory LLC gives Howard first introduction to displaced workers with parts counter, service advisor, or general automotive inventory experience before they hit public job boards. Howard serves as a reference client for the LLC. Howard calls Angela this week to formalize the 20-minute call she proposed, and names the specific role he needs filled: part-time counter person with automotive knowledge, 20-25 hours per week. He comes to the call with a written role description so she has something specific to match against when she intakes displaced workers from the Hawkins closure.",
+      "target": "hr_director",
+      "expected_outcome": "A scheduled 20-minute call this week to formalize referral terms. A written role description in Angela's hands so she can match displaced workers. First introductions expected within 2-4 weeks of the closure completing."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Call Mark Thompson back. He has been trying to reach Howard for multiple ticks and Howard's written statement is currently in his board presentation to the Millfield Auto Tech Pipeline school board. Howard calls him, acknowledges the delay directly, and asks what came out of the board presentation. He formalizes the standing educator discount on EV and hybrid consumables and commits to keeping those lines in stock as the curriculum evolves. He also mentions, as intended, that he is looking for a part-time counter person with automotive knowledge - if Mark has a graduate or a parent in his network who is looking, Howard wants to know.",
+      "target": "auto_shop_teacher",
+      "expected_outcome": "Relationship formalized after multiple ticks of delay. Educator discount confirmed in writing. Possible referral for the part-time hire Howard has been building toward. Howard's name in front of the school board is acknowledged and understood."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Attend Lisa Freeman's Community Connection Night this week. The Financial Triage Navigator she launched is now operating at the community center, and the community organizer role is becoming a structural node for displaced workers. Howard shows up in person - not as a petitioner but as a small business owner who is navigating the same disruption and wants to be present in the community that his store depends on. He introduces himself to anyone he does not already know. He listens for names of displaced workers with automotive backgrounds who are trying to figure out next steps. He is not recruiting at a community event - he is present.",
+      "target": "community_organizer",
+      "expected_outcome": "Howard is visible and present at the community center during a moment of crisis. He may surface names for the part-time hire or build goodwill with neighbors who will return to his store when spending recovers. Minimum outcome: he is known as a small business owner who showed up."
+    },
+    {
+      "type": "INACTION",
+      "description": "No new cold outreach this tick. The RoboRide channel is resolved (one way or another). The Angela Wright channel is active and moving. The Mark Thompson relationship is being repaired. The community center presence is the fourth action. Howard does not add a fifth front this tick. He has been good at identifying the right moves and slow at closing them - this tick the discipline is to execute on existing open threads rather than open new ones.",
+      "target": null,
+      "expected_outcome": "Three existing relationships move toward resolution rather than three new relationships being opened without closure. Savings burn is addressed by actually closing the RoboRide question rather than continuing to research alternatives."
+    }
+  ],
+  "reasoning": "Tick 11 is a closing tick for Howard. His savings are at $33,359 and falling at roughly $2,500/month with the business running at a deficit. He has seven ticks of RoboRide outreach that need to resolve - either a trial order begins generating revenue or the channel is closed and inventory is freed. Angela Wright has accepted his placement partnership proposal in principle, which is the most time-sensitive action because the Hawkins closure will create a wave of displaced automotive workers in the next 60-90 days and he needs to be first in line for those introductions. Mark Thompson has been trying to reach him for multiple ticks and his name is already in a school board presentation - the relationship cost of continued silence is real. The community center presence is consistent with who Howard is becoming: a commercial supply node in a transitioning ecosystem who also has community ties. His stress level is low (0.11) and agency is high (0.81), which means he is in the right psychological state to execute rather than plan."
+}

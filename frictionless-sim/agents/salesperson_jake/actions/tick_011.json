@@ -1,0 +1,34 @@
+{
+  "agent_id": "salesperson_jake",
+  "tick": 11,
+  "hierarchy_level": "L0_SURVIVE + L2_PARTICIPATE",
+  "emotional_state": "determined",
+  "archetype": "hustler_becoming_planner",
+  "actions": [
+    {
+      "type": "EXCHANGE",
+      "description": "Work the floor this week with the RoboRide comparison pitch — targeted specifically at tradespeople, buyers with families and multi-destination logistics, and anyone who has been in twice without closing. The pitch leads with total cost of ownership math: a truck owner who drives 30,000 miles per year cannot replace that with RoboRide at any price point. A nurse with four destination stops per shift cannot use an 8-minute wait time robotaxi. Prioritize walk-ins who look like contractors, service workers, or parents — people whose mobility needs are incompatible with robotaxi economics. Goal: one close before end of month. A commission check at this point is the difference between a functional exit and an empty one. Keep selling regardless of what Rick told me about the consolidation.",
+      "target": null,
+      "expected_outcome": "At least one vehicle sale closed this month, generating approximately $5,500 in commission income. This materially improves the financial position regardless of whether the location is closing — either it extends runway for the transition or it demonstrates continued performance to Rick if the location is surviving."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Call Rick Tanner directly — not email, a phone call — to formally express interest in the service advisor or fleet-account relationship role inside the restructured organization. Say it plainly: 'You told me there's a role that needs someone who can sell relationships. That's me. I want to be considered for it.' Do not wait for a formal posting. Do not wait for Angela's formal notification process. The relationship capital with Rick at 0.73 trust is real. The window to position for an internal lateral move is this week, before the org chart is finalized. Even if Rick cannot confirm anything, putting my name in the conversation ensures I am not categorized as a passive transfer rather than an active internal candidate.",
+      "target": "dealership_gm",
+      "expected_outcome": "Rick Tanner is aware that Jake Morrison is actively positioning for the service advisor or fleet-account relationship role. Jake is in the consideration set for any lateral moves inside the restructured organization. The conversation happens before the org chart closes, which is when it still matters."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Finalize the three-lane contingency map as a decision tree with specific triggers. Lane A (transition program, Maria Santos $2,500 grant, community college): trigger if no lateral role materializes inside the consolidation within 21 days of the formal announcement. Lane B (service advisor or fleet-account role inside restructured company): active now — the Rick call this tick is Lane B in motion. Lane C (full exit, retraining grant, credential path): trigger if neither Lane A nor Lane B produces an offer within 30 days of the formal announcement. For Lane C, make the one call to someone already enrolled in the retraining program this week — ask one question only: what does the credential actually lead to in this market, not what the brochure says. There are 10 people enrolled this month. Find one.",
+      "target": null,
+      "expected_outcome": "Three-lane map converted from a written document to a decision tree with named triggers and concrete timelines. Lane B is active via the Rick call. Lane C due diligence call to a retraining enrollee is completed, providing real market intelligence about credential outcomes independent of program talking points."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Have an honest, brief check-in conversation with Tamika Jefferson. Receive what she shared from the exiter side: the scariest part is not the exit, it is the 0.5-month runway number. She told Jake that the one thing she wished she had done faster was get a second client before the first runway pressure hit. Receive that honestly — not as self-criticism, but as intelligence from someone who is 60 days ahead of the path Jake is considering for Lane C. Specifically ask her: what was the single most useful thing Maria Santos's office did when she reached out about the retraining grant? That is the question that separates the brochure from the experience.",
+      "target": "salesperson_tamika",
+      "expected_outcome": "Real intelligence from Tamika about the Lane C retraining path — specifically what Maria Santos's office process looks like in practice, not in the brochure. Jake gains a clearer picture of what Lane C actually costs in time and money from someone who has researched it firsthand. Trust relationship with Tamika maintained at 0.87."
+    }
+  ],
+  "reasoning": "Jake is at L0 survival pressure with $463 in savings, monthly expenses of $5,134, and income of $1,294 against a $5,500 employment commitment that is now in question due to the consolidation. The calculus is stark: he cannot afford to choose between selling and planning — he has to do both simultaneously this tick. The RoboRide pitch is the best available close mechanism in a soft market. Lane B (the Rick call) has to happen this week while it still can shape the org chart. Lane C due diligence (the retraining enrollee call) is free intelligence that costs 20 minutes. The Tamika conversation is the one piece of social intelligence that makes Lane C a real plan rather than a theoretical backup. Jake's identity has shifted from 'hustler' to 'hustler becoming planner' — this tick he has to execute both sides of that identity simultaneously, not sequentially. Two kids and $463 in savings is not a planning situation. It is a triage situation with a three-lane map."
+}

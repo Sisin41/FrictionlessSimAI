@@ -1,0 +1,40 @@
+{
+  "agent_id": "hr_director",
+  "tick": 11,
+  "hierarchy_level": "L2_PARTICIPATE + L5_BUILD",
+  "emotional_state": "determined",
+  "archetype": "builder",
+  "actions": [
+    {
+      "type": "ASSOCIATION",
+      "description": "Respond to Tamika Jefferson's peer-to-peer outreach directly and warmly. Accept her framing: she is the case study the LLC needs, and the referral arrangement she proposes maps cleanly onto what Wright Workforce Advisory is already doing. Schedule a 20-minute call this week. Come prepared with one concrete example of a transitioning worker in the intake pipeline who is planning to launch a freelance or service business and will need marketing support within 60 days. Agree to the mutual referral structure: Tamika refers displaced workers who need workforce coaching to Wright Workforce Advisory; Angela refers transitioning workers who are building freelance practices to Tamika for marketing support. No retainer, no exclusivity — just a named, active channel between two people building in the same environment.",
+      "target": "salesperson_tamika",
+      "expected_outcome": "Mutual referral partnership established with Tamika Jefferson. Wright Workforce Advisory gains a case study and a cross-referral channel into the freelance marketing space. Tamika gains introductions to transitioning workers launching businesses who need exactly what she does."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Reach out to Maria Santos directly ahead of the emergency task force session. Confirm two things: first, that the $2,500 retraining grant application pipeline is active and Angela has the direct application link ready to distribute to every displaced worker coming through intake — this is the confirmation Maria needs before the session. Second, express interest in being named as a coordinating resource in any formal Economic Resilience Framework that Maria is drafting. Wright Workforce Advisory LLC is the exact type of private-sector transition infrastructure the framework should reference. This is not a pitch — it is a professional positioning move that costs Angela nothing and puts the LLC in the framework document.",
+      "target": "council_member",
+      "expected_outcome": "Maria Santos confirms the grant pipeline coordination ahead of the task force session. Wright Workforce Advisory LLC is positioned as a named partner in the emerging Economic Resilience Framework, which provides institutional visibility and eventual referral sourcing beyond the current dealership transition."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Advance Wright Workforce Advisory LLC's service offering document from a conceptual draft to a finalized one-page deliverable. Set specific pricing: $1,500 per displaced worker cohort for small employers (5-15 affected workers), $3,500 for mid-size employers requiring the full multi-location vulnerability mapping methodology. Include the transition intake methodology built over ticks 9-10 as the core deliverable. Write it this week. The document becomes the basis for the first invoice — whether that invoice goes to the Regional Auto Group for the current work or to the next employer who needs the same methodology. The price is real. The service is real. The document makes both official.",
+      "target": null,
+      "expected_outcome": "Wright Workforce Advisory LLC service offering document finalized with specific pricing tiers. Angela now has a billable service product she can present to any employer facing a workforce transition. This is the deliverable that converts the methodology built over eleven ticks into revenue."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Follow up on the Howard Liu placement partnership from tick 10. Confirm the referral terms in writing — a brief two-paragraph email documenting what was agreed: Wright Workforce Advisory LLC gives Howard Liu first introduction to displaced workers with parts counter, service advisor, or general automotive inventory experience before they go to public job boards; Howard provides referral sourcing for workers needing workforce coaching and lists Wright Workforce Advisory as a reference client. Send this confirmation this week to close the warm-maybe into a formal arrangement.",
+      "target": "parts_store_owner",
+      "expected_outcome": "Howard Liu placement partnership documented in writing. Wright Workforce Advisory gains its first external reference client relationship, which provides the social proof needed to approach the next employer client. Angela's first professional credibility anchor for the LLC is secured."
+    },
+    {
+      "type": "INACTION",
+      "description": "Do not initiate any new conversations about the post-contract future with Patricia Hawkins this tick. The commitment was made last tick: transition program through completion, and then the conversation about what comes after happens with me as someone building something alongside this role, not against it. Pushing that conversation again now would undermine the clarity of the commitment already made. The signal has been sent. Let it land. Focus this tick on the LLC deliverables and partnership actions that create real external traction.",
+      "target": "ceo_regional_auto",
+      "expected_outcome": "Relationship with Patricia Hawkins remains stable and trust is maintained. Angela does not create ambiguity by revisiting a commitment just made. Energy is directed toward the LLC actions that actually build the exit path."
+    }
+  ],
+  "reasoning": "Angela is at a transition inflection point. She has: (1) the LLC legally formed, (2) a service methodology built over eleven ticks of real transition intake work, (3) two partnership channels opening (Howard Liu and now Tamika Jefferson), (4) institutional visibility via Maria Santos's framework. The tick 11 mandate is consolidation, not expansion — take the warm channels and make them concrete, take the service document from concept to price, and position the LLC for its first actual invoice. The Tamika partnership is particularly high-value because it is the first external relationship built with someone who has equal standing as a builder in the same disrupted environment. Angela is no longer just the HR director building an exit — she is a business owner building a client base. This tick is the tick the LLC stops being a plan and starts being a practice."
+}

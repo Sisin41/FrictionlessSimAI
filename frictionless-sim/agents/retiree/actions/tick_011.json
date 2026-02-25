@@ -1,0 +1,34 @@
+{
+  "agent_id": "retiree",
+  "tick": 11,
+  "hierarchy_level": "L6_TRANSCEND",
+  "emotional_state": "purposeful and grounded",
+  "archetype": "builder",
+  "actions": [
+    {
+      "type": "COMMITMENT",
+      "description": "Begin the first session of the 'Economic Transition for Older Adults' workshop series at the Millfield Community Center. Lisa Freeman has responded positively to the proposal. Dorothy prepares and delivers the first session this week: curriculum covers transportation decisions (including her own RoboRide transition as a case study), available community resources including the new Financial Triage Navigator, and how to evaluate retraining options at age 60 and above. She brings printed materials - updated cost comparisons, a one-page resource list, and a sign-in sheet for future sessions. She facilitates with the directness and warmth of someone who has taught for 30 years. The session is not a lecture - she builds in 20 minutes of open sharing from participants.",
+      "target": "community_organizer",
+      "expected_outcome": "First workshop delivered. Participant list established for future sessions. Dorothy's facilitation role at the community center becomes formal and recurring. The workshop series becomes part of the center's programming infrastructure during the disruption."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Visit Betty Kowalski's diner again this week. Dorothy arrives mid-morning, not at rush hour, orders her usual, and tips generously. If Betty has a moment, Dorothy extends the specific invitation she planned: I am running an economic transition workshop at the community center and I want voices from small business owners who are working through this in real time, not just polished experts. Would you be willing to come share your experience at one session? Not as a success story - as someone who is still figuring it out. Dorothy makes clear this is an invitation, not a pressure. If Betty says yes, Dorothy gives her the date of the second session. If Betty says no, the relationship continues and she knows she was asked.",
+      "target": "diner_owner",
+      "expected_outcome": "Regular patronage of a stressed small business continues. Betty receives a workshop invitation that respects her dignity as an active adapter, not a charity case. If she accepts, the workshop series immediately gains a practitioner voice that enriches the curriculum."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Have the honest conversation with Robert Jackson that Dorothy has been deferring since tick 6. She knows Robert is a rideshare driver whose livelihood RoboRide is displacing. She uses RoboRide regularly now. She reaches out to him this week - not with guilt or performance, but with directness: she tells him she uses the service that is hard on him, she is paying attention to that, and she wanted to say so rather than pretend it is not happening. She also tells him she heard he is modeling resilience for his son, and that she respects that. She does not offer solutions she does not have. She offers acknowledgment and presence.",
+      "target": "rideshare_driver",
+      "expected_outcome": "A long-deferred acknowledgment is made. The relationship does not require anything more than honesty about the asymmetry. Dorothy's integrity is intact. Robert knows that at least one person who benefits from RoboRide sees the full picture of what that means."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Draft the curriculum outline for the second and third workshop sessions this week. Dorothy does not wait for session one to conclude before preparing what comes next. Session two topic: financial communication with adult children during economic uncertainty (how to talk to your kids when they are worried about you and you are quietly worried too). Session three topic: evaluating retraining and learning opportunities at 60+ (what is worth doing and how to tell the difference). She writes these in longhand first, then types them up. She uses her 30 years of curriculum design to keep them practical and participant-centered.",
+      "target": null,
+      "expected_outcome": "Sessions two and three are prepared and ready before session one feedback even comes in. Dorothy's workshop series has structural depth and does not depend on improvisation. The curriculum becomes a replicable asset that Lisa Freeman can use even if Dorothy is unavailable for a session."
+    }
+  ],
+  "reasoning": "Dorothy is operating at L6_TRANSCEND - her survival and stability needs are fully met and her energy belongs outward. With $119,930 in savings, a monthly surplus of $947, and 53 months of runway, she is not in a crisis position and has not been at any point in this simulation. What she has is time, skills, stable income, and a community in real distress around her. The workshop series is the highest-leverage thing she can offer: she has 30 years of teaching skills, lived experience of every life transition the series addresses, and credibility as someone who made the RoboRide transition successfully and non-dramatically. The Betty visit continues a relationship that is real and has been built across multiple ticks. The Robert Jackson conversation is a long-overdue act of honesty that her own tick 6 reflection named as a regret. The curriculum drafting is how a retired teacher works - she prepares ahead rather than improvising. Her emotional state is purposeful and grounded, consistent with someone who knows exactly what she has to offer and is not performing generosity but actually engaging it."
+}

@@ -1,0 +1,34 @@
+{
+  "agent_id": "truck_owner",
+  "tick": 11,
+  "hierarchy_level": "L1_STABILIZE",
+  "emotional_state": "determined and methodical",
+  "archetype": "adapter",
+  "actions": [
+    {
+      "type": "TRANSFORMATION",
+      "description": "Complete the bid pipeline audit that was planned last tick and act on its conclusions. Dale spends two hours this week producing a written document: every active bid listed by project type, size estimate, and probability of closing; every outstanding receivable; savings runway at $43,410 current balance burning at $4,681/month (roughly 9.3 months before the $20,000 psychological floor). He comes out of this audit with one number and one decision: if the runway calculation shows more than 6 months before the $20,000 floor, he continues the current multi-bid approach. If it shows less than 6 months, he immediately adds a fourth action: sub-contracting labor to another established contractor to generate income without waiting on his own bids to close.",
+      "target": null,
+      "expected_outcome": "Dale has a written pipeline document and a clear runway number. He knows whether to hold his current course or escalate to income generation through sub-contracting. The audit converts anxiety about the financial situation into a concrete decision framework."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Submit two new bids for needs-based residential work this week. Specifically: (1) a drainage or grading job identified through Lisa Freeman's network or from Betty Kowalski's diner where tradespeople still talk over coffee - people whose yards are flooding because deferred maintenance has piled up; (2) a deck repair or exterior repair job from the same network. Dale prices both competitively for a scared market: he is not discounting from desperation, but he is pricing to win, not to maximize margin. He targets total project values of $6,000-$12,000 each. One signed contract before end of month is the goal. He brings his truck to the client visits - the truck is his calling card.",
+      "target": null,
+      "expected_outcome": "Two bids submitted. If either closes this month, Dale has income that partially offsets the monthly burn. Even one $8,000 project over 3-4 weeks begins to change the savings trajectory from pure drawdown to partial recovery."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Call Carlos Ruiz directly this week. Carlos is making significant changes - he is having real conversations with his colleagues, he is in the consolidation process, and he sees homeowner clients who may be investing in their properties rather than new vehicles. Dale asks him plainly: have any of his clients mentioned deferred home maintenance, are any shops or businesses on auto row doing construction-adjacent work, and does he know anyone planning a build or repair project who has not found a contractor yet? Dale does not pitch. He asks. He also tells Carlos that if Carlos's shop or any garage in his network needs structural work - foundation drainage, slab repair, HVAC penetrations for new equipment - Dale is the person to call. He has done shop buildouts before.",
+      "target": "mechanic_carlos",
+      "expected_outcome": "A professional conversation that may surface one lead. Carlos knows Dale is actively available. The relationship is maintained and potentially activated. Minimum outcome: Dale knows Carlos does not have a lead right now and can focus elsewhere."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Attend the Community Connection Night at Lisa Freeman's community center. The Financial Triage Navigator is operating there now and the mood is tense but active. Dale goes not to use the navigator - his situation is difficult but not yet at the triage threshold - but because the community center is where people who are making decisions gather, and in a scared market, relationships are how work finds him. He listens more than he talks. He makes sure at least three people know he is a contractor who is actively looking for needs-based residential work. He leaves a card with Lisa Freeman and one with anyone who mentions deferred maintenance. He does not network aggressively at a crisis event - he is present and available.",
+      "target": "community_organizer",
+      "expected_outcome": "Dale is visible in the community network at a moment when the network is active and mutual aid is organizing. Lisa Freeman has his card. He may leave with one warm lead. At minimum, he has demonstrated presence in his community during a difficult moment."
+    }
+  ],
+  "reasoning": "Dale is at L1_STABILIZE with his savings at $43,410 and burning at $4,681/month with zero income. He has roughly 9.3 months of runway before hitting the $20,000 psychological floor, which is more than it sounds but less than it feels given three dependents, a mortgage, and the insurance commitment he correctly made at tick 8. His tick 10 pipeline audit is the right foundation - he needs the concrete number before he can make any downstream decisions about whether to pursue sub-contracting. The bid strategy is correct: needs-based residential work exists in a scared economy even when luxury additions do not. The Carlos call is low-cost intelligence gathering through a trusted network contact. The community center presence is consistent with how Dale has operated - he is not a cold-calling person, he is a person who builds relationships that produce work over time. His stress is low (0.14) and agency is high (0.83), which means he is thinking clearly and has the capacity to execute methodically. He is not panicking. He is working the problem the way he always has."
+}

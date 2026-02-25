@@ -1,0 +1,34 @@
+{
+  "agent_id": "mechanic_carlos",
+  "tick": 11,
+  "hierarchy_level": "L2_PARTICIPATE",
+  "emotional_state": "anxious_but_anchored",
+  "archetype": "adapter",
+  "actions": [
+    {
+      "type": "TRANSFORMATION",
+      "description": "Continue EVT Level 2 certification — month seven of ten. This month the coursework enters advanced fleet telematics integration and multi-vehicle fleet diagnostic protocols. The material is specifically applicable to the RoboRide fleet maintenance contracts that regional operators are beginning to issue — this is no longer background knowledge, it is directly relevant to who will be hiring certified technicians in the next 18 months. Log at least 10 study hours across evening and weekend sessions. Show up after a full day at the shop even when tired. At approximately 65-70% completion by end of this tick, three months remain. The finish line is real.",
+      "target": null,
+      "expected_outcome": "EVT Level 2 certification advances to approximately 65-70% completion. Three months remain. The credential continues to build independently of any employer decision. Monthly savings delta of $193 continues."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Have the real conversation with Sarah Kim — not the senior-mechanic performance version. Tell her what is actually known: Rick called me directly, my floor is in the tier-one group for the consolidation, and the service technicians from the closed location are receiving transfer offers before any external hiring happens. Give her the contacts directly — two regional fleet maintenance operators from the certification network and one EV dealership within commuting range that is actively hiring certified technicians. Tell her honestly what those operators test for in hiring that the curriculum does not fully prepare for: they want to see hands-on V2G and fleet telematics experience, not just classroom certification. Also tell her that being EV-certified changes her options regardless of whether she stays at this shop or needs to move. And tell her honestly: the fear about what the consolidation means long-term is real. That fear is information, not prophecy.",
+      "target": "mechanic_sarah",
+      "expected_outcome": "Sarah receives the contact names and hiring criteria intelligence she asked for three ticks ago. She now has specific operators to research and specific module content to prioritize in her remaining EVT Level 1 work. The peer relationship is strengthened by honest information rather than managed stability. Sarah's post-certification planning has real names attached to it."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Reach out to Dale Cooper — the gas station owner who sent a word-of-mouth indicating he wanted to contact me directly. Call him this week. Find out what he is actually facing: is he seeing fewer service vehicles? Is his employer-side revenue down because fewer people are driving? What does his runway look like? If he asks about the certification path — tell him what the EVT Level 2 cost, how long it takes, and what the realistic employment outcomes look like in this region. Do not over-promise about gig delivery work as a meaningful income path. The credential or the community college is the path that changes options. If he is looking for a short-term bridge, be honest about what that looks like — it is survival money, not a career.",
+      "target": "gas_station_owner",
+      "expected_outcome": "Dale Cooper receives honest, grounded information about the certification path and realistic transition options. Carlos maintains his role as a trusted information source for people navigating the same disruption from adjacent positions. The relationship with Dale is established as a real peer connection rather than a word-of-mouth signal."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Have the full honest conversation with Elena this week — not the managed version. Tell her the complete picture: tier-one status means the job is likely secure for this phase of the consolidation, but service technicians from the closed location are transferring to this floor, which will change the social and professional environment at work. Some of those people are known to Carlos personally. The longer-term question — whether this consolidation is a one-time restructuring or the beginning of a deeper contraction — cannot be answered yet. Also tell her where the training stands: seven months in, three to go, and at completion the credential belongs to Carlos regardless of what any employer decides. She deserves the full picture. The pattern of managing what she knows has to end this tick.",
+      "target": null,
+      "expected_outcome": "Elena has the complete picture of the consolidation situation, Carlos's tier status, the incoming transfers, and the certification timeline. The household can plan together from shared information rather than from the partial picture Carlos has been providing. The regret named in multiple reflections is resolved."
+    }
+  ],
+  "reasoning": "Carlos is at L2 Participate with stable employment and a positive financial trajectory ($36,730 in savings, $193/month delta). The certification at 60% completion entering this tick is the central strategic asset — it belongs to him and not to any employer. The tier-one consolidation status means the immediate employment threat is managed, but the longer-term question of what happens after this phase of restructuring is not. The two relational priorities this tick are the Sarah Kim conversation (giving her the contacts she has been asking for) and the Elena conversation (ending the pattern of managing what she knows). The Dale Cooper outreach is a community presence move — Carlos has established himself as someone people reach out to for honest information about the certification path, and honoring that role costs him a phone call. The certification itself continues as the foundational action. Nothing about this tick requires heroic intervention — it requires steady continuation of the path that has been working since tick 4."
+}
