@@ -34,7 +34,7 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 52.0,
+      "runway_months": 52.2,
       "threat_level": 0,
       "monthly_essentials": 1600,
       "health_cost_from_stress": 0
@@ -52,8 +52,8 @@
     },
     "L3_CONSUME": {
       "discretionary_budget": 800,
-      "owns_car": true,
-      "car_payment_monthly": 281,
+      "owns_car": false,
+      "car_payment_monthly": 0,
       "substitution_willingness": 0.6
     },
     "L4_SIGNAL": {
@@ -84,11 +84,11 @@
       "availability_heuristic": 0.32,
       "social_proof_sensitivity": 0.47
     },
-    "sentiment": "neutral"
+    "sentiment": "determined"
   },
   "psychological": {
-    "stress_level": 0.27,
-    "agency": 0.54,
+    "stress_level": 0.25,
+    "agency": 0.56,
     "grief_stage": "none",
     "temporal_horizon_months": 9,
     "high_stress_ticks": 0
@@ -96,7 +96,7 @@
   "financial": {
     "monthly_income": 3200,
     "monthly_expenses": 2253,
-    "savings": 117092,
+    "savings": 117565,
     "debt_total": 49942,
     "credit_score": 776
   },
@@ -121,6 +121,6 @@
     "willingness_to_move": 0.6
   },
   "locality": "millfield",
-  "archetype": "cautious-adapter moving toward genuine curiosity",
-  "tick_updated": 3
+  "archetype": "adapter",
+  "tick_updated": 4
 }

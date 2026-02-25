@@ -1,0 +1,13 @@
+{
+  "from": "diner_owner",
+  "target": "council_member",
+  "tick": 4,
+  "type": "EXCHANGE",
+  "offer": "Betty Kowalski attends the small business task force meeting and provides ground-level testimony: three months of rough receipt data, observable decline in cover counts and average check size, and a first-person account of what a spending index of 73 means to a diner operating on thin margins on Auto Row. She is also a pending grant applicant and represents that cohort.",
+  "resources": {
+    "type": "reputation",
+    "amount": 0
+  },
+  "why_they_accept": "Maria Santos needs exactly this kind of credible, lived-experience testimony to justify the task force's existence and recommendations. A 30-year Auto Row business owner with a pending grant application is a model case \u2014 sympathetic, data-grounded, and politically useful. Betty's presence validates that the task force is reaching the right people. Maria accepts because Betty's testimony makes her report stronger and her policy asks more defensible to city council.",
+  "status": "accepted"
+}

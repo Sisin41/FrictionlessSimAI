@@ -1,0 +1,13 @@
+{
+  "from": "bank_manager",
+  "target": "ceo_regional_auto",
+  "tick": 4,
+  "type": "COMMITMENT",
+  "offer": "Delivering written auto loan underwriting criteria document formalizing the revised parameters disclosed verbally in tick 3: +10 credit score threshold, 72\u219260 month maximum term for vehicles over 3 years old, enhanced floor plan facility review requirement. Accompanied by professional cover note framing this as standard portfolio management policy.",
+  "resources": {
+    "type": "service",
+    "amount": 0
+  },
+  "why_they_accept": "Patricia requested the parameters in writing after David's proactive disclosure call. Receiving the formal document lets her brief her sales team on financing eligibility standards, adjust deal structuring accordingly, and manage customer expectations before they hit a rejection. It also signals that David is treating her as a partner rather than simply issuing edicts \u2014 the relationship is functional even if the terms have tightened. She accepts because clarity is operationally useful and because David gave it to her before she had to demand it.",
+  "status": "accepted"
+}

@@ -19,6 +19,11 @@
       "tick": 3,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 4,
+      "summary": "Reach out through my professional network \u2014 Carlos the mechanic, community organizer Lisa Freeman, and other contractors I know \u2014 to get a read on who still has work and what projects are still being planned. Use these conversations to position myself as available and reliable before the competition gets desperate. Also follow up on the Henderson bid with a direct call, offering to hold material pricing for 60 days to give them a reason to commit now rather than wait.",
+      "emotional_state": "anxious"
     }
   ],
   "past_outcomes": [
@@ -53,6 +58,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You routine. Savings grew by $909. "
+    },
+    {
+      "tick": 4,
+      "action": "Reach out through my professional network \u2014 Carlos the mechanic, community organizer Lisa Freeman, and other contractors I know \u2014 to get a read on who still has work and what projects are still being planned. Use these conversations to position myself as available and reliable before the competition gets desperate. Also follow up on the Henderson bid with a direct call, offering to hold material pricing for 60 days to give them a reason to commit now rather than wait.",
+      "savings_delta": 909,
+      "stress_delta": 0.05,
+      "employment_changed": false,
+      "narrative": "You Reach out through my professional network \u2014 Carlos the mechanic, community organizer Lisa Freeman, and other contractors I know \u2014 to get a read on who still has work and what projects are still being planned. Use these conversations to position myself as available and reliable before the competition gets desperate. Also follow up on the Henderson bid with a direct call, offering to hold material pricing for 60 days to give them a reason to commit now rather than wait.. Savings grew by $909. "
     }
   ],
   "reflections": [],

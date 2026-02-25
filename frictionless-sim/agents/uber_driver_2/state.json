@@ -25,8 +25,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 1.7,
-      "threat_level": 0.86,
+      "runway_months": 1.8,
+      "threat_level": 0.85,
       "monthly_essentials": 1100,
       "health_cost_from_stress": 0
     },
@@ -74,11 +74,11 @@
       "availability_heuristic": 0.54,
       "social_proof_sensitivity": 0.54
     },
-    "sentiment": "neutral"
+    "sentiment": "determined"
   },
   "psychological": {
-    "stress_level": 0.22,
-    "agency": 0.54,
+    "stress_level": 0.2,
+    "agency": 0.56,
     "grief_stage": "none",
     "temporal_horizon_months": 10,
     "high_stress_ticks": 0
@@ -86,7 +86,7 @@
   "financial": {
     "monthly_income": 2200,
     "monthly_expenses": 1787,
-    "savings": 3024,
+    "savings": 3230,
     "debt_total": 35485,
     "credit_score": 796
   },
@@ -103,6 +103,6 @@
     "willingness_to_move": 0.9
   },
   "locality": "millfield",
-  "archetype": "I'm not a rideshare driver. I'm a nursing student who drives to pay tuition. That distinction matters to me. The car is a tool. The stethoscope is the goal.",
-  "tick_updated": 3
+  "archetype": "adapter",
+  "tick_updated": 4
 }

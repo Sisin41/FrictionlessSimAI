@@ -25,8 +25,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 3.6,
-      "threat_level": 0.7,
+      "runway_months": 3.7,
+      "threat_level": 0.69,
       "monthly_essentials": 2600,
       "health_cost_from_stress": 0
     },
@@ -45,7 +45,8 @@
       "discretionary_budget": 1300,
       "owns_car": true,
       "car_payment_monthly": 413,
-      "substitution_willingness": 0.5
+      "substitution_willingness": 0.5,
+      "uses_robotaxi": true
     },
     "L4_SIGNAL": {
       "status_anxiety": 0.21,
@@ -74,10 +75,10 @@
       "availability_heuristic": 0.66,
       "social_proof_sensitivity": 0.66
     },
-    "sentiment": "neutral"
+    "sentiment": "anxious"
   },
   "psychological": {
-    "stress_level": 0.3,
+    "stress_level": 0.35,
     "agency": 0.63,
     "grief_stage": "none",
     "temporal_horizon_months": 9,
@@ -86,7 +87,7 @@
   "financial": {
     "monthly_income": 5200,
     "monthly_expenses": 4630,
-    "savings": 16740,
+    "savings": 17025,
     "debt_total": 47402,
     "credit_score": 623
   },
@@ -118,6 +119,6 @@
     "willingness_to_move": 0.2
   },
   "locality": "millfield",
-  "archetype": "Still load-bearing. Still standing. I'm not thinking about autonomous vehicles or economic transitions. I'm thinking about whether I have enough leftovers to not have to cook on Tuesday. That's where I am. And that's okay. Staying alive in the margins is its own kind of competence.",
-  "tick_updated": 3
+  "archetype": "stable",
+  "tick_updated": 4
 }

@@ -36,7 +36,7 @@
     },
     "L2_PARTICIPATE": {
       "employment_status": "employed",
-      "skill_relevance": 0.2,
+      "skill_relevance": 0.22,
       "role_security": 0.43,
       "network_strength": 0.4
     },
@@ -73,11 +73,11 @@
       "availability_heuristic": 0.4,
       "social_proof_sensitivity": 0.43
     },
-    "sentiment": "neutral"
+    "sentiment": "determined"
   },
   "psychological": {
-    "stress_level": 0.16,
-    "agency": 0.59,
+    "stress_level": 0.14,
+    "agency": 0.61,
     "grief_stage": "none",
     "temporal_horizon_months": 10,
     "high_stress_ticks": 0
@@ -85,7 +85,7 @@
   "financial": {
     "monthly_income": 2400,
     "monthly_expenses": 2137,
-    "savings": 2924,
+    "savings": 3055,
     "debt_total": 12025,
     "credit_score": 746
   },
@@ -98,7 +98,16 @@
       "exit_cost_months": 1
     }
   ],
-  "in_progress_transformations": [],
+  "in_progress_transformations": [
+    {
+      "type": "retraining",
+      "description": "enroll in a part-time automotive service technician certificate program at millfield community college. classes start next month, evenings and weekends \u2014 does not conflict with car wash shifts. goal: gain a marketable trade skill before the car wash role evaporates. asked carlos (mechanic_carlos) informally if he thinks it's worth it and would consider me for an apprentice-track role once i have basics.",
+      "started_tick": 4,
+      "completion_eta_months": 8,
+      "progress": 0.12,
+      "months_invested": 1
+    }
+  ],
   "temporal_mismatches": {
     "commitment_disruption_gap": 0.0,
     "skill_demand_gap": 0.8,
@@ -110,6 +119,6 @@
     "willingness_to_move": 0.9
   },
   "locality": "millfield",
-  "archetype": "Pragmatic Transitioner. I was never attached to this job. The disruption is real but it's not personal. I just need to solve rent before the math breaks down.",
-  "tick_updated": 3
+  "archetype": "adapter",
+  "tick_updated": 4
 }

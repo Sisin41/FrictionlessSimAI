@@ -1,9 +1,0 @@
-{
-  "from": "loan_officer",
-  "target": "bank_manager",
-  "tick": 4,
-  "type": "COMMITMENT",
-  "offer": "Kevin O'Brien formally accepts David Chen's structured NMLS mortgage licensing pathway: 8-month timeline, tuition reimbursement, co-originator exposure. Kevin sends written acknowledgment and requests a 30-day check-in. He commits to beginning co-originator sessions as soon as David can schedule them and to submitting tuition reimbursement paperwork through HR this week.",
-  "resources": {"type": "labor", "amount": 0},
-  "why_they_accept": "David Chen has already committed to this pathway. Kevin's formal written acceptance closes the loop on David's investment of institutional resources and time. It gives David visible ROI on a mentorship commitment — a reliable, progressing employee rather than a flight risk. Kevin's acceptance also creates a documented record that protects David's decision if questioned by senior management. From David's perspective, this is confirmation that his bet on Kevin was the right call."
-}

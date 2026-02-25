@@ -19,6 +19,11 @@
       "tick": 3,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 4,
+      "summary": "One-on-one with Linda Park: give honest field intelligence. Tell her the 25-policy number is a floor that will keep falling as RoboRide adoption accelerates. Share my read that personal auto liability is being absorbed by corporate fleet coverage \u2014 our book of business isn't recoverable, it's structurally shrinking. Don't soften it. Also signal that I'm not waiting passively: mention the SQL and data analysis coursework I've been doing, float the idea that there may be a role in commercial fleet risk analytics or insurtech that AutoShield could pivot toward. Ask her directly: what's the timeline she's working with, and what does she need from me to help navigate it.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -53,6 +58,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You routine. Savings dropped by $825. "
+    },
+    {
+      "tick": 4,
+      "action": "One-on-one with Linda Park: give honest field intelligence. Tell her the 25-policy number is a floor that will keep falling as RoboRide adoption accelerates. Share my read that personal auto liability is being absorbed by corporate fleet coverage \u2014 our book of business isn't recoverable, it's structurally shrinking. Don't soften it. Also signal that I'm not waiting passively: mention the SQL and data analysis coursework I've been doing, float the idea that there may be a role in commercial fleet risk analytics or insurtech that AutoShield could pivot toward. Ask her directly: what's the timeline she's working with, and what does she need from me to help navigate it.",
+      "savings_delta": -1244,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You One-on-one with Linda Park: give honest field intelligence. Tell her the 25-policy number is a floor that will keep falling as RoboRide adoption accelerates. Share my read that personal auto liability is being absorbed by corporate fleet coverage \u2014 our book of business isn't recoverable, it's structurally shrinking. Don't soften it. Also signal that I'm not waiting passively: mention the SQL and data analysis coursework I've been doing, float the idea that there may be a role in commercial fleet risk analytics or insurtech that AutoShield could pivot toward. Ask her directly: what's the timeline she's working with, and what does she need from me to help navigate it.. Savings dropped by $1,244. "
     }
   ],
   "reflections": [],

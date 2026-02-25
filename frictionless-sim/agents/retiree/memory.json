@@ -19,6 +19,11 @@
       "tick": 3,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 4,
+      "summary": "Call Priya Sharma, my insurance agent neighbor, and ask a specific question: what would my monthly costs look like if I dropped the car \u2014 what happens to my auto insurance premium, and is there any renter or homeowner rider that would change? I am not telling her I am selling the car. I am getting information. I will also call the RoboRide customer line or check the app to confirm whether the service runs 24 hours a day, 7 days a week \u2014 specifically whether a ride at 2am to a hospital emergency room is a thing I could actually book.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -53,6 +58,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You routine. Savings grew by $473. "
+    },
+    {
+      "tick": 4,
+      "action": "Call Priya Sharma, my insurance agent neighbor, and ask a specific question: what would my monthly costs look like if I dropped the car \u2014 what happens to my auto insurance premium, and is there any renter or homeowner rider that would change? I am not telling her I am selling the car. I am getting information. I will also call the RoboRide customer line or check the app to confirm whether the service runs 24 hours a day, 7 days a week \u2014 specifically whether a ride at 2am to a hospital emergency room is a thing I could actually book.",
+      "savings_delta": 473,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Call Priya Sharma, my insurance agent neighbor, and ask a specific question: what would my monthly costs look like if I dropped the car \u2014 what happens to my auto insurance premium, and is there any renter or homeowner rider that would change? I am not telling her I am selling the car. I am getting information. I will also call the RoboRide customer line or check the app to confirm whether the service runs 24 hours a day, 7 days a week \u2014 specifically whether a ride at 2am to a hospital emergency room is a thing I could actually book.. Savings grew by $473. "
     }
   ],
   "reflections": [],

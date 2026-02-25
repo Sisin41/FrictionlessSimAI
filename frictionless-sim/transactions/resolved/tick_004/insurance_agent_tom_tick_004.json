@@ -1,0 +1,13 @@
+{
+  "from": "insurance_agent_tom",
+  "target": "insurance_manager",
+  "tick": 4,
+  "type": "EXCHANGE",
+  "offer": "Tom provides Linda with specific, ground-level field intelligence on why auto insurance clients are cancelling \u2014 RoboRide adoption displacing car ownership, reduced driving miles making premiums feel unjustifiable, clients selling second cars and not replacing them. He presents this calmly and professionally as a field report, not as a complaint or a distress signal.",
+  "resources": {
+    "type": "service",
+    "amount": 0
+  },
+  "why_they_accept": "Linda initiated this one-on-one explicitly to gather field intelligence about customer cancellations and assess agent morale. Tom giving her honest, specific cancellation data is exactly what she asked for. It costs Linda nothing and gives her actionable intelligence she can report upward. Tom also gains from learning AutoShield's internal strategic direction, which makes this a mutual exchange. Linda has every reason to accept and to be forthcoming in return.",
+  "status": "accepted"
+}

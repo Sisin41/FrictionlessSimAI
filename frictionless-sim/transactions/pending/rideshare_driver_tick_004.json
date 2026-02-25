@@ -1,9 +1,0 @@
-{
-  "from": "rideshare_driver",
-  "target": "uber_driver_2",
-  "tick": 4,
-  "type": "EXCHANGE",
-  "offer": "Robert texts Grace asking for specific intel on the community college healthcare pathways and any word on the workforce retraining grant outcome. He offers to share what he learns from the NEMT certification process in return — particularly scheduling, cost, and whether NEMT companies in Millfield are actually hiring.",
-  "resources": {"type": "reputation", "amount": 0},
-  "why_they_accept": "Grace is actively navigating the nursing-student-plus-rideshare-driver transition herself. Information about the NEMT pathway is directly relevant to her situation — NEMT could serve as bridge income if her nursing hours increase and she cuts driving. Robert is a trusted colleague (trust 0.9 from her side as well, likely symmetric). She has nothing to lose by sharing what she knows and something to gain if Robert maps out the NEMT terrain first."
-}

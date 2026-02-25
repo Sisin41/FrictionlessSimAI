@@ -19,6 +19,11 @@
       "tick": 3,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 4,
+      "summary": "Execute the under-$22K floor strategy with real discipline this month: pull every unit priced under $22K to the front of the lot, build a targeted pitch around total monthly cost (not sticker), and personally call five pre-qualified leads from the past 90 days who were shopping in that range but did not close. This is not outreach for the sake of activity \u2014 I am trying to close at least one unit before the end of the month to stop the savings bleed.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -53,6 +58,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You routine. Savings dropped by $582. "
+    },
+    {
+      "tick": 4,
+      "action": "Execute the under-$22K floor strategy with real discipline this month: pull every unit priced under $22K to the front of the lot, build a targeted pitch around total monthly cost (not sticker), and personally call five pre-qualified leads from the past 90 days who were shopping in that range but did not close. This is not outreach for the sake of activity \u2014 I am trying to close at least one unit before the end of the month to stop the savings bleed.",
+      "savings_delta": -1083,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Execute the under-$22K floor strategy with real discipline this month: pull every unit priced under $22K to the front of the lot, build a targeted pitch around total monthly cost (not sticker), and personally call five pre-qualified leads from the past 90 days who were shopping in that range but did not close. This is not outreach for the sake of activity \u2014 I am trying to close at least one unit before the end of the month to stop the savings bleed.. Savings dropped by $1,083. "
     }
   ],
   "reflections": [],

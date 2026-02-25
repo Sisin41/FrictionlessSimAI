@@ -19,6 +19,11 @@
       "tick": 3,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 4,
+      "summary": "Contact Mark Thompson, the high school auto shop teacher, and propose a collaboration. Frank wants to explore teaching an adult continuing education course \u2014 working title 'Career Transitions and Skill Rebuilding' \u2014 through the school district's adult ed program. Frank's pitch: he has thirty years of experience breaking complex skills into learnable steps for anxious adults, he has a classroom voice, and he has firsthand knowledge of what it feels like to lose a livelihood to automation. Mark knows the district system and has the institutional relationships Frank lacks. Frank is not asking for charity \u2014 he is asking Mark to help him find the door into adult education and to co-sponsor or vouch for his application to the district's continuing education roster.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -53,6 +58,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You routine. Savings dropped by $3,176. "
+    },
+    {
+      "tick": 4,
+      "action": "Contact Mark Thompson, the high school auto shop teacher, and propose a collaboration. Frank wants to explore teaching an adult continuing education course \u2014 working title 'Career Transitions and Skill Rebuilding' \u2014 through the school district's adult ed program. Frank's pitch: he has thirty years of experience breaking complex skills into learnable steps for anxious adults, he has a classroom voice, and he has firsthand knowledge of what it feels like to lose a livelihood to automation. Mark knows the district system and has the institutional relationships Frank lacks. Frank is not asking for charity \u2014 he is asking Mark to help him find the door into adult education and to co-sponsor or vouch for his application to the district's continuing education roster.",
+      "savings_delta": -3176,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Contact Mark Thompson, the high school auto shop teacher, and propose a collaboration. Frank wants to explore teaching an adult continuing education course \u2014 working title 'Career Transitions and Skill Rebuilding' \u2014 through the school district's adult ed program. Frank's pitch: he has thirty years of experience breaking complex skills into learnable steps for anxious adults, he has a classroom voice, and he has firsthand knowledge of what it feels like to lose a livelihood to automation. Mark knows the district system and has the institutional relationships Frank lacks. Frank is not asking for charity \u2014 he is asking Mark to help him find the door into adult education and to co-sponsor or vouch for his application to the district's continuing education roster.. Savings dropped by $3,176. "
     }
   ],
   "reflections": [],

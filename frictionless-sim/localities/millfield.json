@@ -12,7 +12,7 @@
     "other": 0.22
   },
   "community_cohesion": 0.65,
-  "unemployment_rate": 0.067,
+  "unemployment_rate": 0.1,
   "avg_monthly_income": 5400,
   "local_multiplier": 3.5,
   "local_cascade_sensitivity": 0.7,
@@ -29,7 +29,7 @@
     "transition_fund_monthly": 0,
     "tax_incentives": false
   },
-  "gini_coefficient": 0.294,
-  "total_income": 146244,
-  "disrupted_agent_count": 2
+  "gini_coefficient": 0.314,
+  "total_income": 135502,
+  "disrupted_agent_count": 3
 }

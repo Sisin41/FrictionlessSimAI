@@ -1,9 +1,0 @@
-{
-  "from": "car_wash_worker",
-  "target": "mechanic_carlos",
-  "tick": 4,
-  "type": "COMMITMENT",
-  "offer": "Miguel informally approaches Carlos to ask whether the auto tech certificate program is worth pursuing and whether Carlos would consider mentoring him or flagging apprentice-track openings once he has foundational skills. No money changes hands — this is a relationship signal and information request.",
-  "resources": {"type": "labor", "amount": 0},
-  "why_they_accept": "Carlos has 0.78 trust with Miguel and is listed as a colleague. Mentoring a younger worker costs Carlos little — informal advice and occasional encouragement. It also builds loyalty and gives Carlos first pick of a motivated, personally-vetted candidate if his shop ever needs to expand. Carlos likely sees the auto sector pressure too and knows good technicians are hard to find. A motivated 23-year-old asking the right questions is an asset, not an imposition."
-}

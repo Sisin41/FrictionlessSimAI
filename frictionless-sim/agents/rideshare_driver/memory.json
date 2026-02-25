@@ -19,6 +19,11 @@
       "tick": 3,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 4,
+      "summary": "Enroll in NEMT (Non-Emergency Medical Transport) driver certification course at Millfield Community College. Pay the $320 course registration fee this week. The course is 6 weeks, evenings only. I can keep driving daytime shifts while completing it. NEMT drivers are not being replaced by RoboRide \u2014 the liability exposure and regulatory complexity of transporting medical patients makes autonomous vehicles nonviable in that segment for the foreseeable future. This is the retrain move I identified last tick. I am done researching it. I am registering.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -53,6 +58,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You routine. Savings grew by $387. "
+    },
+    {
+      "tick": 4,
+      "action": "Enroll in NEMT (Non-Emergency Medical Transport) driver certification course at Millfield Community College. Pay the $320 course registration fee this week. The course is 6 weeks, evenings only. I can keep driving daytime shifts while completing it. NEMT drivers are not being replaced by RoboRide \u2014 the liability exposure and regulatory complexity of transporting medical patients makes autonomous vehicles nonviable in that segment for the foreseeable future. This is the retrain move I identified last tick. I am done researching it. I am registering.",
+      "savings_delta": 387,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Enroll in NEMT (Non-Emergency Medical Transport) driver certification course at Millfield Community College. Pay the $320 course registration fee this week. The course is 6 weeks, evenings only. I can keep driving daytime shifts while completing it. NEMT drivers are not being replaced by RoboRide \u2014 the liability exposure and regulatory complexity of transporting medical patients makes autonomous vehicles nonviable in that segment for the foreseeable future. This is the retrain move I identified last tick. I am done researching it. I am registering.. Savings grew by $387. "
     }
   ],
   "reflections": [],

@@ -1,9 +1,0 @@
-{
-  "from": "council_member",
-  "target": "bank_manager",
-  "tick": 4,
-  "type": "COMMITMENT",
-  "offer": "Maria Santos is following up on her prior call to David Chen requesting that First Community Bank create a loan carve-out program for retraining grant participants — specifically: deferred repayment terms of 90 days or reduced interest rates for borrowers actively enrolled in the council's retraining program. She is pushing for a concrete yes or no answer this tick.",
-  "resources": {"type": "reputation", "amount": 3},
-  "why_they_accept": "David Chen is a branch manager at a community bank whose local reputation depends on being seen as a community partner during difficult times. The retraining program is publicly visible and council-backed. A partnership with Maria's program gives the bank positive public relations, demonstrates community investment, and is low financial risk since it involves deferred repayment on existing loans rather than new lending. Refusing a sitting council member's formal request for a modest community accommodation carries political cost in a small town. Maria's trust score with David is 0.48 — professional but not close — so he is likely to give a practical answer rather than a personal one: the bank will do this if it can be structured as a product, and Maria is offering the council's public endorsement of the bank's cooperation in return."
-}

@@ -19,6 +19,11 @@
       "tick": 3,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 4,
+      "summary": "Activate professional network and increase internal visibility at work. Schedule a 1:1 with my manager to present recent campaign performance data and pitch a cost-efficiency angle \u2014 reframing marketing spend as a measurable ROI tool rather than overhead. Reach out to two or three professional contacts from the marketing sector to check pulse on layoff rumors and demonstrate I'm engaged. Update LinkedIn with recent project wins to signal availability and competence to the market without explicitly broadcasting job-seeking.",
+      "emotional_state": "anxious"
     }
   ],
   "past_outcomes": [
@@ -53,6 +58,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You routine. Savings grew by $591. "
+    },
+    {
+      "tick": 4,
+      "action": "Activate professional network and increase internal visibility at work. Schedule a 1:1 with my manager to present recent campaign performance data and pitch a cost-efficiency angle \u2014 reframing marketing spend as a measurable ROI tool rather than overhead. Reach out to two or three professional contacts from the marketing sector to check pulse on layoff rumors and demonstrate I'm engaged. Update LinkedIn with recent project wins to signal availability and competence to the market without explicitly broadcasting job-seeking.",
+      "savings_delta": 591,
+      "stress_delta": 0.05,
+      "employment_changed": false,
+      "narrative": "You Activate professional network and increase internal visibility at work. Schedule a 1:1 with my manager to present recent campaign performance data and pitch a cost-efficiency angle \u2014 reframing marketing spend as a measurable ROI tool rather than overhead. Reach out to two or three professional contacts from the marketing sector to check pulse on layoff rumors and demonstrate I'm engaged. Update LinkedIn with recent project wins to signal availability and competence to the market without explicitly broadcasting job-seeking.. Savings grew by $591. "
     }
   ],
   "reflections": [],

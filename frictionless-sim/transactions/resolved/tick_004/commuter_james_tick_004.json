@@ -1,0 +1,13 @@
+{
+  "from": "commuter_james",
+  "target": "insurance_agent_priya",
+  "tick": 4,
+  "type": "EXCHANGE",
+  "offer": "Cancel auto insurance policy on 2021 Honda Accord. Vehicle has been sold. No longer require coverage. Also: completing private-party sale of the Accord for $18,800 \u2014 title transferred, proceeds deposited to savings.",
+  "resources": {
+    "type": "insurance_policy",
+    "amount": -127
+  },
+  "why_they_accept": "Priya cannot refuse a cancellation \u2014 James owns no vehicle and has no legal obligation to carry auto insurance. She loses a $127/month premium. This is a standard policy termination, not a negotiation. Her only mitigation is to offer James a renters or umbrella policy to offset the lost premium, but that is her move to make, not his.",
+  "status": "accepted"
+}

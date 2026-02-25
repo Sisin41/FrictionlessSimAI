@@ -1,0 +1,13 @@
+{
+  "from": "uber_driver_2",
+  "target": "rideshare_driver",
+  "tick": 4,
+  "type": "EXCHANGE",
+  "offer": "Grace shares healthcare grant pathway knowledge and nursing school context (which certifications matter, what grant programs exist for healthcare workers in Millfield) in exchange for Robert's NEMT operator intelligence \u2014 which companies operate locally, what certifications NEMT drivers need, whether medical transport has more earnings stability or regulatory protection than standard rideshare.",
+  "resources": {
+    "type": "skill",
+    "amount": 0
+  },
+  "why_they_accept": "Robert is a full-time rideshare driver who reached out first, signaling he's already looking for healthcare pathway intelligence. He's actively building toward a transition and needs exactly what Grace has: insider knowledge of the healthcare pipeline from someone currently inside it. Grace's nursing school contacts and grant awareness are genuinely useful to him. The trade is symmetric \u2014 both parties get information they can't easily get elsewhere, and they already have 0.74 trust as rideshare colleagues.",
+  "status": "accepted"
+}

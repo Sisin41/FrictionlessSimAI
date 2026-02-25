@@ -1,0 +1,13 @@
+{
+  "from": "salesperson_jake",
+  "target": "council_member",
+  "tick": 4,
+  "type": "COMMITMENT",
+  "offer": "Jake Morrison follows up on his $2,500 retraining grant application submitted last tick. He sends a brief, professional inquiry to Maria Santos asking for status and expected decision timeline. He is not demanding \u2014 he is persistent. He wants to know if the grant is approved, denied, or pending, so he can plan accordingly.",
+  "resources": {
+    "type": "political_capital",
+    "amount": 2500
+  },
+  "why_they_accept": "Maria Santos is a council member who championed the retraining grant program as a policy response to RoboRide disruption. A constituent following up in good faith is exactly what the program is designed for \u2014 it validates her initiative and requires minimal effort to respond to. Accepting (or at minimum acknowledging) the follow-up costs her nothing and is consistent with her role. She may not have finalized decisions yet, but acknowledging receipt is low friction.",
+  "status": "accepted"
+}

@@ -1,9 +1,0 @@
-{
-  "from": "dealership_gm",
-  "target": "ceo_regional_auto",
-  "tick": 4,
-  "type": "EXCHANGE",
-  "offer": "Rick Tanner responds to Patricia's strategic analysis with a one-page GM floor memo presenting real Millfield Auto Mall data: 30-day unit sales, test-drive conversion rates, service lane utilization, and current inventory carrying costs. He frames it as corroborating her modeling with floor-level signal, and positions himself as the execution partner for whatever direction Regional Auto Group takes.",
-  "resources": {"type": "skill", "amount": 0},
-  "why_they_accept": "Patricia is managing a strategic inflection and needs GMs who engage with data rather than resist or deny. Rick's memo gives her ground-truth from the floor that her models cannot capture, and it signals that he is a cooperative asset rather than a liability in the restructuring. She has every reason to receive this and incorporate it — it makes her planning better and strengthens her case for any decisions she takes to the Regional Auto Group board."
-}

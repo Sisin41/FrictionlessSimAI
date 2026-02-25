@@ -19,6 +19,11 @@
       "tick": 3,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 4,
+      "summary": "Call Kevin O'Brien at the bank and schedule a formal meeting to discuss adding two Level 2 EV charging stations to the property. Frame it as a capital improvement loan inquiry \u2014 not a distress call. The property already has electrical infrastructure. The station sits on a parcel I own. Adding charging capability transforms me from a fuel-only stop to a multi-modal energy stop. I want to understand the loan terms, the installation cost range ($8,000\u2013$15,000 for two stations), and whether a charging-network partnership (ChargePoint or similar) can offset the capital cost through a revenue-share arrangement. I will not commit to anything this tick. I am gathering real numbers and locking in a meeting.",
+      "emotional_state": "anxious"
     }
   ],
   "past_outcomes": [
@@ -53,6 +58,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You routine. Savings grew by $307. "
+    },
+    {
+      "tick": 4,
+      "action": "Call Kevin O'Brien at the bank and schedule a formal meeting to discuss adding two Level 2 EV charging stations to the property. Frame it as a capital improvement loan inquiry \u2014 not a distress call. The property already has electrical infrastructure. The station sits on a parcel I own. Adding charging capability transforms me from a fuel-only stop to a multi-modal energy stop. I want to understand the loan terms, the installation cost range ($8,000\u2013$15,000 for two stations), and whether a charging-network partnership (ChargePoint or similar) can offset the capital cost through a revenue-share arrangement. I will not commit to anything this tick. I am gathering real numbers and locking in a meeting.",
+      "savings_delta": -23,
+      "stress_delta": 0.05,
+      "employment_changed": false,
+      "narrative": "You Call Kevin O'Brien at the bank and schedule a formal meeting to discuss adding two Level 2 EV charging stations to the property. Frame it as a capital improvement loan inquiry \u2014 not a distress call. The property already has electrical infrastructure. The station sits on a parcel I own. Adding charging capability transforms me from a fuel-only stop to a multi-modal energy stop. I want to understand the loan terms, the installation cost range ($8,000\u2013$15,000 for two stations), and whether a charging-network partnership (ChargePoint or similar) can offset the capital cost through a revenue-share arrangement. I will not commit to anything this tick. I am gathering real numbers and locking in a meeting.. Savings dropped by $23. "
     }
   ],
   "reflections": [],

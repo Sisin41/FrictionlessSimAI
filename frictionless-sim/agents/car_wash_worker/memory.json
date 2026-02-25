@@ -19,6 +19,11 @@
       "tick": 3,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 4,
+      "summary": "Enroll in a part-time automotive service technician certificate program at Millfield Community College. Classes start next month, evenings and weekends \u2014 does not conflict with car wash shifts. Goal: gain a marketable trade skill before the car wash role evaporates. Asked Carlos (mechanic_carlos) informally if he thinks it's worth it and would consider me for an apprentice-track role once I have basics.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -53,6 +58,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You routine. Savings grew by $131. "
+    },
+    {
+      "tick": 4,
+      "action": "Enroll in a part-time automotive service technician certificate program at Millfield Community College. Classes start next month, evenings and weekends \u2014 does not conflict with car wash shifts. Goal: gain a marketable trade skill before the car wash role evaporates. Asked Carlos (mechanic_carlos) informally if he thinks it's worth it and would consider me for an apprentice-track role once I have basics.",
+      "savings_delta": 131,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Enroll in a part-time automotive service technician certificate program at Millfield Community College. Classes start next month, evenings and weekends \u2014 does not conflict with car wash shifts. Goal: gain a marketable trade skill before the car wash role evaporates. Asked Carlos (mechanic_carlos) informally if he thinks it's worth it and would consider me for an apprentice-track role once I have basics.. Savings grew by $131. "
     }
   ],
   "reflections": [],

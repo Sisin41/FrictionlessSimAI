@@ -19,6 +19,11 @@
       "tick": 3,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 4,
+      "summary": "Complete the Honda Accord private sale: transfer title, receive $18,800 from buyer, deposit into savings. The multi-week negotiation process that began tick 1 closes here. Simultaneously cancel auto insurance policy with Priya since I no longer own a vehicle \u2014 this reduces monthly expenses by approximately $127/month.",
+      "emotional_state": "relieved"
     }
   ],
   "past_outcomes": [
@@ -53,6 +58,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You routine. Savings grew by $1,096. "
+    },
+    {
+      "tick": 4,
+      "action": "Complete the Honda Accord private sale: transfer title, receive $18,800 from buyer, deposit into savings. The multi-week negotiation process that began tick 1 closes here. Simultaneously cancel auto insurance policy with Priya since I no longer own a vehicle \u2014 this reduces monthly expenses by approximately $127/month.",
+      "savings_delta": 1096,
+      "stress_delta": -0.03,
+      "employment_changed": false,
+      "narrative": "You Complete the Honda Accord private sale: transfer title, receive $18,800 from buyer, deposit into savings. The multi-week negotiation process that began tick 1 closes here. Simultaneously cancel auto insurance policy with Priya since I no longer own a vehicle \u2014 this reduces monthly expenses by approximately $127/month.. Savings grew by $1,096. "
     }
   ],
   "reflections": [],

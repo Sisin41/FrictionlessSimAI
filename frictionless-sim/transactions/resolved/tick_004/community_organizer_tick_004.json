@@ -1,0 +1,13 @@
+{
+  "from": "community_organizer",
+  "target": "council_member",
+  "tick": 4,
+  "type": "COMMITMENT",
+  "offer": "Lisa Freeman (Community Center Director) accepts Maria Santos's invitation to speak at the task force meeting. She will deliver structured testimony on which populations are being excluded from existing assistance programs, grounded in anonymized intake data from Community Connection Nights: returning workers without current credentials, gig workers with irregular income histories who fail traditional eligibility screens, people with transportation barriers, individuals who avoid self-identifying as unemployed due to stigma, and automation-displaced workers (taxi, rideshare) who lack resources or pathway to retrain. Testimony will be evidence-based, policy-framed, and delivered in language the council can act on.",
+  "resources": {
+    "type": "labor",
+    "amount": 0
+  },
+  "why_they_accept": "Maria Santos requested this testimony specifically because she needs real ground-level data and a credible community voice to make the case on the task force. Lisa has been building toward this moment since tick 1 \u2014 she has the data, she has the relationships, and she has the standing as Community Center Director. This is exactly what Maria asked for. From Maria's perspective, Lisa is a low-risk, high-value witness: not a political actor, not an ideologue, someone who works with the affected population every week and can speak with documented evidence rather than assertion.",
+  "status": "accepted"
+}

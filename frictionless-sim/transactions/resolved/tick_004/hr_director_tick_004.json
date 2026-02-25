@@ -1,0 +1,13 @@
+{
+  "from": "hr_director",
+  "target": "ceo_regional_auto",
+  "tick": 4,
+  "type": "EXCHANGE",
+  "offer": "Angela Wright delivers the 30-day workforce vulnerability map \u2014 a role-by-role classification matrix across all four Regional Auto Group locations, categorizing every position as EV/AV-exposed, transition-ready, or anchored, with exposure scores, displacement timelines, transition pathway recommendations, and retraining cost-benefit analysis.",
+  "resources": {
+    "type": "labor",
+    "amount": 7200
+  },
+  "why_they_accept": "Patricia issued this deliverable as Angela's first task in the Director of Organizational Transition role. Receiving a rigorous, professionally structured vulnerability map on deadline gives Patricia the operational intelligence she needs to plan restructuring \u2014 and confirms that the negotiated arrangement (salary, $12K bonus, 90-day scope, clean clawback language) is generating real value. Patricia accepts because this is exactly what she asked for and what she is paying for.",
+  "status": "accepted"
+}

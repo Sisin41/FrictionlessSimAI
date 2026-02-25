@@ -1,9 +1,0 @@
-{
-  "from": "gas_station_owner",
-  "target": "loan_officer",
-  "tick": 4,
-  "type": "COMMITMENT",
-  "offer": "Amir Patel requests a formal meeting with Kevin O'Brien to discuss a capital improvement loan of $10,000–$15,000 for the installation of two Level 2 EV charging stations at his gas station property on Auto Row. He is not requesting funds this tick — he is establishing intent and gathering terms. He comes with a 714 credit score, $72,000 in savings, owned property, and 25 years of business history at the same location.",
-  "resources": {"type": "currency", "amount": 0},
-  "why_they_accept": "Kevin O'Brien has Amir on his watch-list as a stress-risk account. A proactive outreach from Amir — seeking a capital improvement loan rather than an emergency lifeline — is exactly the kind of early engagement Kevin wants to see. It signals the borrower is planning ahead, not drowning. The loan amount is modest relative to Amir's assets and savings. EV charging infrastructure is a credible hedge against fuel revenue decline and increases the station's long-term property value. This is a low-risk loan conversation that Kevin can facilitate and potentially approve. Saying yes to a meeting costs Kevin nothing and builds goodwill with an at-risk but not yet distressed account."
-}

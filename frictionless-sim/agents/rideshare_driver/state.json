@@ -30,8 +30,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 3.1,
-      "threat_level": 0.74,
+      "runway_months": 3.3,
+      "threat_level": 0.73,
       "monthly_essentials": 1750,
       "health_cost_from_stress": 0
     },
@@ -42,7 +42,7 @@
     },
     "L2_PARTICIPATE": {
       "employment_status": "employed",
-      "skill_relevance": 0.1,
+      "skill_relevance": 0.12,
       "role_security": 0.47,
       "network_strength": 0.65
     },
@@ -79,11 +79,11 @@
       "availability_heuristic": 0.31,
       "social_proof_sensitivity": 0.59
     },
-    "sentiment": "neutral"
+    "sentiment": "determined"
   },
   "psychological": {
-    "stress_level": 0.29,
-    "agency": 0.48,
+    "stress_level": 0.27,
+    "agency": 0.5,
     "grief_stage": "none",
     "temporal_horizon_months": 9,
     "high_stress_ticks": 0
@@ -91,7 +91,7 @@
   "financial": {
     "monthly_income": 3500,
     "monthly_expenses": 2725,
-    "savings": 8548,
+    "savings": 8935,
     "debt_total": 18248,
     "credit_score": 784
   },
@@ -111,7 +111,16 @@
       "exit_cost_months": null
     }
   ],
-  "in_progress_transformations": [],
+  "in_progress_transformations": [
+    {
+      "type": "retraining",
+      "description": "enroll in nemt (non-emergency medical transport) driver certification course at millfield community college. pay the $320 course registration fee this week. the course is 6 weeks, evenings only. i can keep driving daytime shifts while completing it. nemt drivers are not being replaced by roboride \u2014 the liability exposure and regulatory complexity of transporting medical patients makes autonomous vehicles nonviable in that segment for the foreseeable future. this is the retrain move i identified last tick. i am done researching it. i am registering.",
+      "started_tick": 4,
+      "completion_eta_months": 10,
+      "progress": 0.1,
+      "months_invested": 1
+    }
+  ],
   "temporal_mismatches": {
     "commitment_disruption_gap": 0.0,
     "skill_demand_gap": 0.9,
@@ -123,6 +132,6 @@
     "willingness_to_move": 0.5
   },
   "locality": "millfield",
-  "archetype": "transitioning \u2014 still driving, but the driving is now funding the exit, not the destination",
-  "tick_updated": 3
+  "archetype": "adapter",
+  "tick_updated": 4
 }

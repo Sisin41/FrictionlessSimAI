@@ -1,9 +1,0 @@
-{
-  "from": "mechanic_carlos",
-  "target": "mechanic_carlos",
-  "tick": 4,
-  "type": "COMMITMENT",
-  "offer": "Carlos formally enrolls in the EVT Level 2 Electric Vehicle Technician certification program. Tuition of $1,400 is employer-funded (Patricia, shop owner, cut the check this tick). Carlos commits 60 hours of personal time over the coming months (evenings and weekends). No cost to Carlos's savings. Skill transformation begins: mechanical_repair + electrical_systems upgrading toward ev_diagnostics and ev_repair.",
-  "resources": {"type": "skill", "amount": 1400},
-  "why_they_accept": "Self-directed commitment. Employer already approved and funded. Carlos accepts because he has no financial barrier remaining, the research is done, and inaction now would be pure loss-aversion paralysis. The yes from Patricia removes the last external obstacle."
-}
