@@ -1,0 +1,73 @@
+{
+  "tick": 3,
+  "agent_id": "young_gig_worker",
+  "agent_name": "Zoe Martinez",
+  "current_state_summary": {
+    "threat_level": 0.88,
+    "runway_months": 1.4,
+    "savings": 3394,
+    "stress_level": 0.22,
+    "primary_concern": "Grant pending but unconfirmed — $2,500 exists on paper but not in my account. 1.4 months of runway means I need a second income source NOW and I need to decide what the retraining money actually buys me before the window to use it closes."
+  },
+  "threat_assessment": {
+    "immediate": "Grant application submitted but no confirmation yet. $3,394 savings, $396/month surplus. At current burn rate I have until late April before I'm underwater. If grant doesn't come through in the next 2-3 weeks, I need to treat it as not coming and plan accordingly. The $198/month surplus means I'm not falling behind, but I'm not gaining ground either — and any unexpected expense (medical, bike repair, phone) wipes out two months of surplus in one hit.",
+    "horizon_2mo": "Millfield's spending index is at 76. Consumer spending is down. My cafe hours could get cut — fewer customers means fewer shifts, fewer tips, fewer Instacart orders in my delivery zone. I'm not at risk of losing the job, but I'm at risk of the job earning less. The auto sector is contracting (revenue at 89) which means the ripple through local commerce is real. Two months from now I could be looking at 1.0 months of runway instead of 1.4, which is past critical into emergency.",
+    "horizon_6mo": "Millfield is restructuring. I can see the whole board: Tamika's exit, Kevin's pivot, Patricia's restructuring. The dealership sector is shrinking and service sector spending follows. If I stay in Millfield doing the same barista-gig loop, I am riding a slow contraction with bad credit, thin savings, and skills that have 0.2 relevance to what's hiring. Six months from now I need to either be retraining into something that's actually growing, or I need to be somewhere else. Staying put and hoping the economy recovers is not a plan — that's drift."
+  },
+  "hierarchy_priority": "L0_SURVIVE",
+  "actions": [
+    {
+      "action_id": 1,
+      "description": "Follow up directly on the grant application status. Call 555-0192 and check millfield.gov/grants this week — get a timeline for disbursement. If the $2,500 is approved, I need to know: (a) when it arrives, (b) what it must be spent on per grant terms, (c) whether approved programs include online certifications. Do not wait for them to contact me. Be the squeaky wheel.",
+      "rationale": "I applied last tick. Grant money does not materialize passively — I need to know if I'm approved, when I get paid, and what strings are attached. The retraining grant is only useful if I know what I can legally spend it on. If they require enrollment in a specific accredited program, that narrows my options in ways I need to know NOW so I can plan. Three weeks of passive waiting on a $2,500 decision I already submitted for is money I don't have time to leave sitting.",
+      "timeline": "This week. Call Monday morning. Follow up by email same day. Escalate if no response by Wednesday.",
+      "expected_outcome": "Confirmation of approval status, disbursement timeline (likely 2-4 weeks), list of approved training programs or spending categories. If denied, I learn that now instead of in 3 weeks and I redirect my energy immediately."
+    },
+    {
+      "action_id": 2,
+      "description": "Decide what the $2,500 retraining buys. The answer has to be: a Google Career Certificate in UX Design or Data Analytics, or a Coursera/LinkedIn Learning certification in Social Media Marketing. My skills are customer_service, social_media, food_service, gig_platform_experience. The social media path is the shortest bridge — I already do this, I just don't have credentials. A Google Digital Marketing certificate takes 3-6 months, costs $200-300, and is recognized by employers. The $2,500 gives me runway while I complete it, not just tuition. Target: enroll in Google Digital Marketing & E-commerce Certificate via Coursera within 2 weeks of grant confirmation.",
+      "rationale": "This is the question I have been avoiding. Retraining without a destination is just delay. My current skills have 0.2 relevance — I need to close that gap fast and with the lowest possible barrier. I am not going to medical coding or CDL driving or anything that requires 12-18 months and prerequisites I don't have. I need a 3-6 month credential in a field that hires remotely, pays more than $2,800/month, and is directly adjacent to what I already do. Social media marketing and digital marketing are that field. Entry-level digital marketing coordinator roles in larger cities pay $38,000-$48,000/year — that's $3,166-$4,000/month, a real upgrade. I can do the coursework in the evenings. This is the answer.",
+      "timeline": "Decision made now. Enrollment: within 2 weeks of grant confirmation or by end of this month if I self-fund the $200-300 cost upfront.",
+      "expected_outcome": "Clear retraining target identified. Not vague 'upskilling' — a specific program, a specific timeline (3-6 months), a specific next job title (Digital Marketing Coordinator or Social Media Manager), and a specific target salary ($38K-$48K in a larger market)."
+    },
+    {
+      "action_id": 3,
+      "description": "Apply for one additional income source that does not require credit and pays outside my current gig loop. Target: Amazon Flex, Shipt, or TaskRabbit for local odd jobs. Amazon Flex pays $18-$25/hour for package delivery, has flexible scheduling, and requires only a smartphone and basic background check — no credit check. Sign up this week. Add 8-10 hours per week on top of current Instacart and DoorDash baseline.",
+      "rationale": "My $198/month surplus is structurally fragile. I keep planning extra gig shifts and the delta stays at $198 — which means I am not actually executing them, or the platform is not giving me enough hours, or tip income is not materializing. Amazon Flex is a different platform with different demand patterns and better guaranteed minimums. Diversifying across three gig platforms (DoorDash, Instacart, Amazon Flex) reduces the risk that one platform's slow week tanks my income. The credit score of 581 is irrelevant for gig platform signup. This is one of the few income moves available to me right now.",
+      "timeline": "Apply this week. Background check clears in 3-7 days. First shifts within 10 days.",
+      "expected_outcome": "Additional $300-$400/month if I execute 8-10 hours/week consistently. Raises surplus from $396 to $696-$796. That extends effective runway meaningfully even before the grant arrives."
+    },
+    {
+      "action_id": 4,
+      "description": "Audit my transportation costs against RoboRide's $0.18/mile rate. I do not own a car, so this is about whether RoboRide replaces any costs I currently have — bike maintenance, occasional Uber/Lyft, bus pass. Calculate my actual weekly transport spend. If RoboRide is cheaper for delivery-adjacent trips or commuting to shifts in areas not served by my bike route, use it. The 15-minute wait and main roads + commercial coverage means it's usable for commute but not delivery work.",
+      "rationale": "At $0.18/mile, a 5-mile trip costs $0.90. I'm already car-free and I built my life around this. But I should check whether I'm spending on transport in ways RoboRide undercuts. If I'm spending $30-40/month on Lyft rides for longer distances, RoboRide saves me money at that rate. This is a small optimization, not a game changer, but I'm in a situation where small optimizations matter. Also: I have been posting content about being car-free. Using RoboRide is on-brand and might generate one more piece of credible content.",
+      "timeline": "This week — 20 minutes to audit my last 30 days of transport spend from bank app.",
+      "expected_outcome": "Know exactly how much I'm spending on transport. Replace any Lyft/Uber usage with RoboRide where cheaper. Estimated savings: $15-30/month if I've been using rideshare. Small but real."
+    },
+    {
+      "action_id": 5,
+      "description": "Seriously map one relocation scenario. Not leaving yet — but I need a destination, not just an exit. Research: Austin TX, Denver CO, or Portland OR. Specifically look at entry-level digital marketing salaries, cost of living for a single person, and remote work availability in those markets. Use one evening this week to build a real comparison: Millfield vs. [target city] on income potential, COL, and whether the $2,500 grant or a new job offer could fund the move.",
+      "rationale": "My willingness to move is high (0.75) but I have never treated it as a real option with real math. Moving costs are approximately 3.2 months of expenses — that's a real barrier. But if a digital marketing job in Denver pays $42K and Millfield service jobs are contracting, the math on moving could be positive within 6 months of arrival even factoring in relocation cost. I am 23 with no dependents. The window to make a high-disruption move cheaply is right now. I need to know whether 'leave Millfield' is actually viable or just a fantasy I use to feel better about staying. Do the math. If the math says go, I need to know that before I've spent the grant money on a certificate that qualifies me for a job in a market that's shrinking.",
+      "timeline": "This week — one evening of research. Not a commitment, just information. Have a number: what would it cost to move to [city X], what would I earn there, and when would it break even.",
+      "expected_outcome": "A real comparison on paper. If relocation breaks even within 9 months in a growth market, it becomes an active option for tick 5-6. If the math doesn't work, I stop spending mental energy on it and commit fully to the Millfield digital marketing path."
+    }
+  ],
+  "decisions": {
+    "grant_follow_up": "active — call Monday, follow up Wednesday",
+    "retraining_target": "DECIDED: Google Digital Marketing and E-commerce Certificate via Coursera. 3-6 months. Target role: Digital Marketing Coordinator / Social Media Manager. Target salary: $38K-$48K in a larger market.",
+    "new_income_source": "Amazon Flex — apply this week, no credit required, complements existing platforms",
+    "roboride_usage": "audit transport spend first, then use RoboRide where it undercuts current costs",
+    "relocation_research": "map one real scenario this week — Austin, Denver, or Portland. Math only, no commitment",
+    "credit_score_loans": "NOT PURSUING — 581 is below threshold even before David Chen's tightening. No traditional loan path available. Not wasting time on it.",
+    "content_strategy": "on hold as primary income strategy — deprioritized until financial floor is more stable. Still posting because it's on-brand, but not treating it as income this tick."
+  },
+  "updated_state": {
+    "stress_level": 0.26,
+    "agency": 0.52,
+    "grief_stage": "none",
+    "savings_delta": 396,
+    "notes": "Stress ticking up slightly — the picture is clearer now and clearer is scarier. Agency also up because she has DECIDED something for the first time: a retraining target. The $396 savings delta assumes baseline $198 plus partial execution of Amazon Flex ($150-200 incremental if she gets approved and runs 6-8 hours). Grant money not counted until confirmed."
+  },
+  "internal_monologue": "I've been watching the whole board and the thing I kept not saying out loud is: everyone ahead of me in the hierarchy is already moving. Tamika has an exit plan. Kevin is retraining. Patricia is restructuring. I applied for the grant and told myself that was the move, but I never answered the question behind the question — retraining for WHAT? Today I answered it. Digital marketing. I already do this — I post, I understand engagement, I know what content converts. I just don't have the credential that makes an employer take a meeting with me. The Google certificate gives me that in six months for $300. That's the plan. Now I need to stop analyzing and start executing: call the grant office Monday, apply to Amazon Flex tonight, and spend one evening this week running the math on Denver. I'm 23 and I have no one depending on me. That's not a limitation — that's the only real asset I have right now.",
+  "archetype_self_assessment": "decided adapter — no longer just waking up, actually moving"
+}
