@@ -1,0 +1,18 @@
+{
+  "transaction_id": "auto_shop_teacher_tick_007_board_submission",
+  "tick": 7,
+  "timestamp": "tick_007",
+  "type": "institutional_submission",
+  "from": "auto_shop_teacher",
+  "target": "school_board",
+  "description": "Mark Thompson formally submits the Millfield Auto Tech Pipeline proposal package to the school board through the principal's office, requesting placement on the April program review agenda. The package includes the full EV curriculum redesign, ASE certification pathway documentation, the two-stage high school to community college pipeline structure, RoboRide Millfield deployment data and community spending index decline as evidence of local workforce disruption, a coalition statement citing Councilmember Maria Santos's office and the Frank Russo AV literacy curriculum partnership, and a preliminary equipment cost estimate with grant eligibility notes. The submission is framed not as a defense of an existing program but as a proposal for new community infrastructure already in motion. Mark hand-delivers the package and confirms receipt in writing.",
+  "amount": 25,
+  "currency": "USD",
+  "outcome_probabilities": {
+    "placed_on_april_agenda": 0.75,
+    "acknowledged_pending_review": 0.20,
+    "no_response_this_tick": 0.05
+  },
+  "notes": "This is the first formal institutional action Mark has taken toward the board after six ticks of preparation and coalition-building. The strength of the submission is its pre-built support structure: a councilmember endorsement and an active cross-institution partnership are already in place before the board deliberates. If placed on the agenda, Mark will have a formal presentation opportunity in the April review window.",
+  "status": "pending"
+}

@@ -1,0 +1,66 @@
+{
+  "agent_id": "young_gig_worker",
+  "tick": 7,
+  "timestamp": "tick_007",
+  "psychological_state": {
+    "stress_level": 0.89,
+    "agency": 0.41,
+    "grief_stage": "none",
+    "sentiment": "frightened but moving — the kind of controlled desperation where you make yourself take one step at a time because if you stop to feel the full weight of it you will not get back up"
+  },
+  "chosen_actions": [
+    {
+      "type": "emergency_assistance_application",
+      "description": "Walk into the Millfield Community Center in person this week — not email, not a phone call, in person. Ask for Lisa Freeman by name. Explain the situation directly: unemployed, no savings, $2,404 in monthly expenses, the grant application I submitted at tick 2 has gone quiet for four ticks. I need to know the status. I need to know if the 10% threshold lowering that Maria Santos just pushed through applies retroactively or if I need to refile. I am showing up because I know from COVID that the people who got help were the ones who showed up. Lisa Freeman runs programs. I am asking for whatever emergency food, utility assistance, or hardship fund access the center has while the grant resolves. I am also finding out when Kevin O'Brien holds his financial office hours. That is happening this week.",
+      "resources_required": {"time_hours": 3, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "potential_grant_access",
+        "spending_change": 0
+      }
+    },
+    {
+      "type": "grant_reapplication_followup",
+      "description": "Follow up directly on the Maria Santos retraining grant application I submitted at tick 2. Four ticks of silence is too long and I have been letting it slide — that ends today. Contact the council office by phone and in writing. Reference my original application. Ask specifically whether the new 10% threshold policy that Santos just passed applies to service sector workers like me who had their hours cut, or only to auto row businesses. If I need to refile under the new threshold criteria, I do that immediately — same day. The $2,500 grant is not a nice-to-have. At zero savings it is the difference between being able to keep the Coursera subscription and having any kind of financial floor at all. I should have called the week after I submitted. I am calling now.",
+      "resources_required": {"time_hours": 2, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "pending_grant_2500",
+        "spending_change": 0
+      }
+    },
+    {
+      "type": "immediate_income_generation",
+      "description": "Pitch two or three local small businesses this week on social media management — specifically Instagram and TikTok content creation — for $100 to $150 per month each. I already have the skills. I have been building this parallel track in my head since tick 6 reflection but I have not acted on it. The diner, the parts store, any small business on or near auto row that is still operating and knows they are being watched. I reach out through Instagram DMs and in person. My pitch is simple: you are trying to stay visible to customers while everything around auto row is in flux. I make your social presence consistent and human. $150/month per client. Even one client this week is $150 I do not have right now. This is not the Coursera cert paying off yet — this is the skills I already have, used right now, for immediate money.",
+      "resources_required": {"time_hours": 6, "money": 0},
+      "economic_effects": {
+        "employment_change": "potential_freelance_income",
+        "asset_change": "none",
+        "spending_change": 150
+      }
+    },
+    {
+      "type": "gig_work_continuation",
+      "description": "Keep the gig apps running — DoorDash, Uber Eats, Instacart — at maximum available hours. This is the floor. It does not cover my expenses but it is real money arriving in my bank account in days, not months. I am not romanticizing this. Delivering burritos at 9pm while robotaxis pass me is not my future, but it is what keeps the lights on while I chase the grant and the freelance clients. I am targeting 20 to 25 hours this week across platforms. Every dollar counts at zero savings.",
+      "resources_required": {"time_hours": 22, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 400
+      }
+    },
+    {
+      "type": "faith_community_outreach",
+      "description": "Go to church this Sunday. This is not separate from survival — this is part of it. My meaning source is faith and my community ties are 0.42 and falling. The congregation is a resource I have not used: not for money, but for information, referrals, a hot meal, and the kind of presence that reminds me I am not invisible. Someone in that room may know about a job opening, a local business that needs help, an assistance program I have not heard of. I am showing up. I am being honest about where I am. I am not performing okay.",
+      "resources_required": {"time_hours": 2, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 0
+      }
+    }
+  ],
+  "internal_monologue": "Zero. That is the number. Zero savings, zero income, twenty-four hundred dollars a month in expenses that do not care what my bank account looks like. I have been here for a full tick and I still went 'routine' last month — I do not even know how I let that happen. I think I was in shock and did not name it. The reflection I wrote was honest: I am mid-process, not a finished resilient person. But mid-process does not pay rent. I need money this week. Not next month when the cert finishes, not when the grant comes through — this week. The gig apps are running but they are not covering my bills. The social media freelance idea has been sitting in my head since I wrote it down and I have not made one pitch. That is on me. Today I pitch someone. Today I go to the community center in person and I say Lisa Freeman's name out loud and I ask what is available. Today I call the council office and I chase the grant I filed four months ago and never followed up on. Faith is real for me — Sunday I am going to church not as a performance of okayness but because I am 22 and I am scared and I need to be in a room with people who know me. I am not spiraling. The stress is 0.89 and climbing but I am still making decisions. That is the only thing I have left — keep deciding, keep moving, do not freeze.",
+  "archetype": "adapter",
+  "tick_updated": 7
+}

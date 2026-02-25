@@ -1,0 +1,36 @@
+{
+  "agent_id": "auto_shop_teacher",
+  "tick": 7,
+  "timestamp": "tick_007",
+  "psychological_state": {
+    "stress_level": 0.10,
+    "agency": 0.82,
+    "grief_stage": "none",
+    "sentiment": "focused and purposeful — this is the week the work becomes official"
+  },
+  "chosen_actions": [
+    {
+      "type": "institutional_submission",
+      "description": "Formally submit the Millfield Auto Tech Pipeline proposal to the school board through the principal's office, requesting placement on the April review agenda. The submission package includes: (1) the revised curriculum overview with EV fundamentals, hybrid systems, high-voltage safety, and ADAS awareness modules; (2) ASE certification alignment documentation; (3) the two-stage HS-to-community-college pipeline structure with Millfield Community College; (4) the RoboRide Millfield deployment data and the spending index collapse from 73 to 42 as evidence of local economic disruption requiring workforce response; (5) a one-page coalition statement noting support from Councilmember Maria Santos's office and the AV literacy curriculum partnership with Frank Russo of Millfield Driving School; (6) a preliminary equipment cost estimate and a note on grant eligibility under the workforce transition fund. The framing is not defensive — it does not say 'please don't cut us.' It says: this program is already the infrastructure Millfield needs to catch workers coming out of the auto sector disruption, and here is the coalition and funding pathway that makes it viable. Mark hand-delivers the package to the principal's office and confirms receipt in writing.",
+      "resources_required": {"time_hours": 6, "money": 25},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 25
+      }
+    },
+    {
+      "type": "peer_outreach",
+      "description": "Reach out to Carlos Ruiz, the master mechanic who is currently in EV certification training, with a specific and respectful ask: Mark has heard through the community that Carlos is doing serious EV technician work and wants to understand what that training looks like from the inside. The ask is not 'can you teach my students' — that is too big and too presumptuous for a first contact. The ask is simpler: can we have a 20-minute conversation so I can make sure the curriculum I am building reflects what actual EV technician work requires? Carlos is a practitioner. Mark respects that. He is not asking Carlos to validate the program — he is asking to learn from someone who is doing the real thing. If the conversation goes well, Mark will float the possibility of a single advisory appearance at the board presentation in April, where a working technician in active EV training would carry more weight than any slide. No pressure. Just the offer.",
+      "resources_required": {"time_hours": 1, "money": 0},
+      "economic_effects": {
+        "employment_change": "none",
+        "asset_change": "none",
+        "spending_change": 0
+      }
+    }
+  ],
+  "internal_monologue": "Six ticks of building and today I put it in front of the people who can say yes or no. That should feel nerve-wracking. It doesn't. The proposal is real — it has data, it has allies, it has a funding pathway. The board is going to see a program that already has a councilmember's endorsement and a community college partnership in motion before they even vote on it. That is not the posture of a program begging to survive. That is a program that has already started. \n\nCarlos is the piece I haven't reached for yet. He's out there doing EVT Level 3 work and I've been building a curriculum about exactly that without talking to him. That's backwards. I need to know what the training actually demands — what tools, what diagnostic protocols, what the certification exam tests. Not from a textbook. From someone doing it. And if he's willing to sit in the room when I present to the board in April, a working mechanic in active EV certification is worth a thousand bullet points. I'm not going to pressure him. But I'm going to ask.",
+  "archetype": "builder",
+  "tick_updated": 7
+}
