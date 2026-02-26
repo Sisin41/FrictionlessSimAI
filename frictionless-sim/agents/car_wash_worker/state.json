@@ -85,9 +85,9 @@
   "financial": {
     "monthly_income": 0,
     "monthly_expenses": 2137,
-    "savings": 0,
-    "debt_total": 12025,
-    "credit_score": 746
+    "savings": -1557,
+    "debt_total": 13582,
+    "credit_score": 738
   },
   "commitments": [
     {
