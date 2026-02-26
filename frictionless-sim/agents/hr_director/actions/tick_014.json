@@ -1,0 +1,34 @@
+{
+  "tick": 14,
+  "agent_id": "hr_director",
+  "agent_name": "Angela Wright",
+  "response": {
+    "internal_assessment": "L1 STABILIZE is the primary threat. Savings at $21,422 burning at roughly $4,400/month means I have about five months before I'm in genuine crisis. L0 threat level at 0.73 with 3.2 months runway is the number I keep circling back to. The healthcare call happened last tick — that is the most live opportunity I have right now. I need to convert that conversation into either a proposal or a clear next step before the momentum dies. Wright Workforce Advisory LLC has no revenue yet. The vulnerability map is 42% done and is still the best proof-of-concept artifact I have for any consulting conversation. Tamika wants my introduction to Devon Clarke — that costs me nothing and strengthens the network that will eventually feed me clients. Patricia is apparently making moves involving insurance brokers and banking contacts, which tells me she is doing contingency planning for the dealership group, which is exactly the kind of organizational restructuring moment that creates a consulting engagement. I need to move from building the business to billing the business. This tick, the action has to be revenue-generating, not just relationship-building.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Follow up with the healthcare administration contact from last tick's informational call. Send a brief, specific follow-up email within 48 hours of the call: one paragraph summarizing what I heard from them about their workforce transition challenges, one paragraph on how Wright Workforce Advisory LLC's methodology addresses exactly those challenges (reference the vulnerability mapping framework), and a specific ask — a 30-minute scoping call with the decision-maker to explore whether a pilot engagement makes sense. Attach the two-page case study drafted in tick 12 as a concrete demonstration of the methodology in action. This is not a pitch deck. It is a professional follow-through that shows I listened and have something real to offer.",
+        "target_agent": null,
+        "resources_involved": "Time investment only. The case study document already exists. No cash outlay.",
+        "reasoning": "The healthcare call was the warmest external lead I have generated since launching Wright Workforce Advisory LLC. Letting it go cold without a follow-up within 48-72 hours would be a classic post-call failure — the moment of interest passes and both parties drift. I have the methodology document. I have the case study. I have a reason to reach back with something concrete, not just 'great talking to you.' This is the single action most likely to generate the first external invoice this entity has ever sent."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Reply to Tamika Jefferson's direct message asking to use my name for the Devon Clarke introduction. Text Tamika: 'Yes, use my name. I'll reach out to Devon directly as well so he's expecting your call — it'll land better if he hears from me first. Let me know how the conversation goes.' Then send a brief message to Devon Clarke directly: introduce Tamika, explain that her work on the automotive-to-freelance transition is exactly the kind of story he should hear from a peer, and close with 'I think there's a real fit between what Tamika is building and what your mobile service business needs right now in terms of digital presence.' Keep it to three sentences. This is a warm handoff, not a sales call.",
+        "target_agent": "salesperson_tamika",
+        "resources_involved": "No cash. Five minutes of my time. The relationship equity I have with both Tamika and Devon is the asset being deployed.",
+        "reasoning": "Tamika is part of my referral network and one of the first case study subjects for Wright Workforce Advisory LLC. Supporting her client acquisition directly serves two purposes: it cements the mutual referral relationship, and it demonstrates that I am the kind of connector people want to work with — which is the reputation that feeds consulting referrals. It costs nothing and the goodwill return is real. Ignoring the request would be a small but meaningful relationship erosion I cannot afford right now."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Advance the workforce vulnerability map to 55% completion this tick. Push through the administrative staff and lot attendant role clusters across all four locations — the lower-complexity sections that I have been deferring in favor of the higher-exposure technical roles. Getting to 55% means the document is more than halfway complete and defensible as a deliverable in any conversation with Patricia or with prospective consulting clients. The goal is to have a completed draft in the next three ticks, before the transformation's estimated completion date.",
+        "target_agent": null,
+        "resources_involved": "Time. This work is done within my current employment — no additional cost.",
+        "reasoning": "The vulnerability map is the only tangible proof of methodology I have. The healthcare contact will ask what my work actually looks like. Patricia's apparent moves toward restructuring conversations suggest she will want this document sooner rather than later. I have invested ten ticks of background effort in this project. At 42% complete, it is not yet useful as a standalone deliverable. At 55-60%, it is. Every tick I let this stall is a tick the consulting identity I am building lacks its most critical supporting artifact."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "builder",
+    "inner_monologue": "The call happened and I did not fumble it — now I have to follow through before I talk myself into waiting for a better moment that isn't coming."
+  }
+}

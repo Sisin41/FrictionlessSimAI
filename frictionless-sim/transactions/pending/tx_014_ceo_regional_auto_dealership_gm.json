@@ -1,0 +1,9 @@
+{
+  "id": "tx_014_ceo_regional_auto_dealership_gm",
+  "tick": 14,
+  "initiator": "ceo_regional_auto",
+  "target": "dealership_gm",
+  "type": "COMMITMENT",
+  "description": "Patricia Hawkins offers Rick Tanner a 60-day contract extension at $4,500/month for transition advisory services, with a defined deliverable: a written transition summary covering the three-location operational model, EV certification status, and Q3/Q4 recommendations. Total commitment: $9,000.",
+  "status": "pending"
+}

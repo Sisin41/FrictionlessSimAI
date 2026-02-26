@@ -1,0 +1,9 @@
+{
+  "id": "tx_014_insurance_manager_insurance_agent_priya",
+  "tick": 14,
+  "initiator": "insurance_manager",
+  "target": "insurance_agent_priya",
+  "type": "SIGNAL",
+  "description": "Linda Park reaches out to Priya Sharma to close the loop on Priya's earlier response to Linda's request, share that the municipal risk management briefing was substantive, and exchange intelligence on insurtech roles Priya mentioned — specifically whether either has a risk management function suited to Linda's background. Reciprocal professional exchange: Linda shares the municipal thread as a regional hiring signal in return for Priya's insurtech visibility.",
+  "status": "pending"
+}

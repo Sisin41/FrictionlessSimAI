@@ -1,0 +1,9 @@
+{
+  "id": "tx_014_ceo_regional_auto_council_member",
+  "tick": 14,
+  "initiator": "ceo_regional_auto",
+  "target": "council_member",
+  "type": "SIGNAL",
+  "description": "Patricia Hawkins reaches out to Maria Santos to flag Regional Auto Group's direct interest in the adaptive reuse zoning proposal for auto row, and to ask whether a 15-minute call makes sense to explore whether the municipality's transition zone goals and Hawkins's lease exit situation on the closed location have aligned interests.",
+  "status": "pending"
+}
