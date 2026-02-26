@@ -144,6 +144,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You routine. Savings dropped by $7,382. "
+    },
+    {
+      "tick": 12,
+      "action": "CRMP cert advanced to 40%; Tom Bradley introductions sent; direct call to municipal risk management office; mutual intel exchange with Priya Sharma",
+      "savings_delta": -7382,
+      "stress_delta": -0.04,
+      "employment_changed": false,
+      "narrative": "Linda sent Tom Bradley's introductions to the regional logistics contact as promised, keeping her credibility intact at no real cost. The municipal risk management call — framed around Millfield's RoboRide licensing exposure — produced the most substantive conversation of the three external threads: the contact acknowledged that yes, the city's risk profile has shifted and there is a budget review underway, stopping short of a job but clearly engaging with Linda as a subject-matter peer. Priya shared that she has been applying to two insurtech roles and neither has a strong risk-management bench — intelligence Linda immediately maps to her own targeting. The CRMP commercial lines module is logged at 40% completion, eight months in, now credentialing directly into the space her strongest lead is developing."
     }
   ],
   "reflections": [

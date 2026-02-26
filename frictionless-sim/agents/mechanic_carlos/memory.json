@@ -149,6 +149,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You routine. Savings grew by $193. "
+    },
+    {
+      "tick": 12,
+      "action": "EVT Level 2 advanced to 60% — fleet telematics module; honest full-picture conversation with Elena; outreach to Angela Wright; check-in with Sarah Kim on contacts",
+      "savings_delta": 386,
+      "stress_delta": -0.05,
+      "employment_changed": false,
+      "narrative": "Carlos logged 11 study hours in the fleet telematics and remote diagnostics module, reaching 60% completion — the credential is now in its final third and the material is directly applicable to the commercial fleet contacts he has been building. The conversation with Elena went better than he feared: she took the full picture steadily, asked practical questions about the certification timeline, and said she had known more than he thought she was sharing. That honesty released something for both of them. Angela Wright responded warmly to Carlos's outreach about the transferred technicians, said she appreciated him thinking of them, and mentioned she would be glad to have coffee — the relationship moved meaningfully past 0.40 trust. Sarah confirmed she had made the fleet operator call using Carlos's name and it went well, which Carlos registered as a real outcome of something he had invested in."
     }
   ],
   "reflections": [
