@@ -1,0 +1,31 @@
+{
+  "agent_id": "diner_owner",
+  "tick": 12,
+  "emotional_state": "at the edge — not panicked, but operating with the clarity that comes from having no margin left. Savings have effectively run out. The tick 11 burn of $4,481 (slightly higher than the baseline $4,268) confirms the monthly bleeding is accelerating, not stabilizing. Betty is at or past the zero-savings threshold. The RoboRide decision gate she set at tick 10 has closed. She has either received terms or she has not. Either way this tick is the execution tick — she stops evaluating and starts doing whatever path she chose. The one new variable from tick 11 is Kevin O'Brien at the Financial Triage Navigator: if there is bridge financing available for a kitchen conversion, the math changes. She needs that conversation to happen today, not this week.",
+  "actions": [
+    {
+      "type": "COMMITMENT",
+      "description": "Execute the RoboRide go/no-go decision made at tick 11 — stop deliberating and act. If the written terms arrived and the revenue math penciled out at the $2,800/month minimum threshold: she notifies the RoboRide local partnership coordinator today that she is proceeding, signs the agreement, and begins the kitchen reconfiguration this week. She clears the sit-down seating area to expand prep space, identifies the equipment she needs (heated transport containers, packaging supplies, a label printer), and lists the minimum-order menu items she can prep efficiently in high volume. If the RoboRide terms did not arrive or did not pencil out: she calls Stephanie Morris today and says 'I am ready for the property walk this week. My schedule is open. When can you come?' She names a decision. She has been building toward this fork for four ticks. She is at the fork.",
+      "target": null,
+      "rationale": "Betty has zero runway left. She cannot continue operating the diner at negative savings while maintaining parallel uncertainty about two paths forward. The RoboRide deadline she set has passed. The property valuation conversation she committed to as the alternative backup is immediately available. She picks one and executes it today, not after another week of parallel uncertainty."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Speak with Kevin O'Brien at the Financial Triage Navigator session — this is the highest-priority conversation of the tick. Betty goes in with a specific ask, not a general inquiry: 'I have a commercial kitchen that I am trying to convert to a delivery prep operation. The revenue math works if I can cover $15,000-$18,000 in equipment costs upfront. I need to know what bridge financing options exist for a sole proprietor with a commercial kitchen, no income for the past six months, and a documented delivery partnership agreement — or the terms of one — as the revenue instrument.' She is asking Kevin O'Brien the most specific version of the question she can ask. If he can answer it, she gets the information she needs to decide whether conversion is viable without additional capital. If he cannot, she asks him who can.",
+      "target": "community_organizer",
+      "rationale": "The Financial Triage Navigator session was identified at tick 11 as the one source of intelligence that could change the decision framing. Bridge financing for the kitchen conversion could make the delivery pivot viable even if RoboRide revenue takes 45-60 days to ramp. This conversation is the last data point Betty needs before her path is fully fixed. She cannot afford to miss it."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Call Stephanie Morris today — not in response to a scheduled event, but proactively. Regardless of whether the delivery pivot is proceeding, Betty calls Stephanie and gives her a clear status update: 'I have made my decision on the RoboRide path. [Either: I am proceeding with the delivery conversion and I want to schedule the property walk for 60 days from now as a contingency checkpoint. / Or: The terms did not work out and I am ready for the property walk this week.] Either way, I am not leaving you in the dark any longer.' Stephanie Morris has been waiting on Betty's decision since tick 9. Betty owes her a clear and honest status update regardless of which path she is on.",
+      "target": "real_estate_agent",
+      "rationale": "Stephanie Morris has invested time in the auto row property market and has been waiting on Betty's clarity. Professional relationships in a contracting market are built on clear communication. Betty's credibility as someone worth working with depends on not leaving people who have invested in her situation without information. This call takes fifteen minutes and preserves a relationship that is materially important to at least one of her two paths forward."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "If proceeding with the delivery kitchen conversion: draft a minimum viable menu of 5-8 high-volume prep items that the diner kitchen can produce efficiently, package for delivery, and sell at a margin that covers costs at realistic order volumes. The menu is not aspirational — it is calibrated to what the kitchen equipment can produce at scale with Betty alone or with one part-time helper. She thinks about what travels well, what can be prepped in advance, what has low food cost and high margin, and what Millfield residents who are ordering delivery on a tight budget will actually choose. She writes this down this week and sends it to the RoboRide coordinator as part of the onboarding conversation. If proceeding with property sale: she prepares the kitchen and space for the Stephanie Morris walk-through — clean, organized, equipment documented, any outstanding repairs noted honestly.",
+      "target": null,
+      "rationale": "Betty is executing on whichever path she has chosen. Both paths require immediate preparation work. The delivery kitchen menu is the operational foundation of the conversion — without it, the partnership is an agreement with no production capacity behind it. The property walk preparation ensures the valuation is not suppressed by disorganization or deferred maintenance that could easily be addressed before Stephanie arrives."
+    }
+  ]
+}
