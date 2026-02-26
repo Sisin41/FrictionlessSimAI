@@ -1,0 +1,31 @@
+{
+  "agent_id": "hr_director",
+  "tick": 12,
+  "emotional_state": "Tired and purposeful in roughly equal measure. Angela is in depression as a grief stage, which does not mean she is not functioning — it means she is no longer performing energy she does not have. The savings number ($29,625) and the burn rate ($6,611/month against $2,804 income) means she is running negative $3,807/month. She has roughly 7.8 months of runway, not the 4.5 that the state file shows for essentials-only. She knows the math. She is also running Wright Workforce Advisory LLC in the background of a job that still requires her full professional presence. This tick the weight of holding both simultaneously is visible in how she moves — slower to respond to non-urgent things, faster and more decisive on the things that matter.",
+  "actions": [
+    {
+      "type": "ASSOCIATION",
+      "description": "Respond to Tamika Jefferson's outreach. Angela accepts the peer-to-peer conversation Tamika proposed and schedules a 30-minute call. She comes in with a specific two-way offer: Wright Workforce Advisory LLC will refer to Tamika any transitioning worker who is building a freelance or small business identity and needs social media or communications support. In exchange, Tamika offers referrals to Angela for workers who need workforce coaching or transition structure. Angela also accepts Tamika's offer to be a case study — Tamika's story of building a freelance practice during active displacement is exactly the kind of proof-of-concept narrative that makes Wright Workforce Advisory's methodology credible to prospective clients. She tells Tamika that clearly.",
+      "target": "Tamika Jefferson",
+      "rationale": "Tamika is building in the same environment Angela is building in. The referral arrangement costs nothing and creates a mutual amplification channel that Angela does not currently have. The case study offer is particularly valuable — Angela has a methodology but no public portfolio of outcomes yet. Tamika is a walking portfolio entry."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Draft the first external-facing Wright Workforce Advisory LLC case study document based on the Regional Auto Group transition intake work. Angela draws on the documented contacts, referrals, and outcomes from the displaced workers she processed at tick 9 — anonymized appropriately — to build a two-page methodology document: the problem (location closure, immediate displacement of sales floor staff), the intervention (personal phone contact with every displaced worker, routing to four specific pathways), the outcomes (community college referrals made, Maria Santos grant applications distributed, internal transfer candidates identified). This becomes the first portfolio artifact she can show a prospective consulting client.",
+      "target": "Wright Workforce Advisory LLC business development",
+      "rationale": "Angela has been doing the work that proves her methodology for three ticks. She has not yet packaged any of it as proof. A two-page case study document is the difference between 'I built a consulting methodology' and 'here is what it produced.' She needs this before she pitches a first paying client. She can write it without leaving the current job, without violating any confidentiality — the methodology is hers, and the outcomes are anonymized."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Have a direct conversation with Patricia Hawkins about what comes after the current transition program completes. Angela said at tick 10 that she was open to that conversation on her terms — as someone building something alongside the role, not against it. This tick she initiates it rather than waiting for Patricia to. She asks Patricia directly: when this program completes, does Regional Auto Group have a need for ongoing workforce advisory support — either internally or on a consulting basis? She is not resigning. She is mapping the terrain so she can make a deliberate exit or a deliberate continuation, whichever serves her better.",
+      "target": "Patricia Hawkins",
+      "rationale": "Angela's runway is finite and her burn rate is negative. She cannot afford to wait for Patricia to raise the post-program question. If there is a consulting engagement available after her employment ends — which is more likely than a full-time continuation given the sector contraction — she wants to be the person who named that option first, not the person who learned about it after the fact. She is also demonstrating exactly the kind of forward-looking professionalism that makes her a credible consulting partner."
+    },
+    {
+      "type": "COMMITMENT",
+      "description": "Reach out to one HR professional in Angela's LinkedIn network who works in a growth sector — healthcare administration, logistics, or tech — and schedule a brief informational call. Not a job application. Not a pitch. A genuine professional conversation about what workforce challenges look like in their organization right now and what they need that they are not getting from existing HR infrastructure. Angela is building the market intelligence she would need to pitch Wright Workforce Advisory to clients outside the auto sector. She picks one person she has a warm connection with, not a cold outreach.",
+      "target": "LinkedIn HR professional contact (healthcare, logistics, or tech sector)",
+      "rationale": "Wright Workforce Advisory's long-term client base is not Regional Auto Group — it is every organization in a sector facing structural disruption. Angela has been building her methodology inside automotive. She needs to understand whether the methodology translates. One informational conversation with a peer in a different sector costs nothing and gives her either confirmation or a reason to recalibrate before she pitches outside her current domain."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "agent_id": "gas_station_owner",
+  "tick": 12,
+  "emotional_state": "Focused and pressured. The 60-day gate Amir set at tick 9 is now effectively at its close. Employment rate in Millfield has dropped to 50% and consumer spending is at 26 — both of these are worse than the numbers he set his decision framework against. Stephanie Morris just called asking which path he is leaning toward and whether he wants her in a listing role. The decision window is real and it is closing. Amir is not in crisis — he has 11 months of runway — but he is aware that every month he waits is a month the buyer pool for a gas station in a disrupted auto corridor shrinks. He is making a real decision this tick.",
+  "actions": [
+    {
+      "type": "COMMITMENT",
+      "description": "Call Stephanie Morris back today. Tell her directly: the 60-day logistics buyer inquiry has reached its gate. Amir wants a frank assessment — has she found one or two qualified buyers at or near the $300K floor, or not? He is not extending the window further. He has seen employment drop to 50% and spending to 26 since he set the gate. If Stephanie has a qualified buyer who has expressed genuine interest at $285K or above, he wants to schedule a meeting this week. If she has not found a buyer at that level, he is formally closing the sale-inquiry path and reactivating Kevin O'Brien's loan for the EV charger installation. He also confirms the $350 valuation fee she invoiced is fair and authorized for payment.",
+      "target": "Stephanie Morris",
+      "rationale": "The 60-day gate expires this tick. Amir designed this decision structure at tick 9 specifically so he would not relitigate the choice when the deadline arrived. The macro data has gotten worse, not better. He honors the framework he built by executing the decision it was designed to produce: a yes or a no based on buyer signal, not on hope."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "If Stephanie's answer is no qualified buyer at the $300K floor: call Kevin O'Brien at the bank this week and reactivate the $12,000 capital improvement loan for two Level 2 EV chargers. Tell Kevin clearly — the pause was deliberate and the 60 days are complete. He wants to proceed with the terms they discussed. Ask Kevin to confirm the rate and monthly payment figure are still valid and schedule a time to sign the loan documents. He is not restarting the process — he is resuming the commitment he put on hold.",
+      "target": "Kevin O'Brien (bank)",
+      "rationale": "Amir's tick 9 decision framework specified exactly this: if no buyer at $300K within 60 days, reactivate the charger loan. The alternative to acting is continued decline of a fuel-only station as EV adoption accelerates. The retrofit path is imperfect but it is a real path. Staying in limbo is worse than either committed option."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Get a business insurance quote from Priya Sharma. Amir's tick 6 and tick 9 reflections both named insurance coverage as a structural vulnerability he had failed to address despite having four dependents and a business in transition. He has had no coverage for the full 12 ticks of the simulation. He calls Priya — whom he knows through the community network as a displaced insurance professional — and asks for a business interruption and general liability quote for a fuel retail operation. He also asks whether she can write a personal life policy for him. He is not shopping for the cheapest number. He is closing a gap that has been open too long.",
+      "target": "Priya Sharma",
+      "rationale": "This has been named as a failure in Amir's reflections at tick 6 and tick 9. He has four dependents and no insurance coverage on a business whose revenue is visibly declining. Priya is actively looking for clients in her transition. This is a genuine exchange of value — she gets a client and a referral source, he closes a long-overdue risk gap. He can afford the premium. He cannot afford not to have the coverage."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Have a brief conversation with Betty Kowalski about delivery operator activity on Auto Row. Amir heard through word of mouth that Betty has been in contact with RoboRide's local partnership coordinator about her diner. Betty is on Auto Row and has visibility into what delivery-related operators are looking at in the corridor. Amir wants to know: has she heard of any logistics or delivery companies scouting properties in the area? Not because he is selling — but because if the buyer profile Stephanie has been pursuing is real, there should be ambient signal of that activity somewhere on Auto Row. Betty is his best informal intelligence source for that.",
+      "target": "Betty Kowalski",
+      "rationale": "Amir's investment thesis for the sale path is that delivery operators need nodes on owned land with canopy and electrical infrastructure. If that demand is real, it should show up as scouting activity in the corridor. Betty has been actively engaging with RoboRide and is the most connected person Amir knows who would have heard something. The conversation takes twenty minutes and either confirms the buyer profile is real or gives him an early signal that it is not."
+    },
+    {
+      "type": "INACTION",
+      "description": "Do not list the property publicly this tick, regardless of what Stephanie reports. If there is a qualified buyer at $300K, the transaction proceeds through Stephanie's quiet channel. If there is no buyer, the property stays off-market and the EV charger retrofit is the active path. Public listing is not consistent with Amir's stated strategy — it signals distress, invites low offers, and constrains his options. He holds to the private-sale-or-retrofit framework he designed.",
+      "target": "Real estate market",
+      "rationale": "Amir built a clear two-path decision framework. Public listing was not one of the paths. He does not deviate from that framework under pressure from the bad macro data. The discipline to hold to a good decision structure when things are getting worse is exactly what the framework was designed to produce."
+    }
+  ]
+}

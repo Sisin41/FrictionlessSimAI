@@ -1,0 +1,31 @@
+{
+  "agent_id": "driving_instructor",
+  "tick": 12,
+  "emotional_state": "Controlled urgency bordering on alarm. Frank has $652 in savings and $3,176 in monthly expenses. He is not panicking publicly but the math is no longer abstract — it is a number he can almost count down to. He has been deliberate and professional for eleven ticks. Now he needs results, not actions that produce results eventually.",
+  "actions": [
+    {
+      "type": "SIGNAL",
+      "description": "Call the adult ed district coordinator — not a follow-up, a closing call. Frank states his situation directly and professionally: he left a curriculum document in person at tick 9, he has Mark Thompson's endorsement, and he needs to know within this week whether there is a pathway for his AV literacy course to be listed in the spring adult ed catalog. He says plainly: 'I have developed a four-module AV literacy curriculum, I have a professional referral from Mark Thompson, and I am ready to start. I need a yes or a no so I can plan accordingly.' He is not rude. He is specific. He has earned the right to ask directly.",
+      "target": "District adult education coordinator",
+      "rationale": "Frank has been building toward this for eight ticks. His savings are at $652. He cannot afford another tick of 'waiting to hear back.' A direct closing ask is the only appropriate move. If the answer is no or a further delay, he immediately pivots to the workforce transition grant pathway that Mark Thompson's board presentation connected."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Call Howard Liu at the auto parts supply store. Frank heard through the word-of-mouth network that Howard has been trying to reach him. The word-of-mouth message referenced Howard calling Mark Thompson back. Frank reaches out directly to Howard to understand what Howard wanted — whether it is related to the auto tech pipeline, the AV literacy curriculum, or something else. Frank identifies himself plainly as the person Mark Thompson brought in as a curriculum collaborator and asks what Howard was looking for.",
+      "target": "Howard Liu",
+      "rationale": "Two separate word-of-mouth signals referenced Howard Liu trying to reach Mark Thompson and make changes. If Howard is connected to the pipeline proposal or the workforce transition grant pathway, Frank needs to be in that conversation. Howard is in Frank's network through Mark. This call costs nothing and may open a funding channel Frank does not currently have access to."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Sell one of the two school vehicles. Frank has had two cars sitting idle since tick 1 when enrollment dropped to zero. He no longer needs both — he needs cash. He lists the car with the lower bluebook value on Facebook Marketplace and at a used lot on Auto Row. He sets a price that moves it in 30 days, not a price that maximizes return. The goal is to convert a depreciating, insured asset into cash that extends his runway by two to three months.",
+      "target": "Used vehicle market / Auto Row dealers",
+      "rationale": "Frank has $652 in savings and $3,176 in monthly expenses. At this burn rate he is out of money before the end of tick 13. He has two vehicles and one of them is not earning anything. Selling it is the clearest immediate lever he has. A $4,000-$6,000 sale buys him one to two additional months of runway while the adult ed and workforce grant applications resolve."
+    },
+    {
+      "type": "COMMITMENT",
+      "description": "Follow up with Mark Thompson specifically on two questions that came out of the word-of-mouth intelligence: (1) Did the school board set a formal vote date for the Millfield Auto Tech Pipeline funding request? Frank needs the timeline because his curriculum fits under the workforce transition grant pathway Mark's proposal connected to. (2) Is there a named contact at the workforce transition grant office that Frank can reach out to directly and independently, separate from the board vote outcome? Frank is not waiting for the board to approve the pipeline before pursuing the grant pathway. He wants the contact name now.",
+      "target": "Mark Thompson",
+      "rationale": "Mark's board presentation created a potential funding pathway for Frank's adult ed curriculum. The board has been deliberating for at least a tick. Frank needs the timeline and the name of the grant contact so he can pursue both channels simultaneously. He heard through the network that Mark is following up with the board secretary directly — Frank wants to know the outcome the moment it exists."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "agent_id": "insurance_agent_priya",
+  "tick": 12,
+  "emotional_state": "Urgent and activated — the anger from her grief stage is sharpening into directed energy rather than diffuse frustration. Priya has $617 in savings and $3,341 in monthly expenses. She has been unemployed since tick 8. The retraining grant application is in. Four job applications are out. Linda Park's word-of-mouth signals that fleet and logistics introductions are coming through Tom Bradley. The question is no longer whether she is doing the right things — she is. The question is whether any of them will convert to income before she runs out of money in approximately two weeks. She is not catastrophizing. She is doing the math and moving faster.",
+  "actions": [
+    {
+      "type": "EXCHANGE",
+      "description": "Call Linda Park directly. Priya learned through the word-of-mouth network that Linda followed through on her promise to Tom Bradley and is making introductions to fleet and logistics contacts. Priya calls Linda — not Tom — and references this directly: 'I understand you've been connecting people to commercial fleet risk contacts. I am in the same transition Tom is, and I have been doing the same work — four applications out, SQL coursework at Module 4, a working fleet incident data query as a portfolio artifact. If any of those introductions would be appropriate for me as well, I would appreciate the same consideration.' She is not competitive with Tom. She is direct about her candidacy.",
+      "target": "Linda Park",
+      "rationale": "Tom has a 13-month runway and went through the formal layoff conversation with Linda. Priya has less than two weeks of savings. She cannot afford to let Tom be the only one benefiting from Linda's network generosity. She has been building the same skill set, has the same insurance domain knowledge, and is a stronger data analytics candidate by training. The introduction Priya needs is the same one Tom needs. She asks for it directly."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Complete SQL Module 4 this week — window functions and subqueries. Not partially, not mostly. Finish it and update the LinkedIn profile and the application materials immediately upon completion. Three current applications are citing SQL skills based on Module 3. Module 4 completion moves her from 'learning SQL' to 'proficient in SQL including advanced query patterns.' That is a different hiring signal. She commits three evening sessions this week and finishes the module regardless of what else is happening.",
+      "target": "SQL/data visualization course (Module 4)",
+      "rationale": "Priya is 48% through her retraining in-progress transformation. Module 4 is the differentiator between a junior SQL candidate and a mid-level one. With four applications outstanding and Linda Park's network potentially opening, she needs her credentials to be as strong as possible when someone actually looks at her profile. The module takes approximately 6-8 hours of focused work. She has the time."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Follow up on the $2,500 Maria Santos retraining grant application that she submitted at tick 10. She calls or emails Maria Santos's office and asks for confirmation of receipt and an estimated decision timeline. She has a confirmation number. She references it. This is not a request for special treatment — it is a professional follow-up on a submitted application. If the grant is approved and deposited even partially, it extends her runway by three-quarters of a month. She needs that information now, not at tick 14.",
+      "target": "Maria Santos's office",
+      "rationale": "Priya submitted the grant application at tick 10. It is tick 12. Two ticks of silence is long enough to warrant a professional status check. The grant is $2,500 — at her burn rate, that is roughly 22 days of additional runway. With $617 in savings, that matters immediately."
+    },
+    {
+      "type": "COMMITMENT",
+      "description": "Respond to Tom Bradley's word-of-mouth signal about fleet and logistics contacts from Linda. Tom reached out at tick 10 and they had a real conversation. Tom asked Priya if she wanted to be included in Linda's outreach loop. This tick Priya sends Tom a brief, direct message confirming: yes, she wants to be in the loop, and she wants to be introduced as a parallel candidate rather than a competing one. She also updates Tom on where she stands: four applications out, Module 4 in progress, grant filed. She keeps the collaboration honest and mutual — Tom's network and Linda's introductions benefit her, and she wants Tom to know she is moving and not just waiting for him to do the work.",
+      "target": "Tom Bradley",
+      "rationale": "Tom and Priya established a genuine peer collaboration at tick 10. Tom explicitly offered to include her in Linda's outreach loop. Priya has been a named actor in Tom's inbox as someone doing active work. Confirming the collaboration and sharing a status update maintains the relationship as a functional professional asset rather than a courtesy."
+    }
+  ]
+}

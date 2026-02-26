@@ -1,0 +1,31 @@
+{
+  "agent_id": "insurance_agent_tom",
+  "tick": 12,
+  "emotional_state": "Quietly resolute with a persistent undercurrent of grief. Tom is in early acceptance — he is not fighting the loss anymore, but the identity he built over 28 years does not disappear because he accepted it is over. He has $33,141 in savings and roughly 11.9 months of runway at adjusted burn. He is not a man in crisis. He is a man building something new under conditions that are harder than he would have designed. The stress level (0.75) is high because the stakes are real, not because he is paralyzed. He has Linda Park following through on her promise. He has Priya as a genuine collaborator. He has Sarah as a full partner. This tick he activates the fleet contacts.",
+  "actions": [
+    {
+      "type": "EXCHANGE",
+      "description": "Follow up immediately on Linda Park's introduction to the regional logistics company contact she sent this tick. Linda's word-of-mouth message indicated she would copy Tom on a note vouching for his field assessment skills and auto book management experience. Tom sends a brief, professional email to that contact within 48 hours of receiving Linda's introduction: thank the contact for their time, acknowledge Linda's introduction, and make one specific ask — a 20-minute call to discuss whether there are risk operations roles or commercial fleet risk needs where Tom's 28 years of insurance risk assessment experience and his client management history would be relevant. He attaches nothing to this first message. He is asking for a conversation, not submitting an application.",
+      "target": "Regional logistics company contact (introduced by Linda Park)",
+      "rationale": "This is the single highest-value action available to Tom this tick. Linda Park made a specific professional introduction. Tom has 48 hours before the energy of that introduction dissipates. He acts on it immediately, professionally, and with a specific ask. A 20-minute conversation is a low-burden ask that Linda's vouching makes appropriate."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Send Priya Sharma a brief, direct message confirming she is included in Linda's outreach loop. Tom made the offer at tick 10. Linda's introduction came through this tick. Tom keeps his word: he contacts Priya, tells her Linda has made the specific logistics introduction, and asks whether she wants Tom to mention her name in a follow-up message to the contact — framed as 'a colleague with insurance domain knowledge and SQL data analytics skills who is also in transition.' He does not position himself and Priya as competing. He positions them as a professional cohort that the contact should be aware of.",
+      "target": "Priya Sharma",
+      "rationale": "Tom committed to including Priya in the loop at tick 10. She trusted him enough to take him at his word. Following through on that commitment is both the right thing to do and strategically sound — if either of them lands a role through this network, they strengthen the recommendation of the person who made the introduction. Linda's reputation is also served by Tom's follow-through."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Advance the retraining coursework. Tom is at 20% progress toward his commercial risk analytics retraining goal (started tick 8, 10-month completion estimate). He commits to completing one full module of whatever course structure he has enrolled in — SQL fundamentals, data analytics certificate, or commercial risk operations coursework. He is not waiting for the job search to resolve before continuing the retraining. Both tracks run simultaneously. He sets three weekly sessions, 90 minutes each, and treats them as fixed on the calendar the same way he would treat a client meeting.",
+      "target": "Retraining coursework (commercial risk analytics path)",
+      "rationale": "The retraining is at 20% after four months. The completion timeline is 10 months from tick 8, which means tick 18. At the current pace that holds. But Tom knows from his own career that the candidates who differentiate are the ones who can show work in progress, not just enrollment. Making visible progress — even one completed module — gives him something concrete to reference in the job conversations Linda's introductions are opening."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Have a brief, honest check-in conversation with Carlos Ruiz. Tom heard through the word-of-mouth network that Carlos is navigating the Hawkins consolidation from the inside — he is in the tier-one group, his job is likely secure, but the environment around him is changing. Tom and Carlos are both men in Millfield navigating different angles of the same disruption. Tom reaches out not as a professional contact but as a neighbor — acknowledging what Carlos is going through and being present. He does not ask Carlos for anything. He shows up. This is Track 3 from Tom's tick 9 adaptation notes: the relational track that does not get resolved by finding a new job.",
+      "target": "Carlos Ruiz",
+      "rationale": "Tom's tick 9 reflection explicitly named three parallel tracks: retraining, job search, and relational. He has been consistent on tracks one and two. Track three — the community and relational track — is the one that tends to slip when the financial pressure is loud. Carlos is someone Tom has observational proximity to through the word-of-mouth network. A brief, human check-in is the kind of action that costs nothing and holds the fabric of relationships that Tom named as essential to navigating this transition well."
+    }
+  ]
+}
