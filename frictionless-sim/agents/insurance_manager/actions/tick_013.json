@@ -1,0 +1,34 @@
+{
+  "tick": 13,
+  "agent_id": "insurance_manager",
+  "agent_name": "Linda Park",
+  "response": {
+    "internal_assessment": "Optimizing L2 PARTICIPATE — I am unemployed with $69,449 left and a burn rate of $7,382/month. That is 9.4 months of runway, but it is not infinite. The municipal risk management contact is the warmest lead I have: a budget review is underway, they engaged with me as a peer, and the RoboRide licensing exposure angle is something only I can speak to from inside the insurance sector. I need to convert that warm conversation into a scheduled meeting or a defined next step before the momentum dissipates. Separately, Priya's intelligence that insurtech firms lack risk-management bench depth is directly actionable — I should identify and contact two of those firms this month. The CRMP cert continues in background. This is not a month to be passive. My savings are real but the clock is running.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Call the municipal risk management contact directly — by name, by phone — and ask for a 30-minute scheduled meeting this month. Frame it specifically: I want to walk through the RoboRide licensing exposure data I have compiled from regional policy cancellations. Position this as a briefing they can use in their budget review, not as a job inquiry. The goal is to get in the room. A budget review in progress is a hiring signal. I am not going to wait for a posting.",
+        "target_agent": null,
+        "resources_involved": "Time and reputational capital from the relationship built in tick 12. No financial cost.",
+        "reasoning": "This is my strongest active lead. The contact engaged substantively last tick, acknowledged a shifting risk profile, and referenced a budget review. That is as close to an open door as I am going to get in this market. Waiting for a job posting is how this opportunity dies. I have specific, current, relevant data they can use. I need to be the person who brings it to them in person."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Research and identify the two insurtech firms where Priya has applied. Contact each directly — not via job board, but by finding the risk or compliance team lead and sending a brief, specific note: who I am, what I know about the regional disruption, and why risk management expertise is the gap insurtech companies are not filling fast enough. Ask for a 20-minute conversation. These are not cold calls — Priya's intelligence tells me the bench is thin, which means there is a real gap I can speak to.",
+        "target_agent": "insurance_agent_priya",
+        "resources_involved": "Follow-up with Priya to get firm names (if she is willing to share). My time and existing risk expertise as signal.",
+        "reasoning": "Priya told me something useful: neither insurtech firm she applied to has a strong risk-management bench. That is not just her problem — it is an opportunity for me. She is applying for agent-level roles. I can position for a risk management or compliance function these firms are likely underinvesting in precisely because they came up in tech, not insurance. The intelligence is free; I just have to act on it before it ages."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Continue CRMP certification — advance through the commercial fleet risk and liability transfer module. This month's coursework is directly relevant to the municipal risk management conversation: the city's exposure on RoboRide licensing is a fleet liability question. Having module-level credential depth on this exact topic when I walk into that meeting is a concrete differentiator.",
+        "target_agent": null,
+        "resources_involved": "6-8 hours of study time this week. CRMP program fees already paid.",
+        "reasoning": "Certification progress compounds. I am at 40% and every module I finish narrows the credential gap. The commercial fleet liability content is also immediate prep for the municipal meeting — this is not abstract studying, it is applied preparation."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "The municipal contact engaged — that means something — but engaged is not hired, and I have nine months of savings left to convert a warm conversation into a paycheck."
+  }
+}

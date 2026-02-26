@@ -1,5 +1,5 @@
 {
-  "tick": 11,
+  "tick": 13,
   "messages": [
     {
       "type": "AMBIENT",
@@ -14,84 +14,12 @@
       "content": "Auto sector revenue index: 79 (baseline: 100). Foot traffic and sales are somewhat down."
     },
     {
-      "type": "DIRECT_IMPACT",
-      "content": "Business closing: Carlos Ruiz \u2014 have the real conversation with sarah kim \u2014 not the senior-mechanic version where i perform stability. tell her what i actually know: rick called me, my floor is in the tier-one group for the consolidation, and the service technicians at the closed location are getting transfer offers before any external hiring happens. she should know this. i also tell her that she has named my contacts correctly \u2014 i do have names at regional ev service centers and fleet operators, and i give them to her directly. specifically: two regional fleet maintenance contacts i have been building toward through the certification network, and one ev dealership within commuting range that is actively staffing certified technicians. i also tell her honestly: being ev-certified changes her options whether she stays at this shop or goes. i am scared too about what the full consolidation means for our floor. the fear is information, not prophecy."
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "Business closing: Carlos Ruiz \u2014 have a real conversation with elena. tell her the full picture \u2014 not just the outline she has from when i mentioned rick's call, but the actual weight of it: i am tier-one in the consolidation, which means my job is likely secure for this phase, but the service technicians from the closed location are being transferred to my floor, which changes the social and professional environment i work in. some of those people are people i know. and the longer-term question \u2014 whether this consolidation is a one-time restructuring or the beginning of a deeper contraction \u2014 is not one i can answer yet. i also tell her where the training is: six months in, four to go, and at completion i will have a credential that does not depend on any single employer. she deserves to know the full picture. i have been managing what she knows and calling it protection."
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "Business closing: Zoe Martinez \u2014 close at least one paying social media client this week. the target is betty kowalski's diner first - she is in my inbox, she is stressed and making changes, she is attended by both my network and community organizers. i walk in this week, not call. i sit down when it is not rush hour. i say directly: spending is down 70% from baseline, foot traffic is soft, and i can maintain a humanly present social media account for your diner for $120/month. one post per day, community-focused tone, visible and warm. i will show her my tiktok from tick 1 as proof of my voice. if betty says no or needs time, i walk to the next business on auto row the same day. i do not leave without a yes or a firm next step from at least one business."
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "Business closing: Zoe Martinez \u2014 register for the roboride delivery partner program this week. i have been investigating this since the residential delivery expansion was announced. investigating ends this tick. i go to the app, find the delivery partner registration, complete the application, and submit it. i am a last-mile layer - i deliver the final block on a bicycle after the robotaxi brings the package close. i target 15-20 hours per week of delivery work scheduled around the cert coursework (tuesday/thursday evenings and saturday mornings are off-limits). target income: $400-500/month from delivery shifts."
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "New venture: Zoe Martinez \u2014 respond to sarah kim's outreach with genuine presence, not just politeness. she reached out to me as a peer navigating the same transition from a different angle. i tell her honestly where i am: working on the roboride delivery partnership registration, coursera cert at 22%, zero savings but still moving forward. if the conversation opens into the infrastructure frame she's building - that bike last-mile workers and ev technicians are both part of what roboride requires - i engage that frame honestly. i am not above learning from someone who has a clearer view of the maintenance side."
-    },
-    {
       "type": "SOCIAL",
       "content": "People around you are stressed: Rick Tanner, Angela Wright. The mood is tense."
     },
     {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Begin drafting the 90-day Economic Resilience Fram..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Connect Angela Wright directly to the retraining g..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Respond to Lisa Freeman's financial triage navigat..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Re-engage the strongest of the three external empl..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Follow through on the promise I made to Tom Bradle..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Carlos Ruiz (Master Mechanic): Have the real conversation with Sarah Kim \u2014 not the senior-mechanic version where I perform stability. Tell her what I actually know: Rick called me, my floor is in the tier-one group for the consolidation, and the service technicians at the closed location are getting transfer offers before any external hiring happens. She should know this. I also tell her that she has named my contacts correctly \u2014 I do have names at regional EV service centers and fleet operators, and I give them to her directly. Specifically: two regional fleet maintenance contacts I have been building toward through the certification network, and one EV dealership within commuting range that is actively staffing certified technicians. I also tell her honestly: being EV-certified changes her options whether she stays at this shop or goes. I am scared too about what the full consolidation means for our floor. The fear is information, not prophecy."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Carlos Ruiz (Master Mechanic): Call Miguel Hernandez back. He is ready \u2014 the word-of-mouth confirms he is planning to make contact this tick. I pick up the phone and I ask him what he is actually facing, not what I assume he is facing: is the car wash seeing fewer vehicles? Is his employer talking about cuts? What does his runway look like? If he asks about the certification \u2014 I tell him what the EVT Level 2 cost, how long it takes, and whether I think it is worth it. I do not over-promise. I also tell him honestly about the bike delivery gig work I see from the inbox: it is survival money, not a path. The path is the credential or the community college or both. I am not going to pretend a bike courier making $400-600 a month is the same thing as being a certified EV technician. But I also am not going to tell him what to do. He asked me to call him. I call him."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "You heard directly from Carlos Ruiz (Master Mechanic): Have a real conversation with Elena. Tell her the full picture \u2014 not just the outline she has from when I mentioned Rick's call, but the actual weight of it: I am tier-one in the consolidation, which means my job is likely secure for this phase, but the service technicians from the closed location are being transferred to my floor, which changes the social and professional environment I work in. Some of those people are people I know. And the longer-term question \u2014 whether this consolidation is a one-time restructuring or the beginning of a deeper contraction \u2014 is not one I can answer yet. I also tell her where the training is: six months in, four to go, and at completion I will have a credential that does not depend on any single employer. She deserves to know the full picture. I have been managing what she knows and calling it protection."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Register for the RoboRide delivery partner program..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Respond to Sarah Kim's outreach with genuine prese..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Nicole Washington is making some kind of change \u2014 something about Actively verify my employment status at Millfield ..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Nicole Washington is making some kind of change \u2014 something about Maintain the $350 monthly savings deposit regardle..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Nicole Washington is making some kind of change \u2014 something about Respond to Rachel Green's $800 pilot proposal dire..."
-    },
-    {
       "type": "OUTCOME",
-      "content": "You Advance EVT Level 1 into the final major module before the certification assessment \u2014 integrated vehicle systems and end-to-end diagnostic workflows. Log at least 10 study hours this month. The advanced diagnostics and fault code module is complete. This module is the synthesis section that connects everything \u2014 hardware, software, charging infrastructure, battery management \u2014 into the kind of holistic diagnostic workflow that fleet operators actually hire for. Completing this module by end of tick brings me to 65-70% completion, leaving the final assessment as the only remaining step.. Savings grew by $249. "
+      "content": "Sarah completed the integrated systems module content and shifted into assessment prep, bringing EVT Level 1 to approximately 68% \u2014 the certification assessment is now the only remaining step and she can credibly tell anyone that it is weeks away, not months. The fleet operator call using Carlos's name landed well: the contact at Millfield Regional Fleet Service spent 22 minutes with her, confirmed they do hire EVT Level 1-certified techs for entry diagnostic roles, and said to follow up when the cert is in hand. Zoe confirmed that RoboRide's delivery partner onboarding asks about vehicle maintenance access but does not yet have a regional service partnership \u2014 information Sarah filed as a future signal. She introduced herself to one of the transferred technicians, a woman named Diane who had been standing at the edge of the break room, and showed her where the supply cabinet was \u2014 a small thing that cost nothing."
     }
   ]
 }

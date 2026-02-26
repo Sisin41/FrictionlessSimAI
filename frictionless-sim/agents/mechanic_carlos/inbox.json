@@ -1,5 +1,5 @@
 {
-  "tick": 11,
+  "tick": 13,
   "messages": [
     {
       "type": "AMBIENT",
@@ -11,7 +11,7 @@
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 26 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 25 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
@@ -22,88 +22,12 @@
       "content": "Auto sector revenue index: 79 (baseline: 100). Foot traffic and sales are somewhat down."
     },
     {
-      "type": "DIRECT_IMPACT",
-      "content": "Business closing: Zoe Martinez \u2014 close at least one paying social media client this week. the target is betty kowalski's diner first - she is in my inbox, she is stressed and making changes, she is attended by both my network and community organizers. i walk in this week, not call. i sit down when it is not rush hour. i say directly: spending is down 70% from baseline, foot traffic is soft, and i can maintain a humanly present social media account for your diner for $120/month. one post per day, community-focused tone, visible and warm. i will show her my tiktok from tick 1 as proof of my voice. if betty says no or needs time, i walk to the next business on auto row the same day. i do not leave without a yes or a firm next step from at least one business."
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "Business closing: Zoe Martinez \u2014 register for the roboride delivery partner program this week. i have been investigating this since the residential delivery expansion was announced. investigating ends this tick. i go to the app, find the delivery partner registration, complete the application, and submit it. i am a last-mile layer - i deliver the final block on a bicycle after the robotaxi brings the package close. i target 15-20 hours per week of delivery work scheduled around the cert coursework (tuesday/thursday evenings and saturday mornings are off-limits). target income: $400-500/month from delivery shifts."
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "New venture: Zoe Martinez \u2014 respond to sarah kim's outreach with genuine presence, not just politeness. she reached out to me as a peer navigating the same transition from a different angle. i tell her honestly where i am: working on the roboride delivery partnership registration, coursera cert at 22%, zero savings but still moving forward. if the conversation opens into the infrastructure frame she's building - that bike last-mile workers and ev technicians are both part of what roboride requires - i engage that frame honestly. i am not above learning from someone who has a clearer view of the maintenance side."
-    },
-    {
       "type": "SOCIAL",
       "content": "People around you are stressed: Angela Wright. The mood is tense."
     },
     {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Begin drafting the 90-day Economic Resilience Fram..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Connect Angela Wright directly to the retraining g..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Respond to Lisa Freeman's financial triage navigat..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Sarah Kim is making some kind of change \u2014 something about Have the real conversation with Carlos. Receive th..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Sarah Kim is making some kind of change \u2014 something about Begin concrete post-certification landscape mappin..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Sarah Kim is making some kind of change \u2014 something about Check in with Zoe Martinez \u2014 not from authority, a..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about Submit the $2,500 workforce retraining grant appli..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about Submit a fourth job application this tick \u2014 specif..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Submit two additional targeted job applications th..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Reach out to Betty Kowalski directly \u2014 phone call ..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Reach out to Carlos Ruiz directly this week. He's ..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Register for the RoboRide delivery partner program..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Respond to Sarah Kim's outreach with genuine prese..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Nicole Washington is making some kind of change \u2014 something about Actively verify my employment status at Millfield ..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Nicole Washington is making some kind of change \u2014 something about Maintain the $350 monthly savings deposit regardle..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Nicole Washington is making some kind of change \u2014 something about Respond to Rachel Green's $800 pilot proposal dire..."
-    },
-    {
       "type": "OUTCOME",
-      "content": "You Continue EVT Level 2 certification \u2014 month six of ten. This month the coursework moves into vehicle-to-grid (V2G) integration systems and advanced fleet telematics. The material is increasingly relevant to fleet operations rather than individual vehicle service \u2014 which is the sector that will grow fastest as RoboRide expands. Log at least 10 study hours across evening and weekend sessions. Show up after a full day at the shop even when the fatigue is real. At 60% completion by end of this month, the credential is in the final third. The finish line is visible.. Savings grew by $193. "
+      "content": "Carlos logged 11 study hours in the fleet telematics and remote diagnostics module, reaching 60% completion \u2014 the credential is now in its final third and the material is directly applicable to the commercial fleet contacts he has been building. The conversation with Elena went better than he feared: she took the full picture steadily, asked practical questions about the certification timeline, and said she had known more than he thought she was sharing. That honesty released something for both of them. Angela Wright responded warmly to Carlos's outreach about the transferred technicians, said she appreciated him thinking of them, and mentioned she would be glad to have coffee \u2014 the relationship moved meaningfully past 0.40 trust. Sarah confirmed she had made the fleet operator call using Carlos's name and it went well, which Carlos registered as a real outcome of something he had invested in."
     }
   ]
 }

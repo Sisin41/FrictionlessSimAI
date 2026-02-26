@@ -1,5 +1,5 @@
 {
-  "tick": 11,
+  "tick": 13,
   "messages": [
     {
       "type": "AMBIENT",
@@ -10,60 +10,12 @@
       "content": "You notice more robotaxis on the streets. About 7% of people seem to be using them regularly."
     },
     {
-      "type": "DIRECT_IMPACT",
-      "content": "Business closing: Stephanie Morris \u2014 call amir patel today \u2014 by phone, not email. close two things in a single call: (1) confirm the valuation fee for the tick 8 site visit. the scope was two hours on-site plus a written scenario summary \u2014 i invoice $350 for this, which is below market but appropriate given that this is a client i am trying to retain through a difficult decision. i do not negotiate on the fee; i present it as fair and final. (2) ask directly: based on the four-path analysis i delivered, which scenario is he leaning toward, and does he want me in an active advisory or listing role going forward? if he wants to pursue an adaptive reuse sale, i want the listing. i make that clear."
-    },
-    {
-      "type": "DIRECT_IMPACT",
-      "content": "Business closing: Stephanie Morris \u2014 make contact with patricia hawkins's office \u2014 or rick tanner directly, if i can reach him \u2014 about the dealership location being closed by end of q2. this is a large-footprint commercial property with showroom build-out, service bay infrastructure, and visibility on a major corridor. the buyer categories for this type of property are specific: delivery logistics operators, ev fleet servicing, light industrial conversion. i have been tracking this category since tick 0. i call tanner's office and introduce myself as the commercial agent who prepared the auto row market brief \u2014 the one that called this disruption before it was publicly confirmed \u2014 and ask for fifteen minutes to discuss the disposition strategy for the location. i do not pitch a listing on the first call. i ask to be in the conversation."
-    },
-    {
       "type": "SOCIAL",
       "content": "People around you are stressed: Betty Kowalski. The mood is tense."
     },
     {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about Submit the $2,500 workforce retraining grant appli..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about Submit a fourth job application this tick \u2014 specif..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Call the RoboRide local partnership coordinator fo..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Submit two additional targeted job applications th..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Reach out to Betty Kowalski directly \u2014 phone call ..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Call Betty Kowalski this afternoon \u2014 after the tas..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Make contact with Patricia Hawkins's office \u2014 or R..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Begin drafting an updated auto row property valuat..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Grace Okafor is making some kind of change \u2014 something about Send a brief, direct update to Robert Jackson. One..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Grace Okafor is making some kind of change \u2014 something about Send a brief, warm thank-you to Denise Williams ac..."
-    },
-    {
       "type": "OUTCOME",
-      "content": "You Actively verify my employment status at Millfield General this week. If hours were reduced or a scheduling change created a gap, I need to know the actual situation immediately. Contact my charge nurse or the staffing office directly - not passively. Confirm current schedule, check for any administrative changes to my position, and document the status clearly. If I am still employed but in a slow month, I know my actual runway. If something changed, I need to know before the next paycheck cycle.. Savings dropped by $4,630. "
+      "content": "Nicole called her charge nurse Linda Reyes directly and confirmed that her separation was processed as a reduction-in-force, which means recall rights apply \u2014 but HR administrative processing will take two to three weeks before she is back on the official schedule. The charge nurse confirmed the transitional care unit has open shifts and put Nicole's name on the internal recall list personally. Nicole then called Millfield Staffing Solutions and spoke with a placement coordinator named Andrea Torres, who confirmed two available per-diem RN floor coverage shifts this week at $52/hour \u2014 one Wednesday, one Friday \u2014 generating approximately $832 in bridge income before the recall is processed. The per-diem shifts will not cover the full monthly burn but they extend runway, keep her credential active, and put her back on a hospital floor while the formal rehire resolves."
     }
   ]
 }

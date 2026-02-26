@@ -1,5 +1,5 @@
 {
-  "tick": 11,
+  "tick": 13,
   "messages": [
     {
       "type": "AMBIENT",
@@ -18,20 +18,8 @@
       "content": "People around you are stressed: Rick Tanner. The mood is tense."
     },
     {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Re-engage the strongest of the three external empl..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Follow through on the promise I made to Tom Bradle..."
-    },
-    {
-      "type": "WORD_OF_MOUTH",
-      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Identify and make direct contact with whoever has ..."
-    },
-    {
       "type": "OUTCOME",
-      "content": "You Follow up on the Millfield Community Credit Union cold outreach from tick 9. Send a brief, professional follow-up note \u2014 not a second pitch, a check-in: did you receive my message, is there a person I should speak with about small business lending needs, and can I schedule a 20-minute conversation? This follow-up goes out within the first week of the tick. I do not wait two ticks for a response that may not come.. Savings dropped by $6,961. "
+      "content": "The Millfield Community Credit Union phone call from tick 11 finally produced a live signal: the small business lending manager scheduled a 20-minute exploratory call with David Chen for next week \u2014 not a job interview, but a real conversation with a named contact. Chen marked the lead warm and prepared the three-minute disruption-period pitch around the SBA credential. He completed four focused study sessions pushing the coursework from 75% to 90%, and sent two targeted outreach messages \u2014 one to a regional CDFI active in Millfield and one to a community development bank that had publicly engaged with the auto sector contraction \u2014 each leading with the scenario modeling work and naming the credential explicitly. He also sent Linda Park the three-scenario auto loan contraction document; she responded positively and offered to share her policy cancellation data in return, sustaining the peer exchange relationship."
     }
   ]
 }

@@ -1,0 +1,34 @@
+{
+  "tick": 13,
+  "agent_id": "council_member",
+  "agent_name": "Maria Santos",
+  "response": {
+    "internal_assessment": "I am optimizing L2 PARTICIPATE — I am unemployed going on eight months and my savings are down to $46,036 with $3,917 going out the door every single month. At this burn rate I have roughly eleven months left before I am in genuine L0 territory. The call with Dr. Kevin Marsh is not optional anymore. It is the most important thing I am doing this month. Everything else — the framework release, the grant threshold fix, the website corrections — those are L6 TRANSCEND work, community purpose work, and they matter. But they do not pay the mortgage. I built the retraining fund. I spent months as its advocate. Now I need to translate that into an actual income source before my own finances become the story.",
+    "chosen_actions": [
+      {
+        "type": "COMMITMENT",
+        "description": "Take the scheduled call with Dr. Kevin Marsh, Workforce Program Director at Millfield Community College, and push for a concrete offer. I am not calling to 'explore' anything. I am calling to negotiate. My ask: a paid advisory role — minimum $2,500 per month — to serve as the external policy architect for the community college's workforce transition programming, specifically the retraining tracks tied to the municipal fund I created. I bring grant design expertise, council relationships, and the retraining fund authorization that makes MCC's programs fundable. If he counters with an unpaid advisory role, I decline. If he offers an instructional stipend, I counter. I need a signed letter of agreement this month, not a second call next month.",
+        "target_agent": null,
+        "resources_involved": "Potential monthly income of $2,500+ to close the zero-income gap; no upfront cost beyond my time",
+        "reasoning": "This is the first credible income lead in eight months. Dr. Marsh responded to my email the same day and scheduled a call — that is not a courtesy call, that is someone who needs what I have. My loss aversion bias would have me undersell to secure something, anything. I am going to fight that instinct and ask for what the role is actually worth. If I undersell now I establish a floor I cannot raise later."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Formally present and release the completed Economic Resilience Framework to the full town council and the public. Schedule the public presentation session that was promised at the task force. The framework is finished — four sections, specific metrics, the adaptive reuse zoning recommendation for the Mobility and Logistics Transition Zone on auto row, the grant threshold revision recommendation (15% to 10% revenue decline, with sole proprietor eligibility expansion). This is not a press event. This is a governance deliverable. I promised it. I deliver it. The council record shows I produced what I committed to produce.",
+        "target_agent": null,
+        "resources_involved": "Time and political capital; the framework document already exists",
+        "reasoning": "The spending index is now 25 and unemployment is 50%. The small business grant criteria I set at 15% revenue decline was too high from the beginning — Betty Kowalski's testimony confirmed it, and I acknowledged it in my own reflection. The framework presentation is the vehicle for getting that threshold lowered through a formal council vote. I cannot fix the grant program by myself. I need the council to vote on the revision. This presentation initiates that process."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Implement the two specific website fixes Lisa Freeman identified: route the grant committee inquiry line to Nadia Osei's direct phone number on the municipal website, and add a Spanish-language contact option for the program. These are thirty-minute fixes with real access consequences for the people the program is supposed to serve.",
+        "target_agent": null,
+        "resources_involved": "Minimal — a call to the municipal webmaster and a call to Nadia Osei to confirm she is ready to receive inquiries directly",
+        "reasoning": "I committed to Lisa Freeman specifically that I would make these two fixes. She named them, I wrote them down, and she is a person whose trust I want to keep. More practically: if people cannot find the program or cannot call in Spanish, they do not apply. Enrollment and utilization numbers matter for the framework metrics I just published. I do not get to claim the program is working if I have not fixed the known access barriers."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "builder",
+    "inner_monologue": "The framework is done, the call with Dr. Marsh is this week, and I am spending my savings to fix a town that does not know it is paying me to save it — I need to fix the income problem before I start to resent the work."
+  }
+}
