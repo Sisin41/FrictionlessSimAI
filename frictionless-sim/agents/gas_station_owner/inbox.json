@@ -1,17 +1,17 @@
 {
-  "tick": 13,
+  "tick": 14,
   "messages": [
     {
-      "type": "AMBIENT",
-      "content": "Ongoing: RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership wit"
+      "type": "CAPABILITY_FACT",
+      "content": "RoboRide announces 24/7 coverage, 5 minute average wait, $0.10 per mile. Autonomous delivery service also launched. Second robotaxi competitor enters Millfield market."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 50%."
+      "content": "Local unemployment rising. Employment rate: 47%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 25 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 29 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
@@ -19,15 +19,55 @@
     },
     {
       "type": "SECTOR_DATA",
-      "content": "Auto sector revenue index: 79 (baseline: 100). Foot traffic and sales are somewhat down."
+      "content": "Auto sector revenue index: 75 (baseline: 100). Foot traffic and sales are somewhat down."
     },
     {
       "type": "SOCIAL",
       "content": "People around you are stressed: Angela Wright, Tom Bradley, Betty Kowalski. The mood is tense."
     },
     {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Contact the fleet operator who Sarah Kim reached o..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Schedule coffee with Angela Wright. She offered. S..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Sarah Kim is making some kind of change \u2014 something about After sitting for the assessment \u2014 regardless of t..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Tom Bradley is making some kind of change \u2014 something about Execute the scheduled 20-minute call with Marcus W..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Tom Bradley is making some kind of change \u2014 something about Check in briefly with Priya Sharma to share that t..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Walk into Sandra Briggs's office first thing and c..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Follow up with Amir Patel to confirm he has submit..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Make initial contact with the first of the two reg..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Respond to Kevin O'Brien's follow-up request for c..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Call Carlos Ruiz and let him know the delivery con..."
+    },
+    {
       "type": "OUTCOME",
-      "content": "Stephanie Morris gave Amir the honest answer: she found one party genuinely interested in the property \u2014 a regional last-mile delivery operator \u2014 but their ceiling was $255,000, well below the $300,000 floor Amir had set. No buyer materialized at the threshold he required. Amir honored his own framework: he closed the sale-inquiry path formally, thanked Stephanie, and confirmed the $350 valuation fee for payment. He called Kevin O'Brien at the bank and reactivated the $12,000 capital improvement loan; Kevin confirmed the rate and terms are still valid and scheduled a document-signing appointment for next week. Priya Sharma provided a business interruption and general liability quote \u2014 around $280 per month for combined coverage \u2014 and Amir committed to starting the policy, finally closing an insurance gap that has been open for the entire simulation. Betty Kowalski confirmed she had heard nothing from logistics or delivery operators scouting Auto Row properties, which was consistent with Stephanie's finding that the buyer demand is thinner than the thesis required."
+      "content": "You Go to the bank and sign the $12,000 capital improvement loan documents with Kevin O'Brien. Lock in the rate and terms that were confirmed at tick 12. Leave with a signed agreement, a disbursement timeline, and a clear installation window for the two Level 2 EV chargers. This is not a meeting to gather more information. This is a closing. After signing, call ChargePoint directly to schedule a site assessment and confirm the revenue-share partnership structure \u2014 I need their first-hand terms, not the bank's framing of them.. Savings dropped by $4,152. "
     }
   ]
 }

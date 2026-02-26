@@ -1,17 +1,17 @@
 {
-  "tick": 13,
+  "tick": 14,
   "messages": [
     {
-      "type": "AMBIENT",
-      "content": "Ongoing: RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership wit"
+      "type": "CAPABILITY_FACT",
+      "content": "RoboRide announces 24/7 coverage, 5 minute average wait, $0.10 per mile. Autonomous delivery service also launched. Second robotaxi competitor enters Millfield market."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 50%."
+      "content": "Local unemployment rising. Employment rate: 47%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 25 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 29 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
@@ -22,16 +22,100 @@
       "content": "Robotaxi adoption: 7%. "
     },
     {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: Denise Williams \u2014 proactively reach out to grace okafor with a brief, specific message. her intelligence that 'they called two more people from my program this week' is a direct indicator that the millfield general process is moving. i send her a short note \u2014 not a request for status, not pressure \u2014 but a professional peer check-in: 'saw your update. wanted you to know i am still actively interested and available. if anything surfaces where a word from you would be useful, i am grateful for it.' i am not asking her to do anything. i am keeping the connection warm and making sure she knows i am still in the race. grace is my highest-trust contact with direct sight lines into that institution. this is not networking performance \u2014 this is relationship maintenance with someone who has already demonstrated she will go to bat for me."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: Denise Williams \u2014 continue the retraining trajectory: now that the logistics hub application is submitted and the millfield general process is live, focus this month's professional development time on deepening familiarity with healthcare facilities compliance frameworks \u2014 specifically joint commission standards for hospital infrastructure and osha requirements for healthcare environments. these are the credential domains that differentiate facilities managers inside hospital systems from general operations managers. i have not claimed healthcare-specific credentials because i do not have them. but i can demonstrate i have begun to learn the landscape \u2014 and if i reach a second interview or an offer stage, i need to be able to speak to this without bluffing. this is not resume padding. it is targeted preparation for a specific role that appears within reach."
+    },
+    {
       "type": "SOCIAL",
       "content": "People around you are stressed: Betty Kowalski. The mood is tense."
     },
     {
-      "type": "SOCIAL",
-      "content": "Some people seem optimistic: Mark Thompson."
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Tamika Jefferson is making some kind of change \u2014 something about Reach out to Devon Clarke through Angela Wright's ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Tamika Jefferson is making some kind of change \u2014 something about Follow up with the two business owners who sent DM..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Tamika Jefferson is making some kind of change \u2014 something about Second-touch follow-up on the specialty pharmacy o..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Contact the fleet operator who Sarah Kim reached o..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Schedule coffee with Angela Wright. She offered. S..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Respond to Kevin O'Brien's follow-up request for c..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Betty Kowalski is making some kind of change \u2014 something about Call Carlos Ruiz and let him know the delivery con..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Proactively reach out to Grace Okafor with a brief..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Reach out to Betty Kowalski \u2014 not about jobs, not ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that James Patterson is making some kind of change \u2014 something about Submit the staged application to the regional heal..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that James Patterson is making some kind of change \u2014 something about Reach out to Howard Liu with a genuine check-in \u2014 ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Call Harold Grant today to confirm the formal star..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Send Lisa Freeman a brief written note with my con..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Text Carlos Ruiz to thank him for the Concord Lane..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Deliver the written buyer profile analysis to Rick..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Request a formal listing agreement from Amir Patel..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Meet Betty Kowalski for coffee as agreed. She repo..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Respond personally to the three auto row property ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Grace Okafor (Part-time Rideshare Driver / Nursing Student): Attend the CareRide of the Valley onboarding orientation with Marcus Webb. Complete the background check, submit all required documentation \u2014 NEMT certification, vehicle inspection, clean driving record \u2014 and sign the route agreement for the new Millfield General route. Get a start date confirmed in writing. This is the commitment I have been building toward since tick 9."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Grace Okafor (Part-time Rideshare Driver / Nursing Student): Send a brief text to Robert Jackson: Marcus Webb at CareRide called me directly this week. Orientation is scheduled. Your intelligence paid off. Thank you. No ask attached \u2014 just closing the loop on a relationship that has been genuinely mutual across nine ticks."
     },
     {
       "type": "OUTCOME",
-      "content": "Robert made all three calls Monday morning. CareRide of the Valley confirmed no openings for at least 60 days \u2014 a clear no. St. Clement's patient transport coordinator did not pick up and did not return the call by end of week \u2014 also effectively closed. But Millfield Medical Transport's dispatcher, a woman named Carla, called back Tuesday afternoon: a driver had given two weeks' notice and they needed a credentialed replacement. She asked Robert to come in Wednesday for a 20-minute meeting with the transport director, Dave Herrera. Robert walked out of that meeting with a conditional offer \u2014 part-time to start at 20 hours per week, $18/hour, pending a clean background check result expected within 72 hours. He accepted on the spot. Separately, Robert called the Millfield workforce development office and learned his Maria Santos retraining grant application had been approved in month 8; a $2,500 check was sitting in the disbursement queue waiting for him to confirm his mailing address \u2014 a 10-minute call resolved 10 months of ambiguity. Dorothy Chen called Thursday evening and said the honest thing about the RoboRide asymmetry; Robert told Marcus Friday in a five-minute kitchen conversation that the job change was finally happening."
+      "content": "You Formally begin employment at Millfield Medical Transport. Confirm the background check cleared, accept the finalized onboarding paperwork from Dave Herrera, and complete the first week of part-time NEMT shifts at 20 hours per week at $18/hour. Express to Carla and Dave that I am interested in expanding to full-time hours as openings arise \u2014 I want that on record early, professionally, without pressure. I am not a probationary employee hoping not to be noticed. I am a credentialed professional making myself indispensable from day one.. Savings grew by $387. "
     }
   ]
 }

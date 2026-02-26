@@ -1,25 +1,69 @@
 {
-  "tick": 13,
+  "tick": 14,
   "messages": [
-    {
-      "type": "AMBIENT",
-      "content": "Ongoing: RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership wit"
-    },
     {
       "type": "OBSERVATION",
       "content": "You notice more robotaxis on the streets. About 7% of people seem to be using them regularly."
     },
     {
       "type": "SECTOR_DATA",
-      "content": "Auto sector revenue index: 79 (baseline: 100). Foot traffic and sales are somewhat down."
+      "content": "Auto sector revenue index: 75 (baseline: 100). Foot traffic and sales are somewhat down."
     },
     {
       "type": "SOCIAL",
       "content": "People around you are stressed: Rick Tanner, Angela Wright. The mood is tense."
     },
     {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Take the scheduled call with Dr. Kevin Marsh, Work..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Formally present and release the completed Economi..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Implement the two specific website fixes Lisa Free..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Call the municipal risk management contact directl..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Research and identify the two insurtech firms wher..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Carlos Ruiz (Master Mechanic): Contact the fleet operator who Sarah Kim reached on my behalf. Follow up directly \u2014 not through Sarah, in my own name. Introduce myself properly, reference the call, ask whether there is value in meeting to understand what their EV service needs look like as their fleet expands. This is not a job application. It is a professional introduction. The difference matters to how I carry myself going in."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Carlos Ruiz (Master Mechanic): Schedule coffee with Angela Wright. She offered. She is stressed. I am not going to manage this relationship from a distance \u2014 I am going to show up as a person, not as a professional contact. Bring nothing to sell. Ask real questions about how she is doing and what she is navigating. Let whatever professional value exists in the connection emerge from the human conversation, not from an agenda I carry in."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Miguel Hernandez is making some kind of change \u2014 something about Send the professional introduction email to the fl..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Miguel Hernandez is making some kind of change \u2014 something about Follow through on the Financial Triage Navigator i..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Respond to all six DMs from the TikTok within 48 h..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Nicole Washington is making some kind of change \u2014 something about Call Andrea Torres at Millfield Staffing Solutions..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Nicole Washington is making some kind of change \u2014 something about Contact charge nurse Linda Reyes at Millfield Gene..."
+    },
+    {
       "type": "OUTCOME",
-      "content": "Sarah completed the integrated systems module content and shifted into assessment prep, bringing EVT Level 1 to approximately 68% \u2014 the certification assessment is now the only remaining step and she can credibly tell anyone that it is weeks away, not months. The fleet operator call using Carlos's name landed well: the contact at Millfield Regional Fleet Service spent 22 minutes with her, confirmed they do hire EVT Level 1-certified techs for entry diagnostic roles, and said to follow up when the cert is in hand. Zoe confirmed that RoboRide's delivery partner onboarding asks about vehicle maintenance access but does not yet have a regional service partnership \u2014 information Sarah filed as a future signal. She introduced herself to one of the transferred technicians, a woman named Diane who had been standing at the edge of the break room, and showed her where the supply cabinet was \u2014 a small thing that cost nothing."
+      "content": "You Schedule and sit for the EVT Level 1 certification assessment. This is the only remaining step \u2014 all modules are complete, integrated systems content is done, and I have been in assessment prep since completing the final module last tick. I will book the exam date this week, block the study time over the next two weekends to review fault code simulation scenarios and charging infrastructure diagnostics, and take the assessment before the end of the month. Passing this brings the certification into my hands and moves me from candidate to credentialed.. Savings grew by $249. "
     }
   ]
 }

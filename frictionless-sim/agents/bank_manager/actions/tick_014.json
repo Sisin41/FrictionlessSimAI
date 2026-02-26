@@ -1,0 +1,34 @@
+{
+  "tick": 14,
+  "agent_id": "bank_manager",
+  "agent_name": "David Chen",
+  "response": {
+    "internal_assessment": "Optimizing L2 PARTICIPATE. I am unemployed at tick 14, burning $6,961 per month, with roughly 17 months of runway left. The credit union call happened last tick and I do not yet know the outcome — but I know how these conversations go. Either they gave me a concrete next step or they were polite and noncommittal. I need to follow up within the week to find out which it is and convert ambiguity into either a second meeting or a pivot to another institution. The CDFI and community development bank outreach from tick 12 has had two ticks to produce a response — I should check those leads as well. The SBA 7(a) coursework should be at or past 100% completion now; if the certificate is in hand, I lead with it. Kevin O'Brien's Amir Patel situation is interesting — he is closing a business loan and still signaling he needs my guidance to navigate Sandra's expectations. That relationship is warm and I should use it, not just maintain it: Kevin is evidence that I built and trained someone who is now succeeding in exactly the product line I identified. I can articulate that in interviews. My status anxiety is moderate (0.42) and I have 2 dependents — the pressure is real but not yet crisis-level. I need to keep moving deliberately without crossing into panic-mode spray-and-pray applications that would undermine the positioned pitch I have been building for months.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Follow up with the Millfield Community Credit Union small business lending manager within 48 hours of the tick 13 call. Send a brief, specific thank-you message: acknowledge the conversation, reference the one concrete thing they said that resonated most, and ask directly for the next step they indicated — whether that is a second meeting, an introduction to their lending committee, or a named referral. If they gave me a referral name, I contact that person this week. If they were noncommittal, I restate my ask in one sentence: I would value a 30-minute follow-up call with you or anyone on your team responsible for commercial lending staffing decisions. I do not let this lead go cold. The SBA 7(a) certificate is in the subject line.",
+        "target_agent": null,
+        "resources_involved": "Time and professional credibility. No cash cost. SBA 7(a) completion certificate as supporting credential.",
+        "reasoning": "The credit union call was the highest-investment action of the past three ticks. Failing to follow up within 48-72 hours is the single most common way a warm lead dies. My status quo bias will tell me to wait and see if they reach out first — I am not doing that. Loss aversion at 2.5x means the downside of letting this slip is worse than the discomfort of sending one more email."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Contact Kevin O'Brien directly — not as a manager, as a peer and reference. Acknowledge that I saw his work with the Amir Patel loan from a distance and tell him I think what he is doing is exactly right. Then ask him one specific favor: would he be willing to serve as a professional reference for me in any community lending conversations I am having, and specifically would he speak to my role in designing the SBA product analysis that he is now executing? This is not asking him to do something uncomfortable. It is formalizing the reference relationship that has been implicit for months.",
+        "target_agent": "loan_officer",
+        "resources_involved": "Trust capital with Kevin O'Brien (0.57 trust — highest in my network). No financial cost.",
+        "reasoning": "Kevin is succeeding in the product lines I identified and studied. He is living proof of my analysis. A reference from an active practitioner executing the strategy I developed is more valuable than another follow-up email to a cold institution. I have been protecting this relationship carefully — now I need to activate it."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Check the status of the two outreach contacts from tick 12 — the regional CDFI and the community development bank. If either has responded, prioritize a reply or call this week. If neither has responded in two ticks, send a single short follow-up to each: one paragraph, leading with the SBA 7(a) credential completion and one sentence on the scenario modeling work. Do not resend the full pitch. The goal is to get a human response — yes, no, or not yet — before the lead goes completely cold.",
+        "target_agent": null,
+        "resources_involved": "Time. Professional credibility. Two short outreach messages.",
+        "reasoning": "Two ticks of silence from cold outreach contacts is not rejection — it is a crowded inbox. A single brief follow-up with a credential milestone as the hook is appropriate and expected in professional contexts. If I get no response after three ticks total I close those leads and move to new targets. I need to maintain parallel pipeline rather than sequential one-at-a-time contact."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "I made the call last month and it went well enough — now comes the part where most people wait and hope, and I am not most people."
+  }
+}

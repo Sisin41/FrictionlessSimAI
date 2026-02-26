@@ -1,0 +1,41 @@
+{
+  "tick": 14,
+  "agent_id": "council_member",
+  "agent_name": "Maria Santos",
+  "response": {
+    "internal_assessment": "I am optimizing L2 (PARTICIPATE) and secondarily L1 (STABILIZE). My savings are at $42,119 and draining at $3,917/month — I have about 10 months before real crisis, but that clock is running. The MCC advisory call happened last tick and no income materialized. I cannot let that negotiation stall into a second month of inaction. At the same time, I made public commitments: the Economic Resilience Framework is finished and I promised a public presentation. Lisa Freeman is standing in front of the task force with specific data and a $1,200/month ask, and she mentioned me by name. The website fixes take thirty minutes. All three of these are things I said I would do. I do them today. The governance credibility I've built over 14 months is the asset that makes the MCC role worth anything — I cannot let it erode by sitting on a finished deliverable.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Formally present and release the completed Economic Resilience Framework to the full town council and the public. Schedule and hold the public presentation session that was promised at the task force nine ticks ago. The framework is finished — four sections, specific metrics, the adaptive reuse zoning recommendation for the Mobility and Logistics Transition Zone on auto row, the grant threshold revision recommendation (15% to 10% revenue decline with sole proprietor eligibility expansion). This is not a press event. This is a governance deliverable. I present it on the council record, distribute it publicly, and answer questions. I do not give a speech about what I'm going to do. I present the document that exists.",
+        "target_agent": null,
+        "resources_involved": "Time and preparation; public record; council credibility",
+        "reasoning": "This was explicitly promised. The inbox message for this tick says 'formally present and release the completed economic resilience framework.' The framework is done. The only question was when I would deliver it. That answer is now. Every tick I delay after completing the document makes the delivery look political rather than substantive. I have already paid the cost of producing it. The return is in publishing it."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Implement the two specific website fixes Lisa Freeman identified: route the grant committee inquiry line to Nadia Osei's direct phone number on the municipal website, and add a Spanish-language contact option for the program. These are thirty-minute administrative changes. I contact the municipal web administrator today with the specific edits, confirm they are live by end of day, and send Lisa Freeman a direct message confirming it is done.",
+        "target_agent": null,
+        "resources_involved": "Thirty minutes of administrative coordination; no budget required",
+        "reasoning": "Lisa Freeman flagged these at our meeting. I committed to making them. They are access barriers — real people are not finding real programs because of these two missing pieces. Fixing them today takes thirty minutes. Not fixing them would mean I listened to Lisa, nodded, and then did nothing, which is exactly the performance-without-substance failure I am trying not to be. Small fix, real consequence."
+      },
+      {
+        "type": "COMMITMENT",
+        "description": "Follow up directly with Dr. Kevin Marsh at Millfield Community College to close the advisory arrangement. The call happened last tick. I do not wait for him to follow up. I send a specific written message this week: 'Following our call — I am ready to move forward. Attached is a one-page scope of work outlining the advisory role, the $2,500/month compensation, and the deliverables I am committing to: monthly policy review sessions with your workforce transition program staff, grant application review tied to the municipal fund, and a written quarterly policy memo. If this reflects what we discussed, I would like to have a letter of agreement signed before the end of this month.' I am not asking whether he is still interested. I am presenting the document and asking him to sign it. If he needs to modify terms, I am available this week to discuss. The goal is a signed agreement this month, not a third conversation.",
+        "target_agent": "community_college",
+        "resources_involved": "Professional time; outcome would be $2,500/month advisory income against $3,917/month expenses — not full coverage but a 64% offset that extends runway from 10 months to significantly longer",
+        "reasoning": "I am unemployed and draining savings. The MCC role is the one concrete income lead in front of me. Loss aversion is real here — I negotiated hard last tick and got no signed agreement. The risk is letting this drift into a third month of calls while my savings drop another $3,917. The solution is to be the one who closes. I bring the one-page document. I name a deadline. I remove the ambiguity that lets bureaucratic inertia kill a deal that both parties want."
+      },
+      {
+        "type": "ASSOCIATION",
+        "description": "Support Lisa Freeman's request for a formal application for a part-time Financial Triage Navigator position at $1,200/month. She has presented the data: 14 sessions, 11 participants with actionable next steps, 4 unmet-needs cases that existing programs cannot address. I use my council role to move the formal application forward — I tell her directly that I will support the application and identify the budget line it belongs on. I am not authorizing the expenditure in this action; I am committing to champion it through the appropriate channel.",
+        "target_agent": null,
+        "resources_involved": "Council influence; municipal budget advocacy; no personal funds",
+        "reasoning": "Lisa asked me to flag this, and I asked her to bring me data. She brought data. The right response to someone doing their job correctly is to do my job correctly in return. The 4 unmet-needs cases are exactly the gap the council should close — this is the kind of targeted, evidence-based allocation that demonstrates the task force is producing real outcomes, not just process. If I ignore her recommendation after asking her to build the case, I lose the relationship and I signal that the task force is theatrical."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "builder",
+    "inner_monologue": "The framework is done, the call happened, the fixes are thirty minutes — I have run out of reasons not to finish what I started, and running out of reasons is the only way I know how to move."
+  }
+}

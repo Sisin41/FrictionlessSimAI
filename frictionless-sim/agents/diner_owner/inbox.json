@@ -1,17 +1,17 @@
 {
-  "tick": 13,
+  "tick": 14,
   "messages": [
     {
-      "type": "AMBIENT",
-      "content": "Ongoing: RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership wit"
+      "type": "CAPABILITY_FACT",
+      "content": "RoboRide announces 24/7 coverage, 5 minute average wait, $0.10 per mile. Autonomous delivery service also launched. Second robotaxi competitor enters Millfield market."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 50%."
+      "content": "Local unemployment rising. Employment rate: 47%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 25 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 29 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
@@ -22,8 +22,44 @@
       "content": "People around you are stressed: Rick Tanner. The mood is tense."
     },
     {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Rick Tanner is making some kind of change \u2014 something about Contact the two regional employers Angela Wright i..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Rick Tanner is making some kind of change \u2014 something about Send Patricia Hawkins a direct note - not a full m..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Rick Tanner is making some kind of change \u2014 something about Follow up with the adjacent dealership group I mad..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Contact the fleet operator who Sarah Kim reached o..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Schedule coffee with Angela Wright. She offered. S..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Deliver the written buyer profile analysis to Rick..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Request a formal listing agreement from Amir Patel..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Meet Betty Kowalski for coffee as agreed. She repo..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Stephanie Morris is making some kind of change \u2014 something about Respond personally to the three auto row property ..."
+    },
+    {
       "type": "OUTCOME",
-      "content": "Betty Kowalski walked into the Financial Triage Navigator session at the community center and asked Kevin O'Brien the most specific version of the question she had prepared: a commercial kitchen conversion, $15,000-$18,000 in equipment needs, a delivery partnership agreement as the revenue instrument. Kevin connected her on the spot with the Millfield Community Credit Union's small business bridge financing program \u2014 a $12,000 loan at 6.5% over 36 months, accessible to sole proprietors with demonstrable revenue contracts. The RoboRide written terms had arrived the day before: 68% revenue share, $1,800 guaranteed monthly floor for the first 90 days, scaling to market rate after. The math was below her $2,800 threshold on paper, but with the bridge loan covering equipment and the $1,800 floor providing a base, the path was survivable. She signed the agreement. She called Stephanie Morris and said plainly: 'I'm proceeding with the delivery conversion. I want to schedule a property walk as a 90-day contingency checkpoint, not an exit.' Then she sat down and drafted a 6-item delivery menu: house chili, beef stew, meatloaf plate, chicken soup, pierogi with kielbasa, daily breakfast sandwich. The decision is made. The diner is becoming something different. The savings figure reflects the $12,000 bridge loan inflow net of $4,929 in monthly expenses \u2014 debt increased by $12,000."
+      "content": "You Use bridge loan funds to order and install commercial delivery packaging equipment, insulated carry bags, and prep station modifications. Call the equipment supplier identified during the bridge loan application process. Schedule installation for this week. The goal is first delivery orders live within 7 days.. Savings dropped by $3,129. "
     }
   ]
 }

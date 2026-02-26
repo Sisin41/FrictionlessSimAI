@@ -1,9 +1,9 @@
 {
-  "tick": 13,
+  "tick": 14,
   "messages": [
     {
-      "type": "AMBIENT",
-      "content": "Ongoing: RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership wit"
+      "type": "RUMOR",
+      "content": "People are saying: RoboRide announces many/7 coverage, a few minute average wait, very cheap per mile. Autonomous delivery service. (You're not sure of the exact details.)"
     },
     {
       "type": "OBSERVATION",
@@ -11,15 +11,39 @@
     },
     {
       "type": "SECTOR_DATA",
-      "content": "Auto loan applications down. Lending volume index: 79."
+      "content": "Auto loan applications down. Lending volume index: 75."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: Kevin O'Brien \u2014 follow up with amir patel to confirm he has submitted the outstanding business cash flow documentation required for conditional loan approval. this loan is one piece of paperwork away from closing. a closed loan demonstrates origination capacity to sandra, generates fee income, and strengthens the portfolio expansion case whether the answer is yes or no. i contact amir by phone today, confirm the document status, and set a hard deadline of 48 hours for submission so we can move to final approval this week."
     },
     {
       "type": "SOCIAL",
       "content": "People around you are stressed: Rick Tanner. The mood is tense."
     },
     {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Call the municipal risk management contact directl..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Research and identify the two insurtech firms wher..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Walk into Sandra Briggs's office first thing and c..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Follow up with Amir Patel to confirm he has submit..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Make initial contact with the first of the two reg..."
+    },
+    {
       "type": "OUTCOME",
-      "content": "The Millfield Community Credit Union phone call from tick 11 finally produced a live signal: the small business lending manager scheduled a 20-minute exploratory call with David Chen for next week \u2014 not a job interview, but a real conversation with a named contact. Chen marked the lead warm and prepared the three-minute disruption-period pitch around the SBA credential. He completed four focused study sessions pushing the coursework from 75% to 90%, and sent two targeted outreach messages \u2014 one to a regional CDFI active in Millfield and one to a community development bank that had publicly engaged with the auto sector contraction \u2014 each leading with the scenario modeling work and naming the credential explicitly. He also sent Linda Park the three-scenario auto loan contraction document; she responded positively and offered to share her policy cancellation data in return, sustaining the peer exchange relationship."
+      "content": "You Conduct the 20-minute exploratory call with the Millfield Community Credit Union small business lending manager. Lead with the three-minute disruption-period pitch: I am David Chen, former branch manager at First Community Bank, I identified the auto loan contraction 12 months before the volume index confirmed it, I built the scenario models, and I have spent the past nine months completing SBA 7(a) commercial lending coursework specifically because I saw this transition coming. I am not looking for any job \u2014 I am looking for a role where someone who can read sector disruption early and translate it into lending strategy is an asset, not a liability. I bring the call materials: the three-scenario auto loan contraction document I built for the branch and shared with Linda Park, the SBA coursework completion certificate (or near-completion status if not finished before the call), and one page of data on small business credit demand in Millfield during disruption periods \u2014 drawn from the policy cancellation data Linda shared with me. The goal of this call is not to close a deal. The goal is to leave them with a specific follow-up: either a second conversation, an introduction to another person at the institution, or a named referral elsewhere. A warm lead does not become a job unless I convert this call into a next step.. Savings dropped by $6,961. "
     }
   ]
 }

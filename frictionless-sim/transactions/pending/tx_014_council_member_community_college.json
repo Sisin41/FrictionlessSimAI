@@ -1,0 +1,9 @@
+{
+  "id": "tx_014_council_member_community_college",
+  "tick": 14,
+  "initiator": "council_member",
+  "target": "community_college",
+  "type": "COMMITMENT",
+  "description": "Maria Santos formally proposes a signed advisory agreement to Dr. Kevin Marsh at Millfield Community College: $2,500/month for external policy advisory role covering workforce transition programming, retraining fund grant review, and quarterly policy memos. Presents a one-page scope of work and requests a signed letter of agreement before end of month.",
+  "status": "pending"
+}

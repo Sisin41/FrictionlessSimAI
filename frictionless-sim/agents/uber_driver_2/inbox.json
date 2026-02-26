@@ -1,10 +1,6 @@
 {
-  "tick": 13,
+  "tick": 14,
   "messages": [
-    {
-      "type": "AMBIENT",
-      "content": "Ongoing: RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership wit"
-    },
     {
       "type": "OBSERVATION",
       "content": "You notice more robotaxis on the streets. About 7% of people seem to be using them regularly."
@@ -14,12 +10,52 @@
       "content": "Robotaxi adoption: 7%. "
     },
     {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: Denise Williams \u2014 proactively reach out to grace okafor with a brief, specific message. her intelligence that 'they called two more people from my program this week' is a direct indicator that the millfield general process is moving. i send her a short note \u2014 not a request for status, not pressure \u2014 but a professional peer check-in: 'saw your update. wanted you to know i am still actively interested and available. if anything surfaces where a word from you would be useful, i am grateful for it.' i am not asking her to do anything. i am keeping the connection warm and making sure she knows i am still in the race. grace is my highest-trust contact with direct sight lines into that institution. this is not networking performance \u2014 this is relationship maintenance with someone who has already demonstrated she will go to bat for me."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: Denise Williams \u2014 continue the retraining trajectory: now that the logistics hub application is submitted and the millfield general process is live, focus this month's professional development time on deepening familiarity with healthcare facilities compliance frameworks \u2014 specifically joint commission standards for hospital infrastructure and osha requirements for healthcare environments. these are the credential domains that differentiate facilities managers inside hospital systems from general operations managers. i have not claimed healthcare-specific credentials because i do not have them. but i can demonstrate i have begun to learn the landscape \u2014 and if i reach a second interview or an offer stage, i need to be able to speak to this without bluffing. this is not resume padding. it is targeted preparation for a specific role that appears within reach."
+    },
+    {
       "type": "SOCIAL",
       "content": "People around you are stressed: Tom Bradley. The mood is tense."
     },
     {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Frank Russo is making some kind of change \u2014 something about Call Howard Liu and formally accept his offer to d..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Frank Russo is making some kind of change \u2014 something about Frank posts a brief, professional notice on Linked..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Denise Williams (Parking Garage Manager): Proactively reach out to Grace Okafor with a brief, specific message. Her intelligence that 'they called two more people from my program this week' is a direct indicator that the Millfield General process is moving. I send her a short note \u2014 not a request for status, not pressure \u2014 but a professional peer check-in: 'Saw your update. Wanted you to know I am still actively interested and available. If anything surfaces where a word from you would be useful, I am grateful for it.' I am not asking her to do anything. I am keeping the connection warm and making sure she knows I am still in the race. Grace is my highest-trust contact with direct sight lines into that institution. This is not networking performance \u2014 this is relationship maintenance with someone who has already demonstrated she will go to bat for me."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Denise Williams (Parking Garage Manager): Reach out to Betty Kowalski \u2014 not about jobs, not about networking strategy. A direct, human check-in. She runs the Auto Row Diner and the inbox flagged her by name as stressed. I send her a short message: 'Saw the mood around town. Hope things are holding up. Coffee on me if you want to talk.' No agenda. The diner sits at the intersection of every disrupted sector in this economy \u2014 transportation workers, mechanics, car wash staff, commuters. Betty sees what is happening in real time. More importantly, she is a person in my network under pressure, and I have not been present with her since tick 5. Maintaining a high-trust network through hard times is not just self-interested \u2014 it is the right thing to do."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Respond to all six DMs from the TikTok within 48 h..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Nicole Washington is making some kind of change \u2014 something about Call Andrea Torres at Millfield Staffing Solutions..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Nicole Washington is making some kind of change \u2014 something about Contact charge nurse Linda Reyes at Millfield Gene..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Robert Jackson (Rideshare Driver): Formally begin employment at Millfield Medical Transport. Confirm the background check cleared, accept the finalized onboarding paperwork from Dave Herrera, and complete the first week of part-time NEMT shifts at 20 hours per week at $18/hour. Express to Carla and Dave that I am interested in expanding to full-time hours as openings arise \u2014 I want that on record early, professionally, without pressure. I am not a probationary employee hoping not to be noticed. I am a credentialed professional making myself indispensable from day one."
+    },
+    {
       "type": "OUTCOME",
-      "content": "CareRide of the Valley called Grace back this tick \u2014 a dispatcher named Marcus Webb reached out to schedule a formal onboarding orientation and background check for next week, citing her NEMT certification and clean record as exactly what they need for a new Millfield General route they are launching. Millfield Medical Transport has not yet responded, but Marcus at CareRide told her the orientation-to-first-route timeline is typically five to seven days once paperwork clears. Robert Jackson responded to Grace's text with the name of his direct contact at CareRide \u2014 ironically the same Marcus Webb who already called \u2014 and confirmed the operator is actively expanding. Grace drove morning airport windows and one Friday surge block, generating approximately $380 in rideshare income this tick, which partially offsets the $1,787 monthly burn while onboarding finalizes."
+      "content": "You Attend the CareRide of the Valley onboarding orientation with Marcus Webb. Complete the background check, submit all required documentation \u2014 NEMT certification, vehicle inspection, clean driving record \u2014 and sign the route agreement for the new Millfield General route. Get a start date confirmed in writing. This is the commitment I have been building toward since tick 9.. Savings grew by $1,407. "
     }
   ]
 }

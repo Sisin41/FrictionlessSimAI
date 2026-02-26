@@ -1,17 +1,17 @@
 {
-  "tick": 13,
+  "tick": 14,
   "messages": [
     {
-      "type": "AMBIENT",
-      "content": "Ongoing: RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership wit"
+      "type": "CAPABILITY_FACT",
+      "content": "RoboRide announces 24/7 coverage, 5 minute average wait, $0.10 per mile. Autonomous delivery service also launched. Second robotaxi competitor enters Millfield market."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Local unemployment rising. Employment rate: 50%."
+      "content": "Local unemployment rising. Employment rate: 47%."
     },
     {
       "type": "MARKET_DATA",
-      "content": "Consumer spending down. Spending index: 25 (baseline: 100)."
+      "content": "Consumer spending down. Spending index: 29 (baseline: 100)."
     },
     {
       "type": "OBSERVATION",
@@ -19,15 +19,83 @@
     },
     {
       "type": "SECTOR_DATA",
-      "content": "Auto sector revenue index: 79 (baseline: 100). Foot traffic and sales are somewhat down."
+      "content": "Auto sector revenue index: 75 (baseline: 100). Foot traffic and sales are somewhat down."
     },
     {
       "type": "SOCIAL",
       "content": "People around you are stressed: Angela Wright. The mood is tense."
     },
     {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Take the scheduled call with Dr. Kevin Marsh, Work..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Formally present and release the completed Economi..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Maria Santos is making some kind of change \u2014 something about Implement the two specific website fixes Lisa Free..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Sarah Kim is making some kind of change \u2014 something about After sitting for the assessment \u2014 regardless of t..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about Respond to Linda Park's request immediately and co..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about Call Maria Santos's office directly to follow up o..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Priya Sharma is making some kind of change \u2014 something about Send a clear availability signal on LinkedIn and r..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Miguel Hernandez is making some kind of change \u2014 something about Send the professional introduction email to the fl..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Miguel Hernandez is making some kind of change \u2014 something about Follow through on the Financial Triage Navigator i..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Proactively reach out to Grace Okafor with a brief..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Denise Williams is making some kind of change \u2014 something about Reach out to Betty Kowalski \u2014 not about jobs, not ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Call Harold Grant today to confirm the formal star..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Send Lisa Freeman a brief written note with my con..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Dale Cooper is making some kind of change \u2014 something about Text Carlos Ruiz to thank him for the Concord Lane..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Zoe Martinez is making some kind of change \u2014 something about Respond to all six DMs from the TikTok within 48 h..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Nicole Washington is making some kind of change \u2014 something about Call Andrea Torres at Millfield Staffing Solutions..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Nicole Washington is making some kind of change \u2014 something about Contact charge nurse Linda Reyes at Millfield Gene..."
+    },
+    {
       "type": "OUTCOME",
-      "content": "Carlos logged 11 study hours in the fleet telematics and remote diagnostics module, reaching 60% completion \u2014 the credential is now in its final third and the material is directly applicable to the commercial fleet contacts he has been building. The conversation with Elena went better than he feared: she took the full picture steadily, asked practical questions about the certification timeline, and said she had known more than he thought she was sharing. That honesty released something for both of them. Angela Wright responded warmly to Carlos's outreach about the transferred technicians, said she appreciated him thinking of them, and mentioned she would be glad to have coffee \u2014 the relationship moved meaningfully past 0.40 trust. Sarah confirmed she had made the fleet operator call using Carlos's name and it went well, which Carlos registered as a real outcome of something he had invested in."
+      "content": "You Continue EVT Level 2 certification \u2014 month seven of ten. This month the coursework covers advanced EV fault diagnosis, thermal runaway detection protocols, and software-defined vehicle (SDV) architecture fundamentals. These are not abstract modules \u2014 SDV is exactly what RoboRide's fleet runs on. Log at least 10 study hours across evening and weekend sessions. Do not negotiate with the fatigue. Four months remain. The credential is mine as long as I show up.. Savings grew by $193. "
     }
   ]
 }

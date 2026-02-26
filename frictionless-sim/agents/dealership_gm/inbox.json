@@ -1,9 +1,9 @@
 {
-  "tick": 13,
+  "tick": 14,
   "messages": [
     {
-      "type": "AMBIENT",
-      "content": "Ongoing: RoboRide drops price to $0.12 per mile. Wait time now 8 minutes. Coverage expanded to residential areas. Partnership wit"
+      "type": "RUMOR",
+      "content": "People are saying: RoboRide announces many/7 coverage, a few minute average wait, very cheap per mile. Autonomous delivery service. (You're not sure of the exact details.)"
     },
     {
       "type": "OBSERVATION",
@@ -11,15 +11,91 @@
     },
     {
       "type": "SECTOR_DATA",
-      "content": "Auto sector revenue index: 79 (baseline: 100). Foot traffic and sales are somewhat down."
+      "content": "Auto sector revenue index: 75 (baseline: 100). Foot traffic and sales are somewhat down."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: Tamika Jefferson \u2014 follow up with the two business owners who sent dms after the linkedin post about foot-traffic patterns and roboride corridors. these are not cold leads \u2014 they engaged publicly and then reached out privately, which is the highest signal of interest short of an inbound inquiry. reply to both dms today with a specific, direct message: acknowledge what they asked, give a one-paragraph concrete answer that demonstrates real knowledge, then close with a single question \u2014 'would it make sense to get on a 20-minute call this week to talk about how this applies to your specific situation?' no deck, no portfolio link, no pitch. one question. if they say yes, schedule the call for this week and be ready to send an agreement before it ends."
+    },
+    {
+      "type": "DIRECT_IMPACT",
+      "content": "Community action: Kevin O'Brien \u2014 follow up with amir patel to confirm he has submitted the outstanding business cash flow documentation required for conditional loan approval. this loan is one piece of paperwork away from closing. a closed loan demonstrates origination capacity to sandra, generates fee income, and strengthens the portfolio expansion case whether the answer is yes or no. i contact amir by phone today, confirm the document status, and set a hard deadline of 48 hours for submission so we can move to final approval this week."
     },
     {
       "type": "SOCIAL",
       "content": "People around you are stressed: Angela Wright. The mood is tense."
     },
     {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Patricia Hawkins (CEO, Regional Auto Group): Conduct the market intelligence conversation with Stephanie Morris about commercial real estate conditions in Millfield \u2014 specifically lease termination flexibility, sublease market depth for automotive-zoned properties, and whether the closed location's lease has any assignment or buyout clause worth pursuing. The goal is to know whether the closed location is a sunk cost I hold until term or an obligation I can exit or monetize. This conversation was scheduled last tick. I am having it this week."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Patricia Hawkins (CEO, Regional Auto Group): Contact a business insurance broker \u2014 not AutoShield, not Linda Park, a third-party independent broker \u2014 and request a quote on a business owner's policy covering the three surviving locations. Also price personal disability insurance for myself. The current state.json shows 'none' for insurance coverage, and I have three dependents. A single liability event against an uninsured business in a year when my savings are already declining is the kind of risk that does not announce itself before it arrives."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Patricia Hawkins (CEO, Regional Auto Group): Call David Chen at First Community Bank \u2014 not to ask for anything, but to give him a structured update on Regional Auto Group's financial position and consolidation plan. Three locations, reduced debt load from the closure, EV certification investment, community partnership with the Millfield Auto Tech Pipeline. Frame this as a relationship maintenance call from a long-term business account holder who wants the bank to understand the restructuring before it shows up as a credit question. The goal is to raise his trust level before I need him, not after."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Call the municipal risk management contact directl..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Linda Park is making some kind of change \u2014 something about Research and identify the two insurtech firms wher..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Angela Wright (HR Director, Regional Auto Group): Conduct the 20-minute informational call with the healthcare administration contact from the regional hospital group. Objective: understand their workforce transition challenges, establish whether AV/automation disruption is creating HR needs in their sector, and position Wright Workforce Advisory LLC as a methodological resource \u2014 not a vendor pitch, but a genuine professional conversation that ends with a next step. Walk away with either a clear 'not now' or a concrete follow-up action. Document the call in Wright Workforce Advisory LLC's CRM log."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "You heard directly from Jake Morrison (Car Salesperson): Call Rick Tanner directly \u2014 not email, a phone call \u2014 and tell him the two weeks he mentioned are almost up and I am still holding. I am not pressuring him, I am making myself easy to say yes to. I say: 'Rick, you told me two weeks. I wanted you to know I have not taken anything else and I am ready for that conversation whenever you are.' I keep it short. I let him respond. If he has an answer, I am ready to move. If he needs more time, I note the date and give him a hard follow-up window in my own head."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Tamika Jefferson is making some kind of change \u2014 something about Reach out to Devon Clarke through Angela Wright's ..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Tamika Jefferson is making some kind of change \u2014 something about Follow up with the two business owners who sent DM..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Tamika Jefferson is making some kind of change \u2014 something about Second-touch follow-up on the specialty pharmacy o..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Contact the fleet operator who Sarah Kim reached o..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Carlos Ruiz is making some kind of change \u2014 something about Schedule coffee with Angela Wright. She offered. S..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Amir Patel is making some kind of change \u2014 something about Go to the bank and sign the $12,000 capital improv..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Amir Patel is making some kind of change \u2014 something about Confirm with Priya Sharma that the $280/month busi..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Walk into Sandra Briggs's office first thing and c..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Follow up with Amir Patel to confirm he has submit..."
+    },
+    {
+      "type": "WORD_OF_MOUTH",
+      "content": "Someone mentioned that Kevin O'Brien is making some kind of change \u2014 something about Make initial contact with the first of the two reg..."
+    },
+    {
       "type": "OUTCOME",
-      "content": "Rick Tanner delivered the closure execution status memo to Patricia Hawkins on time \u2014 four sections, organized, professional. Patricia responded the same afternoon: 'This is exactly what I needed. Keep this format.' That brief acknowledgment was the first direct positive feedback on his consulting work, and it settled something. The peer call with David Chen went well \u2014 David confirmed he is actively looking at bridge financing for small businesses converting their operations, and expressed genuine interest in an introduction to Betty Kowalski. Rick sent that introduction before end of day. The EV fleet operator still hasn't responded to his initial outreach; he sent the targeted follow-up with the EV service capacity section attached. He also made first contact with a dealership group in an adjacent market that has not yet restructured. The conversation with Angela Wright about his own positioning was honest and productive \u2014 she confirmed that advisory and transition management roles do exist in the market, and suggested two regional employers worth approaching. Burn is still $4,563/month net of the consulting income, but the consulting work is producing visible output and the parallel search has two active threads."
+      "content": "You Contact the two regional employers Angela Wright identified last tick - not a formal application, a direct reach-out framing my experience as dealership consolidation and EV transition advisory. Brief, specific, asking for a 20-minute call. I am not broadcasting a job search. I am having two targeted conversations. The pitch is fleet service management and EV transition management, not 'former GM looking for work.' Those are the angles that match where the market is going, not where it has been.. Savings dropped by $4,563. "
     }
   ]
 }
