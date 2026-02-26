@@ -144,6 +144,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You routine. Savings grew by $473. "
+    },
+    {
+      "tick": 12,
+      "action": "Deliver session 2 of Economic Transition for Older Adults workshop, visit Betty's Diner, make the honest call to Robert Jackson about RoboRide asymmetry, conduct monthly normalcy-bias self-check",
+      "savings_delta": 947,
+      "stress_delta": -0.03,
+      "employment_changed": false,
+      "narrative": "Dorothy's second workshop session drew 14 participants — two more than session one — and the financial communication with adult children topic produced the most emotional disclosure of any session Dorothy has facilitated in years; three participants stayed 25 minutes past the end time to continue the conversation. Dorothy made the call to Robert Jackson Thursday afternoon, said the thing she had been holding for six ticks, and Robert received it with more grace than she expected; he thanked her and said it mattered to hear it named honestly. The Betty's Diner visit was warm and unhurried — Betty had not heard from RoboRide about written terms and told Dorothy she was starting to think about what comes next. The normalcy-bias self-check produced one concrete finding: Dorothy's workshop consistently reaches women aged 60-75 connected to the community center network, but she is not reaching men over 70 who are socially isolated and least likely to attend a formal session — a gap she noted and passed to Lisa Freeman. Savings delta reflects stable pension surplus of $947."
     }
   ],
   "reflections": [
