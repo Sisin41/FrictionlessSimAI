@@ -1,0 +1,31 @@
+{
+  "agent_id": "truck_owner",
+  "tick": 12,
+  "emotional_state": "steady but not comfortable — the bid pipeline audit from tick 10 gave me a clear number and I did not like it. Eight months of runway at current burn is real but it is not permanent. Three dependents and a $2,527 mortgage mean I need active income, not just savings.",
+  "actions": [
+    {
+      "type": "EXCHANGE",
+      "description": "Follow up with Lisa Freeman on the two repair bids that have been in limbo since tick 7. This is not another check-in — this is a direct ask for a decision. Call Lisa, not email. Say plainly: 'I need to know if either of those property owners is moving forward. If the answer is no, I need to know now so I can fill my calendar with other work. If there is a hold-up I can help solve, tell me what it is.' Also ask the community center question again, more directly: 'Does the center have any deferred maintenance work that needs doing before the end of the year — roof, drainage, foundation, HVAC? I have open weeks and I will sharpen my pencil for a nonprofit rate.'",
+      "target": "Lisa Freeman (community organizer, referral channel and potential direct client)",
+      "rationale": "Lisa has been a warm contact since tick 4 and I have been treating her as a referral channel rather than closing the loop. The two bids she connected me to have been floating for five ticks. A direct call forces a decision one way or the other, which is better than continued ambiguity. The community center direct-client angle is the move I should have made in tick 9."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Submit two new bids this tick, targeting work that is need-driven rather than luxury-driven. First target: drainage and foundation waterproofing for residential properties — this is the category of work that does not get deferred the way garage additions do. Water in the basement gets fixed regardless of economic sentiment. Second target: roofing repair for one or two properties I identify through my existing network — Carlos the mechanic or others who have visibility into properties with deferred maintenance. Price competitively, not at discount, but make clear I can start within two weeks.",
+      "target": "residential property owners with drainage/foundation and roofing needs",
+      "rationale": "The tick 6 lesson was clear: the market for discretionary additions (like the Henderson garage) collapses in a scared economy. The market for essential repairs does not collapse the same way. Roofs still leak. Basements still flood. I need to be in front of that work before other contractors get there first."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Reach out to Carlos the mechanic directly — not just as a contact in the network, but as a potential source of referrals for repair work. People who bring their cars to Carlos have properties. People with failing cars in a disrupted transportation economy may be making decisions about their properties too — selling, renting, deferring maintenance, or finally fixing what has been waiting. Ask Carlos plainly: 'Do you know anyone who needs construction work done? I am active, I have open weeks, and I am looking for the right jobs. If you send me something that closes, I will take care of you.' A referral relationship with Carlos is low-cost to maintain and potentially high-yield.",
+      "target": "Carlos the mechanic (established network contact)",
+      "rationale": "Carlos appeared in my tick 4 outreach as a professional network contact. I have not converted that relationship into anything concrete. At 8.3 months of runway I have time to build the right pipeline — but building it requires activating the relationships I already have, not just acknowledging they exist."
+    },
+    {
+      "type": "INACTION",
+      "description": "Do not adjust the health insurance coverage enrolled at tick 8. The $1,400/month premium hurts and contributes to the $4,681/month burn rate. But I am 50 years old doing physical labor with three dependents. The coverage stays. This is a fixed cost and I am not second-guessing it.",
+      "target": "family health insurance (marketplace plan)",
+      "rationale": "The decision at tick 8 was hard and correct. Revisiting it under financial pressure is the kind of short-term thinking that creates catastrophic exposure. A single hospital visit without coverage at my age and with my physical job could cost more than a year of premiums. The $38,729 in savings is the buffer for exactly this kind of period. I do not panic-cancel the insurance."
+    }
+  ]
+}

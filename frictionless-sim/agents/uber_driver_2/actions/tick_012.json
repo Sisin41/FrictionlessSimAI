@@ -1,0 +1,31 @@
+{
+  "agent_id": "uber_driver_2",
+  "tick": 12,
+  "emotional_state": "zero savings, zero income, NEMT certification in hand and two operator calls made at tick 10 — the next 30 days are the difference between this plan working and a different kind of crisis entirely. Tense but still moving.",
+  "actions": [
+    {
+      "type": "COMMITMENT",
+      "description": "Follow up directly with Millfield Medical Transport and CareRide of the Valley on the calls made at tick 10. If either operator responded positively, confirm the start date and complete any outstanding onboarding paperwork this week. If I have not received a response, call again — not email, call — and make the ask a single clear question: 'I have my NEMT certification, a clean record, and I am available to start this week. Do you have an onboarding slot or can you tell me the timeline?' One of these two operators needs to become active income within the next two weeks. A 'no' from both means I call the next operator on the list immediately.",
+      "target": "Millfield Medical Transport and CareRide of the Valley",
+      "rationale": "At $0 savings and $1,787/month expenses I have no runway. The NEMT certification was the correct investment and the calls at tick 10 were the correct move. What I cannot do is let those calls sit unanswered while savings stay at zero. Every week without NEMT income is a week closer to a crisis I cannot recover from. Urgency is the only posture available to me."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Text Robert Jackson this week with a direct, specific ask: 'I called both operators you named — Millfield Medical Transport and CareRide. Any sense of their onboarding timeline or who I should be talking to directly? I need to place within weeks, not months.' Robert gave me the operator names from his direct experience. He may also have a contact name inside those organizations — a hiring manager, a dispatcher, someone specific — that would convert a cold follow-up call into a warm one. One name changes the entire interaction. In exchange, give him the most current intelligence I have from Nicole Washington's floor observations about Millfield General admission patterns — that is information he may be building toward.",
+      "target": "Robert Jackson (network contact, NEMT pathway intelligence)",
+      "rationale": "Robert has been the most actionable network contact in my trajectory since tick 4. His operator intelligence led directly to the tick 10 calls. A specific ask about internal contacts costs nothing and may produce exactly what I need to accelerate onboarding. The exchange is still genuinely mutual — I have hospital floor intelligence from Nicole that has value to him."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Continue rideshare driving this week — morning airport windows and any active surge blocks. Target at least $400-500 in rideshare income this tick. RoboRide has compressed demand but has not eliminated it. The queue is shorter, the fare mix is worse, but drivers who are in the app during surge windows still earn. At zero savings, partial income from rideshare is not a backup plan — it is what keeps me in the game while NEMT placement finalizes.",
+      "target": "rideshare platform (Uber/Lyft), morning airport windows and surge blocks",
+      "rationale": "NEMT onboarding has a lag even if an operator says yes today. Rideshare income bridges that gap. I cannot stop driving while I wait for NEMT to activate. Even $400 this month extends runway and prevents the kind of desperation that leads to bad decisions."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Send a brief message to Nicole Washington — not a direct ask, but a genuine check-in that also surfaces the current situation clearly. Something like: 'I have my NEMT cert and I have been in contact with Millfield Medical Transport and CareRide. If either placement comes through I will be making medical transport runs in Millfield — possibly to Millfield General. Thought you should know given our conversations. How are things on your end?' Nicole is trust level 0.49 and she has been a difficult contact to activate. A natural, honest update rather than another formal ask may be the framing that finally produces a response.",
+      "target": "Nicole Washington (single_parent, Millfield General nurse, trust 0.49)",
+      "rationale": "Nicole has hospital floor access, knowledge of Millfield General's staffing patterns, and a role security situation that is now publicly in flux. A genuine update about my NEMT placement progress is both honest and strategically sound — it reminds her that we have a real basis for exchange and may prompt the response that has been slow to arrive since my first outreach at tick 5."
+    }
+  ]
+}

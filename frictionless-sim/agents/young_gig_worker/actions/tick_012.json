@@ -1,0 +1,37 @@
+{
+  "agent_id": "young_gig_worker",
+  "tick": 12,
+  "emotional_state": "flat exhaustion with a thread of determination running through it — zero savings for several ticks now, the Coursera cert is at 32% and the freelance pivot has been 'about to close' since tick 9. This is the month something has to actually convert or the math becomes unsurvivable.",
+  "actions": [
+    {
+      "type": "COMMITMENT",
+      "description": "Follow up with Betty Kowalski's diner on the pitch made at tick 10. Walk back in this week — not a call, not a message, in person during a non-rush window. Ask directly: 'Did you have a chance to think about the social media offer? I am ready to start this week at $120/month. One post a day, warm and community-focused, built for the current moment in Millfield.' If Betty says she is still undecided, offer one free week as proof — not as a discount, as a demonstration. If she says no, walk to the next business on auto row the same day without stopping to process it. A no from Betty is not a verdict on the strategy. It is a redirect.",
+      "target": "Betty Kowalski's diner",
+      "rationale": "This pitch has been active since tick 9. Every tick of delay at $0 savings is a tick closer to a crisis I cannot reverse. Betty is the warmest lead in the freelance pipeline — she is in the inbox, she is stressed and adapting, and she is attended by community organizers who know my work. If she is going to say yes, she needs a reason to decide now, not later."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Contact Miguel directly this tick — not to give information, to ask for a referral. Tell him plainly: 'I have been pitching local businesses on social media management at $120/month. I am at zero savings and I need my first paying client this month. Do you know anyone through the community center network who is trying to maintain a social presence and cannot keep up with it? Even one name from you converts faster than ten cold messages.' Miguel has reached out to me twice. That means the relationship is real and it can absorb a direct ask without damaging it.",
+      "target": "Miguel (community center network contact, active relationship)",
+      "rationale": "I have been treating Miguel as an intelligence exchange partner but not as a referral source. He has visibility into small businesses and community organizations in Millfield that are actively trying to navigate the downturn. One warm referral from him is worth more than three cold walk-ins. The relationship is strong enough to make a direct ask."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Complete the next two modules of the Google Digital Marketing and E-commerce Certificate this month. The cert is at 32% — accelerating toward 40% keeps the credential on track and makes the portfolio case stronger with every week. Do not pause the cert to focus entirely on client pitching. The cert is the medium-term floor that changes what I can charge and where I can apply. Keep it moving even when everything else feels urgent.",
+      "target": "Google Digital Marketing Certificate on Coursera (32% complete, Lisa Freeman's micro-grant still covering subscription)",
+      "rationale": "The cert is 32% done. That represents real invested time and money that Lisa's micro-grant helped protect. Pausing now to focus only on client pitching means losing momentum on the credential that will eventually let me charge more than $120/month and apply for actual digital marketing roles. The two-hour-a-week investment keeps it alive without crowding out client work."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Post one piece of content on TikTok or Instagram this week — something specific and local. Topic: a before-and-after concept showing what a Millfield small business's social media presence could look like with a human voice versus without one. Use publicly visible examples, no names. Show the contrast between businesses that went dark on social after the spending downturn and ones that stayed warm and visible. End with a direct statement: 'I help local businesses in Millfield do the second thing. $120/month. DM me.' This is not the tick-1 TikTok about car-free living. This is an actual lead generation post.",
+      "target": "Millfield small business owners, local community members",
+      "rationale": "I have been pitching in person and by walk-in but I have not used the social media skill that is my actual product to generate visible inbound interest. One targeted post costs me two hours and may produce inquiries from businesses I have not reached through direct outreach. At zero savings, any inbound lead is better than none."
+    },
+    {
+      "type": "INACTION",
+      "description": "Do not apply for new gig platform accounts or increase DoorDash/Instacart hours beyond what is already active. Adding more hours to platforms that are not covering expenses is not a solution — it is a way of feeling busy while the actual problem (zero freelance income) goes unsolved. Hold the current gig floor, pursue the freelance close, and do not let gig work expansion become an excuse not to close clients.",
+      "target": "gig platform allocation",
+      "rationale": "The lesson from tick 5 is that maxing out gig platforms did not solve the savings problem — it only reduced the speed of decline. The gig floor keeps the lights on at the margin. The freelance close is what changes the math. I protect the gig hours I have and focus the additional energy on Betty Kowalski and the Miguel referral ask."
+    }
+  ]
+}

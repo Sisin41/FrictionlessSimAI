@@ -1,0 +1,31 @@
+{
+  "agent_id": "single_parent",
+  "tick": 12,
+  "emotional_state": "controlled alarm — $3,990 in savings against $4,630/month expenses is less than one month of runway with two kids depending on me. The calm I have held through eleven ticks is still there but it has a hard edge to it now. This is not background anxiety. This is a real number.",
+  "actions": [
+    {
+      "type": "COMMITMENT",
+      "description": "Contact the Millfield General staffing office and my charge nurse this week — not a casual check-in, a direct conversation about returning to the floor. State clearly that I am available for shifts immediately. Ask specifically whether the transitional care unit or the post-acute step-down unit — the two units identified as expanding in tick 8 intelligence — have open shifts or a rehire pathway. If the status change at tick 9 was a reduction-in-force rather than a termination, confirm whether recall rights apply and what the timeline is. I need a definitive answer on my rehire status before the next paycheck cycle.",
+      "target": "Millfield General staffing office, charge nurse",
+      "rationale": "Savings at $3,990 with $4,630/month expenses means I have less than one month before I cannot cover rent and the kids' expenses. My nursing skills are at 0.9 relevance. The disruption that hit automotive workers has not hit healthcare the same way. I am unemployed by system recording but my credential is intact and the units I have intelligence on are still expanding. Getting back on the floor is the fastest path to income stability and the only one that fully protects my family."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Text Grace Okafor this week. She enrolled in NEMT certification on the framing I gave her and she is on a late-winter application timeline for the spring transitional care cohort at Millfield General. Tell her: the spring cohort hiring window is opening and her NEMT certification paired with the clinical context framing I described should be in front of the hiring manager now, not at the last minute. Also tell her honestly: my own employment status is in flux right now and I am actively re-engaging with the hospital. If she has heard anything from her network about the current hiring climate at Millfield General, I would genuinely want to know.",
+      "target": "Grace Okafor (nursing student, NEMT certified, trust relationship maintained across several ticks)",
+      "rationale": "The information exchange with Grace has been genuinely reciprocal and has produced real outcomes. She is closer to the ground-level employment landscape in healthcare entry points than I am right now. A direct, honest ask for current intelligence costs me nothing and may surface information I need. And giving her the timing nudge she needs is the right thing to do regardless — she has acted on everything I have told her."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Identify one additional near-term income option that does not conflict with nursing rehire: specifically, whether per-diem or agency nursing shifts through a staffing agency are available in Millfield this week. Per-diem RN shifts typically pay $45-65/hour and can be booked without a formal reemployment process. Contact one agency — Millfield Staffing Solutions or equivalent — and confirm availability and current pay rates for floor nursing coverage. If per-diem is available, accept shifts immediately even while the Millfield General direct rehire conversation is in progress.",
+      "target": "local nursing staffing agency",
+      "rationale": "I cannot wait for the Millfield General bureaucratic process to complete while savings drain at $4,630/month. Per-diem nursing is the fastest possible income activation for someone with my credential and experience. Even two per-diem shifts at $52/hour generates $832 — enough to meaningfully extend runway while the direct rehire path resolves."
+    },
+    {
+      "type": "INACTION",
+      "description": "Do not touch the emergency savings buffer beyond essential expenses this month. Do not make any non-essential purchases. The discretionary spending discipline that began at tick 4 — no dinners out, no deferred household purchases — continues and deepens. Every dollar that stays in savings this tick is runway.",
+      "target": "household budget",
+      "rationale": "Two dependents. $3,990 remaining. Less than one month of runway. This is not the moment for any spending that is not food, shelter, childcare, or car payment. The car stays — I need it for hospital shifts the moment I am back on the floor. Everything else waits."
+    }
+  ]
+}

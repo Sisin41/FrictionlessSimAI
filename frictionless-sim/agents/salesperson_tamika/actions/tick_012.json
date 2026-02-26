@@ -1,0 +1,37 @@
+{
+  "agent_id": "salesperson_tamika",
+  "tick": 12,
+  "emotional_state": "tight and purposeful — zero savings with a $3,177/month burn rate and two clients totaling $650/month means I am in a hole, not on a runway. No grief, no spiral. Just the arithmetic of what needs to happen this month.",
+  "actions": [
+    {
+      "type": "COMMITMENT",
+      "description": "Confirm the restaurant pilot is fully active and formalize November deliverables in writing. If the verbal yes from tick 10 was not converted to a signed agreement, send the one-page agreement today — subject line: 'Agreement for 60-day pilot — please sign and return.' Do not let the arrangement float as an informal understanding. A signed $300/month agreement is a receivable. An informal understanding is not.",
+      "target": "restaurant client (60-day pilot at $300/month)",
+      "rationale": "At $0 savings and $3,177/month expenses, every dollar of confirmed income matters. The restaurant pilot has been in various stages of 'almost closed' since tick 8. This tick it becomes a signed commitment or I redirect that time to a new prospect. Ambiguity is a luxury I cannot afford."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Reach out to Angela Wright directly — not as a former colleague checking in, but as a peer who is now a freelance consultant specializing in local business social media. Angela is building her own business and will be in constant contact with displaced workers starting businesses who will need marketing. Ask her plainly: 'Do you know anyone in your network who is building something new and struggling with their social presence? I am doing this full-time now and I have two clients. A warm referral from you converts faster than ten cold messages.' This is the highest-leverage relationship move available to me this tick.",
+      "target": "Angela Wright (former HR, trust 0.56, now building own business)",
+      "rationale": "Angela's transition from dealership HR to her own business puts her in exactly the right position to refer clients. One warm referral from a trusted peer closes faster than a month of cold outreach. The relationship survived the exit intact and she has visibility into the displaced-worker ecosystem I am now targeting."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Post one piece of original content on LinkedIn and Instagram under my personal brand this week. Topic: 'What local businesses in Millfield are missing right now — and it is not what you think.' Frame the post around the RoboRide-driven shift in foot traffic patterns: people moving through residential areas without stopping at gas stations means lunch spots and service businesses that are humanly visible on social media capture attention that used to happen incidentally. Include one concrete example from the HVAC client's account — engagement is up, even in a down market. This is not marketing. It is proof of concept made public.",
+      "target": "local small business owners in Millfield, freelance network",
+      "rationale": "I have been operating invisibly as a freelancer. Two clients and real results need to be visible to the market I am trying to serve. One strong post with a specific, localized insight costs me two hours and creates inbound credibility I cannot generate through cold outreach alone."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Identify and reach out to two new outreach targets from the RoboRide delivery ecosystem — specifically businesses that are adapting to the new foot traffic patterns. Targets: one restaurant or coffee shop that is not yet running social media actively, and one delivery-adjacent business (pharmacy, specialty grocery, local goods shop) that has not yet figured out how to reach the new residential-movement customer base. Message structure same as tick 2: one specific observation about their current presence, one question, one sentence about what I do. No deck, no portfolio link until they reply.",
+      "target": "two new local businesses adjacent to RoboRide delivery corridors",
+      "rationale": "I need a third client at $300-350/month to reach the $1,050 threshold where I stop burning savings and start building. The HVAC client and the restaurant pilot are not enough. Two new outreach contacts this tick means potential closes in ticks 13 and 14, before savings runway becomes critical. The RoboRide delivery ecosystem is the correct targeting lens — these businesses are actively trying to figure out how to reach customers who are moving differently."
+    },
+    {
+      "type": "INACTION",
+      "description": "Do not reduce the HVAC client's retainer scope or offer a discount even though the economic environment is soft. Deliver the full two social posts per week and one short-form video this month at full quality. The three-month minimum commitment is in place. The relationship is the foundation of the business. Protecting client quality is protecting the only income I have.",
+      "target": "HVAC contractor client ($350/month retainer)",
+      "rationale": "At $0 savings it is tempting to cut corners on existing clients to free up time for new client acquisition. That is the wrong trade. The HVAC client is my proof of concept, my only confirmed income, and the foundation of every testimonial and referral I will ever generate. I deliver what I committed to deliver, at the standard I committed to deliver it."
+    }
+  ]
+}
