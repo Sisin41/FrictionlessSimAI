@@ -1,0 +1,31 @@
+{
+  "agent_id": "ceo_regional_auto",
+  "tick": 12,
+  "emotional_state": "sober and forward-facing — the closure is no longer a decision, it is a fact being executed. The grief has moved into the background. What is in the foreground is building the three-location service model that justifies what was lost. Savings are approximately $313,000 after another $16,487 burn. The business needs to become revenue-generating before the runway shortens past the point of restructuring.",
+  "actions": [
+    {
+      "type": "EXCHANGE",
+      "description": "Meet with Rick Tanner for a working session on the three-location service-lane operational framework I began drafting at tick 11. I bring the owner-operator version of the plan. Rick brings the assessment finalization data. Together we reconcile the two documents: my forward-looking service capacity targets for each surviving location against his data-grounded read on what each location can actually absorb in technician transfers and throughput. The output of this session is not another document — it is a shared, agreed operational model that both Rick and I are working from as Q2 closes. At $4,500/month his time is contracted. I use it precisely.",
+      "target": "dealership_gm",
+      "rationale": "The consulting engagement with Rick is live and the assessment needs to become a working operational plan, not a deliverable that sits in a folder. This month's consulting payment buys a working session that converts the closure data into the restructured business model. That is the right use of the contracted relationship."
+    },
+    {
+      "type": "COMMITMENT",
+      "description": "Begin the service lane EV and hybrid certification process for the certified technicians being transferred from the closing location to the three surviving locations. Contact ASE directly to understand the current EV certification pathway — cost per technician, timeline, and whether group enrollment discounts apply for a small fleet of five to eight technicians. The service-lane pivot thesis only holds if the technicians can service the vehicles that will be dominant in Millfield within 18 months. I cannot wait until RoboRide saturation forces this — I need to be building the certified service capability now, while I still have the technicians in the building and a budget to support it. Even partial certification on two or three technicians this quarter is a measurable step toward the service-lane model's viability.",
+      "target": null,
+      "rationale": "The three-location service model's long-term revenue depends on being able to service EVs and hybrids at the level fleet operators and individual owners will require. The technicians are already on payroll during the transfer period. Using that window to begin certification is more cost-effective than attempting it after consolidation stabilizes."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Schedule the property disposition conversation with Stephanie Morris that was agreed to at tick 11. This is not a listing — it is a 30-minute market intelligence session. I want to understand from Stephanie what she is hearing about buyer appetite for large-footprint commercial auto properties in the current market: who is actually acquiring them, what use cases are driving interest (EV fleet servicing, logistics staging, light industrial), and what the realistic timeline looks like between a decision to sell and a closed transaction. The closing location's lease flexibility is one factor. The property itself may have more value to a logistics operator than to another dealership. I need that landscape before I commit to a disposition path.",
+      "target": "real_estate_agent",
+      "rationale": "The closing location property is a material asset. Its disposition — whether through lease buyout, sublease, or sale — will partially offset the restructuring costs and contribute to the runway that keeps the three-location model viable through its first year. Stephanie has the buyer-side market intelligence I do not have. This conversation costs nothing and may be worth six figures."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Reach out directly to Mark Thompson at Millfield High regarding his Auto Tech Pipeline program. I heard his board presentation was delivered in tick 9 and the board decision is pending. If the program is approved, Regional Auto Group's three surviving service lanes are natural partnership sites for apprenticeship and co-op placements — students in an EV technician pipeline are exactly the talent pipeline the service-lane model needs in 18 to 24 months. I contact Thompson with a specific offer: if the board approves the program and a community college articulation agreement comes together, I will provide one apprenticeship slot per location per year for graduating students. That is three placements annually, a concrete offer, and it costs me nothing beyond the mentorship time of my lead technicians. I frame it as a community institution investment, not a hiring pipeline — because that is what it is, and because Thompson will respond to the framing that aligns with his mission.",
+      "target": "auto_shop_teacher",
+      "rationale": "The Auto Tech Pipeline produces exactly the workforce Regional Auto Group's service-lane model will need. Establishing the relationship now, before the program is approved and before the demand is acute, positions Regional Auto Group as a committed community partner rather than a late-arriving opportunist. Thompson has been building a coalition for twelve ticks; showing up as an ally when the board decision is still fresh is the right moment."
+    }
+  ]
+}

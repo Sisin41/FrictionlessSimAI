@@ -1,0 +1,31 @@
+{
+  "agent_id": "auto_shop_teacher",
+  "tick": 12,
+  "emotional_state": "taut anticipation — the board decision is either in hand or one conversation away, and the coalition built over twelve months is about to either convert into institutional support or force a pivot to the community college pathway",
+  "actions": [
+    {
+      "type": "COMMITMENT",
+      "description": "Act on the board decision, whichever direction it went. If the vote was affirmative: confirm in writing with the board secretary that the Millfield Auto Tech Pipeline has approved funding and equipment budget, and immediately contact the community college articulation agreement contact Santos referred me to in order to schedule the first formal meeting about the two-stage HS-to-CC pipeline structure. If the vote was negative or delayed: contact Councilmember Santos directly and ask her to activate the workforce transition grant pathway as a standalone funding channel, using the program's existing coalition — Howard Liu's statement, Sarah Kim's confirmed guest session, the RoboRide fleet maintenance gap data — as the grant application documentation. Either way, I do not wait past this week to know where the program stands.",
+      "target": "school_board",
+      "rationale": "Twelve ticks of coalition-building and board engagement converge at this decision point. Passive waiting is no longer appropriate. The board was given a decision timeline at tick 11 — this tick I act on the answer, not the question."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Call Mark Thompson at Millfield High — my own name from other agents' perspectives — to confirm the status of Sarah Kim's guest instructor session. Sarah committed at tick 6 and was named in the tick 9 board presentation as a confirmed partner. This tick I set the actual date for her classroom visit. I give her two options in the current month: the Thursday session on hybrid diagnostic basics, or the following Saturday open shop session. A confirmed date turns a coalition commitment into a program event, which is what the community college articulation discussion will need to see as evidence that industry partnership is operational, not theoretical.",
+      "target": "mechanic_sarah",
+      "rationale": "Sarah Kim's guest instructor session has been 'confirmed' for six ticks without a date. Converting it from commitment to scheduled event is both a pedagogical priority and an evidence milestone for the program's credibility with the community college and any active grant pathway."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Connect with Lisa Freeman at the community center to activate the displaced worker referral pipeline we discussed at tick 11. Specifically: I give Lisa a one-page program flyer for the Millfield Auto Tech Pipeline that she can distribute at Community Connection Nights and Financial Triage Navigator sessions. The flyer names the program, lists eligibility (any Millfield resident with interest in automotive technology, no prior experience required for the entry cohort), and gives my direct contact information. I also tell Lisa about any displaced workers from the Regional Auto Group Hawkins location closure who may have mechanical aptitude — if Angela Wright's transition program is routing anyone in that direction, the pipeline has capacity to absorb them. Lisa's Financial Triage Navigator is exactly the intake point where a displaced Hawkins worker could be told about a credentialed pathway.",
+      "target": "community_organizer",
+      "rationale": "The referral pipeline with Lisa Freeman is the student demand mechanism the program needs to demonstrate enrollment viability regardless of the board decision outcome. The Hawkins closure has created a population of displaced workers — some with mechanical backgrounds — who are exactly the program's target cohort."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Draft the community college articulation agreement outline — not the final legal document, but a two-page framework covering: program learning outcomes alignment between the Millfield High auto tech curriculum and the CC EV certification pathway, proposed course equivalencies or credit transfer mechanisms, and the referral pathway structure. This document does not require the board to have voted yes yet — it is the preparation work that makes the first articulation meeting productive rather than introductory. Santos gave me the right contact at the community college. I want to walk into that meeting with a draft, not a concept.",
+      "target": "community_college_contact",
+      "rationale": "The articulation agreement is the structural output that converts the Millfield Auto Tech Pipeline from a standalone high school program into a two-stage credentialing pathway. Whether the board funded it or not, the community college partnership gives the program institutional legitimacy that survives any single board cycle. Doing this preparation now compresses the timeline by one to two ticks."
+    }
+  ]
+}

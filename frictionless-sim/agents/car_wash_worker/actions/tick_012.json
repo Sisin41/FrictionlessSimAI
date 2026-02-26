@@ -1,0 +1,31 @@
+{
+  "agent_id": "car_wash_worker",
+  "tick": 12,
+  "emotional_state": "tense and focused — one month from cert completion, zero savings, gig income is the only thing keeping the lights on. Carlos's intel from tick 11 is the most valuable input Miguel has received in this entire simulation. He has fleet operator contacts, EV credential pathway clarity, and a mentor who confirmed the destination is real. The cert finishes next month if he does not break now.",
+  "actions": [
+    {
+      "type": "TRANSFORMATION",
+      "description": "Attend every scheduled automotive service technician certificate class in month 8 — the final month of the program. This is the non-negotiable. No gig shift, no financial emergency, no outside circumstance overrides Tuesday evening, Thursday evening, and Saturday morning class. Miguel is one month from a credential that represents twelve months of sacrifice at zero savings. The program is at roughly 87-90% completion. He finishes. He also follows through on the EV curriculum question with the program coordinator this month: if the remaining sessions include any hybrid or EV content, he pays maximum attention and asks the instructor for any supplementary resources or contacts in the EV certification space. If the final modules are purely conventional, he confirms with the coordinator the exact name, cost, and enrollment timeline for the EVT Level 2 follow-on credential so he can begin planning immediately after graduation.",
+      "target": null,
+      "rationale": "Month 8 is the final month. The cert is the asset everything else is built on. Missing a single class in the final stretch would be a betrayal of eleven months of discipline at zero savings. Completion is the only acceptable outcome."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Follow up with Carlos Ruiz on the specific intelligence he delivered last tick — the three employer contacts and the EV hiring landscape. Miguel now does one concrete thing with that information: he drafts a brief, professional introduction email to the most realistic contact Carlos identified for someone completing a general automotive cert without EV specialization yet. He does not send it without showing Carlos first. He asks Carlos to read the draft and tell him if the framing is right — whether it sounds like someone who knows the industry or someone who sounds like a student. The goal this tick is not to get a job. It is to have a ready introduction that can go out the week after cert completion. Preparation now, deployment at graduation.",
+      "target": "mechanic_carlos",
+      "rationale": "Carlos provided the most actionable information Miguel has received — fleet operator contacts who are actively hiring. Converting that intelligence into a drafted introduction, reviewed by Carlos himself, means Miguel walks out of graduation with employer outreach ready to send rather than starting from scratch in a high-stress moment with zero savings."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Maximize gig delivery income this month — the final survival bridge before the cert completes. Miguel runs RoboRide last-mile delivery and DoorDash bike routes on every available morning, afternoon, and Sunday slot that does not conflict with class. Target: $550-700 this month. He tracks his earnings daily in a notes app. If he hits $400 by mid-month he keeps the same pace. If he is behind $250 by mid-month he picks up one additional Saturday afternoon shift by temporarily adjusting a non-class commitment. The cert schedule is the fixed constraint. Everything else flexes around it. He does not borrow money. He does not skip a meal. He manages the gap with hustle, not drama.",
+      "target": null,
+      "rationale": "Zero savings and $1,200 in monthly essentials means gig income is the only thing standing between Miguel and a decision to drop the cert in the final month. The delivery income has to cover essentials. One more month of this pace and the credential is in hand."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Reach out to Lisa Freeman at the community center — not for personal financial assistance, but to introduce himself as someone who is one month from completing the Millfield CC automotive service tech certificate and actively pursuing EV fleet maintenance work. Miguel heard from the network that the community center is running Financial Triage Navigator sessions and connecting displaced workers to pathways. He wants Lisa to know about the cert completion timeline in case anyone coming through the center with mechanical aptitude or automotive interest needs a peer voice about what the training is actually like. He is also checking whether the Kevin O'Brien grant application he applied for at tick 8 has produced any result — if there is a community center contact for that program status, this is the right conversation to ask.",
+      "target": "community_organizer",
+      "rationale": "The community center's Financial Triage Navigator and referral network could generate both post-cert employment leads and information about the pending grant application. Miguel initiating this contact positions him as a community resource — someone who just completed the cert and can speak to displaced workers about the training pathway — rather than solely a service recipient. That positioning is more useful to his long-term network."
+    }
+  ]
+}

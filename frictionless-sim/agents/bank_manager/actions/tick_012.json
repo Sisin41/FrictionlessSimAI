@@ -1,0 +1,31 @@
+{
+  "agent_id": "bank_manager",
+  "tick": 12,
+  "emotional_state": "deliberate urgency — the second institution application is live, the credit union phone follow-up from tick 11 is either producing a response or it is not, the credential is at 75% and finishing it within two ticks is the clearest path to a credentialed pitch. Savings are around $126,000 and the burn rate of $6,961 is real. Twelve months unemployed. No panic, but no more patience for slow sequencing.",
+  "actions": [
+    {
+      "type": "SIGNAL",
+      "description": "Close the Millfield Community Credit Union loop definitively. If the phone call from tick 11 produced a response — a scheduled meeting, a name, any live signal — I follow through immediately: confirm the meeting, prepare the three-minute disruption-period pitch centered on the SBA commercial lending credential and the regional scenario models. If the phone call produced nothing, I mark this lead closed and shift the energy to the second application track and two new outreach targets. I do not spend a third tick on a contact that has not responded to email, follow-up note, and a direct phone call. That is the full sequence. The answer is either yes or it is no.",
+      "target": "millfield_community_credit_union",
+      "rationale": "The credit union has been the primary outreach target since tick 9. Three months of sequential contact without a confirmed meeting means either the lead is warm and about to convert, or it is cold and needs to be released. Either resolution frees energy for better-yielding contacts."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Push the SBA commercial lending coursework from 75% to 90% completion this tick — a focused block of 10-12 study hours spread across four sessions. At 90% I can legitimately tell any employer the credential finishes next month. That framing changes the application posture from 'in progress' to 'completing imminently.' The credential is the differentiator and every week it sits at 75% is a week I am pitching something that is not fully real yet. I finish it. Kevin O'Brien used my analysis to expand the branch's SBA product line. The credential that produced that analysis should be in my hand, not in my progress bar.",
+      "target": null,
+      "rationale": "At 90% completion the credential shifts from a future differentiator to a present one in employer conversations. The burn rate is $6,961/month. Compressing the timeline from 4 more months to 2 more months is meaningful and achievable with concentrated effort."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Expand active outreach to two additional community lending institutions beyond the credit union — one regional CDFI and one community development bank that has publicly engaged with Millfield's economic disruption. This is not scattershot mass-applying. Each outreach is targeted, leads with the disruption-period scenario modeling, and names the SBA credential specifically. The pitch for each: I saw the regional auto loan contraction before it happened, I modeled it, I spent the past year completing the SBA 7(a) commercial lending certification, and I am available to bring that combination of disruption-period judgment and community lending credentials to an institution that is navigating this market. Two contacts this tick, not one. The sequential one-at-a-time approach has consumed six months. This is the correction.",
+      "target": null,
+      "rationale": "The employment rate in Millfield is 50%, spending index at 26, Gini at 0.676 — community lending institutions serving this market should be seeing increased demand for exactly the credit intermediation work the SBA credential covers. Three parallel contacts is not desperation; it is appropriate to the market environment and the twelve-month employment gap."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Follow through on the Linda Park peer knowledge exchange initiated at tick 11. Send her the regional auto loan contraction scenario models from First Community Bank — the three-scenario document (15%, 30%, 50% volume decline projections) that I built in ticks 1-2 and refined through tick 5. Frame the exchange clearly: these are the lending-side models, she has the insurance-side policy cancellation data, together they create a more complete picture of regional financial disruption than either of us has alone. I am not asking her to refer me to a job. I am offering her something of direct value in her own job search. If she is pitching herself for fleet risk and logistics roles, the lending-side demand contraction data strengthens that pitch. The relationship maintains itself when both parties are getting something real from it.",
+      "target": "insurance_manager",
+      "rationale": "Linda Park is navigating her own transition and is not in a position to function as a job referral source. But a peer knowledge exchange — lending-side scenario models for insurance-side policy data — sustains the relationship at a moment when both parties are in active search mode, and gives both a more complete analytical picture for employer conversations."
+    }
+  ]
+}

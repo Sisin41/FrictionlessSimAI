@@ -1,0 +1,31 @@
+{
+  "agent_id": "community_organizer",
+  "tick": 12,
+  "emotional_state": "grounded and operationally focused — the Financial Triage Navigator has been running for two ticks and the intake structure is tightening. The community is still in acute pain: 50% employment, Hawkins closure complete, protests cooling but structural displacement intensifying. Lisa Freeman is not waiting for institutions to move first anymore. She is the institution that is moving.",
+  "actions": [
+    {
+      "type": "TRANSFORMATION",
+      "description": "Run the third week of Financial Triage Navigator sessions with the refined intake structure from tick 11 — pre-session intake form, 45-minute structured sessions, aggregate outcome tracking. This tick I also compile the first utilization report: total sessions conducted since launch, how many participants left with a specific prioritized next step versus no clear action, how many were referred to Kevin O'Brien's office hours, how many to the retraining programs, how many to the community college pathway, and how many presented needs that no existing resource in Millfield currently addresses. That last category — unmet needs — is the most important data point for any future funding conversation with Maria Santos or a grant source. Knowing the gap precisely is the first step to closing it.",
+      "target": null,
+      "rationale": "The Financial Triage Navigator's value to the community is only demonstrable through documented utilization. The first utilization report — even if it covers only two weeks of sessions — creates the evidence base for a funding conversation at tick 14 or 15. Building that evidence now, while the sessions are fresh, is how the service transitions from a personal commitment to an institutionally supported program."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Follow through on the Nicole Washington connection established at tick 11. This tick I move from introduction to a specific ask: will Nicole come to the community center for one Community Connection Night to sit with participants who are asking about healthcare credential pathways and hospital hiring? Not a panel, not a presentation — a table in the corner where people can sit down with her for ten minutes and ask real questions about what the pathway actually looks like. I give her the date, I handle the logistics, I make it as low-friction as possible. Nicole is a working nurse and a single parent. I honor that by making the ask concrete and bounded: one evening, one table, her own judgment about who she can help.",
+      "target": "nurse_nicole",
+      "rationale": "Nicole Washington's peer navigation work for healthcare pathways is exactly the kind of community-embedded knowledge the Financial Triage Navigator is built on. Converting her from a named contact to a present resource at the community center closes a specific gap that no program or brochure can fill — the gap between official pathway information and what it actually feels like to navigate it."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Respond to the outreach from Mark Thompson's auto shop program — either the board decision outcome came through the network this tick, or Thompson contacts me directly about the referral pipeline we discussed at tick 11. Either way, this tick I formalize the referral coordination in writing: a one-paragraph description of how the Millfield Auto Tech Pipeline and the community center's Financial Triage Navigator connect in practice. The description goes into both organizations' handout materials. When a displaced worker comes through the Navigator with mechanical or technical aptitude and no clear direction, they are told about the pipeline by name. When a student in the Auto Tech Pipeline hits financial barriers to continuing — tuition, transportation, lost income from a second job — they are referred to the Navigator. The two programs serve the same population from different entry points. The connection should be explicit, not implied.",
+      "target": "auto_shop_teacher",
+      "rationale": "The Auto Tech Pipeline and the Financial Triage Navigator are natural complements in Millfield's disruption response ecosystem. Thompson has been building the supply-side credential pathway; the community center has been building the demand-side intake and support structure. Formalizing the connection in written materials converts two separate programs into a visible, coordinated system — which is more useful to the community and more compelling to any funder or council member looking for evidence of institutional coordination."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Send Maria Santos the first Financial Triage Navigator utilization data — the aggregate counts from the first two weeks of sessions — with a brief cover note framing it as the community center's implementation of the concept brief I brought to the task force at tick 9. The note is one paragraph: here is what the navigator is doing, here is who it is serving, here is the gap category that no existing program currently addresses. I am not asking Maria for funding in this communication. I am showing her that the thing I said was coming is operating. When the funding conversation comes — and it will — I want her to already know the navigator is real and functional, not hearing about it for the first time in a grant application.",
+      "target": "council_member",
+      "rationale": "The relationship with Maria Santos has been built on one consistent pattern: I say something is coming, then I deliver it. Maintaining that pattern with the Financial Triage Navigator — showing her utilization data before she asks for it — sustains the institutional trust that makes the community center a credible partner in the city's disruption response. The funding ask will be more effective when it arrives after a track record of delivery, not before."
+    }
+  ]
+}
