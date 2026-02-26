@@ -78,16 +78,16 @@
     "sentiment": "determined"
   },
   "psychological": {
-    "stress_level": 0.15,
+    "stress_level": 0.09,
     "agency": 0.5,
     "grief_stage": "depression",
     "temporal_horizon_months": 10,
     "high_stress_ticks": 0
   },
   "financial": {
-    "monthly_income": 0,
+    "monthly_income": 120,
     "monthly_expenses": 2404,
-    "savings": 0,
+    "savings": -2284,
     "debt_total": 20222,
     "credit_score": 581
   },
@@ -106,7 +106,7 @@
       "description": "enroll in and begin google digital marketing and e-commerce certificate on coursera. start first two modules this month. this is the retraining path i named last tick \u2014 this month i actually pay for it and start the first coursework. $49/month subscription. i will do this in the evenings after cafe shifts. this is not quitting anything, it is building the parallel skill set so when cafe hours get cut or gig demand dries up, i have somewhere to pivot.",
       "started_tick": 4,
       "completion_eta_months": 8,
-      "progress": 0.32,
+      "progress": 0.36,
       "months_invested": 3
     }
   ],
@@ -122,5 +122,5 @@
   },
   "locality": "millfield",
   "archetype": "adapter",
-  "tick_updated": 11
+  "tick_updated": 12
 }

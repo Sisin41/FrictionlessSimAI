@@ -149,6 +149,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You routine. Savings dropped by $4,630. "
+    },
+    {
+      "tick": 12,
+      "action": "Contacted Millfield General staffing office and charge nurse about rehire; reached per-diem agency Millfield Staffing Solutions and secured two immediate shifts",
+      "savings_delta": -3798,
+      "stress_delta": -0.05,
+      "employment_changed": false,
+      "narrative": "Nicole called her charge nurse Linda Reyes directly and confirmed that her separation was processed as a reduction-in-force, which means recall rights apply — but HR administrative processing will take two to three weeks before she is back on the official schedule. The charge nurse confirmed the transitional care unit has open shifts and put Nicole's name on the internal recall list personally. Nicole then called Millfield Staffing Solutions and spoke with a placement coordinator named Andrea Torres, who confirmed two available per-diem RN floor coverage shifts this week at $52/hour — one Wednesday, one Friday — generating approximately $832 in bridge income before the recall is processed. The per-diem shifts will not cover the full monthly burn but they extend runway, keep her credential active, and put her back on a hospital floor while the formal rehire resolves."
     }
   ],
   "reflections": [

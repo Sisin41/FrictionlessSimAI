@@ -144,6 +144,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You routine. Savings dropped by $4,681. "
+    },
+    {
+      "tick": 12,
+      "action": "Forced Lisa Freeman decision on two pending bids; submitted two new targeted bids for drainage and roofing work; activated Carlos Ruiz as referral source",
+      "savings_delta": -4681,
+      "stress_delta": -0.03,
+      "employment_changed": false,
+      "narrative": "Dale called Lisa Freeman directly and got the answer he needed: the drainage and waterproofing bid on the Elm Street property is moving forward — the owner, a retired teacher named Harold Grant, had been waiting on a relative's opinion and got it this week, and he wants Dale to start within two weeks. The second bid (a fence and grading project) remains stalled and Lisa is treating it as cold. More significantly, Lisa confirmed the community center has a failing section of flat roof over the annex — she is bringing Dale's name to the board this week with a nonprofit rate conversation in mind. Carlos Ruiz took the referral ask without any awkwardness and mentioned a property on Concord Lane whose owner has been asking around about basement waterproofing — he promised to pass the name along. Two new bids went out for essential-repair work: roofing on a duplex flagged by a former client, and drainage grading for a residential property near the creek corridor."
     }
   ],
   "reflections": [

@@ -77,16 +77,16 @@
     "sentiment": "anxious"
   },
   "psychological": {
-    "stress_level": 0.21,
+    "stress_level": 0.14,
     "agency": 0.6,
     "grief_stage": "depression",
     "temporal_horizon_months": 10,
     "high_stress_ticks": 0
   },
   "financial": {
-    "monthly_income": 0,
+    "monthly_income": 380,
     "monthly_expenses": 1787,
-    "savings": 0,
+    "savings": -1407,
     "debt_total": 35485,
     "credit_score": 796
   },
@@ -113,5 +113,5 @@
   },
   "locality": "millfield",
   "archetype": "adapter",
-  "tick_updated": 11
+  "tick_updated": 12
 }
