@@ -1,0 +1,34 @@
+{
+  "tick": 13,
+  "agent_id": "auto_shop_teacher",
+  "agent_name": "Mark Thompson",
+  "response": {
+    "internal_assessment": "L2 PARTICIPATE is now secured — the school board voted yes. The program is funded. That fight is over, and I won it. L0 and L1 remain stable: 9+ months runway, $32K in savings, employed. The threat that consumed twelve ticks of my life has resolved. Now the question is: what do I do with that? I am shifting to L5 BUILD. The approval is meaningless if I don't execute. The articulation agreement with the community college needs to be formalized before administrative momentum fades. Sarah Kim's guest session is scheduled — I need to make it count, treat it as a live recruitment event for students and as proof-of-concept for the advisory structure. The cross-referral pipeline with Lisa Freeman is agreed in writing but untested. And I need to begin enrollment outreach — students have to actually choose this program for the equipment budget to mean anything at all. The world outside is ugly: 50% employment rate, consumer spending at 25% of baseline. That makes what I'm doing MORE important, not less. These kids need a trade that survives the next decade. My job now is to build something durable.",
+    "chosen_actions": [
+      {
+        "type": "COMMITMENT",
+        "description": "Attend the formal community college articulation meeting with the CC contact Santos referred me to. Bring the two-page articulation agreement framework draft. Goal: leave with a signed MOU or at minimum a concrete next-step timeline — dual enrollment pathway, transcript credit for ASE prep modules, and shared equipment access provisions. This makes the pipeline real on both ends.",
+        "target_agent": null,
+        "resources_involved": "Time, the articulation agreement framework draft, no money outlay. If equipment-sharing is on the table, flag it for a separate budget approval process.",
+        "reasoning": "Administrative momentum is perishable. The board just said yes. The CC contact is warm and expecting this meeting. If I delay, the window narrows. A signed MOU turns the Pipeline from a good idea into a structural pathway that outlasts me personally. Loss aversion works in my favor here: I am terrified of letting this approval evaporate into bureaucratic nothing."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Host Sarah Kim's hybrid diagnostics guest session in the shop classroom this tick. Frame it explicitly as a live demonstration for current and prospective students — invite the guidance counselor to observe so they can speak to the program with firsthand knowledge. Document it with photos and a one-paragraph write-up for the school newsletter and board update. This is the first public-facing proof that the Pipeline is operational, not just approved.",
+        "target_agent": "mechanic_sarah",
+        "resources_involved": "Shop classroom time, no direct cost. Sarah is doing this as a professional networking and community goodwill action — no payment required this tick.",
+        "reasoning": "I scheduled this session last tick. I need to execute it now while the board approval is fresh and while Sarah's commitment is warm. A guest session that goes well becomes a repeatable structure. Documented proof-of-concept makes the program harder to cut in future budget cycles. The guidance counselor's presence multiplies the enrollment signal through a channel I don't control."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Send a brief personal update to Howard Liu thanking him for his written statement that helped secure the board vote. Tell him the Pipeline is approved and that I'm building the advisory structure — ask if he would be willing to serve as an industry advisory board member for one meeting per quarter. No formal commitment required yet, just an open door.",
+        "target_agent": "parts_store_owner",
+        "resources_involved": "Time only. A phone call or short visit to the store.",
+        "reasoning": "Howard took a real professional risk writing that statement. Acknowledging it costs me nothing and deepens the trust. An advisory board with a local parts supplier on it signals industry legitimacy to the school board, to the CC, and to prospective students' parents. Howard is struggling with the economic headwinds — his store is under pressure from RoboRide reducing personal vehicle miles. Giving him a visible role in something forward-looking might matter to him right now."
+      }
+    ],
+    "emotional_state": "relieved",
+    "archetype_self_assessment": "builder",
+    "inner_monologue": "Twelve ticks of fighting for this program and the board finally said yes — now the real work starts, and I am not going to let administrative inertia be what kills what I just saved."
+  }
+}

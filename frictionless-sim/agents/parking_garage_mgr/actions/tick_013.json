@@ -1,0 +1,34 @@
+{
+  "tick": 13,
+  "agent_id": "parking_garage_mgr",
+  "agent_name": "Denise Williams",
+  "response": {
+    "internal_assessment": "Optimizing L2 PARTICIPATE — the Millfield General track is the live wire right now. The facilities director's response was the most positive signal I have received in thirteen ticks of searching. With unemployment at 50% and the spending index at 25, the window to land inside a countercyclical employer is not permanent. I have 7.4 months of runway and savings growing steadily. L0 and L1 are stable. The urgent question is whether this Millfield General process advances to a second interview or stalls. I need to be visible and present in the right way — not aggressive, not absent. Also: Betty Kowalski is stressed. The inbox flagged her by name. She is in my network and I have not maintained that relationship since tick 5. High-trust networks require maintenance in hard times especially.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Proactively reach out to Grace Okafor with a brief, specific message. Her intelligence that 'they called two more people from my program this week' is a direct indicator that the Millfield General process is moving. I send her a short note — not a request for status, not pressure — but a professional peer check-in: 'Saw your update. Wanted you to know I am still actively interested and available. If anything surfaces where a word from you would be useful, I am grateful for it.' I am not asking her to do anything. I am keeping the connection warm and making sure she knows I am still in the race. Grace is my highest-trust contact with direct sight lines into that institution. This is not networking performance — this is relationship maintenance with someone who has already demonstrated she will go to bat for me.",
+        "target_agent": "uber_driver_2",
+        "resources_involved": "Time, social capital",
+        "reasoning": "The facilities director's response used language that rarely appears in polite form rejections — 'exactly the kind of systems thinking we need in this role' is specific praise, not courtesy. Grace's follow-up confirms the institution is actively moving candidates. I need to be visible to Grace at this moment without being anxious or transactional about it. One short message, warm and professional, sustains the relationship and keeps my name current in her mind."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Reach out to Betty Kowalski — not about jobs, not about networking strategy. A direct, human check-in. She runs the Auto Row Diner and the inbox flagged her by name as stressed. I send her a short message: 'Saw the mood around town. Hope things are holding up. Coffee on me if you want to talk.' No agenda. The diner sits at the intersection of every disrupted sector in this economy — transportation workers, mechanics, car wash staff, commuters. Betty sees what is happening in real time. More importantly, she is a person in my network under pressure, and I have not been present with her since tick 5. Maintaining a high-trust network through hard times is not just self-interested — it is the right thing to do.",
+        "target_agent": "diner_owner",
+        "resources_involved": "Time, social capital, small discretionary spend for coffee if the meeting happens",
+        "reasoning": "Betty was flagged by name in the SOCIAL inbox item. I have not meaningfully engaged with her since tick 5. Networks that only activate when you need something are not networks — they are extraction operations. I reach out to Betty because she is a person under stress in my community and because the relationship matters independent of what she can do for me. If useful intelligence comes from that conversation, it is a byproduct, not the purpose."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Continue the retraining trajectory: now that the logistics hub application is submitted and the Millfield General process is live, focus this month's professional development time on deepening familiarity with healthcare facilities compliance frameworks — specifically Joint Commission standards for hospital infrastructure and OSHA requirements for healthcare environments. These are the credential domains that differentiate facilities managers inside hospital systems from general operations managers. I have not claimed healthcare-specific credentials because I do not have them. But I can demonstrate I have begun to learn the landscape — and if I reach a second interview or an offer stage, I need to be able to speak to this without bluffing. This is not resume padding. It is targeted preparation for a specific role that appears within reach.",
+        "target_agent": null,
+        "resources_involved": "Time, some online study (free or low-cost)",
+        "reasoning": "The retraining program has been progressing at 30% over 3 months. The broad repositioning framing is working — the facilities director's feedback confirms it. But Millfield General is a healthcare environment and if I advance to a final round, the gap in healthcare-specific knowledge will surface. I close it now while I have time, not after I am already in the interview. This is disciplined preparation, not anxiety spiraling."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "builder",
+    "inner_monologue": "The Millfield General door is still open and I am going to walk through it — but I am not going to sprint and trip over myself getting there."
+  }
+}

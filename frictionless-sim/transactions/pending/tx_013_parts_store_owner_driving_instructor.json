@@ -1,0 +1,9 @@
+{
+  "id": "tx_013_parts_store_owner_driving_instructor",
+  "tick": 13,
+  "initiator": "parts_store_owner",
+  "target": "driving_instructor",
+  "type": "COMMITMENT",
+  "description": "Howard Liu accepts Frank Russo's offer to deliver a two-hour AV literacy and EV diagnostics workshop for Howard's Parts staff at a fee of $500. Howard requests a segment on EV/hybrid brake wear patterns specifically, and invites Carlos Ruiz and Sarah Kim to attend as guests, converting the training cost into a B2B relationship event.",
+  "status": "pending"
+}

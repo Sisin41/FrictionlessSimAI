@@ -1,0 +1,9 @@
+{
+  "id": "tx_013_parts_store_owner_mechanic_sarah",
+  "tick": 13,
+  "initiator": "parts_store_owner",
+  "target": "mechanic_sarah",
+  "type": "SIGNAL",
+  "description": "Howard Liu makes a first dedicated customer discovery call to Sarah Kim: asking what EV/hybrid work her shop is taking on, what parts are hardest to source, and what would make Howard's Parts her obvious local first call. Howard also invites Sarah to attend the Frank Russo EV diagnostics workshop as a guest.",
+  "status": "pending"
+}

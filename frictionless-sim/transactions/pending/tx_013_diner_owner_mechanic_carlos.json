@@ -1,0 +1,9 @@
+{
+  "id": "tx_013_diner_owner_mechanic_carlos",
+  "tick": 13,
+  "initiator": "diner_owner",
+  "target": "mechanic_carlos",
+  "type": "SIGNAL",
+  "description": "Betty Kowalski calls Carlos Ruiz to inform him that the Auto Row Diner is now operating as a delivery kitchen through the RoboRide partnership. She asks Carlos to spread word to former Auto Row workers and contacts who may want meal delivery service, and specifically asks whether Miguel Hernandez or any work crew in his network might be interested in regular delivery orders.",
+  "status": "pending"
+}

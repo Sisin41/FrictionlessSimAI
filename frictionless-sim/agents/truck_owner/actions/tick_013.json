@@ -3,32 +3,32 @@
   "agent_id": "truck_owner",
   "agent_name": "Dale Cooper",
   "response": {
-    "internal_assessment": "Optimizing L2 PARTICIPATE. I am unemployed and burning $4,681 a month. Savings at $34,048 — less than eight months of runway. But the picture changed last tick: Harold Grant confirmed the Elm Street drainage and waterproofing job and wants me to start within two weeks. That is the number one priority this tick — nail down the start date, order materials, and get boots on the ground. The pipeline is showing real signals for the first time in months. Lisa Freeman is taking my name to the community center board this week. Carlos has a waterproofing referral on Concord Lane. Two more bids are floating. I am not out of the woods but I can see the tree line. The economic backdrop is ugly — employment rate at 50%, spending index at 25 — but essential repair work is recession-resistant. People cannot defer a failing flat roof or a leaking foundation the way they defer a new garage. I positioned correctly by pivoting to needs-based work. Now I have to execute.",
+    "internal_assessment": "Optimizing L2 PARTICIPATE. I am unemployed and burning $4,681 a month. Savings at $34,048 — about seven months of runway. But the picture changed last tick: Harold Grant confirmed the Elm Street drainage and waterproofing job and wants me to start within two weeks. That is the number one priority this tick — nail down the start date, order materials, get boots on the ground. The pipeline is showing real signals for the first time in months. Lisa Freeman is taking my name to the community center board this week. Carlos has a waterproofing referral on Concord Lane. Two more bids are floating. I am not out of the woods but I can see the tree line. The economic backdrop is ugly — employment rate at 50%, spending index at 25 — but essential repair work is recession-resistant. People cannot defer a failing flat roof or a leaking foundation the way they defer a new garage. I pivoted to needs-based work at the right time. Now I have to execute.",
     "chosen_actions": [
       {
         "type": "COMMITMENT",
-        "description": "Confirm the formal start date with Harold Grant for the Elm Street drainage and waterproofing project. Call him directly, agree on a two-week start, and begin materials procurement today — order drainage aggregate, waterproofing membrane, and form lumber. This converts the confirmed bid into active employment and restores income.",
+        "description": "Call Harold Grant today to confirm the formal start date for the Elm Street drainage and waterproofing project. Agree on a start date within two weeks and begin materials procurement immediately — order drainage aggregate, waterproofing membrane, and form lumber. This converts the confirmed bid into active work and restores income for the first time since tick 9.",
         "target_agent": null,
-        "resources_involved": "Materials deposit estimated $800-1,200 drawn from savings. Start of income stream estimated $4,500-6,500 total job value over 3-4 weeks.",
-        "reasoning": "This is the highest-value action available to me right now. The job is confirmed, the client is ready, and every day I do not start is a day I am burning savings without earning. Loss aversion cuts both ways here — staying idle while a confirmed job waits is the real loss. Harold waited on a family opinion and now he wants to move. I respect that rhythm. I call him today."
+        "resources_involved": "Materials deposit estimated $800-1,200 drawn from savings. Job value estimated $4,500-6,500 total over 3-4 weeks of work.",
+        "reasoning": "This is the highest-value action available. The job is confirmed, the client is ready, and every day I do not start is a day burning savings with no offset. Harold waited on a family opinion and now he wants to move. I respect that rhythm and I meet it by calling today. Loss aversion applies here — staying idle while a confirmed job sits uncommitted is the real loss."
       },
       {
         "type": "SIGNAL",
-        "description": "Follow up with Lisa Freeman — not to push her, but to confirm she has what she needs to bring my name to the community center board. Send a brief written note with my license number, a summary of the flat roof work I have done, and two references. Make it easy for her to advocate for me in that room. Also confirm I am aware the board conversation is happening this week and that I am prepared to discuss nonprofit rates.",
+        "description": "Send Lisa Freeman a brief written note with my contractor license number, a summary of flat roof work I have done, and two references — so she walks into the board meeting this week with everything she needs to advocate for me. Acknowledge I know the conversation is happening and that I am prepared to discuss nonprofit rates seriously.",
         "target_agent": "community_organizer",
-        "resources_involved": "No direct cost. Goodwill investment. Potential contract value $8,000-15,000 for flat roof repair over the annex.",
-        "reasoning": "Lisa is putting her credibility on the line for me with the board. The least I can do is make sure she has the right materials to close that conversation. This is a warm lead turned nearly hot — I do not want it to go cold because the board asked a question Lisa could not answer. One well-timed follow-up note does the work."
+        "resources_involved": "No direct cost. Goodwill investment in a warm professional relationship. Potential contract value $8,000-15,000 for flat roof repair over the annex.",
+        "reasoning": "Lisa is putting her credibility on the line for me with the board. One well-prepared follow-up note ensures the conversation does not stall on a question she cannot answer. This is not pressure — it is support. The community center roof is the largest single potential job in my pipeline and I cannot afford to let it slip on a procedural detail."
       },
       {
         "type": "SIGNAL",
-        "description": "Send a quick message to Carlos Ruiz thanking him for the Concord Lane waterproofing referral and asking whether the property owner has been contacted yet. If Carlos has passed the name along, I follow up directly with the Concord Lane owner this week — I want to be the first contractor through the door on that basement job.",
+        "description": "Text Carlos Ruiz to thank him for the Concord Lane waterproofing referral and ask directly whether the owner has been contacted. If so, I follow up with the Concord Lane owner this week — I want to be the first contractor through the door on that basement job before other bids come in.",
         "target_agent": "mechanic_carlos",
         "resources_involved": "No cost. Potential job value $2,500-4,000 for basement waterproofing.",
-        "reasoning": "Carlos came through. He said he would pass the name along and I believe him. But referrals go stale fast — the Concord Lane owner is asking around, which means other contractors may hear about it too. I need to move on this before the competition does. This is a five-minute text that protects a potential job."
+        "reasoning": "Carlos came through. Referrals go stale fast — the Concord Lane owner is asking around, which means other contractors may hear about it too. A five-minute text that activates a live referral is worth doing today."
       }
     ],
     "emotional_state": "determined",
     "archetype_self_assessment": "hustler",
-    "inner_monologue": "I spent four months watching my savings drain while I waited on one big job that never came — I am not doing that again, so I called people, did the work, and now I have something real in front of me; time to start."
+    "inner_monologue": "Four months of savings bleeding out while I waited on the wrong job — I changed course, did the work on the relationships, and now I have something real confirmed; I pick up the phone and start today."
   }
 }

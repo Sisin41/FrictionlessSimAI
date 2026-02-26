@@ -1,0 +1,9 @@
+{
+  "id": "tx_013_parts_store_owner_mechanic_carlos",
+  "tick": 13,
+  "initiator": "parts_store_owner",
+  "target": "mechanic_carlos",
+  "type": "EXCHANGE",
+  "description": "Howard Liu proposes converting the one-off PO relationship with Carlos Ruiz into a recurring monthly supply arrangement: Carlos specifies monthly consumption of brake hardware, hybrid diagnostic connectors, and safety consumables; Howard fulfills within 24 hours at a 5% loyalty discount. No contract, no minimums — a handshake monthly commitment that Carlos can adjust or pause.",
+  "status": "pending"
+}

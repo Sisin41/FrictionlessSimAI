@@ -1,0 +1,27 @@
+{
+  "tick": 13,
+  "agent_id": "single_parent",
+  "agent_name": "Nicole Washington",
+  "response": {
+    "internal_assessment": "L0 SURVIVE is the only level that matters right now. $192 in savings, $4,630 monthly burn, $832 monthly income. That is not a financial cushion situation — that is a crisis I am managing week by week. The recall rights at Millfield General are real but HR moves on its own clock, not mine. I need to close that gap with every per-diem shift I can get. I am calling Andrea Torres at Millfield Staffing Solutions first thing this week and I am asking for every available floor coverage shift across any unit — not just the two I had last week, but anything open on any day. If I can stack four to six shifts at $52/hour I am covering most of the burn rate while the recall processes. I am also going to call Linda Reyes directly and ask her to push on the HR timeline. She put my name on the list personally. I am going to ask her whether there is anything I can do on my end to accelerate administrative processing — provide documentation, call HR directly, anything. I am not going to sit and wait for HR to find my file. I have recall rights. That is leverage I should be using actively. The car payment is $413 a month and I am staring at $192 in savings. I know what the math says. But I am not selling the car while I am on a recall track for 5am hospital shifts. If the recall fails and I have no employment path in four weeks, I will revisit that. Right now the car is not the problem — the gap between per-diem coverage and full-time income is the problem. One more thing: I noticed RoboRide expanded to residential coverage at $0.12 per mile. That is a real number. I am not switching my 5am logistics yet, but I am going to do a deliberate cost calculation this month on whether a RoboRide subscription could offset some of the car costs in parallel with the recall. Not acting on it — calculating it. The kids and the shifts are non-negotiable. Everything else is a variable.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Call Andrea Torres at Millfield Staffing Solutions and actively request all available per-diem RN floor coverage shifts for the coming two to three weeks — not just the standing two-shift arrangement from last tick, but any open slot across any unit at any hospital in the Millfield network. Make clear I am available for night shifts, weekend shifts, and short-notice fill. Generate maximum bridge income before the formal recall clears.",
+        "target_agent": null,
+        "resources_involved": "Time and credential availability. Potential income: up to $52/hour per shift, targeting 4-6 shifts this month for approximately $1,664-$2,496 in bridge income.",
+        "reasoning": "With $192 in savings and a $4,630 monthly expense load, I cannot absorb another month at $832 income. The per-diem market is open. Andrea confirmed availability last tick. The only constraint is my schedule and my credential, both of which are intact. This is the highest-leverage income action available to me right now and I need to move on it immediately, not at the end of the week."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Contact charge nurse Linda Reyes at Millfield General directly — not just to check status, but to ask specifically what I can do on my end to accelerate the HR recall processing. Ask whether a direct call to HR from me, submission of additional documentation, or any other action on my part can move the administrative timeline from three weeks to one. I have recall rights. I want to be back on the schedule. I am going to make sure the people who can influence that timeline know I am actively pushing.",
+        "target_agent": null,
+        "resources_involved": "Phone call. No financial cost. Possible outcome: recall processed in days rather than weeks, restoring full-time income and eliminating the bridge gap.",
+        "reasoning": "Linda Reyes put my name on the recall list personally. That relationship is warm. A direct ask — respectful, not desperate — is appropriate here and may actually move the timeline. Passive waiting is not consistent with my situation. I have $192 in savings. Every week the recall slips costs me another week of burn at the per-diem rate. Active follow-through is not pushy. It is correct."
+      }
+    ],
+    "emotional_state": "anxious",
+    "archetype_self_assessment": "hustler",
+    "inner_monologue": "I have recall rights and a warm contact at Millfield General and a staffing agency that already knows my name — what I do not have is time to wait for other people to move on their own timelines while I watch my savings hit zero."
+  }
+}
