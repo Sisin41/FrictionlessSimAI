@@ -149,6 +149,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You routine. Savings dropped by $6,961. "
+    },
+    {
+      "tick": 12,
+      "action": "Close credit union loop (call scheduled), push SBA credential to 90%, expand outreach to two new community lending institutions, share scenario models with Linda Park",
+      "savings_delta": -6961,
+      "stress_delta": -0.03,
+      "employment_changed": false,
+      "narrative": "The Millfield Community Credit Union phone call from tick 11 finally produced a live signal: the small business lending manager scheduled a 20-minute exploratory call with David Chen for next week — not a job interview, but a real conversation with a named contact. Chen marked the lead warm and prepared the three-minute disruption-period pitch around the SBA credential. He completed four focused study sessions pushing the coursework from 75% to 90%, and sent two targeted outreach messages — one to a regional CDFI active in Millfield and one to a community development bank that had publicly engaged with the auto sector contraction — each leading with the scenario modeling work and naming the credential explicitly. He also sent Linda Park the three-scenario auto loan contraction document; she responded positively and offered to share her policy cancellation data in return, sustaining the peer exchange relationship."
     }
   ],
   "reflections": [

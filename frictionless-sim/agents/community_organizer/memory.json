@@ -149,6 +149,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You routine. Savings grew by $362. "
+    },
+    {
+      "tick": 12,
+      "action": "Run week 3 Financial Triage Navigator sessions and compile first utilization report, lock in Nicole Washington for community center table event, formalize written referral coordination with Auto Tech Pipeline, send Santos utilization data",
+      "savings_delta": 724,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "Lisa Freeman ran the third week of Financial Triage Navigator sessions and compiled the first utilization report: 14 total sessions conducted since launch, 11 participants left with a specific prioritized next step, 6 referred to Kevin O'Brien's office hours, 4 referred to retraining programs, 3 referred to the community college pathway, and 4 presented needs no existing Millfield resource currently addresses — the unmet-needs category she will use in every future funding conversation. Nicole Washington agreed to sit at a corner table during the next Community Connection Night for drop-in conversations about healthcare credential pathways, a concrete bounded ask she accepted without hesitation. Mark Thompson contacted Lisa the same day the board voted yes on his program, and together they drafted a one-paragraph written description of how the Auto Tech Pipeline and the Financial Triage Navigator cross-refer the same population — now printed in both organizations' handout materials. Lisa sent Santos the utilization aggregate counts with a single-paragraph cover note; Santos responded the same day acknowledging the report and asking Lisa to flag the unmet-needs category at the next task force session."
     }
   ],
   "reflections": [

@@ -154,6 +154,14 @@
       "stress_delta": 0.0,
       "employment_changed": false,
       "narrative": "You routine. "
+    },
+    {
+      "tick": 12,
+      "action": "Complete final month of automotive cert classes, draft employer intro email for Carlos to review, maximize gig delivery income, reach out to Lisa Freeman at community center",
+      "savings_delta": -1557,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "Miguel Hernandez attended every scheduled class in month eight of the automotive service technician certificate program — Tuesday evening, Thursday evening, and Saturday morning — without missing a session, bringing the program to approximately 95% completion. He earned roughly $580 through DoorDash bike routes and RoboRide last-mile delivery shifts scheduled around classes, falling short of covering his $2,137 in monthly essentials but limiting the deficit. He drafted a professional introduction email to the most realistic of the three fleet operator contacts Carlos had provided, showed it to Carlos who confirmed the framing was right and offered to add a brief personal note, and reached out to Lisa Freeman at the community center who connected him to the Financial Triage Navigator intake and flagged his cert completion timeline to any displaced workers with mechanical aptitude coming through her sessions."
     }
   ],
   "reflections": [

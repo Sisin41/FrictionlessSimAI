@@ -76,7 +76,7 @@
     "sentiment": "tense"
   },
   "psychological": {
-    "stress_level": 0.08,
+    "stress_level": 0.06,
     "agency": 0.67,
     "grief_stage": "none",
     "temporal_horizon_months": 11,
@@ -104,8 +104,8 @@
       "description": "enroll in a part-time automotive service technician certificate program at millfield community college. classes start next month, evenings and weekends \u2014 does not conflict with car wash shifts. goal: gain a marketable trade skill before the car wash role evaporates. asked carlos (mechanic_carlos) informally if he thinks it's worth it and would consider me for an apprentice-track role once i have basics.",
       "started_tick": 4,
       "completion_eta_months": 8,
-      "progress": 0.12,
-      "months_invested": 1
+      "progress": 0.95,
+      "months_invested": 8
     }
   ],
   "temporal_mismatches": {
@@ -120,5 +120,5 @@
   },
   "locality": "millfield",
   "archetype": "adapter",
-  "tick_updated": 11
+  "tick_updated": 12
 }

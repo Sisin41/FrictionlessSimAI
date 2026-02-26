@@ -31,7 +31,7 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 20.0,
+      "runway_months": 19.0,
       "threat_level": 0,
       "monthly_essentials": 9000,
       "health_cost_from_stress": 0
@@ -84,7 +84,7 @@
     "sentiment": "determined"
   },
   "psychological": {
-    "stress_level": 0.47,
+    "stress_level": 0.44,
     "agency": 0.66,
     "grief_stage": "depression",
     "temporal_horizon_months": 8,
@@ -133,5 +133,5 @@
   },
   "locality": "millfield",
   "archetype": "adapter",
-  "tick_updated": 11
+  "tick_updated": 12
 }
