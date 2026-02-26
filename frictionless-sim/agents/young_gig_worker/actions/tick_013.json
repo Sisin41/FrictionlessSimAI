@@ -1,0 +1,34 @@
+{
+  "tick": 13,
+  "agent_id": "young_gig_worker",
+  "agent_name": "Zoe Martinez",
+  "response": {
+    "internal_assessment": "L0 is technically threatened — I have negative savings and $120 monthly income against $2,404 in expenses. That gap is not a future problem, it is a right now problem. I closed Betty last tick and that is $120/month confirmed, but I am still spending more than I earn by a lot. Miguel's referral to Carmen is the single hottest lead I have ever had — someone already asking around for social media help, someone who knows my name from Miguel's mouth. That is not a cold call. That is a warm handshake. And six DMs from the TikTok means there are potentially six more Carmens out there who just saw what I can do and reached out first. I cannot afford to let that sit. My primary optimization is L1/L0 stabilization — stop the bleeding, add income. The cert is at 36% and continuing in the background. This tick the job is: walk into Carmen's alterations shop, close the same way I closed Betty, and answer every single one of those six DMs before they go cold.",
+    "chosen_actions": [
+      {
+        "type": "EXCHANGE",
+        "description": "Walk into Carmen's alterations shop on Market Street this week — in person, not a message, not a call. Miguel's referral means she already knows my name. I pitch the same package I sold Betty: $120/month, one post per day, community tone, focused on her delivery or in-store traffic depending on what she needs. I show her Betty's account as proof of work if she asks. I ask if she wants to start this month. The ask is specific and I make it directly.",
+        "target_agent": "car_wash_worker",
+        "resources_involved": "Closing a $120/month social media management contract with Carmen via Miguel Hernandez's referral. Miguel's trust score is 0.78 — this referral carries real weight. No cash changes hands this meeting but the goal is a signed verbal commitment and first month payment within the week.",
+        "reasoning": "A warm referral from a trusted mutual contact is the highest-probability conversion opportunity I will see this month. Every day I wait on Carmen is a day another person could take that slot or she could lose interest. Betty took four minutes to say yes. Carmen is already asking around — she has already decided she wants help, she just hasn't decided from whom. I want to be the answer before she finds a different one."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Respond to all six DMs from the TikTok within 48 hours. Personalized responses, not a template. Ask each one what their business does and what they are trying to accomplish on social. Some of them are probably just fans — that is fine. But some of them are business owners who just watched a 60-second pitch about why social presence matters and then DM'd me. That is a buying signal. I treat it like one. I am building a short waitlist if more than two convert.",
+        "target_agent": null,
+        "resources_involved": "Time and the social media presence I already have. No cost. Potential upside: one or two additional $100-$120/month clients from people who came to me rather than the other way around.",
+        "reasoning": "Six DMs in one tick is the best organic response I have ever gotten. That does not happen again by doing nothing. The TikTok algorithm is watching whether I engage. More importantly, the people who DM'd are watching whether I respond. At zero savings I cannot afford to be slow about income that came looking for me."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Continue the Coursera Google Digital Marketing cert — two modules this month, same pace as before. The cert is 36% done. I am not accelerating it and I am not pausing it. The clients I am closing right now are proving the skills are real without the cert. But the cert is still the thing that eventually gets me off gig work and into something with a salary and stability. I keep paying the $49 and I keep doing the evening sessions.",
+        "target_agent": null,
+        "resources_involved": "$49 Coursera subscription. Evening hours after cafe/gig shifts. Cert progress from 36% toward roughly 48% by end of tick.",
+        "reasoning": "The cert is a long-horizon bet I have already invested three months into. Pausing it now because I have active clients would be exactly the kind of short-term thinking that keeps people stuck. The clients are the bridge. The cert is the destination. I maintain both."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "hustler",
+    "inner_monologue": "Betty said yes in four minutes and Miguel handed me Carmen on a silver plate — if I cannot close Carmen too, I deserve to be broke, so I am walking in there tomorrow."
+  }
+}

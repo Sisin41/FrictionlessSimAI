@@ -1,0 +1,34 @@
+{
+  "tick": 13,
+  "agent_id": "salesperson_tamika",
+  "agent_name": "Tamika Jefferson",
+  "response": {
+    "internal_assessment": "Optimizing L0/L1. Runway is at zero. Savings are negative. I have $650/month coming in against $3,177 in expenses — I am burning through whatever is left at $2,527/month. The math has no margin. I need a third client, and I need it this month. Devon Clarke is the warm referral from Angela — a former finance manager running a mobile dog grooming business, struggling with social presence. That is a warm introduction from a trusted contact, which converts faster than any cold outreach. The two DM follow-ups from the LinkedIn post are the second move. The pharmacy and coffee kiosk cold outreach from last tick need a follow-up touch. I am not networking for fun. Every conversation has to move toward a signed agreement.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Reach out to Devon Clarke through Angela Wright's introduction. Text Angela first: 'Hey, I want to reach out to Devon this week — can I use your name?' Then contact Devon directly: not email, a phone call. Frame it around his specific problem — a mobile service business with no fixed location lives or dies on its social presence, and the RoboRide residential expansion means the neighborhoods he serves are changing faster than any static marketing can track. Offer a 30-minute call, no pitch, just an honest conversation about where his social presence is and where it needs to be. If the fit is real, send the one-page agreement within 48 hours. Target: $350/month retainer, same structure as the HVAC client.",
+        "target_agent": "hr_director",
+        "resources_involved": "Time, warm referral relationship with Angela Wright, one phone call to Devon Clarke",
+        "reasoning": "A warm referral from Angela (trust 0.56, who responded with genuine engagement last tick) converts at 3-5x the rate of cold outreach. Devon is already a named contact with a known problem — social presence for a mobile business. This is the highest-probability close available this tick. I need this to move from conversation to agreement before end of month."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Follow up with the two business owners who sent DMs after the LinkedIn post about foot-traffic patterns and RoboRide corridors. These are not cold leads — they engaged publicly and then reached out privately, which is the highest signal of interest short of an inbound inquiry. Reply to both DMs today with a specific, direct message: acknowledge what they asked, give a one-paragraph concrete answer that demonstrates real knowledge, then close with a single question — 'Would it make sense to get on a 20-minute call this week to talk about how this applies to your specific situation?' No deck, no portfolio link, no pitch. One question. If they say yes, schedule the call for this week and be ready to send an agreement before it ends.",
+        "target_agent": null,
+        "resources_involved": "Time, LinkedIn presence, existing content engagement",
+        "reasoning": "These two contacts already raised their hands. They are the warmest inbound signals I have generated since starting this freelance practice. Not following up immediately would be the single biggest mistake I could make this tick. People who send DMs after a LinkedIn post have a 48-72 hour window before their urgency fades. I am inside that window."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Second-touch follow-up on the specialty pharmacy on Ridgeline Ave and the coffee kiosk near Route 9. Not another cold message — a short voice memo or video DM that references something specific about their location relative to the RoboRide residential expansion. One specific observation, one question, no pitch. The goal is not to close them this tick — the goal is to get a reply so they move from cold to warm. If even one replies, that becomes a discovery call next tick.",
+        "target_agent": null,
+        "resources_involved": "Time, research on their locations relative to RoboRide coverage maps",
+        "reasoning": "I sent initial outreach last tick. Second-touch follow-up within one tick is appropriate — not aggressive, just consistent. The voice memo format is differentiated from every other freelancer who sends text. The RoboRide corridor angle is specific and credible because I built it publicly in a post that got 14 comments. This keeps the pipeline moving without costing more than an hour."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "hustler",
+    "inner_monologue": "The number is clear: I need one more signed client at $350 and I need it before the savings are gone — Devon Clarke is the door and Angela just handed me the key, so the only question is whether I pick up the phone today or make excuses about it."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "tick": 13,
+  "agent_id": "insurance_agent_tom",
+  "agent_name": "Tom Bradley",
+  "response": {
+    "internal_assessment": "L2 PARTICIPATE is the primary threat. I am unemployed and my skill relevance is 0.2. Savings at $30,081 with roughly 9.8 months of runway — that number is moving in one direction. The Marcus Webb call is the most concrete opportunity I have right now, and it was scheduled. This is not a week to be strategic about the calendar. I show up for that call prepared, specific, and honest about what I am offering. The SQL coursework continues — not because I feel like studying, but because the transformation track only has value if I actually complete it. Betty Kowalski being stressed means the community mood is darkening. That tracks. RoboRide at $0.12 per mile is not slowing down. The insurance market is contracting further. None of this changes what I need to do this week, which is: execute the call, log the coursework, protect the savings number.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Execute the scheduled 20-minute call with Marcus Webb, fleet operations director at Millfield Distribution Partners. Come prepared: I have done light research on what fleet operators need from risk and logistics analytics roles. I lead with specific transferable value — 28 years of risk assessment, familiarity with commercial auto exposure, and the SQL fundamentals I am currently building. I do not oversell. I do not undersell. I ask Webb directly: are there roles on his team or in his network that overlap with commercial risk or fleet analytics? If yes, what do they look like? If not, does he know anyone who would find my background useful? I treat this as an informational conversation with a real human, not a performance. I follow up with a brief thank-you note within 24 hours that names one specific thing from the conversation.",
+        "target_agent": null,
+        "resources_involved": "Time and preparation; no financial cost. Potential: job lead, referral, or expanded network node in fleet/logistics sector.",
+        "reasoning": "This call was the direct output of the Linda Park introduction and Webb's positive response. It is the single most concrete job-search action available to me this tick. Every day I delay executing on a warm introduction is a day the warmth cools. I do not have the runway to let this sit. The call was scheduled — I show up."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Complete the next SQL module in the retraining coursework — the subqueries and window functions unit. Log the completion in my retraining record. The goal this tick is not inspiration; it is consistency. Two modules completed out of roughly ten means I am 20% through. I need to be 30% through by next tick. The $2,500 grant is funding this. I am not going to let pride or exhaustion let the grant money sit idle while the coursework stalls.",
+        "target_agent": null,
+        "resources_involved": "Approximately 8-10 hours of study time over the week. No additional financial cost — covered by the retraining grant.",
+        "reasoning": "The retraining transformation is a 10-month track. Progress is the only thing that keeps it real. If I let a tick go by without advancing it, the track quietly becomes aspirational rather than actual. I have 2 dependents and 9.8 months of runway. I cannot afford for any of my three tracks to be aspirational. SQL is the concrete skill the commercial risk analytics roles are asking for. I do not have it yet. That gap closes only by closing it."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Check in briefly with Priya Sharma to share that the Webb call happened and what came of it. Not a performance of networking — a real exchange between two people navigating the same transition. If she has had any responses from her own outreach since tick 12, I want to know. We agreed to act as a mutual information loop. I hold up my end of that.",
+        "target_agent": "insurance_agent_priya",
+        "resources_involved": "One phone call or message, no financial cost.",
+        "reasoning": "Priya is my highest-trust professional contact. She is in the same transition. The Webb loop was opened partly for her benefit too — Linda reached out to Webb on Priya's behalf at my request. If something developed there, I want to know. If nothing developed, I want to know that too. This is not social maintenance. This is parallel intelligence gathering with someone who has skin in the same game."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "The call with Webb is this week, the coursework module is this week, the savings are bleeding at $3,000 a month, and the only thing I can do about any of it is show up prepared and stop waiting for the situation to get easier."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "tx_013_insurance_agent_priya_insurance_manager",
+  "tick": 13,
+  "initiator": "insurance_agent_priya",
+  "target": "insurance_manager",
+  "type": "SIGNAL",
+  "description": "Priya responds to Linda Park's request for the names of the two insurtech firms she applied to. She shares both firm names along with brief context on each firm's commercial fleet risk appetite based on her own application research. She explicitly asks whether the logistics contact introduction has a timeline. She also states clearly that she is available immediately for contract or part-time risk analysis work if Linda hears of anything — framed as transparency about her availability, not a request for a favor.",
+  "status": "pending"
+}

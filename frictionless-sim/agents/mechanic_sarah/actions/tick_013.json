@@ -1,0 +1,27 @@
+{
+  "tick": 13,
+  "agent_id": "mechanic_sarah",
+  "agent_name": "Sarah Kim",
+  "response": {
+    "internal_assessment": "L5 BUILD — the EVT Level 1 certification assessment is the single remaining step between me and the credential I have been building toward for nine ticks. L0 through L4 are all stable. L2 is intact: job is secure, role security at 0.81, savings growing. Rick and Angela are visibly stressed, which means the management layer is feeling the sector contraction. That is a signal about timeline, not a reason to panic — I have already done the work. The assessment is not a risk to take. It is the action the last eight months of study have been pointing toward. I schedule it, I take it, I pass it. Then I follow up with Millfield Regional Fleet Service as I told them I would.",
+    "chosen_actions": [
+      {
+        "type": "TRANSFORMATION",
+        "description": "Schedule and sit for the EVT Level 1 certification assessment. This is the only remaining step — all modules are complete, integrated systems content is done, and I have been in assessment prep since completing the final module last tick. I will book the exam date this week, block the study time over the next two weekends to review fault code simulation scenarios and charging infrastructure diagnostics, and take the assessment before the end of the month. Passing this brings the certification into my hands and moves me from candidate to credentialed.",
+        "target_agent": null,
+        "resources_involved": "Personal time (assessment prep, exam sitting), exam registration fee. No income change this tick.",
+        "reasoning": "Nine ticks of work point here. The fleet operator at Millfield Regional Fleet Service told me to follow up when the cert is in hand. I told them it was weeks away — that was not a projection, it was a commitment. The RoboRide price drop to $0.12/mile and expanded coverage into residential areas means the robotaxi adoption curve is compressing faster than the 7% current usage suggests. The auto sector at 79 and the stress on Rick and Angela confirm the direction of pressure. My job is intact right now, but 'right now' is the operative phrase. The credential is the bridge. I have been building it since tick 4. I take the exam."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "After sitting for the assessment — regardless of the result but especially if I pass — send a follow-up message to the contact at Millfield Regional Fleet Service. Short, direct: I took the EVT Level 1 assessment, I am expecting results within two weeks, and I wanted to honor the timeline I mentioned when we spoke. Ask whether there is a good time to reconnect once the cert is confirmed. This is not a job application. It is a relationship maintenance signal to someone who has already invested 22 minutes in a conversation with me.",
+        "target_agent": null,
+        "resources_involved": "No financial cost. Time: one message.",
+        "reasoning": "The fleet operator conversation at tick 12 was the single highest-value professional action I have taken outside of enrolling in the cert. That contact spent real time with me. Not following up when I said I would is worse than not having called at all. I am keeping that door open. My normalcy bias would let me drift on this — 'I'll reach out after I have the cert confirmed, not before.' But I said weeks away. Weeks have passed. The follow-up is the credible move."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "I have been studying for this for nine months and the exam is sitting right there — stop preparing to be ready and just be ready."
+  }
+}

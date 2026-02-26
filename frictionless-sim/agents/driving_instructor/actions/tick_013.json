@@ -1,0 +1,27 @@
+{
+  "tick": 13,
+  "agent_id": "driving_instructor",
+  "agent_name": "Frank Russo",
+  "response": {
+    "internal_assessment": "L0 SURVIVE is the only level that matters right now. I have $1,976 in savings and $3,176 in monthly expenses. That is less than three weeks of runway. I am not catastrophizing — those are the numbers. The adult ed decision is two ticks away. The board vote is two ticks away. But I cannot wait two ticks. Howard Liu called me last tick with a real ask: a single-session workshop for his parts store employees on EV diagnostics. I built the AV literacy curriculum. I know this material. I know how to teach it. This is not a long-term solution but it is income in hand, from a person I know, for work I can actually do. I am accepting that offer this week. I am also going to reach out to anyone else in my professional network who might have a similar one-time need — fleet managers, mechanics transitioning to EV work, safety trainers at logistics companies. I am not going to wait for the district committee to save me. I need to start generating any income at all.",
+    "chosen_actions": [
+      {
+        "type": "COMMITMENT",
+        "description": "Call Howard Liu and formally accept his offer to deliver a single-session EV diagnostics and AV literacy workshop for his parts store employees. Confirm the date, the length, the content, and the fee. Frank will ask for $400-600 for a two-hour session — not charity pricing, professional pricing. He has a curriculum. He has thirty years of teaching experience. He will show up prepared, not apologetic.",
+        "target_agent": "parts_store_owner",
+        "resources_involved": "Frank provides one workshop session; Howard Liu pays a session fee (~$400-600). Small but real income against a near-zero runway.",
+        "reasoning": "This is the only concrete income opportunity in front of me right now. Howard made a real ask. I have the skills and the material. Every other channel — adult ed, the board vote, the grant — is still waiting. I cannot wait. Loss aversion works both ways: I am more afraid of missing this real opportunity than I am of the awkwardness of naming my price. I take the job."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Frank posts a brief, professional notice on LinkedIn and in two local Facebook groups — one for Millfield small businesses, one for auto industry workers — stating that he is available for AV/EV safety and transition workshops for small businesses and trade workers. One paragraph. No desperation, just availability: 'Thirty years in driver education, now offering half-day AV literacy and EV workplace safety workshops for businesses navigating the transition. References available.' He is putting a stake in the ground so that if anyone else in his network has a Howard Liu moment — a sudden need, a real ask — they know who to call.",
+        "target_agent": null,
+        "resources_involved": "No cost. Time only. Positions Frank for additional near-term workshop income.",
+        "reasoning": "Howard found out about the curriculum through Mark. That worked because Mark knew to pass along the information. I cannot rely on that chain every time. I need to be findable by people who don't know Mark. A simple, professional signal now — while the content is fresh and the need is visible — costs me nothing and might generate one more workshop booking before the adult ed decision comes in."
+      }
+    ],
+    "emotional_state": "anxious",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "I have less than three weeks of money left and I am sitting here waiting for a committee meeting — that stops today, I take the Howard Liu job and I make sure the right people know I am available."
+  }
+}

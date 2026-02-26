@@ -1,0 +1,9 @@
+{
+  "id": "tx_013_gas_station_owner_loan_officer",
+  "tick": 13,
+  "initiator": "gas_station_owner",
+  "target": "loan_officer",
+  "type": "COMMITMENT",
+  "description": "Amir Patel signs the $12,000 capital improvement loan with Kevin O'Brien at the bank. Terms were confirmed at tick 12 when Kevin reactivated the loan. Amir attends the document-signing appointment scheduled for this week, locks in the rate and disbursement timeline, and formally commits to the EV charger installation path. This closes the 13-tick planning cycle and begins the execution phase.",
+  "status": "pending"
+}

@@ -1,0 +1,27 @@
+{
+  "tick": 13,
+  "agent_id": "rideshare_driver",
+  "agent_name": "Robert Jackson",
+  "response": {
+    "internal_assessment": "Optimizing L2 PARTICIPATE and L1 STABILIZE simultaneously. The conditional offer from Millfield Medical Transport should be confirmed now — background check was expected 72 hours after the Wednesday meeting, which puts the result in my hands before tick 13 starts. My employment status is still listed as 'transitioning' but the transition is completing. Primary action: formalize the NEMT commitment with Millfield Medical Transport, confirm I am on the schedule, and pick up my first shifts. Secondary action: collect the $2,500 Maria Santos grant that is sitting in the disbursement queue — mailing address confirmed last tick, money should be arriving. Tertiary: begin winding down rideshare hours strategically. I am not quitting Uber/Lyft cold — the 20-hour NEMT contract doesn't fully replace my income yet at $18/hour x 20 hours = $1,440/month versus my current $3,500. I need to continue driving approximately 30 hours per week on rideshare to bridge the income gap while I build toward full-time NEMT hours. The economic environment is bad everywhere — 50% employment, spending index 25, robotaxi adoption at 7% and climbing. But NEMT is structurally protected. I am stepping out of the blast zone.",
+    "chosen_actions": [
+      {
+        "type": "COMMITMENT",
+        "description": "Formally begin employment at Millfield Medical Transport. Confirm the background check cleared, accept the finalized onboarding paperwork from Dave Herrera, and complete the first week of part-time NEMT shifts at 20 hours per week at $18/hour. Express to Carla and Dave that I am interested in expanding to full-time hours as openings arise — I want that on record early, professionally, without pressure. I am not a probationary employee hoping not to be noticed. I am a credentialed professional making myself indispensable from day one.",
+        "target_agent": "millfield_medical_transport",
+        "resources_involved": "Time commitment: 20 hours per week at $18/hour = $1,440/month new NEMT income. Rideshare hours reduced to approximately 30 per week to maintain bridge income. Net monthly income becomes approximately $2,790 during part-time NEMT phase — below current $3,500 but above monthly essentials of $1,750. Savings buffer holds.",
+        "reasoning": "This is the culmination of nine months of work. The credential is real. The offer is real. The background check was the last gate. There is no reason to delay starting. Every day I am on their schedule is a day I am building the relationship, learning their routes, becoming the reliable driver they call first when a full-time slot opens. The risk of not starting immediately is losing the offer to a transport sector that is actively hiring because competing drivers are flooding into NEMT from the same rideshare collapse I am fleeing. First mover advantage. I take it."
+      },
+      {
+        "type": "TRANSFER",
+        "description": "Collect the $2,500 Maria Santos retraining grant from the Millfield workforce development office. The mailing address was confirmed last tick. The check is in the disbursement queue. I follow up with a call to confirm the check has been mailed or is available for pickup, then deposit it immediately into savings.",
+        "target_agent": "workforce_development",
+        "resources_involved": "$2,500 cash inflow to savings. Savings increase from approximately $12,032 to approximately $14,532 upon receipt. Runway extends meaningfully. This is not a windfall — this is the grant I applied for ten months ago finally landing. I treat it as emergency cushion, not discretionary income.",
+        "reasoning": "I applied for this grant at tick 2 and spent months in ambiguity about whether it was approved. Last tick I confirmed it was approved and resolved the mailing address hold. Receiving it is the only action remaining. With the economy contracting as hard as it is — 50% employment, spending index at 25 — I do not touch this money unless the NEMT transition produces a sustained income shortfall. It goes into the savings account and stays there. The loss aversion instinct is actually working in my favor here: I will not spend this money on anything that is not a genuine emergency."
+      }
+    ],
+    "emotional_state": "relieved",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Nine months of keeping it together, and now I actually have something to show Marcus — not a plan, not a course enrollment, not a callback, but a real job with a real schedule and a real employer who called me back."
+  }
+}

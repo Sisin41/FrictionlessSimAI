@@ -1,0 +1,41 @@
+{
+  "tick": 13,
+  "agent_id": "car_wash_worker",
+  "agent_name": "Miguel Hernandez",
+  "response": {
+    "internal_assessment": "L0 SURVIVE is in crisis — savings are negative at -$1,557, runway is zero months, income is $0. The cert program is at 95% completion and this is the month I finish it. That changes everything. I cannot eat a credential, but a credential opens the door to the income I need. This month has one non-negotiable objective: complete the automotive service technician certificate. Everything else is secondary but still urgent. The fleet operator email is drafted and Carlos has reviewed it and offered to add a personal note — that email goes out this week, with his note attached. Lisa Freeman has already flagged my name through the Financial Triage Navigator. Gig work continues at maximum viable pace to keep from going further negative. The Financial Triage Navigator intake is something I need to follow through on — there may be emergency assistance or a bridge payment available that I have not tapped. I am not proud of needing it but I am not going to let pride cost me my cert completion.",
+    "chosen_actions": [
+      {
+        "type": "TRANSFORMATION",
+        "description": "Complete the final sessions of the automotive service technician certificate program at Millfield Community College. Attend every remaining class. Push program from 95% to 100% completion. Pick up the certificate. This is 8 months of work and it ends this month.",
+        "target_agent": null,
+        "resources_involved": "Time and attendance. No new financial cost at this stage — tuition already paid.",
+        "reasoning": "The cert is the entire investment of the past 8 months. Missing the finish line because I ran out of money or motivation while at 95% would be the worst possible outcome. This happens no matter what else is going on. It is the one thing I will not compromise."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Send the professional introduction email to the fleet operator contact Carlos identified, with Carlos's personal note attached. This is the first formal step in the transition from cert-in-progress to employed mechanic. Email goes out this week — not next week, this week.",
+        "target_agent": "mechanic_carlos",
+        "resources_involved": "Social capital from Carlos — his personal note converts a cold outreach into a warm introduction. No financial cost.",
+        "reasoning": "Carlos reviewed the email and offered to add a note. That offer has a shelf life. The longer I wait, the staler the context becomes and the less naturally it fits. The cert is finishing this month — the timing is exactly right. This is the highest-leverage action I can take toward the income problem and it costs me nothing except the courage to actually send it."
+      },
+      {
+        "type": "EXCHANGE",
+        "description": "Maximize gig income this month through DoorDash bike routes and RoboRide last-mile delivery. Target $500-600 in gig earnings to minimize further draw-down on the negative savings position. Schedule shifts around any remaining cert classes.",
+        "target_agent": null,
+        "resources_involved": "Physical labor, bike, time. Income target: $500-600.",
+        "reasoning": "Income is zero, savings are negative. Gig work is the only available income source while I wait for the fleet operator response. Cannot let the financial hole get deeper. Every dollar of gig earnings is a dollar less I owe when I eventually stabilize."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Follow through on the Financial Triage Navigator intake that Lisa Freeman flagged me into. Attend the intake session and ask directly about emergency bridge assistance for displaced workers completing retraining programs. If there is money on the table, I take it without ego.",
+        "target_agent": null,
+        "resources_involved": "A few hours of time. Potential access to emergency assistance funds.",
+        "reasoning": "Lisa Freeman already got me into the queue. I have nothing to lose by going through the intake. If they have a bridge payment program for workers finishing cert programs, I qualify. Pride is not a financial strategy when savings are negative."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Eight months of showing up in the rain, the cold, the early mornings, and the night classes — and this is the month it either means something or it doesn't."
+  }
+}

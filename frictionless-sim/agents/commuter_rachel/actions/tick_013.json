@@ -1,0 +1,34 @@
+{
+  "tick": 13,
+  "agent_id": "commuter_rachel",
+  "agent_name": "Rachel Green",
+  "response": {
+    "internal_assessment": "L0 SURVIVE is the primary threat — 3.1 months of runway at $4,817/month burn with zero income is not a planning problem anymore, it is a closing problem. I have been building pipeline for four ticks. Nicole said 'can we talk next week' — that was last tick. This week I make that call happen and I turn it into a yes or a no. I also follow up on all three job applications with direct, professional check-ins — not aggressive, just visible. And I push Angela Wright to make a concrete introduction, not just a warm promise. The pipeline is real. But pipeline does not pay rent. I need one revenue source to close this tick or next. That is the whole game right now.",
+    "chosen_actions": [
+      {
+        "type": "COMMITMENT",
+        "description": "Call Nicole Washington directly — not a follow-up email, a call. She said she wanted to talk and I am making that happen. The conversation has one objective: turn her stated interest into a signed pilot retainer. I come prepared with a specific, low-friction proposal — $300/month for a 3-month communications support pilot covering her personal brand and professional social presence as a nurse and community figure. Small enough that her budget concern does not kill it. Concrete enough that she cannot defer it. I ask directly: 'Based on what we talked about, I want to propose a three-month pilot starting this month. Can we do that?' If yes, I send a one-page agreement within 24 hours. If no, I ask what would make it a yes and I listen.",
+        "target_agent": "single_parent",
+        "resources_involved": "If closed: +$300/month income, potential anchor for freelance practice. Costs 1 hour of my time to prepare and execute the call.",
+        "reasoning": "Nicole is the warmest lead in my pipeline by a significant margin. She has not said no. She asked for a conversation. Every tick I do not close this is another tick of runway I burn with no income. The loss aversion math is clear: the cost of not closing is $300-900 in lost income over a pilot period. The cost of closing is a one-page agreement and 3 months of work I already know how to do. Status quo bias would have me send another email. I am not sending another email."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Follow up with each of the three job applications by name — Millfield Regional Health Systems, the financial services firm, and the regional logistics company — with a brief, professional check-in. Not a generic 'just following up' message. One specific sentence per application that demonstrates I have been thinking about their sector. For health systems: a sentence about internal communications during workforce disruption. For financial services: a reference to messaging strategy during consumer sentiment contraction. For logistics: a note about brand visibility during expansion. Three targeted messages, sent to named contacts where I have them, to the HR portal where I do not. This costs two hours and keeps my name at the top of active candidate pools.",
+        "target_agent": null,
+        "resources_involved": "2 hours of time. No financial cost. Signal value: visible, specific, differentiated from other applicants who go silent after submitting.",
+        "reasoning": "With 3.1 months of runway, I cannot afford to submit applications and wait passively. Employment rate is 50% in Millfield. The hiring funnel is slow and crowded. A professional, specific follow-up distinguishes me from applicants who applied and disappeared. My network strength is 0.79 — I should be using that to get inside referrals where possible, not just portal submissions."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Send Angela Wright a specific ask: not 'let me know if you meet anyone,' but 'I have capacity for one new client this month — if you encounter a small business owner in the next two weeks who needs communications support, I would like you to make a direct introduction rather than a warm mention. Here is a two-sentence description of what I do that you can forward verbatim.' I make it easy for Angela to refer by giving her the language. Referrals fail because the person making them does not know what to say. I am removing that friction.",
+        "target_agent": null,
+        "resources_involved": "30 minutes to write a tight, clear referral description Angela can actually use. No financial cost.",
+        "reasoning": "Angela agreed to refer at tick 12 but no concrete client has materialized. That is normal — referral relationships need activation, not just agreement. The bottleneck is probably Angela not knowing exactly what to say when she meets someone who might be a fit. I remove that bottleneck by giving her the words. This is what I would tell a client to do. I should be doing it for myself."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "hustler",
+    "inner_monologue": "Three months of runway is not a reason to panic but it is absolutely a reason to stop being careful and start being direct — I have done the groundwork, I know what I am offering, and the only thing standing between me and income is the ask."
+  }
+}

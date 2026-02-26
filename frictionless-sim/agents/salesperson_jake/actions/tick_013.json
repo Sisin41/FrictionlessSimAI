@@ -1,0 +1,34 @@
+{
+  "tick": 13,
+  "agent_id": "salesperson_jake",
+  "agent_name": "Jake Morrison",
+  "response": {
+    "internal_assessment": "L0 SURVIVE is still threatened — 0.5 months runway with savings at $1,388 against a $4,112 monthly deficit. The Tony DiMaggio close last tick bought me exactly one month. Not more. Rick said 'within two weeks' and that window is almost up. I am optimizing L0 and L2 simultaneously because they are locked together right now: if I don't close another unit, I hemorrhage savings. If I don't lock in the service advisor role with Rick, I have no stable income path when the RoboRide pressure keeps cutting foot traffic. I am not relaxing because I had one good week.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Call Rick Tanner directly — not email, a phone call — and tell him the two weeks he mentioned are almost up and I am still holding. I am not pressuring him, I am making myself easy to say yes to. I say: 'Rick, you told me two weeks. I wanted you to know I have not taken anything else and I am ready for that conversation whenever you are.' I keep it short. I let him respond. If he has an answer, I am ready to move. If he needs more time, I note the date and give him a hard follow-up window in my own head.",
+        "target_agent": "dealership_gm",
+        "resources_involved": "Relationship capital with Rick Tanner (trust 0.73). No financial cost. High upside if the service advisor role is confirmed.",
+        "reasoning": "Rick gave me a two-week window last tick. It has been one tick. The window is closing. In my experience as a salesperson, deals that are not followed up die. Rick is not going to lose sleep over not calling me back — he is managing a consolidation. I have to make myself present in his mind at exactly the moment he is making staffing decisions. This is not desperation, this is professional follow-through."
+      },
+      {
+        "type": "EXCHANGE",
+        "description": "Work the floor with the RoboRide comparison pitch. The Tony DiMaggio close confirmed the methodology: target contractors, tradespeople, multi-stop professionals for whom cargo capacity and reliability on a job site are non-negotiable. I pull every work-capable truck and van under $38K to visible positions. I build two or three specific comparison sheets — annual miles, haul requirements, the $0.12/mile math — and keep them ready to drop on a prospect the moment I read that they are a contractor or a small-business owner. I am looking for one close this tick. One. That is the difference between staying above water and going under.",
+        "target_agent": null,
+        "resources_involved": "Commission income if closed — target $4,500 to $6,000 to cover monthly deficit and add minimal savings buffer. Time investment is full floor hours for the month.",
+        "reasoning": "The RoboRide comparison pitch is the one sales tool that is working in this market. It works because it is true: RoboRide at $0.12/mile with 8-minute wait times and no cargo capacity is genuinely not a substitute for a work truck. That honest value proposition closes people who have already thought about switching and decided they cannot. I am not manufacturing demand — I am identifying the buyers who are still in the market and giving them a real reason to buy now rather than wait. With L0 threatened, I cannot afford a month without a close."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Follow up on the Maria Santos grant application status. It has been one tick since submission. I send a brief, professional email asking for confirmation that my application was received and whether there is a timeline for decisions. I am not chasing money I don't have yet — I am making sure a pending asset does not fall through a crack because I forgot to check it.",
+        "target_agent": "council_member",
+        "resources_involved": "No financial cost. Potential $2,500 grant income that would add nearly two months of additional savings runway.",
+        "reasoning": "The grant is real, I applied, and $2,500 against a $4,112 monthly deficit is the difference between 0.5 months and 1.1 months of runway. I know from my own sales experience that applications that go untracked fall off the desk. One follow-up email is low-cost and high-value. I am not going to let $2,500 disappear because I was too proud to ask if my paperwork arrived."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "hustler",
+    "inner_monologue": "The Tony close was real but it was not a rescue — it was one month of air and I am already spending it, so I need to move like I know that."
+  }
+}

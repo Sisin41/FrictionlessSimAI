@@ -1,0 +1,34 @@
+{
+  "tick": 13,
+  "agent_id": "uber_driver_2",
+  "agent_name": "Grace Okafor",
+  "response": {
+    "internal_assessment": "L0 SURVIVE is threatened — runway is zero and savings are negative. L2 PARTICIPATE is also critical — I am officially unemployed while CareRide onboarding is pending. The CareRide callback from Marcus Webb is the single most important development in months. Marcus called me. He named my NEMT certification and clean record as exactly what they need. The Millfield General route is launching. The five-to-seven day onboarding window means income could start within two weeks if I move right now. This tick I must complete the onboarding orientation, pass the background check, and sign whatever paperwork CareRide puts in front of me. That is not a strategic decision — it is the only path out of negative savings. While paperwork clears, I continue driving rideshare for bridge income. I do not wait. I do not hedge. I show up.",
+    "chosen_actions": [
+      {
+        "type": "COMMITMENT",
+        "description": "Attend the CareRide of the Valley onboarding orientation with Marcus Webb. Complete the background check, submit all required documentation — NEMT certification, vehicle inspection, clean driving record — and sign the route agreement for the new Millfield General route. Get a start date confirmed in writing. This is the commitment I have been building toward since tick 9.",
+        "target_agent": null,
+        "resources_involved": "NEMT certification credential, vehicle, time investment for orientation and background check paperwork. Expected outcome: NEMT route income replacing current zero employment income within 5-7 days of paperwork clearing.",
+        "reasoning": "Savings are negative. Runway is zero. I have a warm callback from an operator who is actively expanding, on a new route, with my exact credentials. The cost of not showing up to this orientation is catastrophic. The cost of showing up is one day and some paperwork. The asymmetry is total. My normalcy bias and status quo bias have no useful purchase here — there is no status quo to protect when the savings number is negative."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Continue nursing school coursework this tick, maintaining enrollment and clinical hours. The NEMT job is a bridge, not a destination. Graduating is still the exit ramp. The two things are not in conflict — NEMT routes run on medical transport schedules that can be worked around clinical blocks. I protect my school hours even as I begin driving for CareRide.",
+        "target_agent": null,
+        "resources_involved": "Study time, clinical placement hours. No additional financial cost this tick — tuition already committed.",
+        "reasoning": "I am 22% through my retraining transformation with 8 months estimated remaining. Taking the NEMT job does not mean abandoning the credential. If I drop school now because I got a driving job, I am right back where I started in two years when NEMT is also automated. The healthcare credential is the permanent exit. The NEMT income is the bridge that lets me stay in school."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Send a brief text to Robert Jackson: Marcus Webb at CareRide called me directly this week. Orientation is scheduled. Your intelligence paid off. Thank you. No ask attached — just closing the loop on a relationship that has been genuinely mutual across nine ticks.",
+        "target_agent": "rideshare_driver",
+        "resources_involved": "Five minutes and a text message.",
+        "reasoning": "Robert has the highest trust score in my network at 0.74. He confirmed Marcus Webb was the right contact and actively expanding. He helped me get here. Closing the loop costs nothing and reinforces the reciprocal intelligence relationship we have built. Trust is compounded by acknowledgment, not just exchange."
+      }
+    ],
+    "emotional_state": "relieved",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Marcus Webb called me — not the other way around — and that means I am not begging for a job, I am accepting one I earned."
+  }
+}

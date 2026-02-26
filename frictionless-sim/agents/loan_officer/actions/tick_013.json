@@ -1,0 +1,41 @@
+{
+  "tick": 13,
+  "agent_id": "loan_officer",
+  "agent_name": "Kevin O'Brien",
+  "response": {
+    "internal_assessment": "L0 is my primary optimization target this tick. Runway is 2.6 months at a 0.72 threat level. My monthly income is $1,022 against $5,195 in expenses — I am burning through savings at a rate that will hit zero in roughly two months at current pace. Sandra Briggs committed to a formal decision on the portfolio expansion by end of last week. That deadline has now passed. I need that answer today — not next week, today. If it is yes, I immediately begin originating small business and personal loans to rebuild income. If it is no, I activate the contingency plan I formalized last tick: reach out to the two regional credit unions and the regional bank I identified. I cannot afford to wait another tick for institutional gears. L2 (participation/employment) is also threatened with role_security at 0.63 and skill_relevance at 0.4. The Amir Patel loan is conditionally approved pending one document — I follow up with Amir today to close that out. Every closed loan is evidence I am producing revenue. NMLS is at 30% progress. I stay on it. But the immediate survival math dominates everything else this tick.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Walk into Sandra Briggs's office first thing and collect the formal decision she committed to delivering by end of last week on the portfolio expansion request. The answer was due. I do not send an email. I do not schedule a meeting. I walk in and ask. If the answer is yes, I confirm scope in writing by end of day: which loan products, which limits, effective date. If the answer is no or delayed again, I tell Sandra directly that I have identified external opportunities and will need to act on them within the next two weeks if my scope here cannot expand. That is not a threat — it is a factual statement about my financial situation. She should know where I stand.",
+        "target_agent": "bank_manager",
+        "resources_involved": "Time, professional credibility, potential income expansion if approved",
+        "reasoning": "Sandra gave a specific commitment last tick. That commitment has now come due. My L0 runway is 2.6 months. Every week I wait for an institutional decision that was already promised is a week of savings gone. The normalcy bias in me wants to trust the process and wait politely — I am consciously overriding that bias. The loss aversion math is clear: the cost of asking one more time is zero; the cost of not asking and running out of runway is everything."
+      },
+      {
+        "type": "COMMITMENT",
+        "description": "Follow up with Amir Patel to confirm he has submitted the outstanding business cash flow documentation required for conditional loan approval. This loan is one piece of paperwork away from closing. A closed loan demonstrates origination capacity to Sandra, generates fee income, and strengthens the portfolio expansion case whether the answer is yes or no. I contact Amir by phone today, confirm the document status, and set a hard deadline of 48 hours for submission so we can move to final approval this week.",
+        "target_agent": "diner_owner",
+        "resources_involved": "Loan origination fee upon closing, professional time",
+        "reasoning": "The Amir Patel loan is the single most concrete piece of evidence that the portfolio expansion I have been requesting is already happening in practice. Closing it converts a conditional approval into a real transaction and real income. It also ends the ambiguity — a closed small business loan in my file is harder to ignore than a pending one. Amir is close to the finish line. I push him across it this week."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Make initial contact with the first of the two regional credit unions identified in the contingency plan. Not a formal application — a professional inquiry. I reach out to the lending director, introduce myself as a licensed loan originator with 20 years of auto and emerging small business lending experience in Millfield, note that my current role may be evolving, and ask whether they have originator positions open or anticipated. I do this regardless of what Sandra says today. If Sandra approves the expansion, this contact costs me nothing and gives me leverage. If Sandra says no, I already have a conversation started.",
+        "target_agent": null,
+        "resources_involved": "Professional reputation, 1-2 hours of time",
+        "reasoning": "I identified these external targets specifically for this contingency. The time to activate a contingency is before you desperately need it, not after. My loss aversion has kept me loyal to the internal path longer than the math supports. Two months of runway is not the time to start researching options — it is the time to be already in conversation with them. The inquiry is low-cost, maintains optionality, and signals to myself that I am an agent in my own story, not a passive dependent waiting for Sandra's verdict."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Advance NMLS modules 8 and 9 this tick. With Sandra's decision imminent and the contingency contacts beginning, the credential timeline matters more than ever. If I end up at a credit union, having NMLS progress at 40% rather than 30% changes how I am evaluated. I maintain the 90-minute daily block and document progress in the training log. No disruption to the retraining path regardless of what happens on the employment side.",
+        "target_agent": null,
+        "resources_involved": "90 minutes daily, course materials already paid for through HR reimbursement",
+        "reasoning": "The NMLS credential is portable. It does not belong to this bank. It belongs to me. Whatever happens with Sandra or the credit union inquiry, having a verifiable credential in progress at 40% completion is worth more than at 30%. I do not skip training weeks because the employment situation is uncertain — that would be exactly the wrong response to uncertainty. The credential is the thing I am building that no one can take away."
+      }
+    ],
+    "emotional_state": "anxious",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Two months of runway and I'm still waiting on a decision that was supposed to come last week — I need to stop being polite about my own survival."
+  }
+}

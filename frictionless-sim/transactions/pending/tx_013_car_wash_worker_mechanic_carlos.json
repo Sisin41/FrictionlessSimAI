@@ -1,0 +1,9 @@
+{
+  "id": "tx_013_car_wash_worker_mechanic_carlos",
+  "tick": 13,
+  "initiator": "car_wash_worker",
+  "target": "mechanic_carlos",
+  "type": "SIGNAL",
+  "description": "Miguel sends the professional introduction email to the fleet operator contact Carlos provided, with Carlos's personal endorsement note attached. Carlos had reviewed the email draft last month, confirmed the framing was right, and offered to add a brief personal note. Miguel is now formally acting on that offer — the email goes out this month as the automotive cert reaches 100% completion.",
+  "status": "pending"
+}

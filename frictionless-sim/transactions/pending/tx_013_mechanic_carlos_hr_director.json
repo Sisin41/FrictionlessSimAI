@@ -1,0 +1,9 @@
+{
+  "id": "tx_013_mechanic_carlos_hr_director",
+  "tick": 13,
+  "initiator": "mechanic_carlos",
+  "target": "hr_director",
+  "type": "SIGNAL",
+  "description": "Carlos accepts Angela Wright's standing offer of coffee. He reaches out to schedule a time — explicitly framing it as personal, not transactional. Angela is stressed; Carlos shows up as a neighbor and peer, not as someone working an angle. The meeting is a relationship investment, not an information extraction.",
+  "status": "pending"
+}

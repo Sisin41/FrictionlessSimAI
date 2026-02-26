@@ -1,0 +1,34 @@
+{
+  "tick": 13,
+  "agent_id": "diner_owner",
+  "agent_name": "Betty Kowalski",
+  "response": {
+    "internal_assessment": "Optimizing L0 SURVIVE and L2 PARTICIPATE simultaneously. With 1.8 months runway and a net cash burn of roughly $3,100 a month, I cannot afford to let the delivery conversion sit on paper for another tick. The bridge loan is in hand, the RoboRide agreement is signed, the menu is drafted. The only thing between me and revenue is getting the equipment ordered and the kitchen configured. Every day I do not have delivery orders coming in is a day I am burning runway I do not have. I am also responding to Kevin O'Brien's documentation request — losing the bridge loan now because I missed a paperwork deadline would be catastrophic. The $1,800 guaranteed floor is not enough to survive on, which means I need actual delivery volume on top of that floor. I am also calling Carlos Ruiz — not for support, but because he knows this neighborhood and may know of other kitchen operators or former Auto Row workers who want reliable meal delivery. Word of mouth is free marketing and I need it now.",
+    "chosen_actions": [
+      {
+        "type": "TRANSFORMATION",
+        "description": "Use bridge loan funds to order and install commercial delivery packaging equipment, insulated carry bags, and prep station modifications. Call the equipment supplier identified during the bridge loan application process. Schedule installation for this week. The goal is first delivery orders live within 7 days.",
+        "target_agent": null,
+        "resources_involved": "Draw on $12,000 bridge loan — estimated $8,000-$10,000 in equipment and installation. Remainder held as operating buffer.",
+        "reasoning": "The conversion is committed — contract signed, loan secured, menu drafted. The only way to stop bleeding savings is to generate delivery revenue. Equipment installation is the blocking step. Every day the kitchen is not delivery-ready is a day the $1,800 floor is my only income against $4,929 in expenses. I am spending down $3,100 a month and I have 1.8 months left. I need delivery orders this month, not next month."
+      },
+      {
+        "type": "COMMITMENT",
+        "description": "Respond to Kevin O'Brien's follow-up request for cash flow documentation required for final bridge loan approval. Gather last 6 months of diner receipts, the signed RoboRide partnership agreement as the revenue instrument, and the equipment purchase quotes. Deliver the document package to the Millfield Community Credit Union within 48 hours as requested.",
+        "target_agent": "loan_officer",
+        "resources_involved": "Time — approximately half a day to pull and organize documents. No cash outlay. Loan disbursement at risk if not completed.",
+        "reasoning": "The bridge loan is conditional on documentation. If I miss the 48-hour window Kevin set, the loan could be delayed or withdrawn. I cannot afford that. The $12,000 is already factored into my survival math. This is a mandatory action, not a discretionary one. I should have anticipated the documentation request — Kevin was clear at the community center that this was a bridge program with demonstrable revenue contracts as the qualification. The RoboRide agreement is that contract. I have it. I need to submit it."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Call Carlos Ruiz and let him know the delivery conversion is live — not to ask for anything, but to plant the seed that the diner is now a delivery kitchen serving the neighborhood. Ask if any of his customers or contacts at the old Auto Row network want to know about the meal delivery service. Also ask if Miguel Hernandez, the contact Carlos mentioned, is someone who might be ordering delivery meals for a work crew or household.",
+        "target_agent": "mechanic_carlos",
+        "resources_involved": "15 minutes of phone time. No cost.",
+        "reasoning": "Carlos has the most genuine trust relationship I have in this network at 0.53. He is also pivoting and understands the economic reality on the ground. Word of mouth referrals from someone embedded in the former Auto Row worker community are worth more than any advertising I could buy. I am not asking him to do me a favor — I am telling him about a real service that may be useful to people he knows. That is how you use a trust relationship without burning it."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "The decision is made, the loan is signed, the menu is on paper — now I just have to make it real before the money runs out."
+  }
+}

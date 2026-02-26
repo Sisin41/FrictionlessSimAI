@@ -1,0 +1,9 @@
+{
+  "id": "tx_013_insurance_agent_tom_insurance_agent_priya",
+  "tick": 13,
+  "initiator": "insurance_agent_tom",
+  "target": "insurance_agent_priya",
+  "type": "SIGNAL",
+  "description": "Tom checks in with Priya Sharma to debrief on the Marcus Webb call outcome and exchange intel on their parallel job searches. He shares what Webb said, asks what Priya has heard from her own outreach, and confirms they are both still operating as a mutual information loop on the transition.",
+  "status": "pending"
+}
