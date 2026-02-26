@@ -27,7 +27,7 @@
   "hierarchy": {
     "L0_SURVIVE": {
       "runway_months": 0.0,
-      "threat_level": 1.0,
+      "threat_level": 1,
       "monthly_essentials": 2000,
       "health_cost_from_stress": 0
     },
@@ -38,7 +38,7 @@
     },
     "L2_PARTICIPATE": {
       "employment_status": "unemployed",
-      "skill_relevance": 0.48,
+      "skill_relevance": 0.51,
       "role_security": 0.89,
       "network_strength": 0.54
     },
@@ -76,19 +76,19 @@
       "availability_heuristic": 0.52,
       "social_proof_sensitivity": 0.56
     },
-    "sentiment": "urgent"
+    "sentiment": "anxious"
   },
   "psychological": {
-    "stress_level": 0.44,
+    "stress_level": 0.49,
     "agency": 0.53,
     "grief_stage": "anger",
-    "temporal_horizon_months": 8,
-    "high_stress_ticks": 1
+    "temporal_horizon_months": 7,
+    "high_stress_ticks": 0
   },
   "financial": {
     "monthly_income": 0,
     "monthly_expenses": 3341,
-    "savings": -2724,
+    "savings": 0,
     "debt_total": 52825,
     "credit_score": 717
   },
@@ -114,8 +114,8 @@
       "description": "complete module 4 of the sql/data visualization course this tick \u2014 window functions and subqueries. this is now an active job search differentiator, not a preparation hedge. applications are already out citing sql skills. finishing module 4 and updating linkedin and application materials upon completion is the immediate priority. three evening hours committed.",
       "started_tick": 4,
       "completion_eta_months": 8,
-      "progress": 0.48,
-      "months_invested": 4
+      "progress": 0.58,
+      "months_invested": 5
     }
   ],
   "temporal_mismatches": {
@@ -130,5 +130,5 @@
   },
   "locality": "millfield",
   "archetype": "adapter",
-  "tick_updated": 12
+  "tick_updated": 13
 }

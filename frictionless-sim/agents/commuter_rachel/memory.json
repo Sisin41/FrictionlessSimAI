@@ -59,6 +59,11 @@
       "tick": 11,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 13,
+      "summary": "Call Nicole Washington directly \u2014 not a follow-up email, a call. She said she wanted to talk and I am making that happen. The conversation has one objective: turn her stated interest into a signed pilot retainer. I come prepared with a specific, low-friction proposal \u2014 $300/month for a 3-month communications support pilot covering her personal brand and professional social presence as a nurse and community figure. Small enough that her budget concern does not kill it. Concrete enough that she cannot defer it. I ask directly: 'Based on what we talked about, I want to propose a three-month pilot starting this month. Can we do that?' If yes, I send a one-page agreement within 24 hours. If no, I ask what would make it a yes and I listen.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -156,7 +161,15 @@
       "savings_delta": -4817,
       "stress_delta": 0.05,
       "employment_changed": false,
-      "narrative": "Rachel Green executed on the full slate she committed to at tick 11. She submitted three tailored job applications — one to Millfield Regional Health Systems' communications team, one to a financial services firm in the adjacent market, and one to a regional logistics company expanding through the disruption. She sent her final close message to Nicole Washington: professional, specific, no softening. Nicole responded the same evening — not a yes, but not a no: 'Can we talk next week? I think I want to move forward but I need to look at my budget.' Rachel has the Angela Wright referral call on record; Angela confirmed she regularly encounters small business owners who need communications support and agreed to refer, though no concrete client has materialized yet. The LinkedIn piece went up and got strong engagement from her existing network. Four months of runway remain, the pipeline is active and real, but no revenue has closed — the gap between preparation and income is still the central tension."
+      "narrative": "Rachel Green executed on the full slate she committed to at tick 11. She submitted three tailored job applications \u2014 one to Millfield Regional Health Systems' communications team, one to a financial services firm in the adjacent market, and one to a regional logistics company expanding through the disruption. She sent her final close message to Nicole Washington: professional, specific, no softening. Nicole responded the same evening \u2014 not a yes, but not a no: 'Can we talk next week? I think I want to move forward but I need to look at my budget.' Rachel has the Angela Wright referral call on record; Angela confirmed she regularly encounters small business owners who need communications support and agreed to refer, though no concrete client has materialized yet. The LinkedIn piece went up and got strong engagement from her existing network. Four months of runway remain, the pipeline is active and real, but no revenue has closed \u2014 the gap between preparation and income is still the central tension."
+    },
+    {
+      "tick": 13,
+      "action": "Call Nicole Washington directly \u2014 not a follow-up email, a call. She said she wanted to talk and I am making that happen. The conversation has one objective: turn her stated interest into a signed pilot retainer. I come prepared with a specific, low-friction proposal \u2014 $300/month for a 3-month communications support pilot covering her personal brand and professional social presence as a nurse and community figure. Small enough that her budget concern does not kill it. Concrete enough that she cannot defer it. I ask directly: 'Based on what we talked about, I want to propose a three-month pilot starting this month. Can we do that?' If yes, I send a one-page agreement within 24 hours. If no, I ask what would make it a yes and I listen.",
+      "savings_delta": -4817,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Call Nicole Washington directly \u2014 not a follow-up email, a call. She said she wanted to talk and I am making that happen. The conversation has one objective: turn her stated interest into a signed pilot retainer. I come prepared with a specific, low-friction proposal \u2014 $300/month for a 3-month communications support pilot covering her personal brand and professional social presence as a nurse and community figure. Small enough that her budget concern does not kill it. Concrete enough that she cannot defer it. I ask directly: 'Based on what we talked about, I want to propose a three-month pilot starting this month. Can we do that?' If yes, I send a one-page agreement within 24 hours. If no, I ask what would make it a yes and I listen.. Savings dropped by $4,817. "
     }
   ],
   "reflections": [

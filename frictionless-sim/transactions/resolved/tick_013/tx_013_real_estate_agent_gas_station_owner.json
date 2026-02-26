@@ -1,0 +1,9 @@
+{
+  "id": "tx_013_real_estate_agent_gas_station_owner",
+  "tick": 13,
+  "initiator": "real_estate_agent",
+  "target": "gas_station_owner",
+  "type": "COMMITMENT",
+  "description": "Stephanie Morris requests a formal listing agreement with Amir Patel for the Route 9 gas station adaptive reuse sale. Amir confirmed by phone at tick 12 that he is leaning toward the sale path and asked Stephanie to bring the listing to market by end of next month. Stephanie is calling Monday to schedule a meeting this week to review and sign the listing agreement, bringing a draft agreement, updated comp data, revised price range recommendation ($285,000-$330,000), and a 30-day marketing plan targeting delivery logistics operators and EV charging retrofit developers.",
+  "status": "accepted"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "tx_013_auto_shop_teacher_mechanic_sarah",
+  "tick": 13,
+  "initiator": "auto_shop_teacher",
+  "target": "mechanic_sarah",
+  "type": "SIGNAL",
+  "description": "Mark Thompson hosts Sarah Kim's hybrid diagnostics guest session in the auto shop classroom. Sarah demonstrates real-world EV/hybrid diagnostic procedures to students. Guidance counselor attends as observer. Session is documented for school newsletter and board update. This is the first live proof-of-concept for the Millfield Auto Tech Pipeline program, now officially funded.",
+  "status": "accepted"
+}

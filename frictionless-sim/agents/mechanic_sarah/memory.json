@@ -59,6 +59,11 @@
       "tick": 11,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 13,
+      "summary": "Schedule and sit for the EVT Level 1 certification assessment. This is the only remaining step \u2014 all modules are complete, integrated systems content is done, and I have been in assessment prep since completing the final module last tick. I will book the exam date this week, block the study time over the next two weekends to review fault code simulation scenarios and charging infrastructure diagnostics, and take the assessment before the end of the month. Passing this brings the certification into my hands and moves me from candidate to credentialed.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -164,7 +169,15 @@
       "savings_delta": 499,
       "stress_delta": -0.04,
       "employment_changed": false,
-      "narrative": "Sarah completed the integrated systems module content and shifted into assessment prep, bringing EVT Level 1 to approximately 68% — the certification assessment is now the only remaining step and she can credibly tell anyone that it is weeks away, not months. The fleet operator call using Carlos's name landed well: the contact at Millfield Regional Fleet Service spent 22 minutes with her, confirmed they do hire EVT Level 1-certified techs for entry diagnostic roles, and said to follow up when the cert is in hand. Zoe confirmed that RoboRide's delivery partner onboarding asks about vehicle maintenance access but does not yet have a regional service partnership — information Sarah filed as a future signal. She introduced herself to one of the transferred technicians, a woman named Diane who had been standing at the edge of the break room, and showed her where the supply cabinet was — a small thing that cost nothing."
+      "narrative": "Sarah completed the integrated systems module content and shifted into assessment prep, bringing EVT Level 1 to approximately 68% \u2014 the certification assessment is now the only remaining step and she can credibly tell anyone that it is weeks away, not months. The fleet operator call using Carlos's name landed well: the contact at Millfield Regional Fleet Service spent 22 minutes with her, confirmed they do hire EVT Level 1-certified techs for entry diagnostic roles, and said to follow up when the cert is in hand. Zoe confirmed that RoboRide's delivery partner onboarding asks about vehicle maintenance access but does not yet have a regional service partnership \u2014 information Sarah filed as a future signal. She introduced herself to one of the transferred technicians, a woman named Diane who had been standing at the edge of the break room, and showed her where the supply cabinet was \u2014 a small thing that cost nothing."
+    },
+    {
+      "tick": 13,
+      "action": "Schedule and sit for the EVT Level 1 certification assessment. This is the only remaining step \u2014 all modules are complete, integrated systems content is done, and I have been in assessment prep since completing the final module last tick. I will book the exam date this week, block the study time over the next two weekends to review fault code simulation scenarios and charging infrastructure diagnostics, and take the assessment before the end of the month. Passing this brings the certification into my hands and moves me from candidate to credentialed.",
+      "savings_delta": 249,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Schedule and sit for the EVT Level 1 certification assessment. This is the only remaining step \u2014 all modules are complete, integrated systems content is done, and I have been in assessment prep since completing the final module last tick. I will book the exam date this week, block the study time over the next two weekends to review fault code simulation scenarios and charging infrastructure diagnostics, and take the assessment before the end of the month. Passing this brings the certification into my hands and moves me from candidate to credentialed.. Savings grew by $249. "
     }
   ],
   "reflections": [

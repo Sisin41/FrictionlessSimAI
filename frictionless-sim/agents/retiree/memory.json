@@ -54,6 +54,11 @@
       "tick": 11,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 13,
+      "summary": "Design and begin piloting an informal outreach method for reaching socially isolated older men who do not attend formal sessions. Identify two or three locations in Millfield where older men gather informally \u2014 the hardware store, the VFW hall, the counter at Betty's Diner on weekday mornings \u2014 and begin showing up as a regular, not as a facilitator. The goal is not to recruit them to the workshop. The goal is to be present, to listen, and to let the conversation come to them. This is how I taught for forty years: you meet people where they are, on their terms, on their schedule, and you let them lead. I will track what I learn and bring it back to Lisa Freeman and the workshop curriculum. No printed handouts. No structured agenda. Just presence.",
+      "emotional_state": "purposeful"
     }
   ],
   "past_outcomes": [
@@ -151,7 +156,15 @@
       "savings_delta": 947,
       "stress_delta": -0.03,
       "employment_changed": false,
-      "narrative": "Dorothy's second workshop session drew 14 participants — two more than session one — and the financial communication with adult children topic produced the most emotional disclosure of any session Dorothy has facilitated in years; three participants stayed 25 minutes past the end time to continue the conversation. Dorothy made the call to Robert Jackson Thursday afternoon, said the thing she had been holding for six ticks, and Robert received it with more grace than she expected; he thanked her and said it mattered to hear it named honestly. The Betty's Diner visit was warm and unhurried — Betty had not heard from RoboRide about written terms and told Dorothy she was starting to think about what comes next. The normalcy-bias self-check produced one concrete finding: Dorothy's workshop consistently reaches women aged 60-75 connected to the community center network, but she is not reaching men over 70 who are socially isolated and least likely to attend a formal session — a gap she noted and passed to Lisa Freeman. Savings delta reflects stable pension surplus of $947."
+      "narrative": "Dorothy's second workshop session drew 14 participants \u2014 two more than session one \u2014 and the financial communication with adult children topic produced the most emotional disclosure of any session Dorothy has facilitated in years; three participants stayed 25 minutes past the end time to continue the conversation. Dorothy made the call to Robert Jackson Thursday afternoon, said the thing she had been holding for six ticks, and Robert received it with more grace than she expected; he thanked her and said it mattered to hear it named honestly. The Betty's Diner visit was warm and unhurried \u2014 Betty had not heard from RoboRide about written terms and told Dorothy she was starting to think about what comes next. The normalcy-bias self-check produced one concrete finding: Dorothy's workshop consistently reaches women aged 60-75 connected to the community center network, but she is not reaching men over 70 who are socially isolated and least likely to attend a formal session \u2014 a gap she noted and passed to Lisa Freeman. Savings delta reflects stable pension surplus of $947."
+    },
+    {
+      "tick": 13,
+      "action": "Design and begin piloting an informal outreach method for reaching socially isolated older men who do not attend formal sessions. Identify two or three locations in Millfield where older men gather informally \u2014 the hardware store, the VFW hall, the counter at Betty's Diner on weekday mornings \u2014 and begin showing up as a regular, not as a facilitator. The goal is not to recruit them to the workshop. The goal is to be present, to listen, and to let the conversation come to them. This is how I taught for forty years: you meet people where they are, on their terms, on their schedule, and you let them lead. I will track what I learn and bring it back to Lisa Freeman and the workshop curriculum. No printed handouts. No structured agenda. Just presence.",
+      "savings_delta": 473,
+      "stress_delta": 0.0,
+      "employment_changed": false,
+      "narrative": "You Design and begin piloting an informal outreach method for reaching socially isolated older men who do not attend formal sessions. Identify two or three locations in Millfield where older men gather informally \u2014 the hardware store, the VFW hall, the counter at Betty's Diner on weekday mornings \u2014 and begin showing up as a regular, not as a facilitator. The goal is not to recruit them to the workshop. The goal is to be present, to listen, and to let the conversation come to them. This is how I taught for forty years: you meet people where they are, on their terms, on their schedule, and you let them lead. I will track what I learn and bring it back to Lisa Freeman and the workshop curriculum. No printed handouts. No structured agenda. Just presence.. Savings grew by $473. "
     }
   ],
   "reflections": [

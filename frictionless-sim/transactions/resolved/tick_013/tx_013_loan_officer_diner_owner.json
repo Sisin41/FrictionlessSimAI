@@ -1,0 +1,9 @@
+{
+  "id": "tx_013_loan_officer_diner_owner",
+  "tick": 13,
+  "initiator": "loan_officer",
+  "target": "diner_owner",
+  "type": "COMMITMENT",
+  "description": "Kevin O'Brien follows up with Amir Patel (diner_owner) to close out the outstanding business cash flow documentation required for the conditional $12,000 EV charger loan approval. Kevin contacts Amir by phone, confirms document status, and sets a 48-hour deadline for submission so the loan can move to final approval this week.",
+  "status": "accepted"
+}

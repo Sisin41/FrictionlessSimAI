@@ -1,0 +1,9 @@
+{
+  "id": "tx_013_retiree_diner_owner",
+  "tick": 13,
+  "initiator": "retiree",
+  "target": "diner_owner",
+  "type": "TRANSFER",
+  "description": "Dorothy visits Betty's Diner and offers her time and listening presence as someone who can help Betty think through 'what comes next' for the diner. Dorothy purchases a meal and tips well. The offer of informal support is made openly and left to Betty's discretion to accept.",
+  "status": "accepted"
+}

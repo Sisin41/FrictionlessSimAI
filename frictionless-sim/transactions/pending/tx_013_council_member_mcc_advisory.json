@@ -1,9 +1,0 @@
-{
-  "id": "tx_013_council_member_mcc_advisory",
-  "tick": 13,
-  "initiator": "council_member",
-  "target": "millfield_community_college",
-  "type": "COMMITMENT",
-  "description": "Maria Santos negotiates a paid advisory role with Dr. Kevin Marsh, Workforce Program Director at Millfield Community College — seeking a minimum $2,500/month retainer to serve as external policy architect for the college's workforce transition programs, specifically those tied to the municipal retraining fund she authorized. Dr. Marsh had already expressed interest and scheduled this call after her outreach in tick 12.",
-  "status": "pending"
-}

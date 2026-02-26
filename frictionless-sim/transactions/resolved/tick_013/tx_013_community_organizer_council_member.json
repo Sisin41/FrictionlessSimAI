@@ -1,0 +1,9 @@
+{
+  "id": "tx_013_community_organizer_council_member",
+  "tick": 13,
+  "initiator": "community_organizer",
+  "target": "council_member",
+  "type": "SIGNAL",
+  "description": "Lisa Freeman presents the Financial Triage Navigator utilization report to Maria Santos's task force, flagging the 4 unmet-needs cases as requested and attaching a formal funding ask for a 20-hour/week part-time navigator position at approximately $1,200/month. The signal frames the unmet-needs category as a fundable gap with documented scope, not an abstract concern.",
+  "status": "accepted"
+}

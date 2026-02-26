@@ -59,6 +59,11 @@
       "tick": 11,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 13,
+      "summary": "Execute the scheduled 20-minute call with Marcus Webb, fleet operations director at Millfield Distribution Partners. Come prepared: I have done light research on what fleet operators need from risk and logistics analytics roles. I lead with specific transferable value \u2014 28 years of risk assessment, familiarity with commercial auto exposure, and the SQL fundamentals I am currently building. I do not oversell. I do not undersell. I ask Webb directly: are there roles on his team or in his network that overlap with commercial risk or fleet analytics? If yes, what do they look like? If not, does he know anyone who would find my background useful? I treat this as an informational conversation with a real human, not a performance. I follow up with a brief thank-you note within 24 hours that names one specific thing from the conversation.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -164,7 +169,15 @@
       "savings_delta": -3060,
       "stress_delta": -0.05,
       "employment_changed": false,
-      "narrative": "Tom sent a brief, professional email to the regional logistics contact Linda Park had introduced — Marcus Webb, fleet operations director at Millfield Distribution Partners — within 48 hours of receiving Linda's introduction. Webb responded the next day: he appreciated Linda's vouching and agreed to a 20-minute call, which Tom scheduled for early next week. It is not a job offer and Tom is not treating it as one, but a scheduled conversation with a real hiring-adjacent contact is exactly what the network activation was supposed to produce. Tom messaged Priya to confirm she is in the loop, then separately called Linda to mention Priya's name as a parallel candidate; Linda said she would reach out to Webb on Priya's behalf as well. Tom completed one full module of his SQL fundamentals course — the joins and aggregation unit — and logged it in his retraining record. The check-in with Carlos Ruiz was brief and human: Carlos acknowledged the disruption without dramatizing it, and Tom left the conversation feeling the relational track of his adaptation plan is holding."
+      "narrative": "Tom sent a brief, professional email to the regional logistics contact Linda Park had introduced \u2014 Marcus Webb, fleet operations director at Millfield Distribution Partners \u2014 within 48 hours of receiving Linda's introduction. Webb responded the next day: he appreciated Linda's vouching and agreed to a 20-minute call, which Tom scheduled for early next week. It is not a job offer and Tom is not treating it as one, but a scheduled conversation with a real hiring-adjacent contact is exactly what the network activation was supposed to produce. Tom messaged Priya to confirm she is in the loop, then separately called Linda to mention Priya's name as a parallel candidate; Linda said she would reach out to Webb on Priya's behalf as well. Tom completed one full module of his SQL fundamentals course \u2014 the joins and aggregation unit \u2014 and logged it in his retraining record. The check-in with Carlos Ruiz was brief and human: Carlos acknowledged the disruption without dramatizing it, and Tom left the conversation feeling the relational track of his adaptation plan is holding."
+    },
+    {
+      "tick": 13,
+      "action": "Execute the scheduled 20-minute call with Marcus Webb, fleet operations director at Millfield Distribution Partners. Come prepared: I have done light research on what fleet operators need from risk and logistics analytics roles. I lead with specific transferable value \u2014 28 years of risk assessment, familiarity with commercial auto exposure, and the SQL fundamentals I am currently building. I do not oversell. I do not undersell. I ask Webb directly: are there roles on his team or in his network that overlap with commercial risk or fleet analytics? If yes, what do they look like? If not, does he know anyone who would find my background useful? I treat this as an informational conversation with a real human, not a performance. I follow up with a brief thank-you note within 24 hours that names one specific thing from the conversation.",
+      "savings_delta": -3060,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Execute the scheduled 20-minute call with Marcus Webb, fleet operations director at Millfield Distribution Partners. Come prepared: I have done light research on what fleet operators need from risk and logistics analytics roles. I lead with specific transferable value \u2014 28 years of risk assessment, familiarity with commercial auto exposure, and the SQL fundamentals I am currently building. I do not oversell. I do not undersell. I ask Webb directly: are there roles on his team or in his network that overlap with commercial risk or fleet analytics? If yes, what do they look like? If not, does he know anyone who would find my background useful? I treat this as an informational conversation with a real human, not a performance. I follow up with a brief thank-you note within 24 hours that names one specific thing from the conversation.. Savings dropped by $3,060. "
     }
   ],
   "reflections": [

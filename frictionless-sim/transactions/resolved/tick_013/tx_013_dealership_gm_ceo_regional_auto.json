@@ -1,0 +1,9 @@
+{
+  "id": "tx_013_dealership_gm_ceo_regional_auto",
+  "tick": 13,
+  "initiator": "dealership_gm",
+  "target": "ceo_regional_auto",
+  "type": "COMMITMENT",
+  "description": "Rick Tanner requests a 20-minute call with Patricia Hawkins to propose a 60-90 day extension of the current $4,500/month consulting contract, framing it as operational continuity for the ongoing transition phase. The ask is made while the positive tick 12 memo acknowledgment is still recent.",
+  "status": "accepted"
+}

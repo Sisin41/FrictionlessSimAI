@@ -1,9 +1,0 @@
-{
-  "id": "tx_013_ceo_regional_auto_bank_manager",
-  "tick": 13,
-  "initiator": "ceo_regional_auto",
-  "target": "bank_manager",
-  "type": "SIGNAL",
-  "description": "Patricia Hawkins calls David Chen at First Community Bank to provide a proactive structured update on Regional Auto Group's financial position and the three-location consolidation — not to request credit, but to build a warm relationship before she may need credit flexibility. She frames it as transparency from a long-standing business account holder: reduced debt load post-closure, EV certification investment, community partnership with the Millfield Auto Tech Pipeline. The goal is to raise trust before it becomes a transactional necessity.",
-  "status": "pending"
-}

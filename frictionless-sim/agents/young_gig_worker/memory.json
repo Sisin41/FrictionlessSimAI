@@ -54,6 +54,11 @@
       "tick": 11,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 13,
+      "summary": "Walk into Carmen's alterations shop on Market Street this week \u2014 in person, not a message, not a call. Miguel's referral means she already knows my name. I pitch the same package I sold Betty: $120/month, one post per day, community tone, focused on her delivery or in-store traffic depending on what she needs. I show her Betty's account as proof of work if she asks. I ask if she wants to start this month. The ask is specific and I make it directly.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -151,7 +156,15 @@
       "savings_delta": -2284,
       "stress_delta": -0.06,
       "employment_changed": false,
-      "narrative": "Zoe walked into the diner at 2:30pm on a Tuesday, sat across from Betty Kowalski, and made the direct ask — Betty said yes within four minutes. Betty had just signed up her diner with RoboRide's restaurant delivery program and was staring at a new delivery menu she had no idea how to promote online, and Zoe's timing was almost absurd in its precision. The contract is $120/month starting immediately, one post per day focused on the delivery menu and community warmth. Miguel Hernandez had separately texted Zoe with a referral — a woman named Carmen who runs a small alterations shop on Market Street and has been asking around about social media help — which arrives as the second confirmed lead in the pipeline. Zoe posted the before-and-after TikTok comparing businesses that went dark on social versus ones that stayed visible, and it received 340 views and 6 DMs by end of the tick."
+      "narrative": "Zoe walked into the diner at 2:30pm on a Tuesday, sat across from Betty Kowalski, and made the direct ask \u2014 Betty said yes within four minutes. Betty had just signed up her diner with RoboRide's restaurant delivery program and was staring at a new delivery menu she had no idea how to promote online, and Zoe's timing was almost absurd in its precision. The contract is $120/month starting immediately, one post per day focused on the delivery menu and community warmth. Miguel Hernandez had separately texted Zoe with a referral \u2014 a woman named Carmen who runs a small alterations shop on Market Street and has been asking around about social media help \u2014 which arrives as the second confirmed lead in the pipeline. Zoe posted the before-and-after TikTok comparing businesses that went dark on social versus ones that stayed visible, and it received 340 views and 6 DMs by end of the tick."
+    },
+    {
+      "tick": 13,
+      "action": "Walk into Carmen's alterations shop on Market Street this week \u2014 in person, not a message, not a call. Miguel's referral means she already knows my name. I pitch the same package I sold Betty: $120/month, one post per day, community tone, focused on her delivery or in-store traffic depending on what she needs. I show her Betty's account as proof of work if she asks. I ask if she wants to start this month. The ask is specific and I make it directly.",
+      "savings_delta": 2284,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Walk into Carmen's alterations shop on Market Street this week \u2014 in person, not a message, not a call. Miguel's referral means she already knows my name. I pitch the same package I sold Betty: $120/month, one post per day, community tone, focused on her delivery or in-store traffic depending on what she needs. I show her Betty's account as proof of work if she asks. I ask if she wants to start this month. The ask is specific and I make it directly.. Savings grew by $2,284. "
     }
   ],
   "reflections": [

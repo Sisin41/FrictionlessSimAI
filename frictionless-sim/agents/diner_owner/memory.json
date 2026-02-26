@@ -59,6 +59,11 @@
       "tick": 11,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 13,
+      "summary": "Use bridge loan funds to order and install commercial delivery packaging equipment, insulated carry bags, and prep station modifications. Call the equipment supplier identified during the bridge loan application process. Schedule installation for this week. The goal is first delivery orders live within 7 days.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -152,11 +157,19 @@
     },
     {
       "tick": 12,
-      "action": "Executed RoboRide delivery kitchen go/no-go decision — GO; secured $12,000 bridge financing through Millfield Community Credit Union via Kevin O'Brien; signed RoboRide delivery partnership agreement; called Stephanie Morris with status update; drafted 6-item delivery menu",
+      "action": "Executed RoboRide delivery kitchen go/no-go decision \u2014 GO; secured $12,000 bridge financing through Millfield Community Credit Union via Kevin O'Brien; signed RoboRide delivery partnership agreement; called Stephanie Morris with status update; drafted 6-item delivery menu",
       "savings_delta": 7071,
       "stress_delta": -0.06,
       "employment_changed": false,
-      "narrative": "Betty Kowalski walked into the Financial Triage Navigator session at the community center and asked Kevin O'Brien the most specific version of the question she had prepared: a commercial kitchen conversion, $15,000-$18,000 in equipment needs, a delivery partnership agreement as the revenue instrument. Kevin connected her on the spot with the Millfield Community Credit Union's small business bridge financing program — a $12,000 loan at 6.5% over 36 months, accessible to sole proprietors with demonstrable revenue contracts. The RoboRide written terms had arrived the day before: 68% revenue share, $1,800 guaranteed monthly floor for the first 90 days, scaling to market rate after. The math was below her $2,800 threshold on paper, but with the bridge loan covering equipment and the $1,800 floor providing a base, the path was survivable. She signed the agreement. She called Stephanie Morris and said plainly: 'I'm proceeding with the delivery conversion. I want to schedule a property walk as a 90-day contingency checkpoint, not an exit.' Then she sat down and drafted a 6-item delivery menu: house chili, beef stew, meatloaf plate, chicken soup, pierogi with kielbasa, daily breakfast sandwich. The decision is made. The diner is becoming something different. The savings figure reflects the $12,000 bridge loan inflow net of $4,929 in monthly expenses — debt increased by $12,000."
+      "narrative": "Betty Kowalski walked into the Financial Triage Navigator session at the community center and asked Kevin O'Brien the most specific version of the question she had prepared: a commercial kitchen conversion, $15,000-$18,000 in equipment needs, a delivery partnership agreement as the revenue instrument. Kevin connected her on the spot with the Millfield Community Credit Union's small business bridge financing program \u2014 a $12,000 loan at 6.5% over 36 months, accessible to sole proprietors with demonstrable revenue contracts. The RoboRide written terms had arrived the day before: 68% revenue share, $1,800 guaranteed monthly floor for the first 90 days, scaling to market rate after. The math was below her $2,800 threshold on paper, but with the bridge loan covering equipment and the $1,800 floor providing a base, the path was survivable. She signed the agreement. She called Stephanie Morris and said plainly: 'I'm proceeding with the delivery conversion. I want to schedule a property walk as a 90-day contingency checkpoint, not an exit.' Then she sat down and drafted a 6-item delivery menu: house chili, beef stew, meatloaf plate, chicken soup, pierogi with kielbasa, daily breakfast sandwich. The decision is made. The diner is becoming something different. The savings figure reflects the $12,000 bridge loan inflow net of $4,929 in monthly expenses \u2014 debt increased by $12,000."
+    },
+    {
+      "tick": 13,
+      "action": "Use bridge loan funds to order and install commercial delivery packaging equipment, insulated carry bags, and prep station modifications. Call the equipment supplier identified during the bridge loan application process. Schedule installation for this week. The goal is first delivery orders live within 7 days.",
+      "savings_delta": -3129,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Use bridge loan funds to order and install commercial delivery packaging equipment, insulated carry bags, and prep station modifications. Call the equipment supplier identified during the bridge loan application process. Schedule installation for this week. The goal is first delivery orders live within 7 days.. Savings dropped by $3,129. "
     }
   ],
   "reflections": [

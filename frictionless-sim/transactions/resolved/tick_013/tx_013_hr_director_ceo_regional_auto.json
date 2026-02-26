@@ -1,0 +1,9 @@
+{
+  "id": "tx_013_hr_director_ceo_regional_auto",
+  "tick": 13,
+  "initiator": "hr_director",
+  "target": "ceo_regional_auto",
+  "type": "TRANSFORMATION",
+  "description": "Angela drafts a one-page consulting scope document for Regional Auto Group \u2014 framing what ongoing post-program workforce advisory support from Wright Workforce Advisory LLC would look like, including a monthly retainer range of $3,500-5,000, deliverables tied to existing transition program work, and a start date contingent on program completion. Document is prepared and held, ready to deliver when Patricia initiates the next conversation about what comes after the current program.",
+  "status": "accepted"
+}

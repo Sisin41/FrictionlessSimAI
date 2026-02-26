@@ -1,0 +1,9 @@
+{
+  "id": "tx_013_dealership_gm_hr_director",
+  "tick": 13,
+  "initiator": "dealership_gm",
+  "target": "hr_director",
+  "type": "SIGNAL",
+  "description": "Rick Tanner reaches out to the two regional employers Angela Wright identified last tick, using Angela as a reference anchor and network bridge. He contacts them directly with a targeted pitch framing his experience around EV transition management and dealership consolidation advisory - not a public job search, but specific first-move outreach to both employers Angela suggested.",
+  "status": "accepted"
+}

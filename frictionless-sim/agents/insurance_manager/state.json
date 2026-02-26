@@ -31,8 +31,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 9.4,
-      "threat_level": 0.13,
+      "runway_months": 8.4,
+      "threat_level": 0.3,
       "monthly_essentials": 4250,
       "health_cost_from_stress": 0
     },
@@ -43,7 +43,7 @@
     },
     "L2_PARTICIPATE": {
       "employment_status": "unemployed",
-      "skill_relevance": 0.43,
+      "skill_relevance": 0.46,
       "role_security": 0.48,
       "network_strength": 0.75
     },
@@ -85,8 +85,8 @@
     "sentiment": "determined"
   },
   "psychological": {
-    "stress_level": 0.18,
-    "agency": 0.7,
+    "stress_level": 0.16,
+    "agency": 0.72,
     "grief_stage": "acceptance",
     "temporal_horizon_months": 10,
     "high_stress_ticks": 0
@@ -94,7 +94,7 @@
   "financial": {
     "monthly_income": 0,
     "monthly_expenses": 7382,
-    "savings": 69449,
+    "savings": 62067,
     "debt_total": 67097,
     "credit_score": 687
   },
@@ -127,8 +127,8 @@
       "description": "continue crmp certification coursework \u2014 now four months in. this month's focus: the module on liability risk transfer and commercial fleet risk assessment, specifically because the skills needed if autoshield pivots to fleet/corporate coverage map directly to what i'm studying. also follow up directly on the three external applications submitted in tick 2 \u2014 reach out by name to contacts at the regional logistics company, the healthcare system risk division, and the municipal risk management office. ask specifically: did you receive my application, is there a next step, and can we schedule a conversation? three follow-up calls, not emails.",
       "started_tick": 4,
       "completion_eta_months": 10,
-      "progress": 0.4,
-      "months_invested": 4
+      "progress": 0.5,
+      "months_invested": 5
     }
   ],
   "temporal_mismatches": {
@@ -143,5 +143,5 @@
   },
   "locality": "millfield",
   "archetype": "adapter",
-  "tick_updated": 12
+  "tick_updated": 13
 }

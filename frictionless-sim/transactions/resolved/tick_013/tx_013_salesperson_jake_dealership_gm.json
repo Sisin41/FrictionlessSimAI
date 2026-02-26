@@ -1,0 +1,9 @@
+{
+  "id": "tx_013_salesperson_jake_dealership_gm",
+  "tick": 13,
+  "initiator": "salesperson_jake",
+  "target": "dealership_gm",
+  "type": "SIGNAL",
+  "description": "Jake calls Rick Tanner to follow up on the service advisor role conversation Rick promised within two weeks. Jake communicates continued availability and professional readiness without pressure, keeping himself present in Rick's decision-making at the moment consolidation staffing is being finalized.",
+  "status": "accepted"
+}

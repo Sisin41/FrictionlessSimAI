@@ -59,6 +59,11 @@
       "tick": 11,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 13,
+      "summary": "Attend the CareRide of the Valley onboarding orientation with Marcus Webb. Complete the background check, submit all required documentation \u2014 NEMT certification, vehicle inspection, clean driving record \u2014 and sign the route agreement for the new Millfield General route. Get a start date confirmed in writing. This is the commitment I have been building toward since tick 9.",
+      "emotional_state": "relieved"
     }
   ],
   "past_outcomes": [
@@ -156,7 +161,15 @@
       "savings_delta": -1407,
       "stress_delta": -0.07,
       "employment_changed": false,
-      "narrative": "CareRide of the Valley called Grace back this tick — a dispatcher named Marcus Webb reached out to schedule a formal onboarding orientation and background check for next week, citing her NEMT certification and clean record as exactly what they need for a new Millfield General route they are launching. Millfield Medical Transport has not yet responded, but Marcus at CareRide told her the orientation-to-first-route timeline is typically five to seven days once paperwork clears. Robert Jackson responded to Grace's text with the name of his direct contact at CareRide — ironically the same Marcus Webb who already called — and confirmed the operator is actively expanding. Grace drove morning airport windows and one Friday surge block, generating approximately $380 in rideshare income this tick, which partially offsets the $1,787 monthly burn while onboarding finalizes."
+      "narrative": "CareRide of the Valley called Grace back this tick \u2014 a dispatcher named Marcus Webb reached out to schedule a formal onboarding orientation and background check for next week, citing her NEMT certification and clean record as exactly what they need for a new Millfield General route they are launching. Millfield Medical Transport has not yet responded, but Marcus at CareRide told her the orientation-to-first-route timeline is typically five to seven days once paperwork clears. Robert Jackson responded to Grace's text with the name of his direct contact at CareRide \u2014 ironically the same Marcus Webb who already called \u2014 and confirmed the operator is actively expanding. Grace drove morning airport windows and one Friday surge block, generating approximately $380 in rideshare income this tick, which partially offsets the $1,787 monthly burn while onboarding finalizes."
+    },
+    {
+      "tick": 13,
+      "action": "Attend the CareRide of the Valley onboarding orientation with Marcus Webb. Complete the background check, submit all required documentation \u2014 NEMT certification, vehicle inspection, clean driving record \u2014 and sign the route agreement for the new Millfield General route. Get a start date confirmed in writing. This is the commitment I have been building toward since tick 9.",
+      "savings_delta": 1407,
+      "stress_delta": -0.03,
+      "employment_changed": false,
+      "narrative": "You Attend the CareRide of the Valley onboarding orientation with Marcus Webb. Complete the background check, submit all required documentation \u2014 NEMT certification, vehicle inspection, clean driving record \u2014 and sign the route agreement for the new Millfield General route. Get a start date confirmed in writing. This is the commitment I have been building toward since tick 9.. Savings grew by $1,407. "
     }
   ],
   "reflections": [

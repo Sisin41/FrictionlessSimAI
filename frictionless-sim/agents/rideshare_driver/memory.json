@@ -54,6 +54,11 @@
       "tick": 11,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 13,
+      "summary": "Formally begin employment at Millfield Medical Transport. Confirm the background check cleared, accept the finalized onboarding paperwork from Dave Herrera, and complete the first week of part-time NEMT shifts at 20 hours per week at $18/hour. Express to Carla and Dave that I am interested in expanding to full-time hours as openings arise \u2014 I want that on record early, professionally, without pressure. I am not a probationary employee hoping not to be noticed. I am a credentialed professional making myself indispensable from day one.",
+      "emotional_state": "relieved"
     }
   ],
   "past_outcomes": [
@@ -151,7 +156,15 @@
       "savings_delta": 775,
       "stress_delta": -0.08,
       "employment_changed": true,
-      "narrative": "Robert made all three calls Monday morning. CareRide of the Valley confirmed no openings for at least 60 days — a clear no. St. Clement's patient transport coordinator did not pick up and did not return the call by end of week — also effectively closed. But Millfield Medical Transport's dispatcher, a woman named Carla, called back Tuesday afternoon: a driver had given two weeks' notice and they needed a credentialed replacement. She asked Robert to come in Wednesday for a 20-minute meeting with the transport director, Dave Herrera. Robert walked out of that meeting with a conditional offer — part-time to start at 20 hours per week, $18/hour, pending a clean background check result expected within 72 hours. He accepted on the spot. Separately, Robert called the Millfield workforce development office and learned his Maria Santos retraining grant application had been approved in month 8; a $2,500 check was sitting in the disbursement queue waiting for him to confirm his mailing address — a 10-minute call resolved 10 months of ambiguity. Dorothy Chen called Thursday evening and said the honest thing about the RoboRide asymmetry; Robert told Marcus Friday in a five-minute kitchen conversation that the job change was finally happening."
+      "narrative": "Robert made all three calls Monday morning. CareRide of the Valley confirmed no openings for at least 60 days \u2014 a clear no. St. Clement's patient transport coordinator did not pick up and did not return the call by end of week \u2014 also effectively closed. But Millfield Medical Transport's dispatcher, a woman named Carla, called back Tuesday afternoon: a driver had given two weeks' notice and they needed a credentialed replacement. She asked Robert to come in Wednesday for a 20-minute meeting with the transport director, Dave Herrera. Robert walked out of that meeting with a conditional offer \u2014 part-time to start at 20 hours per week, $18/hour, pending a clean background check result expected within 72 hours. He accepted on the spot. Separately, Robert called the Millfield workforce development office and learned his Maria Santos retraining grant application had been approved in month 8; a $2,500 check was sitting in the disbursement queue waiting for him to confirm his mailing address \u2014 a 10-minute call resolved 10 months of ambiguity. Dorothy Chen called Thursday evening and said the honest thing about the RoboRide asymmetry; Robert told Marcus Friday in a five-minute kitchen conversation that the job change was finally happening."
+    },
+    {
+      "tick": 13,
+      "action": "Formally begin employment at Millfield Medical Transport. Confirm the background check cleared, accept the finalized onboarding paperwork from Dave Herrera, and complete the first week of part-time NEMT shifts at 20 hours per week at $18/hour. Express to Carla and Dave that I am interested in expanding to full-time hours as openings arise \u2014 I want that on record early, professionally, without pressure. I am not a probationary employee hoping not to be noticed. I am a credentialed professional making myself indispensable from day one.",
+      "savings_delta": 387,
+      "stress_delta": -0.03,
+      "employment_changed": false,
+      "narrative": "You Formally begin employment at Millfield Medical Transport. Confirm the background check cleared, accept the finalized onboarding paperwork from Dave Herrera, and complete the first week of part-time NEMT shifts at 20 hours per week at $18/hour. Express to Carla and Dave that I am interested in expanding to full-time hours as openings arise \u2014 I want that on record early, professionally, without pressure. I am not a probationary employee hoping not to be noticed. I am a credentialed professional making myself indispensable from day one.. Savings grew by $387. "
     }
   ],
   "reflections": [

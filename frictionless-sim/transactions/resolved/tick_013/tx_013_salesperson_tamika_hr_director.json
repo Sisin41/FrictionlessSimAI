@@ -1,0 +1,9 @@
+{
+  "id": "tx_013_salesperson_tamika_hr_director",
+  "tick": 13,
+  "initiator": "salesperson_tamika",
+  "target": "hr_director",
+  "type": "SIGNAL",
+  "description": "Tamika contacts Angela Wright to request permission to use her name in a warm introduction to Devon Clarke, a former dealership finance manager now running a mobile dog grooming business who needs social media help. Angela mentioned Devon in the previous tick as a warm referral. Tamika follows up to activate it.",
+  "status": "accepted"
+}

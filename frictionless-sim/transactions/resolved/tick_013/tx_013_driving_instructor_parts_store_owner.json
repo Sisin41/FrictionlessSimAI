@@ -1,0 +1,9 @@
+{
+  "id": "tx_013_driving_instructor_parts_store_owner",
+  "tick": 13,
+  "initiator": "driving_instructor",
+  "target": "parts_store_owner",
+  "type": "COMMITMENT",
+  "description": "Frank Russo formally accepts Howard Liu's offer to deliver a single-session AV literacy and EV diagnostics workshop for parts store employees. Frank proposes a session fee of $400-600 for a two-hour workshop. He confirms date, content scope, and compensation this week.",
+  "status": "accepted"
+}

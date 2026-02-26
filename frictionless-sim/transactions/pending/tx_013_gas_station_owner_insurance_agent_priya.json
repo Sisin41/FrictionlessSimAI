@@ -1,9 +1,0 @@
-{
-  "id": "tx_013_gas_station_owner_insurance_agent_priya",
-  "tick": 13,
-  "initiator": "gas_station_owner",
-  "target": "insurance_agent_priya",
-  "type": "COMMITMENT",
-  "description": "Amir Patel confirms the $280/month business interruption and general liability policy with Priya Sharma is active. He verifies the policy number, effective date, and first payment processing. This closes the insurance gap that has been open since tick 0 and eliminates the single largest unmitigated structural risk in his portfolio given 4 dependents and a commercial fuel property.",
-  "status": "pending"
-}

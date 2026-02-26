@@ -1,0 +1,25 @@
+{
+  "tick": 13,
+  "employment_rate": 0.47,
+  "average_stress": 0.211,
+  "average_savings": 40111,
+  "archetype_distribution": {
+    "adapter": 16,
+    "builder": 7,
+    "hustler": 7
+  },
+  "emotion_distribution": {
+    "determined": 22,
+    "anxious": 4,
+    "purposeful": 1,
+    "relieved": 3
+  },
+  "car_ownership_rate": 0.7,
+  "robotaxi_adoption": 0.07,
+  "spending_index": 29,
+  "gini": 0.628,
+  "layoffs": 0,
+  "new_businesses": 0,
+  "protests": 6,
+  "bulletin_events": 10
+}

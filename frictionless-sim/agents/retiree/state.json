@@ -34,7 +34,7 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 53.8,
+      "runway_months": 54.1,
       "threat_level": 0,
       "monthly_essentials": 1600,
       "health_cost_from_stress": 0
@@ -46,7 +46,7 @@
     },
     "L2_PARTICIPATE": {
       "employment_status": "employed",
-      "skill_relevance": 0.3,
+      "skill_relevance": 0.32,
       "role_security": 0.75,
       "network_strength": 0.66
     },
@@ -96,7 +96,7 @@
   "financial": {
     "monthly_income": 3200,
     "monthly_expenses": 2253,
-    "savings": 121350,
+    "savings": 121823,
     "debt_total": 49942,
     "credit_score": 776
   },
@@ -109,7 +109,16 @@
       "exit_cost_months": 5
     }
   ],
-  "in_progress_transformations": [],
+  "in_progress_transformations": [
+    {
+      "type": "retraining",
+      "description": "design and begin piloting an informal outreach method for reaching socially isolated older men who do not attend formal sessions. identify two or three locations in millfield where older men gather informally \u2014 the hardware store, the vfw hall, the counter at betty's diner on weekday mornings \u2014 and begin showing up as a regular, not as a facilitator. the goal is not to recruit them to the workshop. the goal is to be present, to listen, and to let the conversation come to them. this is how i taught for forty years: you meet people where they are, on their terms, on their schedule, and you let them lead. i will track what i learn and bring it back to lisa freeman and the workshop curriculum. no printed handouts. no structured agenda. just presence.",
+      "started_tick": 13,
+      "completion_eta_months": 14,
+      "progress": 0.07,
+      "months_invested": 1
+    }
+  ],
   "temporal_mismatches": {
     "commitment_disruption_gap": 0.0,
     "skill_demand_gap": 0.7,
@@ -122,5 +131,5 @@
   },
   "locality": "millfield",
   "archetype": "builder",
-  "tick_updated": 12
+  "tick_updated": 13
 }

@@ -64,6 +64,11 @@
       "tick": 11,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 13,
+      "summary": "Complete the final sessions of the automotive service technician certificate program at Millfield Community College. Attend every remaining class. Push program from 95% to 100% completion. Pick up the certificate. This is 8 months of work and it ends this month.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -161,7 +166,15 @@
       "savings_delta": -1557,
       "stress_delta": -0.02,
       "employment_changed": false,
-      "narrative": "Miguel Hernandez attended every scheduled class in month eight of the automotive service technician certificate program — Tuesday evening, Thursday evening, and Saturday morning — without missing a session, bringing the program to approximately 95% completion. He earned roughly $580 through DoorDash bike routes and RoboRide last-mile delivery shifts scheduled around classes, falling short of covering his $2,137 in monthly essentials but limiting the deficit. He drafted a professional introduction email to the most realistic of the three fleet operator contacts Carlos had provided, showed it to Carlos who confirmed the framing was right and offered to add a brief personal note, and reached out to Lisa Freeman at the community center who connected him to the Financial Triage Navigator intake and flagged his cert completion timeline to any displaced workers with mechanical aptitude coming through her sessions."
+      "narrative": "Miguel Hernandez attended every scheduled class in month eight of the automotive service technician certificate program \u2014 Tuesday evening, Thursday evening, and Saturday morning \u2014 without missing a session, bringing the program to approximately 95% completion. He earned roughly $580 through DoorDash bike routes and RoboRide last-mile delivery shifts scheduled around classes, falling short of covering his $2,137 in monthly essentials but limiting the deficit. He drafted a professional introduction email to the most realistic of the three fleet operator contacts Carlos had provided, showed it to Carlos who confirmed the framing was right and offered to add a brief personal note, and reached out to Lisa Freeman at the community center who connected him to the Financial Triage Navigator intake and flagged his cert completion timeline to any displaced workers with mechanical aptitude coming through her sessions."
+    },
+    {
+      "tick": 13,
+      "action": "Complete the final sessions of the automotive service technician certificate program at Millfield Community College. Attend every remaining class. Push program from 95% to 100% completion. Pick up the certificate. This is 8 months of work and it ends this month.",
+      "savings_delta": 1557,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Complete the final sessions of the automotive service technician certificate program at Millfield Community College. Attend every remaining class. Push program from 95% to 100% completion. Pick up the certificate. This is 8 months of work and it ends this month.. Savings grew by $1,557. "
     }
   ],
   "reflections": [

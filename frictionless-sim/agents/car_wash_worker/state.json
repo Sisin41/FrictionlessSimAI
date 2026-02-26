@@ -73,11 +73,11 @@
       "availability_heuristic": 0.4,
       "social_proof_sensitivity": 0.43
     },
-    "sentiment": "tense"
+    "sentiment": "determined"
   },
   "psychological": {
-    "stress_level": 0.06,
-    "agency": 0.67,
+    "stress_level": 0.04,
+    "agency": 0.69,
     "grief_stage": "none",
     "temporal_horizon_months": 11,
     "high_stress_ticks": 0
@@ -85,7 +85,7 @@
   "financial": {
     "monthly_income": 0,
     "monthly_expenses": 2137,
-    "savings": -1557,
+    "savings": 0,
     "debt_total": 13582,
     "credit_score": 738
   },
@@ -120,5 +120,5 @@
   },
   "locality": "millfield",
   "archetype": "adapter",
-  "tick_updated": 12
+  "tick_updated": 13
 }

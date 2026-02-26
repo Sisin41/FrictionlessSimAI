@@ -59,6 +59,11 @@
       "tick": 11,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 13,
+      "summary": "Walk into Sandra Briggs's office first thing and collect the formal decision she committed to delivering by end of last week on the portfolio expansion request. The answer was due. I do not send an email. I do not schedule a meeting. I walk in and ask. If the answer is yes, I confirm scope in writing by end of day: which loan products, which limits, effective date. If the answer is no or delayed again, I tell Sandra directly that I have identified external opportunities and will need to act on them within the next two weeks if my scope here cannot expand. That is not a threat \u2014 it is a factual statement about my financial situation. She should know where I stand.",
+      "emotional_state": "anxious"
     }
   ],
   "past_outcomes": [
@@ -156,7 +161,15 @@
       "savings_delta": -4173,
       "stress_delta": -0.05,
       "employment_changed": false,
-      "narrative": "Kevin walked into the interim manager Sandra Briggs's office with the one-pager and refused 'we are still reviewing it' as an answer for the third consecutive tick — she gave him a concrete date: a formal decision by the end of next week. The Amir Patel $12,000 EV charger loan cleared underwriting with a conditional approval, pending one additional piece of business cash flow documentation that Kevin communicated to Amir within the same day. David Chen responded to Kevin's message with the name of the right person to own the portfolio expansion decision (confirming it is Sandra), which validated the approach Kevin took. NMLS progress advanced to 30% with module 7 now logged, and Kevin wrote down his tick 13 contingency threshold — two regional credit unions and one regional bank identified as external targets if the internal path closes."
+      "narrative": "Kevin walked into the interim manager Sandra Briggs's office with the one-pager and refused 'we are still reviewing it' as an answer for the third consecutive tick \u2014 she gave him a concrete date: a formal decision by the end of next week. The Amir Patel $12,000 EV charger loan cleared underwriting with a conditional approval, pending one additional piece of business cash flow documentation that Kevin communicated to Amir within the same day. David Chen responded to Kevin's message with the name of the right person to own the portfolio expansion decision (confirming it is Sandra), which validated the approach Kevin took. NMLS progress advanced to 30% with module 7 now logged, and Kevin wrote down his tick 13 contingency threshold \u2014 two regional credit unions and one regional bank identified as external targets if the internal path closes."
+    },
+    {
+      "tick": 13,
+      "action": "Walk into Sandra Briggs's office first thing and collect the formal decision she committed to delivering by end of last week on the portfolio expansion request. The answer was due. I do not send an email. I do not schedule a meeting. I walk in and ask. If the answer is yes, I confirm scope in writing by end of day: which loan products, which limits, effective date. If the answer is no or delayed again, I tell Sandra directly that I have identified external opportunities and will need to act on them within the next two weeks if my scope here cannot expand. That is not a threat \u2014 it is a factual statement about my financial situation. She should know where I stand.",
+      "savings_delta": -4388,
+      "stress_delta": 0.05,
+      "employment_changed": false,
+      "narrative": "You Walk into Sandra Briggs's office first thing and collect the formal decision she committed to delivering by end of last week on the portfolio expansion request. The answer was due. I do not send an email. I do not schedule a meeting. I walk in and ask. If the answer is yes, I confirm scope in writing by end of day: which loan products, which limits, effective date. If the answer is no or delayed again, I tell Sandra directly that I have identified external opportunities and will need to act on them within the next two weeks if my scope here cannot expand. That is not a threat \u2014 it is a factual statement about my financial situation. She should know where I stand.. Savings dropped by $4,388. "
     }
   ],
   "reflections": [

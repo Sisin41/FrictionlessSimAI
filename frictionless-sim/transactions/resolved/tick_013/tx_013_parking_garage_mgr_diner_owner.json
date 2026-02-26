@@ -1,0 +1,9 @@
+{
+  "id": "tx_013_parking_garage_mgr_diner_owner",
+  "tick": 13,
+  "initiator": "parking_garage_mgr",
+  "target": "diner_owner",
+  "type": "SIGNAL",
+  "description": "Denise reaches out to Betty Kowalski with a genuine human check-in \u2014 no networking agenda, just acknowledging the stress in the community and offering coffee and connection. Relationship maintenance in a hard moment.",
+  "status": "accepted"
+}

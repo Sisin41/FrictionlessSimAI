@@ -1,0 +1,9 @@
+{
+  "id": "tx_013_young_gig_worker_car_wash_worker",
+  "tick": 13,
+  "initiator": "young_gig_worker",
+  "target": "car_wash_worker",
+  "type": "EXCHANGE",
+  "description": "Zoe leverages Miguel Hernandez's warm referral to Carmen (alterations shop, Market Street) and walks in person to pitch and close a $120/month social media management contract. Miguel's referral is the introduction; the exchange is Zoe's social media services for Carmen's monthly payment. Miguel is named as the trust bridge enabling the deal.",
+  "status": "accepted"
+}

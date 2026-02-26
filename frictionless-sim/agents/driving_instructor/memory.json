@@ -54,6 +54,11 @@
       "tick": 11,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 13,
+      "summary": "Call Howard Liu and formally accept his offer to deliver a single-session EV diagnostics and AV literacy workshop for his parts store employees. Confirm the date, the length, the content, and the fee. Frank will ask for $400-600 for a two-hour session \u2014 not charity pricing, professional pricing. He has a curriculum. He has thirty years of teaching experience. He will show up prepared, not apologetic.",
+      "emotional_state": "anxious"
     }
   ],
   "past_outcomes": [
@@ -151,7 +156,15 @@
       "savings_delta": 1324,
       "stress_delta": -0.04,
       "employment_changed": false,
-      "narrative": "Frank sold the lower-value school vehicle — a 2016 Honda Civic used for student lessons — through a combination of Facebook Marketplace and a quick offer from an Auto Row used lot, netting roughly $4,500 after the outstanding insurance cancellation. The adult ed coordinator, Sandra Reyes, returned his closing call and said exactly what Frank feared: she appreciates the curriculum document and Mark Thompson's endorsement, but the spring catalog decisions aren't made until the district committee meets in three weeks — she can't give him a yes today, but she hasn't said no. Howard Liu's call turned out to be relevant: Howard had heard through Mark that Frank was developing an AV literacy curriculum and wanted to know if Frank might be interested in doing a single-session workshop for his parts store employees, whose work increasingly involves EV diagnostics. It is not steady income, but it is a real ask from a real person. Mark confirmed the board has not yet voted but the secretary said a formal decision is expected within the next two ticks."
+      "narrative": "Frank sold the lower-value school vehicle \u2014 a 2016 Honda Civic used for student lessons \u2014 through a combination of Facebook Marketplace and a quick offer from an Auto Row used lot, netting roughly $4,500 after the outstanding insurance cancellation. The adult ed coordinator, Sandra Reyes, returned his closing call and said exactly what Frank feared: she appreciates the curriculum document and Mark Thompson's endorsement, but the spring catalog decisions aren't made until the district committee meets in three weeks \u2014 she can't give him a yes today, but she hasn't said no. Howard Liu's call turned out to be relevant: Howard had heard through Mark that Frank was developing an AV literacy curriculum and wanted to know if Frank might be interested in doing a single-session workshop for his parts store employees, whose work increasingly involves EV diagnostics. It is not steady income, but it is a real ask from a real person. Mark confirmed the board has not yet voted but the secretary said a formal decision is expected within the next two ticks."
+    },
+    {
+      "tick": 13,
+      "action": "Call Howard Liu and formally accept his offer to deliver a single-session EV diagnostics and AV literacy workshop for his parts store employees. Confirm the date, the length, the content, and the fee. Frank will ask for $400-600 for a two-hour session \u2014 not charity pricing, professional pricing. He has a curriculum. He has thirty years of teaching experience. He will show up prepared, not apologetic.",
+      "savings_delta": -1976,
+      "stress_delta": 0.05,
+      "employment_changed": false,
+      "narrative": "You Call Howard Liu and formally accept his offer to deliver a single-session EV diagnostics and AV literacy workshop for his parts store employees. Confirm the date, the length, the content, and the fee. Frank will ask for $400-600 for a two-hour session \u2014 not charity pricing, professional pricing. He has a curriculum. He has thirty years of teaching experience. He will show up prepared, not apologetic.. Savings dropped by $1,976. "
     }
   ],
   "reflections": [

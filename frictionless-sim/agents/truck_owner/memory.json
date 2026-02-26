@@ -54,6 +54,11 @@
       "tick": 11,
       "summary": "routine",
       "emotional_state": "neutral"
+    },
+    {
+      "tick": 13,
+      "summary": "Call Harold Grant today to confirm the formal start date for the Elm Street drainage and waterproofing project. Agree on a start date within two weeks and begin materials procurement immediately \u2014 order drainage aggregate, waterproofing membrane, and form lumber. This converts the confirmed bid into active work and restores income for the first time since tick 9.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -151,7 +156,15 @@
       "savings_delta": -4681,
       "stress_delta": -0.03,
       "employment_changed": false,
-      "narrative": "Dale called Lisa Freeman directly and got the answer he needed: the drainage and waterproofing bid on the Elm Street property is moving forward — the owner, a retired teacher named Harold Grant, had been waiting on a relative's opinion and got it this week, and he wants Dale to start within two weeks. The second bid (a fence and grading project) remains stalled and Lisa is treating it as cold. More significantly, Lisa confirmed the community center has a failing section of flat roof over the annex — she is bringing Dale's name to the board this week with a nonprofit rate conversation in mind. Carlos Ruiz took the referral ask without any awkwardness and mentioned a property on Concord Lane whose owner has been asking around about basement waterproofing — he promised to pass the name along. Two new bids went out for essential-repair work: roofing on a duplex flagged by a former client, and drainage grading for a residential property near the creek corridor."
+      "narrative": "Dale called Lisa Freeman directly and got the answer he needed: the drainage and waterproofing bid on the Elm Street property is moving forward \u2014 the owner, a retired teacher named Harold Grant, had been waiting on a relative's opinion and got it this week, and he wants Dale to start within two weeks. The second bid (a fence and grading project) remains stalled and Lisa is treating it as cold. More significantly, Lisa confirmed the community center has a failing section of flat roof over the annex \u2014 she is bringing Dale's name to the board this week with a nonprofit rate conversation in mind. Carlos Ruiz took the referral ask without any awkwardness and mentioned a property on Concord Lane whose owner has been asking around about basement waterproofing \u2014 he promised to pass the name along. Two new bids went out for essential-repair work: roofing on a duplex flagged by a former client, and drainage grading for a residential property near the creek corridor."
+    },
+    {
+      "tick": 13,
+      "action": "Call Harold Grant today to confirm the formal start date for the Elm Street drainage and waterproofing project. Agree on a start date within two weeks and begin materials procurement immediately \u2014 order drainage aggregate, waterproofing membrane, and form lumber. This converts the confirmed bid into active work and restores income for the first time since tick 9.",
+      "savings_delta": -4681,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Call Harold Grant today to confirm the formal start date for the Elm Street drainage and waterproofing project. Agree on a start date within two weeks and begin materials procurement immediately \u2014 order drainage aggregate, waterproofing membrane, and form lumber. This converts the confirmed bid into active work and restores income for the first time since tick 9.. Savings dropped by $4,681. "
     }
   ],
   "reflections": [

@@ -1,9 +1,0 @@
-{
-  "id": "tx_013_diner_owner_loan_officer",
-  "tick": 13,
-  "initiator": "diner_owner",
-  "target": "loan_officer",
-  "type": "COMMITMENT",
-  "description": "Betty Kowalski delivers the cash flow documentation package requested by Kevin O'Brien at Millfield Community Credit Union: last 6 months of diner receipts, the signed RoboRide delivery partnership agreement as the revenue instrument, and equipment purchase quotes. Submitted within the 48-hour window to complete conditional approval of the $12,000 small business bridge loan at 6.5% over 36 months.",
-  "status": "pending"
-}

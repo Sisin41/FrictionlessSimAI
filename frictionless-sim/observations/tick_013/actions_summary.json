@@ -1,0 +1,330 @@
+{
+  "ceo_regional_auto": {
+    "name": "Patricia Hawkins",
+    "actions": [
+      "Conduct the market intelligence conversation with Stephanie Morris about commercial real estate conditions in Millfield \u2014 specifically lease termination flexibility, sublease market depth for automotive-zoned properties, and whether the closed location's lease has any assignment or buyout clause worth pursuing. The goal is to know whether the closed location is a sunk cost I hold until term or an obligation I can exit or monetize. This conversation was scheduled last tick. I am having it this week.",
+      "Contact a business insurance broker \u2014 not AutoShield, not Linda Park, a third-party independent broker \u2014 and request a quote on a business owner's policy covering the three surviving locations. Also price personal disability insurance for myself. The current state.json shows 'none' for insurance coverage, and I have three dependents. A single liability event against an uninsured business in a year when my savings are already declining is the kind of risk that does not announce itself before it arrives.",
+      "Call David Chen at First Community Bank \u2014 not to ask for anything, but to give him a structured update on Regional Auto Group's financial position and consolidation plan. Three locations, reduced debt load from the closure, EV certification investment, community partnership with the Millfield Auto Tech Pipeline. Frame this as a relationship maintenance call from a long-term business account holder who wants the bank to understand the restructuring before it shows up as a credit question. The goal is to raise his trust level before I need him, not after."
+    ],
+    "emotion": "determined",
+    "archetype": "adapter",
+    "inner_monologue": "The architecture is built \u2014 now I have to make sure the foundation I set it on actually holds, because nobody else is checking the things I have been putting off."
+  },
+  "bank_manager": {
+    "name": "David Chen",
+    "actions": [
+      "Conduct the 20-minute exploratory call with the Millfield Community Credit Union small business lending manager. Lead with the three-minute disruption-period pitch: I am David Chen, former branch manager at First Community Bank, I identified the auto loan contraction 12 months before the volume index confirmed it, I built the scenario models, and I have spent the past nine months completing SBA 7(a) commercial lending coursework specifically because I saw this transition coming. I am not looking for any job \u2014 I am looking for a role where someone who can read sector disruption early and translate it into lending strategy is an asset, not a liability. I bring the call materials: the three-scenario auto loan contraction document I built for the branch and shared with Linda Park, the SBA coursework completion certificate (or near-completion status if not finished before the call), and one page of data on small business credit demand in Millfield during disruption periods \u2014 drawn from the policy cancellation data Linda shared with me. The goal of this call is not to close a deal. The goal is to leave them with a specific follow-up: either a second conversation, an introduction to another person at the institution, or a named referral elsewhere. A warm lead does not become a job unless I convert this call into a next step.",
+      "Complete the final 10% of the SBA 7(a) commercial and small business lending coursework. Push from 90% to 100% this month. The credential is nine months in the making \u2014 I am not leaving it at 90% when a credit union is on the phone. Schedule the final modules in the first week of the tick, before the call if possible, so I can say 'I completed the credential last week' rather than 'I am nearly done.' The distinction matters in how I am perceived. A completed credential is a fact. A nearly-completed credential is a promise.",
+      "Send brief check-in messages to the regional CDFI and the community development bank contacted last tick. Not a second pitch \u2014 a one-paragraph note acknowledging that I sent an introduction last month and wanted to confirm receipt and offer to schedule a short call at their convenience. Frame it around the current disruption context: auto sector contraction is accelerating (lending index at 79), and community lending institutions positioned to absorb displaced borrowers and support small business formation will be under increasing demand. I have the background and now the credential to be useful in that environment. Offer a 15-minute call, no agenda except introduction."
+    ],
+    "emotion": "determined",
+    "archetype": "adapter",
+    "inner_monologue": "Nine months of preparation come down to a 20-minute phone call with a stranger, and I need to walk in knowing exactly who I am and what I am offering \u2014 not hedging, not deferring, not performing careful."
+  },
+  "council_member": {
+    "name": "Maria Santos",
+    "actions": [
+      "Take the scheduled call with Dr. Kevin Marsh, Workforce Program Director at Millfield Community College, and push for a concrete offer. I am not calling to 'explore' anything. I am calling to negotiate. My ask: a paid advisory role \u2014 minimum $2,500 per month \u2014 to serve as the external policy architect for the community college's workforce transition programming, specifically the retraining tracks tied to the municipal fund I created. I bring grant design expertise, council relationships, and the retraining fund authorization that makes MCC's programs fundable. If he counters with an unpaid advisory role, I decline. If he offers an instructional stipend, I counter. I need a signed letter of agreement this month, not a second call next month.",
+      "Formally present and release the completed Economic Resilience Framework to the full town council and the public. Schedule the public presentation session that was promised at the task force. The framework is finished \u2014 four sections, specific metrics, the adaptive reuse zoning recommendation for the Mobility and Logistics Transition Zone on auto row, the grant threshold revision recommendation (15% to 10% revenue decline, with sole proprietor eligibility expansion). This is not a press event. This is a governance deliverable. I promised it. I deliver it. The council record shows I produced what I committed to produce.",
+      "Implement the two specific website fixes Lisa Freeman identified: route the grant committee inquiry line to Nadia Osei's direct phone number on the municipal website, and add a Spanish-language contact option for the program. These are thirty-minute fixes with real access consequences for the people the program is supposed to serve."
+    ],
+    "emotion": "determined",
+    "archetype": "builder",
+    "inner_monologue": "The framework is done, the call with Dr. Marsh is this week, and I am spending my savings to fix a town that does not know it is paying me to save it \u2014 I need to fix the income problem before I start to resent the work."
+  },
+  "dealership_gm": {
+    "name": "Rick Tanner",
+    "actions": [
+      "Contact the two regional employers Angela Wright identified last tick - not a formal application, a direct reach-out framing my experience as dealership consolidation and EV transition advisory. Brief, specific, asking for a 20-minute call. I am not broadcasting a job search. I am having two targeted conversations. The pitch is fleet service management and EV transition management, not 'former GM looking for work.' Those are the angles that match where the market is going, not where it has been.",
+      "Send Patricia Hawkins a direct note - not a full memo - asking for a 20-minute call this week to discuss the contract. The ask is specific: I want to know whether there is appetite for a 60 or 90-day extension to cover the remaining transition phase advisory work, at the same $4,500/month rate. I frame it as operational continuity for her, not desperation for me. The tick 12 memo got immediate positive acknowledgment. That is my leverage point and I need to use it while it is fresh, not let it age into a memory.",
+      "Follow up with the adjacent dealership group I made first contact with last tick. The EV fleet operator has not responded after two outreach attempts - I am not going to chase a third time. The dealership group conversation has more immediate relevance: they have not yet restructured, they are operating in the same sector headwinds I just navigated, and I have documented proof of the analysis I provided. I am positioning myself as the person who has already done the transition work they are about to face, not as a job seeker."
+    ],
+    "emotion": "determined",
+    "archetype": "adapter",
+    "inner_monologue": "The contract is ending and I am not going to find out what comes next by waiting to find out what comes next."
+  },
+  "insurance_manager": {
+    "name": "Linda Park",
+    "actions": [
+      "Call the municipal risk management contact directly \u2014 by name, by phone \u2014 and ask for a 30-minute scheduled meeting this month. Frame it specifically: I want to walk through the RoboRide licensing exposure data I have compiled from regional policy cancellations. Position this as a briefing they can use in their budget review, not as a job inquiry. The goal is to get in the room. A budget review in progress is a hiring signal. I am not going to wait for a posting.",
+      "Research and identify the two insurtech firms where Priya has applied. Contact each directly \u2014 not via job board, but by finding the risk or compliance team lead and sending a brief, specific note: who I am, what I know about the regional disruption, and why risk management expertise is the gap insurtech companies are not filling fast enough. Ask for a 20-minute conversation. These are not cold calls \u2014 Priya's intelligence tells me the bench is thin, which means there is a real gap I can speak to.",
+      "Continue CRMP certification \u2014 advance through the commercial fleet risk and liability transfer module. This month's coursework is directly relevant to the municipal risk management conversation: the city's exposure on RoboRide licensing is a fleet liability question. Having module-level credential depth on this exact topic when I walk into that meeting is a concrete differentiator."
+    ],
+    "emotion": "determined",
+    "archetype": "adapter",
+    "inner_monologue": "The municipal contact engaged \u2014 that means something \u2014 but engaged is not hired, and I have nine months of savings left to convert a warm conversation into a paycheck."
+  },
+  "hr_director": {
+    "name": "Angela Wright",
+    "actions": [
+      "Conduct the 20-minute informational call with the healthcare administration contact from the regional hospital group. Objective: understand their workforce transition challenges, establish whether AV/automation disruption is creating HR needs in their sector, and position Wright Workforce Advisory LLC as a methodological resource \u2014 not a vendor pitch, but a genuine professional conversation that ends with a next step. Walk away with either a clear 'not now' or a concrete follow-up action. Document the call in Wright Workforce Advisory LLC's CRM log.",
+      "Draft a one-page consulting scope document for Regional Auto Group \u2014 specifically framed as what post-program workforce advisory support would look like from Wright Workforce Advisory LLC. Not a cold proposal, not an ultimatum. A professional document that makes it easy for Patricia to say yes: scope of ongoing engagement, monthly retainer range ($3,500-5,000), deliverables tied to what I am already doing, start date contingent on program completion. Frame it as giving her something to react to, not a demand. Do not send it yet \u2014 hold it for when she asks, or when the program formally winds down.",
+      "Advance the 30-day workforce vulnerability map retraining project. This tick: complete the third location matrix and begin the fourth. The document is at 32% \u2014 it needs to reach 60% by end of this tick to stay on completion timeline. The deliverable is also the methodology I will eventually license or replicate for consulting clients. Every hour invested is dual-purpose: it serves Regional Auto Group operationally and it deepens the intellectual property of Wright Workforce Advisory LLC."
+    ],
+    "emotion": "determined",
+    "archetype": "builder",
+    "inner_monologue": "I am not waiting for someone to tell me I have permission to build the next thing \u2014 the next thing is already being built, and the only question is whether I finish it before the runway runs out."
+  },
+  "salesperson_jake": {
+    "name": "Jake Morrison",
+    "actions": [
+      "Call Rick Tanner directly \u2014 not email, a phone call \u2014 and tell him the two weeks he mentioned are almost up and I am still holding. I am not pressuring him, I am making myself easy to say yes to. I say: 'Rick, you told me two weeks. I wanted you to know I have not taken anything else and I am ready for that conversation whenever you are.' I keep it short. I let him respond. If he has an answer, I am ready to move. If he needs more time, I note the date and give him a hard follow-up window in my own head.",
+      "Work the floor with the RoboRide comparison pitch. The Tony DiMaggio close confirmed the methodology: target contractors, tradespeople, multi-stop professionals for whom cargo capacity and reliability on a job site are non-negotiable. I pull every work-capable truck and van under $38K to visible positions. I build two or three specific comparison sheets \u2014 annual miles, haul requirements, the $0.12/mile math \u2014 and keep them ready to drop on a prospect the moment I read that they are a contractor or a small-business owner. I am looking for one close this tick. One. That is the difference between staying above water and going under.",
+      "Follow up on the Maria Santos grant application status. It has been one tick since submission. I send a brief, professional email asking for confirmation that my application was received and whether there is a timeline for decisions. I am not chasing money I don't have yet \u2014 I am making sure a pending asset does not fall through a crack because I forgot to check it."
+    ],
+    "emotion": "determined",
+    "archetype": "hustler",
+    "inner_monologue": "The Tony close was real but it was not a rescue \u2014 it was one month of air and I am already spending it, so I need to move like I know that."
+  },
+  "salesperson_tamika": {
+    "name": "Tamika Jefferson",
+    "actions": [
+      "Reach out to Devon Clarke through Angela Wright's introduction. Text Angela first: 'Hey, I want to reach out to Devon this week \u2014 can I use your name?' Then contact Devon directly: not email, a phone call. Frame it around his specific problem \u2014 a mobile service business with no fixed location lives or dies on its social presence, and the RoboRide residential expansion means the neighborhoods he serves are changing faster than any static marketing can track. Offer a 30-minute call, no pitch, just an honest conversation about where his social presence is and where it needs to be. If the fit is real, send the one-page agreement within 48 hours. Target: $350/month retainer, same structure as the HVAC client.",
+      "Follow up with the two business owners who sent DMs after the LinkedIn post about foot-traffic patterns and RoboRide corridors. These are not cold leads \u2014 they engaged publicly and then reached out privately, which is the highest signal of interest short of an inbound inquiry. Reply to both DMs today with a specific, direct message: acknowledge what they asked, give a one-paragraph concrete answer that demonstrates real knowledge, then close with a single question \u2014 'Would it make sense to get on a 20-minute call this week to talk about how this applies to your specific situation?' No deck, no portfolio link, no pitch. One question. If they say yes, schedule the call for this week and be ready to send an agreement before it ends.",
+      "Second-touch follow-up on the specialty pharmacy on Ridgeline Ave and the coffee kiosk near Route 9. Not another cold message \u2014 a short voice memo or video DM that references something specific about their location relative to the RoboRide residential expansion. One specific observation, one question, no pitch. The goal is not to close them this tick \u2014 the goal is to get a reply so they move from cold to warm. If even one replies, that becomes a discovery call next tick."
+    ],
+    "emotion": "determined",
+    "archetype": "hustler",
+    "inner_monologue": "The number is clear: I need one more signed client at $350 and I need it before the savings are gone \u2014 Devon Clarke is the door and Angela just handed me the key, so the only question is whether I pick up the phone today or make excuses about it."
+  },
+  "mechanic_carlos": {
+    "name": "Carlos Ruiz",
+    "actions": [
+      "Continue EVT Level 2 certification \u2014 month seven of ten. This month the coursework covers advanced EV fault diagnosis, thermal runaway detection protocols, and software-defined vehicle (SDV) architecture fundamentals. These are not abstract modules \u2014 SDV is exactly what RoboRide's fleet runs on. Log at least 10 study hours across evening and weekend sessions. Do not negotiate with the fatigue. Four months remain. The credential is mine as long as I show up.",
+      "Contact the fleet operator who Sarah Kim reached on my behalf. Follow up directly \u2014 not through Sarah, in my own name. Introduce myself properly, reference the call, ask whether there is value in meeting to understand what their EV service needs look like as their fleet expands. This is not a job application. It is a professional introduction. The difference matters to how I carry myself going in.",
+      "Schedule coffee with Angela Wright. She offered. She is stressed. I am not going to manage this relationship from a distance \u2014 I am going to show up as a person, not as a professional contact. Bring nothing to sell. Ask real questions about how she is doing and what she is navigating. Let whatever professional value exists in the connection emerge from the human conversation, not from an agenda I carry in."
+    ],
+    "emotion": "determined",
+    "archetype": "adapter",
+    "inner_monologue": "The numbers outside are bad enough that I have stopped checking them every morning \u2014 not because I stopped caring, but because I already know which direction they are pointing and checking again does not change what I need to do today."
+  },
+  "mechanic_sarah": {
+    "name": "Sarah Kim",
+    "actions": [
+      "Schedule and sit for the EVT Level 1 certification assessment. This is the only remaining step \u2014 all modules are complete, integrated systems content is done, and I have been in assessment prep since completing the final module last tick. I will book the exam date this week, block the study time over the next two weekends to review fault code simulation scenarios and charging infrastructure diagnostics, and take the assessment before the end of the month. Passing this brings the certification into my hands and moves me from candidate to credentialed.",
+      "After sitting for the assessment \u2014 regardless of the result but especially if I pass \u2014 send a follow-up message to the contact at Millfield Regional Fleet Service. Short, direct: I took the EVT Level 1 assessment, I am expecting results within two weeks, and I wanted to honor the timeline I mentioned when we spoke. Ask whether there is a good time to reconnect once the cert is confirmed. This is not a job application. It is a relationship maintenance signal to someone who has already invested 22 minutes in a conversation with me."
+    ],
+    "emotion": "determined",
+    "archetype": "adapter",
+    "inner_monologue": "I have been studying for this for nine months and the exam is sitting right there \u2014 stop preparing to be ready and just be ready."
+  },
+  "gas_station_owner": {
+    "name": "Amir Patel",
+    "actions": [
+      "Go to the bank and sign the $12,000 capital improvement loan documents with Kevin O'Brien. Lock in the rate and terms that were confirmed at tick 12. Leave with a signed agreement, a disbursement timeline, and a clear installation window for the two Level 2 EV chargers. This is not a meeting to gather more information. This is a closing. After signing, call ChargePoint directly to schedule a site assessment and confirm the revenue-share partnership structure \u2014 I need their first-hand terms, not the bank's framing of them.",
+      "Transfer $350 to Stephanie Morris to settle the outstanding valuation fee confirmed at tick 12. This is a professional debt and it needs to close cleanly. Stephanie was straight with me \u2014 she found real buyer activity, reported the ceiling honestly, and did not string me along. She earns this payment without friction.",
+      "Confirm with Priya Sharma that the $280/month business interruption and general liability policy is now active and that the first payment has processed or is scheduled. Verify I have a policy number and effective date in hand. This insurance gap has been open for 13 ticks. It is now closed. I need documentation."
+    ],
+    "emotion": "determined",
+    "archetype": "adapter",
+    "inner_monologue": "I spent twelve ticks making sure I was making the right decision \u2014 now I have to make it."
+  },
+  "insurance_agent_tom": {
+    "name": "Tom Bradley",
+    "actions": [
+      "Execute the scheduled 20-minute call with Marcus Webb, fleet operations director at Millfield Distribution Partners. Come prepared: I have done light research on what fleet operators need from risk and logistics analytics roles. I lead with specific transferable value \u2014 28 years of risk assessment, familiarity with commercial auto exposure, and the SQL fundamentals I am currently building. I do not oversell. I do not undersell. I ask Webb directly: are there roles on his team or in his network that overlap with commercial risk or fleet analytics? If yes, what do they look like? If not, does he know anyone who would find my background useful? I treat this as an informational conversation with a real human, not a performance. I follow up with a brief thank-you note within 24 hours that names one specific thing from the conversation.",
+      "Complete the next SQL module in the retraining coursework \u2014 the subqueries and window functions unit. Log the completion in my retraining record. The goal this tick is not inspiration; it is consistency. Two modules completed out of roughly ten means I am 20% through. I need to be 30% through by next tick. The $2,500 grant is funding this. I am not going to let pride or exhaustion let the grant money sit idle while the coursework stalls.",
+      "Check in briefly with Priya Sharma to share that the Webb call happened and what came of it. Not a performance of networking \u2014 a real exchange between two people navigating the same transition. If she has had any responses from her own outreach since tick 12, I want to know. We agreed to act as a mutual information loop. I hold up my end of that."
+    ],
+    "emotion": "determined",
+    "archetype": "adapter",
+    "inner_monologue": "The call with Webb is this week, the coursework module is this week, the savings are bleeding at $3,000 a month, and the only thing I can do about any of it is show up prepared and stop waiting for the situation to get easier."
+  },
+  "insurance_agent_priya": {
+    "name": "Priya Sharma",
+    "actions": [
+      "Respond to Linda Park's request immediately and completely. She asked for the names of the two insurtech firms I applied to \u2014 I share both firm names, add brief context on each firm's commercial fleet risk appetite based on my application research, and explicitly ask whether the logistics contact introduction has a timeline I can work around. I also make clear that I am available immediately for contract or part-time risk analysis work if she hears of anything, framed as a transparency statement about my availability rather than a request for rescue.",
+      "Call Maria Santos's office directly to follow up on the grant application. It has been the full stated decision window since I submitted at tick 12. I call \u2014 not email \u2014 and politely ask whether decisions have issued on my submission cohort. I cite my confirmation number. If the decision is pending I ask whether additional documentation would help. If approved I ask about disbursement timing. $2,500 does not close the gap entirely but it buys time.",
+      "Send a clear availability signal on LinkedIn and reach out directly to Rachel Green and Howard Liu. The message: I am a risk analyst with insurance domain expertise, four SQL and data visualization modules complete, and a commercial fleet incident data portfolio piece. I am available immediately for contract, part-time, or full-time roles in data analysis, risk, or insurtech. If they know anyone hiring, I would value an introduction. Short, honest, professional \u2014 not desperate.",
+      "Begin Module 5 of the SQL and data visualization course \u2014 advanced visualization and dashboarding \u2014 in evening hours this week. This moves me from 48% to approximately 60% complete. Five modules complete is a more compelling line in any application conversation than four. The course takes three evening hours and does not compete with daytime income-seeking actions."
+    ],
+    "emotion": "anxious",
+    "archetype": "adapter",
+    "inner_monologue": "Negative savings means I am already borrowing against a future I do not have yet \u2014 the Linda introduction is real, the grant is in the window, the network signal costs nothing, and none of that is income until it is, so I do all of it today and I do not pretend any one of them is enough on its own."
+  },
+  "loan_officer": {
+    "name": "Kevin O'Brien",
+    "actions": [
+      "Walk into Sandra Briggs's office first thing and collect the formal decision she committed to delivering by end of last week on the portfolio expansion request. The answer was due. I do not send an email. I do not schedule a meeting. I walk in and ask. If the answer is yes, I confirm scope in writing by end of day: which loan products, which limits, effective date. If the answer is no or delayed again, I tell Sandra directly that I have identified external opportunities and will need to act on them within the next two weeks if my scope here cannot expand. That is not a threat \u2014 it is a factual statement about my financial situation. She should know where I stand.",
+      "Follow up with Amir Patel to confirm he has submitted the outstanding business cash flow documentation required for conditional loan approval. This loan is one piece of paperwork away from closing. A closed loan demonstrates origination capacity to Sandra, generates fee income, and strengthens the portfolio expansion case whether the answer is yes or no. I contact Amir by phone today, confirm the document status, and set a hard deadline of 48 hours for submission so we can move to final approval this week.",
+      "Make initial contact with the first of the two regional credit unions identified in the contingency plan. Not a formal application \u2014 a professional inquiry. I reach out to the lending director, introduce myself as a licensed loan originator with 20 years of auto and emerging small business lending experience in Millfield, note that my current role may be evolving, and ask whether they have originator positions open or anticipated. I do this regardless of what Sandra says today. If Sandra approves the expansion, this contact costs me nothing and gives me leverage. If Sandra says no, I already have a conversation started.",
+      "Advance NMLS modules 8 and 9 this tick. With Sandra's decision imminent and the contingency contacts beginning, the credential timeline matters more than ever. If I end up at a credit union, having NMLS progress at 40% rather than 30% changes how I am evaluated. I maintain the 90-minute daily block and document progress in the training log. No disruption to the retraining path regardless of what happens on the employment side."
+    ],
+    "emotion": "anxious",
+    "archetype": "adapter",
+    "inner_monologue": "Two months of runway and I'm still waiting on a decision that was supposed to come last week \u2014 I need to stop being polite about my own survival."
+  },
+  "diner_owner": {
+    "name": "Betty Kowalski",
+    "actions": [
+      "Use bridge loan funds to order and install commercial delivery packaging equipment, insulated carry bags, and prep station modifications. Call the equipment supplier identified during the bridge loan application process. Schedule installation for this week. The goal is first delivery orders live within 7 days.",
+      "Respond to Kevin O'Brien's follow-up request for cash flow documentation required for final bridge loan approval. Gather last 6 months of diner receipts, the signed RoboRide partnership agreement as the revenue instrument, and the equipment purchase quotes. Deliver the document package to the Millfield Community Credit Union within 48 hours as requested.",
+      "Call Carlos Ruiz and let him know the delivery conversion is live \u2014 not to ask for anything, but to plant the seed that the diner is now a delivery kitchen serving the neighborhood. Ask if any of his customers or contacts at the old Auto Row network want to know about the meal delivery service. Also ask if Miguel Hernandez, the contact Carlos mentioned, is someone who might be ordering delivery meals for a work crew or household."
+    ],
+    "emotion": "determined",
+    "archetype": "adapter",
+    "inner_monologue": "The decision is made, the loan is signed, the menu is on paper \u2014 now I just have to make it real before the money runs out."
+  },
+  "driving_instructor": {
+    "name": "Frank Russo",
+    "actions": [
+      "Call Howard Liu and formally accept his offer to deliver a single-session EV diagnostics and AV literacy workshop for his parts store employees. Confirm the date, the length, the content, and the fee. Frank will ask for $400-600 for a two-hour session \u2014 not charity pricing, professional pricing. He has a curriculum. He has thirty years of teaching experience. He will show up prepared, not apologetic.",
+      "Frank posts a brief, professional notice on LinkedIn and in two local Facebook groups \u2014 one for Millfield small businesses, one for auto industry workers \u2014 stating that he is available for AV/EV safety and transition workshops for small businesses and trade workers. One paragraph. No desperation, just availability: 'Thirty years in driver education, now offering half-day AV literacy and EV workplace safety workshops for businesses navigating the transition. References available.' He is putting a stake in the ground so that if anyone else in his network has a Howard Liu moment \u2014 a sudden need, a real ask \u2014 they know who to call."
+    ],
+    "emotion": "anxious",
+    "archetype": "adapter",
+    "inner_monologue": "I have less than three weeks of money left and I am sitting here waiting for a committee meeting \u2014 that stops today, I take the Howard Liu job and I make sure the right people know I am available."
+  },
+  "car_wash_worker": {
+    "name": "Miguel Hernandez",
+    "actions": [
+      "Complete the final sessions of the automotive service technician certificate program at Millfield Community College. Attend every remaining class. Push program from 95% to 100% completion. Pick up the certificate. This is 8 months of work and it ends this month.",
+      "Send the professional introduction email to the fleet operator contact Carlos identified, with Carlos's personal note attached. This is the first formal step in the transition from cert-in-progress to employed mechanic. Email goes out this week \u2014 not next week, this week.",
+      "Maximize gig income this month through DoorDash bike routes and RoboRide last-mile delivery. Target $500-600 in gig earnings to minimize further draw-down on the negative savings position. Schedule shifts around any remaining cert classes.",
+      "Follow through on the Financial Triage Navigator intake that Lisa Freeman flagged me into. Attend the intake session and ask directly about emergency bridge assistance for displaced workers completing retraining programs. If there is money on the table, I take it without ego."
+    ],
+    "emotion": "determined",
+    "archetype": "adapter",
+    "inner_monologue": "Eight months of showing up in the rain, the cold, the early mornings, and the night classes \u2014 and this is the month it either means something or it doesn't."
+  },
+  "parking_garage_mgr": {
+    "name": "Denise Williams",
+    "actions": [
+      "Proactively reach out to Grace Okafor with a brief, specific message. Her intelligence that 'they called two more people from my program this week' is a direct indicator that the Millfield General process is moving. I send her a short note \u2014 not a request for status, not pressure \u2014 but a professional peer check-in: 'Saw your update. Wanted you to know I am still actively interested and available. If anything surfaces where a word from you would be useful, I am grateful for it.' I am not asking her to do anything. I am keeping the connection warm and making sure she knows I am still in the race. Grace is my highest-trust contact with direct sight lines into that institution. This is not networking performance \u2014 this is relationship maintenance with someone who has already demonstrated she will go to bat for me.",
+      "Reach out to Betty Kowalski \u2014 not about jobs, not about networking strategy. A direct, human check-in. She runs the Auto Row Diner and the inbox flagged her by name as stressed. I send her a short message: 'Saw the mood around town. Hope things are holding up. Coffee on me if you want to talk.' No agenda. The diner sits at the intersection of every disrupted sector in this economy \u2014 transportation workers, mechanics, car wash staff, commuters. Betty sees what is happening in real time. More importantly, she is a person in my network under pressure, and I have not been present with her since tick 5. Maintaining a high-trust network through hard times is not just self-interested \u2014 it is the right thing to do.",
+      "Continue the retraining trajectory: now that the logistics hub application is submitted and the Millfield General process is live, focus this month's professional development time on deepening familiarity with healthcare facilities compliance frameworks \u2014 specifically Joint Commission standards for hospital infrastructure and OSHA requirements for healthcare environments. These are the credential domains that differentiate facilities managers inside hospital systems from general operations managers. I have not claimed healthcare-specific credentials because I do not have them. But I can demonstrate I have begun to learn the landscape \u2014 and if I reach a second interview or an offer stage, I need to be able to speak to this without bluffing. This is not resume padding. It is targeted preparation for a specific role that appears within reach."
+    ],
+    "emotion": "determined",
+    "archetype": "builder",
+    "inner_monologue": "The Millfield General door is still open and I am going to walk through it \u2014 but I am not going to sprint and trip over myself getting there."
+  },
+  "commuter_james": {
+    "name": "James Patterson",
+    "actions": [
+      "Submit the staged application to the regional healthcare cloud provider. Tailor the cover letter to highlight the new AWS Solutions Architect Associate credential and specific healthcare cloud infrastructure experience. Send application through the company's portal and follow with a LinkedIn connection request to the hiring manager. This is the transition from readiness posture to active candidacy.",
+      "Reach out to Howard Liu with a genuine check-in \u2014 not a networking script, an actual conversation. Ask how the auto parts business is holding up with robotaxi adoption accelerating to 7% penetration. Share that I just submitted my first post-cert application. Two people watching the same disruption from different positions. His ground-level intelligence about what local businesses are doing or considering in the cloud/automation space is information I cannot get from job listings."
+    ],
+    "emotion": "determined",
+    "archetype": "builder",
+    "inner_monologue": "I built the credential, I wrote the triggers, I staged the application \u2014 all of it was preparation for this moment, and the moment is now; the only thing that was ever standing between me and submitting was me."
+  },
+  "commuter_rachel": {
+    "name": "Rachel Green",
+    "actions": [
+      "Call Nicole Washington directly \u2014 not a follow-up email, a call. She said she wanted to talk and I am making that happen. The conversation has one objective: turn her stated interest into a signed pilot retainer. I come prepared with a specific, low-friction proposal \u2014 $300/month for a 3-month communications support pilot covering her personal brand and professional social presence as a nurse and community figure. Small enough that her budget concern does not kill it. Concrete enough that she cannot defer it. I ask directly: 'Based on what we talked about, I want to propose a three-month pilot starting this month. Can we do that?' If yes, I send a one-page agreement within 24 hours. If no, I ask what would make it a yes and I listen.",
+      "Follow up with each of the three job applications by name \u2014 Millfield Regional Health Systems, the financial services firm, and the regional logistics company \u2014 with a brief, professional check-in. Not a generic 'just following up' message. One specific sentence per application that demonstrates I have been thinking about their sector. For health systems: a sentence about internal communications during workforce disruption. For financial services: a reference to messaging strategy during consumer sentiment contraction. For logistics: a note about brand visibility during expansion. Three targeted messages, sent to named contacts where I have them, to the HR portal where I do not. This costs two hours and keeps my name at the top of active candidate pools.",
+      "Send Angela Wright a specific ask: not 'let me know if you meet anyone,' but 'I have capacity for one new client this month \u2014 if you encounter a small business owner in the next two weeks who needs communications support, I would like you to make a direct introduction rather than a warm mention. Here is a two-sentence description of what I do that you can forward verbatim.' I make it easy for Angela to refer by giving her the language. Referrals fail because the person making them does not know what to say. I am removing that friction."
+    ],
+    "emotion": "determined",
+    "archetype": "hustler",
+    "inner_monologue": "Three months of runway is not a reason to panic but it is absolutely a reason to stop being careful and start being direct \u2014 I have done the groundwork, I know what I am offering, and the only thing standing between me and income is the ask."
+  },
+  "truck_owner": {
+    "name": "Dale Cooper",
+    "actions": [
+      "Call Harold Grant today to confirm the formal start date for the Elm Street drainage and waterproofing project. Agree on a start date within two weeks and begin materials procurement immediately \u2014 order drainage aggregate, waterproofing membrane, and form lumber. This converts the confirmed bid into active work and restores income for the first time since tick 9.",
+      "Send Lisa Freeman a brief written note with my contractor license number, a summary of flat roof work I have done, and two references \u2014 so she walks into the board meeting this week with everything she needs to advocate for me. Acknowledge I know the conversation is happening and that I am prepared to discuss nonprofit rates seriously.",
+      "Text Carlos Ruiz to thank him for the Concord Lane waterproofing referral and ask directly whether the owner has been contacted. If so, I follow up with the Concord Lane owner this week \u2014 I want to be the first contractor through the door on that basement job before other bids come in."
+    ],
+    "emotion": "determined",
+    "archetype": "hustler",
+    "inner_monologue": "Four months of savings bleeding out while I waited on the wrong job \u2014 I changed course, did the work on the relationships, and now I have something real confirmed; I pick up the phone and start today."
+  },
+  "retiree": {
+    "name": "Dorothy Chen",
+    "actions": [
+      "Design and begin piloting an informal outreach method for reaching socially isolated older men who do not attend formal sessions. Identify two or three locations in Millfield where older men gather informally \u2014 the hardware store, the VFW hall, the counter at Betty's Diner on weekday mornings \u2014 and begin showing up as a regular, not as a facilitator. The goal is not to recruit them to the workshop. The goal is to be present, to listen, and to let the conversation come to them. This is how I taught for forty years: you meet people where they are, on their terms, on their schedule, and you let them lead. I will track what I learn and bring it back to Lisa Freeman and the workshop curriculum. No printed handouts. No structured agenda. Just presence.",
+      "Return to Betty's Diner this week and, if the timing is right, make a direct and personal offer: tell Betty that I have been watching her navigate real uncertainty with more clarity and steadiness than most people I know, that I noticed she is thinking about 'what comes next,' and that I am available \u2014 not as an advisor, not as a consultant, but as someone who has sat with a lot of people at inflection points and knows how to help someone hear their own thinking. If she wants an hour, I have it. The offer is open. She can decline and I will not bring it up again. I will order the usual and tip well regardless."
+    ],
+    "emotion": "purposeful",
+    "archetype": "builder",
+    "inner_monologue": "The workshop is working, Robert landed well, Betty is stressed, and there are men in this town aging alone without anyone thinking about them \u2014 I have time, I have stability, and I have forty years of knowing how to show up for people who didn't ask; that is what this month is for."
+  },
+  "young_gig_worker": {
+    "name": "Zoe Martinez",
+    "actions": [
+      "Walk into Carmen's alterations shop on Market Street this week \u2014 in person, not a message, not a call. Miguel's referral means she already knows my name. I pitch the same package I sold Betty: $120/month, one post per day, community tone, focused on her delivery or in-store traffic depending on what she needs. I show her Betty's account as proof of work if she asks. I ask if she wants to start this month. The ask is specific and I make it directly.",
+      "Respond to all six DMs from the TikTok within 48 hours. Personalized responses, not a template. Ask each one what their business does and what they are trying to accomplish on social. Some of them are probably just fans \u2014 that is fine. But some of them are business owners who just watched a 60-second pitch about why social presence matters and then DM'd me. That is a buying signal. I treat it like one. I am building a short waitlist if more than two convert.",
+      "Continue the Coursera Google Digital Marketing cert \u2014 two modules this month, same pace as before. The cert is 36% done. I am not accelerating it and I am not pausing it. The clients I am closing right now are proving the skills are real without the cert. But the cert is still the thing that eventually gets me off gig work and into something with a salary and stability. I keep paying the $49 and I keep doing the evening sessions."
+    ],
+    "emotion": "determined",
+    "archetype": "hustler",
+    "inner_monologue": "Betty said yes in four minutes and Miguel handed me Carmen on a silver plate \u2014 if I cannot close Carmen too, I deserve to be broke, so I am walking in there tomorrow."
+  },
+  "single_parent": {
+    "name": "Nicole Washington",
+    "actions": [
+      "Call Andrea Torres at Millfield Staffing Solutions and actively request all available per-diem RN floor coverage shifts for the coming two to three weeks \u2014 not just the standing two-shift arrangement from last tick, but any open slot across any unit at any hospital in the Millfield network. Make clear I am available for night shifts, weekend shifts, and short-notice fill. Generate maximum bridge income before the formal recall clears.",
+      "Contact charge nurse Linda Reyes at Millfield General directly \u2014 not just to check status, but to ask specifically what I can do on my end to accelerate the HR recall processing. Ask whether a direct call to HR from me, submission of additional documentation, or any other action on my part can move the administrative timeline from three weeks to one. I have recall rights. I want to be back on the schedule. I am going to make sure the people who can influence that timeline know I am actively pushing."
+    ],
+    "emotion": "anxious",
+    "archetype": "hustler",
+    "inner_monologue": "I have recall rights and a warm contact at Millfield General and a staffing agency that already knows my name \u2014 what I do not have is time to wait for other people to move on their own timelines while I watch my savings hit zero."
+  },
+  "parts_store_owner": {
+    "name": "Howard Liu",
+    "actions": [
+      "Accept Frank Russo's offer to deliver a two-hour AV literacy and EV diagnostics workshop for Howard's Parts staff. Confirm date, content scope, and fee of $500 (midpoint). Ask Frank to include a brief segment on brake wear patterns in EV and hybrid vehicles specifically \u2014 this directly maps to what Carlos ordered and what Sarah's shop will need. Howard will invite Carlos Ruiz and Sarah Kim to attend as guests, framing it as a professional development session open to the mechanics in his B2B network. This converts a training cost into a relationship event.",
+      "Call Carlos Ruiz this week and propose converting the one-off PO relationship into a recurring monthly supply arrangement. Howard proposes a simple standing order: Carlos specifies his anticipated monthly consumption of brake hardware, hybrid diagnostic connectors, and safety consumables at the start of each month; Howard fulfills within 24 hours at a 5% loyalty discount off catalog price. No contract, no minimums \u2014 a handshake monthly commitment that Carlos can adjust or pause. The goal is to replace sporadic one-off orders with predictable monthly revenue. Howard asks Carlos directly: 'The $650 order last week \u2014 if that becomes a standing monthly order with a five percent discount built in, does that work for your shop?'",
+      "Make a first dedicated call to Sarah Kim \u2014 not a check-in, a customer discovery conversation with the same structure I used for Carlos at tick 2. Howard asks: what EV and hybrid work is the shop taking on, what parts are hardest to source, what does the supply chain look like from her current distributors, and what would make Howard's Parts the obvious local first call. Howard also mentions the Frank Russo workshop and invites her to attend as a guest. This is intelligence-gathering and relationship investment simultaneously."
+    ],
+    "emotion": "determined",
+    "archetype": "adapter",
+    "inner_monologue": "The RoboRide distraction cost me four months and some real money, but I closed it clean, Carlos is buying, and now I have a mechanic asking to teach my staff EV diagnostics \u2014 if I can turn this workshop into a client event instead of a cost, I might actually be building something here."
+  },
+  "rideshare_driver": {
+    "name": "Robert Jackson",
+    "actions": [
+      "Formally begin employment at Millfield Medical Transport. Confirm the background check cleared, accept the finalized onboarding paperwork from Dave Herrera, and complete the first week of part-time NEMT shifts at 20 hours per week at $18/hour. Express to Carla and Dave that I am interested in expanding to full-time hours as openings arise \u2014 I want that on record early, professionally, without pressure. I am not a probationary employee hoping not to be noticed. I am a credentialed professional making myself indispensable from day one.",
+      "Collect the $2,500 Maria Santos retraining grant from the Millfield workforce development office. The mailing address was confirmed last tick. The check is in the disbursement queue. I follow up with a call to confirm the check has been mailed or is available for pickup, then deposit it immediately into savings."
+    ],
+    "emotion": "relieved",
+    "archetype": "adapter",
+    "inner_monologue": "Nine months of keeping it together, and now I actually have something to show Marcus \u2014 not a plan, not a course enrollment, not a callback, but a real job with a real schedule and a real employer who called me back."
+  },
+  "real_estate_agent": {
+    "name": "Stephanie Morris",
+    "actions": [
+      "Deliver the written buyer profile analysis to Rick Tanner for the Hawkins auto mall disposition RFP. This is a structured document covering: (1) identified buyer pool segments \u2014 delivery logistics operators, EV fleet services, light industrial converters, mixed-use adaptive reuse developers \u2014 with specific companies active in the Millfield corridor; (2) price expectation range by buyer type, accounting for the current spending index of 25 and 50% unemployment; (3) deal structure preferences by buyer type (all-cash distressed buyers vs. financed adaptive reuse developers); (4) a recommended marketing strategy for the formal RFP. The document positions me as the agent who has already done the buyer-side work, which is what the disposition committee needs to see. I send it by Thursday. I follow up Friday with a brief call to Rick confirming receipt and asking whether the committee meeting has been scheduled.",
+      "Request a formal listing agreement from Amir Patel for the Route 9 gas station adaptive reuse sale. He confirmed by phone Thursday that he is leaning toward the sale path and asked whether I could bring the listing to market by end of next month. That is a green light. I call him Monday morning, reference Thursday's conversation directly, and ask for a meeting this week to review and sign the listing agreement. I bring the agreement draft, updated comp data reflecting the current market (spending index 25, 50% unemployment), a revised price range recommendation, and a 30-day marketing plan. The adaptive reuse framing \u2014 targeting delivery logistics operators and EV charging retrofit developers \u2014 is already established from the tick 8 analysis. I just need to convert the intent to paper.",
+      "Meet Betty Kowalski for coffee as agreed. She reported the written RoboRide terms never arrived and is now actively thinking about the diner's future. This meeting is not a pitch \u2014 it is an honest conversation. I ask her what she is weighing. I share what I know about the spending index collapse and what it means for foot traffic in a diner that was already dependent on auto row workers as its customer base. I tell her what the diner property is worth in the current market in my honest assessment. If she asks whether I can help her think through options \u2014 sell, lease, convert, hold \u2014 I say yes and offer to put together a brief scenario analysis, the same kind I did for Amir. I do not push for a listing agreement this meeting. I listen, I give her real data, and I let trust do the work. She has 0.57 trust with me \u2014 that's the highest trust level on my active auto row contacts. I protect that asset.",
+      "Respond personally to the three auto row property owners who sent LinkedIn messages after last tick's post. Each message gets a direct, substantive reply \u2014 not a template, a real response that acknowledges their specific situation if they mentioned it, references the market data (spending index 25, unemployment 50%, RoboRide residential expansion), and offers a no-obligation 20-minute call to walk through their property's position in the current market. The goal is to get at least two of three to schedule a call this month. These are property owners who found me \u2014 that is the warmest lead category in a cold market."
+    ],
+    "emotion": "determined",
+    "archetype": "hustler",
+    "inner_monologue": "The threads are all live at once \u2014 Tanner needs the document, Amir needs the contract, Betty needs honesty, and three strangers reached out because they're scared \u2014 and the difference between this month and the last twelve is that the work is finally converting."
+  },
+  "auto_shop_teacher": {
+    "name": "Mark Thompson",
+    "actions": [
+      "Attend the formal community college articulation meeting with the CC contact Santos referred me to. Bring the two-page articulation agreement framework draft. Goal: leave with a signed MOU or at minimum a concrete next-step timeline \u2014 dual enrollment pathway, transcript credit for ASE prep modules, and shared equipment access provisions. This makes the pipeline real on both ends.",
+      "Host Sarah Kim's hybrid diagnostics guest session in the shop classroom this tick. Frame it explicitly as a live demonstration for current and prospective students \u2014 invite the guidance counselor to observe so they can speak to the program with firsthand knowledge. Document it with photos and a one-paragraph write-up for the school newsletter and board update. This is the first public-facing proof that the Pipeline is operational, not just approved.",
+      "Send a brief personal update to Howard Liu thanking him for his written statement that helped secure the board vote. Tell him the Pipeline is approved and that I'm building the advisory structure \u2014 ask if he would be willing to serve as an industry advisory board member for one meeting per quarter. No formal commitment required yet, just an open door."
+    ],
+    "emotion": "relieved",
+    "archetype": "builder",
+    "inner_monologue": "Twelve ticks of fighting for this program and the board finally said yes \u2014 now the real work starts, and I am not going to let administrative inertia be what kills what I just saved."
+  },
+  "community_organizer": {
+    "name": "Lisa Freeman",
+    "actions": [
+      "Prepare and present the unmet-needs category data at Maria Santos's next task force session. The presentation has two parts: (1) the utilization numbers \u2014 14 sessions, 11 participants with actionable next steps, 4 referred to Kevin's office hours, 3 to community college \u2014 which demonstrate the Financial Triage Navigator is operating and producing outcomes; (2) the 4 unmet-needs cases, anonymized and described in specific terms \u2014 what each person needed, what existing programs were checked, why none fit. These 4 cases are the gap the council can close with a targeted funding allocation. I am not asking for a large grant. I am asking Santos to support a formal application for a 20-hour-per-week part-time navigator position \u2014 roughly $1,200/month \u2014 so the function does not collapse when I am pulled into other obligations. Santos asked me to flag this. I am flagging it with a budget line attached.",
+      "Host Nicole Washington at Community Connection Night as committed last tick. Nicole sits at a corner table for drop-in conversations about healthcare credential pathways \u2014 specifically NEMT certification, hospital hiring pipelines, and what the actual credential sequence looks like for someone considering a healthcare pivot from a non-medical background. I facilitate the introduction at the top of the evening, give Nicole a short structured moment to describe what she is available to discuss, and then step back. My role this evening is logistics and connective tissue \u2014 making sure the right people find Nicole's table, making sure Nicole feels supported rather than extracted, and making sure the three or four conversations that happen get followed up with specific referrals to the community college pathway or the retraining programs. After the evening I document what came up at Nicole's table in the same format as the Financial Triage Navigator utilization report, so it becomes part of the record I present to Santos.",
+      "Continue and advance the in-progress transportation decision-support curriculum, now updated for the $0.12/mile RoboRide reality with 8-minute wait times. The curriculum segment this month addresses a more specific decision point than previous months: not 'should I sell my car' but 'I am in a retraining program with variable hours and I need to get to the program site and to any interim work \u2014 what is my actual transportation cost calculus.' This is the question that will determine whether people complete retraining or drop out mid-program. I am building a one-page decision tool that maps transit combinations against a person's specific schedule pattern \u2014 not a generic roboride endorsement, a real cost-benefit map. This goes into the Financial Triage Navigator session toolkit as a standard handout."
+    ],
+    "emotion": "determined",
+    "archetype": "builder",
+    "inner_monologue": "The 4 people who left with nothing are the most important number I have, and I am not going to let Santos forget them."
+  },
+  "uber_driver_2": {
+    "name": "Grace Okafor",
+    "actions": [
+      "Attend the CareRide of the Valley onboarding orientation with Marcus Webb. Complete the background check, submit all required documentation \u2014 NEMT certification, vehicle inspection, clean driving record \u2014 and sign the route agreement for the new Millfield General route. Get a start date confirmed in writing. This is the commitment I have been building toward since tick 9.",
+      "Continue nursing school coursework this tick, maintaining enrollment and clinical hours. The NEMT job is a bridge, not a destination. Graduating is still the exit ramp. The two things are not in conflict \u2014 NEMT routes run on medical transport schedules that can be worked around clinical blocks. I protect my school hours even as I begin driving for CareRide.",
+      "Send a brief text to Robert Jackson: Marcus Webb at CareRide called me directly this week. Orientation is scheduled. Your intelligence paid off. Thank you. No ask attached \u2014 just closing the loop on a relationship that has been genuinely mutual across nine ticks."
+    ],
+    "emotion": "relieved",
+    "archetype": "adapter",
+    "inner_monologue": "Marcus Webb called me \u2014 not the other way around \u2014 and that means I am not begging for a job, I am accepting one I earned."
+  }
+}

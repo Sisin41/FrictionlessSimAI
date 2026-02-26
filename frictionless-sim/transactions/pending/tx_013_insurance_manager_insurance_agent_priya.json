@@ -1,9 +1,0 @@
-{
-  "id": "tx_013_insurance_manager_insurance_agent_priya",
-  "tick": 13,
-  "initiator": "insurance_manager",
-  "target": "insurance_agent_priya",
-  "type": "SIGNAL",
-  "description": "Linda asks Priya for the names of the two insurtech firms she applied to, positioning it as a mutual intelligence exchange — Priya already shared the bench-depth gap last tick, and Linda wants to pursue a risk management angle at those same firms that would not compete with Priya's agent-level applications.",
-  "status": "pending"
-}
