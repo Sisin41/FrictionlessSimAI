@@ -1,0 +1,37 @@
+{
+  "agent_id": "parts_store_owner",
+  "tick": 12,
+  "emotional_state": "grounded urgency — the RoboRide thread is closed, the path forward is clear, but the monthly burn of $2,780 means every tick without a new revenue channel is real money gone",
+  "actions": [
+    {
+      "type": "TRANSFORMATION",
+      "description": "Execute the RoboRide channel closure fully. The seven-tick outreach to RoboRide fleet operations produced no trial order and no response. Howard formally closes that file this week: updates his inventory log to remove the $1,800 in reserved brake consumables and sensors from 'RoboRide allocation' status and moves them to active inventory available for Carlos Ruiz and Sarah Kim. He calls Carlos directly to say the reserved EV-capable inventory is now fully available and asks what Carlos needs for the next 30 days — brake pads, rotor sets, hybrid battery diagnostic connectors, high-voltage insulated gloves. This is not a new outreach; it is the reallocation action he planned at tick 11. The goal is a confirmed purchase order from Carlos within the week.",
+      "target": "mechanic_carlos",
+      "rationale": "The RoboRide channel has been burning time and holding inventory since tick 4. Closing it and redirecting the $1,800 in reserved stock to the Carlos/Sarah accounts is the highest-leverage single action Howard can take this tick. Carlos is a proven relationship with recurring EV work. A purchase order from him this week directly reduces the monthly deficit."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Call Angela Wright at Wright Workforce Advisory LLC this week to formalize the placement partnership they agreed to in principle at tick 11. Howard comes to the call with a written one-page role description: part-time counter person, 20-25 hours per week, must have prior automotive parts knowledge (dealership parts counter, service advisor, or shop experience counts), $15-17/hour depending on experience, immediate start available. He asks Angela two questions: (1) what is the intake timeline for displaced Hawkins workers — when does she expect the first candidates to be ready for placement, and (2) is there a referral structure she prefers, or does she want Howard to serve purely as a reference client for the LLC? He is not passive on this call. He is formalizing a business arrangement that could solve a staffing need within 60 days.",
+      "target": "hr_director",
+      "rationale": "Angela's LLC is positioned to process the wave of displaced automotive workers from the Hawkins closure. Howard has needed a part-time counter person for multiple ticks. The partnership was agreed in principle — this call converts the principle into an operational agreement with a specific job description in Angela's hands."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Complete the follow-up call with Mark Thompson that has been deferred for multiple ticks. Howard calls Mark, acknowledges the delay directly, and asks what the school board said about the Auto Tech Pipeline curriculum. He confirms the standing educator discount on EV and hybrid consumables in writing — a short email summary after the call listing the specific SKU categories covered and the discount percentage. He also asks Mark the staffing question: does he know any graduates or parents in his network who might want part-time counter work at an automotive parts store? Mark's network is exactly the population Howard wants — people with mechanical knowledge who understand parts terminology and are looking for hours.",
+      "target": "auto_shop_teacher",
+      "rationale": "Mark has been trying to reach Howard for multiple ticks and Howard's written statement is already in his board presentation. The relationship cost of further silence is real. The educator discount is low-cost goodwill that keeps Howard's name visible in the vocational education ecosystem. The staffing question is a natural bridge from the professional relationship to a concrete mutual benefit."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Post a simple, direct note in Howard's Parts storefront window and on the store's social media page: 'Local parts supplier — supporting Millfield mechanics and fleet operators since 1997. Now stocking EV and hybrid service lines. Professional accounts welcome.' This is not advertising spend. It is a five-minute action that converts the physical storefront into a passive signal for the B2B customer Howard is now targeting. Mechanics, fleet operators, and anyone looking for a local commercial parts source will see it when they pass the store. Howard has spent eleven ticks on outreach and no ticks on basic signal presence. This corrects that.",
+      "target": null,
+      "rationale": "Howard has been doing sophisticated B2B outreach for months but his storefront still reads as a DIY parts shop to passersby. Given the $2,780/month deficit, even one new commercial account that found him through passive visibility is worth the five minutes it takes to update the signage and post to social media."
+    },
+    {
+      "type": "INACTION",
+      "description": "Do not begin any new cold outreach channels this tick. The RoboRide channel is formally closed. The municipality channel produced no response after multiple follow-ups. Howard has three active relationship threads moving this tick (Carlos, Angela, Mark) and a fourth passive signal action. Opening a fifth new channel without closing any of the existing three would repeat the pattern he identified at his tick 9 reflection: good at finding the right moves, slow at closing them. This tick is execution on existing threads only.",
+      "target": null,
+      "rationale": "Howard's tick 9 reflection explicitly named this failure mode. The discipline to not open new channels while existing ones are in motion is the thing he committed to and the thing that is hardest for a proactive business owner to maintain. Monthly burn of $2,780 makes the cost of distraction concrete."
+    }
+  ]
+}

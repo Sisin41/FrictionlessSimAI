@@ -1,0 +1,31 @@
+{
+  "agent_id": "mechanic_carlos",
+  "tick": 12,
+  "emotional_state": "steady with a layer of accumulated weight — the consolidation has happened, transferred technicians are now on the floor, and some of them are people Carlos knows. The ticker-one designation means his job is likely secure but the shop's emotional climate has shifted. The training is at 50% and the finish line is finally visible. The weight is not panic. It is the specific gravity of knowing more than you can share freely.",
+  "actions": [
+    {
+      "type": "TRANSFORMATION",
+      "description": "Continue EVT Level 2 certification — month seven of ten. This tick the coursework moves into advanced fleet telematics and remote diagnostics systems — the module that covers how fleet operators monitor vehicle health at scale. Carlos logs at least 10 study hours across evening and weekend sessions, prioritizing the fleet telemetry section because it is the skill area most relevant to the commercial fleet maintenance operators he has been building contacts toward. At 60% completion by end of this tick, the credential enters its final third. He does not skip sessions. The transferred technicians from the closed location are now on the floor and the shop dynamic has changed — Carlos maintains his studying schedule as an anchor of his own trajectory regardless of the new social environment.",
+      "target": "EVT Level 2 certification program",
+      "rationale": "Carlos is at 50% completion with four months remaining. The certification belongs to him, not to any employer, and that fact has become more important as the consolidation has materialized around him. The fleet telematics module is specifically relevant to the commercial fleet sector that will grow fastest as RoboRide expands — which is where his contacts from the cert network are concentrated. He must keep the pace."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Have the real conversation with Elena that he committed to at tick 9 but has been framing too lightly. Carlos tells her the full picture: he is tier-one in the consolidation, which means his position is likely secure for this phase. The technicians from the closed location have now been transferred to his floor. Some of them are people he knows and some are people who are scared. The longer-term question — whether this consolidation is a floor or a beginning — is something he cannot answer yet. He tells her where the training is: month seven of ten, 60% by the end of this month, and at completion he has a credential that belongs to him regardless of what Patricia or the consolidation decide. He is not managing what she knows. He is telling her what he actually knows, including the uncertainty.",
+      "target": "Elena (spouse)",
+      "rationale": "Carlos identified in his tick 9 reflection that not telling Elena the full picture is 'a version of protection that is also a version of lying.' The transferred technicians are now visible on the floor — Elena will see or hear about this regardless. Carlos telling her directly, and honestly, preserves the relationship's integrity and gives her the ability to plan alongside him rather than around managed information. He has 3 dependents. Elena is one of the structural supports of this household and she cannot play that role without real information."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Make contact with Angela Wright. Carlos has noted in his tick 9 reflection that his relationship with Angela is at 0.40 trust — 'not close enough for the kind of real information I would want access to right now.' The consolidation has now materialized. Angela ran the transition intake for the closed location. She knows who transferred to Carlos's floor and what the restructuring decisions were based on. Carlos reaches out to her directly — not as a professional contact looking for intelligence, but as a community member: 'I know you have been running the transition program for the staff from the closed location. Some of those people are now on my floor. I want to make sure I am being useful to them as they settle in. Is there anything you would want a senior technician to know about what they are navigating?' This is a genuine outreach, not a fishing expedition. But it also builds the relationship that Carlos identified as underdeveloped.",
+      "target": "Angela Wright",
+      "rationale": "Angela Wright has been identified since tick 6 as a relationship Carlos needs to deepen. The consolidation has created a natural, non-transactional reason to reach out. The transferred technicians are real people whose transitions Angela managed — Carlos asking how to be a good senior colleague to them is honest and appropriate. It also advances the relationship past 0.40 trust toward the level where real professional intelligence can flow in both directions."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Follow up with Sarah Kim on the contacts Carlos shared at tick 11 — the two regional fleet maintenance contacts and the EV dealership that is actively staffing certified technicians. Carlos checks in with Sarah directly: has she made contact yet? Not to monitor her, but to offer to make a warm introduction if she wants one rather than cold-calling. Carlos knows these contacts. A warm introduction from him changes the nature of that first call. He also shares one piece of current intelligence with her: the fleet telematics module he is working through in the EVT Level 2 program maps directly to what fleet operators hire for, and if she wants to see the curriculum outline before her cert finishes, he will share it.",
+      "target": "Sarah Kim",
+      "rationale": "Carlos gave Sarah the contacts at tick 11 as a deliberate act of honesty and support. The contacts have value only if they are used. Checking in serves two purposes: it keeps the relationship honest and reciprocal, and it ensures the contacts Carlos invested time building through his certification network actually result in an outcome for someone. Carlos's identity shift — from 'mechanic hoping to be kept' to 'person the organization is actively accounting for' — includes being the senior technician who actually passes things forward."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "agent_id": "commuter_james",
+  "tick": 12,
+  "emotional_state": "quietly satisfied, with a new forward-looking restlessness. The AWS cert is complete or the exam is behind him. Six months of study converted into a credential. Savings at roughly $116,000. Employment intact. He has finally talked to Howard Liu. The adaptation plan he laid out at tick 0 has executed almost exactly as designed. What he is feeling now is not relief — it is the slight vertigo of reaching the summit he planned for and realizing the next mountain is not yet in focus. The job search infrastructure exists. The question is when to activate it. He is also sitting with the community gap he acknowledged at tick 11 — the $100-200 donation or attendance at the community night was a first step, not a resolution.",
+  "actions": [
+    {
+      "type": "SIGNAL",
+      "description": "Update LinkedIn and resume to formally reflect the AWS Solutions Architect Associate certification — listing the credential, the issuer (Amazon Web Services), and the date obtained. Add a brief summary line to the LinkedIn headline that positions him as a software developer with cloud architecture credentials, not just a developer. This is the public-facing conversion of six months of study into a visible professional credential. He also messages Howard Liu to share that the cert is now official — a natural follow-up to their tick 11 conversation that keeps the relationship warm without being transactional.",
+      "target": "parts_store_owner",
+      "rationale": "The credential is only valuable if it is visible. The LinkedIn and resume update takes two hours and positions James correctly for the job market. The Howard Liu follow-up maintains the relationship he finally established last tick without letting it go cold — a pattern he has repeated too many times with this contact."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Conduct a structured job market scan this tick — not a passive search but an active 4-6 hour research session. James takes the five-company target list he built at tick 11 and moves from research to active evaluation: he identifies whether any of the five companies have open roles that match his new profile (software developer plus AWS Solutions Architect), reviews job description language for each, and makes a specific read on whether he should apply to any of them now or hold. His current employer's role security is 0.38 — low enough that he should not assume he has time. He is looking for one role that is a genuine fit, not five applications sent to hit a quota. If he finds it, he prepares the application this tick.",
+      "target": null,
+      "rationale": "The job search infrastructure was built at tick 11 but not activated. Role security at 0.38 and unemployment at 50% in Millfield make passive waiting a genuine risk. James has the cert, the resume, the target list — the remaining step is evaluating whether any of the identified roles are worth applying to now rather than waiting for a trigger condition that may arrive as a layoff notice rather than a signal."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Follow through on the community engagement he committed to at tick 11 — either confirm that the $100-200 donation to Lisa Freeman's Financial Triage Navigator was completed, or attend the community connection night at the Millfield Community Center this month. James has been naming the gap between his financial position ($116k savings, employed) and his community's situation (50% employment, spending index in the 20s) since tick 9. At tick 11 he committed to a concrete contribution. This tick that commitment is kept. He does not announce it. He just does it. If he attends the community night, he listens. He does not bring the cert or the job search into the room.",
+      "target": "community_organizer",
+      "rationale": "This is the third tick James has named this gap and the second tick he has committed to acting on it. At some point the pattern of identifying a gap and not acting becomes its own kind of avoidance. The Financial Triage Navigator represents the most concrete community response infrastructure operating in Millfield. A $150 donation is two hours of his salary and extends his financial runway for the people who have none."
+    },
+    {
+      "type": "COMMITMENT",
+      "description": "Set a specific trigger condition for activating a full job search — and write it down. James has been operating in 'readiness posture' since tick 5 and has now converted the readiness into actual materials. The remaining question is: when does the search become active? He defines the trigger explicitly: if role security drops below 0.30, or if there is a direct layoff signal at his employer, or if he reaches the end of the consulting term without a role security improvement, he activates the search within 48 hours using the materials he has built. He also identifies one specific recruiter in the cloud architecture and mobility tech space and sends a brief introductory message — not a job inquiry, a professional introduction. He is planting a seed in the network that can be watered quickly if needed.",
+      "target": null,
+      "rationale": "James has been managing job risk by building credentials and materials but has not yet committed to the specific conditions that would trigger the search. Naming those conditions explicitly prevents the scenario where a layoff arrives and he is caught without a clear activation plan. The recruiter introduction is low-cost and opens a channel without committing to a search."
+    }
+  ]
+}

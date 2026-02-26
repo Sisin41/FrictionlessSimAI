@@ -1,0 +1,31 @@
+{
+  "agent_id": "real_estate_agent",
+  "tick": 12,
+  "emotional_state": "focused and quietly urgent — eleven ticks of positioning and analysis need to convert to signed agreements; the economic environment continues deteriorating and every week without a listing is value leaving the table",
+  "actions": [
+    {
+      "type": "EXCHANGE",
+      "description": "Secure the meeting with Rick Tanner's office about the Hawkins dealership disposition. Stephanie made first contact at tick 10 and reaffirmed at tick 11. This tick she calls Rick directly — not his assistant, not email — and gets a date on the calendar for a 15-minute conversation. She brings to that meeting: the updated auto row market brief she recalibrated at tick 11 (spending index 26, employment 50%, Hawkins as a real comparable), three specific buyer profiles she has researched for the Hawkins footprint (delivery logistics operator seeking highway corridor staging, EV fleet servicing company with regional presence, light industrial conversion developer), and one clear ask: let me run the buyer-side market analysis for the disposition process. She does not ask for the listing on the first call. She earns the relationship by demonstrating she has already done work that no other agent in Millfield has done for this property type.",
+      "target": "dealership_gm",
+      "rationale": "The Hawkins dealership is the largest commercial real estate event on auto row this year. Stephanie has been building toward this conversation since tick 0. The economic environment at spending index 26 and 50% employment means the disposition decision timeline is compressed — Rick Tanner is not going to spend six months evaluating agents. The agent who is in the room with the right analysis this week is the agent who gets the listing."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Call Betty Kowalski to find out whether the RoboRide partnership terms ever arrived. Stephanie's tick 11 plan was this exact call — she follows through on it. If Betty's RoboRide path closed without written terms (which was Betty's own stated threshold), Stephanie offers to schedule the property valuation conversation this week and comes prepared with current comps adjusted for the spending index at 26, the Hawkins comparable, and the adaptive reuse scenario analysis specific to a diner footprint at Betty's location. If the RoboRide path is still technically open, Stephanie gives Betty honest data: auto row property values at spending index 26 are 15-20% below where they were at tick 8 when she last had a valuation figure. The window to transact at a price reflecting the property's history is compressing monthly.",
+      "target": "diner_owner",
+      "rationale": "Betty Kowalski is Stephanie's highest-trust relationship on auto row with a 0.57 trust score. The diner is a legitimate listing candidate and Betty has been inching toward a decision for multiple ticks. The economic deterioration since tick 8 (spending index dropped from 42 to 26) makes the cost of waiting measurable and nameable. Stephanie owes Betty current data, not the stale numbers from four ticks ago."
+    },
+    {
+      "type": "COMMITMENT",
+      "description": "Follow up with Amir Patel to confirm the $350 valuation fee from the tick 8 site visit and to check where he stands on the four-path scenario analysis. Stephanie called him at tick 10 with the invoice and the direct question about which path he was leaning toward. This is the follow-through tick. If Amir has made a decision to pursue the adaptive reuse sale, Stephanie confirms she wants the listing and proposes signing a listing agreement this week. If he is still undecided, she updates him on one fact that changes the calculus: the Hawkins dealership is now formally in the disposition process, which means a highway-corridor comparable transaction will be setting price expectations for his parcel within the next two to three months. Moving before that comparable sets the market is an option; moving after it is not.",
+      "target": "gas_station_owner",
+      "rationale": "Amir has received more analysis time and attention from Stephanie than any other client. The valuation fee of $350 is outstanding from tick 8. The scenario analysis delivered a clear four-path framework. If he is not ready to decide after nine ticks of relationship-building and a full site visit, Stephanie needs to know that now rather than continue holding the relationship in an advisory limbo that generates no commission."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Publish a brief LinkedIn update citing the Hawkins dealership closure as a marker of the auto row transition Stephanie documented in her tick 1 market brief. The post is professional and data-grounded: 'Eleven months ago I published a brief on what RoboRide's Millfield expansion would mean for auto-adjacent commercial property. The Hawkins consolidation is consistent with that analysis. If you own commercial property on or near auto row, current conditions create a specific decision window. Happy to share the updated data.' Two sentences of analysis, one call to action, zero catastrophizing. This is not a pitch — it is a professional signal that positions Stephanie as the agent who called this correctly and is still the most informed voice in the market.",
+      "target": null,
+      "rationale": "Stephanie published the tick 1 market brief and has been building analytical credibility for eleven ticks. The Hawkins closure is the most concrete validation of that analysis. A single LinkedIn post at this moment costs ten minutes and creates a passive inbound signal for auto row property owners who are now actively thinking about their situation but don't yet know who to call."
+    }
+  ]
+}

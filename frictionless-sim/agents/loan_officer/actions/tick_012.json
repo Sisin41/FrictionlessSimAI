@@ -1,0 +1,37 @@
+{
+  "agent_id": "loan_officer",
+  "tick": 12,
+  "emotional_state": "tight-wound focus with an undertow of real financial fear — the runway is 3.4 months and burning. Kevin knows the math. Monthly income is $1,022 against $5,195 in expenses. The NMLS cert is at 20% completion. The Amir Patel loan is in the pipeline. The portfolio expansion is still in institutional limbo. Every tick that passes without a decision from management is a tick of savings that doesn't come back.",
+  "actions": [
+    {
+      "type": "EXCHANGE",
+      "description": "Follow up directly with whoever holds David Chen's management responsibilities on the portfolio expansion request submitted at tick 8. Kevin walks to the office in person this week — not email, not a calendar request that sits for a week. He brings one physical document: a one-page summary showing the Amir Patel $12,000 EV charger loan as a concrete proof-of-concept for small business origination under his existing credentials. The summary includes the loan parameters, the current pipeline status, and a three-sentence argument for why auto loan volume will not recover. Kevin asks for a binary answer: is the expanded scope approved or not? He does not accept 'we are reviewing it' as an answer for the third consecutive tick. He asks when the decision will be made and writes the date down in front of them.",
+      "target": "Bank management (David Chen's successor)",
+      "rationale": "Kevin's portfolio expansion request has been pending since tick 8. The Amir Patel loan is real evidence that Kevin can originate outside auto context under existing credentials. With a 3.4-month runway and $17,740 in savings, the time cost of an unanswered institutional request is compounding. David Chen has departed. Kevin cannot rely on David's sponsorship. He must force a decision from whoever now owns this."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Advance NMLS mortgage origination training — currently at 20% completion with a 10-month target from tick 4. This is month 8 of the training pathway. Kevin pushes through at least one full module this tick, targeting the co-originator supervised session work that requires access to live mortgage files. He pulls the HR paperwork status on the NMLS pathway to confirm it is still active and not caught in the management transition gap. He blocks his 90-minute daily study window without exception this tick. If the institutional pathway is in limbo due to David's departure, Kevin identifies whether he can advance the coursework independently — even partially — using the tuition reimbursement that was already submitted.",
+      "target": "NMLS mortgage origination certification program",
+      "rationale": "The NMLS credential is Kevin's primary portable skill investment. At 20% completion it is not yet close enough to use as a job market signal, but every tick of progress closes that gap. With auto loan volume structurally declining and a 3.4-month runway, the training timeline must accelerate. Kevin noted in his tick 9 reflection that the windows — NMLS completion and savings runway — are converging. He cannot let institutional ambiguity about David's successor pause the cert."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Follow up on the status of Amir Patel's $12,000 EV charger capital improvement loan that Kevin submitted through underwriting at tick 9. Kevin contacts the underwriting department directly — by phone, not email — to get a current status update: is the loan approved, denied, or pending additional documentation? If additional documentation is needed, Kevin identifies exactly what is required and communicates that to Amir within 24 hours. If the loan is approved, Kevin calls Amir to notify him and confirm next steps toward closing. This is not a passive status check — Kevin treats this as the single most important active transaction on his desk and advances it to the next decision point this tick.",
+      "target": "Underwriting department / Amir Patel",
+      "rationale": "The Amir Patel loan is Kevin's primary evidence for the portfolio expansion case and his first origination outside the auto context. It has been in the pipeline since tick 9 — three ticks with no recorded follow-up. A loan that sits in underwriting without an advocate goes cold. Kevin needs this loan to close, both as proof-of-concept for management and as a transaction that demonstrates his value in the new scope he is arguing for."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Reach out to David Chen — who has maintained informal contact since departing the bank — with a specific, professional ask. Kevin sends a brief message: 'I am still advancing the NMLS pathway and have originated one small business loan (EV charger, $12K) under the expanded scope I proposed at tick 8. I am now in a follow-up meeting with the interim manager to get a formal decision. If you have any context on who is the right person to own this decision now, I would value a five-minute call.' Kevin is not asking David to intervene — he is using the relationship for intelligence, not advocacy. David maintained contact specifically with Kevin rather than with the bank, which Kevin noted at tick 9 as a signal of professional positioning.",
+      "target": "David Chen",
+      "rationale": "David Chen's informal continued contact with Kevin is an asset Kevin has not fully used since tick 9. David knows the institution, knows the management structure, and may know specifically who inherited the portfolio expansion decision. Kevin's reflection at tick 9 explicitly noted David's contact as a relationship with value 'that does not appear on any spreadsheet.' This is the tick to use it for something concrete and specific."
+    },
+    {
+      "type": "COMMITMENT",
+      "description": "Set a personal financial contingency threshold: if Kevin reaches the end of tick 13 without either (a) portfolio expansion formally approved or (b) a concrete role change signal from bank management, he will begin active external job search for banking and lending roles at other institutions. Kevin does not make this decision this tick — but he writes it down, puts a date on it, and treats it as a pre-commitment rather than a vague future intention. He identifies two regional credit unions and one regional bank as specific external targets if the internal path closes. He does not apply yet. He prepares the targeting so the decision, if it becomes necessary, takes days rather than weeks.",
+      "target": "Personal contingency plan",
+      "rationale": "Kevin's tick 9 reflection noted the converging windows: NMLS completion at 3-4 months out, savings runway at 8.5 months at the time (now tighter at 3.4 months runway per state.json). The situation has become more acute. A pre-commitment to external search if the internal path stalls by tick 13 is not giving up — it is the kind of structured contingency planning that Kevin has been insufficiently concrete about. At 50% employment in Millfield, waiting passively for institutional approval is a risk he cannot afford."
+    }
+  ]
+}

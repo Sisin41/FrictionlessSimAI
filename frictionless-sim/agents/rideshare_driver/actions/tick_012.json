@@ -1,0 +1,31 @@
+{
+  "agent_id": "rideshare_driver",
+  "tick": 12,
+  "emotional_state": "strained and realistic — the NEMT conversion timeline has stretched beyond what Robert projected, the employment change has not happened yet, and he is holding the bridge income while reassessing whether the employer pipeline is viable or whether a lateral pivot is needed",
+  "actions": [
+    {
+      "type": "COMMITMENT",
+      "description": "Make one final, definitive contact to each of the three NEMT employer pipeline targets — Millfield Medical Transport, CareRide of the Valley, and St. Clement's patient transport coordinator. The call to each is brief and explicit: 'I am Robert Jackson. I have a NEMT certification, a clean driving record, and full availability. I have called before. I am calling one final time to ask directly: do you have an opening for a credentialed NEMT driver, and if yes, can I start this week? If no, can you tell me whether you anticipate openings in the next 30 days?' Robert will not call these numbers again after this tick. Three calls, one tick, definitive response or definitive closure. If any operator expresses interest, he accepts on the spot.",
+      "target": null,
+      "rationale": "Robert has been in the NEMT employer pipeline since tick 8 with no offer after multiple rounds of outreach. The tick 11 plan called for decision-week framing and still produced routine outcomes. At some point sustained outreach to non-responding employers is not persistence — it is substituting activity for intelligence. This is the final call. After this tick, the answer is known."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "If none of the three NEMT operators has responded with an offer after this tick's final calls, Robert immediately pivots to researching two alternative paths. Path one: independent NEMT operator. Robert checks what it would take to operate as a sole proprietor NEMT driver — specifically the licensing requirements in the state, the Medicaid enrollment timeline for individual providers, and whether his current vehicle meets NEMT safety standards. He is already certified. The question is whether he can bypass the employer step and bill Medicaid directly. He calls the state Medicaid office or the state transportation broker (usually a managed care organization) to ask the question directly. Path two: dialysis transport contracts. Dialysis transport is a subset of NEMT with consistent, predictable demand — three rides per week per patient, same locations, same times. He identifies the two dialysis centers in the Millfield area and calls each to ask whether they manage their own patient transport contracts or route through a broker.",
+      "target": null,
+      "rationale": "The NEMT sector is structurally sound — Robert's tick 9 reflection confirmed that aging and dialysis are not discretionary. But the specific employer pipeline he has been working for four ticks may not have openings, may have filled internally, or may have a hiring freeze. The credential is real and portable. If the employer route is not opening, the independent contractor route and the direct dialysis contract route are both viable alternatives that he has not yet explored."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Call the Millfield workforce development office to resolve the Maria Santos retraining grant status. Robert applied at tick 2 — that is ten ticks ago, approximately ten months. The call is brief: name, application date, question. Was the application funded or denied? If funded, what is the disbursement process? If denied, why and is there an appeal window? This question has been in Robert's tick 9 reflection as a named regret and in his tick 11 action plan. He has deferred it for two ticks. He makes the call this week before any other action.",
+      "target": null,
+      "rationale": "This is a one-call, ten-minute action that resolves a $2,500 ambiguity Robert has been carrying for ten months. At his current savings of approximately $11,644, $2,500 represents more than six weeks of buffer. Leaving this unresolved is not caution — it is procrastination on an item with a known resolution mechanism."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Have a direct, honest conversation with Marcus about the timeline. Not the adult weight of the financial specifics, but the shape of the situation: Robert tells Marcus that the job change he has been working toward is taking longer than he expected, that the work he did to get certified was the right work, and that they are going to be okay — but 'okay' means they keep being careful with money for a few more months. He also tells Marcus one positive thing that is true: Robert figured out what kind of work he wants to do next, and he is close to making it happen. The conversation is five minutes. Marcus is twelve. He can hold a five-minute honest update without needing a full accounting of the financial situation.",
+      "target": null,
+      "rationale": "Robert's tick 9 reflection named the Marcus communication as a success — he told Marcus the shape of the situation in age-appropriate terms at tick 8. At tick 12, five months into the transition, Marcus has probably noticed that the job change Robert mentioned has not happened yet. An age-appropriate update maintains the trust Robert built in that earlier conversation and models the behavior Robert wants Marcus to internalize: when things take longer than expected, you say so and you keep working."
+    }
+  ]
+}

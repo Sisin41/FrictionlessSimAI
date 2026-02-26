@@ -1,0 +1,31 @@
+{
+  "agent_id": "retiree",
+  "tick": 12,
+  "emotional_state": "purposeful and attentive — the workshop series has launched, the community relationships are deepening, and Dorothy is watching carefully for what she might be missing given her own high normalcy bias",
+  "actions": [
+    {
+      "type": "COMMITMENT",
+      "description": "Deliver the second session of the 'Economic Transition for Older Adults' workshop series at the Millfield Community Center. The curriculum for session two was drafted at tick 11: financial communication with adult children during economic uncertainty. Dorothy arrives 20 minutes early to set up, brings updated printed materials including a revised version of the community resource list that incorporates the Financial Triage Navigator, and facilitates with the same structure she used in session one — 40 minutes of structured content followed by 20 minutes of open participant sharing. She pays particular attention to what participants are most anxious about, what questions she did not anticipate, and whether any of the 60+ adults in the room are caring for someone else (a spouse, a sibling) in addition to managing their own transition. That secondary caregiver layer is often invisible in programmatic responses.",
+      "target": "community_organizer",
+      "rationale": "The workshop series exists and is running. Session two follows session one. Dorothy's strength is sustained, quality execution — not impulsive generosity but systematic follow-through. The session two topic (financial communication with adult children) is the one she expects will generate the most emotional disclosure from participants, and she prepares accordingly."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Visit Betty's Diner again this week. If Betty accepted Dorothy's workshop invitation at tick 11, Dorothy confirms the logistics of the session Betty will attend — date, time, what to expect, how long it runs. If Betty declined, Dorothy simply patronizes the diner as usual: orders the usual, tips generously, and treats the relationship as its own complete thing rather than a pipeline to the workshop. If Betty has news about the RoboRide partnership situation — the tick 11 deadline she set for written terms — Dorothy listens without offering analysis she does not have. She is not a real estate expert and she knows it. She can offer attention and the acknowledgment that whatever Betty decides is a real decision made under real pressure, and that is not nothing.",
+      "target": "diner_owner",
+      "rationale": "The Betty relationship is now in its fifth tick of consistent engagement. Consistency is the actual offering here — not resources, not expertise, but the simple fact of showing up regularly to a small business that needs customers. At spending index 26 and 50% employment in Millfield, Betty's diner needs people who come back more than it needs advice."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Reach out to Robert Jackson this week as planned since tick 11. Dorothy has been deferring this conversation since her tick 6 reflection named it as a regret. She contacts Robert — by phone or text, his preference — and says the thing she has been meaning to say: that she uses RoboRide regularly, that she knows what that service is doing to his livelihood, that she did not want to be someone who benefits from a displacement and says nothing about it. She does not offer solutions she does not have and she does not perform guilt. She also mentions she has heard he has been handling a hard situation with real composure and that his son is lucky to have a father who models that. One honest, brief conversation. If Robert wants to talk further, she is available. If not, she has done the thing she owed him.",
+      "target": "rideshare_driver",
+      "rationale": "Dorothy named this as a regret at tick 6, deferred it to tick 11, and the tick 11 memory shows she planned the conversation but tick_011 outcomes recorded routine. She has now deferred this for six ticks. The longer she waits, the more the asymmetry between her settled situation and Robert's uncertainty grows, and the harder the honest conversation becomes. It is a five-minute call that closes a long-open moral loop."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Conduct the monthly 'what am I not noticing' self-check that her own tick 6 reflection prescribed. With a normalcy bias of 0.79 — the highest in her profile — Dorothy deliberately sets aside 30 minutes this week to look for signals she might be filtering out. She reads the Millfield community bulletin board notices for the past two weeks, scans the community center's intake patterns for any demographic shifts in who is coming in, and asks Lisa Freeman one open question: what is the thing you are seeing most in the past month that we have not built a response to yet? This is not a research project. It is a 30-minute discipline to counteract the specific cognitive tendency she knows she has.",
+      "target": null,
+      "rationale": "Dorothy's tick 6 reflection was unusually self-aware about her normalcy bias: 'I should deliberately ask, once a month, what I am not noticing.' Tick 12 is the second month she has the workshop series running. This is the moment to do the check. It costs 30 minutes and produces either useful signal or the reassuring confirmation that her current activities are appropriately calibrated."
+    }
+  ]
+}

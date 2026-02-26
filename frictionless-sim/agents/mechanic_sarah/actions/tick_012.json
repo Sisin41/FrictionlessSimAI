@@ -1,0 +1,37 @@
+{
+  "agent_id": "mechanic_sarah",
+  "tick": 12,
+  "emotional_state": "purposeful and slightly ahead of herself in a good way — the cert is at 52% and the final assessment is within sight. Carlos gave her real contacts. Zoe Martinez reached out as a peer and engaged the infrastructure frame honestly. The shop has new faces from the closed location and the emotional climate is different. Sarah is not destabilized by any of this. She is orienting toward what comes next.",
+  "actions": [
+    {
+      "type": "TRANSFORMATION",
+      "description": "Complete the final major module of EVT Level 1 — integrated vehicle systems and end-to-end diagnostic workflows — and begin preparing for the certification assessment. The integrated systems module is the synthesis section: hardware, software, charging infrastructure, and battery management converging into the full diagnostic workflow that fleet operators test for in hiring. Sarah logs at least 10 study hours this tick, focusing on the assessment preparation materials once the module content is complete. Her goal entering tick 13 is to be ready to sit the final assessment. At 65-70% completion after tick 10 and now pushing through the final module, the credential is no longer a future orientation — it is a near-term deliverable. She does not ease up in the final stretch.",
+      "target": "EVT Level 1 certification final module and assessment prep",
+      "rationale": "Sarah is within one module and a final assessment of completing Level 1. The certification gives her portable credentials regardless of what happens at the shop. With the consolidation having transferred technicians to the floor and the shop's employment picture uncertain beyond the near term, finishing the cert before any further disruption is the single highest-priority action she can take for her own trajectory."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Act on the contacts Carlos gave her at tick 11. Sarah makes contact with at least one of the two regional fleet maintenance operators Carlos named — by phone, not email, using Carlos's name as context for the introduction. Her script is simple and honest: she is completing EVT Level 1 certification with a projected finish date of next month, she has a computer diagnostics background that covers the software-layer diagnostics fleet operators test for, and she is beginning to map opportunities in the fleet maintenance sector. She is not calling to apply for a job. She is calling to understand what the role actually looks like in practice and what they look for in a certified technician. She asks two questions: what does a typical day involve, and at what point in the certification process should someone in her position be having this conversation?",
+      "target": "Regional fleet maintenance operator (one of two contacts from Carlos)",
+      "rationale": "Carlos gave Sarah the contacts as a real act of support and she identified in her tick 9 reflection that she had been 'so focused on the cert that I have let my broader network go quiet.' The cert is now in its final stretch — this is exactly the right moment to make contact, because she can cite a specific, credible completion timeline. Calling now rather than after the cert means she arrives at the credential with a warm relationship already started."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Deepen the exchange with Zoe Martinez that started from the tick 9 check-in. Sarah has seen Zoe's response in the word-of-mouth — Zoe engaged the infrastructure frame honestly and acknowledged that bike last-mile delivery and EV technicians are adjacent parts of the same new ecosystem RoboRide is building. Sarah sends Zoe a brief, direct message: she acknowledges the frame Zoe named, confirms she expects to complete Level 1 certification within the next two months, and asks Zoe one specific question: in the delivery partner registration process, did RoboRide ask anything about vehicle maintenance or service infrastructure? Sarah is genuinely curious — not extracting intelligence, but testing whether the operational knowledge she is building has any direct application to the delivery infrastructure Zoe is entering.",
+      "target": "Zoe Martinez",
+      "rationale": "Sarah's tick 9 reflection identified her broader network going quiet as a regret. Zoe is someone navigating an adjacent part of the same transition — the RoboRide ecosystem from the delivery side versus the maintenance side. Keeping this relationship active is low-cost and potentially high-value. If RoboRide builds regional maintenance infrastructure, the people who are inside the delivery partner network will know about it first."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Have a direct, brief conversation with one of the transferred technicians now on the shop floor — not to probe for information, but to welcome them genuinely. The consolidation transferred real people from a closed location to Sarah's floor. Some of them are scared and in a new environment. Sarah identifies someone who looks uncertain or isolated and introduces herself plainly: 'I've been here three years. I know where everything is and how the shift schedule works. If anything is unclear, ask me.' She does not perform institutional knowledge or senior-rank authority. She is just present and available. This costs her nothing and it is the right human response to someone navigating an involuntary transfer.",
+      "target": "Transferred technician(s) from closed location",
+      "rationale": "Sarah's tick 9 adaptation notes explicitly named staying human while adapting as a value she wants to model. The consolidation brought new colleagues to her floor through no choice of their own. Being present to them in a practical, low-ego way is consistent with who Sarah is trying to be — and in a shop where the emotional climate has shifted, a junior technician who is visibly welcoming is noticed by everyone, including Patricia and whoever else is watching the floor dynamics."
+    },
+    {
+      "type": "COMMITMENT",
+      "description": "Set a specific post-certification target: by the end of tick 14 (two ticks from now), Sarah will have sent one formal job inquiry to at least one of the three contacts Carlos gave her — the EV dealership or either fleet maintenance operator. She is not applying this tick. She is pre-committing to a specific action with a specific timeline so that completing the cert does not become an endpoint that she celebrates for two ticks before acting on. She writes this down. The inquiry will reference her completed EVT Level 1 credential, her computer diagnostics background, and the fleet telematics context she is gaining through the Carlos network.",
+      "target": "Post-certification job inquiry plan",
+      "rationale": "Sarah's tick 6 reflection identified 'the cert gives me credentials; what I do with them is a separate question I have not fully sat with yet' as a gap. She sat with it for three more ticks before acting in tick 9. She is not repeating that delay. Pre-committing now — before the cert is complete — means the application goes out while the credential is new and her energy is high, not after a post-completion lull. The employment rate in Millfield is 50%. Timing the application for the moment the cert arrives, not the month after, is a measurable competitive advantage."
+    }
+  ]
+}

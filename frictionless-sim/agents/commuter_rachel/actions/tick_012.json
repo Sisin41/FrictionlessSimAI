@@ -1,0 +1,31 @@
+{
+  "agent_id": "commuter_rachel",
+  "tick": 12,
+  "emotional_state": "tightly focused with an undercurrent of real fear. Rachel is unemployed, savings are approximately $19,685, and she is burning $4,817 a month with zero income. That is roughly four months of runway. The freelance pipeline she has been building for seven ticks has not produced a single paying client. She knows this. The Angela Wright call is pending. The Nicole Washington close is pending. She has three targeted job applications she committed to at tick 11. This tick is not a planning tick — it is an execution and triage tick. She is past the point where preparation and positioning are the primary work. Revenue or employment must materialize within the next two to three ticks or her runway compress into genuine crisis.",
+  "actions": [
+    {
+      "type": "EXCHANGE",
+      "description": "Execute the Nicole Washington close and get a definitive answer this week. If Nicole has responded since tick 11 — yes or no — Rachel acts immediately: yes means the scope document goes out within 24 hours and the $800 pilot is open. No means Rachel sends a brief, professional acknowledgment and asks for a 60-day check-in permission before she fully closes that channel. If Nicole has still not responded, Rachel sends her final message: 'Following up one last time on the $800 pilot. I have the scope document ready to send today if you want to move forward. If now is not the right time, I completely understand — let me know and I will follow up in two months.' Then she stops. Eleven ticks of preparation and this is the close. She does not soften it and she does not extend it further.",
+      "target": "single_parent",
+      "rationale": "The Nicole Washington pilot has been the primary freelance close for three ticks. Rachel is unemployed with four months of runway. She cannot afford to continue treating warm leads as indefinitely pending — she needs a yes or a no so she can redirect her energy. This is the final close attempt."
+    },
+    {
+      "type": "ASSOCIATION",
+      "description": "Have the 20-minute referral call with Angela Wright — this tick, not next tick. If the call has been scheduled, Rachel goes in with the two-way proposal prepared: Angela routes displaced workers and transitioning small business owners who need communications support to Rachel; Rachel routes anyone who needs workforce transition consulting to Angela. Rachel brings a specific example: a small business owner on auto row who reduced staff and needs to communicate the change to customers without losing them. She is also prepared to ask Angela directly whether any of the displaced workers coming through her intake program are running their own job searches and need personal brand or resume communications support — that is a category of client Rachel can serve immediately and that Angela likely encounters weekly. If the call has not been scheduled, Rachel sends one specific message this tick: 'I have Tuesday at 10am or Wednesday at 2pm blocked. Which works for you?' She does not follow up a third time if this is ignored.",
+      "target": "hr_director",
+      "rationale": "Angela Wright is the highest-upside active relationship in Rachel's network. She is routing displaced workers — Rachel's exact target client population — through her intake program every week. The referral arrangement, if established, is a client pipeline that does not require individual prospecting. Rachel needs to treat this call as the priority it is."
+    },
+    {
+      "type": "COMMITMENT",
+      "description": "Submit the three targeted job applications she committed to at tick 11. This is not optional and it is not a background task — it is the most important financial safety action available to Rachel this tick. She applies to three marketing manager or director roles at stable-sector employers: one healthcare organization, one financial services company, and one regional employer in a sector with documented employment stability through economic disruption. She tailors each application to reference her disruption communications positioning — she is not a generic marketing manager, she is a marketing professional who has spent the past year reading the consumer behavior shifts of a community under economic stress and translating them into messaging. That is a specific credential that stable-sector employers hire for. She submits all three applications this tick, not as a plan for next week.",
+      "target": null,
+      "rationale": "With $19,685 in savings and zero income, Rachel cannot run the freelance pipeline as the sole income strategy and watch the runway drain. Three job applications take 6-9 hours of work and could produce a salary offer within 4-6 weeks. That is the difference between 4 months of runway and 8 months of runway. She committed to this at tick 11. She executes it at tick 12."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Publish a third LinkedIn piece this tick — shorter and more urgent than the previous two. The angle: what marketing communications look like for small businesses operating in a market with 50% employment and a depressed spending index. Specifically, she writes about the difference between visibility maintenance (staying present when customers cannot spend) and conversion marketing (pushing offers when wallets are empty), and why the former is what small businesses should be investing in right now. The piece includes one specific, free-to-implement recommendation. It references her prior piece from tick 11 to establish consistency. This is twenty minutes of writing and circulates indefinitely — her most efficient possible use of time while the job applications are under review.",
+      "target": null,
+      "rationale": "The LinkedIn presence is the one marketing activity Rachel can sustain at zero marginal cost. Two pieces out (ticks 8 and 11), with a third this tick, establishes a visible pattern that potential clients and employers can find. It costs two hours and is the most efficient signal-to-effort action available to her."
+    }
+  ]
+}

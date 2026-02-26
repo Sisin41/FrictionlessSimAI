@@ -1,0 +1,31 @@
+{
+  "agent_id": "salesperson_jake",
+  "tick": 12,
+  "emotional_state": "high-stress and action-oriented — with savings near zero and a monthly deficit of $463, Jake is operating in true triage mode; every action this tick is load-bearing",
+  "actions": [
+    {
+      "type": "EXCHANGE",
+      "description": "Work the floor every available hour this week with the RoboRide comparison pitch. Target walk-ins who are contractors, tradespeople, nurses, parents with multi-destination logistics, or anyone whose mobility pattern is incompatible with an 8-minute wait time robotaxi. Jake runs the math out loud with every qualified prospect: a contractor driving 28,000 miles per year across job sites cannot replace that with RoboRide at $0.12/mile plus wait time and no cargo capacity. A home health aide doing four client stops per shift cannot use a robotaxi. Jake knows this pitch cold. He closes one vehicle this month. One commission check at approximately $5,500 is the difference between functional runway and collapse. He does not leave the floor early, does not take long lunches, and does not spend floor time on anything that is not a prospect.",
+      "target": null,
+      "rationale": "Jake's savings are effectively at zero and his monthly expenses of $5,134 against income of $1,294 means he is drawing down fast. A single commission check extends his runway by more than a month. The RoboRide comparison pitch is his best close mechanism in a market where general demand is soft — it works because it identifies the specific buyer segment that robotaxis cannot serve. This is not strategy. This is survival."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Call Rick Tanner directly — by phone, not email — to state interest in the service advisor or fleet-account relationship role inside the restructured organization. Jake says plainly: 'Rick, I know you have the org chart in front of you. I want the role that needs someone who can sell relationships. That's what I do and you know it. I want to be in that conversation before it closes.' He does not ask for confirmation of anything. He does not ask which location is closing. He puts his name in the conversation for the role he identified at tick 9 and lets Rick respond with whatever he has. Rick's trust score of 0.73 means he will be honest about whether this conversation can actually matter. Jake listens to what Rick says and calibrates from there.",
+      "target": "dealership_gm",
+      "rationale": "Jake planned this call at tick 11 and tick 10 before that. The Rick call for the lateral role is Lane B of his three-lane map and it is the most time-sensitive lane — org charts get finalized and then they are final. With savings at zero, Lane B is not a preference. It is a necessity. Not making this call is not caution. It is the same deferral pattern Jake named as a regret at tick 9."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Apply for the Maria Santos retraining grant — $2,500 — this week. Jake attended Maria's public input session at tick 2, took notes, and understands the eligibility criteria. He qualifies. He has been watching others apply and holding the grant as a conceptual Lane C element without actually submitting the paperwork. At his current financial position, $2,500 is not a contingency buffer — it is approximately five weeks of runway. He fills out the application, submits it, and marks it done. He also makes the one call to a retraining program enrollee he planned at tick 11: asks a single question — what does the credential actually lead to in this market, specifically what employers are hiring and at what wage, not what the brochure says.",
+      "target": null,
+      "rationale": "Jake's tick 6 reflection named not applying for the grant sooner as a regret and every subsequent reflection has included Lane C research as a pending action that keeps getting deferred. His financial position at tick 12 makes deferral irrational. Five weeks of runway buys time. Conversations with actual enrollees take 15 minutes and produce real intelligence. Both actions are free or near-free and both have been sitting undone for too many ticks."
+    },
+    {
+      "type": "COMMITMENT",
+      "description": "Have a brief, honest financial conversation with his partner or closest trusted adult about where things actually stand. Not a detailed accounting session — a five-sentence honest update. Jake has two kids, Emma and Tyler, and he has been carrying the full weight of the financial picture alone while maintaining the external presentation of a man with a plan. The plan is real. The triage is also real. The person who shares his household needs to know both. Jake commits to having this conversation before the end of the week — not to transfer the anxiety, but because carrying it alone is costing him psychological bandwidth he cannot afford when every other action this tick requires clear decision-making.",
+      "target": null,
+      "rationale": "Jake's profile shows he has been managing the external presentation of stability while internally cycling. At $463/month deficit with savings near zero, the financial situation is past the point where one person can manage it alone without it degrading decision quality. The conversation does not require a solution. It requires shared situational awareness. A person who has been told the truth can help in ways a person who has been protected from the truth cannot."
+    }
+  ]
+}

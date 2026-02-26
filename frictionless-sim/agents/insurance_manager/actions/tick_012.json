@@ -1,0 +1,37 @@
+{
+  "agent_id": "insurance_manager",
+  "tick": 12,
+  "emotional_state": "controlled urgency with a current of grief — the unemployment is no longer new but the monthly burn of $7,382 against $0 income is a number that doesn't let you forget it. The world outside is getting harder: 50% employment in Millfield, spending index at 26. The external validation that she read the disruption correctly offers no comfort when savings are moving in one direction only.",
+  "actions": [
+    {
+      "type": "SIGNAL",
+      "description": "Respond to Tom Bradley's outreach request. He has reached out asking Linda to follow through on the fleet and logistics contact introductions she offered him during the tick 8 layoff conversation. Linda sends a brief, professional reply: she acknowledges his message, confirms she will make the introductions, and asks him for his current contact details and a one-sentence summary of what kind of role he is targeting so she can frame the introductions correctly. She is doing this because she told him she would, and because her credibility depends on following through — not because she has time to spare. The introductions themselves will go to the regional logistics contact from her tick 6 call list.",
+      "target": "Tom Bradley",
+      "rationale": "Linda promised these introductions during the layoff conversation at tick 8. Tom is now formally requesting them. Not following through would damage her professional standing with contacts who will remember whether she delivers on commitments. It also costs her almost nothing — she has these relationships — and doing it reinforces her identity as a reliable connector even in her own transition."
+    },
+    {
+      "type": "TRANSFORMATION",
+      "description": "Advance the CRMP certification coursework — this is month nine of the program, currently at 30% completion. This month's focus is the commercial lines risk module, specifically the section on fleet liability underwriting and third-party logistics risk transfer. Linda blocks four evenings this month for dedicated study sessions of two hours each. The material is directly applicable to the fleet risk roles she has been cultivating as job targets, which means studying it is simultaneously credential progress and interview preparation. She logs completion of at least one full module sub-section by end of this tick.",
+      "target": "CRMP certification program",
+      "rationale": "The CRMP cert is the primary portable credential Linda is building. At 30% completion with monthly expenses of $7,382 and $0 income, the certification is the main investment she is making in her own future employability. The commercial fleet risk module is specifically relevant to the logistics and fleet-adjacent roles she has been targeting since tick 2. This is not abstract study — it is direct preparation for the roles she is applying to."
+    },
+    {
+      "type": "EXCHANGE",
+      "description": "Re-contact the municipal risk management office — the third of Linda's three external employer targets from tick 6. Of the three contacts (regional logistics company, healthcare system risk division, municipal risk management office), Linda has not had a substantive conversation with the municipal contact since tick 10's re-engagement push. She calls directly — not email — and frames the call around a specific, current development: Millfield's city council is now actively regulating RoboRide delivery licensing, which creates new operational risk exposure for municipal infrastructure. Linda positions herself as someone who has been tracking this disruption from inside the insurance sector for twelve months and has data on how regional auto policy cancellation trends map onto municipal liability exposure. She asks directly: has the workforce disruption created any new risk management needs that are not covered by existing staff?",
+      "target": "Municipal Risk Management Office contact",
+      "rationale": "Linda's income is $0. Her savings runway is 10.4 months but burning at $7,382/month. The municipal contact was the least-warm of the three from tick 6 but represents the most stable employment category — government risk management roles are countercyclical. The city's recent RoboRide regulatory action is a concrete, current hook for this call. Linda has learned from her tick 6 regrets that letting leads go cold is a pattern she cannot repeat."
+    },
+    {
+      "type": "SIGNAL",
+      "description": "Reach out to Priya Sharma with a direct, specific ask. Linda knows from word-of-mouth (tick 11 inbox) that Priya has been actively applying to insurtech and commercial fleet risk analytics roles. Linda calls Priya — not an email — and proposes a mutual intelligence arrangement: Linda shares what she knows about the three external employers she has been cultivating, and Priya shares what she is learning about the insurtech and fleet risk analytics job market from her own applications. This is a peer call, not a mentorship call. Linda is not pretending to have more stability than she does. She asks Priya directly: are any of the roles you are applying to ones I should be targeting?",
+      "target": "Priya Sharma",
+      "rationale": "Linda and Priya had an honest conversation at tick 5 that Linda assessed as credibility-preserving. Priya is now her most direct source of real-time intelligence about the same job market Linda is navigating. The word-of-mouth from tick 11 confirms Priya is active and applying. A mutual intelligence arrangement costs Linda nothing and potentially surfaces specific opportunities she has not yet identified. In a 50% unemployment market, the people who are most likely to help you are the ones who are solving the same problem."
+    },
+    {
+      "type": "INACTION",
+      "description": "Linda does not call the AutoShield regional leadership this tick. She sent the final formal communication at tick 9 documenting the absence of a corporate response and her shift to exit mode. She has maintained the AutoShield employment relationship without pursuing any further internal advocacy. This tick she holds that position — she does not reach out to corporate again, does not send a follow-up, and does not revisit the pivot memo. The paper trail is complete. Any internal outreach now would undermine the clean documentation she created and signal that she is uncertain about the exit strategy she has already committed to.",
+      "target": "AutoShield corporate leadership",
+      "rationale": "Linda documented her decision to exit advocacy mode at tick 9 and has held that position. At 12 ticks in, with $0 monthly income and the personal auto book at 22 policies and declining, re-engaging internal AutoShield advocacy would be a regression to a strategy that has already been exhausted. The CRMP certification, external employer contacts, and network outreach are the correct channels for this phase. Discipline in not chasing a closed loop is as important as the actions she is taking."
+    }
+  ]
+}
