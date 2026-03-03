@@ -2,6 +2,7 @@
  * usePlayback.ts
  * Drives tick advancement when play is active.
  * At 1x speed: advance 1 tick per second.
+ * Emits interpolation (0-1) between ticks for smooth animation.
  */
 
 import { useEffect, useRef } from 'react'
@@ -14,7 +15,9 @@ export function usePlayback() {
   const maxTick = useSimStore(s => s.maxTick)
   const setTick = useSimStore(s => s.setTick)
   const setPlaying = useSimStore(s => s.setPlaying)
+  const setInterpolation = useSimStore(s => s.setInterpolation)
   const accumRef = useRef(0)
+  const lastTimeRef = useRef(0)
 
   useEffect(() => {
     if (!isPlaying) {
@@ -22,26 +25,27 @@ export function usePlayback() {
       return
     }
 
-    let lastTime = performance.now()
+    lastTimeRef.current = performance.now()
     let raf: number
 
     function frame(now: number) {
-      const dt = (now - lastTime) / 1000
-      lastTime = now
+      const dt = Math.min((now - lastTimeRef.current) / 1000, 0.1)
+      lastTimeRef.current = now
 
       accumRef.current += dt * playSpeed
 
       if (accumRef.current >= 1) {
-        const steps = Math.floor(accumRef.current)
-        accumRef.current -= steps
-        const newTick = currentTick + steps
+        accumRef.current = 0
+        const next = currentTick + 1
 
-        if (newTick >= maxTick) {
+        if (next > maxTick) {
           setTick(maxTick)
           setPlaying(false)
           return
         }
-        setTick(newTick)
+        setTick(next)
+      } else {
+        setInterpolation(accumRef.current)
       }
 
       raf = requestAnimationFrame(frame)
@@ -49,5 +53,5 @@ export function usePlayback() {
 
     raf = requestAnimationFrame(frame)
     return () => cancelAnimationFrame(raf)
-  }, [isPlaying, playSpeed, currentTick, maxTick, setTick, setPlaying])
+  }, [isPlaying, playSpeed, currentTick, maxTick, setTick, setPlaying, setInterpolation])
 }
