@@ -13,7 +13,7 @@
 import { useSimStore, getAgentAtTick } from '../store/simStore'
 
 export default function AgentCard() {
-  const { selectedAgentId, agents, currentTick, selectAgent } = useSimStore()
+  const { selectedAgentId, agents, currentTick, selectAgent, followAgentId, setFollowAgent } = useSimStore()
 
   if (!selectedAgentId || !agents) return null
   const agent = agents[selectedAgentId]
@@ -188,7 +188,12 @@ export default function AgentCard() {
 
       {/* Action buttons */}
       <div className="card-actions">
-        <button>Follow Agent</button>
+        <button
+          className={followAgentId === selectedAgentId ? 'active' : ''}
+          onClick={() => setFollowAgent(followAgentId === selectedAgentId ? null : selectedAgentId)}
+        >
+          {followAgentId === selectedAgentId ? 'Unfollow' : 'Follow Agent'}
+        </button>
         <button>All Reflections</button>
         <button>Transactions</button>
       </div>

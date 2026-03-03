@@ -187,6 +187,8 @@ interface SimState {
   selectedAgentId:  string | null
   selectedBuildingId: string | null
   selectedTxId:     string | null
+  followAgentId:    string | null
+  hoveredAgentId:   string | null
 
   // Active overlays
   activeLayers: Set<LayerId>
@@ -219,6 +221,8 @@ interface SimState {
   selectAgent:    (id: string | null) => void
   selectBuilding: (id: string | null) => void
   selectTx:       (id: string | null) => void
+  setFollowAgent: (id: string | null) => void
+  setHoveredAgent: (id: string | null) => void
 
   toggleLayer:    (layer: LayerId) => void
 
@@ -236,6 +240,8 @@ export const useSimStore = create<SimState>((set, get) => ({
   selectedAgentId:    null,
   selectedBuildingId: null,
   selectedTxId:       null,
+  followAgentId:      null,
+  hoveredAgentId:     null,
 
   activeLayers: new Set(),
 
@@ -269,6 +275,8 @@ export const useSimStore = create<SimState>((set, get) => ({
   selectAgent:    (id) => set({ selectedAgentId: id, selectedBuildingId: null, selectedTxId: null }),
   selectBuilding: (id) => set({ selectedBuildingId: id, selectedAgentId: null, selectedTxId: null }),
   selectTx:       (id) => set({ selectedTxId: id }),
+  setFollowAgent: (id) => set({ followAgentId: id, selectedAgentId: id }),
+  setHoveredAgent: (id) => set({ hoveredAgentId: id }),
 
   // ── Layer toggle ──────────────────────────────────────────────────
   toggleLayer: (layer) => {

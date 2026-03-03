@@ -81,13 +81,25 @@ export class WorldRenderer {
   private informalMarketStalls: Container | null = null
   private lastAgents: Record<string, Agent> | null = null
 
+  // Follow Agent mode
+  private followedAgentId: string | null = null
+
   // Track tick for transition detection
   private lastRenderedTick = -1
   private currentRobotaxiCount = 0
 
+  // Agent screen positions (updated every render)
+  private agentScreenPositions: Map<string, { x: number; y: number }> = new Map()
+
   // Callbacks
   onAgentClick: ((id: string) => void) | null = null
   onBuildingClick: ((id: string) => void) | null = null
+  onAgentHover: ((id: string | null) => void) | null = null
+
+  /** Get screen position for an agent (for React overlay positioning). */
+  getAgentScreenPos(agentId: string): { x: number; y: number } | null {
+    return this.agentScreenPositions.get(agentId) ?? null
+  }
 
   async init(container: HTMLElement): Promise<void> {
     this.app = new Application()
@@ -157,6 +169,28 @@ export class WorldRenderer {
     renderables.sort((a, b) => a.depth - b.depth)
     for (const r of renderables) this.worldContainer.addChild(r.container)
 
+    // Follow Agent: pan camera to center followed agent
+    if (this.followedAgentId && this.app) {
+      const pos = this.agentScreenPositions.get(this.followedAgentId)
+      if (pos) {
+        const cx = this.app.screen.width / 2
+        const cy = this.app.screen.height / 2
+        const targetX = cx - pos.x
+        const targetY = cy - pos.y
+        // Smooth lerp toward target
+        this.worldContainer.x += (targetX - this.worldContainer.x) * 0.15
+        this.worldContainer.y += (targetY - this.worldContainer.y) * 0.15
+        this.robotaxiContainer.x = this.worldContainer.x
+        this.robotaxiContainer.y = this.worldContainer.y
+      }
+    } else {
+      // Reset camera position when not following
+      this.worldContainer.x += (0 - this.worldContainer.x) * 0.15
+      this.worldContainer.y += (0 - this.worldContainer.y) * 0.15
+      this.robotaxiContainer.x = this.worldContainer.x
+      this.robotaxiContainer.y = this.worldContainer.y
+    }
+
     // Update robotaxis
     this.updateRobotaxis(tick, robotaxiRate)
   }
@@ -173,6 +207,10 @@ export class WorldRenderer {
 
   highlightAgent(id: string | null): void {
     this.highlightedAgentId = id
+  }
+
+  setFollowAgent(id: string | null): void {
+    this.followedAgentId = id
   }
 
   /** Called by WorldCanvas when tick advances during playback. */
@@ -497,12 +535,26 @@ export class WorldRenderer {
         archetype: agent.archetype,
       })
 
+      // Store screen position for React overlays
+      this.agentScreenPositions.set(agentId, { x: ax, y: ay - 24 })
+
       const container = new Container()
       container.eventMode = 'static'
       container.cursor = 'pointer'
       container.on('pointerdown', () => this.onAgentClick?.(agentId))
+      container.on('pointerover', () => this.onAgentHover?.(agentId))
+      container.on('pointerout', () => this.onAgentHover?.(null))
 
       this.drawAgentShape(container, ax, ay, agent, animState, agentId, isMoving)
+
+      // Follow Agent mode: enlarge followed, dim others
+      if (this.followedAgentId) {
+        if (agentId === this.followedAgentId) {
+          container.scale.set(1.3)
+        } else {
+          container.alpha = 0.35
+        }
+      }
 
       renderables.push({ depth, container })
     }
