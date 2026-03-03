@@ -104,6 +104,11 @@ export class WorldRenderer {
     return this.agentScreenPositions.get(agentId) ?? null
   }
 
+  /** Get the underlying canvas element for screenshot capture. */
+  getCanvas(): HTMLCanvasElement | null {
+    return this.app?.canvas ?? null
+  }
+
   async init(container: HTMLElement): Promise<void> {
     this.app = new Application()
     await this.app.init({

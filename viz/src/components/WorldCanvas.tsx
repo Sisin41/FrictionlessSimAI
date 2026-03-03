@@ -12,15 +12,23 @@
  *   selectAgent(id), selectBuilding(id), setHoveredAgent(id)
  */
 
-import { useEffect, useRef } from 'react'
+import { useEffect, useRef, useImperativeHandle, forwardRef } from 'react'
 import { useSimStore } from '../store/simStore'
 import { WorldRenderer } from '../pixi/WorldRenderer'
 import SpeechBubble from './SpeechBubble'
 import ReflectionCaption from './ReflectionCaption'
 
-export default function WorldCanvas() {
+export interface WorldCanvasHandle {
+  getRenderer(): WorldRenderer | null
+}
+
+const WorldCanvas = forwardRef<WorldCanvasHandle>(function WorldCanvas(_props, ref) {
   const canvasRef = useRef<HTMLDivElement>(null)
   const rendererRef = useRef<WorldRenderer | null>(null)
+
+  useImperativeHandle(ref, () => ({
+    getRenderer: () => rendererRef.current,
+  }))
   const prevTickRef = useRef(0)
 
   const agents = useSimStore(s => s.agents)
@@ -106,4 +114,6 @@ export default function WorldCanvas() {
       <ReflectionCaption />
     </div>
   )
-}
+})
+
+export default WorldCanvas

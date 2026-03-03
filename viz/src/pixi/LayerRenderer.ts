@@ -71,12 +71,26 @@ export class LayerRenderer {
     color: number; dashed: boolean; startTime: number
   }> = []
 
+  // ── Tick-level cache for static layers ──
+  private cachedTick = -1
+  private cachedHeatmap: Container | null = null
+  private cachedStress: Container | null = null
+
   getContainer(): Container {
     return this.container
   }
 
   clear(): void {
     this.container.removeChildren()
+  }
+
+  /** Invalidate caches when tick changes. */
+  private checkCache(tick: number): void {
+    if (tick !== this.cachedTick) {
+      this.cachedTick = tick
+      this.cachedHeatmap = null
+      this.cachedStress = null
+    }
   }
 
   /**
@@ -97,8 +111,14 @@ export class LayerRenderer {
 
     if (activeLayers.size === 0) return
 
+    this.checkCache(tick)
+
     if (activeLayers.has('economic_heatmap')) {
-      this.renderEconomicHeatmap(buildings, buildingStates)
+      if (this.cachedHeatmap) {
+        this.container.addChild(this.cachedHeatmap)
+      } else {
+        this.renderEconomicHeatmap(buildings, buildingStates)
+      }
     }
     if (activeLayers.has('social_graph')) {
       this.renderSocialGraph(socialEdges, agentScreenPositions)
@@ -113,7 +133,11 @@ export class LayerRenderer {
       this.renderRunwayCountdown(agents, tick)
     }
     if (activeLayers.has('stress_topology')) {
-      this.renderStressTopology(agents, tick)
+      if (this.cachedStress) {
+        this.container.addChild(this.cachedStress)
+      } else {
+        this.renderStressTopology(agents, tick)
+      }
     }
     if (activeLayers.has('transaction_flow')) {
       this.renderTransactionFlow(tick, transactions, txByTick, agentScreenPositions)
@@ -188,6 +212,8 @@ export class LayerRenderer {
   ): void {
     if (!buildingStates) return
 
+    const wrapper = new Container()
+
     // Compute avg health per zone
     for (const zone of ZONES) {
       const zoneBuildings = buildings.filter(b => {
@@ -233,8 +259,11 @@ export class LayerRenderer {
       const labelContainer = new Container()
       labelContainer.addChild(g)
       labelContainer.addChild(label)
-      this.container.addChild(labelContainer)
+      wrapper.addChild(labelContainer)
     }
+
+    this.cachedHeatmap = wrapper
+    this.container.addChild(wrapper)
   }
 
   private healthToColor(health: number): number {
@@ -455,6 +484,7 @@ export class LayerRenderer {
     agents: Record<string, Agent>,
     tick: number,
   ): void {
+    const wrapper = new Container()
     const g = new Graphics()
 
     for (const [agentId, agent] of Object.entries(agents)) {
@@ -485,7 +515,9 @@ export class LayerRenderer {
       g.fill({ color, alpha: stress * 0.8 })
     }
 
-    this.container.addChild(g)
+    wrapper.addChild(g)
+    this.cachedStress = wrapper
+    this.container.addChild(wrapper)
   }
 
   private stressToColor(stress: number): number {

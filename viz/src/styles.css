@@ -502,3 +502,276 @@ body {
   color:        var(--text);
   font-family:  var(--text-mono);
 }
+
+/* ─── Phase 5: Canvas Toolbar ─────────────────────────────────── */
+
+.canvas-toolbar {
+  position: absolute;
+  top:      12px;
+  right:    12px;
+  display:  flex;
+  gap:      6px;
+  z-index:  50;
+}
+
+.screenshot-btn, .toolbar-btn {
+  background:    var(--bg-panel);
+  border:        1px solid var(--border);
+  color:         var(--text-dim);
+  padding:       4px 10px;
+  border-radius: 3px;
+  cursor:        pointer;
+  font-size:     11px;
+  font-weight:   600;
+  transition:    all 0.15s;
+}
+
+.screenshot-btn:hover, .toolbar-btn:hover {
+  border-color: var(--accent-blue);
+  color:        var(--text);
+}
+
+/* ─── Phase 5: Keyboard Shortcuts Help ────────────────────────── */
+
+.shortcuts-help {
+  position:   absolute;
+  inset:      0;
+  background: rgba(0, 0, 0, 0.5);
+  display:    flex;
+  align-items: center;
+  justify-content: center;
+  z-index:    500;
+}
+
+.shortcuts-card {
+  background:    var(--bg-panel);
+  border:        1px solid var(--border);
+  border-radius: 8px;
+  padding:       20px 28px;
+  min-width:     320px;
+  position:      relative;
+}
+
+.shortcuts-card h3 {
+  font-size:     12px;
+  font-weight:   700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color:         var(--accent-gold);
+  margin-bottom: 14px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.shortcut-row {
+  display:         flex;
+  justify-content: space-between;
+  align-items:     center;
+  padding:         5px 0;
+  font-size:       12px;
+  color:           var(--text);
+}
+
+.shortcut-row kbd {
+  background:    var(--bg-panel-2);
+  border:        1px solid var(--border);
+  border-radius: 3px;
+  padding:       2px 6px;
+  font-family:   var(--text-mono);
+  font-size:     11px;
+  min-width:     24px;
+  text-align:    center;
+  color:         var(--text);
+}
+
+.shortcut-row span {
+  color:      var(--text-dim);
+  font-size:  11px;
+  text-align: right;
+}
+
+/* ─── Phase 5: Comparison Shell ───────────────────────────────── */
+
+.comparison-shell {
+  position:   fixed;
+  inset:      0;
+  background: rgba(0, 0, 0, 0.85);
+  z-index:    1000;
+  display:    flex;
+  flex-direction: column;
+  padding:    24px;
+}
+
+.comparison-header {
+  display:         flex;
+  justify-content: space-between;
+  align-items:     center;
+  margin-bottom:   16px;
+}
+
+.comparison-header h2 {
+  font-size:      16px;
+  font-weight:    700;
+  color:          var(--accent-gold);
+  letter-spacing: 1px;
+}
+
+.comparison-body {
+  display:  flex;
+  gap:      16px;
+  flex:     1;
+  overflow: hidden;
+}
+
+.comparison-pane {
+  flex:         1;
+  background:   var(--bg-panel);
+  border:       1px solid var(--border);
+  border-radius: 8px;
+  padding:      16px;
+  display:      flex;
+  flex-direction: column;
+}
+
+.comparison-pane.comparison-add {
+  align-items:     center;
+  justify-content: center;
+}
+
+.comparison-pane-header {
+  display:       flex;
+  justify-content: space-between;
+  align-items:   center;
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.pane-label {
+  font-size:      10px;
+  font-weight:    700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color:          var(--accent-blue);
+}
+
+.pane-scenario {
+  font-size: 12px;
+  color:     var(--text-dim);
+}
+
+.comparison-placeholder {
+  color:       var(--text-dim);
+  font-size:   12px;
+  line-height: 1.6;
+}
+
+.comparison-placeholder code {
+  background:    var(--bg-panel-2);
+  padding:       1px 4px;
+  border-radius: 2px;
+  font-family:   var(--text-mono);
+  font-size:     11px;
+}
+
+.add-scenario-btn {
+  background:    var(--bg-panel-2);
+  border:        2px dashed var(--border);
+  color:         var(--accent-blue);
+  padding:       16px 32px;
+  border-radius: 8px;
+  cursor:        pointer;
+  font-size:     16px;
+  font-weight:   700;
+  transition:    all 0.15s;
+  margin-bottom: 12px;
+}
+
+.add-scenario-btn:hover {
+  border-color:  var(--accent-blue);
+  background:    color-mix(in srgb, var(--accent-blue) 10%, transparent);
+}
+
+.add-scenario-hint {
+  color:      var(--text-dim);
+  font-size:  12px;
+  text-align: center;
+  max-width:  280px;
+}
+
+/* ─── Phase 5: Embed Mode ─────────────────────────────────────── */
+
+.embed-mode .economic-dash { display: none; }
+.embed-mode .panel-area    { display: none; }
+.embed-mode .layer-controls { display: none; }
+.embed-mode .canvas-toolbar { display: none; }
+
+.embed-mode .scrub-bar {
+  padding: 4px 8px 2px;
+}
+
+.embed-mode .tick-stats {
+  display: none;
+}
+
+/* ─── Phase 5: Mobile / Touch ─────────────────────────────────── */
+
+@media (max-width: 768px) {
+  .panel-area {
+    width:    100%;
+    position: absolute;
+    bottom:   60px;
+    left:     0;
+    right:    0;
+    max-height: 50vh;
+    z-index: 80;
+    padding: 6px;
+    background: var(--bg);
+  }
+
+  .main-layout {
+    flex-direction: column;
+    position: relative;
+  }
+
+  .canvas-area {
+    flex: 1;
+  }
+
+  .economic-dash {
+    overflow-x: auto;
+    gap: 8px;
+    padding: 4px 8px;
+    font-size: 10px;
+  }
+
+  .layer-controls {
+    bottom: 4px;
+    left: 4px;
+    gap: 3px;
+  }
+
+  .layer-btn {
+    padding: 3px 6px;
+    font-size: 9px;
+  }
+
+  .canvas-toolbar {
+    top: 4px;
+    right: 4px;
+    gap: 3px;
+  }
+
+  .scrub-bar {
+    padding: 4px 8px 3px;
+  }
+
+  .scrub-controls button {
+    padding: 4px 12px;
+    font-size: 14px;
+  }
+
+  .scrub-track {
+    height: 8px;
+  }
+}
