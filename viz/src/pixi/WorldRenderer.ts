@@ -111,13 +111,27 @@ export class WorldRenderer {
 
   async init(container: HTMLElement): Promise<void> {
     this.app = new Application()
-    await this.app.init({
-      width: container.clientWidth || 1200,
-      height: container.clientHeight || 700,
-      background: 0x1a202c,
-      antialias: true,
-      resizeTo: container,
-    })
+    try {
+      await this.app.init({
+        width: container.clientWidth || 1200,
+        height: container.clientHeight || 700,
+        background: 0x1a202c,
+        antialias: true,
+        resizeTo: container,
+        preference: 'webgl',
+        preserveDrawingBuffer: true,
+      })
+    } catch (err) {
+      console.error('[WorldRenderer] PixiJS init failed, trying webgpu fallback:', err)
+      await this.app.init({
+        width: container.clientWidth || 1200,
+        height: container.clientHeight || 700,
+        background: 0x1a202c,
+        antialias: false,
+        resizeTo: container,
+      })
+    }
+    console.log('[WorldRenderer] Canvas:', this.app.canvas.width, 'x', this.app.canvas.height)
     container.appendChild(this.app.canvas)
     this.app.stage.addChild(this.worldContainer)
     this.app.stage.addChild(this.layerContainer)

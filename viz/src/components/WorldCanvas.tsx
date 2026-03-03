@@ -58,6 +58,7 @@ const WorldCanvas = forwardRef<WorldCanvasHandle>(function WorldCanvas(_props, r
     rendererRef.current = renderer
 
     renderer.init(canvasRef.current).then(() => {
+      console.log('[WorldCanvas] Renderer initialized, agents:', Object.keys(agents ?? {}).length)
       if (agents && buildings && buildingTicks) {
         const robotaxiRate = timeseries?.[String(currentTick)]?.robotaxi_rate ?? 0
         renderer.renderSmooth(
@@ -68,7 +69,7 @@ const WorldCanvas = forwardRef<WorldCanvasHandle>(function WorldCanvas(_props, r
           robotaxiRate,
         )
       }
-    })
+    }).catch(err => console.error('[WorldCanvas] Init failed:', err))
 
     return () => {
       renderer.destroy()
