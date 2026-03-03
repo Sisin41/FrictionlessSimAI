@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-03-03T20:11:51Z",
+  "total_bytes": 724382,
+  "total_mb": 0.69,
+  "files": {
+    "agents.json": {
+      "size_bytes": 464608,
+      "md5": "2d3b45a3026a19cd4d77348260db6c8b"
+    },
+    "buildings.json": {
+      "size_bytes": 51080,
+      "md5": "20dbed74526985f3abb2fe8edf4b11d6"
+    },
+    "meta.json": {
+      "size_bytes": 8498,
+      "md5": "456e1af1be7553d21c9dc790e2246f28"
+    },
+    "phenomena.json": {
+      "size_bytes": 19558,
+      "md5": "b61dafa7452489a54f5e27bb5be43df9"
+    },
+    "social_graph.json": {
+      "size_bytes": 48588,
+      "md5": "fa540cefac5ab9b6df2f80c4d5caeedc"
+    },
+    "transactions.json": {
+      "size_bytes": 127637,
+      "md5": "8f378321dccf99987b6d84f460bf27cb"
+    },
+    "world.json": {
+      "size_bytes": 4413,
+      "md5": "793ab16d47800140ed5ebff7ffb3b020"
+    }
+  },
+  "load_order": [
+    "meta.json",
+    "world.json",
+    "phenomena.json",
+    "social_graph.json",
+    "agents.json",
+    "buildings.json",
+    "transactions.json"
+  ]
+}

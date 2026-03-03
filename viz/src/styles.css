@@ -1,0 +1,382 @@
+/* ─── Base ─────────────────────────────────────────────────────── */
+
+:root {
+  --bg:           #1a202c;
+  --bg-panel:     #2d3748;
+  --bg-panel-2:   #374151;
+  --border:       #4a5568;
+  --text:         #e2e8f0;
+  --text-dim:     #a0aec0;
+  --text-mono:    'Berkeley Mono', 'Fira Code', 'Cascadia Code', monospace;
+  --accent-blue:  #4299e1;
+  --accent-green: #48bb78;
+  --accent-red:   #fc8181;
+  --accent-gold:  #fbbf24;
+  --accent-purple:#9f7aea;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--bg);
+  color:       var(--text);
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size:   13px;
+  overflow:    hidden;
+  height:      100vh;
+}
+
+.loading, .error {
+  display:         flex;
+  align-items:     center;
+  justify-content: center;
+  height:          100vh;
+  font-family:     var(--text-mono);
+  font-size:       1.2rem;
+  color:           var(--text-dim);
+}
+
+/* ─── Layout ───────────────────────────────────────────────────── */
+
+.app-root {
+  display:        flex;
+  flex-direction: column;
+  height:         100vh;
+  overflow:       hidden;
+}
+
+.main-layout {
+  display: flex;
+  flex:    1;
+  overflow: hidden;
+}
+
+.canvas-area {
+  flex:     1;
+  position: relative;
+  overflow: hidden;
+}
+
+.panel-area {
+  width:      340px;
+  overflow-y: auto;
+  padding:    8px;
+  display:    flex;
+  flex-direction: column;
+  gap:        8px;
+}
+
+/* ─── Economic Dashboard ───────────────────────────────────────── */
+
+.economic-dash {
+  display:     flex;
+  align-items: center;
+  gap:         16px;
+  padding:     6px 16px;
+  background:  #0f172a;
+  border-bottom: 1px solid var(--border);
+  font-family: var(--text-mono);
+  font-size:   11px;
+  flex-shrink: 0;
+}
+
+.dash-title {
+  font-size:   13px;
+  font-weight: 700;
+  color:       var(--accent-gold);
+  letter-spacing: 2px;
+}
+
+.dash-tick {
+  color: var(--text-dim);
+  margin-right: 8px;
+}
+
+.dash-stat {
+  display:       flex;
+  flex-direction: column;
+  align-items:   center;
+  gap:           1px;
+}
+
+.dash-label { color: var(--text-dim); font-size: 9px; text-transform: uppercase; letter-spacing: 1px; }
+.dash-value { font-size: 13px; font-weight: 600; }
+.interp-note { font-size: 9px; color: var(--text-dim); font-style: italic; }
+
+/* ─── Scrub Bar ────────────────────────────────────────────────── */
+
+.scrub-bar {
+  padding:      8px 16px 6px;
+  background:   #0f172a;
+  border-top:   1px solid var(--border);
+  flex-shrink:  0;
+}
+
+.scrub-controls {
+  display:     flex;
+  align-items: center;
+  gap:         8px;
+  margin-bottom: 6px;
+}
+
+.scrub-controls button {
+  background:    var(--bg-panel-2);
+  border:        1px solid var(--border);
+  color:         var(--text);
+  padding:       3px 10px;
+  border-radius: 3px;
+  cursor:        pointer;
+  font-family:   var(--text-mono);
+}
+
+.scrub-controls button:hover { background: var(--accent-blue); }
+
+.tick-counter { font-family: var(--text-mono); color: var(--text-dim); }
+
+.scrub-track-wrapper { position: relative; margin-bottom: 4px; }
+
+.scrub-track {
+  width:   100%;
+  height:  4px;
+  cursor:  pointer;
+  accent-color: var(--accent-gold);
+}
+
+.scrub-markers {
+  position:  relative;
+  height:    20px;
+  margin-top: 2px;
+}
+
+.scrub-marker {
+  position:  absolute;
+  transform: translateX(-50%);
+  cursor:    pointer;
+  text-align: center;
+}
+
+.marker-shape { font-size: 10px; }
+.marker-label { display: none; font-size: 8px; white-space: nowrap; }
+.scrub-marker:hover .marker-label { display: block; }
+
+.tick-stats {
+  display: flex;
+  gap:     16px;
+  font-family: var(--text-mono);
+  font-size: 11px;
+  color: var(--text-dim);
+  padding-top: 4px;
+}
+
+.tick-stats strong { color: var(--text); }
+
+/* ─── Panel (shared) ───────────────────────────────────────────── */
+
+.panel {
+  background:   var(--bg-panel);
+  border:       1px solid var(--border);
+  border-radius: 6px;
+  padding:      12px;
+  position:     relative;
+}
+
+.panel h3 {
+  font-size:    10px;
+  font-weight:  600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color:        var(--text-dim);
+  margin:       10px 0 6px;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 3px;
+}
+
+.panel section + section { margin-top: 4px; }
+
+.close-btn {
+  position:   absolute;
+  top:        8px;
+  right:      8px;
+  background: none;
+  border:     none;
+  color:      var(--text-dim);
+  cursor:     pointer;
+  font-size:  14px;
+}
+
+.stat-row {
+  display:         flex;
+  justify-content: space-between;
+  align-items:     center;
+  padding:         2px 0;
+  font-size:       12px;
+}
+
+.stat-row span { color: var(--text-dim); }
+.stat-row strong { font-family: var(--text-mono); color: var(--text); }
+
+/* ─── Agent Card ───────────────────────────────────────────────── */
+
+.agent-card { max-height: 80vh; overflow-y: auto; }
+
+.agent-header {
+  display: flex;
+  gap:     10px;
+  margin-bottom: 4px;
+}
+
+.agent-sprite-placeholder {
+  width:         40px;
+  height:        56px;
+  background:    var(--bg-panel-2);
+  border-radius: 3px;
+  flex-shrink:   0;
+}
+
+.agent-header h2 { font-size: 14px; font-weight: 700; margin-bottom: 2px; }
+.agent-role { font-size: 11px; color: var(--text-dim); margin-bottom: 4px; }
+
+.agent-meta { display: flex; gap: 4px; flex-wrap: wrap; }
+
+.tier-badge, .archetype-badge, .grief-badge, .sector-badge, .health-badge {
+  font-size:    9px;
+  font-weight:  600;
+  padding:      1px 6px;
+  border-radius: 3px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.tier-badge    { background: #2b4c7e; color: #90caf9; }
+.archetype-badge { background: #2d4a3e; color: #9ae6b4; }
+.grief-badge   { background: #44337a; color: #d6bcfa; }
+.sector-badge  { background: #2a3f6b; color: #90cdf4; }
+
+/* ─── Progress / Bar meters ────────────────────────────────────── */
+
+.progress-bar {
+  height:        6px;
+  background:    var(--bg-panel-2);
+  border-radius: 3px;
+  overflow:      hidden;
+  margin:        4px 0;
+}
+
+.progress-fill { height: 100%; border-radius: 3px; transition: width 0.3s ease; }
+
+.bar-meter {
+  display:  flex;
+  align-items: center;
+  gap:      6px;
+  width:    120px;
+}
+
+.bar-fill { height: 6px; border-radius: 3px; }
+.bar-value { font-family: var(--text-mono); font-size: 10px; color: var(--text-dim); min-width: 32px; }
+
+/* ─── Reflection ───────────────────────────────────────────────── */
+
+.reflection-text {
+  font-style:  italic;
+  color:       var(--text-dim);
+  font-size:   11px;
+  line-height: 1.5;
+  border-left: 2px solid var(--accent-purple);
+  padding-left: 8px;
+  margin:      4px 0;
+}
+
+.inner-monologue {
+  font-size:   11px;
+  color:       var(--text-dim);
+  line-height: 1.4;
+  font-family: var(--text-mono);
+}
+
+/* ─── Building Card ────────────────────────────────────────────── */
+
+.sparkline {
+  display:     flex;
+  align-items: flex-end;
+  gap:         2px;
+  height:      40px;
+}
+
+.spark-bar {
+  flex:      1;
+  min-width: 4px;
+  border-radius: 1px 1px 0 0;
+  transition: height 0.2s;
+}
+
+.occupant-row {
+  display:     flex;
+  align-items: center;
+  gap:         8px;
+  padding:     2px 0;
+  font-size:   11px;
+}
+
+.emp-status.employed    { color: var(--accent-green); }
+.emp-status.unemployed  { color: var(--accent-red); }
+.emp-status.transitioning { color: var(--accent-gold); }
+
+.grief-mini { font-size: 9px; color: var(--accent-purple); padding: 1px 4px; background: #44337a; border-radius: 2px; }
+
+.tx-row { display: flex; justify-content: space-between; padding: 2px 0; font-size: 11px; }
+.tx-names { color: var(--text-dim); }
+.tx-type.formal { color: var(--accent-blue); }
+.tx-type.informal { color: var(--accent-purple); }
+.tx-type.institutional { color: var(--accent-gold); }
+
+/* ─── Layer Controls ───────────────────────────────────────────── */
+
+.layer-controls {
+  position: absolute;
+  bottom:   12px;
+  left:     12px;
+  display:  flex;
+  gap:      6px;
+  flex-wrap: wrap;
+  max-width: 400px;
+}
+
+.layer-btn {
+  background:    var(--bg-panel);
+  border:        1px solid var(--border);
+  color:         var(--text-dim);
+  padding:       4px 10px;
+  border-radius: 3px;
+  cursor:        pointer;
+  font-size:     11px;
+  font-weight:   600;
+  transition:    all 0.15s;
+}
+
+.layer-btn:hover { border-color: var(--layer-color, #4299e1); color: var(--text); }
+.layer-btn.active {
+  background: color-mix(in srgb, var(--layer-color, #4299e1) 20%, transparent);
+  border-color: var(--layer-color, #4299e1);
+  color: var(--layer-color, #4299e1);
+}
+
+/* ─── Card actions ─────────────────────────────────────────────── */
+
+.card-actions {
+  display:    flex;
+  gap:        6px;
+  margin-top: 10px;
+  flex-wrap:  wrap;
+}
+
+.card-actions button {
+  background:    var(--bg-panel-2);
+  border:        1px solid var(--border);
+  color:         var(--text-dim);
+  padding:       4px 10px;
+  border-radius: 3px;
+  cursor:        pointer;
+  font-size:     10px;
+}
+
+.card-actions button:hover { color: var(--text); border-color: var(--accent-blue); }

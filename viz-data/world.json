@@ -1,0 +1,277 @@
+{
+  "grid": {
+    "cols": 26,
+    "rows": 20,
+    "tile_w": 64,
+    "tile_h": 32,
+    "origin": [
+      832,
+      80
+    ]
+  },
+  "zones": {
+    "auto_row": {
+      "cols": [
+        6,
+        17
+      ],
+      "rows": [
+        0,
+        4
+      ],
+      "label": "Auto Row",
+      "color": "#2a4a7f"
+    },
+    "services_row": {
+      "cols": [
+        2,
+        17
+      ],
+      "rows": [
+        5,
+        9
+      ],
+      "label": "Services Row",
+      "color": "#1a5c3a"
+    },
+    "civic_district": {
+      "cols": [
+        0,
+        5
+      ],
+      "rows": [
+        0,
+        9
+      ],
+      "label": "Civic District",
+      "color": "#5a3a7f"
+    },
+    "education": {
+      "cols": [
+        18,
+        25
+      ],
+      "rows": [
+        0,
+        4
+      ],
+      "label": "Education",
+      "color": "#7f5a1a"
+    },
+    "park": {
+      "cols": [
+        18,
+        25
+      ],
+      "rows": [
+        5,
+        9
+      ],
+      "label": "Park / Commons",
+      "color": "#2a5a2a"
+    },
+    "residential_t1": {
+      "cols": [
+        0,
+        5
+      ],
+      "rows": [
+        10,
+        13
+      ],
+      "label": "Uptown",
+      "color": "#2a4a7f"
+    },
+    "residential_t2": {
+      "cols": [
+        6,
+        11
+      ],
+      "rows": [
+        10,
+        13
+      ],
+      "label": "Midtown",
+      "color": "#2a6a6a"
+    },
+    "residential_t4": {
+      "cols": [
+        0,
+        25
+      ],
+      "rows": [
+        14,
+        19
+      ],
+      "label": "Residential",
+      "color": "#4a4a4a"
+    },
+    "informal_market": {
+      "cols": [
+        18,
+        25
+      ],
+      "rows": [
+        5,
+        9
+      ],
+      "label": "Informal Market",
+      "color": "#7a4a2a"
+    }
+  },
+  "home_tiles": {
+    "council_member": [
+      1,
+      10
+    ],
+    "ceo_regional_auto": [
+      3,
+      11
+    ],
+    "bank_manager": [
+      5,
+      12
+    ],
+    "dealership_gm": [
+      7,
+      10
+    ],
+    "insurance_manager": [
+      9,
+      11
+    ],
+    "hr_director": [
+      11,
+      12
+    ],
+    "mechanic_carlos": [
+      3,
+      15
+    ],
+    "mechanic_sarah": [
+      5,
+      14
+    ],
+    "insurance_agent_tom": [
+      7,
+      15
+    ],
+    "insurance_agent_priya": [
+      9,
+      14
+    ],
+    "gas_station_owner": [
+      11,
+      15
+    ],
+    "loan_officer": [
+      13,
+      14
+    ],
+    "salesperson_jake": [
+      15,
+      15
+    ],
+    "salesperson_tamika": [
+      17,
+      14
+    ],
+    "diner_owner": [
+      1,
+      16
+    ],
+    "driving_instructor": [
+      3,
+      17
+    ],
+    "car_wash_worker": [
+      5,
+      16
+    ],
+    "parking_garage_mgr": [
+      7,
+      17
+    ],
+    "commuter_james": [
+      9,
+      16
+    ],
+    "commuter_rachel": [
+      11,
+      17
+    ],
+    "truck_owner": [
+      13,
+      16
+    ],
+    "retiree": [
+      15,
+      17
+    ],
+    "young_gig_worker": [
+      17,
+      16
+    ],
+    "single_parent": [
+      19,
+      17
+    ],
+    "parts_store_owner": [
+      21,
+      16
+    ],
+    "rideshare_driver": [
+      23,
+      17
+    ],
+    "real_estate_agent": [
+      1,
+      18
+    ],
+    "auto_shop_teacher": [
+      3,
+      19
+    ],
+    "community_organizer": [
+      5,
+      18
+    ],
+    "uber_driver_2": [
+      7,
+      19
+    ]
+  },
+  "agent_workplaces": {
+    "ceo_regional_auto": "auto_mall",
+    "bank_manager": "bank",
+    "council_member": "city_hall",
+    "dealership_gm": "auto_mall",
+    "insurance_manager": "insurance_office",
+    "hr_director": "auto_mall",
+    "salesperson_jake": "auto_mall",
+    "salesperson_tamika": "auto_mall",
+    "mechanic_carlos": "mechanic_shop_a",
+    "mechanic_sarah": "mechanic_shop_b",
+    "gas_station_owner": "gas_station",
+    "insurance_agent_tom": "insurance_office",
+    "insurance_agent_priya": "insurance_office",
+    "loan_officer": "bank",
+    "diner_owner": "diner",
+    "driving_instructor": "driving_school",
+    "car_wash_worker": "car_wash",
+    "parking_garage_mgr": "parking_garage",
+    "commuter_james": null,
+    "commuter_rachel": null,
+    "truck_owner": null,
+    "retiree": null,
+    "young_gig_worker": "park",
+    "single_parent": null,
+    "parts_store_owner": "parts_store",
+    "rideshare_driver": null,
+    "real_estate_agent": "real_estate",
+    "auto_shop_teacher": "high_school",
+    "community_organizer": "community_center",
+    "uber_driver_2": null
+  },
+  "informal_market_appears_tick": 7
+}

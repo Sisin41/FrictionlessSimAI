@@ -1,0 +1,2128 @@
+{
+  "nodes": [
+    {
+      "id": "ceo_regional_auto",
+      "name": "Patricia Hawkins",
+      "tier": 1,
+      "sector": "retail_auto",
+      "degree": 11,
+      "avg_trust": 0.486,
+      "power_over": [
+        "dealership_gm",
+        "hr_director",
+        "salesperson_jake",
+        "salesperson_tamika",
+        "parts_store_owner"
+      ],
+      "power_under": [],
+      "obligations": [
+        "housing",
+        "employment",
+        "family"
+      ]
+    },
+    {
+      "id": "bank_manager",
+      "name": "David Chen",
+      "tier": 1,
+      "sector": "finance",
+      "degree": 9,
+      "avg_trust": 0.403,
+      "power_over": [
+        "loan_officer"
+      ],
+      "power_under": [],
+      "obligations": [
+        "housing",
+        "employment",
+        "family"
+      ]
+    },
+    {
+      "id": "council_member",
+      "name": "Maria Santos",
+      "tier": 1,
+      "sector": "policy",
+      "degree": 12,
+      "avg_trust": 0.404,
+      "power_over": [],
+      "power_under": [],
+      "obligations": [
+        "housing",
+        "family"
+      ]
+    },
+    {
+      "id": "dealership_gm",
+      "name": "Rick Tanner",
+      "tier": 2,
+      "sector": "retail_auto",
+      "degree": 13,
+      "avg_trust": 0.567,
+      "power_over": [
+        "salesperson_jake",
+        "salesperson_tamika",
+        "parts_store_owner"
+      ],
+      "power_under": [
+        "ceo_regional_auto"
+      ],
+      "obligations": [
+        "housing",
+        "employment",
+        "family"
+      ]
+    },
+    {
+      "id": "insurance_manager",
+      "name": "Linda Park",
+      "tier": 2,
+      "sector": "insurance",
+      "degree": 13,
+      "avg_trust": 0.482,
+      "power_over": [
+        "insurance_agent_tom",
+        "insurance_agent_priya"
+      ],
+      "power_under": [],
+      "obligations": [
+        "housing",
+        "employment",
+        "family"
+      ]
+    },
+    {
+      "id": "hr_director",
+      "name": "Angela Wright",
+      "tier": 2,
+      "sector": "retail_auto",
+      "degree": 15,
+      "avg_trust": 0.451,
+      "power_over": [
+        "salesperson_jake",
+        "salesperson_tamika",
+        "parts_store_owner"
+      ],
+      "power_under": [
+        "ceo_regional_auto"
+      ],
+      "obligations": [
+        "housing",
+        "employment"
+      ]
+    },
+    {
+      "id": "salesperson_jake",
+      "name": "Jake Morrison",
+      "tier": 3,
+      "sector": "retail_auto",
+      "degree": 24,
+      "avg_trust": 0.508,
+      "power_over": [
+        "parts_store_owner"
+      ],
+      "power_under": [
+        "ceo_regional_auto",
+        "dealership_gm",
+        "hr_director"
+      ],
+      "obligations": [
+        "housing",
+        "employment",
+        "family"
+      ]
+    },
+    {
+      "id": "salesperson_tamika",
+      "name": "Tamika Jefferson",
+      "tier": 3,
+      "sector": "retail_auto",
+      "degree": 18,
+      "avg_trust": 0.485,
+      "power_over": [
+        "parts_store_owner"
+      ],
+      "power_under": [
+        "ceo_regional_auto",
+        "dealership_gm",
+        "hr_director"
+      ],
+      "obligations": [
+        "housing",
+        "employment"
+      ]
+    },
+    {
+      "id": "mechanic_carlos",
+      "name": "Carlos Ruiz",
+      "tier": 3,
+      "sector": "service",
+      "degree": 22,
+      "avg_trust": 0.465,
+      "power_over": [
+        "car_wash_worker",
+        "young_gig_worker"
+      ],
+      "power_under": [],
+      "obligations": [
+        "housing",
+        "employment",
+        "family"
+      ]
+    },
+    {
+      "id": "mechanic_sarah",
+      "name": "Sarah Kim",
+      "tier": 3,
+      "sector": "service",
+      "degree": 17,
+      "avg_trust": 0.483,
+      "power_over": [
+        "car_wash_worker",
+        "young_gig_worker"
+      ],
+      "power_under": [],
+      "obligations": [
+        "housing",
+        "employment"
+      ]
+    },
+    {
+      "id": "gas_station_owner",
+      "name": "Amir Patel",
+      "tier": 3,
+      "sector": "fuel",
+      "degree": 17,
+      "avg_trust": 0.425,
+      "power_over": [],
+      "power_under": [],
+      "obligations": [
+        "housing",
+        "employment",
+        "family"
+      ]
+    },
+    {
+      "id": "insurance_agent_tom",
+      "name": "Tom Bradley",
+      "tier": 3,
+      "sector": "insurance",
+      "degree": 16,
+      "avg_trust": 0.476,
+      "power_over": [],
+      "power_under": [
+        "insurance_manager"
+      ],
+      "obligations": [
+        "housing",
+        "employment",
+        "family"
+      ]
+    },
+    {
+      "id": "insurance_agent_priya",
+      "name": "Priya Sharma",
+      "tier": 3,
+      "sector": "insurance",
+      "degree": 18,
+      "avg_trust": 0.47,
+      "power_over": [],
+      "power_under": [
+        "insurance_manager"
+      ],
+      "obligations": [
+        "housing",
+        "employment"
+      ]
+    },
+    {
+      "id": "loan_officer",
+      "name": "Kevin O'Brien",
+      "tier": 3,
+      "sector": "finance",
+      "degree": 15,
+      "avg_trust": 0.416,
+      "power_over": [],
+      "power_under": [
+        "bank_manager"
+      ],
+      "obligations": [
+        "housing",
+        "employment",
+        "family"
+      ]
+    },
+    {
+      "id": "diner_owner",
+      "name": "Betty Kowalski",
+      "tier": 4,
+      "sector": "food_service",
+      "degree": 17,
+      "avg_trust": 0.447,
+      "power_over": [],
+      "power_under": [],
+      "obligations": [
+        "housing",
+        "family"
+      ]
+    },
+    {
+      "id": "driving_instructor",
+      "name": "Frank Russo",
+      "tier": 4,
+      "sector": "education",
+      "degree": 17,
+      "avg_trust": 0.46,
+      "power_over": [],
+      "power_under": [],
+      "obligations": [
+        "housing",
+        "family"
+      ]
+    },
+    {
+      "id": "car_wash_worker",
+      "name": "Miguel Hernandez",
+      "tier": 4,
+      "sector": "service",
+      "degree": 13,
+      "avg_trust": 0.503,
+      "power_over": [],
+      "power_under": [
+        "mechanic_carlos",
+        "mechanic_sarah"
+      ],
+      "obligations": [
+        "employment"
+      ]
+    },
+    {
+      "id": "parking_garage_mgr",
+      "name": "Denise Williams",
+      "tier": 4,
+      "sector": "transport",
+      "degree": 13,
+      "avg_trust": 0.473,
+      "power_over": [],
+      "power_under": [],
+      "obligations": [
+        "housing",
+        "family"
+      ]
+    },
+    {
+      "id": "commuter_james",
+      "name": "James Patterson",
+      "tier": 4,
+      "sector": "tech",
+      "degree": 15,
+      "avg_trust": 0.416,
+      "power_over": [],
+      "power_under": [],
+      "obligations": [
+        "housing",
+        "family"
+      ]
+    },
+    {
+      "id": "commuter_rachel",
+      "name": "Rachel Green",
+      "tier": 4,
+      "sector": "marketing",
+      "degree": 16,
+      "avg_trust": 0.421,
+      "power_over": [],
+      "power_under": [],
+      "obligations": [
+        "housing"
+      ]
+    },
+    {
+      "id": "truck_owner",
+      "name": "Dale Cooper",
+      "tier": 4,
+      "sector": "construction",
+      "degree": 13,
+      "avg_trust": 0.441,
+      "power_over": [],
+      "power_under": [],
+      "obligations": [
+        "housing",
+        "family"
+      ]
+    },
+    {
+      "id": "retiree",
+      "name": "Dorothy Chen",
+      "tier": 4,
+      "sector": "retired",
+      "degree": 15,
+      "avg_trust": 0.456,
+      "power_over": [],
+      "power_under": [],
+      "obligations": [
+        "housing"
+      ]
+    },
+    {
+      "id": "young_gig_worker",
+      "name": "Zoe Martinez",
+      "tier": 4,
+      "sector": "service",
+      "degree": 18,
+      "avg_trust": 0.442,
+      "power_over": [],
+      "power_under": [
+        "mechanic_carlos",
+        "mechanic_sarah"
+      ],
+      "obligations": [
+        "employment"
+      ]
+    },
+    {
+      "id": "single_parent",
+      "name": "Nicole Washington",
+      "tier": 4,
+      "sector": "healthcare",
+      "degree": 15,
+      "avg_trust": 0.472,
+      "power_over": [],
+      "power_under": [],
+      "obligations": [
+        "housing",
+        "family"
+      ]
+    },
+    {
+      "id": "parts_store_owner",
+      "name": "Howard Liu",
+      "tier": 4,
+      "sector": "retail_auto",
+      "degree": 18,
+      "avg_trust": 0.496,
+      "power_over": [],
+      "power_under": [
+        "ceo_regional_auto",
+        "dealership_gm",
+        "hr_director",
+        "salesperson_jake",
+        "salesperson_tamika"
+      ],
+      "obligations": [
+        "housing",
+        "employment",
+        "family"
+      ]
+    },
+    {
+      "id": "rideshare_driver",
+      "name": "Robert Jackson",
+      "tier": 4,
+      "sector": "transport",
+      "degree": 15,
+      "avg_trust": 0.463,
+      "power_over": [],
+      "power_under": [],
+      "obligations": [
+        "housing",
+        "family"
+      ]
+    },
+    {
+      "id": "real_estate_agent",
+      "name": "Stephanie Morris",
+      "tier": 4,
+      "sector": "real_estate",
+      "degree": 15,
+      "avg_trust": 0.42,
+      "power_over": [],
+      "power_under": [],
+      "obligations": [
+        "housing",
+        "family"
+      ]
+    },
+    {
+      "id": "auto_shop_teacher",
+      "name": "Mark Thompson",
+      "tier": 4,
+      "sector": "education",
+      "degree": 10,
+      "avg_trust": 0.457,
+      "power_over": [],
+      "power_under": [],
+      "obligations": [
+        "housing",
+        "family"
+      ]
+    },
+    {
+      "id": "community_organizer",
+      "name": "Lisa Freeman",
+      "tier": 4,
+      "sector": "community",
+      "degree": 15,
+      "avg_trust": 0.451,
+      "power_over": [],
+      "power_under": [],
+      "obligations": [
+        "housing"
+      ]
+    },
+    {
+      "id": "uber_driver_2",
+      "name": "Grace Okafor",
+      "tier": 4,
+      "sector": "transport",
+      "degree": 11,
+      "avg_trust": 0.473,
+      "power_over": [],
+      "power_under": [],
+      "obligations": []
+    }
+  ],
+  "edges": [
+    {
+      "source": "auto_shop_teacher",
+      "target": "salesperson_jake",
+      "trust": 0.53,
+      "type": "professional",
+      "context": "Jake Morrison"
+    },
+    {
+      "source": "auto_shop_teacher",
+      "target": "mechanic_carlos",
+      "trust": 0.335,
+      "type": "professional",
+      "context": "Carlos Ruiz"
+    },
+    {
+      "source": "auto_shop_teacher",
+      "target": "mechanic_sarah",
+      "trust": 0.58,
+      "type": "professional",
+      "context": "Sarah Kim"
+    },
+    {
+      "source": "auto_shop_teacher",
+      "target": "driving_instructor",
+      "trust": 0.69,
+      "type": "colleague",
+      "context": "Frank Russo"
+    },
+    {
+      "source": "auto_shop_teacher",
+      "target": "young_gig_worker",
+      "trust": 0.48,
+      "type": "professional",
+      "context": "Zoe Martinez"
+    },
+    {
+      "source": "auto_shop_teacher",
+      "target": "parts_store_owner",
+      "trust": 0.415,
+      "type": "neighbor",
+      "context": "Howard Liu"
+    },
+    {
+      "source": "auto_shop_teacher",
+      "target": "community_organizer",
+      "trust": 0.46,
+      "type": "neighbor",
+      "context": "Lisa Freeman"
+    },
+    {
+      "source": "bank_manager",
+      "target": "ceo_regional_auto",
+      "trust": 0.275,
+      "type": "neighbor",
+      "context": "Patricia Hawkins"
+    },
+    {
+      "source": "bank_manager",
+      "target": "council_member",
+      "trust": 0.4,
+      "type": "professional",
+      "context": "Maria Santos"
+    },
+    {
+      "source": "bank_manager",
+      "target": "dealership_gm",
+      "trust": 0.33,
+      "type": "professional",
+      "context": "Rick Tanner"
+    },
+    {
+      "source": "bank_manager",
+      "target": "insurance_manager",
+      "trust": 0.43,
+      "type": "professional",
+      "context": "Linda Park"
+    },
+    {
+      "source": "bank_manager",
+      "target": "loan_officer",
+      "trust": 0.545,
+      "type": "colleague",
+      "context": "Kevin O'Brien"
+    },
+    {
+      "source": "bank_manager",
+      "target": "young_gig_worker",
+      "trust": 0.29,
+      "type": "neighbor",
+      "context": "Zoe Martinez"
+    },
+    {
+      "source": "car_wash_worker",
+      "target": "salesperson_jake",
+      "trust": 0.44,
+      "type": "professional",
+      "context": "Jake Morrison"
+    },
+    {
+      "source": "car_wash_worker",
+      "target": "mechanic_carlos",
+      "trust": 0.64,
+      "type": "colleague",
+      "context": "Carlos Ruiz"
+    },
+    {
+      "source": "car_wash_worker",
+      "target": "mechanic_sarah",
+      "trust": 0.68,
+      "type": "colleague",
+      "context": "Sarah Kim"
+    },
+    {
+      "source": "car_wash_worker",
+      "target": "diner_owner",
+      "trust": 0.32,
+      "type": "professional",
+      "context": "Betty Kowalski"
+    },
+    {
+      "source": "car_wash_worker",
+      "target": "commuter_james",
+      "trust": 0.39,
+      "type": "neighbor",
+      "context": "James Patterson"
+    },
+    {
+      "source": "car_wash_worker",
+      "target": "retiree",
+      "trust": 0.55,
+      "type": "professional",
+      "context": "Dorothy Chen"
+    },
+    {
+      "source": "car_wash_worker",
+      "target": "young_gig_worker",
+      "trust": 0.7,
+      "type": "colleague",
+      "context": "Zoe Martinez"
+    },
+    {
+      "source": "car_wash_worker",
+      "target": "real_estate_agent",
+      "trust": 0.45,
+      "type": "professional",
+      "context": "Stephanie Morris"
+    },
+    {
+      "source": "ceo_regional_auto",
+      "target": "council_member",
+      "trust": 0.495,
+      "type": "professional",
+      "context": "Maria Santos"
+    },
+    {
+      "source": "ceo_regional_auto",
+      "target": "dealership_gm",
+      "trust": 0.745,
+      "type": "colleague",
+      "context": "Rick Tanner"
+    },
+    {
+      "source": "ceo_regional_auto",
+      "target": "insurance_manager",
+      "trust": 0.33,
+      "type": "neighbor",
+      "context": "Linda Park"
+    },
+    {
+      "source": "ceo_regional_auto",
+      "target": "hr_director",
+      "trust": 0.54,
+      "type": "colleague",
+      "context": "Angela Wright"
+    },
+    {
+      "source": "ceo_regional_auto",
+      "target": "salesperson_jake",
+      "trust": 0.73,
+      "type": "colleague",
+      "context": "Jake Morrison"
+    },
+    {
+      "source": "ceo_regional_auto",
+      "target": "salesperson_tamika",
+      "trust": 0.64,
+      "type": "colleague",
+      "context": "Tamika Jefferson"
+    },
+    {
+      "source": "ceo_regional_auto",
+      "target": "mechanic_carlos",
+      "trust": 0.26,
+      "type": "neighbor",
+      "context": "Carlos Ruiz"
+    },
+    {
+      "source": "ceo_regional_auto",
+      "target": "diner_owner",
+      "trust": 0.385,
+      "type": "neighbor",
+      "context": "Betty Kowalski"
+    },
+    {
+      "source": "ceo_regional_auto",
+      "target": "truck_owner",
+      "trust": 0.23,
+      "type": "neighbor",
+      "context": "Dale Cooper"
+    },
+    {
+      "source": "ceo_regional_auto",
+      "target": "parts_store_owner",
+      "trust": 0.72,
+      "type": "colleague",
+      "context": "Howard Liu"
+    },
+    {
+      "source": "community_organizer",
+      "target": "salesperson_tamika",
+      "trust": 0.32,
+      "type": "professional",
+      "context": "Tamika Jefferson"
+    },
+    {
+      "source": "community_organizer",
+      "target": "driving_instructor",
+      "trust": 0.52,
+      "type": "professional",
+      "context": "Frank Russo"
+    },
+    {
+      "source": "community_organizer",
+      "target": "commuter_james",
+      "trust": 0.43,
+      "type": "professional",
+      "context": "James Patterson"
+    },
+    {
+      "source": "community_organizer",
+      "target": "retiree",
+      "trust": 0.56,
+      "type": "professional",
+      "context": "Dorothy Chen"
+    },
+    {
+      "source": "community_organizer",
+      "target": "single_parent",
+      "trust": 0.4,
+      "type": "neighbor",
+      "context": "Nicole Washington"
+    },
+    {
+      "source": "community_organizer",
+      "target": "rideshare_driver",
+      "trust": 0.36,
+      "type": "neighbor",
+      "context": "Robert Jackson"
+    },
+    {
+      "source": "commuter_james",
+      "target": "mechanic_carlos",
+      "trust": 0.43,
+      "type": "neighbor",
+      "context": "Carlos Ruiz"
+    },
+    {
+      "source": "commuter_james",
+      "target": "mechanic_sarah",
+      "trust": 0.5,
+      "type": "professional",
+      "context": "Sarah Kim"
+    },
+    {
+      "source": "commuter_james",
+      "target": "insurance_agent_priya",
+      "trust": 0.42,
+      "type": "professional",
+      "context": "Priya Sharma"
+    },
+    {
+      "source": "commuter_james",
+      "target": "loan_officer",
+      "trust": 0.34,
+      "type": "professional",
+      "context": "Kevin O'Brien"
+    },
+    {
+      "source": "commuter_james",
+      "target": "driving_instructor",
+      "trust": 0.41,
+      "type": "professional",
+      "context": "Frank Russo"
+    },
+    {
+      "source": "commuter_james",
+      "target": "single_parent",
+      "trust": 0.21,
+      "type": "neighbor",
+      "context": "Nicole Washington"
+    },
+    {
+      "source": "commuter_james",
+      "target": "parts_store_owner",
+      "trust": 0.6,
+      "type": "professional",
+      "context": "Howard Liu"
+    },
+    {
+      "source": "commuter_james",
+      "target": "rideshare_driver",
+      "trust": 0.43,
+      "type": "professional",
+      "context": "Robert Jackson"
+    },
+    {
+      "source": "commuter_rachel",
+      "target": "salesperson_jake",
+      "trust": 0.41,
+      "type": "professional",
+      "context": "Jake Morrison"
+    },
+    {
+      "source": "commuter_rachel",
+      "target": "mechanic_sarah",
+      "trust": 0.35,
+      "type": "professional",
+      "context": "Sarah Kim"
+    },
+    {
+      "source": "commuter_rachel",
+      "target": "insurance_agent_tom",
+      "trust": 0.26,
+      "type": "neighbor",
+      "context": "Tom Bradley"
+    },
+    {
+      "source": "commuter_rachel",
+      "target": "loan_officer",
+      "trust": 0.4,
+      "type": "professional",
+      "context": "Kevin O'Brien"
+    },
+    {
+      "source": "commuter_rachel",
+      "target": "driving_instructor",
+      "trust": 0.55,
+      "type": "professional",
+      "context": "Frank Russo"
+    },
+    {
+      "source": "commuter_rachel",
+      "target": "single_parent",
+      "trust": 0.56,
+      "type": "professional",
+      "context": "Nicole Washington"
+    },
+    {
+      "source": "commuter_rachel",
+      "target": "parts_store_owner",
+      "trust": 0.41,
+      "type": "professional",
+      "context": "Howard Liu"
+    },
+    {
+      "source": "commuter_rachel",
+      "target": "real_estate_agent",
+      "trust": 0.435,
+      "type": "professional",
+      "context": "Stephanie Morris"
+    },
+    {
+      "source": "auto_shop_teacher",
+      "target": "commuter_rachel",
+      "trust": 0.43,
+      "type": "professional",
+      "context": "Mark Thompson"
+    },
+    {
+      "source": "community_organizer",
+      "target": "commuter_rachel",
+      "trust": 0.32,
+      "type": "professional",
+      "context": "Lisa Freeman"
+    },
+    {
+      "source": "council_member",
+      "target": "insurance_manager",
+      "trust": 0.6,
+      "type": "professional",
+      "context": "Linda Park"
+    },
+    {
+      "source": "council_member",
+      "target": "hr_director",
+      "trust": 0.21,
+      "type": "neighbor",
+      "context": "Angela Wright"
+    },
+    {
+      "source": "council_member",
+      "target": "salesperson_jake",
+      "trust": 0.39,
+      "type": "neighbor",
+      "context": "Jake Morrison"
+    },
+    {
+      "source": "council_member",
+      "target": "mechanic_sarah",
+      "trust": 0.37,
+      "type": "neighbor",
+      "context": "Sarah Kim"
+    },
+    {
+      "source": "council_member",
+      "target": "diner_owner",
+      "trust": 0.42,
+      "type": "neighbor",
+      "context": "Betty Kowalski"
+    },
+    {
+      "source": "commuter_rachel",
+      "target": "council_member",
+      "trust": 0.33,
+      "type": "neighbor",
+      "context": "Rachel Green"
+    },
+    {
+      "source": "council_member",
+      "target": "dealership_gm",
+      "trust": 0.4,
+      "type": "professional",
+      "context": "Maria Santos"
+    },
+    {
+      "source": "dealership_gm",
+      "target": "insurance_manager",
+      "trust": 0.58,
+      "type": "professional",
+      "context": "Linda Park"
+    },
+    {
+      "source": "dealership_gm",
+      "target": "hr_director",
+      "trust": 0.73,
+      "type": "colleague",
+      "context": "Angela Wright"
+    },
+    {
+      "source": "dealership_gm",
+      "target": "salesperson_jake",
+      "trust": 0.78,
+      "type": "colleague",
+      "context": "Jake Morrison"
+    },
+    {
+      "source": "dealership_gm",
+      "target": "salesperson_tamika",
+      "trust": 0.735,
+      "type": "colleague",
+      "context": "Tamika Jefferson"
+    },
+    {
+      "source": "dealership_gm",
+      "target": "mechanic_carlos",
+      "trust": 0.56,
+      "type": "professional",
+      "context": "Carlos Ruiz"
+    },
+    {
+      "source": "dealership_gm",
+      "target": "mechanic_sarah",
+      "trust": 0.34,
+      "type": "neighbor",
+      "context": "Sarah Kim"
+    },
+    {
+      "source": "dealership_gm",
+      "target": "gas_station_owner",
+      "trust": 0.53,
+      "type": "professional",
+      "context": "Amir Patel"
+    },
+    {
+      "source": "dealership_gm",
+      "target": "loan_officer",
+      "trust": 0.56,
+      "type": "professional",
+      "context": "Kevin O'Brien"
+    },
+    {
+      "source": "dealership_gm",
+      "target": "parts_store_owner",
+      "trust": 0.595,
+      "type": "colleague",
+      "context": "Howard Liu"
+    },
+    {
+      "source": "dealership_gm",
+      "target": "diner_owner",
+      "trust": 0.49,
+      "type": "neighbor",
+      "context": "Rick Tanner"
+    },
+    {
+      "source": "diner_owner",
+      "target": "mechanic_carlos",
+      "trust": 0.53,
+      "type": "professional",
+      "context": "Carlos Ruiz"
+    },
+    {
+      "source": "diner_owner",
+      "target": "insurance_agent_priya",
+      "trust": 0.38,
+      "type": "neighbor",
+      "context": "Priya Sharma"
+    },
+    {
+      "source": "diner_owner",
+      "target": "real_estate_agent",
+      "trust": 0.515,
+      "type": "professional",
+      "context": "Stephanie Morris"
+    },
+    {
+      "source": "bank_manager",
+      "target": "driving_instructor",
+      "trust": 0.5,
+      "type": "neighbor",
+      "context": "David Chen"
+    },
+    {
+      "source": "driving_instructor",
+      "target": "insurance_manager",
+      "trust": 0.45,
+      "type": "neighbor",
+      "context": "Linda Park"
+    },
+    {
+      "source": "driving_instructor",
+      "target": "salesperson_tamika",
+      "trust": 0.55,
+      "type": "professional",
+      "context": "Tamika Jefferson"
+    },
+    {
+      "source": "driving_instructor",
+      "target": "insurance_agent_priya",
+      "trust": 0.54,
+      "type": "professional",
+      "context": "Priya Sharma"
+    },
+    {
+      "source": "car_wash_worker",
+      "target": "driving_instructor",
+      "trust": 0.39,
+      "type": "professional",
+      "context": "Miguel Hernandez"
+    },
+    {
+      "source": "driving_instructor",
+      "target": "young_gig_worker",
+      "trust": 0.51,
+      "type": "professional",
+      "context": "Zoe Martinez"
+    },
+    {
+      "source": "driving_instructor",
+      "target": "parts_store_owner",
+      "trust": 0.42,
+      "type": "neighbor",
+      "context": "Howard Liu"
+    },
+    {
+      "source": "driving_instructor",
+      "target": "uber_driver_2",
+      "trust": 0.45,
+      "type": "professional",
+      "context": "Grace Okafor"
+    },
+    {
+      "source": "gas_station_owner",
+      "target": "hr_director",
+      "trust": 0.33,
+      "type": "professional",
+      "context": "Angela Wright"
+    },
+    {
+      "source": "gas_station_owner",
+      "target": "salesperson_jake",
+      "trust": 0.3,
+      "type": "neighbor",
+      "context": "Jake Morrison"
+    },
+    {
+      "source": "gas_station_owner",
+      "target": "mechanic_carlos",
+      "trust": 0.44,
+      "type": "professional",
+      "context": "Carlos Ruiz"
+    },
+    {
+      "source": "gas_station_owner",
+      "target": "mechanic_sarah",
+      "trust": 0.49,
+      "type": "professional",
+      "context": "Sarah Kim"
+    },
+    {
+      "source": "gas_station_owner",
+      "target": "insurance_agent_tom",
+      "trust": 0.42,
+      "type": "professional",
+      "context": "Tom Bradley"
+    },
+    {
+      "source": "gas_station_owner",
+      "target": "insurance_agent_priya",
+      "trust": 0.39,
+      "type": "neighbor",
+      "context": "Priya Sharma"
+    },
+    {
+      "source": "gas_station_owner",
+      "target": "loan_officer",
+      "trust": 0.44,
+      "type": "professional",
+      "context": "Kevin O'Brien"
+    },
+    {
+      "source": "diner_owner",
+      "target": "gas_station_owner",
+      "trust": 0.41,
+      "type": "professional",
+      "context": "Betty Kowalski"
+    },
+    {
+      "source": "driving_instructor",
+      "target": "gas_station_owner",
+      "trust": 0.4,
+      "type": "professional",
+      "context": "Frank Russo"
+    },
+    {
+      "source": "commuter_james",
+      "target": "gas_station_owner",
+      "trust": 0.32,
+      "type": "professional",
+      "context": "James Patterson"
+    },
+    {
+      "source": "commuter_rachel",
+      "target": "gas_station_owner",
+      "trust": 0.46,
+      "type": "professional",
+      "context": "Rachel Green"
+    },
+    {
+      "source": "gas_station_owner",
+      "target": "parts_store_owner",
+      "trust": 0.35,
+      "type": "professional",
+      "context": "Howard Liu"
+    },
+    {
+      "source": "gas_station_owner",
+      "target": "rideshare_driver",
+      "trust": 0.5,
+      "type": "professional",
+      "context": "Robert Jackson"
+    },
+    {
+      "source": "community_organizer",
+      "target": "gas_station_owner",
+      "trust": 0.48,
+      "type": "professional",
+      "context": "Lisa Freeman"
+    },
+    {
+      "source": "gas_station_owner",
+      "target": "uber_driver_2",
+      "trust": 0.45,
+      "type": "neighbor",
+      "context": "Grace Okafor"
+    },
+    {
+      "source": "bank_manager",
+      "target": "hr_director",
+      "trust": 0.42,
+      "type": "professional",
+      "context": "David Chen"
+    },
+    {
+      "source": "hr_director",
+      "target": "salesperson_jake",
+      "trust": 0.755,
+      "type": "colleague",
+      "context": "Jake Morrison"
+    },
+    {
+      "source": "hr_director",
+      "target": "salesperson_tamika",
+      "trust": 0.66,
+      "type": "colleague",
+      "context": "Tamika Jefferson"
+    },
+    {
+      "source": "hr_director",
+      "target": "mechanic_sarah",
+      "trust": 0.295,
+      "type": "professional",
+      "context": "Sarah Kim"
+    },
+    {
+      "source": "hr_director",
+      "target": "insurance_agent_tom",
+      "trust": 0.44,
+      "type": "professional",
+      "context": "Tom Bradley"
+    },
+    {
+      "source": "hr_director",
+      "target": "loan_officer",
+      "trust": 0.45,
+      "type": "professional",
+      "context": "Kevin O'Brien"
+    },
+    {
+      "source": "driving_instructor",
+      "target": "hr_director",
+      "trust": 0.22,
+      "type": "neighbor",
+      "context": "Frank Russo"
+    },
+    {
+      "source": "hr_director",
+      "target": "retiree",
+      "trust": 0.22,
+      "type": "neighbor",
+      "context": "Dorothy Chen"
+    },
+    {
+      "source": "hr_director",
+      "target": "parts_store_owner",
+      "trust": 0.725,
+      "type": "colleague",
+      "context": "Howard Liu"
+    },
+    {
+      "source": "insurance_agent_priya",
+      "target": "insurance_manager",
+      "trust": 0.74,
+      "type": "colleague",
+      "context": "Linda Park"
+    },
+    {
+      "source": "hr_director",
+      "target": "insurance_agent_priya",
+      "trust": 0.37,
+      "type": "professional",
+      "context": "Angela Wright"
+    },
+    {
+      "source": "insurance_agent_priya",
+      "target": "insurance_agent_tom",
+      "trust": 0.65,
+      "type": "colleague",
+      "context": "Tom Bradley"
+    },
+    {
+      "source": "insurance_agent_priya",
+      "target": "loan_officer",
+      "trust": 0.43,
+      "type": "professional",
+      "context": "Kevin O'Brien"
+    },
+    {
+      "source": "car_wash_worker",
+      "target": "insurance_agent_priya",
+      "trust": 0.45,
+      "type": "professional",
+      "context": "Miguel Hernandez"
+    },
+    {
+      "source": "commuter_rachel",
+      "target": "insurance_agent_priya",
+      "trust": 0.36,
+      "type": "professional",
+      "context": "Rachel Green"
+    },
+    {
+      "source": "insurance_agent_priya",
+      "target": "truck_owner",
+      "trust": 0.35,
+      "type": "professional",
+      "context": "Dale Cooper"
+    },
+    {
+      "source": "insurance_agent_priya",
+      "target": "retiree",
+      "trust": 0.47,
+      "type": "professional",
+      "context": "Dorothy Chen"
+    },
+    {
+      "source": "insurance_agent_priya",
+      "target": "young_gig_worker",
+      "trust": 0.575,
+      "type": "professional",
+      "context": "Zoe Martinez"
+    },
+    {
+      "source": "insurance_agent_priya",
+      "target": "parts_store_owner",
+      "trust": 0.56,
+      "type": "professional",
+      "context": "Howard Liu"
+    },
+    {
+      "source": "community_organizer",
+      "target": "insurance_agent_priya",
+      "trust": 0.58,
+      "type": "professional",
+      "context": "Lisa Freeman"
+    },
+    {
+      "source": "insurance_agent_tom",
+      "target": "insurance_manager",
+      "trust": 0.535,
+      "type": "colleague",
+      "context": "Linda Park"
+    },
+    {
+      "source": "insurance_agent_tom",
+      "target": "salesperson_jake",
+      "trust": 0.53,
+      "type": "professional",
+      "context": "Jake Morrison"
+    },
+    {
+      "source": "insurance_agent_tom",
+      "target": "mechanic_carlos",
+      "trust": 0.6,
+      "type": "professional",
+      "context": "Carlos Ruiz"
+    },
+    {
+      "source": "diner_owner",
+      "target": "insurance_agent_tom",
+      "trust": 0.49,
+      "type": "neighbor",
+      "context": "Betty Kowalski"
+    },
+    {
+      "source": "commuter_james",
+      "target": "insurance_agent_tom",
+      "trust": 0.54,
+      "type": "professional",
+      "context": "James Patterson"
+    },
+    {
+      "source": "insurance_agent_tom",
+      "target": "retiree",
+      "trust": 0.56,
+      "type": "professional",
+      "context": "Dorothy Chen"
+    },
+    {
+      "source": "insurance_agent_tom",
+      "target": "young_gig_worker",
+      "trust": 0.46,
+      "type": "neighbor",
+      "context": "Zoe Martinez"
+    },
+    {
+      "source": "insurance_agent_tom",
+      "target": "single_parent",
+      "trust": 0.44,
+      "type": "professional",
+      "context": "Nicole Washington"
+    },
+    {
+      "source": "insurance_agent_tom",
+      "target": "rideshare_driver",
+      "trust": 0.56,
+      "type": "professional",
+      "context": "Robert Jackson"
+    },
+    {
+      "source": "insurance_agent_tom",
+      "target": "real_estate_agent",
+      "trust": 0.325,
+      "type": "professional",
+      "context": "Stephanie Morris"
+    },
+    {
+      "source": "insurance_agent_tom",
+      "target": "uber_driver_2",
+      "trust": 0.32,
+      "type": "professional",
+      "context": "Grace Okafor"
+    },
+    {
+      "source": "insurance_manager",
+      "target": "salesperson_tamika",
+      "trust": 0.33,
+      "type": "professional",
+      "context": "Tamika Jefferson"
+    },
+    {
+      "source": "insurance_manager",
+      "target": "parts_store_owner",
+      "trust": 0.5,
+      "type": "neighbor",
+      "context": "Howard Liu"
+    },
+    {
+      "source": "insurance_manager",
+      "target": "loan_officer",
+      "trust": 0.43,
+      "type": "neighbor",
+      "context": "Linda Park"
+    },
+    {
+      "source": "loan_officer",
+      "target": "salesperson_jake",
+      "trust": 0.46,
+      "type": "professional",
+      "context": "Jake Morrison"
+    },
+    {
+      "source": "diner_owner",
+      "target": "loan_officer",
+      "trust": 0.35,
+      "type": "professional",
+      "context": "Betty Kowalski"
+    },
+    {
+      "source": "driving_instructor",
+      "target": "loan_officer",
+      "trust": 0.3,
+      "type": "professional",
+      "context": "Frank Russo"
+    },
+    {
+      "source": "loan_officer",
+      "target": "parking_garage_mgr",
+      "trust": 0.37,
+      "type": "professional",
+      "context": "Denise Williams"
+    },
+    {
+      "source": "loan_officer",
+      "target": "rideshare_driver",
+      "trust": 0.35,
+      "type": "professional",
+      "context": "Robert Jackson"
+    },
+    {
+      "source": "community_organizer",
+      "target": "loan_officer",
+      "trust": 0.51,
+      "type": "professional",
+      "context": "Lisa Freeman"
+    },
+    {
+      "source": "council_member",
+      "target": "mechanic_carlos",
+      "trust": 0.48,
+      "type": "neighbor",
+      "context": "Maria Santos"
+    },
+    {
+      "source": "hr_director",
+      "target": "mechanic_carlos",
+      "trust": 0.4,
+      "type": "neighbor",
+      "context": "Angela Wright"
+    },
+    {
+      "source": "mechanic_carlos",
+      "target": "mechanic_sarah",
+      "trust": 0.76,
+      "type": "colleague",
+      "context": "Sarah Kim"
+    },
+    {
+      "source": "insurance_agent_priya",
+      "target": "mechanic_carlos",
+      "trust": 0.43,
+      "type": "professional",
+      "context": "Priya Sharma"
+    },
+    {
+      "source": "mechanic_carlos",
+      "target": "parking_garage_mgr",
+      "trust": 0.49,
+      "type": "professional",
+      "context": "Denise Williams"
+    },
+    {
+      "source": "mechanic_carlos",
+      "target": "truck_owner",
+      "trust": 0.475,
+      "type": "professional",
+      "context": "Dale Cooper"
+    },
+    {
+      "source": "mechanic_carlos",
+      "target": "young_gig_worker",
+      "trust": 0.57,
+      "type": "colleague",
+      "context": "Zoe Martinez"
+    },
+    {
+      "source": "mechanic_carlos",
+      "target": "single_parent",
+      "trust": 0.45,
+      "type": "professional",
+      "context": "Nicole Washington"
+    },
+    {
+      "source": "community_organizer",
+      "target": "mechanic_carlos",
+      "trust": 0.44,
+      "type": "professional",
+      "context": "Lisa Freeman"
+    },
+    {
+      "source": "mechanic_carlos",
+      "target": "uber_driver_2",
+      "trust": 0.32,
+      "type": "neighbor",
+      "context": "Grace Okafor"
+    },
+    {
+      "source": "insurance_manager",
+      "target": "mechanic_sarah",
+      "trust": 0.59,
+      "type": "professional",
+      "context": "Linda Park"
+    },
+    {
+      "source": "mechanic_sarah",
+      "target": "truck_owner",
+      "trust": 0.38,
+      "type": "professional",
+      "context": "Dale Cooper"
+    },
+    {
+      "source": "mechanic_sarah",
+      "target": "young_gig_worker",
+      "trust": 0.605,
+      "type": "colleague",
+      "context": "Zoe Martinez"
+    },
+    {
+      "source": "mechanic_sarah",
+      "target": "single_parent",
+      "trust": 0.51,
+      "type": "professional",
+      "context": "Nicole Washington"
+    },
+    {
+      "source": "mechanic_sarah",
+      "target": "parts_store_owner",
+      "trust": 0.42,
+      "type": "neighbor",
+      "context": "Howard Liu"
+    },
+    {
+      "source": "mechanic_sarah",
+      "target": "real_estate_agent",
+      "trust": 0.49,
+      "type": "professional",
+      "context": "Stephanie Morris"
+    },
+    {
+      "source": "bank_manager",
+      "target": "parking_garage_mgr",
+      "trust": 0.44,
+      "type": "neighbor",
+      "context": "David Chen"
+    },
+    {
+      "source": "mechanic_sarah",
+      "target": "parking_garage_mgr",
+      "trust": 0.42,
+      "type": "professional",
+      "context": "Sarah Kim"
+    },
+    {
+      "source": "diner_owner",
+      "target": "parking_garage_mgr",
+      "trust": 0.47,
+      "type": "professional",
+      "context": "Betty Kowalski"
+    },
+    {
+      "source": "car_wash_worker",
+      "target": "parking_garage_mgr",
+      "trust": 0.48,
+      "type": "professional",
+      "context": "Miguel Hernandez"
+    },
+    {
+      "source": "commuter_rachel",
+      "target": "parking_garage_mgr",
+      "trust": 0.54,
+      "type": "professional",
+      "context": "Rachel Green"
+    },
+    {
+      "source": "parking_garage_mgr",
+      "target": "rideshare_driver",
+      "trust": 0.66,
+      "type": "colleague",
+      "context": "Robert Jackson"
+    },
+    {
+      "source": "community_organizer",
+      "target": "parking_garage_mgr",
+      "trust": 0.39,
+      "type": "professional",
+      "context": "Lisa Freeman"
+    },
+    {
+      "source": "parking_garage_mgr",
+      "target": "uber_driver_2",
+      "trust": 0.755,
+      "type": "colleague",
+      "context": "Grace Okafor"
+    },
+    {
+      "source": "parts_store_owner",
+      "target": "salesperson_jake",
+      "trust": 0.66,
+      "type": "colleague",
+      "context": "Jake Morrison"
+    },
+    {
+      "source": "parts_store_owner",
+      "target": "salesperson_tamika",
+      "trust": 0.54,
+      "type": "colleague",
+      "context": "Tamika Jefferson"
+    },
+    {
+      "source": "mechanic_carlos",
+      "target": "parts_store_owner",
+      "trust": 0.5,
+      "type": "professional",
+      "context": "Carlos Ruiz"
+    },
+    {
+      "source": "parts_store_owner",
+      "target": "single_parent",
+      "trust": 0.58,
+      "type": "professional",
+      "context": "Nicole Washington"
+    },
+    {
+      "source": "parts_store_owner",
+      "target": "real_estate_agent",
+      "trust": 0.32,
+      "type": "professional",
+      "context": "Stephanie Morris"
+    },
+    {
+      "source": "parts_store_owner",
+      "target": "uber_driver_2",
+      "trust": 0.395,
+      "type": "professional",
+      "context": "Grace Okafor"
+    },
+    {
+      "source": "mechanic_carlos",
+      "target": "real_estate_agent",
+      "trust": 0.32,
+      "type": "professional",
+      "context": "Carlos Ruiz"
+    },
+    {
+      "source": "insurance_agent_priya",
+      "target": "real_estate_agent",
+      "trust": 0.33,
+      "type": "neighbor",
+      "context": "Priya Sharma"
+    },
+    {
+      "source": "driving_instructor",
+      "target": "real_estate_agent",
+      "trust": 0.35,
+      "type": "neighbor",
+      "context": "Frank Russo"
+    },
+    {
+      "source": "commuter_james",
+      "target": "real_estate_agent",
+      "trust": 0.42,
+      "type": "professional",
+      "context": "James Patterson"
+    },
+    {
+      "source": "real_estate_agent",
+      "target": "truck_owner",
+      "trust": 0.46,
+      "type": "professional",
+      "context": "Dale Cooper"
+    },
+    {
+      "source": "real_estate_agent",
+      "target": "rideshare_driver",
+      "trust": 0.49,
+      "type": "professional",
+      "context": "Robert Jackson"
+    },
+    {
+      "source": "retiree",
+      "target": "salesperson_tamika",
+      "trust": 0.52,
+      "type": "professional",
+      "context": "Tamika Jefferson"
+    },
+    {
+      "source": "diner_owner",
+      "target": "retiree",
+      "trust": 0.51,
+      "type": "professional",
+      "context": "Betty Kowalski"
+    },
+    {
+      "source": "commuter_james",
+      "target": "retiree",
+      "trust": 0.49,
+      "type": "professional",
+      "context": "James Patterson"
+    },
+    {
+      "source": "commuter_rachel",
+      "target": "retiree",
+      "trust": 0.52,
+      "type": "professional",
+      "context": "Rachel Green"
+    },
+    {
+      "source": "retiree",
+      "target": "truck_owner",
+      "trust": 0.43,
+      "type": "professional",
+      "context": "Dale Cooper"
+    },
+    {
+      "source": "parts_store_owner",
+      "target": "retiree",
+      "trust": 0.22,
+      "type": "neighbor",
+      "context": "Howard Liu"
+    },
+    {
+      "source": "retiree",
+      "target": "rideshare_driver",
+      "trust": 0.49,
+      "type": "professional",
+      "context": "Robert Jackson"
+    },
+    {
+      "source": "retiree",
+      "target": "uber_driver_2",
+      "trust": 0.325,
+      "type": "neighbor",
+      "context": "Grace Okafor"
+    },
+    {
+      "source": "rideshare_driver",
+      "target": "salesperson_tamika",
+      "trust": 0.43,
+      "type": "professional",
+      "context": "Tamika Jefferson"
+    },
+    {
+      "source": "mechanic_carlos",
+      "target": "rideshare_driver",
+      "trust": 0.52,
+      "type": "professional",
+      "context": "Carlos Ruiz"
+    },
+    {
+      "source": "diner_owner",
+      "target": "rideshare_driver",
+      "trust": 0.41,
+      "type": "professional",
+      "context": "Betty Kowalski"
+    },
+    {
+      "source": "rideshare_driver",
+      "target": "truck_owner",
+      "trust": 0.39,
+      "type": "professional",
+      "context": "Dale Cooper"
+    },
+    {
+      "source": "auto_shop_teacher",
+      "target": "rideshare_driver",
+      "trust": 0.22,
+      "type": "neighbor",
+      "context": "Mark Thompson"
+    },
+    {
+      "source": "rideshare_driver",
+      "target": "uber_driver_2",
+      "trust": 0.82,
+      "type": "colleague",
+      "context": "Grace Okafor"
+    },
+    {
+      "source": "insurance_manager",
+      "target": "salesperson_jake",
+      "trust": 0.46,
+      "type": "professional",
+      "context": "Linda Park"
+    },
+    {
+      "source": "salesperson_jake",
+      "target": "salesperson_tamika",
+      "trust": 0.71,
+      "type": "colleague",
+      "context": "Tamika Jefferson"
+    },
+    {
+      "source": "mechanic_carlos",
+      "target": "salesperson_jake",
+      "trust": 0.27,
+      "type": "neighbor",
+      "context": "Carlos Ruiz"
+    },
+    {
+      "source": "mechanic_sarah",
+      "target": "salesperson_jake",
+      "trust": 0.43,
+      "type": "professional",
+      "context": "Sarah Kim"
+    },
+    {
+      "source": "diner_owner",
+      "target": "salesperson_jake",
+      "trust": 0.56,
+      "type": "professional",
+      "context": "Betty Kowalski"
+    },
+    {
+      "source": "driving_instructor",
+      "target": "salesperson_jake",
+      "trust": 0.57,
+      "type": "professional",
+      "context": "Frank Russo"
+    },
+    {
+      "source": "parking_garage_mgr",
+      "target": "salesperson_jake",
+      "trust": 0.36,
+      "type": "professional",
+      "context": "Denise Williams"
+    },
+    {
+      "source": "salesperson_jake",
+      "target": "truck_owner",
+      "trust": 0.535,
+      "type": "professional",
+      "context": "Dale Cooper"
+    },
+    {
+      "source": "retiree",
+      "target": "salesperson_jake",
+      "trust": 0.49,
+      "type": "professional",
+      "context": "Dorothy Chen"
+    },
+    {
+      "source": "salesperson_jake",
+      "target": "young_gig_worker",
+      "trust": 0.34,
+      "type": "neighbor",
+      "context": "Zoe Martinez"
+    },
+    {
+      "source": "salesperson_jake",
+      "target": "single_parent",
+      "trust": 0.59,
+      "type": "professional",
+      "context": "Nicole Washington"
+    },
+    {
+      "source": "real_estate_agent",
+      "target": "salesperson_jake",
+      "trust": 0.48,
+      "type": "neighbor",
+      "context": "Stephanie Morris"
+    },
+    {
+      "source": "community_organizer",
+      "target": "salesperson_jake",
+      "trust": 0.41,
+      "type": "professional",
+      "context": "Lisa Freeman"
+    },
+    {
+      "source": "council_member",
+      "target": "salesperson_tamika",
+      "trust": 0.43,
+      "type": "neighbor",
+      "context": "Maria Santos"
+    },
+    {
+      "source": "gas_station_owner",
+      "target": "salesperson_tamika",
+      "trust": 0.52,
+      "type": "professional",
+      "context": "Amir Patel"
+    },
+    {
+      "source": "diner_owner",
+      "target": "salesperson_tamika",
+      "trust": 0.46,
+      "type": "neighbor",
+      "context": "Betty Kowalski"
+    },
+    {
+      "source": "commuter_james",
+      "target": "salesperson_tamika",
+      "trust": 0.31,
+      "type": "professional",
+      "context": "James Patterson"
+    },
+    {
+      "source": "commuter_rachel",
+      "target": "salesperson_tamika",
+      "trust": 0.4,
+      "type": "professional",
+      "context": "Rachel Green"
+    },
+    {
+      "source": "auto_shop_teacher",
+      "target": "salesperson_tamika",
+      "trust": 0.43,
+      "type": "professional",
+      "context": "Mark Thompson"
+    },
+    {
+      "source": "insurance_agent_priya",
+      "target": "single_parent",
+      "trust": 0.43,
+      "type": "professional",
+      "context": "Priya Sharma"
+    },
+    {
+      "source": "diner_owner",
+      "target": "single_parent",
+      "trust": 0.45,
+      "type": "professional",
+      "context": "Betty Kowalski"
+    },
+    {
+      "source": "car_wash_worker",
+      "target": "single_parent",
+      "trust": 0.55,
+      "type": "professional",
+      "context": "Miguel Hernandez"
+    },
+    {
+      "source": "parking_garage_mgr",
+      "target": "single_parent",
+      "trust": 0.56,
+      "type": "professional",
+      "context": "Denise Williams"
+    },
+    {
+      "source": "rideshare_driver",
+      "target": "single_parent",
+      "trust": 0.32,
+      "type": "professional",
+      "context": "Robert Jackson"
+    },
+    {
+      "source": "real_estate_agent",
+      "target": "single_parent",
+      "trust": 0.57,
+      "type": "professional",
+      "context": "Stephanie Morris"
+    },
+    {
+      "source": "single_parent",
+      "target": "uber_driver_2",
+      "trust": 0.46,
+      "type": "professional",
+      "context": "Grace Okafor"
+    },
+    {
+      "source": "insurance_agent_tom",
+      "target": "truck_owner",
+      "trust": 0.49,
+      "type": "professional",
+      "context": "Tom Bradley"
+    },
+    {
+      "source": "diner_owner",
+      "target": "truck_owner",
+      "trust": 0.45,
+      "type": "professional",
+      "context": "Betty Kowalski"
+    },
+    {
+      "source": "car_wash_worker",
+      "target": "truck_owner",
+      "trust": 0.5,
+      "type": "professional",
+      "context": "Miguel Hernandez"
+    },
+    {
+      "source": "community_organizer",
+      "target": "truck_owner",
+      "trust": 0.59,
+      "type": "professional",
+      "context": "Lisa Freeman"
+    },
+    {
+      "source": "salesperson_tamika",
+      "target": "uber_driver_2",
+      "trust": 0.32,
+      "type": "neighbor",
+      "context": "Tamika Jefferson"
+    },
+    {
+      "source": "uber_driver_2",
+      "target": "young_gig_worker",
+      "trust": 0.59,
+      "type": "professional",
+      "context": "Zoe Martinez"
+    },
+    {
+      "source": "council_member",
+      "target": "young_gig_worker",
+      "trust": 0.32,
+      "type": "neighbor",
+      "context": "Maria Santos"
+    },
+    {
+      "source": "insurance_manager",
+      "target": "young_gig_worker",
+      "trust": 0.29,
+      "type": "neighbor",
+      "context": "Linda Park"
+    },
+    {
+      "source": "salesperson_tamika",
+      "target": "young_gig_worker",
+      "trust": 0.42,
+      "type": "neighbor",
+      "context": "Tamika Jefferson"
+    },
+    {
+      "source": "loan_officer",
+      "target": "young_gig_worker",
+      "trust": 0.31,
+      "type": "professional",
+      "context": "Kevin O'Brien"
+    },
+    {
+      "source": "parking_garage_mgr",
+      "target": "young_gig_worker",
+      "trust": 0.21,
+      "type": "neighbor",
+      "context": "Denise Williams"
+    },
+    {
+      "source": "truck_owner",
+      "target": "young_gig_worker",
+      "trust": 0.45,
+      "type": "neighbor",
+      "context": "Dale Cooper"
+    },
+    {
+      "source": "retiree",
+      "target": "young_gig_worker",
+      "trust": 0.48,
+      "type": "professional",
+      "context": "Dorothy Chen"
+    },
+    {
+      "source": "real_estate_agent",
+      "target": "young_gig_worker",
+      "trust": 0.35,
+      "type": "neighbor",
+      "context": "Stephanie Morris"
+    }
+  ],
+  "clusters": [
+    [
+      "ceo_regional_auto",
+      "bank_manager",
+      "council_member",
+      "dealership_gm",
+      "insurance_manager",
+      "hr_director",
+      "salesperson_jake",
+      "salesperson_tamika",
+      "mechanic_carlos",
+      "mechanic_sarah",
+      "gas_station_owner",
+      "insurance_agent_tom",
+      "insurance_agent_priya",
+      "loan_officer",
+      "diner_owner",
+      "driving_instructor",
+      "car_wash_worker",
+      "parking_garage_mgr",
+      "commuter_james",
+      "commuter_rachel",
+      "truck_owner",
+      "retiree",
+      "young_gig_worker",
+      "single_parent",
+      "parts_store_owner",
+      "rideshare_driver",
+      "real_estate_agent",
+      "auto_shop_teacher",
+      "community_organizer",
+      "uber_driver_2"
+    ]
+  ],
+  "stats": {
+    "total_nodes": 30,
+    "total_edges": 228,
+    "avg_degree": 15.2,
+    "trust_range": [
+      0.21,
+      0.82
+    ],
+    "cluster_count": 1,
+    "largest_cluster_size": 30
+  }
+}

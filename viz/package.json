@@ -1,0 +1,28 @@
+{
+  "name": "frictionless-sim-viz",
+  "version": "1.0.0",
+  "description": "Millfield World Visualization — FrictionlessSimAI",
+  "type": "module",
+  "scripts": {
+    "dev":    "vite",
+    "build":  "vite build",
+    "preview":"vite preview",
+    "bundle": "cd ../data-pipeline && python3 bundle.py"
+  },
+  "dependencies": {
+    "pixi.js":       "^8.0.0",
+    "react":         "^19.0.0",
+    "react-dom":     "^19.0.0",
+    "zustand":       "^5.0.0",
+    "d3":            "^7.9.0",
+    "@pixi/react":   "^8.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.0",
+    "vite":                 "^6.0.0",
+    "typescript":           "^5.7.0",
+    "@types/react":         "^19.0.0",
+    "@types/react-dom":     "^19.0.0",
+    "@types/d3":            "^7.4.0"
+  }
+}

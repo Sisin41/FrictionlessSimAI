@@ -1,0 +1,2263 @@
+{
+  "buildings": [
+    {
+      "id": "auto_mall",
+      "label": "Millfield Auto Mall",
+      "zone": "auto_row",
+      "tile": [
+        11,
+        2
+      ],
+      "size": "large",
+      "sector": "retail_auto",
+      "occupants": [
+        "ceo_regional_auto",
+        "dealership_gm",
+        "hr_director",
+        "salesperson_jake",
+        "salesperson_tamika"
+      ],
+      "appears_tick": 0
+    },
+    {
+      "id": "parts_store",
+      "label": "Liu's Auto Parts",
+      "zone": "auto_row",
+      "tile": [
+        7,
+        1
+      ],
+      "size": "small",
+      "sector": "retail_auto",
+      "occupants": [
+        "parts_store_owner"
+      ],
+      "appears_tick": 0
+    },
+    {
+      "id": "gas_station",
+      "label": "Patel's Gas Station",
+      "zone": "auto_row",
+      "tile": [
+        15,
+        1
+      ],
+      "size": "small",
+      "sector": "fuel",
+      "occupants": [
+        "gas_station_owner"
+      ],
+      "appears_tick": 0
+    },
+    {
+      "id": "diner",
+      "label": "Auto Row Diner",
+      "zone": "auto_row",
+      "tile": [
+        17,
+        3
+      ],
+      "size": "small",
+      "sector": "food_service",
+      "occupants": [
+        "diner_owner"
+      ],
+      "appears_tick": 0
+    },
+    {
+      "id": "real_estate",
+      "label": "Morris Realty",
+      "zone": "auto_row",
+      "tile": [
+        9,
+        0
+      ],
+      "size": "small",
+      "sector": "real_estate",
+      "occupants": [
+        "real_estate_agent"
+      ],
+      "appears_tick": 0
+    },
+    {
+      "id": "mechanic_shop_a",
+      "label": "Ruiz Auto Service",
+      "zone": "services_row",
+      "tile": [
+        3,
+        6
+      ],
+      "size": "medium",
+      "sector": "service",
+      "occupants": [
+        "mechanic_carlos"
+      ],
+      "appears_tick": 0
+    },
+    {
+      "id": "mechanic_shop_b",
+      "label": "Kim's Garage",
+      "zone": "services_row",
+      "tile": [
+        6,
+        6
+      ],
+      "size": "medium",
+      "sector": "service",
+      "occupants": [
+        "mechanic_sarah"
+      ],
+      "appears_tick": 0
+    },
+    {
+      "id": "insurance_office",
+      "label": "AutoShield Insurance",
+      "zone": "services_row",
+      "tile": [
+        10,
+        7
+      ],
+      "size": "medium",
+      "sector": "insurance",
+      "occupants": [
+        "insurance_manager",
+        "insurance_agent_tom",
+        "insurance_agent_priya"
+      ],
+      "appears_tick": 0
+    },
+    {
+      "id": "parking_garage",
+      "label": "Millfield Parking",
+      "zone": "services_row",
+      "tile": [
+        14,
+        6
+      ],
+      "size": "medium",
+      "sector": "transport",
+      "occupants": [
+        "parking_garage_mgr"
+      ],
+      "appears_tick": 0
+    },
+    {
+      "id": "car_wash",
+      "label": "Sparkle Car Wash",
+      "zone": "services_row",
+      "tile": [
+        17,
+        7
+      ],
+      "size": "small",
+      "sector": "service",
+      "occupants": [
+        "car_wash_worker"
+      ],
+      "appears_tick": 0
+    },
+    {
+      "id": "city_hall",
+      "label": "City Hall",
+      "zone": "civic_district",
+      "tile": [
+        2,
+        2
+      ],
+      "size": "large",
+      "sector": "policy",
+      "occupants": [
+        "council_member"
+      ],
+      "appears_tick": 0
+    },
+    {
+      "id": "bank",
+      "label": "First Community Bank",
+      "zone": "civic_district",
+      "tile": [
+        4,
+        5
+      ],
+      "size": "medium",
+      "sector": "finance",
+      "occupants": [
+        "bank_manager",
+        "loan_officer"
+      ],
+      "appears_tick": 0
+    },
+    {
+      "id": "community_center",
+      "label": "Millfield Community Center",
+      "zone": "civic_district",
+      "tile": [
+        1,
+        7
+      ],
+      "size": "large",
+      "sector": "community",
+      "occupants": [
+        "community_organizer"
+      ],
+      "appears_tick": 0
+    },
+    {
+      "id": "high_school",
+      "label": "Millfield High School",
+      "zone": "education",
+      "tile": [
+        20,
+        2
+      ],
+      "size": "large",
+      "sector": "education",
+      "occupants": [
+        "auto_shop_teacher"
+      ],
+      "appears_tick": 0
+    },
+    {
+      "id": "driving_school",
+      "label": "Russo Driving School",
+      "zone": "education",
+      "tile": [
+        23,
+        1
+      ],
+      "size": "small",
+      "sector": "education",
+      "occupants": [
+        "driving_instructor"
+      ],
+      "appears_tick": 0
+    },
+    {
+      "id": "park",
+      "label": "Millfield Park",
+      "zone": "park",
+      "tile": [
+        21,
+        7
+      ],
+      "size": "large",
+      "sector": "community",
+      "occupants": [],
+      "appears_tick": 0
+    },
+    {
+      "id": "informal_market",
+      "label": "Community Swap Meet",
+      "zone": "informal_market",
+      "tile": [
+        19,
+        6
+      ],
+      "size": "medium",
+      "sector": "informal",
+      "occupants": [],
+      "appears_tick": 7
+    }
+  ],
+  "ticks": {
+    "0": {
+      "auto_mall": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "dealership_gm",
+          "salesperson_jake",
+          "salesperson_tamika"
+        ]
+      },
+      "parts_store": {
+        "health": 93.7,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "parts_store_owner"
+        ]
+      },
+      "gas_station": {
+        "health": 93.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "gas_station_owner"
+        ]
+      },
+      "diner": {
+        "health": 83.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "diner_owner"
+        ]
+      },
+      "real_estate": {
+        "health": 99.6,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "real_estate_agent"
+        ]
+      },
+      "mechanic_shop_a": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "mechanic_carlos"
+        ]
+      },
+      "mechanic_shop_b": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "mechanic_sarah"
+        ]
+      },
+      "insurance_office": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "insurance_manager",
+          "insurance_agent_tom",
+          "insurance_agent_priya"
+        ]
+      },
+      "parking_garage": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "parking_garage_mgr"
+        ]
+      },
+      "car_wash": {
+        "health": 80.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "car_wash_worker"
+        ]
+      },
+      "city_hall": {
+        "health": 95,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "council_member"
+        ]
+      },
+      "bank": {
+        "health": 80,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "bank_manager",
+          "loan_officer"
+        ]
+      },
+      "community_center": {
+        "health": 40.0,
+        "visual_state": "declining",
+        "visible": true,
+        "agents_present": [
+          "community_organizer"
+        ]
+      },
+      "high_school": {
+        "health": 85,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "auto_shop_teacher"
+        ]
+      },
+      "driving_school": {
+        "health": 75,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "driving_instructor"
+        ]
+      },
+      "park": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "young_gig_worker"
+        ]
+      },
+      "informal_market": {
+        "health": 0,
+        "visual_state": "hidden",
+        "visible": false,
+        "agents_present": []
+      }
+    },
+    "1": {
+      "auto_mall": {
+        "health": 93.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "dealership_gm",
+          "salesperson_jake",
+          "salesperson_tamika"
+        ]
+      },
+      "parts_store": {
+        "health": 88.3,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "parts_store_owner"
+        ]
+      },
+      "gas_station": {
+        "health": 87.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "gas_station_owner"
+        ]
+      },
+      "diner": {
+        "health": 81.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "diner_owner"
+        ]
+      },
+      "real_estate": {
+        "health": 97.2,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "real_estate_agent"
+        ]
+      },
+      "mechanic_shop_a": {
+        "health": 93.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "mechanic_carlos"
+        ]
+      },
+      "mechanic_shop_b": {
+        "health": 93.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "mechanic_sarah"
+        ]
+      },
+      "insurance_office": {
+        "health": 92.9,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "insurance_manager",
+          "insurance_agent_tom",
+          "insurance_agent_priya"
+        ]
+      },
+      "parking_garage": {
+        "health": 92.9,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "parking_garage_mgr"
+        ]
+      },
+      "car_wash": {
+        "health": 74.3,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "car_wash_worker"
+        ]
+      },
+      "city_hall": {
+        "health": 95,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "council_member"
+        ]
+      },
+      "bank": {
+        "health": 80,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "bank_manager",
+          "loan_officer"
+        ]
+      },
+      "community_center": {
+        "health": 43.0,
+        "visual_state": "declining",
+        "visible": true,
+        "agents_present": [
+          "community_organizer"
+        ]
+      },
+      "high_school": {
+        "health": 85,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "auto_shop_teacher"
+        ]
+      },
+      "driving_school": {
+        "health": 10,
+        "visual_state": "closed",
+        "visible": true,
+        "agents_present": []
+      },
+      "park": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "young_gig_worker"
+        ]
+      },
+      "informal_market": {
+        "health": 0,
+        "visual_state": "hidden",
+        "visible": false,
+        "agents_present": []
+      }
+    },
+    "2": {
+      "auto_mall": {
+        "health": 89.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "dealership_gm",
+          "hr_director",
+          "salesperson_jake",
+          "salesperson_tamika"
+        ]
+      },
+      "parts_store": {
+        "health": 84.7,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "parts_store_owner"
+        ]
+      },
+      "gas_station": {
+        "health": 83.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "gas_station_owner"
+        ]
+      },
+      "diner": {
+        "health": 76.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "diner_owner"
+        ]
+      },
+      "real_estate": {
+        "health": 91.2,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "real_estate_agent"
+        ]
+      },
+      "mechanic_shop_a": {
+        "health": 89.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "mechanic_carlos"
+        ]
+      },
+      "mechanic_shop_b": {
+        "health": 89.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "mechanic_sarah"
+        ]
+      },
+      "insurance_office": {
+        "health": 89.3,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "insurance_manager",
+          "insurance_agent_tom",
+          "insurance_agent_priya"
+        ]
+      },
+      "parking_garage": {
+        "health": 89.3,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "parking_garage_mgr"
+        ]
+      },
+      "car_wash": {
+        "health": 71.4,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "car_wash_worker"
+        ]
+      },
+      "city_hall": {
+        "health": 95,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "council_member"
+        ]
+      },
+      "bank": {
+        "health": 80,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "bank_manager",
+          "loan_officer"
+        ]
+      },
+      "community_center": {
+        "health": 47.0,
+        "visual_state": "declining",
+        "visible": true,
+        "agents_present": [
+          "community_organizer"
+        ]
+      },
+      "high_school": {
+        "health": 85,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "auto_shop_teacher"
+        ]
+      },
+      "driving_school": {
+        "health": 10,
+        "visual_state": "closed",
+        "visible": true,
+        "agents_present": []
+      },
+      "park": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "young_gig_worker"
+        ]
+      },
+      "informal_market": {
+        "health": 0,
+        "visual_state": "hidden",
+        "visible": false,
+        "agents_present": []
+      }
+    },
+    "3": {
+      "auto_mall": {
+        "health": 89.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "dealership_gm",
+          "hr_director",
+          "salesperson_jake",
+          "salesperson_tamika"
+        ]
+      },
+      "parts_store": {
+        "health": 84.7,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "parts_store_owner"
+        ]
+      },
+      "gas_station": {
+        "health": 83.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "gas_station_owner"
+        ]
+      },
+      "diner": {
+        "health": 73.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "diner_owner"
+        ]
+      },
+      "real_estate": {
+        "health": 87.6,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "real_estate_agent"
+        ]
+      },
+      "mechanic_shop_a": {
+        "health": 89.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "mechanic_carlos"
+        ]
+      },
+      "mechanic_shop_b": {
+        "health": 89.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "mechanic_sarah"
+        ]
+      },
+      "insurance_office": {
+        "health": 89.3,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "insurance_manager",
+          "insurance_agent_tom",
+          "insurance_agent_priya"
+        ]
+      },
+      "parking_garage": {
+        "health": 89.3,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "parking_garage_mgr"
+        ]
+      },
+      "car_wash": {
+        "health": 71.4,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "car_wash_worker"
+        ]
+      },
+      "city_hall": {
+        "health": 95,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "council_member"
+        ]
+      },
+      "bank": {
+        "health": 80,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "bank_manager",
+          "loan_officer"
+        ]
+      },
+      "community_center": {
+        "health": 47.0,
+        "visual_state": "declining",
+        "visible": true,
+        "agents_present": [
+          "community_organizer"
+        ]
+      },
+      "high_school": {
+        "health": 85,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "auto_shop_teacher"
+        ]
+      },
+      "driving_school": {
+        "health": 10,
+        "visual_state": "closed",
+        "visible": true,
+        "agents_present": []
+      },
+      "park": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "young_gig_worker"
+        ]
+      },
+      "informal_market": {
+        "health": 0,
+        "visual_state": "hidden",
+        "visible": false,
+        "agents_present": []
+      }
+    },
+    "4": {
+      "auto_mall": {
+        "health": 82.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "dealership_gm",
+          "hr_director",
+          "salesperson_jake",
+          "salesperson_tamika"
+        ]
+      },
+      "parts_store": {
+        "health": 79.3,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "parts_store_owner"
+        ]
+      },
+      "gas_station": {
+        "health": 77.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "gas_station_owner"
+        ]
+      },
+      "diner": {
+        "health": 69.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "diner_owner"
+        ]
+      },
+      "real_estate": {
+        "health": 82.8,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "real_estate_agent"
+        ]
+      },
+      "mechanic_shop_a": {
+        "health": 82.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "mechanic_carlos"
+        ]
+      },
+      "mechanic_shop_b": {
+        "health": 82.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "mechanic_sarah"
+        ]
+      },
+      "insurance_office": {
+        "health": 82.1,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "insurance_manager",
+          "insurance_agent_tom",
+          "insurance_agent_priya"
+        ]
+      },
+      "parking_garage": {
+        "health": 82.1,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "parking_garage_mgr"
+        ]
+      },
+      "car_wash": {
+        "health": 65.7,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "car_wash_worker"
+        ]
+      },
+      "city_hall": {
+        "health": 95,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "council_member"
+        ]
+      },
+      "bank": {
+        "health": 80,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "bank_manager",
+          "loan_officer"
+        ]
+      },
+      "community_center": {
+        "health": 50.0,
+        "visual_state": "declining",
+        "visible": true,
+        "agents_present": [
+          "community_organizer"
+        ]
+      },
+      "high_school": {
+        "health": 85,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "auto_shop_teacher"
+        ]
+      },
+      "driving_school": {
+        "health": 10,
+        "visual_state": "closed",
+        "visible": true,
+        "agents_present": []
+      },
+      "park": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": []
+      },
+      "informal_market": {
+        "health": 0,
+        "visual_state": "hidden",
+        "visible": false,
+        "agents_present": []
+      }
+    },
+    "5": {
+      "auto_mall": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "ceo_regional_auto",
+          "dealership_gm",
+          "hr_director",
+          "salesperson_jake",
+          "salesperson_tamika"
+        ]
+      },
+      "parts_store": {
+        "health": 75.7,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "parts_store_owner"
+        ]
+      },
+      "gas_station": {
+        "health": 73.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "gas_station_owner"
+        ]
+      },
+      "diner": {
+        "health": 48.0,
+        "visual_state": "declining",
+        "visible": true,
+        "agents_present": []
+      },
+      "real_estate": {
+        "health": 57.6,
+        "visual_state": "declining",
+        "visible": true,
+        "agents_present": [
+          "real_estate_agent"
+        ]
+      },
+      "mechanic_shop_a": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "mechanic_carlos"
+        ]
+      },
+      "mechanic_shop_b": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "mechanic_sarah"
+        ]
+      },
+      "insurance_office": {
+        "health": 78.6,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "insurance_manager",
+          "insurance_agent_tom",
+          "insurance_agent_priya"
+        ]
+      },
+      "parking_garage": {
+        "health": 78.6,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "parking_garage_mgr"
+        ]
+      },
+      "car_wash": {
+        "health": 62.9,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "car_wash_worker"
+        ]
+      },
+      "city_hall": {
+        "health": 95,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": []
+      },
+      "bank": {
+        "health": 25,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": [
+          "loan_officer"
+        ]
+      },
+      "community_center": {
+        "health": 63.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "community_organizer"
+        ]
+      },
+      "high_school": {
+        "health": 85,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "auto_shop_teacher"
+        ]
+      },
+      "driving_school": {
+        "health": 10,
+        "visual_state": "closed",
+        "visible": true,
+        "agents_present": []
+      },
+      "park": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": []
+      },
+      "informal_market": {
+        "health": 0,
+        "visual_state": "hidden",
+        "visible": false,
+        "agents_present": []
+      }
+    },
+    "6": {
+      "auto_mall": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "ceo_regional_auto",
+          "hr_director",
+          "salesperson_jake",
+          "salesperson_tamika"
+        ]
+      },
+      "parts_store": {
+        "health": 75.7,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "parts_store_owner"
+        ]
+      },
+      "gas_station": {
+        "health": 73.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "gas_station_owner"
+        ]
+      },
+      "diner": {
+        "health": 42.0,
+        "visual_state": "declining",
+        "visible": true,
+        "agents_present": []
+      },
+      "real_estate": {
+        "health": 50.4,
+        "visual_state": "declining",
+        "visible": true,
+        "agents_present": [
+          "real_estate_agent"
+        ]
+      },
+      "mechanic_shop_a": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "mechanic_carlos"
+        ]
+      },
+      "mechanic_shop_b": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "mechanic_sarah"
+        ]
+      },
+      "insurance_office": {
+        "health": 78.6,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "insurance_manager",
+          "insurance_agent_tom",
+          "insurance_agent_priya"
+        ]
+      },
+      "parking_garage": {
+        "health": 78.6,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "parking_garage_mgr"
+        ]
+      },
+      "car_wash": {
+        "health": 62.9,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "car_wash_worker"
+        ]
+      },
+      "city_hall": {
+        "health": 95,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": []
+      },
+      "bank": {
+        "health": 25,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": [
+          "loan_officer"
+        ]
+      },
+      "community_center": {
+        "health": 67.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "community_organizer"
+        ]
+      },
+      "high_school": {
+        "health": 85,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "auto_shop_teacher"
+        ]
+      },
+      "driving_school": {
+        "health": 10,
+        "visual_state": "closed",
+        "visible": true,
+        "agents_present": []
+      },
+      "park": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": []
+      },
+      "informal_market": {
+        "health": 0,
+        "visual_state": "hidden",
+        "visible": false,
+        "agents_present": []
+      }
+    },
+    "7": {
+      "auto_mall": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "ceo_regional_auto",
+          "hr_director",
+          "salesperson_jake",
+          "salesperson_tamika"
+        ]
+      },
+      "parts_store": {
+        "health": 75.7,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "parts_store_owner"
+        ]
+      },
+      "gas_station": {
+        "health": 73.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "gas_station_owner"
+        ]
+      },
+      "diner": {
+        "health": 42.0,
+        "visual_state": "declining",
+        "visible": true,
+        "agents_present": []
+      },
+      "real_estate": {
+        "health": 50.4,
+        "visual_state": "declining",
+        "visible": true,
+        "agents_present": [
+          "real_estate_agent"
+        ]
+      },
+      "mechanic_shop_a": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "mechanic_carlos"
+        ]
+      },
+      "mechanic_shop_b": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "mechanic_sarah"
+        ]
+      },
+      "insurance_office": {
+        "health": 78.6,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "insurance_manager",
+          "insurance_agent_tom",
+          "insurance_agent_priya"
+        ]
+      },
+      "parking_garage": {
+        "health": 78.6,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "parking_garage_mgr"
+        ]
+      },
+      "car_wash": {
+        "health": 62.9,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "car_wash_worker"
+        ]
+      },
+      "city_hall": {
+        "health": 95,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": []
+      },
+      "bank": {
+        "health": 25,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": [
+          "loan_officer"
+        ]
+      },
+      "community_center": {
+        "health": 67.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "community_organizer"
+        ]
+      },
+      "high_school": {
+        "health": 85,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "auto_shop_teacher"
+        ]
+      },
+      "driving_school": {
+        "health": 10,
+        "visual_state": "closed",
+        "visible": true,
+        "agents_present": []
+      },
+      "park": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": []
+      },
+      "informal_market": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": []
+      }
+    },
+    "8": {
+      "auto_mall": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "ceo_regional_auto",
+          "dealership_gm",
+          "hr_director",
+          "salesperson_jake"
+        ]
+      },
+      "parts_store": {
+        "health": 75.7,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "parts_store_owner"
+        ]
+      },
+      "gas_station": {
+        "health": 73.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "gas_station_owner"
+        ]
+      },
+      "diner": {
+        "health": 40.0,
+        "visual_state": "declining",
+        "visible": true,
+        "agents_present": []
+      },
+      "real_estate": {
+        "health": 48.0,
+        "visual_state": "declining",
+        "visible": true,
+        "agents_present": [
+          "real_estate_agent"
+        ]
+      },
+      "mechanic_shop_a": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "mechanic_carlos"
+        ]
+      },
+      "mechanic_shop_b": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "mechanic_sarah"
+        ]
+      },
+      "insurance_office": {
+        "health": 78.6,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "insurance_manager"
+        ]
+      },
+      "parking_garage": {
+        "health": 78.6,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "parking_garage_mgr"
+        ]
+      },
+      "car_wash": {
+        "health": 62.9,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": []
+      },
+      "city_hall": {
+        "health": 95,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": []
+      },
+      "bank": {
+        "health": 25,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": [
+          "loan_officer"
+        ]
+      },
+      "community_center": {
+        "health": 73.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "community_organizer"
+        ]
+      },
+      "high_school": {
+        "health": 85,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "auto_shop_teacher"
+        ]
+      },
+      "driving_school": {
+        "health": 10,
+        "visual_state": "closed",
+        "visible": true,
+        "agents_present": []
+      },
+      "park": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": []
+      },
+      "informal_market": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": []
+      }
+    },
+    "9": {
+      "auto_mall": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "ceo_regional_auto",
+          "dealership_gm",
+          "hr_director",
+          "salesperson_jake"
+        ]
+      },
+      "parts_store": {
+        "health": 75.7,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "parts_store_owner"
+        ]
+      },
+      "gas_station": {
+        "health": 73.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "gas_station_owner"
+        ]
+      },
+      "diner": {
+        "health": 30.0,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": []
+      },
+      "real_estate": {
+        "health": 36.0,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": [
+          "real_estate_agent"
+        ]
+      },
+      "mechanic_shop_a": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "mechanic_carlos"
+        ]
+      },
+      "mechanic_shop_b": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "mechanic_sarah"
+        ]
+      },
+      "insurance_office": {
+        "health": 78.6,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": []
+      },
+      "parking_garage": {
+        "health": 78.6,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "parking_garage_mgr"
+        ]
+      },
+      "car_wash": {
+        "health": 62.9,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": []
+      },
+      "city_hall": {
+        "health": 95,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "council_member"
+        ]
+      },
+      "bank": {
+        "health": 25,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": [
+          "loan_officer"
+        ]
+      },
+      "community_center": {
+        "health": 87.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "community_organizer"
+        ]
+      },
+      "high_school": {
+        "health": 85,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "auto_shop_teacher"
+        ]
+      },
+      "driving_school": {
+        "health": 10,
+        "visual_state": "closed",
+        "visible": true,
+        "agents_present": []
+      },
+      "park": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": []
+      },
+      "informal_market": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": []
+      }
+    },
+    "10": {
+      "auto_mall": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "ceo_regional_auto",
+          "dealership_gm",
+          "hr_director",
+          "salesperson_jake"
+        ]
+      },
+      "parts_store": {
+        "health": 75.7,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "parts_store_owner"
+        ]
+      },
+      "gas_station": {
+        "health": 73.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "gas_station_owner"
+        ]
+      },
+      "diner": {
+        "health": 26.0,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": []
+      },
+      "real_estate": {
+        "health": 31.2,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": [
+          "real_estate_agent"
+        ]
+      },
+      "mechanic_shop_a": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "mechanic_carlos"
+        ]
+      },
+      "mechanic_shop_b": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "mechanic_sarah"
+        ]
+      },
+      "insurance_office": {
+        "health": 78.6,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": []
+      },
+      "parking_garage": {
+        "health": 78.6,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "parking_garage_mgr"
+        ]
+      },
+      "car_wash": {
+        "health": 62.9,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": []
+      },
+      "city_hall": {
+        "health": 95,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "council_member"
+        ]
+      },
+      "bank": {
+        "health": 25,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": [
+          "loan_officer"
+        ]
+      },
+      "community_center": {
+        "health": 90.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "community_organizer"
+        ]
+      },
+      "high_school": {
+        "health": 85,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "auto_shop_teacher"
+        ]
+      },
+      "driving_school": {
+        "health": 10,
+        "visual_state": "closed",
+        "visible": true,
+        "agents_present": []
+      },
+      "park": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": []
+      },
+      "informal_market": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": []
+      }
+    },
+    "11": {
+      "auto_mall": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "ceo_regional_auto",
+          "dealership_gm",
+          "hr_director",
+          "salesperson_jake"
+        ]
+      },
+      "parts_store": {
+        "health": 75.7,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "parts_store_owner"
+        ]
+      },
+      "gas_station": {
+        "health": 73.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "gas_station_owner"
+        ]
+      },
+      "diner": {
+        "health": 25.0,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": []
+      },
+      "real_estate": {
+        "health": 30.0,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": [
+          "real_estate_agent"
+        ]
+      },
+      "mechanic_shop_a": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "mechanic_carlos"
+        ]
+      },
+      "mechanic_shop_b": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "mechanic_sarah"
+        ]
+      },
+      "insurance_office": {
+        "health": 78.6,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": []
+      },
+      "parking_garage": {
+        "health": 78.6,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "parking_garage_mgr"
+        ]
+      },
+      "car_wash": {
+        "health": 62.9,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": []
+      },
+      "city_hall": {
+        "health": 95,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "council_member"
+        ]
+      },
+      "bank": {
+        "health": 25,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": [
+          "loan_officer"
+        ]
+      },
+      "community_center": {
+        "health": 90.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "community_organizer"
+        ]
+      },
+      "high_school": {
+        "health": 85,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "auto_shop_teacher"
+        ]
+      },
+      "driving_school": {
+        "health": 10,
+        "visual_state": "closed",
+        "visible": true,
+        "agents_present": []
+      },
+      "park": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": []
+      },
+      "informal_market": {
+        "health": 30.0,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": []
+      }
+    },
+    "12": {
+      "auto_mall": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "ceo_regional_auto",
+          "dealership_gm",
+          "hr_director",
+          "salesperson_jake"
+        ]
+      },
+      "parts_store": {
+        "health": 75.7,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "parts_store_owner"
+        ]
+      },
+      "gas_station": {
+        "health": 73.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "gas_station_owner"
+        ]
+      },
+      "diner": {
+        "health": 25.0,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": []
+      },
+      "real_estate": {
+        "health": 30.0,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": [
+          "real_estate_agent"
+        ]
+      },
+      "mechanic_shop_a": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "mechanic_carlos"
+        ]
+      },
+      "mechanic_shop_b": {
+        "health": 79.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "mechanic_sarah"
+        ]
+      },
+      "insurance_office": {
+        "health": 78.6,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": []
+      },
+      "parking_garage": {
+        "health": 78.6,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "parking_garage_mgr"
+        ]
+      },
+      "car_wash": {
+        "health": 62.9,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": []
+      },
+      "city_hall": {
+        "health": 95,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "council_member"
+        ]
+      },
+      "bank": {
+        "health": 25,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": [
+          "loan_officer"
+        ]
+      },
+      "community_center": {
+        "health": 90.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "community_organizer"
+        ]
+      },
+      "high_school": {
+        "health": 85,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "auto_shop_teacher"
+        ]
+      },
+      "driving_school": {
+        "health": 10,
+        "visual_state": "closed",
+        "visible": true,
+        "agents_present": []
+      },
+      "park": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": []
+      },
+      "informal_market": {
+        "health": 30.0,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": []
+      }
+    },
+    "13": {
+      "auto_mall": {
+        "health": 75.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "ceo_regional_auto",
+          "dealership_gm",
+          "hr_director",
+          "salesperson_jake"
+        ]
+      },
+      "parts_store": {
+        "health": 73.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "parts_store_owner"
+        ]
+      },
+      "gas_station": {
+        "health": 70.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "gas_station_owner"
+        ]
+      },
+      "diner": {
+        "health": 29.0,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": []
+      },
+      "real_estate": {
+        "health": 34.8,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": [
+          "real_estate_agent"
+        ]
+      },
+      "mechanic_shop_a": {
+        "health": 75.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "mechanic_carlos"
+        ]
+      },
+      "mechanic_shop_b": {
+        "health": 75.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "mechanic_sarah"
+        ]
+      },
+      "insurance_office": {
+        "health": 75.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": []
+      },
+      "parking_garage": {
+        "health": 75.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "parking_garage_mgr"
+        ]
+      },
+      "car_wash": {
+        "health": 60.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": []
+      },
+      "city_hall": {
+        "health": 95,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "council_member"
+        ]
+      },
+      "bank": {
+        "health": 25,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": [
+          "loan_officer"
+        ]
+      },
+      "community_center": {
+        "health": 93.0,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "community_organizer"
+        ]
+      },
+      "high_school": {
+        "health": 85,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "auto_shop_teacher"
+        ]
+      },
+      "driving_school": {
+        "health": 10,
+        "visual_state": "closed",
+        "visible": true,
+        "agents_present": []
+      },
+      "park": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": []
+      },
+      "informal_market": {
+        "health": 30.0,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": []
+      }
+    },
+    "14": {
+      "auto_mall": {
+        "health": 68.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "ceo_regional_auto",
+          "dealership_gm",
+          "hr_director",
+          "salesperson_jake"
+        ]
+      },
+      "parts_store": {
+        "health": 66.7,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": []
+      },
+      "gas_station": {
+        "health": 63.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "gas_station_owner"
+        ]
+      },
+      "diner": {
+        "health": 24.0,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": []
+      },
+      "real_estate": {
+        "health": 28.8,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": [
+          "real_estate_agent"
+        ]
+      },
+      "mechanic_shop_a": {
+        "health": 68.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "mechanic_carlos"
+        ]
+      },
+      "mechanic_shop_b": {
+        "health": 68.0,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "mechanic_sarah"
+        ]
+      },
+      "insurance_office": {
+        "health": 67.9,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": []
+      },
+      "parking_garage": {
+        "health": 67.9,
+        "visual_state": "stressed",
+        "visible": true,
+        "agents_present": [
+          "parking_garage_mgr"
+        ]
+      },
+      "car_wash": {
+        "health": 54.3,
+        "visual_state": "declining",
+        "visible": true,
+        "agents_present": []
+      },
+      "city_hall": {
+        "health": 95,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "council_member"
+        ]
+      },
+      "bank": {
+        "health": 25,
+        "visual_state": "closing",
+        "visible": true,
+        "agents_present": [
+          "loan_officer"
+        ]
+      },
+      "community_center": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "community_organizer"
+        ]
+      },
+      "high_school": {
+        "health": 85,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": [
+          "auto_shop_teacher"
+        ]
+      },
+      "driving_school": {
+        "health": 10,
+        "visual_state": "closed",
+        "visible": true,
+        "agents_present": []
+      },
+      "park": {
+        "health": 100,
+        "visual_state": "thriving",
+        "visible": true,
+        "agents_present": []
+      },
+      "informal_market": {
+        "health": 55.0,
+        "visual_state": "declining",
+        "visible": true,
+        "agents_present": []
+      }
+    }
+  }
+}
