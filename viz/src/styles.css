@@ -57,6 +57,11 @@ body {
   overflow: hidden;
 }
 
+.world-canvas {
+  width:  100%;
+  height: 100%;
+}
+
 .panel-area {
   width:      340px;
   overflow-y: auto;

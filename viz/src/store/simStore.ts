@@ -280,7 +280,7 @@ export const useSimStore = create<SimState>((set, get) => ({
 
   // ── Data loading ──────────────────────────────────────────────────
   loadData: async () => {
-    const BASE = import.meta.env.DEV ? '../viz-data' : './viz-data'
+    const BASE = './viz-data'
     try {
       const [meta, world, phenomena, social, agents, buildings, txns] = await Promise.all([
         fetch(`${BASE}/meta.json`).then(r => r.json()),

@@ -101,7 +101,7 @@ export default function AgentCard() {
         <h3>Psychological</h3>
         <div className="stat-row">
           <span>Stress</span>
-          <BarMeter value={snap.stress ?? agent.savings} max={1} color="#e53e3e" />
+          <BarMeter value={snap.stress ?? 0} max={1} color="#e53e3e" />
         </div>
         <div className="stat-row">
           <span>Agency</span>

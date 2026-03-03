@@ -11,11 +11,13 @@ import EconomicDash   from './EconomicDash'
 import AgentCard      from './AgentCard'
 import BuildingCard   from './BuildingCard'
 import LayerControls  from './LayerControls'
+import { usePlayback } from '../hooks/usePlayback'
 
 export default function App() {
   const { isLoaded, loadError, loadData } = useSimStore()
 
   useEffect(() => { loadData() }, [])
+  usePlayback()
 
   if (loadError)  return <div className="error">Failed to load: {loadError}</div>
   if (!isLoaded)  return <div className="loading">Loading Millfield...</div>

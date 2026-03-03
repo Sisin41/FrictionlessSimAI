@@ -1,86 +1,59 @@
 /**
  * WorldCanvas.tsx
- * PixiJS isometric renderer.
- * Phase 1: static world + agent positions
- * Phase 2: animations + movement
+ * PixiJS isometric renderer — wired to WorldRenderer.
  *
  * DATA READS:
- *   agents, buildings, buildingTicks, worldLayout, currentTick, interpolation
- *   selectedAgentId, socialEdges (when social_graph layer active)
+ *   agents, buildings, buildingTicks, currentTick, selectedAgentId
  *
  * EMITS:
  *   selectAgent(id), selectBuilding(id)
  */
 
 import { useEffect, useRef } from 'react'
-import { Application, Container, Graphics, Text } from 'pixi.js'
 import { useSimStore } from '../store/simStore'
-import { isoToScreen, TILE_W, TILE_H, ORIGIN_X, ORIGIN_Y } from '../pixi/iso'
+import { WorldRenderer } from '../pixi/WorldRenderer'
 
 export default function WorldCanvas() {
-  const canvasRef  = useRef<HTMLDivElement>(null)
-  const appRef     = useRef<Application | null>(null)
+  const canvasRef = useRef<HTMLDivElement>(null)
+  const rendererRef = useRef<WorldRenderer | null>(null)
 
-  const { agents, buildings, buildingTicks, currentTick, selectAgent, selectBuilding } = useSimStore()
+  const agents = useSimStore(s => s.agents)
+  const buildings = useSimStore(s => s.buildings)
+  const buildingTicks = useSimStore(s => s.buildingTicks)
+  const currentTick = useSimStore(s => s.currentTick)
+  const selectAgent = useSimStore(s => s.selectAgent)
+  const selectBuilding = useSimStore(s => s.selectBuilding)
+  const selectedAgentId = useSimStore(s => s.selectedAgentId)
 
-  // Initialize PixiJS on mount
+  // Initialize renderer on mount
   useEffect(() => {
     if (!canvasRef.current || !agents) return
-    const app = new Application()
-    app.init({
-      width:       1200,
-      height:      700,
-      background:  0x1a202c,   // dark charcoal
-      antialias:   true,
-    }).then(() => {
-      canvasRef.current!.appendChild(app.canvas)
-      appRef.current = app
-      renderWorld(app)
+
+    const renderer = new WorldRenderer()
+    renderer.onAgentClick = (id) => selectAgent(id)
+    renderer.onBuildingClick = (id) => selectBuilding(id)
+    rendererRef.current = renderer
+
+    renderer.init(canvasRef.current).then(() => {
+      if (agents && buildings && buildingTicks) {
+        renderer.render(currentTick, agents, buildingTicks[String(currentTick)], buildings)
+      }
     })
-    return () => { app.destroy(true) }
+
+    return () => {
+      renderer.destroy()
+      rendererRef.current = null
+    }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [agents])
 
-  // Re-render on tick change (Phase 1: full redraw; Phase 2: update positions)
+  // Re-render on tick change or selection change
   useEffect(() => {
-    if (!appRef.current || !agents) return
-    renderWorld(appRef.current)
-  }, [currentTick])
-
-  function renderWorld(app: Application) {
-    app.stage.removeChildren()
-
-    // TODO Phase 1:
-    //   renderTileGrid(app)
-    //   renderBuildings(app, buildings, buildingTicks, currentTick)
-    //   renderAgents(app, agents, currentTick)
-
-    // Placeholder: draw tile grid
-    const grid = new Graphics()
-    for (let col = 0; col < 26; col++) {
-      for (let row = 0; row < 20; row++) {
-        const { x, y } = isoToScreen(col, row)
-        grid.moveTo(x, y)
-        grid.lineTo(x + TILE_W/2, y + TILE_H/2)
-        grid.lineTo(x, y + TILE_H)
-        grid.lineTo(x - TILE_W/2, y + TILE_H/2)
-        grid.lineTo(x, y)
-        grid.stroke({ color: 0x2d3748, width: 0.5 })
-      }
-    }
-    app.stage.addChild(grid)
-
-    // Placeholder: label buildings
-    if (buildings) {
-      buildings.forEach(b => {
-        const [col, row] = b.tile
-        const { x, y } = isoToScreen(col, row)
-        const label = new Text({ text: b.label.slice(0, 12), style: { fill: 0xffffff, fontSize: 9 } })
-        label.x = x - label.width / 2
-        label.y = y
-        app.stage.addChild(label)
-      })
-    }
-  }
+    const renderer = rendererRef.current
+    if (!renderer || !agents || !buildings || !buildingTicks) return
+    renderer.highlightAgent(selectedAgentId)
+    renderer.render(currentTick, agents, buildingTicks[String(currentTick)], buildings)
+  }, [currentTick, agents, buildings, buildingTicks, selectedAgentId])
 
   return <div ref={canvasRef} className="world-canvas" />
 }
