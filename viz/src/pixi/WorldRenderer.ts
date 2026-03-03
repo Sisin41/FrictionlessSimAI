@@ -79,6 +79,7 @@ export class WorldRenderer {
   private depthRingContainers: Map<string, Container> = new Map()
   private forLeaseAnimations: Map<string, { text: Text; targetY: number; startY: number; startTime: number }> = new Map()
   private informalMarketStalls: Container | null = null
+  private lastAgents: Record<string, Agent> | null = null
 
   // Track tick for transition detection
   private lastRenderedTick = -1
@@ -121,6 +122,7 @@ export class WorldRenderer {
   ): void {
     if (!this.app) return
 
+    this.lastAgents = agents
     this.worldContainer.removeChildren()
     this.hustleContainers.clear()
     this.decliningGraphics = []
@@ -630,16 +632,15 @@ export class WorldRenderer {
     // Runway danger ring
     const ringColor = getRunwayRingColor(agent.runway_months)
     if (ringColor != null) {
-      // Check if this is a pulsing ring (from runway crisis event)
-      const hasPulse = this.depthRingContainers.has(agentId)
-      if (hasPulse) {
-        // Pulsing ring is handled by overlay, just draw static ring
-        g.circle(ax, ay - 12, 10)
-        g.stroke({ color: ringColor, width: 2 })
-      } else {
-        g.circle(ax, ay - 12, 10)
-        g.stroke({ color: ringColor, width: 2 })
-      }
+      g.circle(ax, ay - 12, 10)
+      g.stroke({ color: ringColor, width: 2 })
+    }
+
+    // Update pulse ring position if this agent has one
+    const pulseRing = this.depthRingContainers.get(agentId)
+    if (pulseRing) {
+      pulseRing.x = ax
+      pulseRing.y = ay - 12
     }
 
     // Highlight selected agent
@@ -816,28 +817,32 @@ export class WorldRenderer {
   }
 
   private fireRunwayCrisis(): void {
-    if (!this.app) return
+    if (!this.app || !this.lastAgents) return
 
-    // Red pulse rings on all agents — the actual filtering is done below
-    // We don't have access to agents here, so we use the overlay approach
-    // The rings will be added by the next render pass detecting runway=0
-    this.overlayAnimations.push({
-      type: 'runway_pulse',
-      startTime: Date.now(),
-      duration: 2000,
-      container: new Container(),
-    })
+    // Find all agents with runway_months < 1 (runway=0 crisis)
+    for (const [agentId, agent] of Object.entries(this.lastAgents)) {
+      if (agent.runway_months < 1) {
+        this.addPulseRing(agentId, 0xef4444, 3) // red, 3 pulse cycles
+      }
+    }
   }
 
   private addPulseRing(agentId: string, color: number, repeatCount: number): void {
     const container = new Container()
+
+    // Draw a ring graphic in the container
+    const g = new Graphics()
+    g.circle(0, 0, 14)
+    g.stroke({ color, width: 2.5, alpha: 0.9 })
+    container.addChild(g)
+
     this.depthRingContainers.set(agentId, container)
     this.overlayContainer.addChild(container)
 
     // Clean up after animation
     setTimeout(() => {
       this.depthRingContainers.delete(agentId)
-      this.overlayContainer.removeChild(container)
+      if (container.parent) this.overlayContainer.removeChild(container)
     }, repeatCount * 1000)
   }
 
