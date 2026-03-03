@@ -129,14 +129,24 @@ export class LayerRenderer {
     // Transaction flow arcs are rendered statically per frame
   }
 
+  // Ticks with CAPABILITY_FACT / scenario events (RoboRide milestones)
+  private static readonly CAPABILITY_TICKS = new Set([1, 3, 8, 14])
+
   /**
-   * Seed info flow particles when tick changes (call from onTickAdvance).
+   * Seed info flow particles on tick advance.
+   * Only fires at CAPABILITY_FACT event ticks (1, 3, 8, 14).
    */
   seedInfoFlowParticles(
     tick: number,
     agents: Record<string, Agent>,
     agentScreenPositions: Map<string, { x: number; y: number }>,
   ): void {
+    // Only seed particles at ticks with capability events
+    if (!LayerRenderer.CAPABILITY_TICKS.has(tick)) {
+      this.infoFlowParticles = []
+      return
+    }
+
     this.infoFlowParticles = []
     const now = Date.now()
 
@@ -286,7 +296,7 @@ export class LayerRenderer {
     const g = new Graphics()
 
     for (const edge of edges) {
-      if (edge.type !== 'professional' || edge.trust < 0.6) continue
+      if (edge.trust < 0.6) continue
 
       const srcPos = positions.get(edge.source)
       const tgtPos = positions.get(edge.target)
@@ -309,8 +319,9 @@ export class LayerRenderer {
       const rightX = tipX - nx * 6 - ny * 4
       const rightY = tipY - ny * 6 + nx * 4
 
+      const arrowColor = EDGE_TYPE_COLOR[edge.type] ?? 0x4299e1
       g.poly([tipX, tipY, leftX, leftY, rightX, rightY])
-      g.fill({ color: 0x4299e1, alpha: 0.7 })
+      g.fill({ color: arrowColor, alpha: 0.7 })
     }
 
     this.container.addChild(g)
