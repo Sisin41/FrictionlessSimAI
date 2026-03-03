@@ -59,6 +59,11 @@
       "tick": 13,
       "summary": "Call Harold Grant today to confirm the formal start date for the Elm Street drainage and waterproofing project. Agree on a start date within two weeks and begin materials procurement immediately \u2014 order drainage aggregate, waterproofing membrane, and form lumber. This converts the confirmed bid into active work and restores income for the first time since tick 9.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 14,
+      "summary": "Execute the first week of the Elm Street drainage and waterproofing project. Show up on time, do the work right, and document progress for Harold Grant. The goal this tick is to complete enough of the job to invoice a progress payment \u2014 typically 30-40% of contract value at first milestone. This is the income event I have been working toward since tick 12.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -165,6 +170,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Call Harold Grant today to confirm the formal start date for the Elm Street drainage and waterproofing project. Agree on a start date within two weeks and begin materials procurement immediately \u2014 order drainage aggregate, waterproofing membrane, and form lumber. This converts the confirmed bid into active work and restores income for the first time since tick 9.. Savings dropped by $4,681. "
+    },
+    {
+      "tick": 14,
+      "action": "Execute the first week of the Elm Street drainage and waterproofing project. Show up on time, do the work right, and document progress for Harold Grant. The goal this tick is to complete enough of the job to invoice a progress payment \u2014 typically 30-40% of contract value at first milestone. This is the income event I have been working toward since tick 12.",
+      "savings_delta": -4681,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Execute the first week of the Elm Street drainage and waterproofing project. Show up on time, do the work right, and document progress for Harold Grant. The goal this tick is to complete enough of the job to invoice a progress payment \u2014 typically 30-40% of contract value at first milestone. This is the income event I have been working toward since tick 12.. Savings dropped by $4,681. "
     }
   ],
   "reflections": [

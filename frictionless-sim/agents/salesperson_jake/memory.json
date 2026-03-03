@@ -64,6 +64,11 @@
       "tick": 13,
       "summary": "Call Rick Tanner directly \u2014 not email, a phone call \u2014 and tell him the two weeks he mentioned are almost up and I am still holding. I am not pressuring him, I am making myself easy to say yes to. I say: 'Rick, you told me two weeks. I wanted you to know I have not taken anything else and I am ready for that conversation whenever you are.' I keep it short. I let him respond. If he has an answer, I am ready to move. If he needs more time, I note the date and give him a hard follow-up window in my own head.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 14,
+      "summary": "Call Rick Tanner directly and force the service advisor conversation to a binary. The two weeks he named in tick 12 are up. Rick has his own 60-day contract and his own pressures now. I call him this week \u2014 not a soft check-in, a direct ask: 'Rick, two weeks are up. Is there a service advisor or fleet-account role for me in the restructured org, and can we have that conversation this week or next? I need to know whether to hold or to start looking.' I am not threatening, I am not pressuring, but I am being clear that I cannot hold open-ended without a timeline. He can say yes, he can say the role is being redefined, or he can say it is not happening. Any answer is better than another month of waiting on $0 savings.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -170,6 +175,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Call Rick Tanner directly \u2014 not email, a phone call \u2014 and tell him the two weeks he mentioned are almost up and I am still holding. I am not pressuring him, I am making myself easy to say yes to. I say: 'Rick, you told me two weeks. I wanted you to know I have not taken anything else and I am ready for that conversation whenever you are.' I keep it short. I let him respond. If he has an answer, I am ready to move. If he needs more time, I note the date and give him a hard follow-up window in my own head.. Savings dropped by $1,388. "
+    },
+    {
+      "tick": 14,
+      "action": "Call Rick Tanner directly and force the service advisor conversation to a binary. The two weeks he named in tick 12 are up. Rick has his own 60-day contract and his own pressures now. I call him this week \u2014 not a soft check-in, a direct ask: 'Rick, two weeks are up. Is there a service advisor or fleet-account role for me in the restructured org, and can we have that conversation this week or next? I need to know whether to hold or to start looking.' I am not threatening, I am not pressuring, but I am being clear that I cannot hold open-ended without a timeline. He can say yes, he can say the role is being redefined, or he can say it is not happening. Any answer is better than another month of waiting on $0 savings.",
+      "savings_delta": 0,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Call Rick Tanner directly and force the service advisor conversation to a binary. The two weeks he named in tick 12 are up. Rick has his own 60-day contract and his own pressures now. I call him this week \u2014 not a soft check-in, a direct ask: 'Rick, two weeks are up. Is there a service advisor or fleet-account role for me in the restructured org, and can we have that conversation this week or next? I need to know whether to hold or to start looking.' I am not threatening, I am not pressuring, but I am being clear that I cannot hold open-ended without a timeline. He can say yes, he can say the role is being redefined, or he can say it is not happening. Any answer is better than another month of waiting on $0 savings.. "
     }
   ],
   "reflections": [

@@ -59,6 +59,11 @@
       "tick": 13,
       "summary": "Walk into Carmen's alterations shop on Market Street this week \u2014 in person, not a message, not a call. Miguel's referral means she already knows my name. I pitch the same package I sold Betty: $120/month, one post per day, community tone, focused on her delivery or in-store traffic depending on what she needs. I show her Betty's account as proof of work if she asks. I ask if she wants to start this month. The ask is specific and I make it directly.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 14,
+      "summary": "Contact Sarah Kim directly to share what I'm observing from inside the gig delivery ecosystem about the second robotaxi competitor and autonomous delivery rollout. I've been running gig deliveries on multiple platforms \u2014 I have ground-level data on which corridors are losing orders, which platforms are quietly throttling human couriers, and what the new competitor's interface looks like from the worker side. This is real intelligence and Sarah trusts me. I send her a message today: 'Hey \u2014 saw you're asking around about the new robotaxi player. I've been running gig deliveries across all the platforms this month and watching what the autonomous launch is doing to order volume. If it's useful, I can tell you what I'm seeing on the ground. Coffee this week?'",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -165,6 +170,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Walk into Carmen's alterations shop on Market Street this week \u2014 in person, not a message, not a call. Miguel's referral means she already knows my name. I pitch the same package I sold Betty: $120/month, one post per day, community tone, focused on her delivery or in-store traffic depending on what she needs. I show her Betty's account as proof of work if she asks. I ask if she wants to start this month. The ask is specific and I make it directly.. Savings grew by $2,284. "
+    },
+    {
+      "tick": 14,
+      "action": "Contact Sarah Kim directly to share what I'm observing from inside the gig delivery ecosystem about the second robotaxi competitor and autonomous delivery rollout. I've been running gig deliveries on multiple platforms \u2014 I have ground-level data on which corridors are losing orders, which platforms are quietly throttling human couriers, and what the new competitor's interface looks like from the worker side. This is real intelligence and Sarah trusts me. I send her a message today: 'Hey \u2014 saw you're asking around about the new robotaxi player. I've been running gig deliveries across all the platforms this month and watching what the autonomous launch is doing to order volume. If it's useful, I can tell you what I'm seeing on the ground. Coffee this week?'",
+      "savings_delta": 0,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Contact Sarah Kim directly to share what I'm observing from inside the gig delivery ecosystem about the second robotaxi competitor and autonomous delivery rollout. I've been running gig deliveries on multiple platforms \u2014 I have ground-level data on which corridors are losing orders, which platforms are quietly throttling human couriers, and what the new competitor's interface looks like from the worker side. This is real intelligence and Sarah trusts me. I send her a message today: 'Hey \u2014 saw you're asking around about the new robotaxi player. I've been running gig deliveries across all the platforms this month and watching what the autonomous launch is doing to order volume. If it's useful, I can tell you what I'm seeing on the ground. Coffee this week?'. "
     }
   ],
   "reflections": [

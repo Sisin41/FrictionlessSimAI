@@ -64,6 +64,11 @@
       "tick": 13,
       "summary": "Call Nicole Washington directly \u2014 not a follow-up email, a call. She said she wanted to talk and I am making that happen. The conversation has one objective: turn her stated interest into a signed pilot retainer. I come prepared with a specific, low-friction proposal \u2014 $300/month for a 3-month communications support pilot covering her personal brand and professional social presence as a nurse and community figure. Small enough that her budget concern does not kill it. Concrete enough that she cannot defer it. I ask directly: 'Based on what we talked about, I want to propose a three-month pilot starting this month. Can we do that?' If yes, I send a one-page agreement within 24 hours. If no, I ask what would make it a yes and I listen.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 14,
+      "summary": "Send three targeted follow-up messages to the three open job applications: Millfield Regional Health Systems (one sentence on internal communications during workforce disruption), the financial services firm (one sentence on messaging strategy during consumer sentiment contraction at spending index 29), and the regional logistics company (one sentence on brand visibility during robotaxi corridor expansion and the commuter behavior shift it creates). Each message goes to the named contact where I have one, the HR portal where I do not. Professional, specific, not a generic check-in. Two hours of work.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -170,6 +175,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Call Nicole Washington directly \u2014 not a follow-up email, a call. She said she wanted to talk and I am making that happen. The conversation has one objective: turn her stated interest into a signed pilot retainer. I come prepared with a specific, low-friction proposal \u2014 $300/month for a 3-month communications support pilot covering her personal brand and professional social presence as a nurse and community figure. Small enough that her budget concern does not kill it. Concrete enough that she cannot defer it. I ask directly: 'Based on what we talked about, I want to propose a three-month pilot starting this month. Can we do that?' If yes, I send a one-page agreement within 24 hours. If no, I ask what would make it a yes and I listen.. Savings dropped by $4,817. "
+    },
+    {
+      "tick": 14,
+      "action": "Send three targeted follow-up messages to the three open job applications: Millfield Regional Health Systems (one sentence on internal communications during workforce disruption), the financial services firm (one sentence on messaging strategy during consumer sentiment contraction at spending index 29), and the regional logistics company (one sentence on brand visibility during robotaxi corridor expansion and the commuter behavior shift it creates). Each message goes to the named contact where I have one, the HR portal where I do not. Professional, specific, not a generic check-in. Two hours of work.",
+      "savings_delta": -4817,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Send three targeted follow-up messages to the three open job applications: Millfield Regional Health Systems (one sentence on internal communications during workforce disruption), the financial services firm (one sentence on messaging strategy during consumer sentiment contraction at spending index 29), and the regional logistics company (one sentence on brand visibility during robotaxi corridor expansion and the commuter behavior shift it creates). Each message goes to the named contact where I have one, the HR portal where I do not. Professional, specific, not a generic check-in. Two hours of work.. Savings dropped by $4,817. "
     }
   ],
   "reflections": [

@@ -37,7 +37,7 @@
     },
     "L2_PARTICIPATE": {
       "employment_status": "unemployed",
-      "skill_relevance": 0.68,
+      "skill_relevance": 0.71,
       "role_security": 0.72,
       "network_strength": 0.4
     },
@@ -77,9 +77,9 @@
     "sentiment": "relieved"
   },
   "psychological": {
-    "stress_level": 0.11,
+    "stress_level": 0.08,
     "agency": 0.6,
-    "grief_stage": "depression",
+    "grief_stage": "bargaining",
     "temporal_horizon_months": 11,
     "high_stress_ticks": 0
   },
@@ -97,8 +97,8 @@
       "description": "continue peak-hour driving this tick: friday evening surge block and saturday morning airport window. skip midday and early-week low-yield slots to protect study and clinical hours. also make a note to watch what frank russo is doing \u2014 if the driving school is pivoting toward ev servicing or some other transport-adjacent lane, that is contextual intelligence worth having even if it is not directly relevant to my path.",
       "started_tick": 5,
       "completion_eta_months": 8,
-      "progress": 0.32,
-      "months_invested": 3
+      "progress": 0.42000000000000004,
+      "months_invested": 4
     }
   ],
   "temporal_mismatches": {
@@ -113,5 +113,5 @@
   },
   "locality": "millfield",
   "archetype": "adapter",
-  "tick_updated": 13
+  "tick_updated": 14
 }

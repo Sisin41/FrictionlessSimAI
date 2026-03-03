@@ -1,0 +1,46 @@
+{
+  "tick": 14,
+  "agent_id": "truck_owner",
+  "agent_name": "Dale Cooper",
+  "response": {
+    "internal_assessment": "The Elm Street job is live. Materials are ordered, start date is locked with Harold Grant, and for the first time since tick 9 I am doing actual work rather than burning savings and waiting. That matters — not just financially but in terms of who I am. An idle contractor is not a contractor. The savings situation is still serious: $29,367 left, burning $4,681 a month while the job ramps. I need to get paid on this project and I need the next job in the queue before this one finishes. The autonomous delivery announcement is noise for me — I am not a courier, I am a tradesman. No robot is doing drainage and waterproofing on a residential property. The construction pipeline threat is more subtle: if the economy keeps collapsing and homeowners stop spending entirely, discretionary project volume dries up. But essential repairs do not go away. Roofs leak, basements flood, drainage fails — those things happen whether the spending index is 100 or 29. I am positioned in the right segment. The community center flat roof lead from Lisa Freeman is the most valuable thing in my pipeline right now: nonprofit work, potentially larger scope, and a relationship that is warm. I need to follow up on that specifically this tick. The two bids from tick 12 — the duplex roofing and the creek-corridor drainage — are probably cold given the spending environment, but I follow up once more and close the loop. Carlos Ruiz's Concord Lane waterproofing lead: I have not heard anything back. I check in.",
+    "inbox_interpretation": "RoboRide going 24/7 with a second competitor is significant for people like Robert Jackson, Jake Morrison, Tom Bradley — the auto-adjacent economy. For me directly, it changes nothing about my work. My truck is a tool, not a transportation service. The autonomous delivery threat is also not my sector — I do not haul freight commercially. What matters is that the spending collapse is worsening: 29 on the index, 47% unemployment. This tells me that discretionary construction projects are nearly dead in Millfield, and I should be extremely focused on essential-repair work only. The community actors I am hearing about — Tamika, Kevin, Denise, Rachel, Lisa, Maria Santos — are all grinding, all trying to hold things together. The fact that 14 people enrolled in retraining this month and 3 people gave up their cars tells me the pressure is real and accelerating. Tom Bradley and Betty Kowalski being specifically named as stressed means two of my professional contacts are in pain. I do not have the capacity to help them right now, but I stay warm. The word-of-mouth about Jake Morrison calling Rick Tanner and Carlos Ruiz reaching out to a fleet operator — both of them are pivoting. That is what the smart people do. I am already in essential-repair construction which is the right pivot for me.",
+    "chosen_actions": [
+      {
+        "type": "TRANSFORMATION",
+        "description": "Execute the first week of the Elm Street drainage and waterproofing project. Show up on time, do the work right, and document progress for Harold Grant. The goal this tick is to complete enough of the job to invoice a progress payment — typically 30-40% of contract value at first milestone. This is the income event I have been working toward since tick 12.",
+        "target_agent": null,
+        "resources": {"type": "labor_and_materials", "direction": "internal", "amount": 0, "detail": "Physical labor on Elm Street project. Materials already procured last tick. Converting work hours into billable progress toward first invoice milestone."},
+        "economic_effects": {"income_change": 2800, "expense_change": 0, "savings_change": 2800, "asset_change": "none", "employment_change": "contractor_active"},
+        "reasoning": "The job is live. Executing on it is the primary obligation this tick. A progress payment on a project of this scope should be in the range of $2,500-$3,500. I am estimating $2,800 as the first partial invoice payment — conservative, realistic. Getting this check in hand stops the savings hemorrhage and demonstrates I am employed again."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Follow up with Lisa Freeman specifically on the community center flat roof lead. Not a general check-in — a direct, professional ask: has the board had the conversation yet? Is there a timeline for a formal bid request? If the answer is yes, I want to be the first name they call. If the answer is not yet, I stay warm without being pushy. One short message, professional tone, acknowledges she did me a favor by raising my name.",
+        "target_agent": "community_organizer",
+        "resources": {"type": "social_capital", "direction": "both", "amount": 0, "detail": "Investing relationship maintenance with Lisa Freeman. Staying at front of mind for the community center roof bid without applying pressure."},
+        "economic_effects": {"income_change": 0, "expense_change": 0, "savings_change": 0, "asset_change": "none", "employment_change": "none"},
+        "reasoning": "The community center roof is potentially a $15,000-$25,000 job depending on scope. At nonprofit rates it is less, but still significant. Lisa said she was bringing my name to the board last tick. One follow-up is professional and expected. Two weeks of silence from me after she did that favor reads as disinterest. I cannot afford to let this lead go cold through inaction."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Check in with Carlos Ruiz about the Concord Lane basement waterproofing lead he mentioned in tick 12. Two ticks have passed. A brief, direct message: did the owner reach out, or do they still need someone? If Carlos has a name and number, I want it this week. If the lead went cold, I want to know so I stop mentally counting it.",
+        "target_agent": "mechanic_carlos",
+        "resources": {"type": "social_capital", "direction": "both", "amount": 0, "detail": "Following up on warm referral. Keeping Carlos Ruiz engaged as a referral source by demonstrating I am responsive and active."},
+        "economic_effects": {"income_change": 0, "expense_change": 0, "savings_change": 0, "asset_change": "none", "employment_change": "none"},
+        "reasoning": "Carlos did me a favor by volunteering that lead. Following up shows I took it seriously and that I am the kind of contractor who follows through. Referral relationships die when they are not maintained. Carlos is stressed right now — his world is auto-adjacent and taking hits. A quick, professional check-in keeps the relationship warm on both sides."
+      },
+      {
+        "type": "INACTION",
+        "description": "Do not pursue the autonomous delivery service as a new revenue stream. Do not panic-pivot the truck toward commercial delivery gigs. The truck stays a construction tool. The autonomous delivery threat is real for couriers and rideshare drivers but has no direct bearing on residential construction and repair work. Resist the impulse to react to every headline.",
+        "target_agent": null,
+        "resources": {"type": "none", "direction": "internal", "amount": 0, "detail": "Deliberate non-action. Maintaining strategic focus rather than chasing noise."},
+        "economic_effects": {"income_change": 0, "expense_change": 0, "savings_change": 0, "asset_change": "none", "employment_change": "none"},
+        "reasoning": "My normalcy bias has worked against me in this crisis — but so does the opposite: reactive pivoting into sectors where I have no edge. I am not a delivery driver. My competitive advantage is construction skill and 25 years of trade knowledge. Driving packages around at gig rates would earn less than a bad construction day and would signal to my network that I am desperate and untethered from my trade. I stay in my lane."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "hustler",
+    "inner_monologue": "The truck is loaded and the Elm Street job starts this week — that is the first real thing that has happened since this whole mess started rolling downhill. Fifty-three percent of Millfield out of work and I am still the guy who shows up with a plan and a full bed. The autonomous delivery news is just noise for someone like me — no robot is going to hand-form a drainage swale or membrane a foundation in February. What I need to do right now is finish this job clean, get paid, and have the next one lined up before Harold Grant signs off on the final invoice."
+  }
+}

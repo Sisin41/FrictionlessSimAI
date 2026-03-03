@@ -64,6 +64,11 @@
       "tick": 13,
       "summary": "Attend the CareRide of the Valley onboarding orientation with Marcus Webb. Complete the background check, submit all required documentation \u2014 NEMT certification, vehicle inspection, clean driving record \u2014 and sign the route agreement for the new Millfield General route. Get a start date confirmed in writing. This is the commitment I have been building toward since tick 9.",
       "emotional_state": "relieved"
+    },
+    {
+      "tick": 14,
+      "summary": "Begin running CareRide of the Valley NEMT shifts on the Millfield General route. This is the first income-generating week under the signed route agreement. Target 20 hours this week \u2014 the same pace Robert Jackson is starting at Millfield Medical Transport. Get familiar with the route, confirm the dispatching process with Marcus Webb, and document the first paycheck cycle so I know exactly when income will land relative to my monthly burn.",
+      "emotional_state": "relieved"
     }
   ],
   "past_outcomes": [
@@ -170,6 +175,14 @@
       "stress_delta": -0.03,
       "employment_changed": false,
       "narrative": "You Attend the CareRide of the Valley onboarding orientation with Marcus Webb. Complete the background check, submit all required documentation \u2014 NEMT certification, vehicle inspection, clean driving record \u2014 and sign the route agreement for the new Millfield General route. Get a start date confirmed in writing. This is the commitment I have been building toward since tick 9.. Savings grew by $1,407. "
+    },
+    {
+      "tick": 14,
+      "action": "Begin running CareRide of the Valley NEMT shifts on the Millfield General route. This is the first income-generating week under the signed route agreement. Target 20 hours this week \u2014 the same pace Robert Jackson is starting at Millfield Medical Transport. Get familiar with the route, confirm the dispatching process with Marcus Webb, and document the first paycheck cycle so I know exactly when income will land relative to my monthly burn.",
+      "savings_delta": 0,
+      "stress_delta": -0.03,
+      "employment_changed": false,
+      "narrative": "You Begin running CareRide of the Valley NEMT shifts on the Millfield General route. This is the first income-generating week under the signed route agreement. Target 20 hours this week \u2014 the same pace Robert Jackson is starting at Millfield Medical Transport. Get familiar with the route, confirm the dispatching process with Marcus Webb, and document the first paycheck cycle so I know exactly when income will land relative to my monthly burn.. "
     }
   ],
   "reflections": [

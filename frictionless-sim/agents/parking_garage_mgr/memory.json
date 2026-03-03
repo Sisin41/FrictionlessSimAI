@@ -59,6 +59,11 @@
       "tick": 13,
       "summary": "Proactively reach out to Grace Okafor with a brief, specific message. Her intelligence that 'they called two more people from my program this week' is a direct indicator that the Millfield General process is moving. I send her a short note \u2014 not a request for status, not pressure \u2014 but a professional peer check-in: 'Saw your update. Wanted you to know I am still actively interested and available. If anything surfaces where a word from you would be useful, I am grateful for it.' I am not asking her to do anything. I am keeping the connection warm and making sure she knows I am still in the race. Grace is my highest-trust contact with direct sight lines into that institution. This is not networking performance \u2014 this is relationship maintenance with someone who has already demonstrated she will go to bat for me.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 14,
+      "summary": "Send Grace Okafor a brief, specific congratulatory message on her CareRide onboarding \u2014 'Saw the update about CareRide orientation. Congratulations \u2014 that is a real milestone. I am still actively engaged on my end and wanted you to know the Millfield General track remains my primary focus. No ask attached, just keeping you informed.' This is not networking performance. It is relationship maintenance with the highest-trust contact I have who now has eyes inside Millfield General as a CareRide route driver.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -165,6 +170,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Proactively reach out to Grace Okafor with a brief, specific message. Her intelligence that 'they called two more people from my program this week' is a direct indicator that the Millfield General process is moving. I send her a short note \u2014 not a request for status, not pressure \u2014 but a professional peer check-in: 'Saw your update. Wanted you to know I am still actively interested and available. If anything surfaces where a word from you would be useful, I am grateful for it.' I am not asking her to do anything. I am keeping the connection warm and making sure she knows I am still in the race. Grace is my highest-trust contact with direct sight lines into that institution. This is not networking performance \u2014 this is relationship maintenance with someone who has already demonstrated she will go to bat for me.. Savings grew by $361. "
+    },
+    {
+      "tick": 14,
+      "action": "Send Grace Okafor a brief, specific congratulatory message on her CareRide onboarding \u2014 'Saw the update about CareRide orientation. Congratulations \u2014 that is a real milestone. I am still actively engaged on my end and wanted you to know the Millfield General track remains my primary focus. No ask attached, just keeping you informed.' This is not networking performance. It is relationship maintenance with the highest-trust contact I have who now has eyes inside Millfield General as a CareRide route driver.",
+      "savings_delta": 361,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Send Grace Okafor a brief, specific congratulatory message on her CareRide onboarding \u2014 'Saw the update about CareRide orientation. Congratulations \u2014 that is a real milestone. I am still actively engaged on my end and wanted you to know the Millfield General track remains my primary focus. No ask attached, just keeping you informed.' This is not networking performance. It is relationship maintenance with the highest-trust contact I have who now has eyes inside Millfield General as a CareRide route driver.. Savings grew by $361. "
     }
   ],
   "reflections": [

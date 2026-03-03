@@ -44,7 +44,7 @@
     },
     "L3_CONSUME": {
       "discretionary_budget": 1000,
-      "owns_car": true,
+      "owns_car": false,
       "car_payment_monthly": 0,
       "substitution_willingness": 0.75
     },
@@ -76,13 +76,13 @@
       "availability_heuristic": 0.52,
       "social_proof_sensitivity": 0.56
     },
-    "sentiment": "anxious"
+    "sentiment": "determined"
   },
   "psychological": {
-    "stress_level": 0.49,
-    "agency": 0.53,
-    "grief_stage": "anger",
-    "temporal_horizon_months": 7,
+    "stress_level": 0.47,
+    "agency": 0.55,
+    "grief_stage": "bargaining",
+    "temporal_horizon_months": 8,
     "high_stress_ticks": 0
   },
   "financial": {
@@ -130,5 +130,5 @@
   },
   "locality": "millfield",
   "archetype": "adapter",
-  "tick_updated": 13
+  "tick_updated": 14
 }

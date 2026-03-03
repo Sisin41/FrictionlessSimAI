@@ -78,8 +78,8 @@
     "sentiment": "determined"
   },
   "psychological": {
-    "stress_level": 0.07,
-    "agency": 0.71,
+    "stress_level": 0.05,
+    "agency": 0.73,
     "grief_stage": "none",
     "temporal_horizon_months": 11,
     "high_stress_ticks": 0
@@ -120,5 +120,5 @@
   },
   "locality": "millfield",
   "archetype": "hustler",
-  "tick_updated": 13
+  "tick_updated": 14
 }

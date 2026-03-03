@@ -59,6 +59,11 @@
       "tick": 13,
       "summary": "Take the scheduled call with Dr. Kevin Marsh, Workforce Program Director at Millfield Community College, and push for a concrete offer. I am not calling to 'explore' anything. I am calling to negotiate. My ask: a paid advisory role \u2014 minimum $2,500 per month \u2014 to serve as the external policy architect for the community college's workforce transition programming, specifically the retraining tracks tied to the municipal fund I created. I bring grant design expertise, council relationships, and the retraining fund authorization that makes MCC's programs fundable. If he counters with an unpaid advisory role, I decline. If he offers an instructional stipend, I counter. I need a signed letter of agreement this month, not a second call next month.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 14,
+      "summary": "Formally present and release the completed Economic Resilience Framework to the full town council and the public. Schedule and hold the public presentation session that was promised at the task force nine ticks ago. The framework is finished \u2014 four sections, specific metrics, the adaptive reuse zoning recommendation for the Mobility and Logistics Transition Zone on auto row, the grant threshold revision recommendation (15% to 10% revenue decline with sole proprietor eligibility expansion). This is not a press event. This is a governance deliverable. I present it on the council record, distribute it publicly, and answer questions. I do not give a speech about what I'm going to do. I present the document that exists.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -165,6 +170,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Take the scheduled call with Dr. Kevin Marsh, Workforce Program Director at Millfield Community College, and push for a concrete offer. I am not calling to 'explore' anything. I am calling to negotiate. My ask: a paid advisory role \u2014 minimum $2,500 per month \u2014 to serve as the external policy architect for the community college's workforce transition programming, specifically the retraining tracks tied to the municipal fund I created. I bring grant design expertise, council relationships, and the retraining fund authorization that makes MCC's programs fundable. If he counters with an unpaid advisory role, I decline. If he offers an instructional stipend, I counter. I need a signed letter of agreement this month, not a second call next month.. Savings dropped by $3,917. "
+    },
+    {
+      "tick": 14,
+      "action": "Formally present and release the completed Economic Resilience Framework to the full town council and the public. Schedule and hold the public presentation session that was promised at the task force nine ticks ago. The framework is finished \u2014 four sections, specific metrics, the adaptive reuse zoning recommendation for the Mobility and Logistics Transition Zone on auto row, the grant threshold revision recommendation (15% to 10% revenue decline with sole proprietor eligibility expansion). This is not a press event. This is a governance deliverable. I present it on the council record, distribute it publicly, and answer questions. I do not give a speech about what I'm going to do. I present the document that exists.",
+      "savings_delta": -3917,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Formally present and release the completed Economic Resilience Framework to the full town council and the public. Schedule and hold the public presentation session that was promised at the task force nine ticks ago. The framework is finished \u2014 four sections, specific metrics, the adaptive reuse zoning recommendation for the Mobility and Logistics Transition Zone on auto row, the grant threshold revision recommendation (15% to 10% revenue decline with sole proprietor eligibility expansion). This is not a press event. This is a governance deliverable. I present it on the council record, distribute it publicly, and answer questions. I do not give a speech about what I'm going to do. I present the document that exists.. Savings dropped by $3,917. "
     }
   ],
   "reflections": [

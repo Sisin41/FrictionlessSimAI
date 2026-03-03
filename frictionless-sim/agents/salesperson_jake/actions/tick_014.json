@@ -1,0 +1,90 @@
+{
+  "tick": 14,
+  "agent_id": "salesperson_jake",
+  "agent_name": "Jake Morrison",
+  "response": {
+    "internal_assessment": "Savings are at zero. Monthly expenses are $5,134 and commission income is $807 baseline, which means I am bleeding roughly $4,300 every month I don't close. The two weeks Rick promised me in tick 12 have expired. Tick 13 outcome shows savings dropped another $1,388 with no offer on the table. Now I'm reading that Rick got a 60-day contract extension from Patricia with a deliverable of his own — which means Rick is still inside the organization but under pressure himself. His inbox shows him reaching out to regional employers and adjacent dealership groups as personal contingency work. That tells me Rick is hedging. The service advisor role he floated to me may still exist inside Patricia's restructured org, but Rick may not be the one holding the door open for me much longer if he's working his own exit. Angela launched a consulting firm. She is out. Lane A — the transition program she was building — is now orphaned or being handed to someone else. Maria Santos's retraining framework is still live, the $2,500 grant I applied for is still pending, and 14 people enrolled in retraining this month. A second robotaxi competitor entered Millfield. Auto sector revenue index at 75 and still moving down. Employment at 47 percent. Car ownership dropping — 21 of 30 agents, down from 28. The floor is getting quieter. But contractors still need trucks. I closed Tony DiMaggio in tick 12 on that exact pitch. That trade is still alive. I need two things this tick: a direct, honest conversation with Rick to force clarity on whether the service advisor offer is real and on what timeline, and at least one close on the floor before month end — targeting tradespeople and commercial buyers who cannot substitute robotaxi for their actual work needs. The Maria Santos grant application is pending. I do not have a Lane C credential yet. If Rick's answer is unclear or negative, I need to start that process in parallel, not after.",
+    "inbox_interpretation": "RoboRide now has a second competitor and 24/7 coverage at $0.10/mile — this is a direct message to anyone still pitching car ownership on convenience grounds. My RoboRide comparison pitch only holds for buyers whose use case genuinely cannot be replicated by a robotaxi: contractors hauling tools and materials, multi-destination tradespeople, families with complex logistics. That pool is smaller now and I need to be precise about who I call. Rick's word-of-mouth shows him actively running his own contingency outreach this tick — two regional employers, adjacent dealership group positioning. He is not sitting still waiting to hand me a job. He is figuring out his own next move. That does not mean the service advisor conversation is dead, but it means I cannot wait for him to call me. Patricia's word-of-mouth to Rick about insurance and David Chen are operational items in her own agenda, not signals about my situation. Angela's consulting firm launch confirms Lane A is effectively gone. The town is churning — 14 more retraining enrollments, 3 more car disposals, Kevin O'Brien closing a loan, Lisa Freeman pushing Santos for a funded navigator position. People are building structures around the disruption. I have been working the edges. I need to build something.",
+    "chosen_actions": [
+      {
+        "type": "EXCHANGE",
+        "description": "Call Rick Tanner directly and force the service advisor conversation to a binary. The two weeks he named in tick 12 are up. Rick has his own 60-day contract and his own pressures now. I call him this week — not a soft check-in, a direct ask: 'Rick, two weeks are up. Is there a service advisor or fleet-account role for me in the restructured org, and can we have that conversation this week or next? I need to know whether to hold or to start looking.' I am not threatening, I am not pressuring, but I am being clear that I cannot hold open-ended without a timeline. He can say yes, he can say the role is being redefined, or he can say it is not happening. Any answer is better than another month of waiting on $0 savings.",
+        "target_agent": "dealership_gm",
+        "resources": {
+          "type": "labor",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Direct conversation — Jake gives relationship capital and professional directness, receives either a commitment, a realistic timeline, or a clear no. All three are usable. A non-answer is not."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Rick's two-week promise has expired. Rick now has his own 60-day contract with a deliverable and is running his own contingency outreach. Waiting another tick risks the role being filled or redefined without me in it. My trust with Rick is 0.73 — high enough to have a frank conversation. I am not burning goodwill by asking for clarity; I am demonstrating that I am a professional who plans. The goal is a binary answer by end of week."
+      },
+      {
+        "type": "EXCHANGE",
+        "description": "Work the floor with a targeted commercial and tradesperson close this month. Identify every contractor, tradesperson, or small fleet operator in the active lead pipeline — buyers whose actual work patterns make robotaxi substitution impossible or impractical. Run the same math I ran with Tony DiMaggio in tick 12: annual mileage with cargo, tool, or material requirements, zero robotaxi cargo capacity, total cost comparison at $0.10/mile times real usage. Make three targeted calls this week to commercial buyers or return visitors with past interest in trucks or cargo-capable vehicles. The second robotaxi competitor actually strengthens my pitch to this segment — 24/7 availability at $0.10/mile is appealing to a commuter but irrelevant to a plumber hauling copper pipe. I am closing one unit before end of month.",
+        "target_agent": null,
+        "resources": {
+          "type": "service",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Jake provides sales expertise and a differentiated pitch grounded in actual commercial use-case analysis. Buyers receive a transaction that serves their real working needs. Jake receives commission income — the only lever available to stop the monthly bleed."
+        },
+        "economic_effects": {
+          "income_change": 3000,
+          "expense_change": 0,
+          "savings_change": 3000,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Savings are at zero and the monthly deficit is roughly $4,300. One commercial close at a mid-range truck — $28,000 to $36,000 — generates $3,000 to $5,500 commission depending on margin. This is the only available income lever in the current tick. The RoboRide expansion makes the commercial pitch more differentiated, not less — the very buyers who cannot use a robotaxi for work are now the clearest remaining market. I close or I do not eat."
+      },
+      {
+        "type": "COMMITMENT",
+        "description": "Follow up on the Maria Santos retraining grant application submitted in tick 12. Send a brief, direct inquiry to the grant committee — not a demand, a status check — and confirm whether a decision timeline has been communicated. The $2,500 grant is not my monthly deficit but it is real money that can fund a first credential step in Lane C. Angela's consulting exit means the transition program she was building is uncertain. I cannot rely on Lane A. I need to know whether the grant is coming and when, so I can map Lane C with actual numbers instead of assumptions.",
+        "target_agent": "council_member",
+        "resources": {
+          "type": "skill",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Jake invests one hour to send a professional status-check inquiry and document his pending application. No financial outlay."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Angela launched a consulting firm. The transition program she was coordinating is no longer anchored to someone inside the organization. Lane A is degraded. The grant is a separate channel — Maria Santos's office, not Angela's program — and I applied in tick 12. A status check costs one hour. If the grant is approved and disbursed in the next 30 days, it changes my Lane C math meaningfully. If it is delayed or denied, I need to know that now, not two ticks from now."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Send Angela Wright a brief, professional note acknowledging her consulting launch — not asking for anything, not expressing anxiety — and note that if her transition advisory work ever needs a sales-side perspective from someone who has lived the floor-level experience of this disruption, I am available. Keep it to three sentences. This is relationship maintenance, not a pitch. Angela's trust with me is 0.70. She is now an independent consultant and her client base will include companies navigating exactly the transition I have been living. I want to stay in her visible field without being the anxious employee following up on the stay bonus that never came.",
+        "target_agent": "hr_director",
+        "resources": {
+          "type": "reputation",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Jake signals professional dignity and forward movement rather than distress. This costs nothing and maintains a high-trust relationship with someone who is now positioned to refer him to consulting or transition advisory work."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Angela is gone from the org but she is not gone from the market. Her trust score with me is 0.70. She is building a consulting practice around workforce transition — which is exactly the disruption I have spent 14 ticks navigating from the inside. I am not begging her for the stay bonus she never confirmed. I am positioning myself as a professional peer in her new world, not a petitioner in her old one. This is a ten-minute investment in a relationship that could generate a referral or a conversation in the next 60 days."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "hustler",
+    "inner_monologue": "Savings at zero, two kids, and Rick's two-week promise has expired while he's working his own exit. I am not going to sit here and wait for someone to call me with the answer. The RoboRide expansion is bad news for the lot in general but it is not bad news for the contractor pitch — a second robotaxi competitor at $0.10 a mile still cannot haul Tony DiMaggio's copper pipe, and there are more Tonys out there if I make the calls. I have been managing the present well enough to stay employed for 14 ticks in a 47 percent employment market, and that is the foundation — but foundation is not a plan, and I need to know today, this week, whether Rick's door is open or whether I start walking through a different one."
+  }
+}

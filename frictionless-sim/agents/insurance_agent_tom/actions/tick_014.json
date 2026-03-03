@@ -1,0 +1,71 @@
+{
+  "tick": 14,
+  "agent_id": "insurance_agent_tom",
+  "agent_name": "Tom Bradley",
+  "response": {
+    "internal_assessment": "The 30-day notice period is over. My AutoShield employment commitment had one remaining month as of last tick — that month is now gone. I am fully unemployed. My savings are at $27,021, which at roughly $3,000 to $3,500 per month in expenses gives me approximately 8 months of runway. That is not 13 months anymore. That is 8. Every tick without income is a month I do not get back. The Marcus Webb call happened last tick. I do not have a confirmed outcome yet — the inbox OUTCOME entry describes the call itself but gives no indication of whether Webb had anything concrete. I need to process that and move forward regardless. The bigger signal this tick is Linda Park. She is leaving AutoShield for a municipal risk management role. That is not just gossip — that is a data point about where the sector is going and where the surviving adjacent opportunities might be. Municipal risk management means liability, infrastructure, procurement risk, fleet risk for city vehicles. Those are fields I understand. Linda has real trust with me (0.53) and she offered introductions. She is now operating in a lane that overlaps with where I am trying to go. That is worth a direct, professional outreach — not to lean on her or ask for a job, but to congratulate her genuinely, acknowledge what her transition tells me about where the market is moving, and ask one honest question: does she see a pathway for someone with my risk background in the municipal or public-sector space? Separately, my retraining is at 30% with 3 months invested. I need to keep pressing that work — it is the long-game credential that makes me legible to the roles I am targeting. And Priya is actively networking. She is calling Maria Santos's office and responding to Linda's requests. I should check in with her — not to debrief the Webb call, but to ask what she has heard back from the insurtech firms she identified. She may have market intelligence I can use.",
+    "inbox_interpretation": "The inbox is telling me three things. First: the sector is accelerating its collapse — 21 active policies, RoboRide now with a second competitor in Millfield, 47% employment rate. There is no reverting to my prior book of business. That door is closed. Second: Linda Park is pivoting to municipal risk management. The word-of-mouth is fragmented but the signal is clear — she is moving toward public-sector risk, she is researching insurtech firms, she is calling municipal contacts directly. She is an adapter, and her adaptation vector points toward a space I should be paying attention to. Third: everyone I know is in motion. Betty Kowalski is stressed. Carlos Ruiz is navigating logistics changes. Priya is actively job searching. The social fabric around me is under strain. That matters for my wellbeing even when it is not directly actionable. The absence of a direct outcome from the Webb call in my inbox — other than the savings drop — means I need to treat the follow-up as an open item, not a resolved one.",
+    "chosen_actions": [
+      {
+        "type": "SIGNAL",
+        "description": "Reach out to Linda Park directly — a brief, genuine message, not a request. Congratulate her on the municipal risk management move. Acknowledge that her pivot tells me something real about where viable risk work is headed. Ask one honest question: in her view, is there a realistic pathway for someone with a commercial auto risk background to move into municipal risk analytics or public-sector risk support, and if so, what would make a candidate legible to that space? I am not asking her for a job. I am asking someone I have worked alongside for years to share her honest read on a market she is now entering. I close the message by saying I would welcome a 15-minute call at her convenience, but there is no pressure — I am grateful for everything she has already done.",
+        "target_agent": "insurance_manager",
+        "resources": {
+          "type": "reputation",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Tom invests relational capital with Linda to extract market intelligence about municipal and public-sector risk management as a viable transition lane. He offers nothing she needs but the relationship itself is real and she has shown willingness to help."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Linda is transitioning into exactly the adjacent space Tom has been trying to identify. Her move is not random — she is someone with 15+ years in regional insurance management and she is choosing municipal risk. That is a market signal. Tom has legitimate standing to reach out: she laid him off, yes, but she also offered references and introductions. She is not an adversary. Asking her one informed question costs nothing and might open a lane that was not visible before. The key is to ask specifically — not generically. Tom should reference the public-sector fleet and infrastructure risk angle specifically, because that connects his background to what she is now doing."
+      },
+      {
+        "type": "EXCHANGE",
+        "description": "Continue retraining coursework — advance SQL fundamentals to the next module. This tick: complete the window functions and subqueries unit, which is where entry-level data analytics roles start to require real demonstrated proficiency. Log the progress. Update the retraining record to reflect 4 months invested and approximately 40% completion. The goal is not the certificate in the abstract — the goal is being able to say, honestly and specifically, to someone like Marcus Webb or a hiring manager in commercial risk analytics: I can query, I can aggregate, I can write subqueries, and I am 40% through a structured course. That specificity is the difference between a credential and a claim.",
+        "target_agent": null,
+        "resources": {
+          "type": "skill",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "Investment of time and cognitive labor in SQL fundamentals. No direct cash cost this tick — the grant funds this. Progress: retraining moves from 30% to approximately 40% complete."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The retraining is the only long-term lever Tom controls completely. Job search outcomes depend on other people. The retraining depends on him showing up and doing the work. At 30% completion and 8 months of runway, the math is tight: the certificate completes in roughly 7 more months at current pace, which means it finishes just before the runway expires. Tom cannot afford to let the retraining slip. Every month of completed coursework also gives him something concrete to say in interviews and conversations — not a credential he is waiting to have, but a specific unit of skill he can demonstrate now."
+      },
+      {
+        "type": "ASSOCIATION",
+        "description": "Brief check-in call with Priya Sharma — not a long conversation, not a debrief session. Tom calls Priya and asks two specific questions: (1) Has she heard back from any of the insurtech firms she identified? What is the signal on timeline and role type? (2) Has Maria Santos's office confirmed the retraining grant disbursement? Tom filed in tick 8 and has seen no confirmation. If Priya has received hers, that tells Tom his is in process. If she has not, they may need to follow up together. Tom also tells Priya honestly that the Webb call happened but that he does not yet know if it will lead anywhere — he will share what he learns. The relationship with Priya is the highest-trust professional relationship Tom has and it costs him nothing to maintain it actively.",
+        "target_agent": "insurance_agent_priya",
+        "resources": {
+          "type": "labor",
+          "direction": "both",
+          "amount": 0,
+          "detail": "Mutual exchange of job market intelligence between two former colleagues navigating the same transition. No financial transaction. Tom gives Priya an honest update on the Webb conversation in exchange for her read on the insurtech market and grant status."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "Priya is in the same transition lane as Tom, approximately one step ahead in terms of active market engagement (she is responding to Linda's requests, calling Maria Santos's office). Tom should treat that as useful intelligence, not competition. If the insurtech firms she identified have roles that fit her better than him, that is fine — but if the market response she is getting tells him something about what employers are actually asking for, he needs to know that. The grant confirmation question is also genuinely useful: if Priya has received her $2,500 disbursement, Tom can follow up more confidently on his own."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Eight months. That is what the math says now. I spent two years not looking at numbers like this directly, and now looking at them is the only thing that keeps me honest. Linda moving to municipal risk is not just interesting — it is a map. Someone who knows this space as well as she does chose that direction. I need to understand what she sees that I do not see yet. The Webb call happened. I do not know what came of it. What I know is that I showed up prepared, I did not oversell, and I followed up within 24 hours like I said I would. Whatever comes of it is out of my hands now. What is in my hands is the next module of this course, and the message to Linda, and the call to Priya. Those are the three things I can actually do today."
+  }
+}

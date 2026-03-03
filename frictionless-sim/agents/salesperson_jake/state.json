@@ -79,14 +79,14 @@
     "sentiment": "determined"
   },
   "psychological": {
-    "stress_level": 0.19,
-    "agency": 0.8,
+    "stress_level": 0.17,
+    "agency": 0.82,
     "grief_stage": "none",
     "temporal_horizon_months": 10,
     "high_stress_ticks": 0
   },
   "financial": {
-    "monthly_income": 807,
+    "monthly_income": 605,
     "monthly_expenses": 5134,
     "savings": 0,
     "debt_total": 41695,
@@ -137,5 +137,5 @@
   },
   "locality": "millfield",
   "archetype": "hustler",
-  "tick_updated": 13
+  "tick_updated": 14
 }

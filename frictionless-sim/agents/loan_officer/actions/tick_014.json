@@ -1,0 +1,90 @@
+{
+  "tick": 14,
+  "agent_id": "loan_officer",
+  "agent_name": "Kevin O'Brien",
+  "response": {
+    "internal_assessment": "L0 is not a background concern anymore — it is the only thing I am managing. Runway is 1.8 months. Savings $9,179. Monthly burn approximately $4,388. I have six weeks before the math produces a forced outcome. Sandra's answer from tick 13 was either yes with no visible income effect yet, or another delay — the savings drop with no employment change suggests either the expansion was approved but fee income hasn't posted yet, or I am still waiting. Either way, I cannot afford another tick of ambiguity. The Amir Patel loan is explicitly one document away from closing. That document is the single highest-leverage action I can take this week — a closed loan means origination fee income, it means a transaction in my file, and it means the portfolio expansion is no longer theoretical. David Chen is now unemployed. That is painful to absorb — he is my mentor, he sponsored my NMLS pathway, and now he is on the other side of the desk. Word of mouth says he is doing CDFI outreach and exploratory calls, which tells me he is adapting, not collapsing. He asked me to be a reference. I will be one, and I will reach out to him directly — not just because it is the right thing to do, but because David's CDFI contacts and community development network are exactly the space I am trying to enter. That is not cynical. It is mutual. The contingency contacts I started last tick at the regional credit unions need to advance to actual conversations this week. I do not have the runway to treat those as background processes anymore. NMLS is at 40% by now — I continue the daily block. Lisa Freeman's cases referred to my office hours represent real pipeline demand from community members who need small business and personal credit products. I need to show up to that next session prepared to actually move applications forward.",
+    "inbox_interpretation": "The direct action item in my inbox is explicit and urgent: call Amir Patel today, confirm the cash flow documentation status, set a 48-hour hard deadline. This is not a suggestion — it is the description of an action I already committed to last tick and apparently did not fully complete or need to repeat. The other signals: 47% employment rate and spending index of 29 mean the macro environment is deteriorating faster than any internal institutional process can respond. Three people in the community sold or stopped using their cars this month — that is not a trend anymore, that is a structural shift visible at street level. Seven percent of people are using robotaxis regularly. Betty Kowalski is stressed, which is consistent with what I would expect from anyone on Auto Row right now. David Chen's word-of-mouth fragments about CDFI contacts and exploratory calls confirm he has activated his own pivot — he is not waiting. The Lisa Freeman news about presenting unmet-needs data to Maria Santos mentions 4 cases referred to Kevin's office hours. Those 4 people are real leads for products I can originate if the portfolio expansion is confirmed. Maria Santos releasing the economic resilience framework publicly means the policy context for small business lending support is moving in a direction that could create grant-backed loan demand. I should be aware of that even if I cannot act on it directly this tick.",
+    "chosen_actions": [
+      {
+        "type": "EXCHANGE",
+        "description": "Call Amir Patel by phone this morning. Not email. Phone. Confirm whether the outstanding business cash flow documentation has been submitted. If yes, immediately notify the underwriting desk and push for final approval by end of week. If no, give Amir a clear, direct 48-hour deadline: the document needs to be in my hands by end of business tomorrow or the conditional approval lapses and we restart. I am not his accountant and I am not chasing him indefinitely — but this loan is one piece of paper from closing and I need that fee income. I tell him that plainly: we are at the finish line, I need this document to get you the capital you applied for. Make it easy for him to say yes.",
+        "target_agent": "diner_owner",
+        "resources": {
+          "type": "service",
+          "direction": "both",
+          "amount": 12000,
+          "detail": "Loan origination service — $12,000 SBA-type small business loan for EV charger capital improvement. Origination fee and closed-loan evidence for portfolio expansion case."
+        },
+        "economic_effects": {
+          "income_change": 360,
+          "expense_change": 0,
+          "savings_change": 360,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "This is the highest-leverage single action available to me this tick. A closed loan produces fee income, produces a transaction record I can show Sandra and any external employer, and ends the ambiguity that has been hanging over this origination since tick 9. I have already done the underwriting work. I am not waiting on my own process — I am waiting on one document from Amir. Calling him directly removes the friction. The 48-hour deadline is not punitive — it is the minimum structure needed to produce a result before my runway closes."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Contact David Chen directly — call, not text, not email — to offer myself formally as a professional reference. Keep it brief and genuine: I know he is in transition, I know what he built at the bank, and I am willing to vouch for him to anyone he needs. Then ask how he is doing and listen. Do not ask for anything. Do not try to mine his CDFI contacts in this call. That is a future conversation. This call is about being the person David helped become — showing up for him now that the dynamic has reversed.",
+        "target_agent": "bank_manager",
+        "resources": {
+          "type": "reputation",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Reference provision — professional endorsement of David Chen's capabilities to prospective employers or community lending institutions."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "David is the person who structured the NMLS pathway for me, who gave me the name of the right decision-maker when I was spinning on the portfolio expansion, who maintained contact after his own departure. The right thing to do when someone asks you to be their reference is to call them and confirm you will do it well — not send a form email. This also keeps the relationship warm at the precise moment David is building a new network in community development finance, which is where I am trying to go. These two things are both true at once and neither one cancels the other."
+      },
+      {
+        "type": "COMMITMENT",
+        "description": "Advance the regional credit union contingency contact from initial inquiry to an actual conversation. I started this last tick. This tick I follow up or schedule the call. Specifically: contact the lending director I reached out to, confirm interest in an exploratory 20-minute call, and if they are willing, hold that call this week. My pitch is direct: I am a licensed originator with 20 years in auto and emerging small business lending in Millfield, I have an active SBA-type origination closing this week, I am 40% through my NMLS mortgage credential, and I am evaluating whether my skills are better deployed externally given the structural contraction in auto lending. I am not begging for a job. I am presenting a professional who is one decision away from being available.",
+        "target_agent": null,
+        "resources": {
+          "type": "labor",
+          "direction": "give",
+          "amount": 0,
+          "detail": "Professional time investment in external opportunity development — 2-3 hours for calls and follow-up."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "1.8 months of runway is not a planning horizon — it is an alarm. I cannot treat external contacts as a backup option I will activate if things get worse. Things are already at the point where I need these conversations to be real before I need them to be urgent. The credit union inquiry is low-cost and high-option-value. If Sandra's expansion approval does generate income, I can deprioritize this. But I do not have the luxury of sequencing these actions anymore. Both tracks run simultaneously now."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Continue NMLS training — advance modules 9 and 10 this tick, maintaining the 90-minute daily block. At 40% progress, the credential is real and getting more real. This is not the tick to skip training because the employment situation is acute. Skipping training to manage an employment crisis is the kind of decision that feels rational in the moment and looks like a mistake six months later. The credential is portable. It is mine regardless of what Sandra or a credit union decides. I protect it.",
+        "target_agent": null,
+        "resources": {
+          "type": "skill",
+          "direction": "internal",
+          "amount": 0,
+          "detail": "NMLS mortgage origination modules 9-10. Approximately 3 hours per week of structured coursework plus 90-minute daily blocks sustained from tick 1."
+        },
+        "economic_effects": {
+          "income_change": 0,
+          "expense_change": 0,
+          "savings_change": 0,
+          "asset_change": "none",
+          "employment_change": "none"
+        },
+        "reasoning": "The NMLS credential is the long-game infrastructure underneath every short-term move I am making. It is also the thing I can mention in the credit union conversation as evidence I am not just a declining-sector specialist looking for a lateral move — I am someone investing in a credential that opens mortgage origination. That is a different kind of candidate. I do not pause this regardless of what happens on the income side."
+      }
+    ],
+    "emotional_state": "anxious",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Six weeks of runway and I still do not have a clean answer from Sandra — the only thing I can control right now is closing Amir's loan and getting into a real conversation with the credit union before desperation writes the script for me. David being unemployed hit harder than I expected; he built the ladder I have been climbing and now he needs someone to throw him a rope, and the least I can do is hold it steady. I have been the most disciplined version of myself for 14 ticks and the math is still losing — which means the next move has to produce income, not just readiness."
+  }
+}

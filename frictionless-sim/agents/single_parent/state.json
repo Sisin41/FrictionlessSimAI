@@ -43,8 +43,8 @@
     },
     "L3_CONSUME": {
       "discretionary_budget": 1300,
-      "owns_car": true,
-      "car_payment_monthly": 413,
+      "owns_car": false,
+      "car_payment_monthly": 0,
       "substitution_willingness": 0.5,
       "uses_robotaxi": true
     },
@@ -78,7 +78,7 @@
     "sentiment": "anxious"
   },
   "psychological": {
-    "stress_level": 0.41,
+    "stress_level": 0.46,
     "agency": 0.67,
     "grief_stage": "none",
     "temporal_horizon_months": 8,
@@ -120,5 +120,5 @@
   },
   "locality": "millfield",
   "archetype": "hustler",
-  "tick_updated": 13
+  "tick_updated": 14
 }

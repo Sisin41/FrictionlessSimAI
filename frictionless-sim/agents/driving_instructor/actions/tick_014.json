@@ -1,0 +1,38 @@
+{
+  "tick": 14,
+  "agent_id": "driving_instructor",
+  "agent_name": "Frank Russo",
+  "response": {
+    "internal_assessment": "The savings number is the number that matters right now. Zero. I confirmed the Howard Liu workshop last tick and whatever I spent getting there wiped the last of it. My monthly burn is $3,176 and my income is zero. I have $17,550 in debt and a credit score of 593 that is not going to get me a favorable loan anywhere. I have a dependent. I have a mortgage. The Howard Liu workshop is the only thing standing between me and a month where I genuinely cannot cover rent. The good news is that the workshop is booked and the fee is confirmed somewhere between $400 and $600 for two hours. That is not enough. But it is something, and it is real, and it is this tick. The other thing I see in the inbox is that Mark Thompson is moving fast on the pipeline: he is going to the community college articulation meeting, he is hosting Sarah Kim's diagnostics session, he is building the advisory board. That pipeline is becoming a real institution. I helped seed it. That matters for my long-term positioning. But right now I need to think about keeping the lights on. The state retraining fund has been announced since tick 9. I have not formally applied for it. I need to do that today. Fourteen people enrolled in retraining this month. They are my potential students if the adult ed curriculum ever gets approved. And three more people sold or stopped using their cars. The demand for what I teach in the old sense is gone. The demand for what I could teach in the new sense is growing. I just need to survive long enough to get there.",
+    "inbox_interpretation": "The Howard Liu word-of-mouth confirms he accepted my workshop offer -- that is already baked in from tick 13. What I notice is that Mark Thompson is moving aggressively on the pipeline this tick: community college articulation meeting, Sarah Kim guest session in the shop classroom, and now he is asking Howard Liu to serve on an advisory board. The pipeline is becoming an institution. Mark also heard from Howard that I will be delivering the EV diagnostics workshop -- which means Howard talking to Mark, Mark talking to others. My name is circulating in the right circles. The 14 retraining enrollees are a signal the retraining fund is active and people are using it. I should be in that system. I have not formally applied to the state retraining fund yet. That is an omission I need to correct. The Sandra Reyes adult ed decision is still pending. The community college articulation work Mark is doing could create a second channel for my curriculum that does not depend on Sandra Reyes alone.",
+    "chosen_actions": [
+      {
+        "type": "EXCHANGE",
+        "description": "Deliver the Howard Liu AV literacy and EV diagnostics workshop. Frank shows up to Liu's parts store, runs the two-hour session with his prepared curriculum, and collects the agreed fee of $500. He teaches professionally -- not as a favor, not apologetically. He documents the session with a one-paragraph write-up and asks Howard for a brief testimonial he can use when pitching future corporate workshops.",
+        "target_agent": "parts_store_owner",
+        "resources": {"type": "professional_service", "direction": "both", "amount": 500, "detail": "Two-hour AV literacy and EV diagnostics workshop for parts store employees. Fee: $500."},
+        "economic_effects": {"income_change": 500, "expense_change": 0, "savings_change": 500, "asset_change": "none", "employment_change": "none"},
+        "reasoning": "This is the only confirmed income Frank has this tick. He committed to it last tick. He shows up prepared and professional. The $500 fee barely covers two weeks of survival costs but it is real money and it establishes a precedent -- he charges professional rates for professional work. The testimonial is a secondary asset that costs nothing to ask for."
+      },
+      {
+        "type": "COMMITMENT",
+        "description": "Formally apply for the state retraining fund. Frank pulls the application requirements, assembles his documentation -- business license, employment history, evidence of displacement, a one-page statement of retraining intent -- and submits. His retraining target is adult education and AV literacy instruction. He notes the Howard Liu workshop as evidence he is already actively retraining into the new role, not just planning to.",
+        "target_agent": null,
+        "resources": {"type": "time_and_documentation", "direction": "give", "amount": 0, "detail": "Two to three hours preparing and submitting state retraining fund application. No monetary cost."},
+        "economic_effects": {"income_change": 0, "expense_change": 0, "savings_change": 0, "asset_change": "none", "employment_change": "none"},
+        "reasoning": "The retraining fund has been available since tick 9. Frank has not applied. That is a mistake he corrects now. His situation is exactly what the fund is designed for: licensed small business owner, displaced by automation, actively retraining. The Howard Liu workshop is concrete evidence he is already doing the work. Applying costs nothing except time and the application could unlock bridge funding that changes the survival math."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Contact Mark Thompson to flag that the Howard Liu workshop happened and to ask specifically whether the community college articulation agreement creates any pathway for Frank's adult AV literacy curriculum -- not through Sandra Reyes's district channel, but through the community college directly. Frank is not asking for a favor. He is asking a specific question about whether there is a second door he does not know about yet.",
+        "target_agent": "auto_shop_teacher",
+        "resources": {"type": "communication", "direction": "both", "amount": 0, "detail": "Brief phone call. Frank reports on the Liu workshop outcome and asks one specific question about the CC articulation channel."},
+        "economic_effects": {"income_change": 0, "expense_change": 0, "savings_change": 0, "asset_change": "none", "employment_change": "none"},
+        "reasoning": "Mark is the highest-trust contact Frank has (0.83). Mark is actively building the community college pipeline this tick. If the CC articulation agreement includes a workforce development component, Frank's AV literacy curriculum might fit under it independent of the district adult ed process. Frank asking this question costs nothing and could open a second channel. He also updates Mark on the Liu workshop -- keeping the professional relationship warm and demonstrating that he follows through on things."
+      }
+    ],
+    "emotional_state": "anxious",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "I am teaching a parts store crew about electric cars and autonomous systems today, and I am charging them $500 for it, and that $500 is the only thing standing between me and a month where I cannot pay the mortgage. That is the reality I am living in right now. I built a business for twenty-eight years and I am starting over with a two-hour session in a auto parts store and I am not going to pretend that is not what it is. But I showed up to that legal pad in tick one and the right column did not say driving anywhere -- it said teaching, it said reading anxiety, it said building confidence in someone who wants to quit. That is what I do today. I do not know if the adult ed coordinator is going to call me back. I do not know if the retraining fund comes through. I know I show up prepared and I do not apologize for the fee."
+  }
+}

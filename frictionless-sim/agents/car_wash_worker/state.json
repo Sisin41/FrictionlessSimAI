@@ -76,8 +76,8 @@
     "sentiment": "determined"
   },
   "psychological": {
-    "stress_level": 0.04,
-    "agency": 0.69,
+    "stress_level": 0.02,
+    "agency": 0.71,
     "grief_stage": "none",
     "temporal_horizon_months": 11,
     "high_stress_ticks": 0
@@ -120,5 +120,5 @@
   },
   "locality": "millfield",
   "archetype": "adapter",
-  "tick_updated": 13
+  "tick_updated": 14
 }

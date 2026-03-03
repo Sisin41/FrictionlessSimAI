@@ -87,7 +87,7 @@
     "sentiment": "anxious"
   },
   "psychological": {
-    "stress_level": 0.14,
+    "stress_level": 0.19,
     "agency": 0.81,
     "grief_stage": "none",
     "temporal_horizon_months": 10,
@@ -129,5 +129,5 @@
   },
   "locality": "millfield",
   "archetype": "adapter",
-  "tick_updated": 13
+  "tick_updated": 14
 }

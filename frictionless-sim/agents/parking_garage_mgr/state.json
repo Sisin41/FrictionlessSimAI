@@ -30,8 +30,8 @@
   },
   "hierarchy": {
     "L0_SURVIVE": {
-      "runway_months": 7.5,
-      "threat_level": 0.38,
+      "runway_months": 7.6,
+      "threat_level": 0.37,
       "monthly_essentials": 2100,
       "health_cost_from_stress": 0
     },
@@ -42,7 +42,7 @@
     },
     "L2_PARTICIPATE": {
       "employment_status": "employed",
-      "skill_relevance": 0.38,
+      "skill_relevance": 0.41,
       "role_security": 0.78,
       "network_strength": 0.66
     },
@@ -84,8 +84,8 @@
     "sentiment": "determined"
   },
   "psychological": {
-    "stress_level": 0.06,
-    "agency": 0.78,
+    "stress_level": 0.04,
+    "agency": 0.8,
     "grief_stage": "none",
     "temporal_horizon_months": 11,
     "high_stress_ticks": 0
@@ -93,7 +93,7 @@
   "financial": {
     "monthly_income": 4200,
     "monthly_expenses": 3478,
-    "savings": 26054,
+    "savings": 26415,
     "debt_total": 25977,
     "credit_score": 755
   },
@@ -119,8 +119,8 @@
       "description": "continue targeted job applications with sharper positioning. following tick 1's linkedin refresh, now actively apply to 3-5 specific roles: municipal facilities operations coordinator, university or hospital plant operations manager, commercial property operations \u2014 roles where my budget oversight, compliance, and multi-shift staffing experience translates directly. write cover letters that do not mention parking. frame the garage as a high-traffic, safety-critical, 24/7 operations environment. the skills are real. the framing has to catch up.",
       "started_tick": 4,
       "completion_eta_months": 10,
-      "progress": 0.4,
-      "months_invested": 4
+      "progress": 0.5,
+      "months_invested": 5
     }
   ],
   "temporal_mismatches": {
@@ -134,6 +134,6 @@
     "willingness_to_move": 0.3
   },
   "locality": "millfield",
-  "archetype": "builder",
-  "tick_updated": 13
+  "archetype": "adapter",
+  "tick_updated": 14
 }

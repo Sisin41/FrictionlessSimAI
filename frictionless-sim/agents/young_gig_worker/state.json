@@ -38,7 +38,7 @@
     },
     "L2_PARTICIPATE": {
       "employment_status": "unemployed",
-      "skill_relevance": 0.81,
+      "skill_relevance": 0.87,
       "role_security": 0.59,
       "network_strength": 0.48
     },
@@ -78,14 +78,14 @@
     "sentiment": "determined"
   },
   "psychological": {
-    "stress_level": 0.07,
-    "agency": 0.52,
-    "grief_stage": "depression",
+    "stress_level": 0.05,
+    "agency": 0.54,
+    "grief_stage": "acceptance",
     "temporal_horizon_months": 11,
     "high_stress_ticks": 0
   },
   "financial": {
-    "monthly_income": 120,
+    "monthly_income": 0,
     "monthly_expenses": 2404,
     "savings": 0,
     "debt_total": 20222,
@@ -106,8 +106,8 @@
       "description": "enroll in and begin google digital marketing and e-commerce certificate on coursera. start first two modules this month. this is the retraining path i named last tick \u2014 this month i actually pay for it and start the first coursework. $49/month subscription. i will do this in the evenings after cafe shifts. this is not quitting anything, it is building the parallel skill set so when cafe hours get cut or gig demand dries up, i have somewhere to pivot.",
       "started_tick": 4,
       "completion_eta_months": 8,
-      "progress": 0.45999999999999996,
-      "months_invested": 4
+      "progress": 0.6599999999999999,
+      "months_invested": 6
     }
   ],
   "temporal_mismatches": {
@@ -121,6 +121,6 @@
     "willingness_to_move": 0.95
   },
   "locality": "millfield",
-  "archetype": "hustler",
-  "tick_updated": 13
+  "archetype": "adapter",
+  "tick_updated": 14
 }

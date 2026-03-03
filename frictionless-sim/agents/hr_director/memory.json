@@ -59,6 +59,11 @@
       "tick": 13,
       "summary": "Conduct the 20-minute informational call with the healthcare administration contact from the regional hospital group. Objective: understand their workforce transition challenges, establish whether AV/automation disruption is creating HR needs in their sector, and position Wright Workforce Advisory LLC as a methodological resource \u2014 not a vendor pitch, but a genuine professional conversation that ends with a next step. Walk away with either a clear 'not now' or a concrete follow-up action. Document the call in Wright Workforce Advisory LLC's CRM log.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 14,
+      "summary": "Follow up with the healthcare administration contact from last tick's informational call. Send a brief, specific follow-up email within 48 hours of the call: one paragraph summarizing what I heard from them about their workforce transition challenges, one paragraph on how Wright Workforce Advisory LLC's methodology addresses exactly those challenges (reference the vulnerability mapping framework), and a specific ask \u2014 a 30-minute scoping call with the decision-maker to explore whether a pilot engagement makes sense. Attach the two-page case study drafted in tick 12 as a concrete demonstration of the methodology in action. This is not a pitch deck. It is a professional follow-through that shows I listened and have something real to offer.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -165,6 +170,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Conduct the 20-minute informational call with the healthcare administration contact from the regional hospital group. Objective: understand their workforce transition challenges, establish whether AV/automation disruption is creating HR needs in their sector, and position Wright Workforce Advisory LLC as a methodological resource \u2014 not a vendor pitch, but a genuine professional conversation that ends with a next step. Walk away with either a clear 'not now' or a concrete follow-up action. Document the call in Wright Workforce Advisory LLC's CRM log.. Savings dropped by $4,396. "
+    },
+    {
+      "tick": 14,
+      "action": "Follow up with the healthcare administration contact from last tick's informational call. Send a brief, specific follow-up email within 48 hours of the call: one paragraph summarizing what I heard from them about their workforce transition challenges, one paragraph on how Wright Workforce Advisory LLC's methodology addresses exactly those challenges (reference the vulnerability mapping framework), and a specific ask \u2014 a 30-minute scoping call with the decision-maker to explore whether a pilot engagement makes sense. Attach the two-page case study drafted in tick 12 as a concrete demonstration of the methodology in action. This is not a pitch deck. It is a professional follow-through that shows I listened and have something real to offer.",
+      "savings_delta": -4950,
+      "stress_delta": -0.02,
+      "employment_changed": false,
+      "narrative": "You Follow up with the healthcare administration contact from last tick's informational call. Send a brief, specific follow-up email within 48 hours of the call: one paragraph summarizing what I heard from them about their workforce transition challenges, one paragraph on how Wright Workforce Advisory LLC's methodology addresses exactly those challenges (reference the vulnerability mapping framework), and a specific ask \u2014 a 30-minute scoping call with the decision-maker to explore whether a pilot engagement makes sense. Attach the two-page case study drafted in tick 12 as a concrete demonstration of the methodology in action. This is not a pitch deck. It is a professional follow-through that shows I listened and have something real to offer.. Savings dropped by $4,950. "
     }
   ],
   "reflections": [

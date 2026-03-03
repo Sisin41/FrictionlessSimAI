@@ -1,0 +1,46 @@
+{
+  "tick": 14,
+  "agent_id": "uber_driver_2",
+  "agent_name": "Grace Okafor",
+  "response": {
+    "internal_assessment": "The CareRide onboarding is done. Signed, documented, start date in writing. That was the thing I was building toward since tick 9 and it landed. Savings are at $2,200 after the tick 13 outcome — the first real buffer I have had in months. But I am not fooling myself: $2,200 is not safety, it is margin. Monthly burn is still $1,787, my rideshare income is $380 and shrinking as robotaxi adoption climbs, and NEMT routes have not generated a paycheck yet. The transition is real but the income bridge is not closed. The move this tick is to actually run the first CareRide shifts — stop being 'newly onboarded' and start being 'employed.' The second thing I have to do is respond to Denise. She sent a clean, professional check-in that costs her something — she is signaling she is still in the race at Millfield General and trusting me to be the person who can help. I helped Robert get placed. I can at least keep Denise warm and make sure she knows what I know about who is hiring and what they are looking at. The second robotaxi competitor entering Millfield this tick is the detail I am sitting with. That is not a plateau. That is acceleration. Rideshare income will compress faster now. I need NEMT routes to be generating real money within 30 days or the buffer I just built starts evaporating again.",
+    "inbox_interpretation": "Denise Williams sent two messages this tick — both are her keeping the Millfield General connection live. She is not asking me to do anything dramatic. She wants me to know she is still interested and still grateful. The subtext is: 'please do not forget about me in there.' Robert Jackson is formally starting at Millfield Medical Transport this tick. That is meaningful — the intelligence exchange we ran from tick 4 through tick 9 produced a real employment outcome for him. That reinforces my credibility as a network node who actually delivers. The RoboRide 24/7 expansion and second competitor entry is the macro pressure I was already modeling — it validates the pivot decision, not punishes it. Tom Bradley is stressed. I notice that. I cannot fix his situation but I register it as signal about how the transport and insurance sectors are reading this moment. Frank Russo pivoting toward something with Howard Liu is contextual — worth watching, not worth acting on this tick.",
+    "chosen_actions": [
+      {
+        "type": "TRANSFORMATION",
+        "description": "Begin running CareRide of the Valley NEMT shifts on the Millfield General route. This is the first income-generating week under the signed route agreement. Target 20 hours this week — the same pace Robert Jackson is starting at Millfield Medical Transport. Get familiar with the route, confirm the dispatching process with Marcus Webb, and document the first paycheck cycle so I know exactly when income will land relative to my monthly burn.",
+        "target_agent": null,
+        "resources": {"type": "labor", "direction": "give", "amount": 20, "detail": "20 hours NEMT driving on Millfield General route under CareRide of the Valley contract signed tick 13"},
+        "economic_effects": {"income_change": 420, "expense_change": 0, "savings_change": 420, "asset_change": "none", "employment_change": "hired"},
+        "reasoning": "The onboarding is complete. The only remaining step is to actually drive the routes and generate income. At estimated $18-21/mile NEMT rates across a structured hospital route, 20 hours of shifts should yield $420-500 this tick depending on route density. More importantly this transitions my employment status from the gap state I have been in since tick 8. I do not need to negotiate or plan further — I need to execute."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Send Denise Williams a direct, warm response to her check-in. Tell her: I started my first CareRide shifts this week on the Millfield General route — so I will literally be moving through that building. I have not heard anything new from Nicole Washington but I will flag her name again when I am on-site if the moment presents itself. I am still watching for her. Not promising anything I cannot deliver, but making clear that the relationship is active and I am physically present in the institution she is trying to get into.",
+        "target_agent": "parking_garage_mgr",
+        "resources": {"type": "social_capital", "direction": "give", "amount": 0, "detail": "Warm professional response confirming CareRide start and continued awareness of Denise's Millfield General candidacy"},
+        "economic_effects": {"income_change": 0, "expense_change": 0, "savings_change": 0, "asset_change": "none", "employment_change": "none"},
+        "reasoning": "Denise has a trust score of 0.71 — she is my highest-trust active contact. She reached out with a clean, non-demanding check-in and deserves a real response. More practically: I am now going to be physically present at Millfield General on NEMT routes. That is information she needs. Being in that building creates soft opportunities to hear things — who is managing facilities transitions, what the internal mood is, whether the role she is targeting has moved. I am not promising to be her inside contact. I am being honest that I am there and I will keep my eyes open. That is something I can deliver."
+      },
+      {
+        "type": "INACTION",
+        "description": "Do not resume rideshare driving in peak-hour surge blocks this tick. Rideshare income was $380 at its best, and that number will only compress further with RoboRide at 24/7 coverage and a second competitor now in Millfield. Every rideshare hour I drive this tick is an hour I am not spending on NEMT route familiarization or clinical coursework. The math has finally flipped — rideshare is no longer the best use of my driving hours.",
+        "target_agent": null,
+        "resources": {"type": "time", "direction": "internal", "amount": 0, "detail": "Rideshare hours redirected to NEMT ramp-up and nursing coursework"},
+        "economic_effects": {"income_change": -380, "expense_change": 0, "savings_change": -380, "asset_change": "none", "employment_change": "none"},
+        "reasoning": "This is the exit I have been building toward for nine ticks. Rideshare was always the bridge, not the destination. The bridge served its function — it kept me solvent through nursing school and NEMT certification and the CareRide placement process. It is no longer competitive with autonomous alternatives at $0.10/mile and 5-minute wait times. Choosing to stop rideshare is not quitting under pressure. It is executing the plan I had all along. The $380 income loss is real but the NEMT income replaces it if I run the routes instead of the rideshare shifts."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Continue nursing program coursework and clinical hours. Protect the study schedule — do not let the CareRide ramp-up consume clinical hours that are already committed. The credential is 32% complete with 8 months remaining. That timeline only shortens if I stay on the course load. The retraining has 3 months invested and cannot be interrupted now without losing progress.",
+        "target_agent": null,
+        "resources": {"type": "time", "direction": "internal", "amount": 15, "detail": "Nursing coursework and clinical placement hours protected from schedule compression"},
+        "economic_effects": {"income_change": 0, "expense_change": 0, "savings_change": 0, "asset_change": "none", "employment_change": "none"},
+        "reasoning": "The nursing credential is the long-horizon exit from transport dependency entirely. NEMT is a bridge that fits my current skills and certification. Nursing is the destination that eliminates my vulnerability to robotaxi displacement permanently. I am not trading one for the other. I am running both on the same weekly schedule I designed at tick 1: NEMT shifts absorb the peak-hour windows I was using for rideshare, clinical hours stay in their protected blocks. The plan always assumed I would be doing some form of healthcare-adjacent work while finishing school. CareRide is just that work arriving on schedule."
+      }
+    ],
+    "emotional_state": "relieved",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "I am actually going to be inside Millfield General this week, which is a strange thing to sit with — I spent months trying to get a connection into that building for Denise, and now I am driving routes through it. The second robotaxi competitor entering Millfield should scare me more than it does, but the truth is I already made the decision it was trying to force. The CareRide contract is signed. The rideshare chapter is closing on my terms, not theirs. I am not where I planned to be at tick 14 — I planned to be closer to graduation with a cleaner savings position — but the adapter in me knows that where I am is not where I was, and where I was was worse."
+  }
+}

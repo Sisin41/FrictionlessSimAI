@@ -64,6 +64,11 @@
       "tick": 13,
       "summary": "Call Andrea Torres at Millfield Staffing Solutions and actively request all available per-diem RN floor coverage shifts for the coming two to three weeks \u2014 not just the standing two-shift arrangement from last tick, but any open slot across any unit at any hospital in the Millfield network. Make clear I am available for night shifts, weekend shifts, and short-notice fill. Generate maximum bridge income before the formal recall clears.",
       "emotional_state": "anxious"
+    },
+    {
+      "tick": 14,
+      "summary": "Follow up directly with Millfield General HR and my charge nurse Linda Reyes to confirm the formal recall and reinstatement to schedule. The two-to-three week administrative window they gave me at the end of tick 12 has elapsed. I need confirmation: am I back on official payroll and schedule, or is there a further delay? Also contact Andrea Torres at Millfield Staffing Solutions to maintain per-diem availability in parallel until formal recall is confirmed \u2014 I do not drop the bridge income until the main income is verified and active.",
+      "emotional_state": "anxious"
     }
   ],
   "past_outcomes": [
@@ -170,6 +175,14 @@
       "stress_delta": 0.05,
       "employment_changed": false,
       "narrative": "You Call Andrea Torres at Millfield Staffing Solutions and actively request all available per-diem RN floor coverage shifts for the coming two to three weeks \u2014 not just the standing two-shift arrangement from last tick, but any open slot across any unit at any hospital in the Millfield network. Make clear I am available for night shifts, weekend shifts, and short-notice fill. Generate maximum bridge income before the formal recall clears.. Savings dropped by $192. "
+    },
+    {
+      "tick": 14,
+      "action": "Follow up directly with Millfield General HR and my charge nurse Linda Reyes to confirm the formal recall and reinstatement to schedule. The two-to-three week administrative window they gave me at the end of tick 12 has elapsed. I need confirmation: am I back on official payroll and schedule, or is there a further delay? Also contact Andrea Torres at Millfield Staffing Solutions to maintain per-diem availability in parallel until formal recall is confirmed \u2014 I do not drop the bridge income until the main income is verified and active.",
+      "savings_delta": 0,
+      "stress_delta": 0.05,
+      "employment_changed": false,
+      "narrative": "You Follow up directly with Millfield General HR and my charge nurse Linda Reyes to confirm the formal recall and reinstatement to schedule. The two-to-three week administrative window they gave me at the end of tick 12 has elapsed. I need confirmation: am I back on official payroll and schedule, or is there a further delay? Also contact Andrea Torres at Millfield Staffing Solutions to maintain per-diem availability in parallel until formal recall is confirmed \u2014 I do not drop the bridge income until the main income is verified and active.. "
     }
   ],
   "reflections": [

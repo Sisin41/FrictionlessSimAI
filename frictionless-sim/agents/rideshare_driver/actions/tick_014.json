@@ -1,0 +1,46 @@
+{
+  "tick": 14,
+  "agent_id": "rideshare_driver",
+  "agent_name": "Robert Jackson",
+  "response": {
+    "internal_assessment": "I am one tick into real employment at Millfield Medical Transport and the world just got worse by every metric that used to frighten me. RoboRide is now 24/7 with a second competitor on the street. Autonomous delivery launched. Employment at 47%. Spending index 29. A year ago those numbers would have sent me spiraling. Right now I am looking at them from a position that is different from almost every other transport worker in Millfield: I am employed in the one segment of this market that robotaxis cannot legally or operationally touch. The liability moat I identified at tick 4 is still standing. The bet paid off. That does not mean I relax. It means I execute. My immediate priorities are: (1) prove myself indispensable at Millfield Medical Transport before any probationary window closes, (2) push toward full-time hours formally and on record, (3) close the loop with Grace genuinely, (4) do the math on the car payment now that the income picture is stabilizing. I am still driving some rideshare to bridge income while the part-time NEMT hours ramp up, but that window is nearly done. The robotaxi competition is so intense that the rideshare math is essentially broken. I need full-time NEMT locked in before I walk away from the driving income entirely. Savings at $12,419 with 4.6 months runway. That buffer bought me the time to land this transition correctly. The goal now is not survival. The goal is consolidation.",
+    "inbox_interpretation": "Grace's message is the cleanest piece of news I have received in months. She is not asking for anything. She is closing a loop on a relationship that has been genuinely mutual. Marcus Webb at CareRide called her directly. Her orientation is scheduled. She says my intelligence paid off. What I read into that is simple: the NEMT market in Millfield is real, it is absorbing credentialed drivers, and the information-sharing we did across nine ticks produced two good outcomes instead of one. I send her a real response, not a transactional one. The DIRECT_IMPACT messages in my inbox are clearly bleed from Denise Williams's action stream, not intended for me. I note them as ambient social signal that other people are working the same institutional networks I have been working, but I do not take action on them. The word-of-mouth fragments about Tamika, Carlos, Betty, Dale, Stephanie are all noise at this stage. My network has done its work. The job is to perform, not to network aggressively. The OUTCOME line confirms tick 13 landed as intended: background check clear, paperwork done, first shifts completed, and I am on record as interested in full-time expansion.",
+    "chosen_actions": [
+      {
+        "type": "COMMITMENT",
+        "description": "Show up fully for the second week of NEMT shifts at Millfield Medical Transport. Twenty hours part-time, but I treat every shift as an audition for the full-time slot. I learn the routes that other drivers complain about. I am on time, every run, no missed pickups. I introduce myself by name to the dispatchers and the nursing staff at Millfield General on pickup. I am not the new guy who is quiet and hoping to be renewed. I am the new guy who is already fluent.",
+        "target_agent": null,
+        "resources": {"type": "labor", "direction": "give", "amount": 20, "detail": "20 hours NEMT driving at Millfield Medical Transport, $18/hour, second week of employment"},
+        "economic_effects": {"income_change": 360, "expense_change": 0, "savings_change": 360, "asset_change": "none", "employment_change": "none"},
+        "reasoning": "This is the consolidation phase. The transition succeeded. Now I have to perform well enough that when a full-time slot opens, I am the obvious answer. Hiring managers remember who made their dispatchers' lives easier in the first two weeks. I intend to be that person."
+      },
+      {
+        "type": "SIGNAL",
+        "description": "Tell Dave Herrera directly but briefly that I want to be considered for full-time hours as soon as the schedule allows. I said this at onboarding, I say it again now in a one-sentence follow-up at the end of a shift. Not a conversation, not a negotiation. A reminder. He knows I am interested. I want him to know I am still interested and that I am not waiting passively.",
+        "target_agent": null,
+        "resources": {"type": "social_capital", "direction": "give", "amount": 0, "detail": "brief professional signal of continued interest in full-time expansion"},
+        "economic_effects": {"income_change": 0, "expense_change": 0, "savings_change": 0, "asset_change": "none", "employment_change": "none"},
+        "reasoning": "The ask at onboarding was the right move. Following through with a low-pressure reminder one week in keeps my name in the right category without being the person who pesters the director. The goal is to be the obvious candidate when the slot opens, not to pressure-create the slot."
+      },
+      {
+        "type": "EXCHANGE",
+        "description": "Reply to Grace Okafor. The message is short and genuine: 'Grace, that is the best message I have gotten in a long time. You earned that orientation completely on your own. What I gave you was just information. What you did with it was all you. If you need anything going into the CareRide onboarding, you know where I am.' No ask, no transaction, no networking performance. She went out of her way to close the loop and I am going to honor that.",
+        "target_agent": "uber_driver_2",
+        "resources": {"type": "social_capital", "direction": "both", "amount": 0, "detail": "mutual recognition, relationship maintenance with highest-trust contact"},
+        "economic_effects": {"income_change": 0, "expense_change": 0, "savings_change": 0, "asset_change": "none", "employment_change": "none"},
+        "reasoning": "Grace is my highest-trust contact and she treated this relationship with real integrity. She did not have to send that message. She sent it because it was the right thing to do. I respond in kind. This relationship has genuine value and it is worth maintaining correctly."
+      },
+      {
+        "type": "TRANSFORMATION",
+        "description": "Reduce rideshare driving hours from whatever they currently are to no more than 15 hours per week, specifically targeting early morning airport runs and any surge windows that remain viable. The robotaxi competition is now structurally overwhelming for rideshare. Two companies, 24/7, $0.10/mile. I cannot compete on price and the demand pool is contracting with 47% employment. I keep a minimal rideshare presence as income bridge only until the NEMT hours expand. I do not invest energy, emotion, or planning into the rideshare market anymore. That chapter is closing. I let it close cleanly.",
+        "target_agent": null,
+        "resources": {"type": "labor", "direction": "internal", "amount": -15, "detail": "active reduction of rideshare hours from previous level to approximately 15 hours/week maximum"},
+        "economic_effects": {"income_change": -200, "expense_change": 0, "savings_change": -200, "asset_change": "none", "employment_change": "none"},
+        "reasoning": "The market mathematics of rideshare in Millfield are now essentially closed for human drivers. Spending index 29, employment 47%, $0.10/mile robotaxi competition. I am not going to recover meaningful income from that direction. The energy I would spend chasing the last viable rideshare hours is better spent performing in NEMT and building toward full-time. The reduction is a clean strategic decision, not a defeat."
+      }
+    ],
+    "emotional_state": "determined",
+    "archetype_self_assessment": "adapter",
+    "inner_monologue": "Fourteen months ago I was driving sixty-hour weeks trying to outrun something I could not outrun. Now the employment rate is 47% and I have a job in the one sector that the robots are not allowed to take. I did not get lucky. I read the situation correctly, made the call early, took the course, made the calls, and waited. That is the difference between where I am and where a lot of people in Millfield are right now, and I do not feel good about that gap, but I am not going to waste the advantage I built by pretending the gap does not exist. Marcus is watching how his father moves through this. I want him to see someone who planned, executed, and held."
+  }
+}

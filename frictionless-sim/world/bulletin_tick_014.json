@@ -1,0 +1,96 @@
+{
+  "tick": 14,
+  "events": [
+    {
+      "type": "layoff",
+      "source_agent": "commuter_james",
+      "sector": "retail_auto",
+      "visibility": "sector",
+      "description": "James Patterson laid off workers: reach out to howard liu directly \u2014 phone call, not a message. he is doing something with fleet operators based on the word-of-mouth signal, and he is my highest-trust connection in the disruption-adjacent space. the call has two purposes: maintain the relationship that i let go dormant for too many ticks, and understand what he is actually seeing on the ground from fleet operators who are expanding service in millfield. fleet operators running autonomous vehicle fleets at scale need cloud infrastructure. that is not a pitch \u2014 it is a data point i need to understand before i can even know whether it is relevant to my job search or consulting posture. i am not asking howard for a job lead. i am showing up as a person who stays in contact, and gathering intelligence that makes me smarter about where the market is going."
+    },
+    {
+      "type": "protest",
+      "source_agent": "dealership_gm",
+      "sector": "community",
+      "visibility": "local_news",
+      "description": "Community action: Rick Tanner \u2014 advance the retraining transformation already in progress \u2014 specifically, this week i am preparing the written transition summary deliverable patricia contracted for, and i am framing the work itself as the portfolio piece i will use in conversations with the two regional employers i contacted last tick. the deliverable is not just a contract obligation \u2014 it is the proof of concept for fleet service management and ev transition advisory as a service line. if either regional employer comes back with interest, i need to have something to show them that is current, specific, and demonstrates i understand where the market is going. the patricia contract deliverable becomes that document."
+    },
+    {
+      "type": "protest",
+      "source_agent": "insurance_agent_tom",
+      "sector": "community",
+      "visibility": "local_news",
+      "description": "Community action: Tom Bradley \u2014 continue retraining coursework \u2014 advance sql fundamentals to the next module. this tick: complete the window functions and subqueries unit, which is where entry-level data analytics roles start to require real demonstrated proficiency. log the progress. update the retraining record to reflect 4 months invested and approximately 40% completion. the goal is not the certificate in the abstract \u2014 the goal is being able to say, honestly and specifically, to someone like marcus webb or a hiring manager in commercial risk analytics: i can query, i can aggregate, i can write subqueries, and i am 40% through a structured course. that specificity is the difference between a credential and a claim."
+    },
+    {
+      "type": "protest",
+      "source_agent": "insurance_agent_priya",
+      "sector": "community",
+      "visibility": "local_news",
+      "description": "Community action: Priya Sharma \u2014 send linda park a brief, professional update: confirm i executed her direct outreach tactic \u2014 both messages sent, both firms contacted by name, both asking for a 20-minute conversation. include the names of the leads i identified and the specific framing i used. this is not a status report for its own sake. it closes the loop on her investment of intelligence in me and demonstrates i am the kind of person who executes, not just acknowledges. if she has any additional context \u2014 a name she knows at either firm, a timeline signal \u2014 she is more likely to share it with someone who has already acted than with someone who said 'great idea, i'll get to it.'"
+    },
+    {
+      "type": "protest",
+      "source_agent": "commuter_james",
+      "sector": "community",
+      "visibility": "local_news",
+      "description": "Community action: James Patterson \u2014 send a professional follow-up message to the hiring manager at the regional healthcare cloud provider, approximately four weeks after the application submission. reference the aws solutions architect associate credential and one specific detail from the company's public infrastructure posture \u2014 their recent announcement about hipaa-compliant cloud migration timelines. keep it to three sentences: acknowledge the application, demonstrate i have continued to track their work, and express continued interest. no desperation, no restatement of the resume. one signal that i am attentive and specific."
+    },
+    {
+      "type": "protest",
+      "source_agent": "young_gig_worker",
+      "sector": "community",
+      "visibility": "local_news",
+      "description": "Community action: Zoe Martinez \u2014 walk into a third prospective social media client this week \u2014 targeting either the dry cleaner on market street or the hardware store near auto row that i've seen struggling with empty sidewalks. same pitch: i manage your social media presence for $120/month, one post per day, community tone, engagement focus. i show them betty's account and carmen's as proof of work. i have two clients and real samples now \u2014 this is no longer a pitch built on potential, it's a pitch built on demonstrated results. i walk in wednesday afternoon, i make the specific ask, i close or i get a firm next step."
+    },
+    {
+      "type": "protest",
+      "source_agent": "parts_store_owner",
+      "sector": "community",
+      "visibility": "local_news",
+      "description": "Community action: Howard Liu \u2014 howard sends a short, direct message to james patterson responding to his outreach about fleet operator intelligence. the message reads: 'james \u2014 thanks for reaching out. i have been tracking fleet operators in millfield closely since roboride announced their residential expansion. my read is that the maintenance sourcing gap for local fleets is not a technology problem \u2014 it is a proximity and relationship problem. the big distributors are not set up for next-day delivery on brake consumables to a maintenance lot ten minutes from my store. that is the structural gap i have been positioning around. i would be glad to compare notes. what are you building, and what specifically are you trying to understand about how fleet operators source locally?' howard gives one concrete, knowledgeable paragraph \u2014 enough to demonstrate he is a real intelligence source \u2014 and closes with a direct question about what patterson is building, not a generic coffee invitation. howard is testing whether there is a genuine value exchange here before committing time."
+    },
+    {
+      "type": "protest",
+      "source_agent": "rideshare_driver",
+      "sector": "community",
+      "visibility": "local_news",
+      "description": "Community action: Robert Jackson \u2014 reduce rideshare driving hours from whatever they currently are to no more than 15 hours per week, specifically targeting early morning airport runs and any surge windows that remain viable. the robotaxi competition is now structurally overwhelming for rideshare. two companies, 24/7, $0.10/mile. i cannot compete on price and the demand pool is contracting with 47% employment. i keep a minimal rideshare presence as income bridge only until the nemt hours expand. i do not invest energy, emotion, or planning into the rideshare market anymore. that chapter is closing. i let it close cleanly."
+    },
+    {
+      "type": "protest",
+      "source_agent": "uber_driver_2",
+      "sector": "community",
+      "visibility": "local_news",
+      "description": "Community action: Grace Okafor \u2014 send denise williams a direct, warm response to her check-in. tell her: i started my first careride shifts this week on the millfield general route \u2014 so i will literally be moving through that building. i have not heard anything new from nicole washington but i will flag her name again when i am on-site if the moment presents itself. i am still watching for her. not promising anything i cannot deliver, but making clear that the relationship is active and i am physically present in the institution she is trying to get into."
+    },
+    {
+      "type": "policy",
+      "source_agent": "council_member",
+      "sector": "policy",
+      "visibility": "local_news",
+      "description": "Policy proposal: Maria Santos \u2014 formally present and release the completed economic resilience framework to the full town council and the public. schedule and hold the public presentation session that was promised at the task force nine ticks ago. the framework is finished \u2014 four sections, specific metrics, the adaptive reuse zoning recommendation for the mobility and logistics transition zone on auto row, the grant threshold revision recommendation (15% to 10% revenue decline with sole proprietor eligibility expansion). this is not a press event. this is a governance deliverable. i present it on the council record, distribute it publicly, and answer questions. i do not give a speech about what i'm going to do. i present the document that exists."
+    },
+    {
+      "type": "policy",
+      "source_agent": "council_member",
+      "sector": "policy",
+      "visibility": "local_news",
+      "description": "Policy proposal: Maria Santos \u2014 implement the two specific website fixes lisa freeman identified: route the grant committee inquiry line to nadia osei's direct phone number on the municipal website, and add a spanish-language contact option for the program. these are thirty-minute administrative changes. i contact the municipal web administrator today with the specific edits, confirm they are live by end of day, and send lisa freeman a direct message confirming it is done."
+    },
+    {
+      "type": "trend",
+      "source_agent": "",
+      "sector": "education",
+      "visibility": "local_news",
+      "description": "13 people enrolled in retraining this month."
+    },
+    {
+      "type": "trend",
+      "source_agent": "",
+      "sector": "retail_auto",
+      "visibility": "local_news",
+      "description": "Noticeable trend: 3 people sold or stopped using their cars this month."
+    }
+  ]
+}

@@ -64,6 +64,11 @@
       "tick": 13,
       "summary": "Accept Frank Russo's offer to deliver a two-hour AV literacy and EV diagnostics workshop for Howard's Parts staff. Confirm date, content scope, and fee of $500 (midpoint). Ask Frank to include a brief segment on brake wear patterns in EV and hybrid vehicles specifically \u2014 this directly maps to what Carlos ordered and what Sarah's shop will need. Howard will invite Carlos Ruiz and Sarah Kim to attend as guests, framing it as a professional development session open to the mechanics in his B2B network. This converts a training cost into a relationship event.",
       "emotional_state": "determined"
+    },
+    {
+      "tick": 14,
+      "summary": "Within 48 hours of the workshop, Howard calls Carlos Ruiz directly \u2014 not email \u2014 and opens the conversation by referencing the specific segment on brake wear patterns in EV and hybrid vehicles that Frank covered. Howard says: 'You were in the room for the EV brake wear discussion. I want to make sure I have the right stock on hand for what your shop is going to need in the next 60 days. What are you seeing in terms of volume on hybrid brake jobs, and what are you currently sourcing that you have been waiting on?' The goal is a follow-up purchase order from Carlos that builds on the $650 tick 12 order \u2014 ideally adding ADAS sensor inventory or EV-specific consumables to the standing relationship. Howard is converting workshop attendance into a buying conversation.",
+      "emotional_state": "determined"
     }
   ],
   "past_outcomes": [
@@ -170,6 +175,14 @@
       "stress_delta": -0.02,
       "employment_changed": false,
       "narrative": "You Accept Frank Russo's offer to deliver a two-hour AV literacy and EV diagnostics workshop for Howard's Parts staff. Confirm date, content scope, and fee of $500 (midpoint). Ask Frank to include a brief segment on brake wear patterns in EV and hybrid vehicles specifically \u2014 this directly maps to what Carlos ordered and what Sarah's shop will need. Howard will invite Carlos Ruiz and Sarah Kim to attend as guests, framing it as a professional development session open to the mechanics in his B2B network. This converts a training cost into a relationship event.. Savings dropped by $2,975. "
+    },
+    {
+      "tick": 14,
+      "action": "Within 48 hours of the workshop, Howard calls Carlos Ruiz directly \u2014 not email \u2014 and opens the conversation by referencing the specific segment on brake wear patterns in EV and hybrid vehicles that Frank covered. Howard says: 'You were in the room for the EV brake wear discussion. I want to make sure I have the right stock on hand for what your shop is going to need in the next 60 days. What are you seeing in terms of volume on hybrid brake jobs, and what are you currently sourcing that you have been waiting on?' The goal is a follow-up purchase order from Carlos that builds on the $650 tick 12 order \u2014 ideally adding ADAS sensor inventory or EV-specific consumables to the standing relationship. Howard is converting workshop attendance into a buying conversation.",
+      "savings_delta": -3709,
+      "stress_delta": 0.18,
+      "employment_changed": true,
+      "narrative": "You Within 48 hours of the workshop, Howard calls Carlos Ruiz directly \u2014 not email \u2014 and opens the conversation by referencing the specific segment on brake wear patterns in EV and hybrid vehicles that Frank covered. Howard says: 'You were in the room for the EV brake wear discussion. I want to make sure I have the right stock on hand for what your shop is going to need in the next 60 days. What are you seeing in terms of volume on hybrid brake jobs, and what are you currently sourcing that you have been waiting on?' The goal is a follow-up purchase order from Carlos that builds on the $650 tick 12 order \u2014 ideally adding ADAS sensor inventory or EV-specific consumables to the standing relationship. Howard is converting workshop attendance into a buying conversation.. Savings dropped by $3,709. Employment status changed to unemployed. "
     }
   ],
   "reflections": [
