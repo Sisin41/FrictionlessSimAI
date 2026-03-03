@@ -1,11 +1,12 @@
 /**
  * WorldCanvas.tsx
  * PixiJS isometric renderer — wired to WorldRenderer.
- * Phase 3: adds hover events, follow-agent camera, speech bubble + reflection overlays.
+ * Phase 4: passes active layer set and data for all 7 info layers.
  *
  * DATA READS:
  *   agents, buildings, buildingTicks, currentTick, interpolation,
- *   selectedAgentId, followAgentId, timeseries
+ *   selectedAgentId, followAgentId, timeseries, activeLayers,
+ *   socialEdges, transactions, txByTick
  *
  * EMITS:
  *   selectAgent(id), selectBuilding(id), setHoveredAgent(id)
@@ -33,6 +34,10 @@ export default function WorldCanvas() {
   const setHoveredAgent = useSimStore(s => s.setHoveredAgent)
   const selectedAgentId = useSimStore(s => s.selectedAgentId)
   const followAgentId = useSimStore(s => s.followAgentId)
+  const activeLayers = useSimStore(s => s.activeLayers)
+  const socialEdges = useSimStore(s => s.socialEdges)
+  const transactions = useSimStore(s => s.transactions)
+  const txByTick = useSimStore(s => s.txByTick)
 
   // Initialize renderer on mount
   useEffect(() => {
@@ -64,7 +69,7 @@ export default function WorldCanvas() {
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [agents])
 
-  // Re-render on tick change, interpolation change, selection, or follow change
+  // Re-render on tick change, interpolation change, selection, follow, or layer change
   useEffect(() => {
     const renderer = rendererRef.current
     if (!renderer || !agents || !buildings || !buildingTicks) return
@@ -88,8 +93,12 @@ export default function WorldCanvas() {
       buildingTicks[String(Math.min(currentTick + 1, 14))],
       buildings,
       robotaxiRate,
+      activeLayers,
+      socialEdges,
+      transactions,
+      txByTick,
     )
-  }, [currentTick, interpolation, agents, buildings, buildingTicks, selectedAgentId, followAgentId, timeseries])
+  }, [currentTick, interpolation, agents, buildings, buildingTicks, selectedAgentId, followAgentId, timeseries, activeLayers, socialEdges, transactions, txByTick])
 
   return (
     <div ref={canvasRef} className="world-canvas">

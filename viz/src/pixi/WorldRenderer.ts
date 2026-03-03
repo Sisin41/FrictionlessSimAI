@@ -9,9 +9,10 @@ import { Application, Container, Graphics, Text } from 'pixi.js'
 import { isoToScreen, lerpTile, tileDepth, TILE_W, TILE_H, GRID_COLS, GRID_ROWS, BUILDING_SPRITE_SIZE } from './iso'
 import { getBuildingVisual, applyBuildingOverrides, type BuildingVisual } from './buildingSprite'
 import { getAnimationState, getAgentLocation, TIER_TINT, GRIEF_TINT, getRunwayRingColor, type AnimationState } from './agentSprite'
-import type { Agent, Building, BuildingTickState } from '../store/simStore'
+import type { Agent, Building, BuildingTickState, SocialEdge, Transaction, LayerId } from '../store/simStore'
 import { locationToTile } from './worldData'
 import { BuildingTransitionManager, lerpColor } from './BuildingTransitionManager'
+import { LayerRenderer } from './LayerRenderer'
 
 // ─── Zone definitions ────────────────────────────────────────────────
 const ZONES = [
@@ -63,7 +64,9 @@ interface OverlayAnimation {
 export class WorldRenderer {
   private app: Application | null = null
   private worldContainer: Container = new Container()
+  private layerContainer: Container = new Container()
   private overlayContainer: Container = new Container()
+  private layerRenderer = new LayerRenderer()
   private highlightedAgentId: string | null = null
   private btm = new BuildingTransitionManager()
   private prevBuildingVisuals: Map<string, BuildingVisual> = new Map()
@@ -112,6 +115,8 @@ export class WorldRenderer {
     })
     container.appendChild(this.app.canvas)
     this.app.stage.addChild(this.worldContainer)
+    this.app.stage.addChild(this.layerContainer)
+    this.layerContainer.addChild(this.layerRenderer.getContainer())
     this.app.stage.addChild(this.robotaxiContainer)
     this.app.stage.addChild(this.overlayContainer)
 
@@ -122,7 +127,7 @@ export class WorldRenderer {
     })
   }
 
-  /** Phase 2: smooth render with interpolation between ticks. */
+  /** Phase 2+4: smooth render with interpolation and info layers. */
   renderSmooth(
     tick: number,
     interpolation: number,
@@ -131,6 +136,10 @@ export class WorldRenderer {
     buildingStatesNext: Record<string, BuildingTickState> | undefined,
     buildings: Building[],
     robotaxiRate: number,
+    activeLayers?: Set<LayerId>,
+    socialEdges?: SocialEdge[] | null,
+    transactions?: Transaction[] | null,
+    txByTick?: Record<string, string[]> | null,
   ): void {
     if (!this.app) return
 
@@ -169,6 +178,23 @@ export class WorldRenderer {
     renderables.sort((a, b) => a.depth - b.depth)
     for (const r of renderables) this.worldContainer.addChild(r.container)
 
+    // 4. Information layers (Phase 4)
+    if (activeLayers && activeLayers.size > 0) {
+      this.layerRenderer.render(
+        activeLayers,
+        tick,
+        agents,
+        buildings,
+        buildingStates,
+        socialEdges ?? null,
+        transactions ?? null,
+        txByTick ?? null,
+        this.agentScreenPositions,
+      )
+    } else {
+      this.layerRenderer.clear()
+    }
+
     // Follow Agent: pan camera to center followed agent
     if (this.followedAgentId && this.app) {
       const pos = this.agentScreenPositions.get(this.followedAgentId)
@@ -182,6 +208,8 @@ export class WorldRenderer {
         this.worldContainer.y += (targetY - this.worldContainer.y) * 0.15
         this.robotaxiContainer.x = this.worldContainer.x
         this.robotaxiContainer.y = this.worldContainer.y
+        this.layerContainer.x = this.worldContainer.x
+        this.layerContainer.y = this.worldContainer.y
       }
     } else {
       // Reset camera position when not following
@@ -189,6 +217,8 @@ export class WorldRenderer {
       this.worldContainer.y += (0 - this.worldContainer.y) * 0.15
       this.robotaxiContainer.x = this.worldContainer.x
       this.robotaxiContainer.y = this.worldContainer.y
+      this.layerContainer.x = this.worldContainer.x
+      this.layerContainer.y = this.worldContainer.y
     }
 
     // Update robotaxis
@@ -222,6 +252,11 @@ export class WorldRenderer {
     if (fromTick < 8 && toTick >= 8) this.fireProtestWave()
     if (fromTick < 9 && toTick >= 9) this.fireDepressionCluster()
     if (fromTick < 14 && toTick >= 14) this.fireRunwayCrisis()
+
+    // Seed info flow particles for new tick
+    if (this.lastAgents) {
+      this.layerRenderer.seedInfoFlowParticles(toTick, this.lastAgents, this.agentScreenPositions)
+    }
   }
 
   destroy(): void {
