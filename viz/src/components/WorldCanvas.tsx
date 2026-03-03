@@ -51,6 +51,7 @@ const WorldCanvas = forwardRef<WorldCanvasHandle>(function WorldCanvas(_props, r
   useEffect(() => {
     if (!canvasRef.current || !agents) return
 
+    let cancelled = false
     const renderer = new WorldRenderer()
     renderer.onAgentClick = (id) => selectAgent(id)
     renderer.onBuildingClick = (id) => selectBuilding(id)
@@ -58,7 +59,7 @@ const WorldCanvas = forwardRef<WorldCanvasHandle>(function WorldCanvas(_props, r
     rendererRef.current = renderer
 
     renderer.init(canvasRef.current).then(() => {
-      console.log('[WorldCanvas] Renderer initialized, agents:', Object.keys(agents ?? {}).length)
+      if (cancelled) { renderer.destroy(); return }
       if (agents && buildings && buildingTicks) {
         const robotaxiRate = timeseries?.[String(currentTick)]?.robotaxi_rate ?? 0
         renderer.renderSmooth(
@@ -69,9 +70,10 @@ const WorldCanvas = forwardRef<WorldCanvasHandle>(function WorldCanvas(_props, r
           robotaxiRate,
         )
       }
-    }).catch(err => console.error('[WorldCanvas] Init failed:', err))
+    }).catch(err => { if (!cancelled) console.error('[WorldCanvas] Init failed:', err) })
 
     return () => {
+      cancelled = true
       renderer.destroy()
       rendererRef.current = null
     }

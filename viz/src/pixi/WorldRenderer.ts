@@ -111,27 +111,14 @@ export class WorldRenderer {
 
   async init(container: HTMLElement): Promise<void> {
     this.app = new Application()
-    try {
-      await this.app.init({
-        width: container.clientWidth || 1200,
-        height: container.clientHeight || 700,
-        background: 0x1a202c,
-        antialias: true,
-        resizeTo: container,
-        preference: 'webgl',
-        preserveDrawingBuffer: true,
-      })
-    } catch (err) {
-      console.error('[WorldRenderer] PixiJS init failed, trying webgpu fallback:', err)
-      await this.app.init({
-        width: container.clientWidth || 1200,
-        height: container.clientHeight || 700,
-        background: 0x1a202c,
-        antialias: false,
-        resizeTo: container,
-      })
-    }
-    console.log('[WorldRenderer] Canvas:', this.app.canvas.width, 'x', this.app.canvas.height)
+    await this.app.init({
+      width: container.clientWidth || 1200,
+      height: container.clientHeight || 700,
+      background: 0x1a202c,
+      antialias: true,
+      resizeTo: container,
+      preference: 'webgl',
+    })
     container.appendChild(this.app.canvas)
     this.app.stage.addChild(this.worldContainer)
     this.app.stage.addChild(this.layerContainer)
@@ -280,7 +267,13 @@ export class WorldRenderer {
 
   destroy(): void {
     if (this.app) {
-      this.app.destroy(true)
+      try {
+        this.app.destroy(true, { children: true })
+      } catch {
+        // PixiJS 8 ResizePlugin may throw if destroy() is called
+        // before init() completes (React StrictMode double-mount)
+        try { this.app.canvas?.remove() } catch { /* noop */ }
+      }
       this.app = null
     }
   }
