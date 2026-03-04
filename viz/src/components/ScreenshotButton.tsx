@@ -46,10 +46,11 @@ export default function ScreenshotButton({ rendererRef }: Props) {
     ctx.fillStyle = '#e2e8f0'
 
     const td = timeseries?.[String(currentTick)]
-    const parts: string[] = [`Tick ${currentTick}/14`]
+    const maxTick = useSimStore.getState().maxTick
+    const parts: string[] = [`Tick ${currentTick}/${maxTick}`]
     if (td) {
       if (td.employment_rate != null) parts.push(`Emp: ${(td.employment_rate * 100).toFixed(0)}%`)
-      if (td.spending_index != null)  parts.push(`Spend: ${(td.spending_index * 100).toFixed(0)}`)
+      if (td.spending_index != null)  parts.push(`Spend: ${Math.round(td.spending_index)}`)
       if (td.gini != null)            parts.push(`Gini: ${td.gini.toFixed(2)}`)
       if (td.robotaxi_rate != null)   parts.push(`RoboTaxi: ${(td.robotaxi_rate * 100).toFixed(0)}%`)
     }

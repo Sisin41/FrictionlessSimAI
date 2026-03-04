@@ -169,6 +169,7 @@ export class WorldRenderer {
   // Track tick for transition detection
   private lastRenderedTick = -1
   private currentRobotaxiCount = 0
+  private maxTick = 14
   // Walk animation frame counter
   private walkFrame = 0
   private walkTimer = 0
@@ -341,6 +342,10 @@ export class WorldRenderer {
 
   setFollowAgent(id: string | null): void {
     this.followedAgentId = id
+  }
+
+  setMaxTick(max: number): void {
+    this.maxTick = max
   }
 
   /** Called by WorldCanvas when tick advances during playback. */
@@ -889,16 +894,16 @@ export class WorldRenderer {
       const empStatus0 = snap0.employment_status ?? 'unemployed'
 
       // Next tick snapshot for interpolation
-      const nextTick = Math.min(tick + 1, 14)
+      const nextTick = Math.min(tick + 1, this.maxTick)
       const snap1 = this.getSnapForTick(agent, nextTick)
       const empStatus1 = snap1.employment_status ?? 'unemployed'
 
-      // Locations for current and next tick
+      // Locations for current and next tick (prefer per-tick psychology, fall back to root)
       const loc0 = getAgentLocation({
         employment_status: empStatus0,
-        grief_stage: agent.grief_stage,
-        agency: agent.agency,
-        runway_months: agent.runway_months,
+        grief_stage: snap0.grief_stage ?? agent.grief_stage,
+        agency: snap0.agency ?? agent.agency,
+        runway_months: snap0.runway_months ?? agent.runway_months,
         archetype: agent.archetype,
         has_active_tx: false,
         transformations: agent.transformations ?? [],
@@ -907,9 +912,9 @@ export class WorldRenderer {
 
       const loc1 = getAgentLocation({
         employment_status: empStatus1,
-        grief_stage: agent.grief_stage,
-        agency: agent.agency,
-        runway_months: agent.runway_months,
+        grief_stage: snap1.grief_stage ?? agent.grief_stage,
+        agency: snap1.agency ?? agent.agency,
+        runway_months: snap1.runway_months ?? agent.runway_months,
         archetype: agent.archetype,
         has_active_tx: false,
         transformations: agent.transformations ?? [],
@@ -938,13 +943,13 @@ export class WorldRenderer {
 
       const depth = tileDepth(tile0[0], tile0[1]) + 0.5
 
-      // Get animation state
+      // Get animation state (prefer per-tick psychology, fall back to root)
       const animState = getAnimationState({
         employment_status: empStatus0,
-        grief_stage: agent.grief_stage,
-        agency: agent.agency,
+        grief_stage: snap0.grief_stage ?? agent.grief_stage,
+        agency: snap0.agency ?? agent.agency,
         stress: snap0.stress ?? 0,
-        runway_months: agent.runway_months,
+        runway_months: snap0.runway_months ?? agent.runway_months,
         archetype: agent.archetype,
       })
 

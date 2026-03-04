@@ -327,16 +327,22 @@ export const useSimStore = create<SimState>((set, get) => ({
 
 /** Get an agent's state at a specific tick. */
 export function getAgentAtTick(agent: Agent, tick: number): TickSnapshot & Partial<Agent> {
-  const snap = agent.history[String(tick)] ?? {}
+  const snap = agent.history[String(tick)]
   return {
-    ...snap,
-    // Current-state fields that don't change in history
-    grief_stage: agent.grief_stage,
-    agency:      agent.agency,
-    sentiment:   agent.sentiment,
-    owns_car:    agent.owns_car,
-    runway_months: agent.runway_months,
-    threat_level:  agent.threat_level,
+    // Base tick snapshot fields
+    savings:           snap?.savings ?? agent.savings ?? 0,
+    stress:            snap?.stress ?? agent.stress ?? 0,
+    employment_status: snap?.employment_status ?? 'unemployed',
+    inner_monologue:   snap?.inner_monologue,
+    outcome_narrative: snap?.outcome_narrative,
+    employment_changed: snap?.employment_changed,
+    // Per-tick fields: prefer history snapshot, fall back to root (tick-14 final state)
+    grief_stage:   (snap as any)?.grief_stage   ?? agent.grief_stage,
+    agency:        (snap as any)?.agency        ?? agent.agency,
+    sentiment:     (snap as any)?.sentiment     ?? agent.sentiment,
+    owns_car:      (snap as any)?.owns_car      ?? agent.owns_car,
+    runway_months: (snap as any)?.runway_months ?? agent.runway_months,
+    threat_level:  (snap as any)?.threat_level  ?? agent.threat_level,
   }
 }
 

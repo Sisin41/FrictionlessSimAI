@@ -35,6 +35,7 @@ const WorldCanvas = forwardRef<WorldCanvasHandle>(function WorldCanvas(_props, r
   const buildings = useSimStore(s => s.buildings)
   const buildingTicks = useSimStore(s => s.buildingTicks)
   const currentTick = useSimStore(s => s.currentTick)
+  const maxTick = useSimStore(s => s.maxTick)
   const interpolation = useSimStore(s => s.interpolation)
   const timeseries = useSimStore(s => s.timeseries)
   const selectAgent = useSimStore(s => s.selectAgent)
@@ -56,6 +57,7 @@ const WorldCanvas = forwardRef<WorldCanvasHandle>(function WorldCanvas(_props, r
     renderer.onAgentClick = (id) => selectAgent(id)
     renderer.onBuildingClick = (id) => selectBuilding(id)
     renderer.onAgentHover = (id) => setHoveredAgent(id)
+    renderer.setMaxTick(maxTick)
     rendererRef.current = renderer
 
     renderer.init(canvasRef.current).then(() => {
@@ -65,7 +67,7 @@ const WorldCanvas = forwardRef<WorldCanvasHandle>(function WorldCanvas(_props, r
         renderer.renderSmooth(
           currentTick, 0, agents,
           buildingTicks[String(currentTick)],
-          buildingTicks[String(Math.min(currentTick + 1, 14))],
+          buildingTicks[String(Math.min(currentTick + 1, maxTick))],
           buildings,
           robotaxiRate,
         )
@@ -101,7 +103,7 @@ const WorldCanvas = forwardRef<WorldCanvasHandle>(function WorldCanvas(_props, r
       interpolation,
       agents,
       buildingTicks[String(currentTick)],
-      buildingTicks[String(Math.min(currentTick + 1, 14))],
+      buildingTicks[String(Math.min(currentTick + 1, maxTick))],
       buildings,
       robotaxiRate,
       activeLayers,

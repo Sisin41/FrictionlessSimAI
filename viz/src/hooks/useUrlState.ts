@@ -25,7 +25,8 @@ function parseHash(): { tick?: number; agent?: string; layers?: LayerId[] } {
   const tickStr = params.get('tick')
   if (tickStr != null) {
     const t = parseInt(tickStr, 10)
-    if (!isNaN(t) && t >= 0 && t <= 14) result.tick = t
+    const maxTick = useSimStore.getState().maxTick
+    if (!isNaN(t) && t >= 0 && t <= maxTick) result.tick = t
   }
 
   const agent = params.get('agent')
