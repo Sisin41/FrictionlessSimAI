@@ -35,7 +35,7 @@ export function getBuildingVisual(state: BuildingTickState): BuildingVisual {
       return {
         lightAlpha: 1.0, signVisible: true, forLeaseSign: false,
         boardedUp: false, smokeActive: true, doorOpen: true,
-        tint: 0xffd700,   // warm gold glow
+        tint: 0xc8e6c9,   // subtle light green — healthy/thriving
         saturation: 1.0,
         crowdLevel: 3,
       }
@@ -67,7 +67,7 @@ export function getBuildingVisual(state: BuildingTickState): BuildingVisual {
       return {
         lightAlpha: 0, signVisible: false, forLeaseSign: false,
         boardedUp: true, smokeActive: false, doorOpen: false,
-        tint: 0x444444,
+        tint: 0x666666,
         saturation: 0.0,   // fully greyscale
         crowdLevel: 0,
       }
@@ -95,7 +95,7 @@ export function applyBuildingOverrides(
     // Community Center brightens as the rest of the town darkens
     return {
       ...visual,
-      lightAlpha:  Math.min(1.0, health / 100),
+      lightAlpha:  Math.min(1.0, 1 - (health / 100)),
       saturation:  0.8,
       tint:        0x9f7aea,  // purple — community/mutual aid color
       signVisible: true,

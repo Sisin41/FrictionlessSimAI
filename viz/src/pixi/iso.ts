@@ -76,6 +76,3 @@ export const BUILDING_SPRITE_SIZE = {
   large:  { w: TILE_W * 1,    h: TILE_H * 3   },
 }
 
-/** Agent sprite size. */
-export const AGENT_W = 20
-export const AGENT_H = 28

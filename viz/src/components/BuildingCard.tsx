@@ -113,8 +113,8 @@ export default function BuildingCard() {
       )}
 
       <div className="card-actions">
-        <button>All Transactions</button>
-        <button>Sector View</button>
+        <button disabled title="Coming soon" style={{ opacity: 0.4, cursor: 'default' }}>All Transactions</button>
+        <button disabled title="Coming soon" style={{ opacity: 0.4, cursor: 'default' }}>Sector View</button>
       </div>
     </div>
   )

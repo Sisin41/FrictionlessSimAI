@@ -176,28 +176,25 @@ export const AGENT_SIT = [
   '..XXXXXXXX..',
   '..XSX..XSX..',
   '..XSX..XSX..',
-  '............',
-  '............',
-  '............',
 ]
 
 // === SLUMP POSE (high stress) ===
 export const AGENT_SLUMP = [
-  '.....XXXX...',
-  '....XhhhhX..',
-  '...XhFFFhX..',
-  '...XFEPPEfX.',
-  '...XfFFFFfX.',
-  '....XffFfX..',
-  '.....XXXX...',
-  '....XTTX....',
-  '...XTTTX....',
+  '....XXXX....',
+  '...XhhhhX...',
+  '..XhFFFhX...',
+  '..XFEPPEfX..',
+  '..XfFFFFfX..',
+  '...XffFfX...',
+  '....XXXX....',
   '...XTTX.....',
+  '..XTTTX.....',
   '..XTTX......',
-  '..XTX.......',
-  '..XSX.......',
-  '..XSX.......',
-  '.XXXX.......',
+  '.XTTX.......',
+  '.XTX........',
+  '.XSX........',
+  '.XSX........',
+  'XXXX........',
   '............',
 ]
 
@@ -297,8 +294,8 @@ export const TREE_SMALL = [
   '...XX...',
   '..XGGX..',
   '.XGGGGX.',
-  'XGGGGGX.',
-  '.XGGGX..',
+  '.XGGGGGX',
+  '..XGGGX.',
   '..XGGX..',
   '...XX...',
   '...DX...',
@@ -315,19 +312,19 @@ export const BUSH = [
 ]
 
 export const FLOWER_RED = [
-  '..R.....',
-  '.RrR....',
-  '..R.....',
-  '..G.....',
-  '.GG.....',
+  '.R.',
+  'RrR',
+  '.R.',
+  '.G.',
+  'GG.',
 ]
 
 export const FLOWER_YELLOW = [
-  '..Y.....',
-  '.YyY....',
-  '..Y.....',
-  '..G.....',
-  '.GG.....',
+  '.Y.',
+  'YyY',
+  '.Y.',
+  '.G.',
+  'GG.',
 ]
 
 export const LAMP_POST = [

@@ -6,7 +6,7 @@
  * Now with pixel-art sprites, environment decoration, and particle effects.
  */
 
-import { Application, Container, Graphics, Text, Sprite, Texture } from 'pixi.js'
+import { Application, Container, Graphics, Text, Sprite, Texture, Polygon } from 'pixi.js'
 import { isoToScreen, lerpTile, tileDepth, TILE_W, TILE_H, GRID_COLS, GRID_ROWS, BUILDING_SPRITE_SIZE } from './iso'
 import { getBuildingVisual, applyBuildingOverrides, type BuildingVisual } from './buildingSprite'
 import { getAnimationState, getAgentLocation, TIER_TINT, GRIEF_TINT, getRunwayRingColor, type AnimationState } from './agentSprite'
@@ -52,7 +52,7 @@ const ZONE_LABELS: Array<{ text: string; col: number; row: number }> = [
   { text: 'SERVICES',        col: 10, row: 5 },
   { text: 'EDUCATION',       col: 22, row: 0 },
   { text: 'PARK',            col: 22, row: 5 },
-  { text: 'RESIDENTIAL',     col: 10, row: 12 },
+  { text: 'RESIDENTIAL',     col: 12, row: 16 },
 ]
 
 // ─── Robotaxi road path ──────────────────────────────────────────────
@@ -167,6 +167,8 @@ export class WorldRenderer {
   private ambientTimer = 0
   // Active chimney screen positions (updated each render)
   private activeChimneyPositions: Array<{ x: number; y: number }> = []
+  // Fade-in tracking for mid-sim buildings (building id -> start timestamp)
+  private buildingFadeStart: Map<string, number> = new Map()
 
   // Follow Agent mode
   private followedAgentId: string | null = null
@@ -178,6 +180,7 @@ export class WorldRenderer {
   // Walk animation frame counter
   private walkFrame = 0
   private walkTimer = 0
+  private playSpeed = 1
 
   // Agent screen positions (updated every render)
   private agentScreenPositions: Map<string, { x: number; y: number }> = new Map()
@@ -275,7 +278,7 @@ export class WorldRenderer {
     this.renderBuildings(renderables, buildings, buildingStates, transitionOverrides, tick)
 
     // 3. Agents with interpolation
-    this.renderAgentsSmooth(renderables, agents, buildingTiles, tick, interpolation)
+    this.renderAgentsSmooth(renderables, agents, buildingTiles, tick, interpolation, transactions ?? null)
 
     // 4. Decorations as depth-sorted renderables (Task 3.1)
     for (const deco of this.decorationRenderables) {
@@ -357,6 +360,10 @@ export class WorldRenderer {
 
   setMaxTick(max: number): void {
     this.maxTick = max
+  }
+
+  setPlaySpeed(speed: number): void {
+    this.playSpeed = speed
   }
 
   /** Called by WorldCanvas when tick advances during playback. */
@@ -476,7 +483,7 @@ export class WorldRenderer {
           g.poly([x, y, x + TILE_W / 2, y + TILE_H / 2, x, y + TILE_H, x - TILE_W / 2, y + TILE_H / 2])
           g.stroke({ color: 0x1a1c2c, width: 1, alpha: 0.4 })
 
-          // Tiny pixel dots for grass/texture on park/residential zones
+          // Tiny pixel dots for grass/texture on zones
           const zone = this.getZoneId(col, row)
           if (zone === 'park' || zone === 'residential_t4') {
             const dotCount = 2 + Math.floor(rng() * 3)
@@ -487,12 +494,30 @@ export class WorldRenderer {
               g.circle(x + dx, y + TILE_H / 2 + dy, 1)
               g.fill({ color: dotColor, alpha: 0.4 + rng() * 0.3 })
             }
+          } else if (zone === 'civic_district' || zone === 'services_row' || zone === 'auto_row') {
+            const dotCount = 1 + Math.floor(rng() * 2)
+            for (let d = 0; d < dotCount; d++) {
+              const dx = (rng() - 0.5) * TILE_W * 0.4
+              const dy = (rng() - 0.5) * TILE_H * 0.4
+              const dotColor = zone === 'civic_district' ? 0x6a4a8f
+                : zone === 'services_row' ? 0x2a6a4a
+                : 0x3a5a8f
+              g.circle(x + dx, y + TILE_H / 2 + dy, 1)
+              g.fill({ color: dotColor, alpha: 0.25 + rng() * 0.2 })
+            }
           }
 
-          // Road markings on auto_row
-          if (zone === 'auto_row' && row === 2) {
+          // Road markings on auto_row (rows 1-3)
+          if (zone === 'auto_row' && row >= 1 && row <= 3) {
             g.rect(x - 2, y + TILE_H / 2 - 0.5, 4, 1)
             g.fill({ color: 0xffcd75, alpha: 0.3 })
+            // Center dashed line on middle row
+            if (row === 2) {
+              g.rect(x - 6, y + TILE_H / 2 - 0.5, 3, 1)
+              g.fill({ color: 0xffcd75, alpha: 0.2 })
+              g.rect(x + 3, y + TILE_H / 2 - 0.5, 3, 1)
+              g.fill({ color: 0xffcd75, alpha: 0.2 })
+            }
           }
         }
       }
@@ -549,13 +574,13 @@ export class WorldRenderer {
         if (zone === 'park') {
           const r = rng()
           if (r < 0.15) {
-            this.addDecoSprite('tree', TREE_SMALL, x - 8, y - 8, 1, depth)
+            this.addDecoSprite('tree', TREE_SMALL, x - 8, y - 4, SPRITE_SCALE, depth)
           } else if (r < 0.25) {
-            this.addDecoSprite('bush', BUSH, x - 6, y + 4, 1, depth)
+            this.addDecoSprite('bush', BUSH, x - 8, y + 6, SPRITE_SCALE, depth)
           } else if (r < 0.32) {
-            this.addDecoSprite('flower_r', FLOWER_RED, x + rng() * 8 - 4, y + rng() * 6, 1, depth)
+            this.addDecoSprite('flower_r', FLOWER_RED, x + rng() * 8 - 4 - 3, y + rng() * 6, SPRITE_SCALE, depth)
           } else if (r < 0.38) {
-            this.addDecoSprite('flower_y', FLOWER_YELLOW, x + rng() * 8 - 4, y + rng() * 6, 1, depth)
+            this.addDecoSprite('flower_y', FLOWER_YELLOW, x + rng() * 8 - 4 - 3, y + rng() * 6, SPRITE_SCALE, depth)
           }
         }
 
@@ -563,16 +588,16 @@ export class WorldRenderer {
         if (zone?.startsWith('residential')) {
           const r = rng()
           if (r < 0.06) {
-            this.addDecoSprite('bush', BUSH, x - 6, y + 4, 1, depth)
+            this.addDecoSprite('bush', BUSH, x - 8, y + 6, SPRITE_SCALE, depth)
           } else if (r < 0.10) {
-            this.addDecoSprite('flower_r', FLOWER_RED, x + rng() * 8 - 4, y + rng() * 4, 1, depth)
+            this.addDecoSprite('flower_r', FLOWER_RED, x + rng() * 8 - 4 - 3, y + rng() * 4, SPRITE_SCALE, depth)
           }
         }
 
         // Services/auto row: lamp posts at edges
         if ((zone === 'services_row' || zone === 'auto_row') && col % 4 === 0 && row % 3 === 0) {
           if (rng() < 0.3) {
-            this.addDecoSprite('lamp', LAMP_POST, x - 5, y - 10, 1, depth)
+            this.addDecoSprite('lamp', LAMP_POST, x - 6, y, SPRITE_SCALE, depth)
           }
         }
       }
@@ -612,7 +637,18 @@ export class WorldRenderer {
       newVisual = applyBuildingOverrides(building.id, newVisual, state.health)
 
       const prevVisual = this.prevBuildingVisuals.get(building.id)
-      if (prevVisual && prevVisual.tint !== newVisual.tint) {
+      const visualChanged = prevVisual && (
+        prevVisual.tint !== newVisual.tint ||
+        prevVisual.lightAlpha !== newVisual.lightAlpha ||
+        prevVisual.boardedUp !== newVisual.boardedUp ||
+        prevVisual.saturation !== newVisual.saturation ||
+        prevVisual.signVisible !== newVisual.signVisible ||
+        prevVisual.forLeaseSign !== newVisual.forLeaseSign ||
+        prevVisual.smokeActive !== newVisual.smokeActive ||
+        prevVisual.doorOpen !== newVisual.doorOpen ||
+        prevVisual.crowdLevel !== newVisual.crowdLevel
+      )
+      if (visualChanged) {
         // Determine transition duration based on dramatic events
         let duration = 0.6
         if (building.id === 'bank' && newTick >= 5) duration = 1.5
@@ -670,12 +706,27 @@ export class WorldRenderer {
       const floorHalfH = bw / 4
       const wallH = bh * 0.6
 
+      // Explicit hit area matching only the building silhouette (walls + roof)
+      container.hitArea = new Polygon([
+        x, y + TILE_H / 2 - wallH,                                // roof top
+        x + floorHalfW, y + TILE_H / 2 + floorHalfH - wallH,     // right wall top
+        x + floorHalfW, y + TILE_H / 2 + floorHalfH,             // right wall bottom
+        x, y + TILE_H / 2 + floorHalfH * 2,                      // floor bottom
+        x - floorHalfW, y + TILE_H / 2 + floorHalfH,             // left wall bottom
+        x - floorHalfW, y + TILE_H / 2 + floorHalfH - wallH,     // left wall top
+      ])
+
+      // Hover highlight handlers
+      container.on('pointerover', () => { container.alpha = 0.85 })
+      container.on('pointerout', () => { container.alpha = 1.0 })
+
       // ── Shadow on ground ──
+      const shadowOff = building.size === 'large' ? 6 : building.size === 'medium' ? 4 : 2
       g.poly([
-        x + 4, y + TILE_H / 2 + 4,
-        x + floorHalfW + 4, y + TILE_H / 2 + floorHalfH + 4,
-        x + 4, y + TILE_H / 2 + floorHalfH * 2 + 4,
-        x - floorHalfW + 4, y + TILE_H / 2 + floorHalfH + 4,
+        x + shadowOff, y + TILE_H / 2 + shadowOff,
+        x + floorHalfW + shadowOff, y + TILE_H / 2 + floorHalfH + shadowOff,
+        x + shadowOff, y + TILE_H / 2 + floorHalfH * 2 + shadowOff,
+        x - floorHalfW + shadowOff, y + TILE_H / 2 + floorHalfH + shadowOff,
       ])
       g.fill({ color: 0x0a0a0f, alpha: 0.25 })
 
@@ -768,10 +819,49 @@ export class WorldRenderer {
         }
       }
 
+      // ── Windows on left wall ──
+      for (let wr = 0; wr < windowRows; wr++) {
+        for (let wc = 0; wc < windowCols; wc++) {
+          // Mirror positions onto left wall: x moves left, y shifts down for iso perspective
+          const lwx = x - winSpacingX * (wc + 0.8) - winW
+          const lwy = y + TILE_H / 2 - wallH + winSpacingY * (wr + 0.8)
+          const lisoOffY = (wc + 1) * (floorHalfH / (windowCols + 1))
+
+          if (visual.boardedUp) {
+            // Boarded window
+            g.rect(lwx, lwy + lisoOffY, winW, winH)
+            g.fill({ color: 0x4a3728, alpha: 0.9 })
+            // X cross boards
+            g.moveTo(lwx, lwy + lisoOffY).lineTo(lwx + winW, lwy + lisoOffY + winH)
+            g.stroke({ color: 0x735039, width: 1.5 })
+            g.moveTo(lwx + winW, lwy + lisoOffY).lineTo(lwx, lwy + lisoOffY + winH)
+            g.stroke({ color: 0x735039, width: 1.5 })
+          } else if (visual.lightAlpha > 0) {
+            // Lit window with warm glow (slightly dimmer on shadow side)
+            g.rect(lwx, lwy + lisoOffY, winW, winH)
+            g.fill({ color: 0xfff3c4, alpha: visual.lightAlpha * 0.4 })
+            // Window frame (dark outline)
+            g.rect(lwx, lwy + lisoOffY, winW, winH)
+            g.stroke({ color: 0x1a1c2c, width: 1 })
+            // Cross pane
+            g.moveTo(lwx + winW / 2, lwy + lisoOffY).lineTo(lwx + winW / 2, lwy + lisoOffY + winH)
+            g.stroke({ color: 0x1a1c2c, width: 0.5 })
+            g.moveTo(lwx, lwy + lisoOffY + winH / 2).lineTo(lwx + winW, lwy + lisoOffY + winH / 2)
+            g.stroke({ color: 0x1a1c2c, width: 0.5 })
+          } else {
+            // Dark window
+            g.rect(lwx, lwy + lisoOffY, winW, winH)
+            g.fill({ color: 0x1a1c2c, alpha: 0.7 })
+            g.rect(lwx, lwy + lisoOffY, winW, winH)
+            g.stroke({ color: 0x333c57, width: 0.5 })
+          }
+        }
+      }
+
       // ── Door on right wall ──
-      if (building.size !== 'large') {
-        const doorW = building.size === 'small' ? 3 : 4
-        const doorH = building.size === 'small' ? 5 : 7
+      {
+        const doorW = building.size === 'large' ? 5 : building.size === 'small' ? 3 : 4
+        const doorH = building.size === 'large' ? 9 : building.size === 'small' ? 5 : 7
         const doorX = x + floorHalfW * 0.5 - doorW / 2
         const doorY = y + TILE_H / 2 - doorH + floorHalfH * 0.5
         if (visual.doorOpen) {
@@ -844,6 +934,7 @@ export class WorldRenderer {
       }
 
       // ── Zone-tinted outline around entire building silhouette ──
+      // Wall outline (hexagonal: front edge + left/right walls)
       g.poly([
         x, y + TILE_H / 2 - wallH,
         x - floorHalfW, y + TILE_H / 2 + floorHalfH - wallH,
@@ -851,6 +942,14 @@ export class WorldRenderer {
         x, y + TILE_H / 2,
         x + floorHalfW, y + TILE_H / 2 + floorHalfH,
         x + floorHalfW, y + TILE_H / 2 + floorHalfH - wallH,
+      ])
+      g.stroke({ color: zoneAccent, width: 1.5, alpha: 0.8 })
+      // Roof top face outline (isometric diamond)
+      g.poly([
+        x, y + TILE_H / 2 - wallH,
+        x + floorHalfW, y + TILE_H / 2 + floorHalfH - wallH,
+        x, y + TILE_H / 2 + floorHalfH * 2 - wallH,
+        x - floorHalfW, y + TILE_H / 2 + floorHalfH - wallH,
       ])
       g.stroke({ color: zoneAccent, width: 1.5, alpha: 0.8 })
 
@@ -933,6 +1032,15 @@ export class WorldRenderer {
       labelBg.rect(healthBarX, healthBarY, healthBarW, 3)
       labelBg.stroke({ color: 0x333c57, width: 0.5 })
 
+      // ── Fade-in for mid-sim buildings ──
+      if (building.appears_tick > 0 && tick >= building.appears_tick) {
+        if (!this.buildingFadeStart.has(building.id)) {
+          this.buildingFadeStart.set(building.id, Date.now())
+        }
+        const elapsed = (Date.now() - this.buildingFadeStart.get(building.id)!) / 1000
+        container.alpha = Math.min(1.0, elapsed / 0.5)
+      }
+
       renderables.push({ depth, container })
     }
   }
@@ -947,6 +1055,7 @@ export class WorldRenderer {
     buildingTiles: Record<string, [number, number]>,
     tick: number,
     interpolation: number,
+    transactions: Transaction[] | null,
   ): void {
     const tileOccupancy: Map<string, number> = new Map()
 
@@ -960,6 +1069,14 @@ export class WorldRenderer {
       const snap1 = this.getSnapForTick(agent, nextTick)
       const empStatus1 = snap1.employment_status ?? 'unemployed'
 
+      // Check if agent has active transactions at current and next tick
+      const hasActiveTx0 = transactions != null && transactions.some(
+        tx => tx.tick === tick && (tx.initiator === agentId || tx.target === agentId)
+      )
+      const hasActiveTx1 = transactions != null && transactions.some(
+        tx => tx.tick === nextTick && (tx.initiator === agentId || tx.target === agentId)
+      )
+
       // Locations for current and next tick (prefer per-tick psychology, fall back to root)
       const loc0 = getAgentLocation({
         employment_status: empStatus0,
@@ -967,7 +1084,7 @@ export class WorldRenderer {
         agency: snap0.agency ?? agent.agency,
         runway_months: snap0.runway_months ?? agent.runway_months,
         archetype: agent.archetype,
-        has_active_tx: false,
+        has_active_tx: hasActiveTx0,
         transformations: agent.transformations ?? [],
       })
       const tile0 = locationToTile(loc0, agentId, buildingTiles)
@@ -978,7 +1095,7 @@ export class WorldRenderer {
         agency: snap1.agency ?? agent.agency,
         runway_months: snap1.runway_months ?? agent.runway_months,
         archetype: agent.archetype,
-        has_active_tx: false,
+        has_active_tx: hasActiveTx1,
         transformations: agent.transformations ?? [],
       })
       const tile1 = locationToTile(loc1, agentId, buildingTiles)
@@ -987,8 +1104,9 @@ export class WorldRenderer {
       const tileKey = `${tile0[0]},${tile0[1]}`
       const agentIndex = tileOccupancy.get(tileKey) ?? 0
       tileOccupancy.set(tileKey, agentIndex + 1)
-      const jitterX = (agentIndex % 5 - 2) * 8
-      const jitterY = Math.floor(agentIndex / 5) * 6
+      // Use stacked vertical layout when > 4 agents share a tile
+      const jitterX = (agentIndex % 3 - 1) * 14
+      const jitterY = Math.floor(agentIndex / 3) * 18
 
       // Smooth interpolation between positions
       let ax: number, ay: number
@@ -1030,6 +1148,8 @@ export class WorldRenderer {
       // Follow Agent mode: enlarge followed, dim others
       if (this.followedAgentId) {
         if (agentId === this.followedAgentId) {
+          container.pivot.set(ax, ay)
+          container.position.set(ax, ay)
           container.scale.set(1.3)
         } else {
           container.alpha = 0.35
@@ -1076,7 +1196,7 @@ export class WorldRenderer {
         const hf = this.walkFrame % 2
         spriteKey = `hustle_${hf}`
         spriteData = hframes[hf]
-        this.hustleContainers.set(agentId, { container, baseY: container.y })
+        this.hustleContainers.set(agentId, { container, baseY: ay })
         break
       }
       case 'walk_ne': {
@@ -1510,17 +1630,20 @@ export class WorldRenderer {
   private tickAnimations(dt: number): void {
     const now = Date.now()
 
-    // Walk animation frame counter (6 fps walk cycle)
-    this.walkTimer += dt
+    // Walk animation frame counter (6 fps walk cycle, scaled by playback speed)
+    this.walkTimer += dt * this.playSpeed
     if (this.walkTimer > 0.167) {
       this.walkTimer -= 0.167
       this.walkFrame++
     }
 
-    // Hustle bounce
+    // Hustle bounce — offset sprite within container around agent's resting ay
     this.hustleContainers.forEach((data, id) => {
       const idx = parseInt(id.replace(/\D/g, ''), 10) || 0
-      data.container.y = data.baseY - Math.abs(Math.sin(now * 0.005 + idx * 0.8)) * 4
+      const bounceOffset = -Math.abs(Math.sin(now * 0.005 + idx * 0.8)) * 4
+      for (const child of data.container.children) {
+        ;(child as Container).y = data.baseY + bounceOffset
+      }
     })
 
     // Declining building flicker

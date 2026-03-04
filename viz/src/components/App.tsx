@@ -20,7 +20,7 @@ import { useUrlState }  from '../hooks/useUrlState'
 import { useKeyboard }  from '../hooks/useKeyboard'
 
 export default function App() {
-  const { isLoaded, loadError, loadData } = useSimStore()
+  const { isLoaded, loadError, loadData, selectedAgentId, selectedBuildingId } = useSimStore()
   const worldCanvasRef = useRef<WorldCanvasHandle>(null)
   const rendererRef = useRef<import('../pixi/WorldRenderer').WorldRenderer | null>(null)
   const [showComparison, setShowComparison] = useState(false)
@@ -105,12 +105,14 @@ export default function App() {
           )}
         </div>
 
-        {/* Right: drill-down panels */}
-        <div className="panel-area">
-          <AgentCard />
-          <AgentStoryTimeline />
-          <BuildingCard />
-        </div>
+        {/* Right: drill-down panels — hidden when nothing selected */}
+        {(selectedAgentId || selectedBuildingId) && (
+          <div className="panel-area" style={{ maxHeight: '100vh', overflowY: 'auto' }}>
+            <AgentCard />
+            <AgentStoryTimeline />
+            <BuildingCard />
+          </div>
+        )}
       </div>
 
       {/* Comparison shell overlay */}

@@ -20,7 +20,7 @@ const SPEEDS = [0.1, 0.25, 0.5, 1, 2, 5] as const
 export default function ScrubBar() {
   const {
     currentTick, maxTick, isPlaying, playSpeed,
-    phenomena, scenarioEvents, timeseries,
+    phenomena, scenarioEvents,
     selectedAgentId, agents,
     setTick, stepTick, setPlaying, setSpeed,
   } = useSimStore()
@@ -132,22 +132,7 @@ export default function ScrubBar() {
         </div>
       </div>
 
-      {/* Current tick macro stats */}
-      {timeseries && (() => {
-        const t = timeseries[String(currentTick)]
-        if (!t) return null
-        return (
-          <div className="tick-stats">
-            {t.interpolated && <span className="interp-badge">interpolated</span>}
-            <span>Employed: <strong>{t.employment_rate != null ? `${(t.employment_rate*100).toFixed(0)}%` : '\u2014'}</strong></span>
-            <span>Spending: <strong>{t.spending_index != null ? `${t.spending_index}%` : '\u2014'}</strong></span>
-            <span>Cars: <strong>{t.car_ownership_rate != null ? `${(t.car_ownership_rate*100).toFixed(0)}%` : '\u2014'}</strong></span>
-            <span>Gini: <strong>{t.gini != null ? t.gini.toFixed(3) : '\u2014'}</strong></span>
-            <span>Protests: <strong>{t.protests}</strong></span>
-            <span>Retraining: <strong>{t.retraining_enrollments}</strong></span>
-          </div>
-        )
-      })()}
+      {/* Macro stats removed — displayed in EconomicDash to avoid duplication */}
     </div>
   )
 }

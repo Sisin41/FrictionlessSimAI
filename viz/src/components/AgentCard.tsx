@@ -44,7 +44,7 @@ export default function AgentCard() {
 
       {/* Header */}
       <div className="agent-header">
-        <div className="agent-sprite-placeholder tier-{agent.tier}" />
+        <div className={`agent-sprite-placeholder tier-${agent.tier}`} />
         <div>
           <h2>{agent.name}, {agent.age}</h2>
           <p className="agent-role">{agent.role}</p>
@@ -194,8 +194,8 @@ export default function AgentCard() {
         >
           {followAgentId === selectedAgentId ? 'Unfollow' : 'Follow Agent'}
         </button>
-        <button>All Reflections</button>
-        <button>Transactions</button>
+        <button disabled title="Coming soon" style={{ opacity: 0.4, cursor: 'default' }}>All Reflections</button>
+        <button disabled title="Coming soon" style={{ opacity: 0.4, cursor: 'default' }}>Transactions</button>
       </div>
     </div>
   )

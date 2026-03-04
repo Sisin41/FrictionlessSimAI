@@ -11,14 +11,30 @@ import { useSimStore } from '../store/simStore'
 export default function EconomicDash() {
   const { currentTick, timeseries } = useSimStore()
   const t = timeseries?.[String(currentTick)]
-  if (!t) return null
+
+  const placeholderLabels = ['Employed', 'Spending', 'Cars Owned', 'RoboTaxi', 'Gini', 'Protests', 'Retraining', 'Mutual Aid']
+
+  if (!t) {
+    return (
+      <div className="economic-dash">
+        <span className="dash-title">MILLFIELD</span>
+        <span className="dash-tick">Tick {currentTick}</span>
+        {placeholderLabels.map(label => (
+          <div key={label} className="dash-stat">
+            <span className="dash-label">{label}</span>
+            <span className="dash-value" style={{ color: '#e2e8f0' }}>{'\u2014'}</span>
+          </div>
+        ))}
+      </div>
+    )
+  }
 
   const stats = [
-    { label: 'Employed',    value: t.employment_rate    != null ? `${(t.employment_rate*100).toFixed(0)}%` : '—', delta: t.employment_rate != null ? t.employment_rate - 1.0 : 0 },
-    { label: 'Spending',    value: t.spending_index     != null ? `${t.spending_index}%` : '—',                 delta: t.spending_index != null ? (t.spending_index - 83) / 83 : 0 },
-    { label: 'Cars Owned',  value: t.car_ownership_rate != null ? `${(t.car_ownership_rate*100).toFixed(0)}%` : '—', delta: t.car_ownership_rate != null ? t.car_ownership_rate - 0.93 : 0 },
-    { label: 'RoboTaxi',   value: t.robotaxi_rate       != null ? `${(t.robotaxi_rate*100).toFixed(0)}%` : '—',    delta: t.robotaxi_rate ?? 0 },
-    { label: 'Gini',        value: t.gini               != null ? t.gini.toFixed(3) : '—',                     delta: t.gini != null ? -(t.gini - 0.254) : 0 },
+    { label: 'Employed',    value: t.employment_rate    != null ? `${(t.employment_rate*100).toFixed(0)}%` : '\u2014', delta: t.employment_rate != null ? t.employment_rate - 1.0 : 0 },
+    { label: 'Spending',    value: t.spending_index     != null ? `${t.spending_index}%` : '\u2014',                 delta: t.spending_index != null ? (t.spending_index - 83) / 83 : 0 },
+    { label: 'Cars Owned',  value: t.car_ownership_rate != null ? `${(t.car_ownership_rate*100).toFixed(0)}%` : '\u2014', delta: t.car_ownership_rate != null ? t.car_ownership_rate - 0.93 : 0 },
+    { label: 'RoboTaxi',   value: t.robotaxi_rate       != null ? `${(t.robotaxi_rate*100).toFixed(0)}%` : '\u2014',    delta: t.robotaxi_rate ?? 0 },
+    { label: 'Gini',        value: t.gini               != null ? t.gini.toFixed(3) : '\u2014',                     delta: t.gini != null ? -(t.gini - 0.254) : 0 },
     { label: 'Protests',    value: String(t.protests ?? 0),                                                      delta: -(t.protests ?? 0) / 10 },
     { label: 'Retraining',  value: String(t.retraining_enrollments ?? 0),                                       delta: (t.retraining_enrollments ?? 0) / 15 },
     { label: 'Mutual Aid',  value: String(t.mutual_aid_events ?? 0),                                            delta: (t.mutual_aid_events ?? 0) / 3 },
