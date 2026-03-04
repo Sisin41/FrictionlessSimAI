@@ -11,7 +11,7 @@ import { isoToScreen, lerpTile, tileDepth, TILE_W, TILE_H, GRID_COLS, GRID_ROWS,
 import { getBuildingVisual, applyBuildingOverrides, type BuildingVisual } from './buildingSprite'
 import { getAnimationState, getAgentLocation, TIER_TINT, GRIEF_TINT, getRunwayRingColor, type AnimationState } from './agentSprite'
 import type { Agent, Building, BuildingTickState, SocialEdge, Transaction, LayerId } from '../store/simStore'
-import { locationToTile } from './worldData'
+import { locationToTile, getBuildingDisplayTile } from './worldData'
 import { BuildingTransitionManager, lerpColor } from './BuildingTransitionManager'
 import { LayerRenderer } from './LayerRenderer'
 import {
@@ -32,6 +32,27 @@ const ZONES = [
   { id: 'residential_t1', cols: [0, 5],   rows: [10, 13], color: 0x2a4a7f },
   { id: 'residential_t2', cols: [6, 11],  rows: [10, 13], color: 0x2a6a6a },
   { id: 'residential_t4', cols: [0, 25],  rows: [14, 19], color: 0x4a4a4a },
+]
+
+// ─── Zone building accent colors ────────────────────────────────────
+// Distinct tint per zone so buildings are visually distinguishable at a glance
+const ZONE_BUILDING_ACCENT: Record<string, number> = {
+  auto_row:       0x4a7fbf,
+  services_row:   0x3a8a5a,
+  civic_district: 0x8a5abf,
+  education:      0xbf8a3a,
+  park:           0x4a9a4a,
+  informal_market:0xbf6a3a,
+}
+
+// ─── Zone labels to render on the map ───────────────────────────────
+const ZONE_LABELS: Array<{ text: string; col: number; row: number }> = [
+  { text: 'AUTO ROW',        col: 11, row: 0 },
+  { text: 'CIVIC',           col: 2,  row: 0 },
+  { text: 'SERVICES',        col: 10, row: 5 },
+  { text: 'EDUCATION',       col: 22, row: 0 },
+  { text: 'PARK',            col: 22, row: 5 },
+  { text: 'RESIDENTIAL',     col: 10, row: 12 },
 ]
 
 // ─── Robotaxi road path ──────────────────────────────────────────────
@@ -224,9 +245,9 @@ export class WorldRenderer {
     // because they just hold a startTime for completed animations.
     this.activeChimneyPositions = []
 
-    // Build building tile map
+    // Build building tile map (using spread overrides for better layout)
     const buildingTiles: Record<string, [number, number]> = {}
-    for (const b of buildings) buildingTiles[b.id] = b.tile
+    for (const b of buildings) buildingTiles[b.id] = getBuildingDisplayTile(b.id, b.tile)
 
     // Detect tick change — fire building transitions
     if (tick !== this.lastRenderedTick) {
@@ -419,6 +440,20 @@ export class WorldRenderer {
       }
 
       this.tileGridContainer.addChild(g)
+
+      // Zone labels — large, dim text marking each area
+      for (const zl of ZONE_LABELS) {
+        const { x: lx, y: ly } = isoToScreen(zl.col, zl.row)
+        const label = new Text({
+          text: zl.text,
+          style: { fill: 0xffffff, fontSize: 9, fontFamily: 'monospace', fontWeight: 'bold', letterSpacing: 2 },
+        })
+        label.alpha = 0.18
+        label.x = lx - label.width / 2
+        label.y = ly - 6
+        this.tileGridContainer.addChild(label)
+      }
+
       this.tileGridCached = true
 
       // Place decorations once
@@ -551,13 +586,16 @@ export class WorldRenderer {
         visual = applyBuildingOverrides(building.id, visual, state.health)
       }
 
-      const [col, row] = building.tile
+      const [col, row] = getBuildingDisplayTile(building.id, building.tile)
       const { x, y } = isoToScreen(col, row)
       const depth = tileDepth(col, row)
 
       const sizeSpec = BUILDING_SPRITE_SIZE[building.size]
       const bw = sizeSpec.w
       const bh = sizeSpec.h
+
+      // Zone-specific accent color for visual distinction
+      const zoneAccent = ZONE_BUILDING_ACCENT[building.zone] ?? 0x4a5568
 
       const container = new Container()
       container.eventMode = 'static'
@@ -623,10 +661,10 @@ export class WorldRenderer {
       g.fill({ color: rightWallColor, alpha: visual.saturation * 0.8 + 0.2 })
 
       // ── Windows on right wall ──
-      const windowRows = building.size === 'large' ? 2 : building.size === 'medium' ? 2 : 1
-      const windowCols = building.size === 'large' ? 3 : 2
-      const winW = building.size === 'small' ? 4 : 5
-      const winH = building.size === 'small' ? 5 : 6
+      const windowRows = building.size === 'large' ? 2 : 1
+      const windowCols = building.size === 'large' ? 2 : building.size === 'medium' ? 2 : 1
+      const winW = building.size === 'small' ? 3 : 4
+      const winH = building.size === 'small' ? 4 : 5
       const winSpacingX = floorHalfW / (windowCols + 1)
       const winSpacingY = wallH / (windowRows + 1.5)
 
@@ -669,8 +707,8 @@ export class WorldRenderer {
 
       // ── Door on right wall ──
       if (building.size !== 'large') {
-        const doorW = building.size === 'small' ? 4 : 5
-        const doorH = building.size === 'small' ? 7 : 9
+        const doorW = building.size === 'small' ? 3 : 4
+        const doorH = building.size === 'small' ? 5 : 7
         const doorX = x + floorHalfW * 0.5 - doorW / 2
         const doorY = y + TILE_H / 2 - doorH + floorHalfH * 0.5
         if (visual.doorOpen) {
@@ -742,8 +780,7 @@ export class WorldRenderer {
         this.activeChimneyPositions.push({ x: cx + 2, y: cy - 2 })
       }
 
-      // ── 1px dark outline around entire building silhouette ──
-      // Left wall outline
+      // ── Zone-tinted outline around entire building silhouette ──
       g.poly([
         x, y + TILE_H / 2 - wallH,
         x - floorHalfW, y + TILE_H / 2 + floorHalfH - wallH,
@@ -752,7 +789,7 @@ export class WorldRenderer {
         x + floorHalfW, y + TILE_H / 2 + floorHalfH,
         x + floorHalfW, y + TILE_H / 2 + floorHalfH - wallH,
       ])
-      g.stroke({ color: 0x1a1c2c, width: 1.5, alpha: 0.7 })
+      g.stroke({ color: zoneAccent, width: 1.5, alpha: 0.8 })
 
       container.addChild(g)
 

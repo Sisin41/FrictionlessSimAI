@@ -75,11 +75,52 @@ export const AGENT_WORKPLACE: Record<string, string | null> = {
   uber_driver_2:         null,
 }
 
+/**
+ * Override tile positions for buildings to spread them across the grid
+ * and eliminate isometric overlaps (buildings with same col-row value
+ * stack on top of each other in screen space).
+ */
+export const BUILDING_TILE_OVERRIDES: Record<string, [number, number]> = {
+  // Civic district — spread vertically
+  city_hall:          [1, 1],
+  bank:              [4, 4],
+  community_center:  [1, 8],
+
+  // Auto row — break col-row ties, wider horizontal spread
+  parts_store:       [7, 2],
+  real_estate:       [8, 0],    // was [9,0], same col-row as auto_mall
+  auto_mall:         [12, 2],   // shifted right 1
+  gas_station:       [16, 0],   // was [15,1], same col-row as diner
+  diner:             [17, 4],   // moved down 1
+
+  // Services row — spread more evenly across cols 3-18
+  mechanic_shop_a:   [3, 6],
+  mechanic_shop_b:   [7, 7],   // was [6,6], shifted right+down
+  insurance_office:  [11, 6],  // was [10,7], shifted
+  parking_garage:    [15, 7],  // was [14,6], shifted
+  car_wash:          [18, 8],  // was [17,7], shifted right+down
+
+  // Education — spread
+  high_school:       [21, 1],  // was [20,2]
+  driving_school:    [24, 3],  // was [23,1]
+
+  // Park + market — break col-row tie
+  park:              [22, 6],  // was [21,7]
+  informal_market:   [19, 9],  // was [19,6], moved down
+}
+
 /** Well-known tile locations for non-building destinations. */
 const WELL_KNOWN_TILES: Record<string, [number, number]> = {
-  park:             [21, 7],
-  community_center: [1, 7],
-  high_school:      [20, 2],
+  park:             [22, 6],
+  community_center: [1, 8],
+  high_school:      [21, 1],
+}
+
+/**
+ * Get the display tile for a building, applying spread overrides.
+ */
+export function getBuildingDisplayTile(buildingId: string, originalTile: [number, number]): [number, number] {
+  return BUILDING_TILE_OVERRIDES[buildingId] ?? originalTile
 }
 
 /**
