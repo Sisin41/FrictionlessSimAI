@@ -289,37 +289,51 @@ export const useSimStore = create<SimState>((set, get) => ({
   // ── Data loading ──────────────────────────────────────────────────
   loadData: async () => {
     const BASE = './viz-data'
-    try {
-      const [meta, world, phenomena, social, agents, buildings, txns] = await Promise.all([
-        fetch(`${BASE}/meta.json`).then(r => r.json()),
-        fetch(`${BASE}/world.json`).then(r => r.json()),
-        fetch(`${BASE}/phenomena.json`).then(r => r.json()),
-        fetch(`${BASE}/social_graph.json`).then(r => r.json()),
-        fetch(`${BASE}/agents.json`).then(r => r.json()),
-        fetch(`${BASE}/buildings.json`).then(r => r.json()),
-        fetch(`${BASE}/transactions.json`).then(r => r.json()),
-      ])
+    const errors: string[] = []
 
-      set({
-        meta,
-        worldLayout:   world,
-        phenomena:     phenomena.phenomena,
-        scenarioEvents: phenomena.scenario_events,
-        timeseries:    phenomena.timeseries,
-        agents,
-        buildings:     buildings.buildings,
-        buildingTicks: buildings.ticks,
-        transactions:  txns.transactions,
-        txByTick:      txns.by_tick_ids,
-        socialEdges:   social.edges,
-        socialNodes:   social.nodes,
-        maxTick:       meta.simulation.total_ticks,
-        isLoaded:      true,
-        loadError:     null,
-      })
-    } catch (err) {
-      set({ loadError: String(err), isLoaded: false })
+    async function fetchJson(file: string): Promise<any> {
+      try {
+        const r = await fetch(`${BASE}/${file}`)
+        if (!r.ok) throw new Error(`HTTP ${r.status} ${r.statusText}`)
+        return await r.json()
+      } catch (err) {
+        errors.push(`${file}: ${String(err)}`)
+        return null
+      }
     }
+
+    const [meta, world, phenomena, social, agents, buildings, txns] = await Promise.all([
+      fetchJson('meta.json'),
+      fetchJson('world.json'),
+      fetchJson('phenomena.json'),
+      fetchJson('social_graph.json'),
+      fetchJson('agents.json'),
+      fetchJson('buildings.json'),
+      fetchJson('transactions.json'),
+    ])
+
+    if (errors.length > 0) {
+      set({ loadError: `Failed to load: ${errors.join('; ')}`, isLoaded: false })
+      // Still set whatever data we got so partial loading works
+    }
+
+    set({
+      meta,
+      worldLayout:    world,
+      phenomena:      phenomena?.phenomena ?? null,
+      scenarioEvents: phenomena?.scenario_events ?? null,
+      timeseries:     phenomena?.timeseries ?? null,
+      agents,
+      buildings:      buildings?.buildings ?? null,
+      buildingTicks:  buildings?.ticks ?? null,
+      transactions:   txns?.transactions ?? null,
+      txByTick:       txns?.by_tick_ids ?? null,
+      socialEdges:    social?.edges ?? null,
+      socialNodes:    social?.nodes ?? null,
+      maxTick:        meta?.simulation?.total_ticks ?? 14,
+      isLoaded:       errors.length === 0,
+      loadError:      errors.length > 0 ? `Failed to load: ${errors.join('; ')}` : null,
+    })
   },
 }))
 

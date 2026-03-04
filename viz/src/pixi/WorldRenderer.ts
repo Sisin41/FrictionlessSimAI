@@ -12,7 +12,7 @@ import { getBuildingVisual, applyBuildingOverrides, type BuildingVisual } from '
 import { getAnimationState, getAgentLocation, TIER_TINT, GRIEF_TINT, getRunwayRingColor, type AnimationState } from './agentSprite'
 import type { Agent, Building, BuildingTickState, SocialEdge, Transaction, LayerId } from '../store/simStore'
 import { locationToTile, getBuildingDisplayTile, BUILDING_TILE_OVERRIDES } from './worldData'
-import { BuildingTransitionManager, lerpColor } from './BuildingTransitionManager'
+import { BuildingTransitionManager } from './BuildingTransitionManager'
 import { LayerRenderer } from './LayerRenderer'
 import {
   PALETTE,
@@ -165,6 +165,7 @@ export class WorldRenderer {
   private tileGridCached = false
   private tileGridContainer: Container = new Container()
   private ambientTimer = 0
+  private smokeTimer = 0
   // Active chimney screen positions (updated each render)
   private activeChimneyPositions: Array<{ x: number; y: number }> = []
   // Fade-in tracking for mid-sim buildings (building id -> start timestamp)
@@ -266,7 +267,7 @@ export class WorldRenderer {
     }
 
     // Update building transitions
-    const transitionOverrides = this.btm.update(1 / 60)
+    const transitionOverrides = this.btm.update(this.app!.ticker.deltaMS / 1000)
 
     // Collect renderables
     const renderables: Renderable[] = []
@@ -328,6 +329,9 @@ export class WorldRenderer {
       // Reset camera position when not following
       this.worldContainer.x += (0 - this.worldContainer.x) * 0.15
       this.worldContainer.y += (0 - this.worldContainer.y) * 0.15
+      // Snap to zero when close enough to prevent sub-pixel jitter
+      if (Math.abs(this.worldContainer.x) < 0.5) this.worldContainer.x = 0
+      if (Math.abs(this.worldContainer.y) < 0.5) this.worldContainer.y = 0
       this.robotaxiContainer.x = this.worldContainer.x
       this.robotaxiContainer.y = this.worldContainer.y
       this.layerContainer.x = this.worldContainer.x
@@ -425,6 +429,12 @@ export class WorldRenderer {
   }
 
   destroy(): void {
+    // Dispose cached sprite textures to prevent memory leaks
+    for (const tex of spriteTextureCache.values()) {
+      tex.destroy(true)
+    }
+    spriteTextureCache.clear()
+
     if (this.app) {
       try {
         this.app.destroy(true, { children: true })
@@ -1658,8 +1668,10 @@ export class WorldRenderer {
       this.spawnAmbientParticle()
     }
 
-    // Smoke particles from chimneys
-    if (now % 500 < 20) {
+    // Smoke particles from chimneys (every 500ms, fps-independent)
+    this.smokeTimer += dt
+    if (this.smokeTimer >= 0.5) {
+      this.smokeTimer -= 0.5
       this.spawnSmokeParticle()
     }
 

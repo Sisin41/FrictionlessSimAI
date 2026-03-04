@@ -13,7 +13,7 @@
  */
 
 import { useEffect, useRef, useImperativeHandle, forwardRef } from 'react'
-import { useSimStore } from '../store/simStore'
+import { useSimStore, type LayerId } from '../store/simStore'
 import { WorldRenderer } from '../pixi/WorldRenderer'
 import SpeechBubble from './SpeechBubble'
 import ReflectionCaption from './ReflectionCaption'
@@ -36,7 +36,6 @@ const WorldCanvas = forwardRef<WorldCanvasHandle>(function WorldCanvas(_props, r
   const buildingTicks = useSimStore(s => s.buildingTicks)
   const currentTick = useSimStore(s => s.currentTick)
   const maxTick = useSimStore(s => s.maxTick)
-  const interpolation = useSimStore(s => s.interpolation)
   const timeseries = useSimStore(s => s.timeseries)
   const selectAgent = useSimStore(s => s.selectAgent)
   const selectBuilding = useSimStore(s => s.selectBuilding)
@@ -82,7 +81,13 @@ const WorldCanvas = forwardRef<WorldCanvasHandle>(function WorldCanvas(_props, r
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [agents])
 
-  // Re-render on tick change, interpolation change, selection, follow, or layer change
+  // Cache latest render args so the PixiJS ticker can re-render with fresh interpolation
+  const renderArgsRef = useRef<{
+    tick: number; agents: Record<string, any>; buildings: any[]; buildingTicks: Record<string, any>;
+    robotaxiRate: number; activeLayers?: Set<LayerId>; socialEdges?: any; transactions?: any; txByTick?: any;
+  } | null>(null)
+
+  // Re-render on tick change, selection, follow, or layer change (NOT interpolation)
   useEffect(() => {
     const renderer = rendererRef.current
     if (!renderer || !agents || !buildings || !buildingTicks) return
@@ -98,9 +103,14 @@ const WorldCanvas = forwardRef<WorldCanvasHandle>(function WorldCanvas(_props, r
     renderer.setFollowAgent(followAgentId)
 
     const robotaxiRate = timeseries?.[String(currentTick)]?.robotaxi_rate ?? 0
+    // Cache args for the PixiJS ticker to use for interpolation-only updates
+    renderArgsRef.current = {
+      tick: currentTick, agents, buildings, buildingTicks,
+      robotaxiRate, activeLayers, socialEdges, transactions, txByTick,
+    }
     renderer.renderSmooth(
       currentTick,
-      interpolation,
+      useSimStore.getState().interpolation,
       agents,
       buildingTicks[String(currentTick)],
       buildingTicks[String(Math.min(currentTick + 1, maxTick))],
@@ -111,7 +121,31 @@ const WorldCanvas = forwardRef<WorldCanvasHandle>(function WorldCanvas(_props, r
       transactions,
       txByTick,
     )
-  }, [currentTick, interpolation, agents, buildings, buildingTicks, selectedAgentId, followAgentId, timeseries, activeLayers, socialEdges, transactions, txByTick])
+  }, [currentTick, agents, buildings, buildingTicks, selectedAgentId, followAgentId, timeseries, activeLayers, socialEdges, transactions, txByTick])
+
+  // Drive interpolation-only re-renders from the PixiJS ticker instead of React useEffect
+  useEffect(() => {
+    const unsub = useSimStore.subscribe((state, prev) => {
+      if (state.interpolation === prev.interpolation) return
+      const renderer = rendererRef.current
+      const args = renderArgsRef.current
+      if (!renderer || !args) return
+      renderer.renderSmooth(
+        args.tick,
+        state.interpolation,
+        args.agents,
+        args.buildingTicks[String(args.tick)],
+        args.buildingTicks[String(Math.min(args.tick + 1, maxTick))],
+        args.buildings,
+        args.robotaxiRate,
+        args.activeLayers,
+        args.socialEdges,
+        args.transactions,
+        args.txByTick,
+      )
+    })
+    return unsub
+  }, [maxTick])
 
   return (
     <div ref={canvasRef} className="world-canvas">

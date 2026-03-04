@@ -101,8 +101,21 @@ export function useUrlState() {
   useEffect(() => {
     function onPopState() {
       const parsed = parseHash()
-      if (parsed.tick != null) useSimStore.getState().setTick(parsed.tick)
-      if (parsed.agent) useSimStore.getState().selectAgent(parsed.agent)
+      const store = useSimStore.getState()
+      if (parsed.tick != null) store.setTick(parsed.tick)
+      if (parsed.agent) store.selectAgent(parsed.agent)
+      // Restore layer state from URL
+      if (parsed.layers) {
+        const current = store.activeLayers
+        // Turn off layers not in URL
+        for (const layer of current) {
+          if (!parsed.layers.includes(layer)) store.toggleLayer(layer)
+        }
+        // Turn on layers in URL
+        for (const layer of parsed.layers) {
+          if (!current.has(layer)) store.toggleLayer(layer)
+        }
+      }
     }
     window.addEventListener('popstate', onPopState)
     return () => window.removeEventListener('popstate', onPopState)

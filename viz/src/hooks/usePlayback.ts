@@ -11,13 +11,18 @@ import { useSimStore } from '../store/simStore'
 export function usePlayback() {
   const isPlaying = useSimStore(s => s.isPlaying)
   const playSpeed = useSimStore(s => s.playSpeed)
-  const currentTick = useSimStore(s => s.currentTick)
   const maxTick = useSimStore(s => s.maxTick)
   const setTick = useSimStore(s => s.setTick)
   const setPlaying = useSimStore(s => s.setPlaying)
   const setInterpolation = useSimStore(s => s.setInterpolation)
   const accumRef = useRef(0)
   const lastTimeRef = useRef(0)
+  // Read currentTick via ref to avoid re-registering the effect on every tick change
+  const tickRef = useRef(useSimStore.getState().currentTick)
+  useEffect(() => {
+    const unsub = useSimStore.subscribe((s) => { tickRef.current = s.currentTick })
+    return unsub
+  }, [])
 
   useEffect(() => {
     if (!isPlaying) {
@@ -36,7 +41,7 @@ export function usePlayback() {
 
       if (accumRef.current >= 1) {
         accumRef.current = 0
-        const next = currentTick + 1
+        const next = tickRef.current + 1
 
         if (next > maxTick) {
           setTick(maxTick)
@@ -53,5 +58,5 @@ export function usePlayback() {
 
     raf = requestAnimationFrame(frame)
     return () => cancelAnimationFrame(raf)
-  }, [isPlaying, playSpeed, currentTick, maxTick, setTick, setPlaying, setInterpolation])
+  }, [isPlaying, playSpeed, maxTick, setTick, setPlaying, setInterpolation])
 }

@@ -109,11 +109,11 @@ export const BUILDING_TILE_OVERRIDES: Record<string, [number, number]> = {
   informal_market:   [19, 9],  // was [19,6], moved down
 }
 
-/** Well-known tile locations for non-building destinations. */
+/** Well-known tile locations for non-building destinations (derived from overrides). */
 const WELL_KNOWN_TILES: Record<string, [number, number]> = {
-  park:             [22, 6],
-  community_center: [1, 8],
-  high_school:      [21, 1],
+  park:             BUILDING_TILE_OVERRIDES.park,
+  community_center: BUILDING_TILE_OVERRIDES.community_center,
+  high_school:      BUILDING_TILE_OVERRIDES.high_school,
 }
 
 /**
