@@ -116,6 +116,8 @@ interface PixelParticle {
   life: number; maxLife: number
   size: number
   gravity: number
+  /** If true, position is in screen-space (not offset by camera) */
+  screenSpace?: boolean
 }
 
 // Seeded pseudo-random for deterministic decoration placement
@@ -133,6 +135,8 @@ export class WorldRenderer {
   private worldContainer: Container = new Container()
   private layerContainer: Container = new Container()
   private overlayContainer: Container = new Container()
+  // Camera-following container for world-positioned overlays (protests, stalls, pulse rings)
+  private worldOverlayContainer: Container = new Container()
   private layerRenderer = new LayerRenderer()
   private highlightedAgentId: string | null = null
   private btm = new BuildingTransitionManager()
@@ -157,6 +161,7 @@ export class WorldRenderer {
   private particleGraphics: Graphics = new Graphics()
   private decorationContainer: Container = new Container()
   private decorationsPlaced = false
+  private decorationRenderables: Renderable[] = []
   private tileGridCached = false
   private tileGridContainer: Container = new Container()
   private ambientTimer = 0
@@ -204,11 +209,12 @@ export class WorldRenderer {
     })
     container.appendChild(this.app.canvas)
     this.app.stage.addChild(this.worldContainer)
-    // Decoration layer sits above tiles but below buildings
-    this.app.stage.addChild(this.decorationContainer)
+    // Decorations are now depth-sorted renderables inside worldContainer (Task 3.1)
     this.app.stage.addChild(this.layerContainer)
     this.layerContainer.addChild(this.layerRenderer.getContainer())
     this.app.stage.addChild(this.robotaxiContainer)
+    // World-positioned overlays (protests, stalls, pulse rings) follow camera (Task 3.2)
+    this.app.stage.addChild(this.worldOverlayContainer)
     // Particles sit above everything except overlays
     this.app.stage.addChild(this.particleGraphics)
     this.app.stage.addChild(this.overlayContainer)
@@ -271,6 +277,11 @@ export class WorldRenderer {
     // 3. Agents with interpolation
     this.renderAgentsSmooth(renderables, agents, buildingTiles, tick, interpolation)
 
+    // 4. Decorations as depth-sorted renderables (Task 3.1)
+    for (const deco of this.decorationRenderables) {
+      renderables.push(deco)
+    }
+
     // Sort and add to stage
     renderables.sort((a, b) => a.depth - b.depth)
     for (const r of renderables) this.worldContainer.addChild(r.container)
@@ -307,8 +318,8 @@ export class WorldRenderer {
         this.robotaxiContainer.y = this.worldContainer.y
         this.layerContainer.x = this.worldContainer.x
         this.layerContainer.y = this.worldContainer.y
-        this.decorationContainer.x = this.worldContainer.x
-        this.decorationContainer.y = this.worldContainer.y
+        this.worldOverlayContainer.x = this.worldContainer.x
+        this.worldOverlayContainer.y = this.worldContainer.y
       }
     } else {
       // Reset camera position when not following
@@ -318,8 +329,8 @@ export class WorldRenderer {
       this.robotaxiContainer.y = this.worldContainer.y
       this.layerContainer.x = this.worldContainer.x
       this.layerContainer.y = this.worldContainer.y
-      this.decorationContainer.x = this.worldContainer.x
-      this.decorationContainer.y = this.worldContainer.y
+      this.worldOverlayContainer.x = this.worldContainer.x
+      this.worldOverlayContainer.y = this.worldContainer.y
     }
 
     // Update robotaxis
@@ -371,20 +382,20 @@ export class WorldRenderer {
 
   /** Remove overlay animations that belong to ticks after the current tick. */
   private clearOverlayAnimations(currentTick: number): void {
-    // Remove protest crowd (fires at tick 8)
+    // Remove protest crowd (fires at tick 8) — now in worldOverlayContainer
     if (currentTick < 8 && this.protestContainer) {
-      this.overlayContainer.removeChild(this.protestContainer)
+      this.worldOverlayContainer.removeChild(this.protestContainer)
       this.protestContainer = null
     }
-    // Remove market stalls (fires at tick 7)
+    // Remove market stalls (fires at tick 7) — now in worldOverlayContainer
     if (currentTick < 7 && this.informalMarketStalls) {
-      this.overlayContainer.removeChild(this.informalMarketStalls)
+      this.worldOverlayContainer.removeChild(this.informalMarketStalls)
       this.informalMarketStalls = null
     }
-    // Remove depth/pulse rings (fires at tick 9 depression cluster)
+    // Remove depth/pulse rings (fires at tick 9 depression cluster) — now in worldOverlayContainer
     if (currentTick < 9) {
       this.depthRingContainers.forEach((container) => {
-        this.overlayContainer.removeChild(container)
+        this.worldOverlayContainer.removeChild(container)
       })
       this.depthRingContainers.clear()
     }
@@ -523,27 +534,28 @@ export class WorldRenderer {
     return null
   }
 
-  /** Place pixel-art decorations (trees, bushes, flowers, lamps) on appropriate tiles */
+  /** Place pixel-art decorations (trees, bushes, flowers, lamps) as depth-sorted renderables */
   private placeDecorations(): void {
-    this.decorationContainer.removeChildren()
+    this.decorationRenderables = []
     const rng = seededRandom(1337)
 
     for (let col = 0; col < GRID_COLS; col++) {
       for (let row = 0; row < GRID_ROWS; row++) {
         const zone = this.getZoneId(col, row)
         const { x, y } = isoToScreen(col, row)
+        const depth = tileDepth(col, row)
 
         // Park zone: trees and flowers
         if (zone === 'park') {
           const r = rng()
           if (r < 0.15) {
-            this.addDecoSprite('tree', TREE_SMALL, x - 8, y - 8, 1)
+            this.addDecoSprite('tree', TREE_SMALL, x - 8, y - 8, 1, depth)
           } else if (r < 0.25) {
-            this.addDecoSprite('bush', BUSH, x - 6, y + 4, 1)
+            this.addDecoSprite('bush', BUSH, x - 6, y + 4, 1, depth)
           } else if (r < 0.32) {
-            this.addDecoSprite('flower_r', FLOWER_RED, x + rng() * 8 - 4, y + rng() * 6, 1)
+            this.addDecoSprite('flower_r', FLOWER_RED, x + rng() * 8 - 4, y + rng() * 6, 1, depth)
           } else if (r < 0.38) {
-            this.addDecoSprite('flower_y', FLOWER_YELLOW, x + rng() * 8 - 4, y + rng() * 6, 1)
+            this.addDecoSprite('flower_y', FLOWER_YELLOW, x + rng() * 8 - 4, y + rng() * 6, 1, depth)
           }
         }
 
@@ -551,30 +563,33 @@ export class WorldRenderer {
         if (zone?.startsWith('residential')) {
           const r = rng()
           if (r < 0.06) {
-            this.addDecoSprite('bush', BUSH, x - 6, y + 4, 1)
+            this.addDecoSprite('bush', BUSH, x - 6, y + 4, 1, depth)
           } else if (r < 0.10) {
-            this.addDecoSprite('flower_r', FLOWER_RED, x + rng() * 8 - 4, y + rng() * 4, 1)
+            this.addDecoSprite('flower_r', FLOWER_RED, x + rng() * 8 - 4, y + rng() * 4, 1, depth)
           }
         }
 
         // Services/auto row: lamp posts at edges
         if ((zone === 'services_row' || zone === 'auto_row') && col % 4 === 0 && row % 3 === 0) {
           if (rng() < 0.3) {
-            this.addDecoSprite('lamp', LAMP_POST, x - 5, y - 10, 1)
+            this.addDecoSprite('lamp', LAMP_POST, x - 5, y - 10, 1, depth)
           }
         }
       }
     }
   }
 
-  private addDecoSprite(key: string, data: string[], x: number, y: number, scale: number): void {
+  private addDecoSprite(key: string, data: string[], x: number, y: number, scale: number, depth: number): void {
     const tex = getDecoTexture(key, data)
     const sprite = new Sprite(tex)
     sprite.x = Math.round(x)
     sprite.y = Math.round(y)
     sprite.scale.set(scale)
     sprite.alpha = 0.7
-    this.decorationContainer.addChild(sprite)
+    // Wrap in a Container for the Renderable interface
+    const container = new Container()
+    container.addChild(sprite)
+    this.decorationRenderables.push({ depth, container })
   }
 
   // ═══════════════════════════════════════════════════════════════════
@@ -1278,10 +1293,10 @@ export class WorldRenderer {
       container: flash as unknown as Container,
     })
 
-    // Celebration particles
-    const cx = this.app.screen.width / 2 - this.worldContainer.x
-    const cy = this.app.screen.height / 3 - this.worldContainer.y
-    this.burstParticles(cx, cy, 30, [0xffd700, 0x41a6f6, 0xf4f4f4, 0x48bb78], 50)
+    // Celebration particles — screen-space burst at viewport center (Task 3.3)
+    const cx = this.app.screen.width / 2
+    const cy = this.app.screen.height / 3
+    this.burstParticles(cx, cy, 30, [0xffd700, 0x41a6f6, 0xf4f4f4, 0x48bb78], 50, true)
 
     // News ticker with pixel-art background
     const tickerBg = new Graphics()
@@ -1382,7 +1397,7 @@ export class WorldRenderer {
       }, delay)
     }
 
-    this.overlayContainer.addChild(stallContainer)
+    this.worldOverlayContainer.addChild(stallContainer)
     this.informalMarketStalls = stallContainer
   }
 
@@ -1445,7 +1460,7 @@ export class WorldRenderer {
       }, i * 100)
     }
 
-    this.overlayContainer.addChild(protestGroup)
+    this.worldOverlayContainer.addChild(protestGroup)
     this.protestContainer = protestGroup
   }
 
@@ -1479,12 +1494,12 @@ export class WorldRenderer {
     container.addChild(g)
 
     this.depthRingContainers.set(agentId, container)
-    this.overlayContainer.addChild(container)
+    this.worldOverlayContainer.addChild(container)
 
     // Clean up after animation
     setTimeout(() => {
       this.depthRingContainers.delete(agentId)
-      if (container.parent) this.overlayContainer.removeChild(container)
+      if (container.parent) this.worldOverlayContainer.removeChild(container)
     }, repeatCount * 1000)
   }
 
@@ -1623,7 +1638,10 @@ export class WorldRenderer {
       p.vy += p.gravity * dt
 
       const alpha = Math.min(1, p.life / p.maxLife * 2)
-      this.particleGraphics.rect(Math.round(p.x), Math.round(p.y), p.size, p.size)
+      // Screen-space particles: compensate for particleGraphics camera offset (Task 3.3)
+      const drawX = p.screenSpace ? p.x - this.worldContainer.x : p.x
+      const drawY = p.screenSpace ? p.y - this.worldContainer.y : p.y
+      this.particleGraphics.rect(Math.round(drawX), Math.round(drawY), p.size, p.size)
       this.particleGraphics.fill({ color: p.color, alpha })
     }
 
@@ -1677,7 +1695,7 @@ export class WorldRenderer {
   }
 
   /** Burst particles at a location (for events like hits, pickups, etc.) */
-  private burstParticles(x: number, y: number, count: number, colors: number[], speed: number): void {
+  private burstParticles(x: number, y: number, count: number, colors: number[], speed: number, screenSpace = false): void {
     for (let i = 0; i < count; i++) {
       const angle = Math.random() * Math.PI * 2
       const spd = speed * (0.5 + Math.random() * 0.5)
@@ -1690,6 +1708,7 @@ export class WorldRenderer {
         maxLife: 1.5,
         size: Math.random() < 0.3 ? 2 : 1,
         gravity: 20,
+        screenSpace,
       })
     }
   }
