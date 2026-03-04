@@ -180,7 +180,7 @@ interface SimState {
   currentTick:     number
   maxTick:         number
   isPlaying:       boolean
-  playSpeed:       0.5 | 1 | 2 | 5 | 10
+  playSpeed:       0.1 | 0.25 | 0.5 | 1 | 2 | 5
   interpolation:   number   // 0-1 between currentTick and currentTick+1
 
   // Selection
@@ -234,7 +234,7 @@ export const useSimStore = create<SimState>((set, get) => ({
   currentTick:    0,
   maxTick:        14,
   isPlaying:      false,
-  playSpeed:      1,
+  playSpeed:      0.25,
   interpolation:  0,
 
   selectedAgentId:    null,

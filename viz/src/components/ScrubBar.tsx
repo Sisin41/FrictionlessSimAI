@@ -15,7 +15,7 @@
 import { useState, useCallback, useRef } from 'react'
 import { useSimStore, getAgentAtTick } from '../store/simStore'
 
-const SPEEDS = [0.5, 1, 2, 5, 10] as const
+const SPEEDS = [0.1, 0.25, 0.5, 1, 2, 5] as const
 
 export default function ScrubBar() {
   const {

@@ -623,10 +623,10 @@ export class WorldRenderer {
       g.fill({ color: rightWallColor, alpha: visual.saturation * 0.8 + 0.2 })
 
       // ── Windows on right wall ──
-      const windowRows = building.size === 'large' ? 3 : building.size === 'medium' ? 2 : 1
+      const windowRows = building.size === 'large' ? 2 : building.size === 'medium' ? 2 : 1
       const windowCols = building.size === 'large' ? 3 : 2
-      const winW = 6
-      const winH = 7
+      const winW = building.size === 'small' ? 4 : 5
+      const winH = building.size === 'small' ? 5 : 6
       const winSpacingX = floorHalfW / (windowCols + 1)
       const winSpacingY = wallH / (windowRows + 1.5)
 
@@ -669,8 +669,8 @@ export class WorldRenderer {
 
       // ── Door on right wall ──
       if (building.size !== 'large') {
-        const doorW = 5
-        const doorH = 10
+        const doorW = building.size === 'small' ? 4 : 5
+        const doorH = building.size === 'small' ? 7 : 9
         const doorX = x + floorHalfW * 0.5 - doorW / 2
         const doorY = y + TILE_H / 2 - doorH + floorHalfH * 0.5
         if (visual.doorOpen) {
@@ -764,7 +764,7 @@ export class WorldRenderer {
       // ── FOR LEASE sign ──
       if (visual.forLeaseSign) {
         const signG = new Graphics()
-        const signW = 32
+        const signW = Math.min(32, floorHalfW * 1.2)
         const signH = 10
         const signX = x - signW / 2
         const signY_target = y + TILE_H / 2 - wallH * 0.35

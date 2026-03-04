@@ -11,6 +11,7 @@ import ScrubBar       from './ScrubBar'
 import EconomicDash   from './EconomicDash'
 import AgentCard      from './AgentCard'
 import BuildingCard   from './BuildingCard'
+import AgentStoryTimeline from './AgentStoryTimeline'
 import LayerControls  from './LayerControls'
 import ScreenshotButton from './ScreenshotButton'
 import ComparisonShell  from './ComparisonShell'
@@ -107,6 +108,7 @@ export default function App() {
         {/* Right: drill-down panels */}
         <div className="panel-area">
           <AgentCard />
+          <AgentStoryTimeline />
           <BuildingCard />
         </div>
       </div>

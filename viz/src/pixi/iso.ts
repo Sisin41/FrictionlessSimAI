@@ -71,9 +71,9 @@ export function lerpTile(
  * Size constants for building sprites based on "size" field.
  */
 export const BUILDING_SPRITE_SIZE = {
-  small:  { w: TILE_W * 1,   h: TILE_H * 3.5 },
-  medium: { w: TILE_W * 1.5, h: TILE_H * 4   },
-  large:  { w: TILE_W * 2.5, h: TILE_H * 5   },
+  small:  { w: TILE_W * 0.75, h: TILE_H * 2.5 },
+  medium: { w: TILE_W * 1,    h: TILE_H * 3   },
+  large:  { w: TILE_W * 1.5,  h: TILE_H * 3.5 },
 }
 
 /** Agent sprite size. */
