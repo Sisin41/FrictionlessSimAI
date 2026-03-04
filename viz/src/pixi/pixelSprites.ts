@@ -5,8 +5,6 @@
  * Rendered to offscreen canvases at creation time, then blitted via PixiJS textures.
  */
 
-import { Texture } from 'pixi.js'
-
 // ─── PALETTE ──────────────────────────────────────────────────────────
 // Inspired by Endesga 32 + warm cozy palette for a small-town sim feel
 export const PALETTE: Record<string, string | null> = {
@@ -376,32 +374,6 @@ export function renderSpriteToCanvas(
 }
 
 /**
- * Create a PixiJS Texture from sprite data.
- */
-export function spriteToTexture(
-  spriteData: string[],
-  palette: Record<string, string | null> = PALETTE,
-  scale: number = 1,
-): Texture {
-  const canvas = renderSpriteToCanvas(spriteData, palette, scale)
-  return Texture.from(canvas)
-}
-
-/**
- * Create a tinted version of a sprite by replacing body color chars.
- * Maps B→new body dark, b→new body mid for different tiers.
- */
-export function tintSprite(
-  spriteData: string[],
-  bodyDarkChar: string,
-  bodyMidChar: string,
-): string[] {
-  return spriteData.map(row =>
-    row.replace(/B/g, bodyDarkChar).replace(/b/g, bodyMidChar)
-  )
-}
-
-/**
  * Get the appropriate idle sprite for a tier.
  */
 export function getIdleSpriteForTier(tier: number): string[] {
@@ -430,6 +402,34 @@ export function getWalkSpritesForTier(tier: number): string[][] {
     AGENT_WALK_T1_0.map(r => r.replace(/B/g, dc).replace(/b/g, mc)),
     AGENT_WALK_T1_1.map(r => r.replace(/B/g, dc).replace(/b/g, mc)),
   ]
+}
+
+/**
+ * Get sit sprite for a tier (recolor T/t body chars to tier colors).
+ */
+export function getSitSpriteForTier(tier: number): string[] {
+  const charMap: Record<number, [string, string]> = {
+    1: ['B', 'b'],
+    2: ['K', 'k'],
+    3: ['T', 't'],
+    4: ['t', 'C'],
+  }
+  const [dc, mc] = charMap[tier] ?? charMap[3]
+  return AGENT_SIT.map(r => r.replace(/T/g, dc).replace(/t/g, mc))
+}
+
+/**
+ * Get slump sprite for a tier.
+ */
+export function getSlumpSpriteForTier(tier: number): string[] {
+  const charMap: Record<number, [string, string]> = {
+    1: ['B', 'b'],
+    2: ['K', 'k'],
+    3: ['T', 't'],
+    4: ['t', 'C'],
+  }
+  const [dc, mc] = charMap[tier] ?? charMap[3]
+  return AGENT_SLUMP.map(r => r.replace(/T/g, dc).replace(/t/g, mc))
 }
 
 /**

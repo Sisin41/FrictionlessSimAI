@@ -17,9 +17,8 @@ import { LayerRenderer } from './LayerRenderer'
 import {
   PALETTE,
   getIdleSpriteForTier, getWalkSpritesForTier, getHustleSprites,
-  AGENT_SIT, AGENT_SLUMP,
+  getSitSpriteForTier, getSlumpSpriteForTier,
   TREE_SMALL, BUSH, FLOWER_RED, FLOWER_YELLOW, LAMP_POST,
-  WINDOW_LIT, WINDOW_DARK, WINDOW_BOARDED, DOOR_OPEN, DOOR_CLOSED, CHIMNEY,
   renderSpriteToCanvas,
 } from './pixelSprites'
 
@@ -125,6 +124,7 @@ export class WorldRenderer {
   private decliningGraphics: Array<{ g: Graphics; baseAlpha: number }> = []
   private overlayAnimations: OverlayAnimation[] = []
   private newsTickerText: Text | null = null
+  private newsTickerBg: Graphics | null = null
   private protestContainer: Container | null = null
   private depthRingContainers: Map<string, Container> = new Map()
   private forLeaseAnimations: Map<string, { text: Text; targetY: number; startY: number; startTime: number }> = new Map()
@@ -136,7 +136,11 @@ export class WorldRenderer {
   private particleGraphics: Graphics = new Graphics()
   private decorationContainer: Container = new Container()
   private decorationsPlaced = false
+  private tileGridCached = false
+  private tileGridContainer: Container = new Container()
   private ambientTimer = 0
+  // Active chimney screen positions (updated each render)
+  private activeChimneyPositions: Array<{ x: number; y: number }> = []
 
   // Follow Agent mode
   private followedAgentId: string | null = null
@@ -215,7 +219,10 @@ export class WorldRenderer {
     this.worldContainer.removeChildren()
     this.hustleContainers.clear()
     this.decliningGraphics = []
-    this.forLeaseAnimations.clear()
+    // Note: forLeaseAnimations is NOT cleared here — it persists across frames
+    // so the slide-in animation can complete. Stale entries are harmless
+    // because they just hold a startTime for completed animations.
+    this.activeChimneyPositions = []
 
     // Build building tile map
     const buildingTiles: Record<string, [number, number]> = {}
@@ -368,56 +375,60 @@ export class WorldRenderer {
   }
 
   private renderTileGrid(renderables: Renderable[]): void {
-    const g = new Graphics()
-    const rng = seededRandom(42)
+    // Cache the tile grid — it never changes, so we only build it once
+    if (!this.tileGridCached) {
+      const g = new Graphics()
+      const rng = seededRandom(42)
 
-    for (let col = 0; col < GRID_COLS; col++) {
-      for (let row = 0; row < GRID_ROWS; row++) {
-        const { x, y } = isoToScreen(col, row)
-        const baseColor = this.getZoneColor(col, row)
+      for (let col = 0; col < GRID_COLS; col++) {
+        for (let row = 0; row < GRID_ROWS; row++) {
+          const { x, y } = isoToScreen(col, row)
+          const baseColor = this.getZoneColor(col, row)
 
-        // Subtle per-tile brightness variation for texture
-        const brightness = 0.92 + rng() * 0.16
-        const color = this.blendColor(baseColor, 0x1a202c, 1 - brightness)
+          // Subtle per-tile brightness variation for texture
+          const brightness = 0.92 + rng() * 0.16
+          const color = this.blendColor(baseColor, 0x1a202c, 1 - brightness)
 
-        // Main tile fill
-        g.poly([x, y, x + TILE_W / 2, y + TILE_H / 2, x, y + TILE_H, x - TILE_W / 2, y + TILE_H / 2])
-        g.fill({ color, alpha: 0.65 })
+          // Main tile fill
+          g.poly([x, y, x + TILE_W / 2, y + TILE_H / 2, x, y + TILE_H, x - TILE_W / 2, y + TILE_H / 2])
+          g.fill({ color, alpha: 0.65 })
 
-        // Darker inner edge for pixel-art outline effect
-        g.poly([x, y, x + TILE_W / 2, y + TILE_H / 2, x, y + TILE_H, x - TILE_W / 2, y + TILE_H / 2])
-        g.stroke({ color: 0x1a1c2c, width: 1, alpha: 0.4 })
+          // Darker inner edge for pixel-art outline effect
+          g.poly([x, y, x + TILE_W / 2, y + TILE_H / 2, x, y + TILE_H, x - TILE_W / 2, y + TILE_H / 2])
+          g.stroke({ color: 0x1a1c2c, width: 1, alpha: 0.4 })
 
-        // Tiny pixel dots for grass/texture on park/residential zones
-        const zone = this.getZoneId(col, row)
-        if (zone === 'park' || zone === 'residential_t4') {
-          const dotCount = 2 + Math.floor(rng() * 3)
-          for (let d = 0; d < dotCount; d++) {
-            const dx = (rng() - 0.5) * TILE_W * 0.4
-            const dy = (rng() - 0.5) * TILE_H * 0.4
-            const dotColor = zone === 'park' ? 0x38b764 : 0x4a5568
-            g.circle(x + dx, y + TILE_H / 2 + dy, 1)
-            g.fill({ color: dotColor, alpha: 0.4 + rng() * 0.3 })
+          // Tiny pixel dots for grass/texture on park/residential zones
+          const zone = this.getZoneId(col, row)
+          if (zone === 'park' || zone === 'residential_t4') {
+            const dotCount = 2 + Math.floor(rng() * 3)
+            for (let d = 0; d < dotCount; d++) {
+              const dx = (rng() - 0.5) * TILE_W * 0.4
+              const dy = (rng() - 0.5) * TILE_H * 0.4
+              const dotColor = zone === 'park' ? 0x38b764 : 0x4a5568
+              g.circle(x + dx, y + TILE_H / 2 + dy, 1)
+              g.fill({ color: dotColor, alpha: 0.4 + rng() * 0.3 })
+            }
+          }
+
+          // Road markings on auto_row
+          if (zone === 'auto_row' && row === 2) {
+            g.rect(x - 2, y + TILE_H / 2 - 0.5, 4, 1)
+            g.fill({ color: 0xffcd75, alpha: 0.3 })
           }
         }
+      }
 
-        // Road markings on auto_row
-        if (zone === 'auto_row' && row === 2) {
-          g.rect(x - 2, y + TILE_H / 2 - 0.5, 4, 1)
-          g.fill({ color: 0xffcd75, alpha: 0.3 })
-        }
+      this.tileGridContainer.addChild(g)
+      this.tileGridCached = true
+
+      // Place decorations once
+      if (!this.decorationsPlaced) {
+        this.placeDecorations()
+        this.decorationsPlaced = true
       }
     }
 
-    const container = new Container()
-    container.addChild(g)
-    renderables.push({ depth: -1, container })
-
-    // Place decorations once
-    if (!this.decorationsPlaced) {
-      this.placeDecorations()
-      this.decorationsPlaced = true
-    }
+    renderables.push({ depth: -1, container: this.tileGridContainer })
   }
 
   private getZoneId(col: number, row: number): string | null {
@@ -587,18 +598,18 @@ export class WorldRenderer {
       ])
       g.fill({ color: leftWallColor, alpha: visual.saturation * 0.8 + 0.2 })
 
-      // Pixel-art brick texture on left wall
-      const brickAlpha = visual.saturation * 0.12
-      const brickRows = Math.floor(wallH / 6)
-      for (let br = 0; br < brickRows; br++) {
-        const by = y + TILE_H / 2 - wallH + br * 6
-        const offset = br % 2 === 0 ? 0 : 4
-        for (let bx = 0; bx < floorHalfW; bx += 8) {
-          const px = x - floorHalfW + bx + offset
-          const isoShift = (by - (y + TILE_H / 2 - wallH)) / wallH * floorHalfH
-          g.rect(px + isoShift * 0.5, by + isoShift * 0.2, 7, 1)
-          g.fill({ color: 0x1a1c2c, alpha: brickAlpha })
-        }
+      // Horizontal mortar lines on left wall (isometric-aligned)
+      const mortarAlpha = visual.saturation * 0.15
+      const mortarCount = Math.floor(wallH / 8)
+      for (let ml = 1; ml < mortarCount; ml++) {
+        const t = ml / mortarCount
+        // Interpolate along the left wall edges
+        const lx0 = x + (0 - x) * (1 - t)  // top edge to center
+        const ly0 = (y + TILE_H / 2 - wallH) + wallH * t
+        const lx1 = (x - floorHalfW) + ((x - floorHalfW) - (x - floorHalfW)) * (1 - t)
+        const ly1 = (y + TILE_H / 2 + floorHalfH - wallH) + wallH * t
+        g.moveTo(lx0, ly0).lineTo(x - floorHalfW, ly1)
+        g.stroke({ color: 0x1a1c2c, width: 0.5, alpha: mortarAlpha })
       }
 
       // ── Right wall (lit side) ──
@@ -727,6 +738,8 @@ export class WorldRenderer {
         // Chimney cap
         g.rect(cx - 1, cy - 1, 6, 2)
         g.fill({ color: 0x333c57 })
+        // Track for smoke particle spawning
+        this.activeChimneyPositions.push({ x: cx + 2, y: cy - 2 })
       }
 
       // ── 1px dark outline around entire building silhouette ──
@@ -947,12 +960,12 @@ export class WorldRenderer {
 
     switch (animState) {
       case 'sit':
-        spriteKey = 'sit'
-        spriteData = AGENT_SIT
+        spriteKey = `sit_t${tier}`
+        spriteData = getSitSpriteForTier(tier)
         break
       case 'slump':
-        spriteKey = 'slump'
-        spriteData = AGENT_SLUMP
+        spriteKey = `slump_t${tier}`
+        spriteData = getSlumpSpriteForTier(tier)
         break
       case 'hustle': {
         const hframes = getHustleSprites()
@@ -1190,6 +1203,7 @@ export class WorldRenderer {
     tickerBg.rect(0, 19, this.app.screen.width, 1)
     tickerBg.fill({ color: 0xffd700, alpha: 0.6 })
     this.overlayContainer.addChild(tickerBg)
+    this.newsTickerBg = tickerBg
 
     const news = new Text({
       text: '>> BREAKING: RoboRide announces autonomous vehicle service for Millfield <<',
@@ -1441,6 +1455,11 @@ export class WorldRenderer {
       if (this.newsTickerText.x < -this.newsTickerText.width - 50) {
         this.overlayContainer.removeChild(this.newsTickerText)
         this.newsTickerText = null
+        // Also clean up the ticker background
+        if (this.newsTickerBg) {
+          this.overlayContainer.removeChild(this.newsTickerBg)
+          this.newsTickerBg = null
+        }
       }
     }
 
@@ -1524,7 +1543,7 @@ export class WorldRenderer {
   }
 
   private spawnAmbientParticle(): void {
-    if (!this.app) return
+    if (!this.app || this.particles.length > 200) return
     // Dust motes drifting across the scene
     const screenW = this.app.screen.width
     const screenH = this.app.screen.height
@@ -1545,24 +1564,24 @@ export class WorldRenderer {
   }
 
   private spawnSmokeParticle(): void {
-    // Emit smoke from active building chimneys
-    // Pick a random position in the commercial area
-    const col = 8 + Math.floor(Math.random() * 10)
-    const row = 2 + Math.floor(Math.random() * 7)
-    const pos = isoToScreen(col, row)
+    if (this.activeChimneyPositions.length === 0 || this.particles.length > 200) return
+    // Pick a random active chimney
+    const chimney = this.activeChimneyPositions[
+      Math.floor(Math.random() * this.activeChimneyPositions.length)
+    ]
     const colors = [0x566c86, 0x94b0c2, 0xc2c3c7]
 
     for (let i = 0; i < 2; i++) {
       this.particles.push({
-        x: pos.x + (Math.random() - 0.5) * 6,
-        y: pos.y - 40 + Math.random() * 10,
-        vx: (Math.random() - 0.5) * 4,
-        vy: -8 - Math.random() * 6,
+        x: chimney.x + (Math.random() - 0.5) * 4,
+        y: chimney.y,
+        vx: (Math.random() - 0.5) * 3,
+        vy: -6 - Math.random() * 4,
         color: colors[Math.floor(Math.random() * colors.length)],
         life: 1.5 + Math.random() * 2,
         maxLife: 3.5,
         size: Math.random() < 0.5 ? 2 : 1,
-        gravity: -2,
+        gravity: -1.5,
       })
     }
   }
