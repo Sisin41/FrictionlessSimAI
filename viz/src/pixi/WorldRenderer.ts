@@ -11,7 +11,7 @@ import { isoToScreen, lerpTile, tileDepth, TILE_W, TILE_H, GRID_COLS, GRID_ROWS,
 import { getBuildingVisual, applyBuildingOverrides, type BuildingVisual } from './buildingSprite'
 import { getAnimationState, getAgentLocation, TIER_TINT, GRIEF_TINT, getRunwayRingColor, type AnimationState } from './agentSprite'
 import type { Agent, Building, BuildingTickState, SocialEdge, Transaction, LayerId } from '../store/simStore'
-import { locationToTile, getBuildingDisplayTile } from './worldData'
+import { locationToTile, getBuildingDisplayTile, BUILDING_TILE_OVERRIDES } from './worldData'
 import { BuildingTransitionManager, lerpColor } from './BuildingTransitionManager'
 import { LayerRenderer } from './LayerRenderer'
 import {
@@ -350,6 +350,11 @@ export class WorldRenderer {
 
   /** Called by WorldCanvas when tick advances during playback. */
   onTickAdvance(fromTick: number, toTick: number): void {
+    // Backward scrub: remove overlay elements from future ticks
+    if (toTick < fromTick) {
+      this.clearOverlayAnimations(toTick)
+    }
+
     // Scenario event animations
     if (fromTick < 1 && toTick >= 1) this.fireRoboRideAnnounce()
     if (fromTick < 5 && toTick >= 5) this.fireMassLayoff()
@@ -362,6 +367,43 @@ export class WorldRenderer {
     if (this.lastAgents) {
       this.layerRenderer.seedInfoFlowParticles(toTick, this.lastAgents, this.agentScreenPositions)
     }
+  }
+
+  /** Remove overlay animations that belong to ticks after the current tick. */
+  private clearOverlayAnimations(currentTick: number): void {
+    // Remove protest crowd (fires at tick 8)
+    if (currentTick < 8 && this.protestContainer) {
+      this.overlayContainer.removeChild(this.protestContainer)
+      this.protestContainer = null
+    }
+    // Remove market stalls (fires at tick 7)
+    if (currentTick < 7 && this.informalMarketStalls) {
+      this.overlayContainer.removeChild(this.informalMarketStalls)
+      this.informalMarketStalls = null
+    }
+    // Remove depth/pulse rings (fires at tick 9 depression cluster)
+    if (currentTick < 9) {
+      this.depthRingContainers.forEach((container) => {
+        this.overlayContainer.removeChild(container)
+      })
+      this.depthRingContainers.clear()
+    }
+    // Remove news ticker (fires at tick 1)
+    if (currentTick < 1) {
+      if (this.newsTickerText) {
+        this.overlayContainer.removeChild(this.newsTickerText)
+        this.newsTickerText = null
+      }
+      if (this.newsTickerBg) {
+        this.overlayContainer.removeChild(this.newsTickerBg)
+        this.newsTickerBg = null
+      }
+    }
+    // Clean up completed overlay animations
+    for (const anim of this.overlayAnimations) {
+      this.overlayContainer.removeChild(anim.container)
+    }
+    this.overlayAnimations = []
   }
 
   destroy(): void {
@@ -413,7 +455,7 @@ export class WorldRenderer {
 
           // Subtle per-tile brightness variation for texture
           const brightness = 0.92 + rng() * 0.16
-          const color = this.blendColor(baseColor, 0x1a202c, 1 - brightness)
+          const color = this.blendColor(baseColor, 0x1a202c, Math.max(0, Math.min(1, 1 - brightness)))
 
           // Main tile fill
           g.poly([x, y, x + TILE_W / 2, y + TILE_H / 2, x, y + TILE_H, x - TILE_W / 2, y + TILE_H / 2])
@@ -646,12 +688,13 @@ export class WorldRenderer {
       const mortarCount = Math.floor(wallH / 8)
       for (let ml = 1; ml < mortarCount; ml++) {
         const t = ml / mortarCount
-        // Interpolate along the left wall edges
-        const lx0 = x + (0 - x) * (1 - t)  // top edge to center
+        // Interpolate down right edge (top-right to bottom-right of left wall)
+        const lx0 = x
         const ly0 = (y + TILE_H / 2 - wallH) + wallH * t
-        const lx1 = (x - floorHalfW) + ((x - floorHalfW) - (x - floorHalfW)) * (1 - t)
+        // Interpolate down left edge (top-left to bottom-left of left wall)
+        const lx1 = x - floorHalfW
         const ly1 = (y + TILE_H / 2 + floorHalfH - wallH) + wallH * t
-        g.moveTo(lx0, ly0).lineTo(x - floorHalfW, ly1)
+        g.moveTo(lx0, ly0).lineTo(lx1, ly1)
         g.stroke({ color: 0x1a1c2c, width: 0.5, alpha: mortarAlpha })
       }
 
@@ -823,7 +866,8 @@ export class WorldRenderer {
         })
         sign.x = signX + 2
         const targetY = signY_target + 2
-        if (!this.forLeaseAnimations.has(building.id)) {
+        const existing = this.forLeaseAnimations.get(building.id)
+        if (!existing) {
           sign.y = targetY - 20
           sign.alpha = 0
           this.forLeaseAnimations.set(building.id, {
@@ -833,7 +877,10 @@ export class WorldRenderer {
             startTime: Date.now(),
           })
         } else {
-          sign.y = targetY
+          // Update reference to new Text (old one destroyed by removeChildren)
+          sign.y = existing.text.y
+          sign.alpha = existing.text.alpha
+          existing.text = sign
         }
         container.addChild(sign)
       }
@@ -1278,7 +1325,8 @@ export class WorldRenderer {
 
     const stallContainer = new Container()
     const stallColors = [0xed8936, 0xe53e3e, 0x48bb78, 0x4299e1]
-    const basePos = isoToScreen(19, 15)
+    const marketTile = BUILDING_TILE_OVERRIDES.informal_market ?? [19, 9]
+    const basePos = isoToScreen(marketTile[0], marketTile[1])
 
     for (let i = 0; i < 4; i++) {
       const stall = new Graphics()
