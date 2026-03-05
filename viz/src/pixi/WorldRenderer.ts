@@ -267,7 +267,8 @@ export class WorldRenderer {
     }
 
     // Update building transitions
-    const transitionOverrides = this.btm.update(this.app!.ticker.deltaMS / 1000)
+    const dt = this.app?.ticker?.deltaMS ? this.app.ticker.deltaMS / 1000 : 1 / 60
+    const transitionOverrides = this.btm.update(dt)
 
     // Collect renderables
     const renderables: Renderable[] = []
