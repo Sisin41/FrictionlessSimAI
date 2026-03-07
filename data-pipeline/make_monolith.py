@@ -510,6 +510,243 @@ def extract_action_universal(action: dict, aid: str):
     return name, emotion, archetype, monologue, assessment, chosen, econ
 
 
+# ─── Agent sector + name lookup maps ──────────────────────────────────────────
+
+AGENT_SECTOR = {
+    "ceo_regional_auto": "retail_auto", "dealership_gm": "retail_auto",
+    "salesperson_jake": "retail_auto",  "salesperson_tamika": "retail_auto",
+    "hr_director": "retail_auto",
+    "council_member": "policy",
+    "bank_manager": "finance",         "loan_officer": "finance",
+    "insurance_manager": "finance",    "insurance_agent_priya": "finance",
+    "insurance_agent_tom": "finance",
+    "community_organizer": "community","retiree": "community",
+    "single_parent": "community",      "commuter_james": "community",
+    "commuter_rachel": "community",
+    "diner_owner": "food_service",     "gas_station_owner": "fuel",
+    "parts_store_owner": "retail_auto","mechanic_carlos": "repair",
+    "mechanic_sarah": "repair",        "driving_instructor": "education",
+    "auto_shop_teacher": "education",
+    "rideshare_driver": "gig_economy", "uber_driver_2": "gig_economy",
+    "young_gig_worker": "gig_economy",
+    "truck_owner": "freight",
+    "parking_garage_mgr": "infrastructure",
+    "real_estate_agent": "real_estate",
+    "car_wash_worker": "service",
+}
+
+# Priority agents for each bulletin event type (ordered: highest news value first)
+_POLICY_AGENTS   = {"council_member", "ceo_regional_auto", "community_organizer", "bank_manager", "loan_officer"}
+_PROTEST_AGENTS  = {"council_member", "community_organizer", "insurance_manager",
+                    "parking_garage_mgr", "young_gig_worker", "rideshare_driver",
+                    "salesperson_jake", "salesperson_tamika", "truck_owner"}
+_LAYOFF_AGENTS   = {"ceo_regional_auto", "dealership_gm", "hr_director",
+                    "council_member", "insurance_manager", "real_estate_agent"}
+_CLOSURE_AGENTS  = {"diner_owner", "gas_station_owner", "dealership_gm",
+                    "ceo_regional_auto", "parts_store_owner", "mechanic_carlos",
+                    "driving_instructor"}
+_NEWBIZ_AGENTS   = {"hr_director", "loan_officer", "community_organizer",
+                    "driving_instructor", "mechanic_carlos", "mechanic_sarah",
+                    "bank_manager", "auto_shop_teacher"}
+
+
+def _extract_primary_desc(action: dict, aid: str, max_len: int = 600) -> str:
+    """Pull the best single description string from any action schema."""
+    _, _, _, monologue, assessment, chosen, _ = extract_action_universal(action, aid)
+    # Prefer first chosen action description
+    if chosen:
+        for act in chosen[:2]:
+            if isinstance(act, str) and len(act) > 60:
+                return act[:max_len]
+            if isinstance(act, dict):
+                d = act.get("description", act.get("summary", act.get("action", "")))
+                if d and len(str(d)) > 60:
+                    return str(d)[:max_len]
+    # Fall back to top-level description fields
+    for key in ("description", "action_type", "primary_action"):
+        v = action.get(key)
+        if isinstance(v, str) and len(v) > 60:
+            return v[:max_len]
+        if isinstance(v, dict):
+            d = v.get("description", "")
+            if d and len(d) > 60:
+                return str(d)[:max_len]
+    if assessment and len(assessment) > 60:
+        return assessment[:max_len]
+    return json.dumps(action)[:max_len]
+
+
+def synthesize_bulletin(tick: int) -> list:
+    """
+    Synthesize a community bulletin for a tick where no official bulletin was generated.
+    Scans all 30 agent action files, identifies community-visible events, and returns
+    bulletin entries in the same {type, source_agent, sector, visibility, description}
+    format as world/bulletin_tick_NNN.json events.
+    """
+    candidates: list[dict] = []
+    seen_keys: set = set()
+
+    for adir in agent_dirs():
+        aid = adir.name
+        state = load(adir / "state.json")
+        aname = (state or {}).get("identity", {}).get("name", aid)
+        sector = AGENT_SECTOR.get(aid, "community")
+
+        ap = adir / "actions" / f"tick_{tick:03d}.json"
+        action = load(ap)
+        if not action:
+            continue
+
+        text = json.dumps(action).lower()
+        desc = _extract_primary_desc(action, aid)
+
+        def add(etype: str, esector: str, label: str):
+            key = (etype, aid)
+            if key not in seen_keys:
+                seen_keys.add(key)
+                candidates.append({
+                    "type": etype,
+                    "source_agent": aid,
+                    "sector": esector,
+                    "visibility": "local_news",
+                    "description": f"{label}: {aname} — {desc}",
+                })
+
+        # POLICY — council motions, grant thresholds, ordinances
+        policy_kws = ["council motion", "grant threshold", "ordinance", "policy proposal",
+                      "licensing framework", "impact fee", "compliance", "workforce fund"]
+        if aid in _POLICY_AGENTS and any(kw in text for kw in policy_kws):
+            add("policy", "policy", "Policy proposal")
+
+        # PROTEST — active demonstrations
+        protest_kws = ["protest", "rally", "demonstration", "march", "picket",
+                       "community action", "community organizing"]
+        if aid in _PROTEST_AGENTS and any(kw in text for kw in protest_kws):
+            add("protest", "community", "Community action")
+
+        # LAYOFF — workforce displacement events
+        layoff_kws = ["laid off", "position eliminated", "workforce reduction",
+                      "separation", "displaced worker", "downsiz", "termination",
+                      "workers i laid off", "people i let go", "staffing decisions"]
+        if aid in _LAYOFF_AGENTS and any(kw in text for kw in layoff_kws):
+            add("layoff", sector, f"{aname} — workforce displacement")
+
+        # CLOSURE — business at risk or closing
+        closure_kws = ["closing", "shut down", "closure", "bankrupt", "foreclos",
+                       "going under", "wind down", "exit the business", "last month"]
+        # Only flag explicit closures for businesses (not just fear of closing)
+        strong_closure = ["shut down", "closing permanently", "business closing", "bankrupt",
+                          "foreclos", "wind down", "exit the business"]
+        if aid in _CLOSURE_AGENTS and any(kw in text for kw in strong_closure):
+            add("closure", sector, "Business closing")
+
+        # NEW BUSINESS / PROGRAMS — formations and launches
+        newbiz_kws = ["consulting entity", "formal entity", "new organization",
+                      "financial triage navigator", "office hours", "new service",
+                      "bank office hours", "filing", "new program", "retraining program",
+                      "community connection night", "mutual aid"]
+        if aid in _NEWBIZ_AGENTS and any(kw in text for kw in newbiz_kws):
+            add("new_business", "new_economy", "New venture / program")
+
+        # RETRAINING — enrollment signals from any agent
+        retraining_kws = ["enroll", "retraining", "community college", "coursework",
+                          "certification program", "workforce development"]
+        if any(kw in text for kw in retraining_kws):
+            # Only add as trend, deduplicate heavily
+            trend_key = ("trend_retraining", tick)
+            if trend_key not in seen_keys:
+                seen_keys.add(trend_key)
+                candidates.append({
+                    "type": "trend",
+                    "source_agent": "",
+                    "sector": "education",
+                    "visibility": "local_news",
+                    "description": "Retraining enrollment activity reported across multiple agents this tick.",
+                })
+
+    # Sort: policy first, then layoff, protest, closure, new_business, trend
+    ORDER = {"policy": 0, "layoff": 1, "protest": 2, "closure": 3,
+             "new_business": 4, "trend": 5}
+    candidates.sort(key=lambda e: ORDER.get(e["type"], 9))
+    return candidates
+
+
+def extract_targeted_txns(tick: int) -> list:
+    """
+    Extract bilateral targeted-action transactions from agent action files
+    for ticks that have no formal transaction ledger (0-3, 7, 9).
+    Returns list of {from_agent, from_name, to_agent, type, description} dicts.
+    """
+    txns = []
+    seen = set()
+
+    # All agent IDs for cross-referencing targets
+    all_aids = set(d.name for d in agent_dirs())
+
+    for adir in agent_dirs():
+        aid = adir.name
+        state = load(adir / "state.json")
+        aname = (state or {}).get("identity", {}).get("name", aid)
+
+        ap = adir / "actions" / f"tick_{tick:03d}.json"
+        action = load(ap)
+        if not action:
+            continue
+
+        _, _, _, _, _, chosen, _ = extract_action_universal(action, aid)
+
+        # Collect target_agents from top-level field
+        top_targets = action.get("target_agents", action.get("target_agent"))
+        if isinstance(top_targets, str):
+            top_targets = [top_targets]
+        elif not isinstance(top_targets, list):
+            top_targets = []
+
+        # Also scan chosen actions for per-action targets
+        per_action_targets = []
+        for act in (chosen or []):
+            if not isinstance(act, dict):
+                continue
+            t = act.get("target_agent", act.get("to_agent", act.get("target")))
+            if t and isinstance(t, str) and t in all_aids:
+                d = act.get("description", act.get("summary", act.get("action", "")))
+                atype = act.get("type", act.get("action_type", "SIGNAL"))
+                per_action_targets.append((t, str(d)[:400], str(atype)))
+
+        # Emit top-level target records
+        for target in top_targets:
+            if not isinstance(target, str) or target not in all_aids:
+                continue
+            key = (aid, target, tick)
+            if key in seen:
+                continue
+            seen.add(key)
+            top_desc = action.get("description", action.get("action_type", ""))
+            if isinstance(top_desc, dict):
+                top_desc = top_desc.get("description", str(top_desc))
+            txns.append({
+                "from_agent": aid, "from_name": aname,
+                "to_agent": target,
+                "type": "SIGNAL",
+                "description": str(top_desc)[:400],
+            })
+
+        # Emit per-action target records (override type from action)
+        for target, desc, atype in per_action_targets:
+            key = (aid, target, tick, atype)
+            if key in seen:
+                continue
+            seen.add(key)
+            txns.append({
+                "from_agent": aid, "from_name": aname,
+                "to_agent": target,
+                "type": atype.upper()[:20],
+                "description": desc,
+            })
+
+    return txns
+
+
 def build_tick_record(lines):
     lines.append(h1("PART III — TICK-BY-TICK RECORD"))
     lines.append("> *Every month, fully documented. Inner lives, decisions, outcomes, transactions.*\n")
@@ -679,10 +916,25 @@ def build_tick_record(lines):
                 lines.append(f"\n**[{etype.upper()}]** `{src}` *(visibility: {vis})*\n")
                 lines.append(blockquote(desc))
         elif tick in MISSING_BULLETINS:
+            # RECOVERY: synthesize bulletin from agent action files
+            synth = synthesize_bulletin(tick)
             lines.append(h3("Community Bulletin Board"))
-            lines.append(f"\n> **Known gap:** The world bulletin for tick {tick} "
-                         f"was not generated by the observer agent during this sim run. "
-                         f"Individual agent actions still took place (see Agent Actions above).\n")
+            if synth:
+                lines.append(f"\n> *Synthesized bulletin — no official observer bulletin was generated "
+                             f"for tick {tick}. The following events are derived from all 30 agent "
+                             f"action files by scanning for community-visible signals.*\n")
+                for ev in synth:
+                    src = ev.get("source_agent", "")
+                    etype = ev.get("type", "?")
+                    vis = ev.get("visibility", "local_news")
+                    desc = ev.get("description", "")
+                    src_str = f"`{src}`" if src else "*(aggregate)*"
+                    lines.append(f"\n**[{etype.upper()}]** {src_str} *(visibility: {vis})*\n")
+                    lines.append(blockquote(desc))
+            else:
+                lines.append(f"\n> **Known gap:** The world bulletin for tick {tick} "
+                             f"was not generated by the observer agent during this sim run. "
+                             f"Individual agent actions still took place (see Agent Actions above).\n")
 
         # Building health
         tick_bstates = building_ticks.get(str(tick), {})
@@ -920,6 +1172,24 @@ def build_tick_record(lines):
             if tick in {0, 1, 2, 3}:
                 lines.append(f"\n> *No formal transaction ledger for tick {tick}. "
                              f"Bilateral interactions reconstructed above from obs/actions_summary.json.*\n")
+            elif tick in {7, 9}:
+                # RECOVERY: extract targeted agent interactions from action files
+                extracted = extract_targeted_txns(tick)
+                if extracted:
+                    lines.append(h4(f"Extracted Targeted Interactions — Tick {tick:02d}"))
+                    lines.append(f"> *No formal transaction ledger for tick {tick}. "
+                                 f"The following {len(extracted)} directed interactions are extracted "
+                                 f"from agent action files (target_agent / target_agents fields and "
+                                 f"per-action targets).*\n")
+                    for tx in extracted:
+                        lines.append(f"\n**`{tx['from_agent']}`** ({tx['from_name']}) "
+                                     f"→ **`{tx['to_agent']}`** "
+                                     f"[{tx['type']}]")
+                        lines.append(blockquote(tx["description"]))
+                else:
+                    lines.append(f"\n> **Known gap:** No transaction ledger for tick {tick}. "
+                                 f"Agent actions above describe intended exchanges but no bilateral "
+                                 f"records were generated by the sim engine.\n")
             else:
                 lines.append(f"\n> **Known gap:** No transaction ledger for tick {tick}. "
                              f"Agent actions above describe intended exchanges but no bilateral "
