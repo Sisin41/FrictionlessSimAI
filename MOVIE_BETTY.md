@@ -1,12 +1,14 @@
 # THE LAST LUNCH RUSH
-### A Short Film — FrictionlessSimAI Simulation Documentary
-**Storyline:** Betty Kowalski, diner_owner — 15 months in Millfield
-**Runtime:** ~2 minutes (8 scenes × 15 seconds)
-**Source:** MONOLITH.md — simulation data, ticks 0–14
+### A Short Film — FrictionlessSimAI / Millfield Simulation
+**Subject:** Betty Kowalski, diner_owner — 15 months
+**Runtime:** 2 minutes (8 scenes)
+**Source data:** MONOLITH.md, ticks 0–14
 
 ---
 
-> *Millfield, a car-dependent small town. A self-driving vehicle company called RoboRide is about to deploy.*
+```
+FADE IN:
+```
 
 ---
 
@@ -14,42 +16,98 @@
 
 ---
 
-**SCENE 1 — TICK 0 — "The Anchor"**
-*[TIMESTAMP: 0:00–0:15]*
+### SCENE 1 — TICK 0 — *"The Anchor"*
+`[0:00 – 0:18]`
 
+```
+EXT. AUTO ROW DINER — DAWN
+```
+
+**WIDE.** The diner's neon sign clicks on. Behind it, Auto Row stretches down
+the block — dealerships, a transmission shop, a gas station, a mechanic's bay
+with the doors already rolled up. A town built around cars. Everything in its
+place.
+
+```
 INT. AUTO ROW DINER — NOON
+```
 
-Betty moves between booths with a coffee pot, exchanging names and orders from memory. The lunch counter is full. She pins a handwritten special to the board — looping cursive, no mistakes.
+**WIDE.** Full house. Every booth taken. Counter lined with work shirts and
+steel-toed boots. The noise of it — silverware, the flat-top, two conversations
+happening at once.
 
-**V.O. (BETTY):** *"Thirty years, these booths fill up every weekday at noon. Margins are tight. But I cleared expenses, I've got six months saved, and I'm not going anywhere."*
+**MED.** Betty moves between tables, coffee pot in one hand, order pad in the
+other. She knows everyone's name. She doesn't need the pad.
 
-> **ON-SCREEN:** Millfield employment: 100% — Spending index: 83 — AV deployment: 0
+**CLOSE.** Her hand pins a handwritten lunch special to the corkboard. Looping
+cursive. No mistakes.
+
+**MED.** Tommy slides into his usual booth at the window. Betty is already there
+with coffee before he opens his mouth.
+
+> **TOMMY:** Same as always, Betty.
+>
+> **BETTY** *(already writing)*: I know, Tommy.
 
 ---
 
-**SCENE 2 — TICK 1 — "The Tip"**
-*[TIMESTAMP: 0:15–0:30]*
+**V.O. (BETTY):**
+*"Thirty years, these booths fill up every weekday at noon. Margins are tight.
+But I cleared expenses this month. Six months saved. I am not an entrepreneur
+looking for the next angle. I am a keeper."*
 
+---
+
+```
+ON-SCREEN: Millfield, Month 0 — Employment: 100% — AV deployment: none
+```
+
+---
+
+### SCENE 2 — TICK 1 — *"The Tip"*
+`[0:18 – 0:34]`
+
+```
 INT. AUTO ROW DINER — EARLY AFTERNOON
+```
 
-The lunch crowd has thinned out early. Betty stands at the counter, refilling a coffee cup that doesn't need it. She finds Tommy's two-dollar tip on the table — no note, no joke scratched on the receipt.
+**MED.** The counter. Emptier than it should be, and earlier than it should be.
+One customer nurses a coffee he stopped drinking ten minutes ago. The lunch rush
+ended wrong — too quiet, too fast.
 
-**V.O. (BETTY):** *"Tommy didn't make a joke on the way out. That scared me more than anything I read this morning. I drafted two budgets that night. First time in thirty years."*
+**CLOSE.** Tommy's usual booth, cleared. A two-dollar bill sits flat on the
+table. No note. No joke. No scratch on the receipt.
 
-> **ON-SCREEN:** RoboRide Phase 2 launch announced — Millfield deployment: 60 days out
+**MED.** Betty picks it up. Holds it a moment.
+
+**CLOSE.** Her face. Something shifts — not panic. Recognition.
+
+**MED.** She refills a coffee cup that doesn't need it. Her hands need something
+to do.
 
 ---
 
-**SCENE 3 — TICK 3 — "First Sighting"**
-*[TIMESTAMP: 0:30–0:45]*
+**V.O. (BETTY):**
+*"Tommy didn't make a joke on the way out. That scared me more than anything I
+read this morning. I drafted two budgets that night. First time in thirty
+years."*
 
-INT./EXT. AUTO ROW DINER — NOON
+---
 
-Half the booths sit empty at peak hour. Through the window, a white AV glides silently past — no driver, no wave. Betty watches it from behind the counter, dish towel in hand, still.
+**INSERT.** Betty's notebook on the kitchen prep table, late that night.
+Two columns, handwritten:
 
-**V.O. (BETTY):** *"Eighteen cents a mile. Fifteen-minute wait. I'm not competing with that — I'm just hoping the people who still show up remember why they came."*
+```
+   −30% traffic        −60% traffic
+   ─────────────       ─────────────
+   break-even: hard    runway: 6.4 mo
+```
 
-> **ON-SCREEN:** Diner savings: $23,312 — Monthly burn: $4,268 — Runway: 5.5 months
+---
+
+```
+ON-SCREEN: Month 1 — RoboRide Phase 2 announced — 60 days to Millfield
+```
 
 ---
 
@@ -57,42 +115,135 @@ Half the booths sit empty at peak hour. Through the window, a white AV glides si
 
 ---
 
-**SCENE 4 — TICK 7 — "The Mechanic's Lunch"**
-*[TIMESTAMP: 0:45–1:00]*
+### SCENE 3 — TICK 3 — *"First Sighting"*
+`[0:34 – 0:52]`
 
+```
+INT./EXT. AUTO ROW DINER — NOON
+```
+
+**WIDE.** Peak hour. Half the booths empty. The sound of it — wrong.
+
+**POV (BETTY).** Through the diner window: a white autonomous vehicle glides
+silently past on Auto Row. No driver. No wave. No sound. It just passes.
+
+**CLOSE.** Betty's hands stop moving. Dish towel. Still.
+
+**MED.** Maria Santos at a corner booth — the community organizer, clipboard on
+the table. She slides a folded flyer across the counter toward Betty.
+
+> **MARIA:** Small business stabilization grant. Five thousand. You qualify,
+> Betty. Fill it out this week — window closes.
+
+**CLOSE.** Betty unfolds the flyer. Reads it.
+
+**CLOSE.** The window. The street where the AV was. Empty again.
+
+---
+
+**V.O. (BETTY):**
+*"Eighteen cents a mile. Fifteen-minute wait. The grant buys me time. But you
+can't apply for a grant against something you don't understand yet."*
+
+---
+
+```
+ON-SCREEN: Month 3 — RoboRide live: $0.18/mi — Savings: $23,312 — Runway: 5.5 months
+```
+
+---
+
+### SCENE 4 — TICK 7 — *"The Mechanic's Lunch"*
+`[0:52 – 1:10]`
+
+```
 INT. AUTO ROW DINER — MIDDAY
+```
 
-Carlos Ruiz sits across a laminate table, a plate of eggs going cold between them. Betty has a legal pad. She's writing while he talks. Outside, the booths by the window are empty.
+**WIDE.** The emptiest the diner has ever looked at noon. Two occupied tables.
+The rest: clean place settings, nobody coming.
 
-**V.O. (BETTY):** *"I don't need to love the delivery idea. I need to know if the kitchen can handle it. Carlos knows grease and pipes. That's enough to start."*
+**MED.** Betty and Carlos Ruiz sit across a laminate table. His plate of eggs
+going cold between them. Betty has a legal pad; she writes while he talks.
 
-> **ON-SCREEN:** Diner health: 42 ("declining") — Runway: 4.5 months — Employment: 70%
+**CLOSE.** Carlos sketching on a napkin — a rough kitchen layout. Arrow to a
+warmer station. A circled number.
+
+> **CARLOS:** Prep line can handle the volume. You'd need a warmer station, bags,
+> maybe a second shelf on the pass. Eight grand, total. Maybe less if you
+> source used.
+>
+> **BETTY:** And RoboRide takes what — thirty percent?
+>
+> **CARLOS:** Twenty-eight. But you set the menu price.
+
+**CLOSE.** Betty writes. Her handwriting is fast, deliberate.
+
+**MED.** The front door opens. Lisa Freeman enters — community center, grant
+programs, always moving. She catches Betty's eye across the room. Gives a small
+nod.
+
+> **LISA:** The council motion passed this morning. Grant threshold drops to ten
+> percent for Auto Row businesses. Betty — your testimony did that.
+
+**CLOSE.** Betty absorbs this. She doesn't celebrate. She goes back to the legal
+pad.
 
 ---
 
-**SCENE 5 — TICK 8 — "The Deadline"**
-*[TIMESTAMP: 1:00–1:15]*
+**V.O. (BETTY):**
+*"I don't need to love the delivery idea. I don't trust it. But I understand it
+— which means I can use it. Carlos knows grease and pipes. That's enough to
+start."*
 
+---
+
+```
+ON-SCREEN: Month 7 — Employment: 70% — Savings: $19,044 — Runway: 4.5 months
+```
+
+---
+
+### SCENE 5 — TICK 8 — *"The Deadline"*
+`[1:10 – 1:24]`
+
+```
 INT. AUTO ROW DINER — BACK OFFICE — AFTERNOON
+```
 
-Betty stands at the desk, phone to her ear, the same legal pad open in front of her. She doesn't sit. A handwritten note reads: *end of week.*
+**MED.** A small office behind the kitchen. Betty stands at the desk — she never
+sits in here. Phone to her ear. The same legal pad, open.
 
-**V.O. (BETTY):** *"I testified. I called. I did the right things. The runway is still disappearing. I need written terms by Friday. That's not a request."*
+**CLOSE.** The pad. At the top: *"RoboRide — delivery partnership."*
+Below it, underlined twice: **written terms — end of week.**
 
-> **ON-SCREEN:** Savings: $10,508 — Runway: 2.5 months — RoboRide: $0.12/mile
+**MED (THROUGH PASS-THROUGH).** Behind Betty, through the kitchen window: the
+empty dining room. Rows of upturned stools. The afternoon light doing nothing
+with it.
+
+**CLOSE.** Betty's jaw. Listening. Set.
+
+> **BETTY** *(into phone)*: I've called twice. I've been patient. I need written
+> terms by end of this week. That's not a request — that's a deadline.
+
+**CLOSE.** She lowers the phone. Looks at the legal pad. Circles a number at the
+bottom:
+
+```
+   $10,508
+```
 
 ---
 
-**SCENE 6 — TICK 11 — "The Decision"**
-*[TIMESTAMP: 1:15–1:30]*
+**V.O. (BETTY):**
+*"Four and a half months. I testified twice. I called RoboRide twice. I did the
+right things. The runway is still disappearing."*
 
-INT. AUTO ROW DINER — EARLY MORNING
+---
 
-Betty sits alone in the empty dining room before open, a folder on the table: loan papers, RoboRide terms, a handwritten number — $1,972. She closes the folder. She picks up the pen.
-
-**V.O. (BETTY):** *"The kitchen is either a pivot or it's an asset I sell. I ran out of time to decide slowly. So I decided."*
-
-> **ON-SCREEN:** Savings: $1,972 — Runway: 14 days — Bridge loan: approved — She pivots.
+```
+ON-SCREEN: Month 8 — RoboRide drops to $0.12/mi — Savings: $10,508 — Runway: 2.5 months
+```
 
 ---
 
@@ -100,53 +251,160 @@ Betty sits alone in the empty dining room before open, a folder on the table: lo
 
 ---
 
-**SCENE 7 — TICK 12 — "First Order"**
-*[TIMESTAMP: 1:30–1:45]*
+### SCENE 6 — TICK 11 — *"The Decision"*
+`[1:24 – 1:40]`
 
+```
+INT. AUTO ROW DINER — PRE-DAWN
+```
+
+**WIDE.** The empty dining room. Chairs still up. The only light comes from the
+kitchen pass-through — a long, warm rectangle in the dark.
+
+**MED.** Betty alone at a booth table. A folder spread in front of her:
+loan papers, a signed RoboRide partnership agreement, a business card.
+
+**INSERT.** Kevin O'Brien's card. Community First Credit Union. Handwritten on
+the back in his pen: *$12K — approved.*
+
+**INSERT.** The bottom of Betty's legal pad. One number, written alone:
+
+```
+   $1,972
+```
+
+**CLOSE.** Betty's hands. She looks at both papers. The loan. The agreement.
+She closes the folder.
+
+**CLOSE.** She picks up the pen. Signs.
+
+**MED.** She sits back. Looks at the kitchen pass-through — the warm light,
+the dark dining room. Both things true at once.
+
+---
+
+**V.O. (BETTY):**
+*"The kitchen is either a delivery hub or it's an asset I sell. I ran out of
+time to decide slowly. So I decided."*
+
+---
+
+```
+ON-SCREEN: Month 11 — Savings: $1,972 — Runway: 14 days — Bridge loan: $12,000 approved
+```
+
+---
+
+### SCENE 7 — TICK 12 — *"First Order"*
+`[1:40 – 1:51]`
+
+```
 INT. AUTO ROW DINER — KITCHEN — DAWN
+```
 
-Betty tears open a box of insulated delivery bags on the prep counter. She stacks them methodically, then tapes a handwritten route sheet to the wall above the pass-through. The dining room behind her sits dark and empty.
+**CLOSE.** A cardboard box torn open on the prep counter. Insulated delivery
+bags, stacked in a column.
 
-**V.O. (BETTY):** *"I've been feeding this town thirty years out the front door. Now I'm feeding it out the back. That's not failure. That's just a different door."*
+**MED.** Betty tapes a handwritten route sheet to the wall above the
+pass-through. She smooths it flat with her palm.
 
-> **ON-SCREEN:** Employment: 47% — 10 agents financially critical — Millfield, Month 12
+**INSERT.** The route sheet. Columns of addresses. Real names. Real streets:
 
----
+```
+   Miguel Hernandez — 4 Sycamore Ct
+   D. Okafor — 18 Mill Rd
+   Reyes family — 7 Birch Ave
+```
 
-**SCENE 8 — TICK 14 — "Still Standing"**
-*[TIMESTAMP: 1:45–2:00]*
+**CLOSE.** The first order boxed, sealed, a label on top.
 
-INT. AUTO ROW DINER — KITCHEN — AFTERNOON
-
-The dining room is empty — chairs still up, menus still in the holder by the register. Through the pass-through window, Betty works the line alone, boxing orders while Lisa Freeman marks a delivery list at the old hostess stand.
-
-**V.O. (BETTY):** *"Nobody sits down anymore. But the soup's still hot. The door still says Auto Row Diner. Long as that's true, I'm still here."*
-
-> **ON-SCREEN:** Employment: 40% — Spending index: 24 (−71% from baseline) — Millfield, Month 14
-
----
-
-*FADE TO BLACK.*
+**WIDE.** Betty at the prep line, working. Behind her through the pass-through
+glass: the dining room, dark and still. Both things true at once.
 
 ---
 
-## PRODUCTION NOTES
+**V.O. (BETTY):**
+*"Thirty years I fed people who came to me. Now I go to them. That's not
+failure. That's just a different door."*
 
-| Scene | Tick | Betty's Savings | Town Employment | Diner Health |
-|-------|------|-----------------|-----------------|--------------|
-| 1 – The Anchor | 0 | $27,116 | 100% | Stable |
-| 2 – The Tip | 1 | $27,116 | 100% | Watching |
-| 3 – First Sighting | 3 | $23,312 | 90% | 76 (stressed) |
-| 4 – The Mechanic's Lunch | 7 | $19,044 | 70% | 42 (declining) |
-| 5 – The Deadline | 8 | $10,508 | 60% | 42 (declining) |
-| 6 – The Decision | 11 | $1,972 | 50% | 25 (closing) |
-| 7 – First Order | 12 | Bridge loan | 47% | 25 (pivot) |
-| 8 – Still Standing | 14 | Generating | 40% | 25 (active) |
+---
 
-**Key relationships in the film:**
-- **Carlos Ruiz** (mechanic_carlos) — intelligence on kitchen conversion viability
-- **Kevin O'Brien** (loan_officer) — $12,000 bridge financing approved at Tick 11
-- **Lisa Freeman** (community_organizer) — grant threshold advocacy; food access coordination in final scene
-- **Tommy** (unnamed auto worker) — opens and closes the film as the human measure of change
+```
+ON-SCREEN: Month 12 — Employment: 47% — 10 residents at zero savings — First delivery: live
+```
 
-**World arc:** Spending index 83 → 24 (−71%). Employment 100% → 40%. RoboRide $0.18 → $0.10/mile. 30 agents, 15 months, one diner.
+---
+
+### SCENE 8 — TICK 14 — *"Still Standing"*
+`[1:51 – 2:00]`
+
+```
+EXT. AUTO ROW DINER — AFTERNOON
+```
+
+**ECU.** *"AUTO ROW DINER"* in painted letters on the front door glass — seen
+from outside. Through it: no customers. Just a running kitchen.
+
+```
+INT. AUTO ROW DINER
+```
+
+**MED.** Lisa Freeman at the old hostess stand. A delivery coordination sheet
+spread across the counter — neighborhood names, quantities, routes. She marks
+and moves.
+
+**MED.** Betty working the line, steady and alone.
+
+**CLOSE.** Tommy's old booth. Empty. A single upturned coffee cup where his
+usual order would be.
+
+**CLOSE.** Betty's face. Tired. Intact.
+
+---
+
+**V.O. (BETTY):**
+*"Nobody sits down anymore. But the soup's still hot. The door still says
+Auto Row Diner. Long as that's true — I'm still here."*
+
+---
+
+```
+ON-SCREEN: Month 14 — Employment: 40% — Spending: −71% from baseline — The diner: still open.
+```
+
+---
+
+```
+FADE TO BLACK.
+```
+
+---
+
+## CHARACTER MAP
+
+| Character | Role in simulation | Scenes | Function in film |
+|---|---|---|---|
+| **Betty Kowalski** | `diner_owner` | All | Protagonist — the keeper |
+| **Tommy** | Auto Row worker | 1, 8 | Human barometer — opens and closes |
+| **Maria Santos** | `community_organizer` | 3 | Delivers the lifeline (grant flyer) |
+| **Carlos Ruiz** | `mechanic_carlos` | 4 | Does the kitchen math with Betty |
+| **Lisa Freeman** | `community_organizer` | 4, 8 | Validates Betty's testimony; coordinates the mutual aid network |
+| **Kevin O'Brien** | `loan_officer` | 6 | Never seen — only his card and handwriting |
+
+---
+
+## WORLD ARC — DATA OVERLAY SEQUENCE
+
+| Scene | Month | Employment | Savings | Spending Index | Diner Health |
+|-------|-------|-----------|---------|---------------|-------------|
+| 1 | 0 | 100% | $27,116 | 83 | Stable |
+| 2 | 1 | 100% | $27,116 | 83 | Watching |
+| 3 | 3 | 90% | $23,312 | 73 | 76 — stressed |
+| 4 | 7 | 70% | $19,044 | 41 | 42 — declining |
+| 5 | 8 | 60% | $10,508 | 35 | 42 — declining |
+| 6 | 11 | 50% | $1,972 | 26 | 25 — closing |
+| 7 | 12 | 47% | $0 + loan | 24 | 25 — pivot |
+| 8 | 14 | 40% | generating | 24 | 25 — active |
+
+**RoboRide arc:** Not deployed → $0.18/mi → $0.12/mi → $0.10/mi, 24/7, delivery live, second competitor enters.
+**Betty's arc:** Anchor → Shock → Bargaining → Decision → Rebuild.
