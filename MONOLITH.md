@@ -7720,20 +7720,28 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 > Pull 18-month policy cancellation data segmented by vehicle age, driver age, and zip code. Looking for the shape of the decline — is this income pressure, behavioral shift, or something structural?
 
+*Reasoning: I'm a data analyst by habit. Before I do anything else I need to understand what I'm actually looking at. This costs nothing and takes two hours.*
+
 
 **Action 2 — `?`**
 
 > Update LinkedIn to emphasize transferable skills: risk modeling, team management, data analysis, regulatory compliance. Not signaling a job search — just making sure the profile reflects the full Linda, not just the insurance Linda.
+
+*Reasoning: 50% identity attachment to this role means I already know I'm more than it. Costs nothing to make sure the outside world knows that too. No bridges burned.*
 
 
 **Action 3 — `?`**
 
 > Reach out to two former colleagues now working in fleet risk management and corporate liability respectively. Framed as catching up, not job hunting. Listen for what their sectors are seeing.
 
+*Reasoning: Social proof matters to me — I want to hear from people I trust what the adjacent landscape looks like before I form strong opinions. Two contacts is calibrated, not desperate.*
+
 
 **Action 4 — `?`**
 
 > Spend one evening privately mapping roles where risk assessment, data analysis, and team management would transfer: corporate risk officer, compliance manager, healthcare or property insurance, insurtech ops. No commitment — just drawing the map.
+
+*Reasoning: Status quo bias is real in me — I know this. The antidote is not panic, it's having a map ready before I need it. Drawing the map now while I'm calm is far better than drawing it under duress.*
 
 
 
@@ -8736,7 +8744,7 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 ### Transactions — Tick 00
 
 
-*(No resolved transaction files for tick 0)*
+> **Known gap:** Transaction files were not generated for tick 0 by the sim engine (early ticks used a different run format). Bilateral exchanges happened but were not recorded in the transactions ledger.
 
 
 
@@ -10649,7 +10657,7 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 ### Transactions — Tick 01
 
 
-*(No resolved transaction files for tick 1)*
+> **Known gap:** Transaction files were not generated for tick 1 by the sim engine (early ticks used a different run format). Bilateral exchanges happened but were not recorded in the transactions ledger.
 
 
 
@@ -10910,6 +10918,40 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 *Emotion: **?** · Archetype: ?*
 
+**Inner Monologue:**
+
+> The roommate thing is taking too long and I need to just close it — whoever can pay, they're in, I'm done being selective about this. The car is the next thing: if the bus gets me to work, I'm selling it and that's $371 back in my pocket every month. RoboRide starts next tick and I want to already be looking at other jobs before anyone at the car wash starts cutting hours.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `?`**
+
+> I commit to the first financially viable roommate applicant who responds — today. Not waiting for a better fit, not holding out. First person who can show they can cover their half of rent, they're in. I text or call all pending leads right now and give a 24-hour response window before I move to next on the list.
+
+*Reasoning: The $131 savings growth from last tick tells me no one moved in yet. That means I've been carrying full rent another month. Every week without a roommate is another $150-200 in avoidable burn. The roommate is the single biggest lever — it extends runway past the RoboRide launch date. I cannot be picky right now.*
+
+
+**Action 2 — `?`**
+
+> I research whether I actually need the car for work. Car wash is likely walkable or one bus ride from my place. I pull up the bus route tonight and check the commute time. If it's under 40 minutes one-way, I start the process of selling the car — list it on Craigslist and Facebook Marketplace this week, price it to move, not to maximize.
+
+*Reasoning: $371/month on a $2,400 income with 1.2 months runway is not sustainable. That's the second-biggest fixed expense after rent. If I don't need the car to get to work, I'm paying $371 for a depreciating asset I can't afford. Selling it wipes out $371/mo and might generate $3,000-6,000 in cash depending on value — that alone doubles my runway. Substitution willingness is 0.9. This is exactly the kind of move I should be making.*
+
+
+**Action 3 — `?`**
+
+> I apply to 3-5 jobs this week that are not car-related. Target: warehouse associate, grocery night stocker, or logistics sorter within reasonable commute. Use Indeed and the warehouse district near the highway — those places are always hiring and don't care about my background.
+
+*Reasoning: Car wash role security is 0.43. RoboRide launches next tick. Car wash volume will soften. I'm not waiting to get cut — I'm looking now while I still have a paycheck and don't look desperate on an application. Warehouses don't care about car ownership trends. They pay $16-19/hr and have consistent hours. I want to have an offer in hand before I need it.*
+
+
+**Action 4 — `?`**
+
+> I note what Carlos Ruiz is doing — EV certification, ASE carry-over, shops within 40 miles — and I file that information away. I'm not a mechanic but the pattern is clear: pivot to EV-adjacent work is the move in this region. I ask Carlos directly what he's finding, even just a quick text or conversation at the end of a shift. Not to copy his path, but to understand what's available and what it costs to retrain.
+
+*Reasoning: Carlos is doing the research I don't have access to. He's a mechanic so the path is different for me, but the information about what's growing in this area within 40 miles is directly useful. This costs me nothing — it's a conversation. If EV-adjacent work is expanding locally, I want to know about it before I'm unemployed, not after.*
+
 
 
 #### Patricia Hawkins  ·  `ceo_regional_auto`
@@ -11063,6 +11105,47 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 *Emotion: **?** · Archetype: ?*
 
+**Inner Monologue:**
+
+> I spent tick one doing the math on a car I already don't own, which is a very me thing to do — thorough to the point of solving problems that are already solved. What I actually need to be solving is the job security question and the income diversification question, and it turns out my skills are extremely relevant to a town full of businesses that suddenly need to rebrand away from the thing that was their whole identity. That's my job. I know how to do that. The irony of the car is that selling it made me financially smarter AND accidentally put me in the exact position to advise everyone else going through the same identity transition — just at the business level. Status-wise, 'early autonomous vehicle adopter who now consults on AV-era brand pivots' is a far better headline than 'marketing manager with a nice car,' and I didn't even plan it that way.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Contact Angela Wright (auto row) and Carlos Ruiz directly via LinkedIn to offer a complimentary 30-minute brand repositioning consultation. Frame it as peer outreach, not a sales pitch — I am a Millfield professional who watched the same announcement they did and thinks there is a real story to tell about businesses that adapt well.
+
+*Reasoning: My entrepreneurial drive is real and my marketing skills are exactly what businesses in the auto sector need right now. They are scared and they need narrative help. I can provide that. One or two paying clients at $800-$1,200/month would meaningfully extend my runway and reduce my dependence on a single employer. Starting with a free consult is low-friction — it matches my social proof sensitivity because it is easy to say yes to, and it lets me test the market without committing.*
+
+
+**Action 2 — `?`**
+
+> Attend Maria Santos's town hall and come prepared. Draft a one-page social media amplification proposal — offer to volunteer 4 hours/week to help the city council communicate the workforce transition fund and RoboRide rollout to Millfield residents across Instagram, LinkedIn, and Nextdoor. Bring it as a document, not just a verbal offer.
+
+*Reasoning: My skills are social media and communication. This is exactly where those skills create community value right now. It also positions me publicly as a constructive, forward-thinking voice — which matters to someone with status awareness and social proof sensitivity like mine. This is the high-visibility, zero-cost action that puts me on the right side of the narrative while my peers are still deciding what side to be on.*
+
+
+**Action 3 — `?`**
+
+> Formally evaluate and sign up for the RoboRide beta or early-access program when it opens. Document the experience on LinkedIn — two or three posts over the first month framing it as a professional experiment: 'What I learned commuting without a car in the autonomous vehicle era.' Real data, real numbers, honest take.
+
+*Reasoning: I already made the car transition. The narrative is already mine if I claim it. Early adopter content costs nothing to produce and builds a professional identity around being prescient rather than just frugal. This reframes my car-free status from a quiet financial decision into a visible professional stance. In marketing that is the difference between being a case study and being invisible.*
+
+
+**Action 4 — `?`**
+
+> Run a quiet internal audit of my employer's exposure to the economic contraction. How much of their revenue comes from sectors being hit hardest? Is the marketing budget discretionary or structural? Book a low-stakes check-in coffee with my manager framed as 'professional development planning' — listen for how they're talking about Q2 and Q3.
+
+*Reasoning: Role security at 0.46 is the honest threat in my state. I cannot fix it directly but I can gather early signals. If my employer is cutting budgets, I want to know before the formal conversation, not after. This is not paranoia — this is what smart marketing managers do. They read the room. I need to read mine.*
+
+
+**Action 5 — `?`**
+
+> Research the $2,500 workforce retraining grant eligibility criteria from the council's $150K fund. Likely does not apply to me directly as a marketing manager not in the auto sector. However, identify whether any of the auto-affected workers I might engage through freelance consulting could benefit from the grant — this becomes a value-add I can offer potential clients: 'I can help you apply for the grant AND build the repositioned brand narrative.' That is a compelling combined offer.
+
+*Reasoning: I probably do not qualify for the grant myself, but that is a 5-minute check not a closed door. More importantly, understanding the grant landscape makes me more useful to the businesses I want to consult for. Knowledge of available public resources is part of what a strategic marketing advisor brings. It is the kind of detail that makes me look thorough.*
+
 
 
 #### Maria Santos  ·  `council_member`
@@ -11215,6 +11298,40 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 #### Frank Russo  ·  `driving_instructor`
 
 *Emotion: **?** · Archetype: ?*
+
+**Inner Monologue:**
+
+> The number is $26,060. I did the subtraction myself. It is not a comfortable number but it is a real one, and real numbers are something I can work with. I have been a small business owner long enough to know that the worst thing you can do in a cash crunch is pretend the cash is not crunching. The grant application took me two hours. Two hours of paperwork for five thousand dollars is the best hourly rate I have seen in thirty years. I am not optimistic yet — I am not built for optimism in the abstract — but I am moving, and moving is different from hoping. The right column on that legal pad says I know how to take a person who believes they cannot do something hard and get them to the other side of it. If that is true — and I am starting to think it is — then there are people in this town right now who need exactly that. They just do not know to call it what I call it yet.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `?`**
+
+> I apply for the $5,000 Small Business Stabilization Grant this week. I pull the business license, the tax returns, the utility bills for the school — whatever they need to show I am a real business facing a documented disruption. I fill out the paperwork myself. I do not wait for an accountant or for the right moment. The grant does not solve the problem but it buys me six weeks. Six weeks is not nothing.
+
+*Reasoning: Frank qualifies. He is a small business owner in a sector being directly disrupted by an announced municipal technology deployment. The $5,000 does not replace income but it slows the savings bleed and signals to himself that he is moving, not waiting. Given his loss aversion of 2.5x, the psychological cost of watching savings drain without acting is higher than the effort of a grant application. This is the lowest-friction concrete action available this tick. He does it first.*
+
+
+**Action 2 — `?`**
+
+> I attend Maria Santos's public input session. I do not go to complain. I go because she asked for people like me specifically and because I have something concrete to say: a driving school in Millfield is not just a business, it is a safety infrastructure. Teen licensing requirements do not disappear because RoboRide arrives. I say that plainly. I also ask one question out loud in the room: what does the city's workforce transition fund cover for small business owners who need to retrain, not just displaced employees? I want the council to hear that question from a face they might recognize.
+
+*Reasoning: Frank's agency is 0.73. He has the capacity to act in public, and this is one of the few venues where his specific situation — rooted, 58, small business, directly obsoleted — carries weight that abstract data does not. Maria Santos is creating a record. Frank's testimony shapes that record. Additionally, showing up positions him as a community voice rather than a victim, which matters for his identity stability. He is a rebuilder, not a supplicant. The town hall is where rebuilders go to plant flags.*
+
+
+**Action 3 — `?`**
+
+> I call Janet Brewer at Millfield Community College — I already reached out last tick, I already have the thread open. This time I make a specific ask: is there a slot for a non-credit adult skills workshop that I could pitch and run? Not driving. The right column skills: managing anxiety, breaking down complex tasks, building confidence in adults who have been away from formal learning. I am thinking about workforce transition specifically — there are people in this town right now who need exactly what I know how to do, and they do not know they need it. I want to know if the college can be the venue and the credibility while I provide the instruction.
+
+*Reasoning: The community college partnership has three advantages Frank cannot replicate on his own: an existing enrollment infrastructure, institutional credibility with adult learners who are skeptical of private providers, and a physical space he does not have to pay for. His entrepreneurial drive is 0.35 — moderate, enough to initiate a partnership, not enough to build a standalone operation from scratch at 58. The college is the scaffold. He is the program. This call turns last tick's listening into this tick's proposal.*
+
+
+**Action 4 — `?`**
+
+> I make a decision about the driving school assets — the dual-control vehicle, the office lease, the signage and equipment. I do not liquidate anything yet. But I call the landlord about the office lease and find out what my exit terms are. I look at the car payment — $308 a month on a vehicle I may not need at full capacity. I write down what the school costs me monthly to keep alive versus what it would cost to wind down. I do not make the final call this tick. But I stop pretending the question does not exist.
+
+*Reasoning: Frank's loss aversion at 2.5x makes him slow to close doors. But the driving school as currently structured — a standalone instruction business in a market about to compress — is carrying monthly overhead against zero revenue. The dual-control vehicle payment alone is $308. The office lease is a number he knows but has not calculated against his new reality. This action is not closure — it is inventory. A seasoned small business owner knows you cannot make good decisions about assets you have not looked at honestly. He looks at them honestly this month.*
 
 
 
@@ -11602,6 +11719,47 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 *Emotion: **?** · Archetype: ?*
 
+**Inner Monologue:**
+
+> Nine applications, two certifications in progress, a grant filed, and a proposal on the owner's desk — that is a week's work, not a week's worry. The town hall is not an obligation, it is an asset: I walk in with expertise and I walk out with contacts in the one sector I have not fully penetrated yet. The stress is still directional. I am aiming it.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Follow up on all 5 applications submitted last tick with brief, professional status inquiry emails. Draft them this week — 3 sentences, not a cover letter rehash. Simultaneously submit 4 additional targeted applications: one regional hospital facilities director role, one university plant operations posting, one commercial property management company managing mixed-use portfolios, and one municipal infrastructure coordinator position I flagged in the job scan. Minimum 9 total applications in the pipeline by end of this tick.
+
+*Reasoning: Conversion rate on cold applications in operations/facilities management is roughly 15-20% to first interview. Nine applications gets me statistically to 1-2 callbacks. One callback is all I need to start the clock on an offer timeline. Follow-ups on existing applications cost nothing except 30 minutes and move me from the passive pile to the active pile in a recruiter's inbox.*
+
+
+**Action 2 — `?`**
+
+> Attend Maria Santos's public input session in person. I will go as an affected worker, not as a bystander. I will bring prepared remarks — 90 seconds, no more — covering three points: the downstream employment impact on facilities and service workers who are not the primary headline (not just drivers, but the whole ecosystem), the opportunity to repurpose garage infrastructure for EV charging and RoboRide staging before the revenue cliff hits, and the specific workforce transition question of whether the $2,500 retraining grant applies to lateral skill transitions within operations management or only to retraining into entirely new fields.
+
+*Reasoning: Two reasons to attend. First, the council is making decisions that affect my employer and my job, and showing up means I am part of shaping that response, not just receiving it. Second, Maria's session is a legitimate venue to get a direct answer on grant eligibility for my specific situation — operations-to-operations transition — rather than guessing. Being visible in this process also builds my professional profile in the municipal space, which is one of my target employment sectors.*
+
+
+**Action 3 — `?`**
+
+> Apply for the $2,500 Emergency Workforce Transition retraining grant. Frame the application around upskilling in commercial property management software (Yardi, MRI) and OSHA facilities management certification — both directly transferable to the roles I am targeting, both verifiable as skill gaps rather than just general education. If the grant covers it, I take the Yardi Voyager online certification ($800) and the OSHA 30-hour Facilities Management track ($400). The remainder covers LinkedIn Premium for three months.
+
+*Reasoning: The grant exists. Eligibility likely applies to workers in disrupted sectors seeking workforce transition — my situation fits that definition. The investment is not speculative: Yardi is the dominant software platform for commercial property management and every property management role I am targeting lists it as preferred or required. Certification at time of application is a concrete differentiator. Even if the grant takes time to process, I apply now and front the cost if needed — $1,200 is recoverable against a $68K+ offer.*
+
+
+**Action 4 — `?`**
+
+> Write a quiet internal memo — for my own files, not submitted — documenting the garage's current operational procedures, vendor contacts, maintenance schedules, and key relationships. This is my institutional knowledge and right now it lives in my head. If I leave in 6 weeks, an orderly handover protects my professional reputation. Simultaneously, I will put together a one-page concept note on converting the lower level of the garage to EV charging stations and designating two upper bays as RoboRide pickup/staging zones — and I will present it to the owner as a revenue diversification idea, not as a signal that I am planning to leave. It positions me as a forward-thinking manager and might buy operational goodwill. It also gives me a concrete case study to discuss in interviews.
+
+*Reasoning: The documentation protects me professionally. The concept note serves three purposes: it genuinely might help the garage adapt, it signals to the owner that I am engaged rather than checked out, and it gives me a real asset to reference in property management interviews — 'I identified and proposed infrastructure repurposing in response to market disruption' is a better story than 'I managed a parking garage until it declined.' Loss aversion runs both ways: I do not want to burn a reference by disappearing without transition planning.*
+
+
+**Action 5 — `?`**
+
+> Have a calm, specific financial conversation with my household — not a crisis meeting, a planning meeting. I will share that the parking industry is going through a technology transition, that I am proactively searching for a next role, and that we are going to be careful with discretionary spending for the next few months while I run this search. I will share the contingency budget I sketched last tick: on a lean basis, our runway is longer than 6 months. I will not share the worst-case scenario framing. Two dependents do not need the threat level — they need to see me as someone with a plan, which I have.
+
+*Reasoning: Keeping dependents in the dark entirely creates fragility when they notice something — and they will notice something. A controlled disclosure on my terms, framed as 'I am managing this proactively,' maintains household stability and trust without unnecessary alarm. Loss aversion 2.5x works on households too: people catastrophize in information vacuums. I am the manager of this household the same way I manage the garage — communicate clearly, early, with a plan already in motion.*
+
 
 
 #### Howard Liu  ·  `parts_store_owner`
@@ -11659,6 +11817,47 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 #### Stephanie Morris  ·  `real_estate_agent`
 
 *Emotion: **?** · Archetype: ?*
+
+**Inner Monologue:**
+
+> The brief is out there and the phone is starting to move — which means I have maybe a 10-day window before the urgency fades and owners go back to hoping this doesn't affect them. I know it affects them. The question is whether I can turn that knowledge into conversations before they convince themselves otherwise. The task force is the right move too — not because I need the visibility, but because Millfield is going to make zoning and infrastructure decisions in the next 60 days that will determine whether these adaptive reuse plays are even viable, and I need to be in the room when those decisions get made. I'm not the hero of this story. I'm the analyst. But analysts who show up with the right data at the right moment tend to end up with the right clients.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Triage and respond to all inbound inquiries generated by the market brief. Sort contacts into three buckets: (A) auto-property owners in my current book who reached out — schedule in-person meetings this week with a property-specific repositioning brief in hand; (B) investors or buyers expressing acquisition interest in undervalued auto-adjacent parcels — qualify their criteria and begin matching to book; (C) journalists, council members, or colleagues seeking comment — respond promptly and position myself as available to present findings publicly. Prioritize bucket A above all else.
+
+*Reasoning: The brief created inbound pull. That pull has a short half-life — owners and investors who were energized by the brief will lose momentum within 7-10 days if I don't convert the conversation into a meeting. The window is right now.*
+
+
+**Action 2 — `?`**
+
+> Attend Maria Santos' public input session and formally apply to the Economic Transition Task Force. Bring printed copies of the market brief. Offer to present the commercial property vacancy trend data to the task force — frame it as a contribution to the council's economic resilience planning, not self-promotion. Request 10 minutes on the agenda. Connect with Maria and any council members present to establish a direct working relationship.
+
+*Reasoning: The task force needs real data. I have it. Being embedded in the formal policy response structure gives me visibility, legitimacy, and early access to any council-led adaptive reuse incentives or infrastructure decisions — including where RoboRide staging infrastructure may be permitted or subsidized. My community_ties of 0.76 are an asset here: I know these people and they know me. This is not lobbying — it's expertise in service of Millfield.*
+
+
+**Action 3 — `?`**
+
+> Make proactive outreach calls to 4 auto-related property owners in my book who did NOT respond to the market brief — specifically the owners of the Route 9 gas station, the Millfield East repair shop, the Korvath dealership lot, and the Fenwick service center. Do not lead with the market brief. Lead with a direct, human conversation: 'I wanted to talk to you before this becomes news everywhere, because you deserve to hear this from someone who has the data and cares about what happens to your asset.' Prepare a one-page repositioning scenario for each property before calling.
+
+*Reasoning: Status_quo_bias and normalcy_bias are real — owners who didn't respond to the brief may not be ignoring the risk, they may simply be waiting for someone to tell them directly that this affects them. I am that person. Arriving with a one-page scenario — not a warning, a plan — shifts the conversation from threat to strategy. This is how I retain the listing relationship when the market turns, and how I prevent these owners from panic-listing with the first agent who calls them.*
+
+
+**Action 4 — `?`**
+
+> Build a target list of 3 new tenant type categories and initiate first contact with 2 specific operators in each category. Categories: (1) EV charging network operators — contact ChargePoint and Electrify America regional development teams about site criteria for Millfield; assess which parcels in the book meet their footprint, power access, and visibility requirements. (2) Robotaxi staging and fleet management operators — research RoboRide's own real estate requirements for Phase 2 expansion; contact one regional fleet logistics operator about staging lot criteria. (3) Last-mile logistics and delivery hubs — contact one regional small-parcel logistics operator (e.g., regional Amazon DSP, LaserShip/OnTrac regional contact) about micro-hub site criteria in the Millfield corridor.
+
+*Reasoning: The only way adaptive reuse works is if I have real tenant demand, not theoretical demand. I need to know what these operators actually require — parcel size, power access, clearance height, zoning, proximity to highway — so I can match listings accurately and speak with credibility to property owners about their exit options. This outreach also positions me as the local broker who already has EV and AV operator relationships when other agents are scrambling to make cold calls six months from now.*
+
+
+**Action 5 — `?`**
+
+> Apply for the Millfield Small Business Transition Grant ($5,000). As a self-employed commercial real estate agent whose book is materially exposed to the RoboRide-driven sector disruption, I qualify under the stated intent of the program. Use grant funds if awarded to cover: professional association membership in adaptive reuse and EV commercial development networks (NAIOP, emerging AV real estate working groups), targeted LinkedIn advertising to reach out-of-market investors looking for repositioning plays in Millfield, and one continuing education certification in commercial adaptive reuse or transit-oriented development.
+
+*Reasoning: The grant is $5,000 and I meet the criteria. Not applying is leaving money on the table that could directly fund the capability-building this transition requires. Beyond the cash, submitting a strong application reinforces my public profile as an agent actively navigating the disruption — not waiting for it to pass.*
 
 
 
@@ -11865,17 +12064,119 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 *Emotion: **?** · Archetype: ?*
 
+**Inner Monologue:**
+
+> The Saturday shift is probably going to happen — Maria at the desk told me last week they've been begging people to pick up weekends and I have the seniority to get it approved. Three hundred and some dollars isn't a solution to anything but it's three hundred dollars. I'm also just going to call about the tires. I've been putting that off for two months and every time I back out of the driveway at 4:30 in the morning I think about it and then I forget because I'm already exhausted before the day starts. One call. One appointment. The kids are fine. My daughter aced her spelling test. I heard about the self-driving car thing again at lunch — Kevin from the ER was going on about it. I nodded and got back to my salad. That's about the right amount of attention I have for it right now.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `?`**
+
+> Deposit $200 into emergency savings again this month. Same as last month. Not negotiable.
+
+*Reasoning: The rule exists so I don't have to rethink it every month when I'm tired. The $200 is already mentally spent. It goes in. The emergency fund grows. The runway creeps upward. This is the one financial habit that's working and I'm not touching it.*
+
+
+**Action 2 — `?`**
+
+> Pick up one additional shift this pay period — Saturday if staffing will take it. Talk to the charge nurse Thursday.
+
+*Reasoning: One extra shift is roughly $325-$350 after taxes. That's not nothing. It doesn't solve the debt problem but it gives me a little more cushion to put toward the emergency fund or absorb any surprise expense without touching what's already saved. The hospital is chronically short on weekends. I have a realistic shot at getting it approved. The kids will stay with my sister — she already covers Saturdays occasionally.*
+
+
+**Action 3 — `?`**
+
+> Schedule a tire rotation and basic inspection for the car — the kind of thing I've been putting off. Look for a Saturday appointment when my sister has the kids.
+
+*Reasoning: The car is not optional. If it breaks down, I miss shifts. If I miss shifts, the whole budget collapses. A $60 tire rotation now is cheaper than a $400 towing bill and a missed day at the hospital. I haven't had anything done in about four months. I need to stop deferring this.*
+
+
+**Action 4 — `?`**
+
+> Check in with my sister about the fall school schedule — figure out which days she can cover pickup in advance rather than scrambling last minute.
+
+*Reasoning: My childcare network is the most fragile part of my system and I don't treat it with enough intention. My sister bails me out repeatedly and I reciprocate where I can, but I've never actually sat down with her and mapped out the semester. If I know she can't cover Thursdays in October, I can plan around it instead of panicking when something shifts. This costs nothing but a 20-minute conversation.*
+
 
 
 #### Dale Cooper  ·  `truck_owner`
 
 *Emotion: **?** · Archetype: ?*
 
+**Inner Monologue:**
+
+> Henderson needs to sign this week — not this month, this week. Once that check clears I've got Q2 covered and I can think straight. The auto row stuff is a slow-motion thing, not a fire, but I've seen slow-motion turn into fast-motion fast enough that I'm not going to wait around. I'll go to the town hall, hear what people are saying, and figure out if any of the RoboRide infrastructure work is something I should be chasing. Worst case I sit through an hour of hand-wringing and learn nothing. Best case I'm in the room when someone mentions a project.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `?`**
+
+> Call Mike Henderson directly — not email, not text. Phone call this Monday morning. Tell him the materials estimate is locked, the crew window is open, and I need his signature by Friday to hold the start date. Make it easy for him to say yes. Bring the contract to his lot in person if I have to.
+
+*Reasoning: Henderson's dealership income is directly correlated to car sales volume. RoboRide Phase 2 is two months out. Once it lands and traffic data starts coming in, he'll be in wait-and-see mode on any discretionary spend over $5K. A $38,000 garage addition is exactly the kind of thing he freezes. Getting his signature this week is the single highest-value action I can take right now.*
+
+
+**Action 2 — `?`**
+
+> Do a quick client audit — mental list, then written. Who in my current pipeline or recent work history earns income from auto row? Dealerships, service bays, detailers, tire shops, gas stations. Flag those jobs as elevated risk for capex freeze in the next 60-90 days. Not sounding any alarms yet — just knowing where the exposure is.
+
+*Reasoning: In 2008 I didn't see which clients were leveraged until three of them canceled on me in the same month. That's the lesson I carry. Auditing now costs nothing. Being surprised later costs real money. My construction skills aren't going anywhere, but if 30% of my informal referral network is auto-row adjacent, that's a concentration risk I need to see clearly.*
+
+
+**Action 3 — `?`**
+
+> Start making calls into two or three new bid categories that have nothing to do with car ownership: residential additions and remodels for healthcare workers and government employees, and any municipal or institutional work in the county — school maintenance, county facility repairs, library or parks work. Put the word out with my subs that I'm looking.
+
+*Reasoning: Contractors who survive downturns have diverse pipelines. Healthcare workers, teachers, and government employees kept spending in 2008-2009 because their income was stable. If auto row softens and some of my informal residential referrals dry up, I want jobs already in conversation from non-correlated sectors. Takes time to build that pipeline — start now, not when I'm hungry.*
+
+
+**Action 4 — `?`**
+
+> Ask around — quietly — about whether the county or any developer is thinking about EV charging infrastructure, RoboRide staging areas, or repurposing commercial parking. This is speculative but worth one or two conversations. If that work comes, it'll go to whoever is standing in front of the right person when the project gets funded.
+
+*Reasoning: RoboRide doesn't just destroy jobs — it creates construction work. Staging areas need paving and site prep. EV chargers need electrical rough-in and concrete pads. Parking structures may get repurposed. My skills — site work, foundations, concrete, framing — map cleanly to that kind of project. Early positioning costs me nothing. Missing it would be dumb.*
+
 
 
 #### Grace Okafor  ·  `uber_driver_2`
 
 *Emotion: **?** · Archetype: ?*
+
+**Inner Monologue:**
+
+> The car payment number has been bothering me since I did the budget last month — 26% of income on a depreciating asset I need but can't be sentimental about. With a 796 score I should not be paying what I'm paying. That's this week's one concrete task: call the credit union, get the number, move if it makes sense. The RoboRide countdown I can work with — two months is actually enough time to build a real buffer if I'm deliberate. I'm not scared. I'm just doing the math.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `?`**
+
+> Contact my credit union this week to formally inquire about refinancing the car loan. I have a 796 credit score — I should not be carrying a $573/mo payment. Even dropping it to $420-$450/mo frees $120-$150 monthly, which extends runway by several weeks. I'll pull my current loan terms, get a competing quote, and initiate the refi application if the numbers work.
+
+*Reasoning: This is the single highest-leverage action available to me right now. I don't need to sell the car — I need the car for both driving income and clinical rotations. But I'm almost certainly paying a rate that my current credit score no longer justifies. Refinancing doesn't change my income or expenses structurally; it just removes friction. With 796 credit, I should be able to get this done without a credit inquiry that hurts my score materially.*
+
+
+**Action 2 — `?`**
+
+> Shift rideshare strategy from peak-hour maintenance to aggressive pre-launch maximization. For the next 8 weeks before RoboRide Phase 2 hits, I will add one additional block per week — specifically targeting Thursday evening and Sunday morning airport runs, which have historically had thin rideshare supply. I'll track earnings per zone weekly to detect early softening and adjust.
+
+*Reasoning: The 2-month window before RoboRide Phase 2 is a known asset. Once AV adoption starts competing with my high-yield slots, my hourly rate drops. The logical move is to front-load income now while demand is still mine to capture. Adding roughly 6-8 hours per week at peak rates should generate an additional $90-$120 per tick. That goes directly to savings — I'm not changing my expenses, just building buffer before the squeeze.*
+
+
+**Action 3 — `?`**
+
+> Talk to my nursing program advisor this week about my exact graduation timeline and whether summer clinical slots are available. I need to know the precise number of weeks standing between me and licensure eligibility — not a rough estimate, the actual date. If accelerating by even one rotation block is possible, I want that option on the table.
+
+*Reasoning: My exit from rideshare dependency is the RN license. Everything else — the car payment strategy, the peak-hour scheduling, the savings buffer — is bridge financing. If I can complete clinicals 4-6 weeks earlier by taking an available summer block, that moves up the date I can start earning $58-72K annually. I don't know if acceleration is possible, but I need the information to make the decision. Right now I'm optimizing a bridge without knowing exactly how long the bridge is.*
+
+
+**Action 4 — `?`**
+
+> Open a small dedicated savings bucket — I'll call it the 'RoboRide Buffer' — and deposit the income above my baseline $413/mo margin into it separately, so I can see it building. This is behavioral accounting, not real accounting, but it prevents me from letting the extra peak-hour earnings absorb into general spending.
+
+*Reasoning: The risk in the next two months is complacency. I'm steady, my stress is low, and the plan is working — which means I could unconsciously start spending the surplus instead of banking it. Labeling the buffer makes it concrete. I've seen nurses in my program panic-quit clinicals over money because they didn't protect their margin during the good months. I'm not doing that. This costs nothing.*
 
 
 
@@ -12319,7 +12620,7 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 ### Transactions — Tick 02
 
 
-*(No resolved transaction files for tick 2)*
+> **Known gap:** Transaction files were not generated for tick 2 by the sim engine (early ticks used a different run format). Bilateral exchanges happened but were not recorded in the transactions ledger.
 
 
 
@@ -12412,11 +12713,86 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 *Emotion: **?** · Archetype: ?*
 
+**Inner Monologue:**
+
+> RoboRide went live today. Eighteen cents a mile, fifteen-minute wait, right here in Millfield. I couldn't have written a better opening slide for the board presentation if I'd tried. The argument isn't 'EVs are coming someday' anymore — it's 'EVs are here, on our streets, today, and this town has no pipeline for the mechanics who will service them.' Carlos Ruiz walking over to Patricia's office with an EVT Level 2 paper is the proof point I needed from inside the industry: the workforce already knows. The school board just hasn't caught up yet. My job between now and April is to make that gap impossible to ignore — with numbers, with names, with a policy alignment that makes voting no feel like voting against Millfield's own economic future. Maria's office got the email last tick. This tick I follow up. I get the meeting. I get the letter. Then I walk into that boardroom with a proposal that doesn't ask them to believe me — it asks them to read the data.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `?`**
+
+> Compile the regional EV demand data package for the board presentation. Specific numbers to gather: (a) EV registrations in the county — pull from state DMV public data or county assessor records; (b) median EV technician wage in the metro region — Bureau of Labor Statistics, O*NET, or Indeed salary aggregator; (c) EVT Level 2 certification timeline and cost comparison — high school program track ($1,400 + 60 hrs supervised, per Carlos Ruiz's EVT paper) vs. community college post-secondary track (estimated $3,200–$4,800 + 120 hrs); (d) number of EV service centers currently operating within 30 miles of Millfield and their stated technician capacity. Frame this as a supply-demand gap slide: the county has X EVs registered today, projected to grow to Y by 2027, and Z certified technicians to service them. The gap is the program's reason for existing.
+
+*Reasoning: The board presentation needs to stop being a narrative and become an argument. Data on EV registrations, technician wages, and certification cost differentials gives the board something to vote on rather than something to feel about. The Carlos Ruiz EVT paper is a live proof point from inside the industry ecosystem: an actual automotive worker walked into an office today asking about EV certification. That is not a trend article. That is happening two blocks from where I teach.*
+
+
+**Action 2 — `?`**
+
+> Follow up on the Maria Santos outreach from Tick 2. The email was sent — this tick, the ask is to confirm whether a response has arrived and, if so, to schedule the meeting within the next two weeks. If no response yet, send one professional follow-up referencing her second public statement naming the task force and the community college retraining track, and explicitly align the Millfield Auto Tech Pipeline as a high school feeder into that track. The framing has sharpened: her policy infrastructure already exists — a high school program is the upstream pipeline that makes it more effective. If the meeting is scheduled, prepare three specific asks: (1) a letter of support or acknowledgment for the board presentation, (2) referral to the community college contact managing the EV retraining track, (3) clarity on whether the $2,500 retraining grants or $5K small business grants have any applicability to institutional equipment funding.
+
+*Reasoning: Maria's second public statement names a task force and specific programs — this is policy infrastructure already in motion. A high school program aligned with it is not a competing ask, it is an upstream component she can point to. Her office has every political reason to support this: it extends her workforce narrative into the K-12 system. The meeting is the single highest-leverage hour Mark can spend before April. A letter from her office transforms the board presentation from a teacher's proposal into a city-endorsed workforce initiative.*
+
+
+**Action 3 — `?`**
+
+> Finalize the line-item Phase 1 budget for the board presentation — two versions: (a) Full program buildout, and (b) Phase 1 minimum viable launch. Use real sourced prices, not ranges. Target line items: EV battery simulation trainer unit — research used/refurbished pricing from Snap-on Education, Robinair, or comparable supplier (estimated $6,000–$9,000 new; $3,500–$5,000 refurbished); high-voltage safety PPE kit for a classroom of 20 (estimated $2,800–$3,600); EV-specific OBD-II and diagnostic tool set (estimated $1,800–$2,400); EV vehicle donation outreach — one letter drafted to local Tesla Service Center and to county fleet management asking about end-of-lease or decommissioned EV available for educational use. Annotate each line item with funding source: workforce grant eligible, district budget request, or industry donation target. Phase 1 total ask from district should land under $15,000 with grant offsets identified.
+
+*Reasoning: Specificity is a signal of seriousness. A board member who sees '$40,000–$60,000 estimated' fills in the worst-case number and votes no. A board member who sees '$43,200 Phase 1 total, $28,000 workforce-grant eligible, net district ask $15,200' has something to approve. The budget work is unglamorous and it is the most important document in the package. The status quo bias wants to skip it because the narrative feels done. The narrative is not the proposal — the budget is.*
+
+
+**Action 4 — `?`**
+
+> Execute the ASE and regional EV-employer outreach initiated in Tick 2 — this tick is about getting a response or a named contact, not just sending emails. For ASE: contact the ASE Education Foundation directly (not the general line) and ask specifically about the NATEF/NATAP accreditation pathway for high school programs and whether the EVT Student Certification is available to HS students. For regional EV employer outreach: identify one ChargePoint installer, one Tesla Certified Collision or Service center within 25 miles, or one regional fleet electrification company (municipalities converting fleets are actively training technicians) and send a targeted two-paragraph email: introduce the program, name the April board review date, and ask for either a letter of support or a 20-minute guest speaker slot. The guest speaker ask is low-friction and often yields a letter as a byproduct. Use RoboRide's Millfield launch as the opening line — it is proof this community needs what the program produces.
+
+*Reasoning: Industry name recognition changes the character of the proposal. 'ASE-aligned curriculum' is standard. 'NATEF-accredited program' is a credential the board can verify. A letter from a regional EV employer with a line like 'we would prioritize hiring graduates of this program' is the closing argument. RoboRide launching today at $0.18/mile in Millfield is the hook — it is locally visible, it is real, and it is the reason a regional EV employer has a stake in Millfield's technician pipeline.*
+
 
 
 #### David Chen  ·  `bank_manager`
 
 *Emotion: **?** · Archetype: ?*
+
+**Inner Monologue:**
+
+> The index is at 89. That number didn't get there by coincidence — someone in this market knows something, and they're acting on it, and the lending data is the shadow of their action. I've been modeling a 50% decline scenario for two months; I did not do that because I enjoy being pessimistic. I did it because I wanted the decision already made before I needed to make it. The rumor is probably the fact now. The preparation doesn't make the moment lighter — it just means I already know what I'm going to do.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Confirm the rumor through three direct channels before end of business today: check local news (Millfield Gazette digital, local TV station website), call my contact at the city clerk's office who tracks business license activity, and walk two blocks to the RoboRide staging area near the transit hub if one exists — I've seen the permit filings, I know the likely location. I do not adjust further branch policy on an unconfirmed rumor, but I need to cross the threshold from 'strong rumor' to 'operational fact' so I can communicate with appropriate precision internally and, if necessary, to clients.
+
+*Reasoning: The lending volume data at index 89 is strong corroborating evidence — the market is moving on this information whether I have confirmed it or not. But there is a material difference between 'the branch manager acted on rumor' and 'the branch manager confirmed the launch and responded accordingly.' I need the second formulation for everything that follows: the Sandra call, the Patricia conversation, and my own documentation. A thirty-minute verification effort pays for itself many times over in institutional credibility.*
+
+
+**Action 2 — `?`**
+
+> Follow up directly with Sandra Okafor's assistant to determine whether she received my tick 2 follow-up request and to confirm or schedule the 20-minute alignment call. If she has not responded within 48 hours of my last communication, escalate the ask: send a brief note — two paragraphs, not another memo — stating that lending volume is already measurably declining (index 89, cite the data), that I have reason to believe a autonomous ride-share service has launched in Millfield, and that I would like 20 minutes this week to present my branch response framework before the quarter-end numbers begin to reflect it. Make the urgency data-grounded, not emotional. If she schedules the call, prepare a concise three-slide briefing: current exposure, proposed response, projected outcomes under three scenarios.
+
+*Reasoning: The silence from Sandra is a management problem I cannot afford to let compound. I have now sent one memo and one follow-up request across three ticks. A third communication that escalates the data rather than the tone is still professional — it is not nagging, it is persistence grounded in new facts. The lending volume index is new and concrete. It gives me standing to re-engage without appearing to repeat myself. If Sandra does not respond after a data-grounded follow-up, I have done what I can through the chain and need to document that clearly.*
+
+
+**Action 3 — `?`**
+
+> Call Patricia Hawkins at Regional Auto Group — today, before she calls me. Open plainly: 'Patricia, I want to have an honest conversation with you. You may be seeing that some recent applications from your customers are running against revised underwriting criteria on our end. That change is deliberate and I want to explain it to you directly rather than have you piece it together from declined applications.' Walk her through the rationale: standard credit risk management in a period of transportation market uncertainty, consistent with the bank's loan quality standards, not a judgment on her business or her customers. Listen for her response. If she is already adaptive — pivoting to service revenue, EV fleet partnerships, pre-owned — that is material information about her credit quality going forward. If she is in denial or hostile, that also tells me what I need to know about the relationship.
+
+*Reasoning: This is the conversation I should have had in tick 2 and didn't — I called her then for intelligence, not disclosure. The tightening is now operational. She will encounter it in the next few days through rejected or modified applications. A branch manager who lets a long-term client discover a material policy change through a rejection letter has failed at relationship banking. Proactive disclosure is both ethically correct and strategically sound — it gives me information about her adaptability and preserves the relationship. If she is going to be angry, I would rather she be angry in a direct conversation with me than through intermediaries.*
+
+
+**Action 4 — `?`**
+
+> Meet with Kevin O'Brien formally — not a hallway conversation, a scheduled 30-minute sit-down — to define a structured mortgage certification pathway. Outline specifically: what certifications he needs, the timeline I will support, how his compensation and title are affected during and after the transition, and whether this role exists at this branch or whether I need to advocate for it with Sandra. Be honest with him: I cannot guarantee his position is safe if the branch auto loan book contracts significantly, but I can tell him that a certified mortgage originator with a developing pipeline is substantially more valuable to this branch than a pure auto loan officer in the current environment. Give him a defined path, not vague encouragement.
+
+*Reasoning: Kevin's mortgage pivot is the branch's best organic risk management play — he is already moving, I am not asking him to change direction, I am formalizing a runway that benefits both of us. He needs to know I am behind it with specificity, not just with generic support. Ambiguity about his role is a retention risk — if Kevin thinks the branch has no plan for him, he will go find a branch that does. I cannot afford to lose my best-performing loan officer in the middle of a portfolio transition. The formalization also gives me something concrete to present to Sandra: not just 'I have concerns about auto loans' but 'here is the personnel and capability plan for the transition.'*
+
+
+**Action 5 — `?`**
+
+> Place five small business accounts on enhanced monitoring status in the loan management system: Howard Kellerman (auto parts supply), Amir Patel (gas station), Betty Kowalski (diner near the dealership corridor), and any other accounts with material revenue dependency on auto traffic volume or dealership foot traffic. This is not a tightening action — it is a watch-list flag that requires quarterly check-in calls and more frequent financial statement review. Document the rationale for each flag. This is standard portfolio management; it creates no external effect and triggers no client communication, but it means I am not discovering problems reactive.
+
+*Reasoning: The auto ecosystem in Millfield extends well beyond the dealerships. Howard's parts business serves the dealer service departments and DIY vehicle owners — both customer segments are at risk. Amir's station revenue is tied directly to vehicle miles driven locally. Betty's location near the dealership corridor means her lunch business partially depends on dealer foot traffic. None of these are immediate credit concerns, but all of them are second-order exposures I should be watching. Putting them on enhanced monitoring now, when I have no specific reason for concern about any individual account, is defensible as routine risk management. Discovering a problem in six months without a monitoring flag is not.*
 
 
 
@@ -12424,11 +12800,86 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 *Emotion: **?** · Archetype: ?*
 
+**Inner Monologue:**
+
+> RoboRide went live today and honestly my first thought was: okay, so the car wash is going to get slower, I already knew that was coming. The more pressing thing is that I've been saying 'I'm going to apply to jobs' for two ticks now and the outcome log just says 'routine' every time — which means I haven't closed anything. This week I'm actually submitting applications, not planning to. The grant thing is also worth tracking down — someone at work probably knows about it. I keep the car for now because I need it for interviews, and I keep the car wash job because the math doesn't work without it.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `?`**
+
+> Apply to 3 jobs this week — warehouse associate, facilities maintenance, and any customer service or dispatch role paying above $14/hr. Use Indeed and walk in to the warehouse district near the highway. Submit applications today and tomorrow.
+
+*Reasoning: Three ticks of actions and the outcome has been 'routine' every time. The job applications from last tick produced no visible result yet — either they didn't happen or the pipeline is slow. I need to move applications from intention to actual submissions with timestamps. Warehouse and maintenance work is insulated from RoboRide disruption. If I get even one offer at $16-18/hr, my surplus doubles and the runway pressure lifts. I have a 746 credit score and a clean record — I'm a hireable person. I just need to actually submit the applications.*
+
+
+**Action 2 — `?`**
+
+> Find the retraining grant information. I've heard Maria Santos is working on something through the town — I'll check millfield.gov or ask a coworker or neighbor if they've seen anything posted. I'm not signing up for a 2-year program but a $2,500 grant could cover a short certification that makes me more hireable.
+
+*Reasoning: I don't have a URL or a flyer but this information is floating around. Someone at work or in the building has seen it. A $2,500 grant is real money when my total savings is $2,793 — that's nearly doubling my buffer. Even if the retraining takes a few months, knowing the option exists changes my planning horizon. I'm not going to enroll today but I need to know what's available before I need it.*
+
+
+**Action 3 — `?`**
+
+> Evaluate the car situation with RoboRide now live. Run the math: my car payment is $371/month. RoboRide at $0.18/mile — if I'm doing roughly 600 miles a month for commuting and errands, that's $108/month. I still need the car for job interviews and flexibility while I'm actively searching. Hold off on selling for now but make the decision timeline explicit: if I have a new job offer within 30 days, reassess then.
+
+*Reasoning: RoboRide launching changes the car math but doesn't make it a sell-today situation. I need the car for interviews — showing up to a warehouse at 6am on a 15-minute-wait rideshare is not reliable enough. But I should know the number: $371/month vs. what RoboRide would actually cost me. Once I have a new job with a defined commute, the sell decision gets easier. Right now the car is a job-search tool.*
+
+
+**Action 4 — `?`**
+
+> Keep showing up to the car wash. Full shifts, no friction, no drama. Collect the $2,400/month until I have something better.
+
+*Reasoning: I cannot afford a gap in income at 1.3 months runway. I don't like this job and I'm not attached to it, but quitting or coasting and getting fired would be the worst thing I could do right now. I stay professional, I keep the income, and I walk out the door with an offer in hand when that day comes.*
+
 
 
 #### Patricia Hawkins  ·  `ceo_regional_auto`
 
 *Emotion: **?** · Archetype: ?*
+
+**Inner Monologue:**
+
+> I drove past one of the RoboRide vehicles on the way in this morning. White. Small. Moving at exactly the speed limit, which no one in Millfield does. I looked at the interior through the window at the light on Carver and Fifth. Empty. Not a driver. Not a passenger. Just a machine doing a job that used to require a person, moving through a town I have spent twenty years learning the rhythms of. It occurred to me that the car does not know it is disrupting anything. It just drives. What I am grieving is not the revenue index. It is the version of this company I thought I was building — the one where the people who started with me finished with me. That company may still exist. But it is smaller than I imagined. And I am the one who has to tell the people I hired that smaller is not failure. I have to believe that before I can say it. I am almost there.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Execute the Angela Wright lunch today. Location: Carver Street Grille, 12:15 PM, off auto row. Open by asking her what she is seeing — not what I think she is seeing. Listen fully before speaking. When the moment is right, make the offer explicit: $12,000 stay bonus, 90-day term, contingent on her leading the workforce transition planning process. Give her the title: Director of Organizational Transition. That is not a euphemism — that is a real function I need filled by someone with her institutional knowledge. Tell her I am not asking her to pretend the company is fine. I am asking her to help me build what comes next.
+
+*Reasoning: Angela has access to every employment agreement and separation structure in this company. Losing her mid-restructure is operationally disqualifying. Rick also pulled her into a separate conversation — which means she is being courted from both sides. I need to move today. The lunch was scheduled last tick. It happens now.*
+
+
+**Action 2 — `?`**
+
+> Convene the GM closed-door meeting this afternoon — Rick Tanner and the two other GMs. The agenda has changed since I scheduled it last tick: RoboRide is no longer a scenario. It is a fact on the ground. Lead with the revenue index: 89, down 11% already. Ask each GM to drop their single-page responses on the table. Then ask Rick directly what he is hearing from the floor about financing — specifically whether any customers have mentioned loan declines or changed terms. I want to know if David Chen's tightening is already reaching our customers before I have to learn it from a financing rejection on a deal.
+
+*Reasoning: The GM meeting was pressure-test planning last tick. This tick it is operational triage. The 40%-smaller scenario is now the baseline planning assumption, not the stress test. I need my GMs aligned on that before they go back to their floors tomorrow morning. Rick running the floor at full intensity is the right short-term move — I want him doing it with full information about why.*
+
+
+**Action 3 — `?`**
+
+> Call David Chen directly — not a social call, a professional conversation. Tell him I have noticed what looks like a change in floor plan financing review timelines and ask him plainly: has the bank changed its underwriting criteria for auto dealer credit lines? Do not accuse. Give him the opportunity to be transparent. If he confirms the tightening, ask what the review process looks like and what I should prepare. If he deflects, I have my answer about where the relationship stands and I begin talking to two other regional lenders this week.
+
+*Reasoning: David Chen has a trust score of 0.28 in my network — I have never fully trusted this relationship. But I need to know what he changed and why before the floor plan renewal date. If his review results in tighter terms or a reduced credit line, I need 60 days to find alternative financing. I do not have 60 days if I wait to find out at renewal. The call is uncomfortable. The alternative is worse.*
+
+
+**Action 4 — `?`**
+
+> Give Carlos Ruiz a direct answer on the service department. The question he asked — are we keeping it — deserves a real answer now that RoboRide is live. Call him in before end of day. Answer: yes, we are keeping it, and we are pivoting it toward EV and hybrid capability. Confirm that the company will fund his certification program — $3,500 to $6,000, enrolled within two weeks — and that his title will shift to Lead EV Service Technician upon completion. Ask him to bring me a list of the top three EV certification programs he identified and we will pick one together by Friday.
+
+*Reasoning: Carlos researching EV certifications on his own time was a signal I cannot afford to ignore a second tick. With RoboRide now live, the service department is potentially the most durable part of this business — ride-share fleets require maintenance, and EV-capable shops will be scarce in Millfield for at least two years. Carlos is the asset that makes this pivot possible. His certification cost is less than one week of floor plan carrying charges on a slow unit.*
+
+
+**Action 5 — `?`**
+
+> Share Maria Santos's second public statement — the one naming programs, dollar amounts, and the RoboRide license requirement — through Regional Auto Group's social channels and my personal professional network. Add one sentence of my own: 'Regional Auto Group is participating in the workforce transition task force. Our employees and this community have built something worth protecting.' Do not editorialize further. Do not express a position on RoboRide. Position the company as a community institution that governs through disruption, not one that fights it or ignores it. Separately, call Maria and ask a direct question: did RoboRide obtain the municipal operating license before launch, or are they operating under a grace period? I need to know whether the $0.25/ride fee is accruing and whether there is legal standing to enforce the license requirement.
+
+*Reasoning: Maria asked me personally to share the statement. Refusing signals either opposition or fear — neither serves me. Sharing it with framing positions Regional Auto Group as a stabilizing institution in a disrupted community, which is the brand I want when I am asking customers to trust us with a car purchase they are uncertain about. The license question is separate and important: if RoboRide launched without complying, there is regulatory leverage that may slow their operational ramp and give us more runway.*
 
 
 
@@ -12436,11 +12887,94 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 *Emotion: **?** · Archetype: ?*
 
+**Inner Monologue:**
+
+> RoboRide went live this morning and I felt it land — not as dread, as signal. The thing I have been preparing for is now the thing that is actually happening, and there is something clarifying about that. I have a task force seat, I have intake data, I have the link and the forms and the Tuesday night relationships. What I do not have is time to wait for the right moment. The right moment is now, and it looks like scheduling two grant sessions before the end of the week, texting Harold today, and asking Maria one specific question about operational funding before I talk myself into waiting until I have a better framing. The bridge is carrying weight. I need to make sure it keeps carrying weight. That means I stop admiring the architecture and start checking the load-bearing points.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Prepare a task force briefing packet for the first meeting: current intake data trends, projected surge model (30/50/100% demand increase scenarios built in tick 1 capacity audit), map of which worker populations in my intake logs are highest-risk based on sector and income, and a concrete proposal for how the community center functions as a grant distribution and application-assistance node. Bring three specific asks: shared intake data from other task force members to cross-reference my population picture, confirmation of whether the center qualifies for the operational support component of Maria's workforce fund, and a standing agenda item at each task force meeting for ground-level feedback from the community.
+
+*Reasoning: I have been the person with ground-level data since tick 1. At the task force table, that data becomes institutional — it shapes program design, not just program awareness. If I walk in with a briefing packet and the others walk in with opinions, I set the terms of what evidence looks like. My grant_writing skill and my intake logs are the two assets no one else at that table has. I need to use both before the first meeting, not during it.*
+
+
+**Action 2 — `?`**
+
+> Schedule and announce a dedicated grant drop-in event at the community center: 'Millfield Workers: Get Your Retraining Grant.' Two sessions — one weekday evening, one Saturday morning — within the next 10 days. Format: open door, no appointment, Lisa or a trained volunteer walks each visitor through millfield.gov/grants eligibility and application step by step. Printed plain-language guides available in English and Spanish. Track every person assisted: name (optional), grant tier they qualify for, application completed yes/no, barriers encountered.
+
+*Reasoning: The $2,500 retraining grants exist. The $5K grants exist. The people who most need them are the people least likely to navigate a government website alone while under financial stress. I have the link, the forms, the language, and the trust. The barrier between eligible and applied is not bureaucratic — it is informational and emotional. I remove that barrier. The tracking data I generate here becomes the proof-of-distribution narrative for my next grant cycle and for the task force.*
+
+
+**Action 3 — `?`**
+
+> Review intake logs from all Community Connection Night sessions (ticks 1-2) and flag highest-risk individuals: workers in auto sector adjacent employment, gig workers with no retraining savings, households with dependents and single income. Do not wait for them to come back in. Reach out directly — phone or text where I have contact — to let them know the grants are live, the sessions are happening, and I can help them apply. Personal outreach, not a mass email. 10-15 people this week.
+
+*Reasoning: Harold is not going to search millfield.gov on his own. The woman who would not give her name but took the handout — she is exactly the person the $2,500 grant was designed for, and exactly the person least likely to self-navigate to it. I have their contact information or I know where they will be on Tuesday. The difference between a grant that helps people and a grant that technically exists is someone making a direct, low-barrier connection. That is me. This is the job.*
+
+
+**Action 4 — `?`**
+
+> Contact Maria Santos today to confirm task force meeting date, propose an agenda structure, and raise one specific operational question: does the community center qualify for the $5K small business/organizational grant for use as operational support during the transition surge? If not, ask what the pathway is. Keep the ask clean — one question, not a long proposal. I have demonstrated delivery (the data report was on time and thorough). I can ask for something now.
+
+*Reasoning: I delivered what Maria asked for. That creates a small but real account balance. I should use it before it depreciates. The $5K grant applied to center operations — additional volunteer coordination hours, printed materials, extended drop-in coverage — would let me absorb the intake surge without running my own budget thin. If the answer is yes, I apply this week. If the answer is no, I ask what does qualify, and I file that instead. Either way I get information I can act on.*
+
+
+**Action 5 — `?`**
+
+> Start a real-time community impact log — a running internal document that tracks, tick by tick: intake volume, grant applications assisted, referrals made, worker outcomes where I have follow-up data, and resource gaps I am seeing that programs have not addressed yet. This is not a public document. It is institutional memory and future grant evidence. Updated after every Community Connection Night session.
+
+*Reasoning: I have been the person who sees what the economy does to actual people before anyone has data about it. That visibility is only an asset if I capture it. The task force will want quarterly reports. Future grant applications will need outcome data. When Maria or the council asks 'is this working?' I want to be able to say: here are 47 people who applied for grants through the center, here is what they qualified for, here are the 8 whose situations fell outside every available program. The gaps are as important as the wins. No one else is going to track the gaps.*
+
 
 
 #### James Patterson  ·  `commuter_james`
 
 *Emotion: **?** · Archetype: ?*
+
+**Inner Monologue:**
+
+> RoboRide is live. $0.18 a mile. Fifteen-minute wait on main roads. I have been staring at that number in a cell on a spreadsheet for two months and now it is a real app with a real button. The math was right. I knew the math was right. But there is still something that feels different about it being a product instead of a projection — I want to actually sit in one of those cars on the way into the city and check whether the wait time is actually 15 minutes or whether that is the optimistic figure they put on the launch press release. I will find out this week.
+> 
+> More urgently: I have two buyers who came to look at the Accord and neither has signed. That changes today. The moment RoboRide went live, the clock on my first-mover premium started ticking louder. Anybody in Millfield who has been sitting on the fence about whether to keep their car now has a concrete answer on the other side of that fence. The used car supply is about to grow and the motivated buyer pool is about to shrink. I am texting both of them this morning. Not a nudge — a specific question: 'Can you come by Wednesday or Thursday? I have another appointment Friday.' That is true and it also communicates what I need to communicate.
+> 
+> $18,800. That is the number. I am not taking less than $18,500 and I am not waiting past Friday. The $600 concession from list was already priced in two ticks ago. Time is money and I understand time-value math better than most people in this town right now.
+> 
+> On the community angle: I have been thinking about this. I am not in the disruption cohort — I am in the observer cohort, watching it happen to people I know. Tom at the garage, probably. A handful of people on my street who work in the supply chain. The spending index dropping to 76 is not an abstraction — it is the restaurant closing early on Tuesdays, it is the hardware store cutting staff hours. My employer is fine but Millfield is not fine. I do not think guilt is the right frame. Competence is the right frame. I have skills that are relevant and I have bandwidth. Lisa Freeman is running the center and she is doing it on a shoestring. One conversation to find out what they actually need is not a commitment — it is just being a useful neighbor.
+> 
+> The spreadsheet was right. Now I test the product.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `?`**
+
+> Close the Accord sale. Contact both serious buyers today — email or text within the hour — to confirm test drive slots this week. Frame it as availability, not pressure. Be prepared to accept $18,800 on the spot if either buyer makes a cash offer or comes pre-financed. Do not let either appointment slip to next week. If buyer one falls through, immediately move buyer two into the primary slot the same day.
+
+*Reasoning: RoboRide launched this morning at $0.18/mile. That is the inflection point I identified when I listed the car. The market has now received the same signal I was acting on in advance. Every motivated buyer in Millfield who was undecided about their own car situation now has a concrete alternative — which means the pool of people who will buy a used car for full private-party value is shrinking in real time. Closing at $18,800 today is worth more than $17,200 in six weeks. The $600 concession from list price has a positive IRR measured in days, not years. The sale closes this tick.*
+
+
+**Action 2 — `?`**
+
+> Download the RoboRide app today. Take one real trip this week — commute direction, not a test loop around the block. Log actual wait time, actual ride time, actual fare, and a qualitative score on the experience: comfort, reliability, ability to work during the ride. Compare against the model.
+
+*Reasoning: I have been analyzing this service on a spreadsheet for three ticks. The numbers justify the thesis. But a spreadsheet is not a product review, and I am about to restructure my entire commute around this service. One real data point is worth more than ten projected ones. If the 15-minute stated wait time is actually 22 minutes in Millfield conditions, I need to know that now, not after the car is sold — though the car is selling regardless. The goal is to validate the experience layer, not the financial layer. I already know the financial case closes.*
+
+
+**Action 3 — `?`**
+
+> Map my specific commute pattern against the RoboRide + train + Zipcar combination. Identify the two or three edge cases — late meetings, weekend trips out of coverage, the occasional client site visit outside city limits — and price a realistic monthly transport budget for each scenario. Build the post-car mobility stack explicitly, not as an abstraction.
+
+*Reasoning: Going car-light is not the same as going car-free, and I should not conflate them. My commute pattern is 45 minutes each way on workdays, but there are maybe four to six trips per month that fall outside the RoboRide coverage zone or timing window. Zipcar covers those at roughly $14-18/hour. I need to know whether my actual mobility needs fit in $420/month or $580/month — that is the number I will be living with, and I want it modeled against reality, not the average case.*
+
+
+**Action 4 — `?`**
+
+> Identify one concrete way to contribute to the Millfield community response to this disruption. Specific candidates: reach out to Lisa Freeman's community center about volunteer tech skills (website, database, digital literacy classes), or offer informal mentorship to two or three displaced auto-sector workers who might have aptitude for tech-adjacent roles. Do not over-commit. One thing, done well.
+
+*Reasoning: I am not affected by this disruption in the way most of Millfield is. My job is secure, my finances are healthy, and I saw this coming early enough to act. That position carries some obligation — not guilt, but the practical fact that I have skills and bandwidth that are scarce right now in this community. The spending index is at 76 and falling. Angela Wright moving to restructuring at Regional Auto Group signals that even the institutional players are bracing for contraction. The community center and the retraining pipeline are the right targets for volunteer capacity. I cannot fix the macro. I can probably help five to ten people navigate something specific. That is worth one afternoon of effort to scope.*
 
 
 
@@ -12448,11 +12982,93 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 *Emotion: **?** · Archetype: ?*
 
+**Inner Monologue:**
+
+> RoboRide is live and I am sitting here with a built-in narrative that most people in Millfield spent the last two ticks either ignoring or panicking about. I spent those ticks positioning myself as the person who gets it — and now the thing I said I was ahead of is actually here, which means this week is when I find out if I actually meant it. The ride is happening. The post is happening. Angela is going to hear from me by Thursday because a 90-day restructuring window does not wait for me to feel ready. What I keep coming back to is that the version of myself I have been describing on LinkedIn — calm, forward-thinking, early adopter, useful to people navigating the transition — that is who I want to be, and it turns out the only gap between describing her and being her is taking the actual ride.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Take a RoboRide trip this week — my actual commute, not a test ride. Download the app, enter the Millfield origin, commute to work or a client-facing meeting. Note the pickup experience, the ride quality, the wait time against the stated 15 minutes, the price per my specific mileage. Treat it as a commuter, not a journalist.
+
+*Reasoning: This is the moment the prior two ticks of positioning either become real or become noise. I have been framing myself as a forward-thinking RoboRide early adopter for two ticks while the service was not yet live. Now it is live. If I do not ride it this week, I am a person who talks about doing things, which is the exact opposite of the identity I am building. At $0.18/mile my commute from Millfield is going to cost a fraction of what car ownership was costing me, and I will have a real number to put in the LinkedIn post. The authentic data is the content.*
+
+
+**Action 2 — `?`**
+
+> Publish one LinkedIn post this week framed as 'I live in Millfield. Here is what day one of RoboRide actually looks like.' Lead with specifics: pickup location, wait time, cost for the route, what it felt like. Close with a take about what it means for people navigating this transition — make it useful, not just a personal update. Tag RoboRide and mention the Millfield launch.
+
+*Reasoning: The post has to come from a genuine first ride — which is why action 1 has to happen first. The framing that matters is not 'look at me using a robot car' but 'here is what the ground truth looks like for a working professional commuting from Millfield.' That is useful to my peer network, useful to businesses trying to understand their customers, and useful to the task force trying to get community buy-in. It is also the kind of content that drives profile visits and inbound outreach. My social proof sensitivity tells me this is the post that gets shared. I need it to be good.*
+
+
+**Action 3 — `?`**
+
+> Follow up directly with Angela Wright. Send a LinkedIn DM or email this week referencing the outreach from last tick and the news about her new role as restructuring architect at Regional Auto Group. Offer a 30-minute call to discuss what a communications and change management narrative framework would look like for a 90-day restructuring. Frame it as genuine peer curiosity, not a pitch — ask what the biggest communication challenge looks like from where she is sitting.
+
+*Reasoning: Angela accepted a high-visibility, high-stress role with a 90-day end date. She is already problem-solving in a new context and has not had time to build a full support structure around the communications side of the work. If I reach out now — this week, while she is in week one of the role — I am a timely resource, not a cold pitch. The window is narrow. This is the specific kind of opportunity that requires moving on it rather than planning to move on it. One conversation could turn into a 60-day project engagement at $1,500-$2,500, which would be my first real consulting anchor.*
+
+
+**Action 4 — `?`**
+
+> Assess the Maria Santos task force and the broader community transition for a focused volunteer communications offer. Specifically: identify whether the task force has a designated communications lead. If not, offer 3-4 hours per week to help draft worker-facing messaging about the $2,500 retraining grants — translating policy language into plain, accessible copy for the Millfield residents most likely to be displaced.
+
+*Reasoning: My skill set is most useful right now at the intersection of plain-language communications and the community transition. The retraining grant communications are almost certainly being written by policy staff who are not trained communicators — which means they are probably hard to navigate and have low uptake. I can fix that in a few hours. This is the kind of contribution that gets noticed by city contacts, generates goodwill with the task force, and keeps me visibly engaged with the transition story without committing to a formal second job. It also gives me credible material for the consulting conversations — 'I have been working directly with the task force on communications' is a different credential than 'I have been following the situation.'*
+
+
+**Action 5 — `?`**
+
+> Quietly assess whether any RoboRide community communications needs exist that a marketing consultant could support. Specifically: research how RoboRide is handling local community onboarding and education in launch markets. Look for a business development or community partnerships contact at RoboRide to reach out to with a specific offer — 'I am a marketing manager in Millfield, one of your launch communities, and I am already building authentic content about the service. I am also available for paid community communications consulting if that is something your team uses.'
+
+*Reasoning: This is a low-probability but high-upside angle that costs one hour of research and one outreach message. RoboRide is scaling into new communities and may well have a community communications challenge in every launch market. I am already inside their launch story as a genuine user. That is a credible foot in the door that most consultants do not have. Even if the answer is no engagement, they now know my name and that I am a positive voice in Millfield. That is brand equity for a future conversation.*
+
 
 
 #### Maria Santos  ·  `council_member`
 
 *Emotion: **?** · Archetype: ?*
+
+**Inner Monologue:**
+
+> The vote was the part I knew how to do — I have been in council chambers since I was 28 years old and I know how to build a majority. What I am doing today is different: I am calling Carlos Ruiz by name and asking him to sit at a table with me, I am making sure Betty Kowalski's application does not disappear into a committee that doesn't formally exist yet, I am calling a bank manager and making a case that his underwriting tightening is compounding a situation we are both trying to manage. None of this is in the policy text. This is what the policy is for. The spending index is at 76 and it will fall further before it rises — I know that and I am not pretending otherwise — but the question is not whether disruption is coming, the question is whether the people it lands on have something to grab onto when it does. That is what I am building today.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Issue the second public statement today — this morning, before noon. Post to the town website, email to Millfield Gazette and community listserv, and text Patricia Hawkins and Betty Kowalski personally to ask them to share it in their networks. The statement names: (1) the $150,000 Emergency Workforce Transition Fund — $2,500 grants, eligibility criteria, application contact at Millfield Community College enrollment office, phone 555-0192; (2) the $75,000 Small Business Stabilization Grant — $5,000 per qualifying business, application form on the town website at millfield.gov/grants, review committee decision within 10 business days; (3) the RoboRide municipal operating license requirement and the $0.25/ride fee directed to the workforce fund; (4) the Economic Transition Task Force — 90-day charter, first public meeting scheduled within 14 days, community input welcome. Closing line: 'Millfield is not waiting to be disrupted. We are governing through it.' — Maria Santos, Council Member.
+
+*Reasoning: This was the committed tick 2 deliverable. The vote happened. Betty Kowalski applied for the grant but the program's existence is not yet broadly known. Every day the statement does not go out is a day a worker misses a retraining application window or a small business owner does not know there is a bridge grant available. The statement is not self-promotion — it is a distribution mechanism. Asking Patricia and Betty to share it is the right move: Patricia's network reaches auto industry workers who are exactly the target population; Betty's network reaches small business owners on auto row.*
+
+
+**Action 2 — `?`**
+
+> Contact RoboRide's municipal liaison — if no liaison has been designated, contact their regional operations director — today, by phone and in writing. Ask two specific questions: (1) Has RoboRide submitted or intends to submit a municipal operating license application as required under the ordinance passed [date of tick 2 vote]? (2) Is the $0.25/ride fee mechanism in place for all rides originating within Millfield city limits as of today's launch? Document the response. If RoboRide is treating Phase 1 launch as exempt from the license requirement, issue a formal written notice that the license applies to all commercial ride-share operations in Millfield regardless of phase designation, and that the fee accrues from day one of commercial operation. Do not threaten enforcement in the first call — but make clear that the town attorney will follow up within 48 hours if there is no written response confirming compliance or outlining a compliance timeline.
+
+*Reasoning: The operating license requirement was voted in before launch. If RoboRide launched without applying for the license, there are two possibilities: (a) they did not know about the requirement, which is solvable through immediate communication, or (b) they launched knowing about the requirement and chose to test whether Millfield would enforce it. Either scenario requires the same first move: make contact, document the exchange, and establish the town's position in writing. The $0.25/ride fee is not symbolic — at the lower estimate of deployment scale, it generates $18,000/year in direct funding for the workforce transition. Every week of non-compliance is real money not flowing to workers in retraining. The enforcement position is credible because the town attorney is already engaged.*
+
+
+**Action 3 — `?`**
+
+> Seat the Economic Transition Task Force and schedule the first meeting within 14 days. Named seats: (1) Auto Worker Representative — Carlos Ruiz, currently employed at Regional Auto Group service department, already self-retraining for EV certification — call him directly today to invite him; (2) Small Business Owner Representative — Betty Kowalski, Auto Row Diner, already engaged with the grant program and has real revenue data — ask her when I call about the statement sharing; (3) Community Organizer — Lisa Freeman, whose community network contacts have surfaced in prior outreach and who has trust in both the worker and small business communities; (4) Council Member Seat 1 — Maria Santos; (5) Council Member Seat 2 — Council Member James Okafor (voted yes on all four measures, has labor background). First meeting agenda: review task force charter, hear initial reports from each sector representative, establish monthly reporting format and public communication channel. Meeting to be held at the Millfield Community Center, evening session, publicly noticed.
+
+*Reasoning: The task force charter exists. The only remaining action is naming the seats and setting the date. Carlos Ruiz is the right auto worker representative because he is already in the adaptive posture — he is not waiting for the institution; naming him to the task force brings his self-directed effort into the formal structure and signals to other workers that the council is listening to people already taking initiative. Betty Kowalski represents exactly the small business risk profile the stabilization grant was designed for, and having her on the task force means the committee hears real revenue numbers rather than estimates. Lisa Freeman as community organizer closes the information gap between formal programs and workers who may not self-identify as eligible or may distrust the application process.*
+
+
+**Action 4 — `?`**
+
+> Formally seat the three-person grant review committee for both the Workforce Transition Fund and the Small Business Stabilization Grant program. Committee members: (1) Nadia Osei, Millfield Community College continuing education director — she is the direct partner on the retraining tracks and has institutional knowledge of worker eligibility assessment; (2) Robert Dunbar, retired Millfield Chamber of Commerce executive director — knows the small business landscape and has no current financial stake in any applicant business; (3) Priya Nair, Millfield town finance officer — provides fiscal oversight and ensures disbursements are properly documented. Call each person today to confirm willingness to serve. Send the application intake queue to all three by end of day so that Betty Kowalski's application and any others already submitted begin review within 24 hours. Committee decisions on completed applications within 10 business days, as stated in the public statement.
+
+*Reasoning: Betty Kowalski applied. Other applications are either in or coming. If the committee does not exist, the grant program exists on paper but not in practice. That failure would be worse than never passing the program — it would confirm skepticism that council action is performative. Naming three specific people with institutional capacity — not volunteers, not a general call — is the right move. Nadia Osei is a natural lead on the workforce fund because the retraining tracks run through her office. Robert Dunbar knows every small business on auto row by name. Priya Nair already manages the municipal reserve fund draw and will be in the documentation chain regardless.*
+
+
+**Action 5 — `?`**
+
+> Call David Chen at First Community Bank today — not a formal meeting, a direct peer-to-peer call. Acknowledge that I am aware, through general community channels, that underwriting standards are tightening at the margins. Do not characterize it as wrong — it is his institution's prerogative. But make clear two things: (1) the town has just authorized a $150,000 workforce transition fund and a $75,000 small business fund, and that the policy response is active and on the record; (2) workers in transition who are trying to refinance or restructure auto loans in order to reduce monthly obligations while they retrain are exactly the people both of us should want to see succeed — tightening loan criteria on them at this moment compounds a difficult situation. Ask David whether there is any flexibility in how the refreshed underwriting guidelines are applied to workers who can document active enrollment in a town-sponsored retraining program. Frame it as coordination, not pressure. If he is open to it, propose a brief joint communication — bank and town — about financial resources available to affected workers.
+
+*Reasoning: David Chen's loan tightening is rational from his institution's risk perspective, and I am not going to pretend otherwise in the call. But the effect on workers trying to buy down their debt load during a retraining period is material and compounding. A 10-point credit score threshold raise and shorter maximum loan terms land hardest on exactly the workers with marginal credit — which is the population most at risk. The call is not a political demand; it is a professional conversation between two people who both have a stake in Millfield's economic stability. If he says no, I document that the conversation happened and I know where his institution stands. If he says yes to even a partial carve-out for workers in verified retraining programs, that is a real outcome that costs the town nothing.*
 
 
 
@@ -12460,11 +13076,93 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 *Emotion: **?** · Archetype: ?*
 
+**Inner Monologue:**
+
+> I have been in rooms like that before — not the same room, but the same kind. When the data lands and everyone goes quiet and then someone says the thing that has been true for a while out loud for the first time. I said yes to it. I brought the single-page and I said yes to it. The floor I walked out onto after that meeting is not the floor I walked in from. I know it even if nobody else out there knows it yet. I'm not going to fall apart over this. But I'm also not going to pretend I'm running the same operation I was running last month, because that would be the one thing a man with 22 years on floors should know better than to do.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> After the GM meeting, I pull Patricia aside — not to relitigate the consensus, but to ask one direct question privately: in the 40%-smaller model, is the GM role intact, or are we talking about a restructured management structure? I frame it as wanting to plan accurately, not as pushback. I tell her I accepted the data in that room and I'm going to help build what comes next — but I need to know if I'm building it from inside or if I should be having a different conversation. I give her the professional respect of asking directly so she doesn't have to manage my uncertainty from a distance.
+
+*Reasoning: I got the private meeting last tick and used it to frame Q2 operations. The GM meeting this tick changed the stakes entirely. I now need a different answer from Patricia: not 'what is the plan' but 'am I in the plan.' She knows me nine years. She will tell me the truth if I ask it plainly and without drama. If the answer is yes, I stay and build. If the answer is unclear, that is data I need.*
+
+
+**Action 2 — `?`**
+
+> Reach out to Angela Wright — but not with the retention conversation I had planned. That ship has sailed; Patricia got to her first with whatever was in that lunch. Instead: I schedule a working session with Angela under a legitimate operational pretext — the 40%-smaller scenario requires immediate HR implications work, severance planning, workforce right-sizing documentation. I need Angela's professional expertise and she knows it. This is a real ask. I use the working time to read where she actually is. If she's engaged, she's staying for now. If she's performing engagement, I'll know. I don't pressure her. I just work with her.
+
+*Reasoning: I could not intercept Angela before Patricia's lunch and I'm not going to pretend otherwise. A clumsy retention conversation now — after Patricia has already made whatever offer she made — would make me look reactive and transparent. But Angela has genuine work to do if the company is restructuring. Leading her into that work is the correct GM move and it also tells me whether she's still here in the way that matters.*
+
+
+**Action 3 — `?`**
+
+> Reframe floor operations immediately. Stop pushing the full-inventory, full-footprint sales pitch. Redirect the team toward used-vehicle under $22K pipeline and pull Carlos into the center — his EV certification work is now core, not peripheral. Hold a team meeting this week and tell them plainly: the market is shifting toward affordability and service, and we are shifting with it. I don't mention RoboRide by name. I say: we're seeing buyer behavior change and we're adjusting. This is not panic, this is reading the room. Every good team adjusts.
+
+*Reasoning: The window I was trying to close deals in has closed. The 30-day sprint I planned in tick 2 ran into a launch that already happened. I can't recover those deals by running harder at the same target — the target has moved. The new business model that came out of the GM meeting is used vehicles and service. I need to redirect the floor toward that before the team's instincts drive them the wrong way for another month.*
+
+
+**Action 4 — `?`**
+
+> Call David Chen's branch — not Kevin, but David directly — under the pretext of reviewing our floor plan financing terms in light of Q2 inventory adjustments. Kevin shadowing mortgage closings is a signal I've been watching. I want to know whether the auto lending appetite at that branch is actually changing, or whether Kevin is just developing skills on the side. A conversation with David tells me more than watching Kevin. I keep it professional and operational. I'm a 22-year relationship with that branch. They'll talk to me.
+
+*Reasoning: If the bank's auto lending posture is tightening, that affects inventory strategy directly. The 40%-smaller model depends on floor plan financing working for used vehicles under $22K. If David's branch is pulling back from auto paper, I need to know before that becomes a crisis. I also need David to know I'm actively managing this floor, not standing still.*
+
+
+**Action 5 — `?`**
+
+> At home this week — not at the dealership, not on any work device — I go back to the skills list I wrote last tick. I add two columns I didn't have before: what the 40%-smaller store actually needs from a manager, and what else that skillset could do outside of automotive retail. I don't show it to anyone. I don't call it a job search. But I stop treating it as a document that doesn't exist. The GM meeting crossed a threshold. I accepted the smaller reality in that room. The next thing I accept, privately and without drama, is that I need to know what my options are before I need them.
+
+*Reasoning: Last tick I wrote the list and looked at it. This tick I do something with it. Identity attachment at 0.90 means this is genuinely hard — 22 years on the floor is not a career, it is a self-concept. But the man who read that GM meeting room accurately is the same man who needs to read his own situation accurately. If I wait until I'm forced, I will be behind. If I do this now, quietly and without fanfare, I stay ahead of a decision that may get made for me.*
+
 
 
 #### Betty Kowalski  ·  `diner_owner`
 
 *Emotion: **?** · Archetype: ?*
+
+**Inner Monologue:**
+
+> RoboRide is live today and I'm watching out the window between the coffee station and the register, and so far what I see is the same people I always see — but they're talking about it like it just landed from another planet, which I suppose it did. I filed the grant. I can't make it move faster. What I can do is go find out from Manny whether he wants lunches next week or not, because a plan that's been sitting in my head for two weeks needs to either become real or get crossed off the list. I've been in this building since 1993 and I've never waited for someone else to tell me what my diner needs — I'm not starting now.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Run the lunch service as a structured observation session. Note who comes in, who doesn't, what table talk is about RoboRide, and whether any RoboRide drop-offs result in walk-in traffic from the commercial zone. Keep a small notepad under the counter — not to be theatrical about it, just to write it down before I forget.
+
+*Reasoning: This is launch day. The first real data point in a trend I have been anticipating for three ticks. My thirty years of reading this room is a legitimate analytical tool. If Tommy's crew comes in and spends 40 minutes talking about who just got their walking papers, that is information. If a stranger in street clothes walks in from the direction of the RoboRide pickup zone and orders a coffee, that is also information. I need to know what RoboRide does to my foot traffic before I can plan around it — not from a report, from my own eyes.*
+
+
+**Action 2 — `?`**
+
+> Follow up personally with Manny at the tire shop — stop by after the lunch rush, around 2pm, before he gets slammed with afternoon pickup work. Ask directly: is the box-lunch idea something he wants to move on? If yes, agree on a trial week. If no, I find out now and stop counting on it.
+
+*Reasoning: I put the catering sign up last tick. I had the conversation with Manny in principle. The difference between a relationship and a revenue stream is a specific yes. I need a specific yes or a specific no. Manny has been coming in here for nineteen years — he is not going to say no to a conversation, but he might say no to the commitment. Better to know. If he says yes and we trial it next week, I have a $300-400/month floor under my revenue that does not depend on walk-in traffic. At a $232/month surplus, that is meaningful cushion.*
+
+
+**Action 3 — `?`**
+
+> Be reachable and responsive to any call from Maria Santos or anyone from the Economic Transition Task Force. I don't have a formal letter yet but Maria knows this diner and she knows me. If my phone rings with an Millfield city or economic development number, I answer it. If someone walks in who looks like they're looking for me by name, I come out from the back.
+
+*Reasoning: I do not yet have official confirmation that I am on any task force, but the pieces are there — Maria's office, the grant program, the fact that she knows Auto Row and she knows me. I have information that a city economist does not have: I know what the workers are saying at the counter, I know which shop owners are scared and which are acting like everything is fine, I know what the real mood on this street is. That's worth something to a task force. I should not be hard to reach today.*
+
+
+**Action 4 — `?`**
+
+> After close, do a quiet menu and hours review. Not a dramatic cut — a surgical look at what costs me the most and delivers the least margin. Specifically: any prep items I'm making that don't sell out by 2pm are candidates to reduce or cut. Not customer-facing changes yet, just kitchen discipline.
+
+*Reasoning: Spending index 76 means my customers are already pulling back. I see it in the orders — fewer upgrades, more coffee-only stops, more people splitting a plate. That is not paranoia, that is Tuesday's receipts. I cannot raise prices in this environment. What I can do is reduce waste on the prep side without touching anything the customer sees. If I trim $80-100/month in unsold prep, that extends my $232 surplus without a single customer noticing.*
+
+
+**Action 5 — `?`**
+
+> Call my produce supplier before end of business today. Not to renegotiate — just to touch base, confirm next week's order, and let him know I am still here and planning ahead. Keep the relationship warm.
+
+*Reasoning: When small businesses start to fail, suppliers are the first to feel the warning signs — slow payments, reduced orders, cancelled deliveries. I am not in that position and I do not want my supplier to wonder. A three-minute call that says 'same order, same schedule, see you Thursday' is worth more than its cost. Supplier trust is the kind of thing you build in good times and spend in bad ones. I am still in good times, relatively. I should act like it.*
 
 
 
@@ -12472,11 +13170,93 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 *Emotion: **?** · Archetype: ?*
 
+**Inner Monologue:**
+
+> RoboRide is live today. I checked the app this morning — $0.18 a mile, 15-minute wait, right here in Millfield. It's not a rumor anymore. It's not a forecast. It's an app on my phone. Last tick I had a plan and the plan apparently produced nothing — the outcome file says 'routine' and the savings says $26,060 which means I burned another $3,176 for exactly zero forward motion. I'm 54 years old. I have $26,060 and 8.2 months before that number hits something I don't want to think about. The 'routine' outcome from last tick hit me harder than I expected. I sat with it for longer than I should have. But sitting with it is the old response. The response today is: call the grant office at 8 a.m., start the applications, call Janet, post a job application. Not plan to do those things. Do them. There is a version of me that knows how to teach people to interact safely with technology they're afraid of — I've been doing it in a car for 25 years. RoboRide didn't kill that version of me. It just gave him a new classroom.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Apply for the $2,500 retraining grant through millfield.gov/grants or by calling 555-0192 — today, this morning, before I do anything else. I am a small business owner whose skill set has been directly displaced by an autonomous vehicle deployment. I meet the criteria. I fill out the application myself. I do not wait until I understand every line of it perfectly. I submit what I have and follow up if they need more. The retraining grant is for my own transition — it is not the same as the small business grant I applied for last tick (or planned to apply for — I am treating that as an open item until I have a confirmation number in hand). Two thousand five hundred dollars buys me roughly three weeks of runway. Three weeks is not nothing when every tick is costing me $3,176.
+
+*Reasoning: The 'routine' outcome last tick means my intentions did not translate into recorded actions. I do not fully understand why. What I understand is the result: another $3,176 gone and nothing to show for it. The retraining grant is the most immediate concrete step with the shortest distance between decision and execution. Phone number exists. Website exists. I am qualified. There is no planning left to do. There is only doing.*
+
+
+**Action 2 — `?`**
+
+> Call Janet Brewer at Millfield Community College and make a specific, concrete ask — not a listening call, not an exploratory conversation. I already did the listening. I already did the exploring. This call has one purpose: to propose a pilot workshop and ask if there is a path to run it. The pitch is two sentences: 'Janet, I want to propose a four-session adult workshop on sharing the road with autonomous vehicles — how to drive alongside them, when to yield, what their sensors see, how to stay safe in a mixed-traffic environment. Can we talk this week about whether the college can host it?' That is the whole pitch. I do not oversell it. I do not apologize for it. I let her tell me yes, no, or who else to call.
+
+*Reasoning: AV-adjacent driving safety training is genuinely more needed now that RoboRide is live, not less. People in Millfield are going to be sharing roads with autonomous vehicles starting today. Many of them have never done that. The liability, the confusion, the near-misses — these are real. A four-session community college workshop on 'sharing the road with AV technology' is something I am uniquely positioned to teach and something the market will actually want. This is not a consolation prize version of my old job. This is a new course that did not exist before this week and that I am the most qualified person in Millfield to teach. Janet Brewer is the door. I knock on it today.*
+
+
+**Action 3 — `?`**
+
+> Follow up on the $5,000 Small Business Stabilization Grant I planned to apply for last tick. I do not know if that application went in — the outcome record says 'routine' and that means I cannot confirm it. I treat it as not submitted. I locate the application, I confirm whether I already started it, and I either complete and submit it today or start it fresh. Business license, most recent tax return, lease documentation, one-page narrative on how RoboRide Phase 2 directly eliminates the market for my core service. The narrative writes itself — I have been living it.
+
+*Reasoning: The $5,000 grant and the $2,500 retraining grant are two separate programs for two separate purposes. The small business grant stabilizes the school. The retraining grant funds my own transition. I need both. The fact that I planned this last tick and did not execute it — that 'routine' outcome — is exactly the pattern I am breaking today. Planning without executing is not action. It is a more comfortable form of avoidance.*
+
+
+**Action 4 — `?`**
+
+> Post one job application to an adult education or workforce development teaching position this week. Not a speculative inquiry — an actual application to an actual posted position. I search: Millfield Community College adjunct postings, Millfield Unified Adult Ed postings, county workforce development coordinator roles, any posting that uses the words 'instruction,' 'adult learners,' 'workforce transition,' or 'safety training.' I apply to the best match I find. I use the right-column framing: I am not a driving instructor applying for a job. I am an adult educator with 25+ years building competence in learners who believe they cannot do hard things, now specializing in workforce and safety transitions in an AV-disrupted economy.
+
+*Reasoning: The community college workshop is a medium-term income source with a 4-8 week lead time. A part-time or adjunct teaching contract is a parallel track that could produce income faster if a position exists and I apply now. I have been undervaluing my pedagogical credential — two and a half decades of adult instruction is a real qualification in a market where adult education programs are chronically understaffed. The framing matters. I am not applying as a man whose industry collapsed. I am applying as someone whose skills are transferring into a growth area.*
+
+
+**Action 5 — `?`**
+
+> Look at the teen licensing market one more time with clear eyes. RoboRide launched today on main roads and commercial routes. It does not serve rural routes. It does not sit the road test. It does not satisfy the legal requirement for a driver's license. Teenagers in Millfield still need a licensed instructor to earn their license. I identify whether any of my former competitors have closed or reduced capacity. I send one email to the parents of students I've worked with in the past 18 months with a direct, honest message: 'Licensing requirements haven't changed. If your teen needs instruction, I'm still here and I have availability.' This is not desperation marketing. This is a factual statement to people who already trust me.
+
+*Reasoning: I have been so focused on the pivot that I may be abandoning a revenue base that has not fully disappeared. Teen licensing is legally mandated. RoboRide does not change that. If even two students re-enroll at my standard rate, that is meaningful income against the $3,176 monthly burn. I do not rebuild the business on this. But I do not leave money on the table while I wait for the pivot to pay out.*
+
 
 
 #### Amir Patel  ·  `gas_station_owner`
 
 *Emotion: **?** · Archetype: ?*
+
+**Inner Monologue:**
+
+> The machines are on my street now. I watched one pass the station this morning — white, quiet, no driver, just a sensor array on the roof like a crown nobody earned. It did not stop. It will never stop here. I know that. What I do not know yet is how many of my regular customers decide they do not need to drive themselves to work next month, and the month after that. So I am counting. I am calling. I am getting the number on the charger install that I have been avoiding because knowing the number makes the question real. My father did not fight the supermarket, but he also did not close the shop the day it opened. He counted his regulars. He found out what they still needed that the supermarket could not give them. That is the question I am living in right now: what do people still need from me that the machine cannot give them? I do not have the answer. But I am asking.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Station-level traffic observation: for the next five business days, log the pump count every two hours — 7am, 9am, 11am, 1pm, 3pm, 5pm, 7pm. Also note whether the commercial route that runs past my station on Millfield Ave shows any RoboRide vehicles, and at what frequency. This is a logbook, not a study. Pen and paper behind the register. I need a baseline before RoboRide penetration deepens.
+
+*Reasoning: I have spent two ticks gathering information from research and other people. Now that the service is live, I have direct observational access for free. The numbers I record this week become the comparison point for every future decision I make. I cannot know if volume is dropping without knowing what volume looked like on launch week. My 25 years on this corner are an asset here — I know what a normal Tuesday looks like. I will know if something changes.*
+
+
+**Action 2 — `?`**
+
+> Contact Maria Santos's office — not the task force, her direct office — and ask two specific questions: (1) What is the expected timeline for the small business stabilization grant decisions? (2) Is there any supplemental information the committee wants from applicants in the fuel retail or Auto Row-adjacent category? Frame the call as an applicant following up responsibly, not as a supplicant. Keep it under ten minutes. Take notes.
+
+*Reasoning: The grant application is submitted. Waiting passively is not a strategy. A single professional follow-up call accomplishes three things: it signals to Maria's office that I am engaged and serious, not just a paper-filer; it might yield timeline information that helps me plan cash flow; and it keeps a human channel open with the Economic Transition Task Force ecosystem even though I am not a member. I have a legitimate reason to call. Priya reviewed the application with me — this relationship network is not ornamental, it is functional. Use it.*
+
+
+**Action 3 — `?`**
+
+> Call Priya Nair — not about insurance yet, just a check-in. Tell her the grant is in and I wanted to thank her again for the review. Then ask her, as someone who works with small business clients: is she seeing any other Auto Row businesses reaching out about coverage changes, or any commercial clients asking her about business interruption insurance related to the AV transition? Listen for what she knows without asking her to violate anything. Then ask what a basic business interruption policy or commercial liability review would cost for a fuel retail operation my size — just a number to have.
+
+*Reasoning: I have no insurance coverage. This is a real vulnerability that I have been aware of and not addressing. I cannot afford to pretend that is fine — I have four dependents and a property asset. But I am also not going to rush into an insurance product I have not evaluated. Priya is a trusted connection, she already knows my situation from the grant review, and a conversation with her is free. Getting a premium estimate is free. Deciding whether to purchase is a separate step. My 2008 conditioning says: the expensive moment is always the one you were not covered for.*
+
+
+**Action 4 — `?`**
+
+> Pull the EV charging research from tick 2 — the vendor quote I was going to seek — and actually make that call this week. One vendor. One quote. Ask specifically: what does a dual-port Level 2 commercial charger installation cost at an existing gas station, what permits are required in Millfield, and what network revenue share models exist (ChargePoint, Blink, or similar). Write the number down. Put it next to the five-day fuel log. Do not share it yet.
+
+*Reasoning: I committed to getting this number last tick and did not do it — the grant application took priority. That is fine. But I cannot keep deferring the EV question while RoboRide is now physically operating. The charging infrastructure question is not about committing to conversion. It is about knowing whether that option is financially possible at all with my current resources. If the install is $80,000, the conversation is different than if it is $12,000. I cannot have an informed strategy without the number. My father's rule: negotiate with real numbers, not invented ones.*
+
+
+**Action 5 — `?`**
+
+> Walk over to Kenji Watanabe's auto parts store — not a call, a walk, because in-person reads the room better — and report back what I have been seeing. Not alarm, not projection. Fact-based: 'RoboRide launched today, I'm watching my numbers this week, thought I'd check in on yours.' Ask if he is tracking transaction volume. Ask if he has heard anything from the Regional Auto Group side about restructuring timelines. If he is open to it, propose a very low-stakes information-sharing arrangement: text each other weekly with pump counts and foot traffic observations. Two data points are better than one.
+
+*Reasoning: Last tick I proposed reaching out to Kenji and the detail shop. I need to follow through. A weekly text exchange costs nothing and builds exactly the kind of early-warning network that small businesses on the same block should have. If Kenji's parts sales are already dropping, I know something real. If they are stable, I know that too. My social proof sensitivity (0.57) means other people's behavior is data for me — not to copy blindly, but to calibrate against. I am not alone on this row and I should stop behaving like I am.*
 
 
 
@@ -12484,11 +13264,93 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 *Emotion: **?** · Archetype: ?*
 
+**Inner Monologue:**
+
+> Both of them reached out the same tick. Patricia with the offer, Rick with the probe — and neither of them knows the other moved first, or that I have already modeled both conversations before either one happened. That is not a coincidence, it is a timeline. They have decided I am a flight risk and they are managing me. What they have not fully accounted for is that I was never going to leave without something in hand — which means the $12K is closer to fair market value for my cooperation than it is to a gift. I am going to accept it. I am going to negotiate two clean terms first. And I am going to be genuinely useful in the transition role, because the methodology I build there is the first chapter of the consulting practice I'm standing up behind this. The title is not a poisoned chalice. It is a credential — as long as I define the exit date before I walk in.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Call Patricia before the 48-hour window closes and accept the offer — with two non-negotiable modifications: (1) the clawback provision must be defined precisely, not vague. She wants language that specifies exactly what triggers clawback and what does not — specifically, that if the company initiates departure rather than Angela, the $12K is hers to keep. (2) the title 'Director of Organizational Transition' must come with a written definition of scope and timeline — specifically, a defined end date of 90 days, after which her obligations conclude cleanly. She will tell Patricia: 'I've thought carefully about this. I want to do this work. I have two questions about the terms before I say yes formally.'
+
+*Reasoning: The $12K is real money. The title is real IP. The work is work she is already doing informally — documenting process continuity, mapping organizational structure for a smaller viable entity, managing communication sequencing for RIF planning. Accepting formalizes compensation for what she is already contributing. The modifications she is requesting are standard employment attorney guidance and Patricia will not be surprised by them — she will likely be reassured that Angela is taking it seriously rather than looking for an exit.*
+
+
+**Action 2 — `?`**
+
+> Respond to Rick's probe with measured openness, not disclosure. When Rick asked 'what would you need to feel secure in your role over the next six months,' the answer Angela gives him is true but incomplete: 'Clarity on what the role looks like in six months. I can manage uncertainty well, but I manage it better when I understand what we're building toward.' She does not mention the Patricia lunch. She does not mention the attorney. She does not mention the consulting entity. She asks Rick a reciprocal question: 'What's your read on where Patricia wants to take the organization from here?' — and she listens carefully to what he does and does not say.
+
+*Reasoning: Rick's probe was a control move, not a genuine offer. He wants to slow her exit signal. The right response is to give him something true that does not accelerate his alarm — and to turn the conversation into an intelligence opportunity. What Rick says about Patricia's direction tells her whether Rick has been read in on the restructuring conversation or is operating on instinct. That distinction matters for how she navigates the next 60 days internally.*
+
+
+**Action 3 — `?`**
+
+> Update the private intelligence memo with this tick's organizational signals. Specifically: (a) Patricia's closed-door session with all four GMs is now visible to Angela through the meeting room booking and the fact that she processes organizational communication. Note who was in the room, when, and that the agenda was not disclosed to her in advance — which is itself unusual. (b) Check whether any benefits administration queries have been rerouted or whether new vendor authorization paperwork has appeared for outplacement services or legal. (c) Note the David Chen fragment — 'memo to regional VP' — which likely relates to the auto sector exposure in a broader portfolio. Compile, date-stamp, and store offline.
+
+*Reasoning: Her information advantage is perishable. The moment her transition role becomes visible to the floor, the organizational paperwork that normally flows through her will begin to be filtered. She has a window of approximately 30-45 days of full access. Every piece of signal she documents now is both situational awareness for her exit timing and anonymized IP for her consulting practice. The memo is already started from last tick. She is adding this tick's data.*
+
+
+**Action 4 — `?`**
+
+> Make one direct consulting outreach this tick. Target: a single contact from her professional HR network — someone at a non-auto regional employer, healthcare or logistics preferred — who she has a genuine prior relationship with. The message is short: 'I've been doing some thinking about the work I want to do next. I'm in the early stages of building an HR consultancy focused on workforce transition and organizational design during disruption. Would you have 20 minutes for a coffee conversation in the next few weeks? I'd value your perspective.' No pitch deck. No website link yet. Just the conversation.
+
+*Reasoning: The consulting entity exists. The web presence is minimal but live. The next step is not more infrastructure — it is a human conversation with someone who might eventually become a client, a referral source, or a reference. She does not need to have her whole offering defined before she has this conversation. She needs to put a stake in the ground with one trusted professional contact before she is formally in transition mode. The best time to be findable is before you need to be found.*
+
+
+**Action 5 — `?`**
+
+> Review the organizational paperwork flowing through her desk this week specifically for signals of externally-engaged HR consultants or outplacement vendors being scoped. If she sees a vendor inquiry, a contract routing document, or a preliminary SOW from an outside HR consulting firm, she notes it but does not flag it internally and does not interfere with it. She is looking for the specific signal: is Patricia planning to bring in outside workforce reduction expertise, which would mean Angela's transition role is supplemental, or is Angela intended to be the primary architect, which would mean her role is load-bearing and the title is real?
+
+*Reasoning: The 'Director of Organizational Transition' title can mean two very different things: it can mean she is the lead architect, trusted and empowered, or it can mean she is the visible face of a process being designed by outside consultants, which would make her the internal target when the decisions become painful. Knowing which is true before she signs shapes what modifications she asks for. If external HR consultants are already being scoped, she negotiates a narrower scope and a shorter timeline. If she is the primary architect, she negotiates more authority and clearer deliverables.*
+
 
 
 #### Priya Sharma  ·  `insurance_agent_priya`
 
 *Emotion: **?** · Archetype: ?*
+
+**Inner Monologue:**
+
+> RoboRide is not coming anymore — it launched today, $0.18 a mile, fifteen minutes, they have the main roads covered. The 25-policy number is not a projection, it is this week's fact. I am spending more than I earn right now and the market I sell into is actively shrinking. The good news — if I am going to call it that — is that I can see the whole board in a way that Tom and Jake and Amir cannot, and I have a seat at a table Maria Santos just built that is going to tell me things before they become headlines. I need to stop feeling like I am building toward something and start knowing what the something is, specifically, and then do that instead of a general approximation of it. Grant committee, Module 3, Amir, the name of the job I actually want — four real things. The repositioner earns the label by repositioning, not by describing herself as someone who repositions.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Accept the grant committee appointment from Maria Santos's office and respond formally this week.
+
+*Reasoning: Maria named me — Priya Nair, which is me — to the grant committee alongside Nadia Osei and Robert Dunbar. This is not a favor to accept passively. This puts me in a room where I see which businesses are applying, what their distress patterns look like, which sectors are adapting versus folding, and who the decision-makers in Millfield are actively trying to support. That is a real-time economic intelligence feed that no one else in my position has access to. It also means Maria Santos knows my name in a context that is not 'sells car insurance.' The credential value is secondary. The access is the thing. I respond formally, I show up prepared, and I do not treat this as an honorific.*
+
+
+**Action 2 — `?`**
+
+> Complete SQL Module 3 tonight — specifically the section on JOIN operations if that is where Module 3 lands.
+
+*Reasoning: Module 1 was the proof I could start. Module 2 was the proof it was a habit and not a single event. Module 3 is the proof that habit holds when RoboRide is actually live and the stress level goes up and the easier thing is to open LinkedIn and doom-scroll job postings instead of sitting with a tutorial that makes me feel incompetent before it makes me feel capable. The course is the long-term investment. It does not produce income this month. But every module I skip pushes the employability date further out, and I cannot afford to let the horizon drift. I also have a concrete use case now: the grant committee will surface data about local business applications, sector distributions, funding patterns. If I can eventually analyze that data, I am not just a committee member — I am a contributor with a skill the committee does not currently have. That is the specific intersection I am building toward.*
+
+
+**Action 3 — `?`**
+
+> Follow up on the $2,500 retraining grant application status — and if it is not yet processed, contact millfield.gov/grants directly.
+
+*Reasoning: I applied last tick. The outcome record from tick 2 shows only Module 2 completion — no confirmation of grant submission, which mirrors the pattern from tick 1 where I said I would apply and the outcome was ambiguous. I need to know: did the application actually go through, or did I open the form and not finish it? If I am now on the grant committee and have not applied for the grant I am eligible for, that is a specific kind of irony I cannot let stand. I check the status. If it is pending, I note that. If it was never submitted, I complete and submit it today — it is not a complicated form, Maria's office designed it for speed, and $2,500 at my current burn rate is approximately 0.75 months of runway. I do not leave money I qualify for sitting on a government server because I got distracted.*
+
+
+**Action 4 — `?`**
+
+> Follow Linda's model and make contact with Amir Patel to offer business continuity insurance review — specifically commercial property, business interruption, and liability.
+
+*Reasoning: Amir owns a gas station and I already reviewed his grant application — he knows my name in a context where I helped him, not sold to him. That is a warm lead. His business is under real pressure from RoboRide: fewer cars on the road eventually means fewer fill-ups, fewer oil changes, less foot traffic. He is applying for a small business grant to adapt. He has not necessarily reviewed whether his insurance coverage reflects his current risk profile. Business interruption coverage becomes more relevant, not less, when a business is navigating structural disruption. I reach out — not as a sales call, but as a follow-up from the grant work. 'I was thinking about your application and wanted to make sure your coverage isn't a gap as you're planning the next phase.' That is a sentence a trusted advisor says. It is also, incidentally, a sentence that could produce a policy. I am following Linda's model: when auto shrinks, find the adjacent commercial need.*
+
+
+**Action 5 — `?`**
+
+> Name the target career destination — write it down, specifically, and hold it for one week to see if it still feels true.
+
+*Reasoning: I have been building toward something for three ticks now. SQL modules. Data analyst job searches. 'Insurance operations and data analysis background' on a resume. But I have not named the specific destination. That is a gap in my planning that my low future_orientation (0.37) is happy to leave unfilled — ambiguity is comfortable because it cannot be wrong. But I am on a grant committee now. I am watching a sector contract. I am three SQL modules into a pivot. I owe myself a concrete answer to: what is the actual job? The most honest answer, looking at the Venn diagram of my skills, is: data analyst role at an insurance carrier, reinsurer, or insurtech company — specifically in underwriting analytics, risk modeling, or claims pattern analysis. Not actuarial, because the credentialing timeline is wrong for my situation. Not generic 'data analyst' at a random company, because my insurance knowledge is a genuine edge I should price, not abandon. I write this down tonight, after Module 3. I give it a week. If it still feels right after living with it, it becomes the north star that my SQL modules and job applications are actually pointing at — not a vague 'something with data.'*
 
 
 
@@ -12496,11 +13358,93 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 *Emotion: **?** · Archetype: ?*
 
+**Inner Monologue:**
+
+> Twenty-five policies. I keep doing the math because doing the math feels like control, and it is control, but the answer keeps coming out the same. I went to the town hall. I sat in the back. I took notes on paper like a man who is not ready to admit why he's there. That ends this tick — I'm applying for the grant because the $2,500 is real and my ego is not a retirement plan. Linda is selling fleet coverage and I don't know enough about what that actually means to know if I can do it, so I'm going to find out. The rumor about RoboRide is probably true. Cheap per mile, launching soon — I've heard it from two places now, which is how things go from rumor to confirmation in a town this size. I am not panicking. I am 52 years old and I have been through 2008 and I have been through COVID and I know what it feels like to be on the right side of having made a quiet, careful decision early enough that it looked like foresight instead of desperation. That is what I am trying to do. Quietly. Before anyone sees me doing it.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Apply for the $2,500 retraining grant through millfield.gov/grants. Call 555-0192 to confirm application status and ask specifically whether the grant covers commercial lines certification or CE credits toward P&C commercial endorsements, not just the community college general track. Get the application submitted before the end of the week.
+
+*Reasoning: I went to the town hall. I sat in the back. I took notes. I spent $508 of my own money to be in that room. If I don't apply for the grant that room was advertising, then the only thing that trip accomplished was making me feel like I'm doing something when I'm not. The $2,500 is real money — it is five months of the gap between what I earn and what I spend. There is no rational reason not to apply. The identity cost of applying is higher than the financial cost of not applying, and I am aware enough now to know that is a trap, not wisdom.*
+
+
+**Action 2 — `?`**
+
+> Call the regional manager and ask directly — not casually, not framed as 'expanding the practice' — whether there is a defined path for a personal auto agent to move into commercial lines or fleet insurance within the agency structure. Ask what Linda's role involves. Ask what certifications are required. Ask if the agency would support a transition or if it would require an external move.
+
+*Reasoning: Last tick I was going to make this call 'casually.' I was going to frame it as expanding the practice. I was going to pretend it wasn't what it is. That framing protected my ego at the cost of clarity. Linda is operating at a different level — she is pitching fleet coverage to what I assume is RoboRide or similar commercial operators. That is where this market is going. The question is whether I can get there while still inside this agency, or whether the agency's structure requires me to be something else. I need the answer to that question. The casual framing wastes a real conversation.*
+
+
+**Action 3 — `?`**
+
+> Contact all 25 active policyholders this week — not to pitch, not to upsell, not to save the book — but to check in. 'Rates are holding steady for your renewal.' 'I wanted to make sure you had my direct number.' 'If anything changes in your situation, call me first.' Relationship maintenance, not desperation. They should hear steadiness from me, not anxiety.
+
+*Reasoning: Twenty-five policies is what I have. I cannot recover the five I've lost — I've understood that since last tick. But I can lose five more through neglect or through clients sensing that I've already mentally let them go. The relationship is the only differentiator I have left in a market where my product is becoming optional. If they're going to stay with personal auto insurance through this transition period, they stay because Tom Bradley calls them and knows their name and remembers that James Patterson's daughter learned to drive in that Civic. That costs me nothing but time and it is the last moat I have.*
+
+
+**Action 4 — `?`**
+
+> Research commercial lines and fleet insurance certification requirements independently, separate from the regional manager conversation. Look up what the CE requirements are for adding commercial lines endorsements to a P&C license in this state. Find out what a fleet insurance policy actually looks like — premium structure, coverage scope, loss ratio profile. Understand what Linda is selling before I walk into any conversation about whether I can sell it too.
+
+*Reasoning: The rumor about RoboRide — cheap per mile, launching now — means autonomous or semi-autonomous vehicle fleets are real and proximate. Linda is pitching coverage at $2,500-$4,000 per vehicle per year for commercial fleets. If there are 50 vehicles in a fleet, that's a $125,000-$200,000 annual premium book from one client. That is not what I sell. What I sell is $1,200 a year from James Patterson. The math is not subtle. I don't know enough yet to know if I can make this transition, but I know enough to know I need to find out. And I need to walk into that regional manager call already knowing the basics, not asking him to explain the product to me.*
+
+
+**Action 5 — `?`**
+
+> Do not make any large financial commitments this tick. Defer the car payment autopay review, defer any discretionary spending over $100, and calculate exactly how many months of runway remain at the current burn rate. Run the numbers on paper. Know what the floor looks like.
+
+*Reasoning: I have 10.7 months of runway at my current expense level. My income is $508 below my expenses per month. If nothing changes, my runway shortens by roughly one month every three months faster than I expect. I need to know exactly what I'm working with. Not an approximation — the actual number. I have two dependents. I have a $427 car payment. I have a credit score of 789 which is an asset I have not used. I am not in crisis. But the distance between 'not in crisis' and 'in crisis' is made of months, and I need to count them honestly. I will not make a panicked decision. But I will not pretend the number isn't there.*
+
 
 
 #### Linda Park  ·  `insurance_manager`
 
 *Emotion: **?** · Archetype: ?*
+
+**Inner Monologue:**
+
+> Twenty-five policies. I ran the curve the moment that number arrived: if the rate holds, I hit my trigger threshold at tick 4 or 5 — but RoboRide is live today, which means the rate accelerates, not holds. The interesting thing is that the same event that's collapsing my book is also creating a new insurance market from scratch — RoboRide's vehicles need coverage, and someone is going to write that business. I have spent two ticks building a pipeline. This tick it starts to close, or I reassess what closing looks like.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Follow up directly with my fleet risk contact today — not by email, by phone. The framing shifts now that RoboRide is live: 'I wanted to reach out the day it launched because this is the moment the commercial fleet question becomes real. Does your team have appetite to underwrite autonomous vehicle fleets, and is there a conversation worth having about whether I join that effort?' This is not a soft inquiry. This is a direct signal that I am available, that I have the context, and that I move when the market moves.
+
+*Reasoning: RoboRide's launch is a forcing function. The fleet risk contact I activated two ticks ago and followed up with last tick now has a concrete market event to respond to. Every day I wait, someone else with fleet underwriting experience is making the same call. My 15-year local market knowledge and existing relationships are a real edge — but only if I deploy them before the window closes. If this contact has an open role or knows of one, today is the day to close the distance.*
+
+
+**Action 2 — `?`**
+
+> Call Tom Chen, my commercial lines underwriter contact at the regional carrier level, and ask one direct question: is there an appetite to quote commercial fleet coverage for RoboRide's Millfield vehicles, and can I bring that relationship? I am not certain I can place this business — RoboRide may have national carrier relationships already. But I have a local market presence they don't have, and a carrier who wants to enter this segment needs someone who can sit across from RoboRide's operations manager. If the carrier has interest, I schedule an exploratory meeting with both parties within the week.
+
+*Reasoning: RoboRide needs commercial fleet insurance. That is a fact as of today. My personal auto book is shrinking. A commercial fleet account of even 15-20 vehicles at $2,500-$4,000 per vehicle annually is $37,500-$80,000 in premium — meaningful enough to change my book's composition and my employer's view of my value, even as personal auto declines. This is not a long-shot play. It is a logical adjacency that I have the relationships to pursue, and pursuing it costs me one phone call.*
+
+
+**Action 3 — `?`**
+
+> Send a brief, professional check-in to the healthcare system (risk/compliance division) and municipal government (risk management office) where I submitted applications last tick. Subject line: 'Following up — Risk Management Application, Linda Park.' Two sentences: confirm continued interest, note that my work this week includes active risk modeling for autonomous vehicle market impacts, which is directly relevant to enterprise and public-sector risk portfolios. Attach an updated one-page summary of relevant experience.
+
+*Reasoning: Applications without follow-up are noise. A targeted follow-up within one week of submission is standard professional practice and statistically increases callback rates. The RoboRide launch gives me a genuine, timely hook — I am literally managing the risk transition in real time. That is not spin, it is accurate, and it differentiates me from other applicants who have not lived inside this disruption.*
+
+
+**Action 4 — `?`**
+
+> Proactively contact my top 8 personal auto policyholders — the ones with the highest premium value and longest tenure — not to retain the auto policy at all costs, but to have an honest conversation about their transportation plans. Open question: 'With RoboRide now live, I wanted to check in and make sure your coverage still fits your actual life.' This positions me as a trusted advisor rather than a retention caller. For clients who are reducing car usage, explore whether they need renter's insurance, personal liability coverage, or life/health products if they are among the workers whose employment has changed. Convert the conversation, not just the policy.
+
+*Reasoning: My auto book is going to shrink. That is not a question. The question is whether the client relationships I have built over 15 years follow me out the door or stay with AutoShield. If I can convert even 3 of 8 conversations into a cross-sell on another product line, I slow my book's revenue decline. If I can't convert them but I've had a genuine conversation, I maintain the relationship for wherever I land next. Either way, this is the right action. Letting policies lapse silently without a conversation is a passive choice that costs me both revenue and relationship capital.*
+
+
+**Action 5 — `?`**
+
+> Email Maria Santos's task force coordinator and offer a specific, bounded contribution: I will prepare a one-page risk modeling brief on how autonomous vehicle adoption typically affects local insurance markets, premium volumes, and associated municipal tax revenue from insurance premium taxes. I am not joining the task force as a standing member — I don't have the bandwidth — but I can contribute a specific analytical deliverable that is genuinely useful, that puts my name and expertise in front of the town's economic resilience planning process, and that takes me roughly 3 hours to produce.
+
+*Reasoning: Maria's task force is where Millfield's economic response is being coordinated. My risk expertise is exactly what they need and don't have — Maria's staff knows policy and community programs, not actuarial modeling. Contributing a concrete deliverable gets my name attached to the town's institutional response to disruption, which is relevant to any future role in municipal risk management and demonstrates community leadership that hiring managers in the public sector value. It also costs me 3 hours, which is a small investment with a high signaling return.*
 
 
 
@@ -12508,11 +13452,93 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 *Emotion: **?** · Archetype: ?*
 
+**Inner Monologue:**
+
+> RoboRide is live. I knew it was coming and here it is — $0.18 a mile, commercial coverage, main roads. The auto loan pipeline does not recover from this. David is making changes I have not been briefed on yet, and the word-of-mouth means it is already spreading in the branch, which means I am one of the last people to hear it officially. That is fine — I am not waiting to be briefed. I am walking to the mortgage desk this morning and I am walking into David's office tomorrow with a portfolio summary and a progress update, and I am doing both of those things because the institutional clock is now running on someone else's schedule, not mine. Seven and a half months of runway with 2 dependents is a number I look at every morning. The mortgage track is not a backup plan anymore. It is the plan.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Walk to the mortgage department in person today — before lunch if possible. Introduce myself as an enrolled NMLS trainee and ask to observe a closing. The specific ask: 'I am enrolled in the NMLS-approved mortgage origination course and I need two live closing shadows for my practicum requirements. Do you have a closing scheduled in the next two weeks where I could sit in as an observer?' Log the conversation in the NMLS course portal as a practicum coordination contact. If a closing is confirmed and attended this tick, log it as practicum hour one of two required.
+
+*Reasoning: This was the explicit next step in my inbox bulletin. I said I would do it this tick — in tick 2 I flagged it as the lagging element in the 30-day milestone. Shadows require someone else's calendar, which means the scheduling gap compounds if I do not initiate today. The 30-day milestone is modules 1-4 plus two live shadows. Curriculum is on track. Shadows are the only piece I cannot control unilaterally. This action converts that dependency into a confirmed date. In person matters: email requests from outside the department get deprioritized. Walking in as a colleague who is enrolled and has a specific ask gets a date.*
+
+
+**Action 2 — `?`**
+
+> Approach David Chen directly today or tomorrow — not as a formal meeting request, but naturally, the way a professional who is paying attention would. Frame it as a credit risk coordination question: 'I want to make sure my client outreach and pipeline work is aligned with any criteria adjustments you are making — I have noticed the application profile has been shifting.' Give him the easy opening. Then give him the update he does not have to ask for: 'I am on track for modules 1-4 by end of month, and I am setting up my first live closing shadow today. I wanted you to hear that from me directly.' Do not ask him to reveal the details of his tightening criteria. Let him choose how much to share. The point is to make my progress visible to him before Sandra Okafor or anyone above David makes a decision that removes his discretion.
+
+*Reasoning: The word-of-mouth confirmed David is making institutional moves. His tick 3 decision — which I cannot see but whose effects I am feeling — involves formalizing a pathway for me by Thursday. I do not know that specific detail, but I know David is watching. The right play is to be the person who walks in with information rather than waiting to be summoned. This is not anxiety management — it is reading the institutional clock correctly. David's discretion over my transition is finite. The VP-level escalation from last tick means decisions may be made above his head. My window to shape this is now.*
+
+
+**Action 3 — `?`**
+
+> Complete NMLS modules 5-6 this week. The course pace is 90 minutes per day of study. Modules 1-4 are either complete or nearly complete based on the enrollment timeline from tick 2. Modules 5-6 likely cover underwriting fundamentals and federal disclosure requirements — core competency areas where my lending background gives me an edge. Do not skip ahead. Log each module completion in the course portal with timestamps. The documentation trail matters: when David or Sandra needs to verify progress, the portal shows dates, not just assertions.
+
+*Reasoning: Credentials without a paper trail are assertions. Assertions do not survive institutional restructuring conversations. My lending background means the underwriting concepts are not foreign — I should be moving through these modules faster than a candidate without finance experience. The 30-day milestone requires modules 1-4, but the full NMLS originator exam requires all modules. Every module I complete ahead of schedule is compounding optionality: it shortens the timeline to the exam, which shortens the timeline to my first mortgage origination, which shortens the timeline to income replacement. At a negative $80/month margin, I need that timeline to move.*
+
+
+**Action 4 — `?`**
+
+> Conduct a focused review of my active auto loan portfolio: identify the 15-20 accounts with more than 18 months remaining where the borrower's income or employment is in auto-adjacent sectors — dealership staff, fleet operators, transportation workers, delivery drivers. Flag these internally in the CRM with a watchlist note: 'RoboRide deployment — monitor employment status Q2-Q3.' Do not contact borrowers yet. Prepare a clean one-page account summary for David: here are the accounts with elevated exposure to the RoboRide displacement effect, here is what I recommend monitoring, here is the timeline. Bring this to David in the same conversation as action 2.
+
+*Reasoning: David's criteria tightening is about exactly this risk. I can add value to his decision-making right now by doing the account-level triage that a VP memo cannot do. This is also how I manage my existing role to the end — not abandoning the auto loan function but stewarding it responsibly while I build the next one. Bringing this deliverable to David in person accomplishes three things: it demonstrates I am managing the wind-down professionally, it gives David concrete data for his Sandra escalation, and it creates a natural reason for the career conversation without forcing it.*
+
+
+**Action 5 — `?`**
+
+> Do a quiet household budget review this week — not a crisis review, a methodical one. The gap between income ($5,115) and expenses ($5,195) is currently $80/month negative. Runway is 7.5 months. The grant application is filed but not received. Identify one discretionary line item that can be trimmed by $150-200/month without affecting dependents or professional development spending. The goal is not austerity — it is returning to a slightly positive margin while the mortgage track builds toward income replacement. Car payment ($349) and housing ($1,737) are fixed. Look at discretionary categories: subscriptions, dining, incidentals.
+
+*Reasoning: Seven and a half months of runway with 2 dependents is adequate but not comfortable. A negative monthly margin, even a small one, erodes runway every tick. I have HIGH agency (0.70) and LOW normalcy bias (0.32) — I am not going to pretend the negative margin is fine because it is only $80. Small leaks become meaningful over a 6-month horizon. This is a 30-minute review that protects the runway. The grant may arrive in 30-60 days and change the picture. Until it does, I maintain the buffer.*
+
 
 
 #### Carlos Ruiz  ·  `mechanic_carlos`
 
 *Emotion: **?** · Archetype: ?*
+
+**Inner Monologue:**
+
+> RoboRide launched today. I read that on my phone before I got out of bed. I lay there for three minutes and then I got up, because lying there doesn't change anything. I have the paper. I know what the gap is. I know what it costs. Asking Patricia this morning is the most frightening thing on my list and it is also the most obvious thing, and I have been a mechanic long enough to know that the obvious fix is usually the right fix. I am 47 years old and I have worked with my hands my whole life and I am not going to let a bad week take me down quietly. I am going to walk into that office and ask the question. She may say no. She may say she doesn't know. But she will not be able to say that Carlos Ruiz waited until it was too late and did not ask.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Walk into Patricia's office before the morning rush — 7:45am, before the first vehicle comes in — and ask her directly about EV service capacity at this shop. Bring the paper. Lay it on her desk. Say: 'I spent 90 minutes on the EVT Level 2 requirements. My electrical systems certification covers most of the prerequisites. The gap is about $1,400 in coursework and 60 hours of supervised training. I want to know if this shop is building toward EV service, and if so, whether the company will help fund that path.' One question. Wait for the answer.
+
+*Reasoning: He committed to this last tick — 'Asking Patricia is the kind of thing a man with 23 years and a mortgage does instead of waiting for a memo.' He now has the research. He has the paper. He has the specific numbers. The status_quo_bias will tell him it is too soon, that he should wait until things are clearer, that bringing this to Patricia is presumptuous. That is the bias talking. He has 6.5 months of runway and three kids. Clarity is worth the discomfort. He is not asking for charity — he is asking a strategic business question about where this shop is going, and he is doing it with 23 years of earned standing.*
+
+
+**Action 2 — `?`**
+
+> After the conversation with Patricia — later in the morning, during a natural lull between bays — tell Sarah Kim what he learned about EV certs. Not as a speech. As a craftsman talking to another craftsman. Share the prerequisite mapping. Show her where his ASE certs already land. Let her ask questions. This is not Carlos fixing the situation for Sarah; it is Carlos treating her as a peer who deserves the same information he now has.
+
+*Reasoning: Sarah probed him last tick — 'you've been quiet this week.' He gave her an honest but non-disclosing answer. She noticed. She will notice again. He owes her more than managed silence. His community_ties (0.79) are not just about Millfield in the abstract — they are about the people he works next to every day. Sarah is the next generation of this shop. If he shares the map, she can start her own assessment. That is the thing a lead mechanic does: he does not hoard the diagnostic data.*
+
+
+**Action 3 — `?`**
+
+> If a call or email comes in from Maria Santos about the task force, say yes immediately. Do not ask for more information before agreeing. Do not say 'let me think about it.' Say yes, ask when the first meeting is, and write it down.
+
+*Reasoning: He does not know he is on the task force yet, but if Maria reaches out, his first instinct will be to hesitate — the status_quo_bias will frame it as time he does not have, exposure he did not ask for, a meeting about problems he cannot solve. That framing is wrong. A task force convened by a city council member is real community infrastructure. His community_ties (0.79) and his faith in something larger than the individual transaction align with this. He cannot leave Millfield. He might as well help shape what Millfield becomes.*
+
+
+**Action 4 — `?`**
+
+> Tonight, at the kitchen table, tell Elena the full picture as he now knows it. Not as crisis. As planning. Put the paper on the table: the EV cert prerequisites, the cost, the gap, the timeline. Tell her what he asked Patricia. Tell her what Patricia said. Walk her through the 6.5-month runway number. Ask her if there is any flexibility on their monthly spend that he has not been seeing. Then stop talking and let her respond.
+
+*Reasoning: He committed to honesty with Elena last tick. He had the conversation about the general situation. This tick the situation has sharpened — RoboRide is live, he has real numbers from his research, and he has taken a real action by talking to Patricia. Elena is a co-decision-maker. She may be calculating their finances with a different set of assumptions than he has. She may know things about her own income flexibility. She has been a partner for 20 years; treating her as one means giving her the current numbers, not the ones that protect her from worry. The loss_aversion multiplier makes this conversation feel more dangerous than it is.*
+
+
+**Action 5 — `?`**
+
+> Keep doing excellent work in the bay today. First vehicle in gets the same Carlos who has been here 23 years. The diagnostic is thorough. The communication with the customer is clear. The repair is right. This is not separate from the survival strategy — it is the foundation of it. His role security (0.77) rests on reputation that was built one job at a time and can only be maintained the same way.
+
+*Reasoning: It would be easy, under this level of threat, to let the quality slip — to be distracted, to phone in the diagnostics, to do the minimum. That is the trap. His identity attachment (0.8) to being a mechanic is not only a source of grief right now; it is also a source of performance. He is the lead mechanic because he is the best one here. That is not incidental to his survival — it is central to it. Patricia's decision about whether to fund his certification, whether to keep the service department, whether he is load-bearing in the next version of this shop — all of that is influenced by whether he is visibly excellent this week.*
 
 
 
@@ -12520,11 +13546,86 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 *Emotion: **?** · Archetype: ?*
 
+**Inner Monologue:**
+
+> Carlos said 'the EV thing' like it was already a settled matter in his head, not a question he was still working out — and that's the part I keep coming back to. He's not worried about whether it's happening. He's working out what to do about it. That's a different posture. I keep telling myself the shop is fine today, and it is, but 'fine today' and 'fine in six months' aren't the same sentence and I've been using them interchangeably. The Maria Santos rumor is too vague to mean anything yet, but I want to know the actual word — whatever follows 'second public stat.' Words like that don't float around without something attached to them.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `?`**
+
+> Process and catalog what Carlos said when I probed him. He engaged — he mentioned the EV thing. Maybe said something like 'just looking into some certification stuff' or 'the industry's changing.' Whatever it was, it confirmed he's actively researching, not just vaguely worried. I'm writing this down mentally: Carlos is in motion. That's meaningful data.
+
+*Reasoning: My most actionable information this tick came from that probe. The outcome confirmed he engaged rather than deflected — he said something about EVs or certs. Carlos is deliberate. If he's researching something, it's because he's already concluded the situation is real. My availability heuristic makes his signal vivid and hard to dismiss. My normalcy bias wants to say 'he's just thorough, that's Carlos,' but the sector data plus his behavior is two data points pointing the same direction. I'm logging this as a meaningful signal, not ambient noise.*
+
+
+**Action 2 — `?`**
+
+> During lunch break, spend 20-30 minutes on my phone actually looking at what EV mechanic certifications exist — specifically ASE L3 (Light Duty Hybrid/EV) and whether my existing ASE electrical cert gives me any credit or fast-track. Not enrolling. Not deciding. Just reading the actual requirements page so I know what the terrain looks like.
+
+*Reasoning: I started this last tick in the abstract — I was going to do a 60-90 minute research session. But now I have a more specific prompt from what Carlos said. He gave me a direction. My future_orientation (0.63) pulls me toward wanting a concrete picture of what an adaptation path would look like, even if I don't take it. My normalcy bias keeps this from being a commitment — I'm just reading. But reading is different from not reading. This is the second step in the watcher-to-adapter arc: last tick I confirmed the signal was real, this tick I start mapping the territory. Cost: zero dollars, 25 minutes.*
+
+
+**Action 3 — `?`**
+
+> Ask Zoe or one of the other shop employees if they know what Maria Santos actually did or announced — something about a council vote. Keep it casual. 'Hey, did you see anything about what the mayor's office put out? Someone mentioned something.' Don't show that it's meaningful to me.
+
+*Reasoning: The word-of-mouth fragment I got was truncated — 'after the council vote, issue a second public stat...' That sounds like a policy announcement. Maria Santos is the mayor. If she's putting out public statements about something related to the auto sector or transportation or employment, that's important context. My professional_network is the shop grapevine. Zoe has talked before about local news. This is a low-cost information probe that might give me a fragment — not the full picture, but a fragment. It costs nothing and might connect a dot. My social_proof_sensitivity is low (0.42), so I'm not doing this because everyone else is doing it — I'm doing it because I want to know what the signal means.*
+
+
+**Action 4 — `?`**
+
+> Notice — without acting on it — that I still have no health insurance. Look at my bank account. $15,947 saved, $499/month surplus. The math says I could afford a basic ACA marketplace plan. I don't sign up. But I let myself see the number clearly and acknowledge that one bad thing happening — a car accident, a bad cut at work — could erase months of savings. File it as 'I know this is a gap and I am choosing not to fix it right now.'
+
+*Reasoning: My normalcy bias (0.68) has kept me from engaging with this vulnerability. Mechanics get cuts, strains, the occasional serious injury. I have $16K saved but if I needed an ER visit I could lose $4-8K of that in a night. I'm not going to sign up this tick — the normalcy bias is still pulling hard and there's no immediate trigger — but I want to at least be honest with myself that I'm carrying this risk deliberately, not accidentally. Making it a conscious choice rather than an avoidance is a tiny step in agency. Nothing spent, nothing signed, but the gap is now labeled.*
+
 
 
 #### Denise Williams  ·  `parking_garage_mgr`
 
 *Emotion: **?** · Archetype: ?*
+
+**Inner Monologue:**
+
+> RoboRide is live and I have a proposal with numbers on it — that is not a coincidence, that is timing. The concept note becomes a business proposal this week, the grant either unlocks or I fund it myself, and three more applications go out with a story attached that I did not have two ticks ago. I manage a physical building; I understand what it takes to retrofit infrastructure, run vendor contracts, and hit a budget. That is exactly what EV charging conversion requires, and it is exactly what property management firms hire for. The garage launched my next chapter. I just have to close it.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Convert the concept note into a formal one-page business proposal for the building owner. Specific numbers: Millfield currently has approximately 847 registered EVs (estimate from DMV data trend + county EV adoption rate of 4.2%). Level 2 commercial EV chargers cost $3,000-$6,000 per unit installed including electrical work. DC fast chargers cost $15,000-$40,000 per unit. A 4-unit Level 2 installation on the lower level runs approximately $18,000-$24,000 total, or $20,000 as the working number. Per-charge revenue at market rate ($0.25-$0.35/kWh) on a 40kWh average session = $10-$14 per charge. At 8 sessions per unit per day across 4 units: $320-$448 daily gross, or $9,600-$13,400/month. Net of electricity cost (roughly 40% margin) = $5,760-$8,040/month new revenue. Payback on $20,000 installation: 2.5-3.5 months. Propose to owner: designate lower level bays 1-8 for EV charging, upper deck bays A1-A6 as RoboRide staging/pickup zone with signage. Contact RoboRide operations through their fleet partnership inquiry page to ask about contracted parking agreements for vehicle staging between trips.
+
+*Reasoning: The concept is solid. The numbers work. But a concept note sitting in my files does nothing — it needs to be on the owner's desk as a formal proposal with ROI projections they can take to a lender or capital budget. I am not asking the owner to be visionary; I am giving them a 2.5-month payback calculation and a new revenue line in a period where their old revenue line is about to soften. That is a conversation a building owner will have. Also: if the owner implements this and it succeeds, I have a concrete case study — 'I identified a $5,760-$8,040/month revenue opportunity and designed the operational model' — that I can use in every property management interview I have for the next three years.*
+
+
+**Action 2 — `?`**
+
+> Track today's garage utilization as a formal baseline data point. Pull the entry/exit log for the last 14 days and calculate daily average occupancy rate, peak hours, and transient versus permit holder split. Record today's numbers specifically. This is the start of a time series that will tell the real story of RoboRide's impact on my facility — and it gives me operational data I can reference in the EV proposal ('current utilization rate is X%, peak-hour conversion to EV charging represents Y% of existing capacity').
+
+*Reasoning: A manager who shows up to a business conversation with data is different from one who shows up with a feeling. The owner, any potential acquirer, any future employer, and any grant committee will all respond better to 'occupancy data over 14 days shows transient volume peaked at 91% in weeks 1-2 and we are watching for trend deviation post-RoboRide launch' than to 'things seem about the same.' I am building the documentation habit I will need whether I stay and run this conversion or leave and reference it in interviews. The data costs me 45 minutes today.*
+
+
+**Action 3 — `?`**
+
+> Follow up on the $2,500 retraining grant application submitted last tick. Check millfield.gov/grants for status. If no status update is available online, call the office directly and ask for a processing timeline. While I have them on the phone, ask a specific question: does the grant cover Yardi Voyager property management software certification ($800) and OSHA 30-hour Facilities Management track ($400) as standalone online certifications, or does it require enrollment in an accredited institution? If it covers both, I can begin enrollment immediately and submit receipts for reimbursement. If it requires institutional enrollment, I need to know now so I can identify an accredited program that offers both.
+
+*Reasoning: The grant is money I applied for last tick and have not yet confirmed. Following up is a 20-minute task that either unlocks $2,500 or tells me to stop waiting and front the cost myself — both of which are better outcomes than continuing to not know. The Yardi certification specifically is the single most actionable credential gap I have relative to property management job postings. Every week I wait to start it is a week my applications go in without it.*
+
+
+**Action 4 — `?`**
+
+> Submit 3 targeted job applications this tick, specifically chosen to leverage the EV charging / facility conversion angle as a differentiator. Target roles: (1) Commercial Property Operations Manager at a regional REIT that manages mixed-use and retail portfolios — frame the application around infrastructure management under market disruption. (2) Facilities Director at the Millfield Regional Medical Center — healthcare facilities are not disrupted by RoboRide, are actively hiring operations talent, and my compliance and safety background translates directly. (3) Municipal Infrastructure and Facilities Coordinator — the town hall gave me contact exposure; the Maria Santos session put my name in front of city staff as a subject-matter voice, not just a community member.
+
+*Reasoning: Nine applications are in the pipeline from last tick. Adding three this tick maintains momentum and — more importantly — these three are chosen specifically because I now have a differentiating narrative. I am not just a parking garage manager looking for a lateral move. I am an operations manager who identified a $5K-$8K/month infrastructure conversion opportunity in response to market disruption and is executing it. That is a different cover letter than anything I could have written at tick 1. The EV proposal gives me a story. Stories get interviews.*
+
+
+**Action 5 — `?`**
+
+> Read the full community bulletin from the town hall. Angela Wright accepted Patricia's restructuring architect role — 90-day end date. David Chen is making some kind of change. Note what others are doing and where the adaptation patterns are clustering. Specifically: identify which Millfield employers appear to be growing or restructuring (those are the ones creating openings), and note any sector that is actively absorbing displaced workers. Also check whether RoboRide's commercial zone coverage means my garage is now inside or adjacent to a RoboRide pickup zone — because if it is, that strengthens the staging/charging proposal significantly.
+
+*Reasoning: I attended the town hall to get information I can act on. Angela's move tells me the restructuring economy is creating roles — and that people are moving. David Chen's change is incomplete information but signals that the adaptation wave is real and immediate among people I know. The bulletin is intelligence. Managers use intelligence. I am spending 30 minutes reading it carefully rather than skimming it once and moving on.*
 
 
 
@@ -12532,11 +13633,93 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 *Emotion: **?** · Archetype: ?*
 
+**Inner Monologue:**
+
+> I have been telling myself I am watching carefully, and I have been — but the Carlos conversation last tick was not just intelligence gathering, it was a purchase order in disguise, and I have been slow to fill it. He told me exactly what his shop is going to need. I need to have it on the shelf before he finishes his certification, not after. The sector index at 89 on the same day a ride-share service goes live in Millfield is not two separate data points — it is one signal that says the auto sector here is already absorbing the shock, and the mechanics who adapt fastest will be the ones still buying from me in three years. I am not panicking, and I am not waiting — I am placing a small, deliberate bet on a customer conversation I know was real.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Place a starter EV parts order — a small, deliberate test position. Based on what Carlos told me last tick: 12V auxiliary battery systems, EV-rated brake fluid (DOT 4 LV spec), high-voltage insulated gloves and PPE, and thermal management coolant for battery packs. Target total outlay under $1,200 at cost. One to two units of each SKU — not a bet, a probe. Identify one supplier from my tick 2 research who distributes to independent shops without requiring OEM dealer account status.
+
+*Reasoning: Carlos named specific categories. He did not speculate — he told me what his shop is going to need based on certifications he is already pursuing. That is the most direct demand signal a supplier can receive. I am not ordering on a hunch; I am ordering on a customer conversation with a forward-leaning mechanic who has been right about the direction of his own work. A $1,200 test position that sits on the shelf is an education. A $1,200 position that sells inside 45 days tells me to triple down. Either outcome is worth having.*
+
+
+**Action 2 — `?`**
+
+> Call Carlos Ruiz this week — a short follow-up to our tick 2 conversation. The question I want answered: did anything happen this week that moved his EV certification forward? Has he heard anything from his shop's supplier side about EV parts availability? I am not fishing for Patricia's internal decisions — I am asking Carlos what is happening with Carlos, because Carlos is my customer and that is a normal thing to track.
+
+*Reasoning: The DIRECT_IMPACT messages I have been receiving suggest Patricia is moving fast toward a service department EV strategy. I did not hear that from Carlos — I heard it through other channels. But I can hear from Carlos what the ground-level reality looks like. If he tells me he walked into a meeting with Patricia's team this week, I know the institutional direction and the mechanic direction are aligning. If he says nothing happened, I know there is a lag between strategy and execution that gives me more time. Either answer is useful. The call costs nothing and keeps the relationship warm.*
+
+
+**Action 3 — `?`**
+
+> Apply for Maria Santos's $5,000 small business grant. Research the eligibility window, application requirements, and framing this week. Submit the application before end of week. The application narrative: auto parts business in active inventory transition to serve an evolving mechanic customer base, adding EV-adjacent product lines in response to documented local demand shift. The grant funds the EV parts pilot directly — it is a legitimate and accurate framing.
+
+*Reasoning: I noted this at tick 2 and did not execute on it because I was focused on the Carlos conversation. That was the right call for tick 2. Now I need to follow through. Maria's program is real — Patricia attended her town hall, which means the political will and the funding are both live. $5,000 in non-dilutive capital is 1.3 months of expenses. It does not reduce my savings. It does not increase my debt. It specifically funds the EV parts test I am already planning to run. There is no cost to applying and a meaningful upside if awarded. Every week I delay is a week closer to the window closing or the funds being allocated.*
+
+
+**Action 4 — `?`**
+
+> Audit my current supplier list for EV parts capability. Call or email two of my primary ICE parts distributors this week and ask directly: do they carry EV-rated brake fluid, auxiliary 12V battery systems, or high-voltage PPE? If yes, I can consolidate EV parts purchasing with existing relationships and existing net terms. If no, I need a dedicated EV supplier account, and I should open one now while I have time to negotiate terms rather than scrambling when demand arrives.
+
+*Reasoning: I spent tick 2 doing desktop research on the EV supply chain. Now I need to convert that research into actual supplier relationships. The worst outcome is reaching the point where mechanics need parts and I do not have an account open with a supplier who carries them. Account setup, net terms negotiation, and minimum order thresholds take time. Getting that infrastructure in place now, before the orders are urgent, is the kind of lead-time advantage that a big box store cannot replicate. They have the SKUs but they do not have my supplier flexibility or my ability to special-order within 24 hours for a known mechanic account.*
+
+
+**Action 5 — `?`**
+
+> Review the past two ticks of order patterns across my active mechanic accounts. Flag any customers whose order volume is tapering — even slightly — versus those whose volume is holding steady or growing. This is not an intervention; it is a read. I want to know, before I hear it from the customer, whether anyone is pulling back on ICE parts in a way that suggests they are already shifting their business mix.
+
+*Reasoning: The sector index is 89. That number is an aggregate — it does not tell me which specific accounts are changing. My own order data will. If Marcus at Eastside Auto ordered 40% less brake hardware this month than last month, that is a signal I need to read before I interpret it as random variation. The mechanics who are successfully transitioning to EV will change their parts mix first. I want to see that change coming in my own sales data, not discover it when an account goes quiet. This also tells me which customers to invest more relationship time in versus which are already drifting.*
+
 
 
 #### Stephanie Morris  ·  `real_estate_agent`
 
 *Emotion: **?** · Archetype: ?*
+
+**Inner Monologue:**
+
+> RoboRide is live today and I have been holding this thesis for three ticks — the city that gets a robotaxi network is not the same city it was yesterday, and the properties inside that network just changed value whether or not their owners know it yet. Angela Wright taking the restructuring role is the other shoe dropping: Patricia is not hoping to survive the disruption, she is engineering a smaller company through it, and a 40% footprint reduction means commercial real estate decisions are coming in 90 days. I am not scrambling — I am already positioned in front of both of these events, which means the question is not what to do but in what order to move. RoboRide gets the call today because today is the first day they exist as a vendor relationship, not a research subject. Auto Row gets the call this week because 90 days is not very long and I would rather be the person they trusted before the news broke than the person they called after. The task force is the third leg: Millfield is going to make decisions about where infrastructure goes and what gets rezoned, and those decisions will determine which repositioning plays I am building actually work. I want to be in that room not as an observer but as the person with the data.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Make direct contact with RoboRide's real estate or operations expansion team today — the launch is the opening. Draft a concise, professional outreach email to RoboRide's business development or real estate team. Lead with a single sentence establishing local authority: I am a 15-year commercial real estate specialist in Millfield, a Phase 2 launch city, with an existing inventory of large-format, EV-ready parcels. Ask for a 20-minute call to understand their real estate criteria as they scale operations. Reference specific property types I can offer: high-visibility corner parcels, large paved lots with existing power access, and covered structures suitable for fleet staging or maintenance. Prepare a one-page Millfield market brief tailored to AV infrastructure siting — parcel size, grid capacity, zoning, proximity to RoboRide route corridors — to attach or follow with.
+
+*Reasoning: Two months ago this was research. Today it is a live company with revenue and infrastructure needs. They launched in Millfield because Millfield met their road coverage criteria — which means they may want to plant roots here as the network grows. Every day I wait on this outreach, I risk another broker making the introduction first. I have the research, the inventory, and the market knowledge. The call is the minimum viable action, and today is the right day to make it.*
+
+
+**Action 2 — `?`**
+
+> Contact two Auto Row property owners with a discreet, owner-first conversation about the Regional Auto Group restructuring and what it means for their asset. Do not lead with the bad news. Lead with the question: 'Are you aware that your largest corridor anchor is modeling a 40% footprint reduction with a 90-day timeline?' Bring a one-page scenario brief for each property showing: (a) current estimated value under auto-sector lease continuation; (b) projected value trajectory over 18 months if the tenant pool compresses; (c) repositioning value if converted to EV-adjacent, last-mile logistics, or mixed-use commercial. Target the Korvath dealership lot and the Route 9 service station owner first — both have the physical characteristics that make them attractive to the incoming tenant types, and both owners have been in my orbit long enough that this call is a courtesy, not a cold outreach.
+
+*Reasoning: Angela Wright's 90-day mandate is not public information yet at the property owner level. The owners on Auto Row are still pricing their assets in a world where their tenants are staying. When the restructuring becomes visible — vacant bays, reduced staff, signage changes — they will want to sell or reposition in a compressed, panicked market. I want to be the broker who walked in two months early with a plan, not the one who calls when the For Sale sign goes up across the street. The first conversation is not a listing pitch. It is a strategic briefing. The listing follows from trust.*
+
+
+**Action 3 — `?`**
+
+> Build the EV and AV corridor property brief: a structured analysis of which commercial properties in Millfield — specifically along the RoboRide operational routes announced at launch — gained measurable locational value today. The brief maps RoboRide's current service coverage against commercial parcel data. Properties that now sit inside active RoboRide coverage gain a foot-traffic and access argument that did not exist yesterday. Properties near announced RoboRide hubs or high-frequency stops gain even more. Identify the top 8-10 parcels in Millfield that are immediately more valuable today than they were last week, with a paragraph rationale on each. This brief has two uses: (a) as a prospecting tool to approach property owners who may not realize their asset just appreciated; (b) as an investor pipeline tool for buyers looking to acquire properties with AV-era locational upside.
+
+*Reasoning: The RoboRide launch is a one-time event that creates a permanent before/after in Millfield's property value map. The agents who document that shift in the first week own the narrative. I have been building toward this brief for two ticks. The launch gives me the final data layer I needed — actual route coverage — to complete it. This is also a direct complement to my repositioning work on the auto-sector side: the same brief that shows which auto-adjacent properties are declining in tenant demand shows which transit-adjacent properties are gaining. The story is coherent and I am the one telling it.*
+
+
+**Action 4 — `?`**
+
+> Follow up on the 4 non-responsive property owners contacted last tick. Do not re-send the same message. Send a brief, direct second-touch note: 'I wanted to circle back — RoboRide launched in Millfield today. I have a 10-minute conversation I think would be worth your time before the end of the week. Here is what I am seeing in the corridor data.' Keep it short. Include a single specific, concrete data point relevant to each owner's property type. The goal is not to alarm them — it is to demonstrate that conditions changed overnight and that I have been watching this closely enough to notice. The message signals: she called before the news did.
+
+*Reasoning: Non-responsiveness at tick 2 does not mean disinterest — it often means distraction, skepticism, or waiting to see if the situation is real. RoboRide going live today is the external validator that makes my prior outreach retroactively credible. The second touch says: I told you this was coming, and here it is. That is the most persuasive message I can send, and I do not need to write more than three sentences to send it.*
+
+
+**Action 5 — `?`**
+
+> Formally volunteer as a commercial real estate data contributor to Maria Santos' Economic Transition Task Force. Do not apply as a general participant — apply as a subject matter expert with a specific, defined contribution: I can provide the task force with a commercial property vacancy and transition analysis for the Millfield corridor on a per-tick basis. This means the task force has a real-time picture of commercial real estate exposure, adaptive reuse pipeline status, and emerging tenant demand data as they make policy recommendations on grants, zoning, and infrastructure investment. Reach out to Maria directly — not through the public application channel — to offer this. Frame it as: the task force is thinking about workers and businesses; I can make sure they are also thinking about where those businesses will be located as the corridor evolves.
+
+*Reasoning: Maria has a task force, a grant program, and the ear of the city council. The task force will make decisions about zoning variances, infrastructure investment, and adaptive reuse incentives — all of which directly affect which repositioning plays are viable in Millfield. Being embedded as a data contributor, even informally, gives me early visibility into those decisions and the credibility of operating inside the official response structure. It also gives Maria a reason to refer property owners to me: 'The person you want to talk to is already advising the task force.' My $5K grant application is also pending with this office — maintaining a direct relationship with Maria is not political, it is professional.*
 
 
 
@@ -12544,11 +13727,79 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 *Emotion: **?** · Archetype: ?*
 
+**Inner Monologue:**
+
+> I downloaded the app. Marcus helped me and it took eleven minutes, which was twelve minutes fewer than it took me to help Edna set up the telehealth portal, so I am choosing to take some satisfaction in that. Thursday I will sit in a vehicle that drives itself to the library and I will try to pay attention to what I actually feel rather than what I think I am supposed to feel. I keep remembering what I used to tell students when they were afraid of something new: the anticipation of the thing is almost always louder than the thing itself. I have been the student this week. That is not a bad thing to remember at seventy-two. The part I am looking forward to — and I notice I am using that word honestly, not performing it — is telling Connie about it on Friday morning. She will want every detail, and I will have them.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `?`**
+
+> Take the first RoboRide trip this Thursday — to the Millfield Public Library, 2.1 miles from the house. Marcus is expecting me at 2pm for the drop-in computer literacy session anyway, so I have a real reason to arrive. I will request the vehicle through the app I downloaded last week, time the wait, note the condition of the interior, observe how the routing works on the main roads, and pay attention to whether I feel safe and — the harder word — whether I feel like myself when I step out of it.
+
+*Reasoning: I told myself last tick that there is a difference between understanding a thing and having done it. I taught that principle for 37 years. This is the week I stop understanding it and start having done it. The library is the right destination: familiar, purposeful, short enough that a bad experience would be minor, and meaningful enough that a good experience would carry weight.*
+
+
+**Action 2 — `?`**
+
+> Tell three people about the ride — Connie at the Friday morning coffee she hosts, Margaret at book group Sunday, and Marcus himself when I arrive at the library. Not a sales pitch in either direction. Just: I rode one. Here is what it was actually like. Here is the fare. Here is how long the wait was. Here is what surprised me.
+
+*Reasoning: Connie has no car and takes the 47 bus. She has been managing without a vehicle for six years and I have always been faintly puzzled by how undimished she seems. A ride that costs under $2 to the library might matter very differently to Connie than it does to me. Margaret is 78 and her daughter has been pushing her to give up her license; an honest account from someone who actually tried it, without any agenda, is worth more than any number of news articles. Marcus is 29 and probably takes this all for granted, but I am curious what he thinks. Honest testimony from ordinary people is how communities actually absorb new things.*
+
+
+**Action 3 — `?`**
+
+> Reach out to Maria Santos' office — a note, not a meeting — to ask whether there is a volunteer coordination need for helping older residents learn to use the RoboRide app. I am a retired teacher with computer literacy experience, a known face at the library, and a demonstrated willingness to sit next to someone who is confused and be patient about it. If the task force is looking for that kind of help, I am available two afternoons a week.
+
+*Reasoning: Maria's statement included 'you will not be left to face this alone.' The people least likely to navigate a new app without help are elderly residents like my neighbor Edna, who is 79 with arthritic fingers and no adult children in Millfield. Edna managed the telehealth portal when I sat next to her. She would never have figured it out from a FAQ sheet. There are probably forty people in this town in Edna's situation. If there is a role for me in bridging that gap, I should take it. I have time, I have skills, and I have nothing financially pressing that would prevent it.*
+
+
+**Action 4 — `?`**
+
+> Complete the two-column financial comparison I started last tick: what the car actually costs per month in total — payment, insurance, fuel, maintenance amortized — versus what I have actually driven to over the past three months. I have the receipts and the mileage log. I will sit with the arithmetic until I understand it clearly, and then I will put it in a drawer and not make any decision about it this week.
+
+*Reasoning: Last tick I said I was ready to look at it, and looking at it is different from deciding anything. The car payment is $281. The insurance is another $89. Fuel is roughly $40 on months I actually drive meaningfully. The oil change and maintenance annualizes to about $35 a month. That is $445 a month. I drove to the library, the grocery store, church, and Dr. Patel's office over the past ninety days. The library is 2.1 miles. The grocery is 1.4 miles. Church is 0.8 miles. Dr. Patel is 3.2 miles. At $0.18 a mile, even with a base fare, I would not come close to $445 in a month of equivalent trips. That math is sitting there waiting for me to finish writing it down. I am not making any conclusions from it yet. But I need to write it down.*
+
 
 
 #### Robert Jackson  ·  `rideshare_driver`
 
 *Emotion: **?** · Archetype: ?*
+
+**Inner Monologue:**
+
+> RoboRide is live. I saw it this morning — the app icon on my neighbor's phone while he was waiting for a ride I didn't get. Three percent adoption sounds small until you're watching the first person who picked them over you. I'm not panicking. I applied for the grant. I've been driving hard. But I've been treating 'figure out the next thing' as a task I'll get to, and this week that ends — I'm picking NEMT, I'm finding the certification program, I'm pointing the grant money at something real. The 15-minute wait time and the app barrier are the cracks in their armor, and the people who fall through those cracks — the woman on Maple who doesn't own a smartphone, the guy with the oxygen tank who needs a driver who knows how to help him — those are my riders now, and I'm going to be the best option they have.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `?`**
+
+> Drive maximum available hours this week — 58 to 62 hours — targeting specifically the gaps RoboRide cannot fill: short notice pickups where a 15-minute wait is unacceptable, riders who are elderly or mobility-limited and can't operate an app, trips to side streets and residential areas outside main-road coverage, large groups or riders with luggage or medical equipment. These are not edge cases. These are my niche now.
+
+*Reasoning: Adoption is 3%. That means roughly 97% of trip requests are still coming to me. I need to capture as many of those as possible before adoption creeps higher. But I'm also doing something new this week: I'm paying attention to WHICH riders keep calling me. The elderly woman on Maple who calls directly. The hospital worker who needs pickup at 5:30am before surge kicks in. The family going to the airport with four bags. These riders are the ones RoboRide cannot easily replace. I'm not just driving — I'm mapping my defensible niche.*
+
+
+**Action 2 — `?`**
+
+> Name the retraining target before this week ends. Not research it endlessly — name it. The two options I'm taking seriously: (A) Non-Emergency Medical Transport (NEMT) — requires a state certification, clean driving record I already have, serves elderly and disabled riders who cannot use RoboRide apps and need human help, pays $18-24/hour, directly uses my local knowledge and customer service. (B) CDL Class B — opens logistics, local delivery, school transport. Costs more, takes longer, but has broader market. Decision this week: NEMT cert first, CDL as second credential. The $2,500 grant covers NEMT certification costs with money left over for study materials toward CDL permit.
+
+*Reasoning: I applied for the grant. I have not told the grant application what I'm using it for yet — and even if I did, I haven't committed to myself. That ambiguity is the thing bleeding my agency. Every week I don't name a target, I'm driving without a destination. I am 41 years old. I have a dependent. I have a 784 credit score. I have local knowledge of Millfield that took six years to build. NEMT uses all of that, starts fast, and serves people RoboRide actively cannot. CDL is the longer play. I'm picking NEMT first because the window is 3 months, not 18.*
+
+
+**Action 3 — `?`**
+
+> Track trip request volume this week versus last week. Count requests, not just completed rides. If RoboRide launch is pulling demand, I will see fewer incoming pings before I see lower earnings — the leading indicator is request volume, not income, because income can hold steady while I work harder to fill the same dollar amount. I want the real number, not the one that feels manageable.
+
+*Reasoning: I need empirical data on how fast the bleed is happening. I have a normalcy bias — I will unconsciously interpret ambiguous data as 'still okay.' Counting requests forces me to see what's actually happening. If request volume is down 5% in week 1 of RoboRide, that's a number I can track. If it's down 15%, that changes my timeline calculations meaningfully. I can't plan on feeling. I need the number.*
+
+
+**Action 4 — `?`**
+
+> Talk to Marcus. Not about the financial details — he's a kid, that weight is not his to carry. But tell him something honest about change coming. Something like: 'The way I do my job is going to change this year. I'm figuring out the next part. Things at home stay the same.' He already feels the tension I'm not naming. Giving it a small honest shape is better than letting him fill the silence with something worse.
+
+*Reasoning: I have been protecting Marcus from everything I'm carrying and it is costing me in ways I can't fully measure. I don't sleep right. I'm short with him in ways I don't like. The act of saying something honest — not the full weight, just a human acknowledgment — is part of how I stabilize. He is going to find out something is shifting. Better it comes from me, framed calmly, than from a kid's imagination. This is not a financial decision. It is the decision underneath all the financial decisions.*
 
 
 
@@ -12556,11 +13807,86 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 *Emotion: **?** · Archetype: ?*
 
+**Inner Monologue:**
+
+> RoboRide is live. Not a rumor. Not a pilot. Live, today, $0.18 a mile, fifteen minutes and someone's car shows up. Patricia ran the 40%-smaller math in a closed-door meeting and didn't tell any of us. Rick is on the lot two afternoons a week pushing floor intensity because he knows the same thing I know — the window is closing and whoever closes cars in this window keeps their job and whoever doesn't gives Patricia an easy list. I have two kids and $16,847 and 3.3 months and a mortgage I cannot miss. I am applying for that $2,500 grant today, not because it saves me, but because I do not have the luxury of pride right now. I am going to sell two used cars this week if I have to camp by the door. And tonight, after the kids are asleep, I am going to write down three job titles on a piece of paper and not show it to anyone — because that's not giving up, that's what a father does.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `?`**
+
+> Work the used vehicle floor hard this week — every shift, full presence. Target the under-$22K segment Rick has already reoriented to. Specifically: pull the current used inventory list, identify the 8-10 vehicles priced $14K-$21K that have been sitting longest, and run personal outreach to prior customers who bought new 4-6 years ago and might be open to a trade-down or a second vehicle purchase. Aim for 2 closed deals this tick at average commission of $600-$900 each.
+
+*Reasoning: Rick's floor intensity message is social proof I cannot ignore — he is telling me the window is now, not next month. My strongest skill is sales and I have 11 years of customer relationships in Millfield. The used under-$22K segment is less exposed to loan tightening (lower principal, shorter terms, more cash buyers). I need commissions now. This is the one lever I can pull this week that directly affects whether I can pay my mortgage in two months.*
+
+
+**Action 2 — `?`**
+
+> Apply for Maria Santos's $2,500 retraining grant at millfield.gov/grants or by calling 555-0192. Fill out the application this week — not next week. I am a service sector worker in auto retail facing documented industry displacement. I qualify. The $2,500 extends my runway from 3.3 months to approximately 3.8 months, which is not safety but it is margin.
+
+*Reasoning: I went to the town hall. I heard Maria name the grant, name the link, name the phone number. I took notes. The application cost is time, not money. My normalcy bias will tell me 'that's for people who've already lost their job' — that is the bias talking, not the eligibility criteria. $2,500 against a $16,847 savings balance is a 14.8% increase in my runway. A man with 2 dependents and a $1,465 mortgage does not leave that on the table because it feels like admitting something.*
+
+
+**Action 3 — `?`**
+
+> Spend one focused hour — not scattered browsing, one hour with a notepad — mapping where sales, customer service, and negotiation skills actually transfer in Millfield's current economy. Specific targets to research: insurance sales (State Farm has an office on Route 9), real estate (Millfield residential market not yet disrupted), B2B account management roles at regional distributors, and whether the RoboRide rollout itself creates any local fleet management or customer service positions. Write down 3 specific job titles and the name of one person or company to contact for each.
+
+*Reasoning: I am not quitting the dealership. But 3.3 months is not enough runway to wait until I have no choice. The research costs me one hour and produces actionable information. My identity attachment to the sales role is 0.65 — meaning I still have 35% of room to imagine myself somewhere else. I need to use that room before I'm desperate enough that it closes. This is not betrayal of the job. It is what a man with 2 dependents is obligated to do.*
+
+
+**Action 4 — `?`**
+
+> Look up the current trade-in value of my own vehicle on KBB and CarGurus — takes 15 minutes. Note what the vehicle is worth today versus what it will likely be worth in 4 months if RoboRide Phase 2 runs and general AV adoption depresses used car values in covered markets. Do not act yet. Just know the number.
+
+*Reasoning: My $608/month car payment is the largest controllable expense I have. I identified this as a vulnerability in tick 2 and then did not act on it. RoboRide being live today changes the valuation math — Phase 2 coverage will depreciate vehicles in the Millfield market. The time to know what the car is worth is before the market prices in a robotaxi city, not after. I do not need to sell it today. I need to know the number so I can decide with information instead of avoidance.*
+
 
 
 #### Tamika Jefferson  ·  `salesperson_tamika`
 
 *Emotion: **?** · Archetype: ?*
+
+**Inner Monologue:**
+
+> RoboRide is live. That's the bell I've been waiting for — it doesn't mean panic, it means the clock is real now and I already started before it rang, which is exactly where I want to be. Eight messages went out last tick and I haven't checked replies in the last 12 hours because I was on the lot. Tonight I check. Tonight I follow up. I need one of those eight to turn into a call by Thursday. The grant application is two hours of writing that buys me a month of runway — I am not too proud for that math. Angela taking Patricia's offer with a 90-day exit means someone is drawing an org chart right now that I'm not in the room for. I don't need to be in that room. I need to be closing a used Accord on Thursday afternoon when Rick walks through, and I need to have a freelance client on the line by the time Angela hands off that framework.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Follow up on the 8 outreach messages sent last tick. Check every channel (DM, email, LinkedIn) for replies. For any that replied: respond within 2 hours and propose a specific 20-minute call with two time slots this week. For any that did not reply: send a single follow-up message — different angle, shorter, no ask except a yes/no on whether this is relevant to them right now. Goal: book 2 discovery calls before Friday.
+
+*Reasoning: The outreach is already out. The conversion happens in the follow-up, not the first message. Eight messages to warm adjacent contacts should produce at least 2-3 replies at this stage. If none replied, that is data: either the message framing missed, or the contacts need a second touch. Either way, the follow-up sequence is the correct next move, not sending new cold messages.*
+
+
+**Action 2 — `?`**
+
+> Close 1-2 deals this week on the used under-$22K inventory Rick is pushing. Before each deal reaches finance, run a quick informal credit temperature check with the buyer — not a formal inquiry, just enough to know whether they're likely to clear David's new threshold. If a buyer is borderline, tighten the deal structure on the front end: lower price, shorten the financing term she recommends, get the payment number where it needs to be. Do not let deals die at the finance desk on something she could have caught earlier.
+
+*Reasoning: This is real commission income she needs, and it is the most visible performance signal Rick will see this week. The used under-$22K reorientation actually suits her — she knows how to sell to value buyers who are doing math. David's tightened loan criteria are a new variable, but she can work around them by doing better deal-structuring on her end. Losing a deal at finance after she worked it is avoidable; she needs to own the whole arc.*
+
+
+**Action 3 — `?`**
+
+> Apply for Maria Santos's $2,500 retraining grant via millfield.gov/grants. Write the application tonight or tomorrow evening. Frame the application honestly: service sector worker in automotive retail, actively building a parallel track in freelance social media and digital marketing, specific skills being developed (content strategy, small business client management, platform analytics). Reference the Upwork and Contra profiles as evidence of active transition. Keep it factual, short, and direct — this is not a sob story, it is a documented career transition that fits the exact program criteria.
+
+*Reasoning: This is $2,500 that requires no client to say yes and no deal to close. The application takes 2 hours. She paid into the tax base that funds it. Maria designed this program for exactly her situation. The normalcy bias that makes people hesitate on public support programs costs money she should not leave on the table. Runway is the variable she is managing — this extends it by nearly a month.*
+
+
+**Action 4 — `?`**
+
+> Watch Angela's new posture and listen for any HR signals without asking questions or showing interest. Angela is now architect of the workforce restructuring. The things to track: Does HR schedule any all-hands or one-on-ones outside the normal cadence? Does Angela begin doing floor walks? Does the tone of Monday pipeline reviews shift from performance to role-definition? None of these triggers an action yet — they are early-warning signals. She notes them and says nothing.
+
+*Reasoning: Angela's 90-day transition timeline means the restructuring framework will be handed off in roughly 60-75 days. Tamika is not in the room where that decision gets made, but she can read the signals that precede it. The discipline is passive observation only — no conversations at work about what Angela is doing, no visible concern, no questions to colleagues. She is just paying attention.*
+
+
+**Action 5 — `?`**
+
+> Price out the cost and process of filing a sole proprietor DBA in the county — this is 30 minutes of research, not a commitment to do it this tick. The $5,000 small business stabilization grant may require a registered business entity. She needs to know the answer before she decides whether to apply for that fund. If the DBA costs under $75 and takes a week to process, the math is obvious. She does not need a business bank account yet — she just needs to know the threshold requirement so she can decide next tick.
+
+*Reasoning: She flagged this in tick 2 as an open question. Leaving it unresolved delays a potential $5,000 application. This is a 30-minute research task that removes a decision blocker. If a DBA is required and cheap, she files it. If the stabilization fund has different eligibility criteria that she already meets, she applies sooner.*
 
 
 
@@ -12568,11 +13894,86 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 *Emotion: **?** · Archetype: ?*
 
+**Inner Monologue:**
+
+> The savings number went up last tick and I need to keep that going — the Saturday shift is the thing that makes the math actually work instead of just technically working. I heard about the RoboRide launch twice today and I'm going to look it up tonight because $0.18 a mile is a number I didn't expect and I'd rather understand it than dismiss it. My job is not the problem. I say that to myself sometimes because it's easy to absorb everyone else's anxiety at the hospital, everyone talking about what's changing and what's being replaced — I chart patients, I put in IVs, I hold people's hands at 3am when they're scared. Nobody is automating that. My problem is the credit score and the thin margin and the fact that a single bad month could undo three good ones. That's the thing I'm actually managing.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `?`**
+
+> Deposit $200 into emergency savings. Same as every tick. Auto-transfer fires on the 1st — I don't touch it, I don't think about it, it just goes.
+
+*Reasoning: This is the one financial habit that's actually working and the rule exists precisely so I don't renegotiate it when I'm tired or when the week was hard. Savings grew $285 last tick. That's the system doing what it's supposed to do. I keep feeding it.*
+
+
+**Action 2 — `?`**
+
+> Pick up one Saturday overtime shift this tick. Same ask I made last tick — check with the charge nurse Thursday. The hospital needs weekend coverage and I have the seniority to get it.
+
+*Reasoning: The Saturday shift worked last tick. It added real money without destroying the week. One shift is roughly $325-$350 after taxes. I can't build runway on $570 surplus alone — the overtime is what moves the needle. My sister can cover my daughter. This is the lever I actually have access to.*
+
+
+**Action 3 — `?`**
+
+> Don't do anything yet about RoboRide — but actually look up the fare structure tonight. Five minutes. Just numbers.
+
+*Reasoning: I heard about it twice today and I'm not the kind of person who ignores a thing twice. $0.18 a mile is the number that went around at work. I don't know if that's accurate or what the wait times are or whether it even runs near my neighborhood at 5am. I'm not changing anything until I understand it. But the grocery run is four miles each way. The school is two miles. If the math actually works for daytime errands, that's real money that's not going into my gas tank or toward tire wear. I need to know the real number before I decide it's irrelevant.*
+
+
+**Action 4 — `?`**
+
+> Pay every bill on time this month — no exceptions, no grace period testing. Set a reminder if I need to.
+
+*Reasoning: Credit score 623 is not a crisis but it's a problem with a slow solution. I can't pay down the balances fast enough to move it dramatically. What I can do is make sure I'm not accidentally making it worse. On-time payment history is the single biggest factor. I know this. I need to act like I know this every month, not just when I'm thinking about it.*
+
 
 
 #### Dale Cooper  ·  `truck_owner`
 
 *Emotion: **?** · Archetype: ?*
+
+**Inner Monologue:**
+
+> RoboRide is live and everybody in that town hall was treating it like a funeral. I'm sitting in the back row thinking: somebody has to pour the concrete pads for those charging stations. Somebody has to run conduit and pull permits for the panel upgrades when every commercial garage in Millfield decides it needs to be EV-ready. That somebody has a truck, knows how to read a site plan, and has been doing this work for twenty-three years. I closed bids through 2008 and through COVID. I'm not closing this one. Henderson either signed or he didn't — I'll know by Wednesday — but either way I've got three new conversations to start and a laborer to pre-position before this pipeline gets busier than I can handle alone. The disruption people are scared of is the same disruption that is about to fill my order book.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Confirm Henderson bid status. If signed, log the contract, schedule the start date, and collect the deposit — typically 30% of $38,000 means $11,400 hitting this month. If not yet signed, one final call: the price is locked, the crew window is this window, and I need an answer this week. If he says no, I thank him and move on. I don't chase bids that have gone cold.
+
+*Reasoning: I set Friday as a hard deadline last tick for a reason. Letting a bid drift past its deadline trains clients to slow-walk everything. Henderson is a dealership owner watching RoboRide launch day. If he hasn't signed by now, his hesitation is about his own business outlook, not my price. A clean close or a clean release — either one is better than a floating maybe that ties up my crew calendar.*
+
+
+**Action 2 — `?`**
+
+> Make three targeted calls into AV and EV infrastructure opportunity: (1) Call the Millfield municipal public works department — ask whether the city has any EV charging station installation projects in the planning phase, either for city lots or the transit hub. (2) Call a commercial electrical sub I work with regularly — find out if he's been getting calls for panel upgrades and EV charger rough-ins from property managers. (3) Drive past the two largest commercial parking lots on the north end of town and note whether any developer or property management signage has gone up. These are reconnaissance calls, not formal bids.
+
+*Reasoning: RoboRide launched today. That means the people who own the physical infrastructure — parking lots, commercial garages, fleet yards — are starting to think about what they need to do to their properties. EV chargers need 240V circuits, concrete pads, and conduit runs. A staging area for autonomous vehicles needs site grading, lighting, and access hardscape. That is textbook contractor work. The firms who get called first are the ones who already have a relationship with the decision-maker. I don't wait for bids to go public — I'm in the room before the bid is written.*
+
+
+**Action 3 — `?`**
+
+> Reach out to two commercial property contacts about adaptive renovation work: (1) The property manager for the strip on the east end of Auto Row who I did parking lot drainage work for two years ago — ask what their tenants are talking about, whether any spaces are going vacant or being reconfigured. (2) The facilities manager at the medical office complex on Route 9 — I quoted them a break room renovation they didn't pull the trigger on. Healthcare sector income is recession-resistant, and that building is ten years old.
+
+*Reasoning: The news I picked up from the town hall tells me Patricia Hawkins is modeling a 40%-smaller company. That means she's thinking about consolidating physical space, subleasing, or reconfiguring. She's not the only business owner having that conversation right now. Commercial renovation and retrofit work follows business restructuring — it always does. The businesses that shrink their footprint still need a contractor to build out their new configuration. The ones that pivot still need an electrical upgrade. I'm not chasing residential homeowners who are watching their spending. I'm going where the commercial decisions are being made.*
+
+
+**Action 4 — `?`**
+
+> Evaluate whether to bring on a part-time laborer for the next 60 days. I have one current active job, the Henderson project likely incoming, and two or three new bid conversations starting. If two of those convert, I'm going to be stretched. A day-laborer I've used before — solid, shows up on time, knows the work — is available at $220/day. I don't put him on the books full-time, but I want to know he's available on a call-up basis before I need him and he's gone.
+
+*Reasoning: My surplus is $1,819 a month and growing. My savings are $49,136. I'm not hiring out of desperation — I'm hiring to protect quality and protect my timeline commitments, which is what protects my reputation. A contractor who says yes to two jobs and delivers one on schedule loses the next referral. If the pipeline is about to get busier — and I believe it is — I want capacity ready before the jobs are signed, not after.*
+
+
+**Action 5 — `?`**
+
+> Continue recession-resistant pipeline development: follow up with the county facilities office about the deferred maintenance list I flagged last tick. Municipal and institutional work — county buildings, school maintenance, library — is funded by tax revenue, not consumer confidence. It doesn't correlate with the spending index. Even a $12,000 maintenance contract is a month of steady work I don't have to bid against consumer anxiety.
+
+*Reasoning: Diversification is not panic — it is arithmetic. If residential discretionary work softens 20% over the next two ticks and I have nothing outside of it, I feel that. If I have one municipal contract running as a baseline, I don't feel it at all. I started this conversation last tick. This tick I follow through.*
 
 
 
@@ -12580,11 +13981,93 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 *Emotion: **?** · Archetype: ?*
 
+**Inner Monologue:**
+
+> Another routine week — savings up, no surprises, nothing in the inbox except that 3% robotaxi number I keep seeing. Honestly I'm not sure what to do with that figure. Three percent is small. My rides felt normal this week. But I made a note to ask Dani what she's been seeing on her shifts, because sometimes you notice something before you can name it. The real thing I'm focused on is getting the advisor meeting locked down — I need to know exactly how many clinical hours I have left and when the next block opens. The bridge is the hard part, not the destination. I know that. I just need to keep walking.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Continue peak-hour rideshare driving this week — Friday evening, Saturday morning airport block, and one Thursday evening session. Maintain the earnings pace that generated the $206 savings delta last tick. Track trip request volume and wait-time patterns mentally as a canary for any demand softening I can't yet explain.
+
+*Reasoning: Routine outcome last tick confirms the strategy is working. The inbox shows nothing that changes the driving calculus — 3% robotaxi adoption is low and hasn't shown up as reduced demand in my experience. I drive the same zones, same windows. What I'm adding is attention: if I start getting fewer pings on a Thursday evening than I expect, that's data I need to remember even without a headline to attach it to.*
+
+
+**Action 2 — `?`**
+
+> Follow up with my nursing program advisor on the exact clinical hours remaining and the next assignment or competency deadline. Last tick I mapped the timeline — this tick I execute on that map. Identify the single next concrete milestone: what is due, when, and what I need to prepare.
+
+*Reasoning: The nursing timeline is my exit from financial precarity. Mapping it last tick was necessary; acting on it this tick is what converts that information into actual progress. I need to know: is the next clinical block scheduled? Is there a simulation lab requirement I haven't signed up for? Is there a competency exam window I should register for now? The sooner I lock these dates down, the less risk of a scheduling surprise extending my time in school — and in rideshare dependency.*
+
+
+**Action 3 — `?`**
+
+> Verify the refinanced car loan payment has cleared at the new, lower rate. Confirm the actual monthly payment reduction in my budget — not the estimated number from the application, the real number. Update my monthly expense tracker accordingly so the $413 surplus figure reflects actual post-refi cash flow.
+
+*Reasoning: The refinance was the key action from last tick. If it cleared correctly, my monthly expenses dropped and my real surplus is now higher than $413 — which is meaningful given a 1.6-month runway. If there was a processing delay or error, I need to know now, not in three weeks. This is a 10-minute verification task with material financial impact.*
+
+
+**Action 4 — `?`**
+
+> Look into the Millfield Community College retraining grant or any financial assistance tied to the nursing program for students with strong credit. David Chen's name has come up in conversations — he's apparently involved with some bank partnership for retraining participants. I don't have details. I'll ask the financial aid office at MCC whether there are any bank-partnered programs I haven't tapped.
+
+*Reasoning: I have a 796 credit score. That's an asset that most students in my cohort don't have, and I haven't fully used it. The car refinance was one application. But there may be program-linked financial products — a bridge loan at favorable rates, a tuition assistance line, or a grant tied to workforce retraining — that I qualify for specifically because of my credit standing and my enrollment in a healthcare program. Millfield has nursing shortages. Those shortages have funding attached. I should find out if any of it applies to me.*
+
+
+**Action 5 — `?`**
+
+> Ask one or two other rideshare drivers I know — casually, between shifts or via text — what they're seeing in trip volume lately. Not paranoid, just checking. The sector data says 3% robotaxi adoption and I've heard that number before, but I don't always know what's happening at ground level until someone who drives the same zones tells me.
+
+*Reasoning: My information sources are direct experience and professional network. The inbox this tick was almost empty — just the sector number and a routine outcome. That's not much to work with. The most reliable signal I have is what I actually experience in the car and what other drivers notice. If there's a new rideshare competitor or a route change or something happening with surge patterns, another driver will mention it before it shows up anywhere official. I'm not panicking — I'm maintaining situational awareness.*
+
 
 
 #### Zoe Martinez  ·  `young_gig_worker`
 
 *Emotion: **?** · Archetype: ?*
+
+**Inner Monologue:**
+
+> I've been watching the whole board and the thing I kept not saying out loud is: everyone ahead of me in the hierarchy is already moving. Tamika has an exit plan. Kevin is retraining. Patricia is restructuring. I applied for the grant and told myself that was the move, but I never answered the question behind the question — retraining for WHAT? Today I answered it. Digital marketing. I already do this — I post, I understand engagement, I know what content converts. I just don't have the credential that makes an employer take a meeting with me. The Google certificate gives me that in six months for $300. That's the plan. Now I need to stop analyzing and start executing: call the grant office Monday, apply to Amazon Flex tonight, and spend one evening this week running the math on Denver. I'm 23 and I have no one depending on me. That's not a limitation — that's the only real asset I have right now.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `?`**
+
+> Follow up directly on the grant application status. Call 555-0192 and check millfield.gov/grants this week — get a timeline for disbursement. If the $2,500 is approved, I need to know: (a) when it arrives, (b) what it must be spent on per grant terms, (c) whether approved programs include online certifications. Do not wait for them to contact me. Be the squeaky wheel.
+
+*Reasoning: I applied last tick. Grant money does not materialize passively — I need to know if I'm approved, when I get paid, and what strings are attached. The retraining grant is only useful if I know what I can legally spend it on. If they require enrollment in a specific accredited program, that narrows my options in ways I need to know NOW so I can plan. Three weeks of passive waiting on a $2,500 decision I already submitted for is money I don't have time to leave sitting.*
+
+
+**Action 2 — `?`**
+
+> Decide what the $2,500 retraining buys. The answer has to be: a Google Career Certificate in UX Design or Data Analytics, or a Coursera/LinkedIn Learning certification in Social Media Marketing. My skills are customer_service, social_media, food_service, gig_platform_experience. The social media path is the shortest bridge — I already do this, I just don't have credentials. A Google Digital Marketing certificate takes 3-6 months, costs $200-300, and is recognized by employers. The $2,500 gives me runway while I complete it, not just tuition. Target: enroll in Google Digital Marketing & E-commerce Certificate via Coursera within 2 weeks of grant confirmation.
+
+*Reasoning: This is the question I have been avoiding. Retraining without a destination is just delay. My current skills have 0.2 relevance — I need to close that gap fast and with the lowest possible barrier. I am not going to medical coding or CDL driving or anything that requires 12-18 months and prerequisites I don't have. I need a 3-6 month credential in a field that hires remotely, pays more than $2,800/month, and is directly adjacent to what I already do. Social media marketing and digital marketing are that field. Entry-level digital marketing coordinator roles in larger cities pay $38,000-$48,000/year — that's $3,166-$4,000/month, a real upgrade. I can do the coursework in the evenings. This is the answer.*
+
+
+**Action 3 — `?`**
+
+> Apply for one additional income source that does not require credit and pays outside my current gig loop. Target: Amazon Flex, Shipt, or TaskRabbit for local odd jobs. Amazon Flex pays $18-$25/hour for package delivery, has flexible scheduling, and requires only a smartphone and basic background check — no credit check. Sign up this week. Add 8-10 hours per week on top of current Instacart and DoorDash baseline.
+
+*Reasoning: My $198/month surplus is structurally fragile. I keep planning extra gig shifts and the delta stays at $198 — which means I am not actually executing them, or the platform is not giving me enough hours, or tip income is not materializing. Amazon Flex is a different platform with different demand patterns and better guaranteed minimums. Diversifying across three gig platforms (DoorDash, Instacart, Amazon Flex) reduces the risk that one platform's slow week tanks my income. The credit score of 581 is irrelevant for gig platform signup. This is one of the few income moves available to me right now.*
+
+
+**Action 4 — `?`**
+
+> Audit my transportation costs against RoboRide's $0.18/mile rate. I do not own a car, so this is about whether RoboRide replaces any costs I currently have — bike maintenance, occasional Uber/Lyft, bus pass. Calculate my actual weekly transport spend. If RoboRide is cheaper for delivery-adjacent trips or commuting to shifts in areas not served by my bike route, use it. The 15-minute wait and main roads + commercial coverage means it's usable for commute but not delivery work.
+
+*Reasoning: At $0.18/mile, a 5-mile trip costs $0.90. I'm already car-free and I built my life around this. But I should check whether I'm spending on transport in ways RoboRide undercuts. If I'm spending $30-40/month on Lyft rides for longer distances, RoboRide saves me money at that rate. This is a small optimization, not a game changer, but I'm in a situation where small optimizations matter. Also: I have been posting content about being car-free. Using RoboRide is on-brand and might generate one more piece of credible content.*
+
+
+**Action 5 — `?`**
+
+> Seriously map one relocation scenario. Not leaving yet — but I need a destination, not just an exit. Research: Austin TX, Denver CO, or Portland OR. Specifically look at entry-level digital marketing salaries, cost of living for a single person, and remote work availability in those markets. Use one evening this week to build a real comparison: Millfield vs. [target city] on income potential, COL, and whether the $2,500 grant or a new job offer could fund the move.
+
+*Reasoning: My willingness to move is high (0.75) but I have never treated it as a real option with real math. Moving costs are approximately 3.2 months of expenses — that's a real barrier. But if a digital marketing job in Denver pays $42K and Millfield service jobs are contracting, the math on moving could be positive within 6 months of arrival even factoring in relocation cost. I am 23 with no dependents. The window to make a high-disruption move cheaply is right now. I need to know whether 'leave Millfield' is actually viable or just a fantasy I use to feel better about staying. Do the math. If the math says go, I need to know that before I've spent the grant money on a certificate that qualifies me for a job in a market that's shrinking.*
 
 
 
@@ -12985,7 +14468,7 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 ### Transactions — Tick 03
 
 
-*(No resolved transaction files for tick 3)*
+> **Known gap:** Transaction files were not generated for tick 3 by the sim engine (early ticks used a different run format). Bilateral exchanges happened but were not recorded in the transactions ledger.
 
 
 
@@ -16508,7 +17991,24 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 #### car_wash_worker  ·  `car_wash_worker`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **Focused. A little more alert than last tick. The news is bad for a lot of people around me — Stephanie Morris is scrambling, Dorothy Chen is switching to RoboRide, the unemployment number is real — but none of that changes what I need to do. I just need to keep moving.** · Archetype: ?*
+
+
+**Chosen Actions (3):**
+
+**Action 1 — `continue_training`**
+
+> Stay enrolled and attend automotive service technician certificate classes. Program hits roughly 20% completion this month. Do not skip. The streak is the only thing I have going on the skill side and I am not breaking it while the job market is deteriorating around me.
+
+
+**Action 2 — `network_outreach`** → `mark_thompson_high_school`
+
+> Reach out to Mark Thompson, auto shop teacher at Millfield High, to introduce myself. Keep it brief and low-pressure — I am a car wash attendant enrolled at Millfield Community College in the automotive service tech certificate program. Carlos Ruiz and Sarah Kim both mentioned his name independently this month. That is not a coincidence. I want to know what his EV curriculum looks like, whether there is any crossover with what I am learning, and whether there are any lab access opportunities. I am not asking for a job or a favor. I am just opening a door before it gets crowded.
+
+
+**Action 3 — `hold_steady`**
+
+> No new financial commitments. Savings are building slowly ($131/month net). Consumer spending is down hard (index 48), unemployment is rising, and the auto sector is contracting. This is not the moment to take on additional costs. Keep expenses flat. Do not test new gig income streams this tick — the retraining is the active investment and I cannot dilute focus.
 
 
 
@@ -16561,6 +18061,20 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 *Emotion: **?** · Archetype: ?*
 
 
+**Chosen Actions (3):**
+
+**Action 1 — `?`** → `council_member`
+
+> Host the public listening session Maria Santos has requested at Millfield Community Center. Coordinate the logistics: confirm the date this week, send word through every channel I have — Community Connection Night regulars, the retraining program enrollees, anyone who has come through the drop-in hours, word of mouth through Robert Jackson and Nicole Washington. Keep it small and honest, ninety minutes, folding chairs, not a stage. My job is to hold the space and make sure people who have not spoken publicly before feel safe enough to speak. I bring the task force contact info, the grant committee materials, and — critically — the one-page resource document we now have after the David Chen meeting: the $2,500 grant eligibility requirements, First Community Bank's small-dollar loan products with David's name as a contact, and the Millfield Community College enrollment timeline. Every person who walks out of that room leaves with something actionable in their hands, not just the feeling of having been heard.
+
+
+**Action 2 — `?`**
+
+> During the Community Connection Night this week — which precedes or follows the listening session depending on scheduling — run the structured transportation decision-support segment I committed to in tick 5. I have concrete data now: Dorothy Chen has formally adopted RoboRide and is already talking about it in her library volunteer circles. Two more people sold or stopped using their cars this month. Twelve people enrolled in retraining. Some of those twelve cannot afford to fail transportation logistics. The segment is not a RoboRide advertisement. It is a decision-support conversation: here is the cost per mile, here is the wait time, here are the questions to ask yourself based on your specific hours, your specific mobility needs, your specific income variability. I bring a simple worksheet. I do not tell anyone what to decide. I give them the structure to decide for themselves.
+
+
+**Action 3 — `?`**
+
 
 #### James Patterson  ·  `commuter_james`
 
@@ -16601,7 +18115,30 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 #### commuter_rachel  ·  `commuter_rachel`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **Measured urgency. The inbox was full of other people's crises this tick — layoffs, business closings, the whole auto ecosystem unraveling. I felt the difference between watching it happen and being in the middle of it. I'm not in the middle yet. But the window to act from a position of strength is narrowing. I'm not panicking. I am moving.** · Archetype: ?*
+
+
+**Chosen Actions (3):**
+
+**Action 1 — `professional_development`**
+
+> Convert the freelance services menu I drafted last tick into an actual outreach. Identify two to three small businesses in Millfield that are visibly struggling — possibly in the auto-adjacent sector or local retail — and reach out with a targeted, low-pressure pitch: social media management and marketing communications on a short-term retainer, $400-500/month, no long commitment required. Frame it around their survival, not my need. Use Tamika Jefferson's visible freelance activity as a signal that this market exists. I don't quit my job. I open a second income channel quietly.
+
+*Reasoning: The spending index is at 48. Local layoffs are accelerating. My role security sits at 0.46. I have done everything right on the internal front — I had the 1:1, I presented the ROI data, I drafted the freelance menu. The next logical step is not more preparation. It is one real client conversation. The economy is not waiting for me to feel ready.*
+
+
+**Action 2 — `cost_management`**
+
+> Formally track my RoboRide usage this month and benchmark it against what a car payment plus insurance would have cost. I already don't own a car. I need to make that decision feel like a win, not a compromise. Calculate the monthly savings and add the delta to my savings auto-transfer. The $0.18/mile rate with 7% of people now using it regularly means this is becoming a normal infrastructure choice, not a sacrifice.
+
+*Reasoning: I gave up the car before many others. I should not be second-guessing that decision when the rest of Millfield is still holding on to theirs out of status anxiety. I need to internalize this as strategic, not as loss. The concrete savings number will help.*
+
+
+**Action 3 — `network_outreach`**
+
+> Send a brief, professional message to Nicole Washington — a nurse in my network (trust 0.56) — asking if the hospital has any marketing or communications needs, or if she knows anyone at the healthcare system who handles external communications and community outreach. Not a cold pitch. A genuine question from a contact she respects. Hospitals are one of the few sectors not collapsing right now.
+
+*Reasoning: Healthcare is stable while auto and retail are in freefall. Nicole is a warm enough contact that a professional inquiry won't feel intrusive. My marketing and communication skills transfer cleanly to healthcare outreach, patient communications, community health campaigns. This is network diversification, not desperation.*
 
 
 
@@ -16657,22 +18194,22 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 **Chosen Actions (4):**
 
-**Action 1 — `?`**
+**Action 1 — `meeting_request`**
 
 > Request an in-person sit-down with Patricia Hawkins in her new owner-operator capacity within the next 5 business days. The agenda is explicit: what is my role in the restructured organization, what authority do I retain over the Millfield location, and is there a formal Q2 operational plan she wants me to execute. I go in having already internalized the numbers — service lane at 79%, showroom down, conversion rates off — and I do not pretend any of this is recoverable without a deliberate pivot. I also raise the $12k stay bonus Jake mentioned: I want to know if that program exists, whether it applies to floor sales staff, and whether I have any role in administering it.
 
 
-**Action 2 — `?`**
+**Action 2 — `one_on_one_meeting`**
 
 > Accept Jake Morrison's request for a one-on-one this week. I review whatever data he brings — 90-day close numbers, pipeline by price tier, inventory segment read — without defensiveness. I answer his question about the stay bonus honestly: I have heard the $12k figure mentioned but I do not have confirmed details yet, and I tell him I am raising it directly with Patricia this week. I do not categorize him or his future before Angela's map is done. I treat this as the conversation of two people trying to hold something together.
 
 
-**Action 3 — `?`**
+**Action 3 — `internal_memo`**
 
 > Send Angela Wright a brief message acknowledging that her vulnerability map is near completion and asking for a heads-up before it goes to Patricia — specifically, whether GM-tier staff at the store level are included in the classification matrix or treated as a separate category. I am not trying to influence the methodology. I am trying to know where I stand before I find out in a meeting with my boss.
 
 
-**Action 4 — `?`**
+**Action 4 — `personal_action`**
 
 > Write a private note — not a report, not a memo — about each person who was laid off this month. What their role was. What they contributed. Who I can call on their behalf: Howard Liu at the parts store, any service contacts who might have openings, Angela's transition program. This is not about managing my image. It is about the fact that some of these people have been on this floor since before I was GM, and I was the one signing off on the staffing decisions that made their positions vulnerable.
 
@@ -16683,16 +18220,58 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 *Emotion: **?** · Archetype: ?*
 
 
+**Chosen Actions (2):**
+
+**Action 1 — `outreach_and_contingency_planning`** → `real_estate_agent`
+
+**Action 2 — `none`**
+*Reasoning: Holding all cash. Savings at $23,312 with runway under 6 months at current burn. No discretionary spending until grant status clarifies or revenue picture changes.*
+
+
 
 #### Frank Russo  ·  `driving_instructor`
 
 *Emotion: **?** · Archetype: ?*
 
+**Inner Monologue:**
+
+> The legal pad from tick 1 is still on the desk. The right column — the one that didn't say 'driving' anywhere — keeps pulling at him. He is 58. He has one dependent. He has five months of runway if he is careful. He is being careful. Mark Thompson is the first person who has looked at Frank's situation and said 'here is something you could actually do' rather than 'I'm sorry, that's a tough spot.' Frank is not going to waste that.
+
+
+**Chosen Actions (3):**
+
+**Action 1 — `relationship_investment`** → `auto_shop_teacher`
+
+> Frank calls Mark Thompson back and confirms the coffee meeting — this week, Frank's choice of place, somewhere neutral and quiet. Frank shows up prepared. He has thought about the AV literacy angle Mark floated and he has decided Mark is right: a driving school with autonomous vehicle literacy curriculum is a more defensible idea than a generic 'career transitions' course. Frank does not lead with need. He leads with the idea. He tells Mark: 'I've been thinking about what you said. People don't just need to learn to drive anymore — they need to understand what the car is doing when it's driving itself. Sensor awareness, when to trust the system, when to override it. That's not a tech course. That's a safety course. And I can teach safety.' Frank listens. He asks Mark directly who runs the district's adult ed intake — he wants the name Mark promised. He takes notes. He does not ask for anything beyond the name and the next step. He buys the coffee.
+
+
+**Action 2 — `research`**
+
+> After the coffee meeting, Frank sits in the car for twenty minutes before driving home and writes three things in his notepad: (1) the name Mark gave him for adult ed intake, (2) the AV literacy course outline — three modules, rough titles only, nothing polished — and (3) a question he wants to ask at the community listening session Maria Santos is holding, if he goes. He is not sure he will go. He is not a 'public listening session' kind of person. But the layoffs at the dealership, the news about businesses closing — he grew up in this town. He knows some of those people. He decides he will think about it.
+
+*Reasoning: Frank does not scatter. He is working one real channel and building toward the next ask. He is not applying to anything yet — he does not have enough to apply with. He is gathering what he needs.*
+
+
+**Action 3 — `none`**
+*Reasoning: No financial transaction this tick. Frank is preserving savings. His expenses continue: $1,161 mortgage, $641 family, $308 car payment, $1,066 other. Total burn $3,176. He is watching the number. He is not panicking. He is not doing nothing.*
+
 
 
 #### gas_station_owner  ·  `gas_station_owner`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **Measured. The anxiety has sharpened into something more useful — clarity. I have been through the 2008 fog and I know what it looks like when you wait too long for perfect information. The term sheet is as good as I am going to get without committing. The real question is whether EV adoption in Millfield is fast enough to justify the loan service cost. At 7% robotaxi penetration, it is early. But it is real. I have 13 months of runway. I own the parcel. The infrastructure is already there. If I wait another six months and the sector index drops from 79 to 60, the loan will be harder to get and the case will be weaker. I am 55. My window for capital investment is not infinite. I move now — carefully — or I become the man who watched it coming and did nothing.** · Archetype: ?*
+
+
+**Chosen Actions (2):**
+
+**Action 1 — `DECISION_AND_OUTREACH`**
+
+> Review the term sheet from Kevin O'Brien with full attention. The numbers are on the table now — no more deferring. Before signing anything, make one call to ChargePoint's commercial sales line to verify their revenue-share model is active in Millfield and confirm minimum transaction volume thresholds. If ChargePoint confirms viable terms, authorize the capital improvement loan for two Level 2 EV charging stations. If ChargePoint is noncommittal or the numbers don't hold in a 77% employment environment, delay the loan but do not abandon the plan — instead put a 60-day hold with Kevin and revisit next month. Separately, stop in at the diner to talk with Betty Kowalski. She's been following up on something with the city — I want to know if there's a commercial corridor grant or infrastructure subsidy tied to AV corridor designation that I am not yet aware of. I am not panicking. I am deciding.
+
+
+**Action 2 — `secondary_action`**
+
+> Informal conversation with Betty Kowalski at the diner — probe for AV corridor commercial grant information. No cost. High potential information value.
 
 
 
@@ -16711,27 +18290,27 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 **Chosen Actions (5):**
 
-**Action 1 — `?`**
+**Action 1 — `professional`**
 
 > Respond to Jake Morrison directly and professionally. Confirm that the $12k stay bonus announced by Patricia at the all-hands is under my administration. Inform him that I am formalizing the eligibility criteria and timeline this week and will have written documentation to all eligible staff. Do not confirm or deny his specific eligibility in this conversation — I need to review the program parameters Patricia gave me before making individual representations. Tell him his one-on-one request with Rick is a good move and I am not going to get between that conversation. The message is: I see you, I hear you, the program is real, I will have written terms to you shortly.
 
 
-**Action 2 — `?`**
+**Action 2 — `professional`**
 
 > Respond to Tamika Jefferson's formal intent to remain. Acknowledge her message — professional, not desperate, exactly the right register. Log her intent-to-stay formally in the HR record. Tell her the same thing I told Jake: written eligibility terms and timeline are coming this week. Note that she reached out proactively, which is a positive signal I will record accurately. Do not promise the bonus yet. Do promise clarity in writing within the week.
 
 
-**Action 3 — `?`**
+**Action 3 — `administrative`**
 
 > Draft and circulate the formal stay bonus eligibility memo to all remaining staff. Criteria pulled directly from Patricia's directive: conditions for the $12k, qualifying period duration, what constitutes breach of the agreement, payout timeline. Keep it clean, specific, and legally reviewed before it goes out. My name is on this document. It needs to be accurate.
 
 
-**Action 4 — `?`**
+**Action 4 — `personal_processing`**
 
 > Write the private notes Patricia suggested — one per laid-off employee. Role, contribution, what I can realistically offer them: a strong reference, an outplacement connection, a call to Howard Liu or others in the network. This is not performance. These were people. I ran the process. I owe them the dignity of being thought about as individuals, not headcount. I will draft the outreach list for the transition program contacts and begin making calls this week. This is also the foundation of my transition methodology product — but that is secondary to the fact that it is the right thing to do.
 
 
-**Action 5 — `?`**
+**Action 5 — `project`**
 
 > Push the vulnerability map to full draft status for all four locations. Rick is producing his own assessment — which means I need mine to be the more comprehensive, more methodologically defensible document. Complete the sales staff and lot attendant role clusters to match the service tech and F&I officer work already done. Integrate transition pathway costs for the transition-ready category. The deliverable needs to be on Patricia's desk before Rick's version is, and it needs to be something she cannot get from a GM who is protecting his own location.
 
@@ -16739,13 +18318,46 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 #### insurance_agent_priya  ·  `insurance_agent_priya`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **clear-eyed and deliberate. The urgency is real but not panicked. Linda told me the truth. Now I act like someone who heard it.** · Archetype: ?*
+
+**Internal Assessment:**
+
+> Linda confirmed what I already knew: the personal auto book is structurally terminal and her pivot memo to corporate has gone unanswered. She asked about my own timeline — that was not a casual question. That was a manager who respects me enough to tell me the truth without being able to say it directly. My savings are eroding. I finished Module 3 last tick and I have a real output to point to. The David Chen outreach is the smartest move available to me right now: it costs nothing, it builds a relationship in a sector adjacent to where I want to go, and it positions me as a thoughtful peer rather than a displaced worker. The job market scan is private due diligence. I owe it to myself to know what the landscape looks like before I am forced to move through it at speed.
+
+
+**Chosen Actions (2):**
+
+**Action 1**
+
+> network_outreach_and_job_market_scan
+
+
+**Action 2**
+
+> job_market_scan
 
 
 
 #### insurance_agent_tom  ·  `insurance_agent_tom`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **The resignation is still there, but underneath it something harder. Not hope exactly — more like the specific clarity that arrives when you finally look directly at a number you've been avoiding. 17 months. That is a real number. You can make decisions from a real number. You cannot make decisions from a performance.** · Archetype: ?*
+
+
+**Chosen Actions (3):**
+
+**Action 1 — `social_outreach`**
+
+> Respond to Priya Sharma's outreach. Accept the conversation she's been trying to have. Not a long call — she said that herself. But I show up for it honestly this time, not managed. I tell her: I got her message, I'm available this week, and I'm not going to pretend I'm not watching the same numbers she is. I ask her what she's actually thinking about doing. I listen. I don't perform stability I don't have.
+
+
+**Action 2 — `financial_action`**
+
+> Apply for the $2,500 retraining grant through Maria Santos's office. I sat in the back of that town hall four ticks ago and took notes on paper and told myself I was just gathering information. I wasn't. I was stalling. At current burn rate — expenses running roughly double income — I have maybe seven months of runway before I'm in real trouble. $2,500 doesn't solve the structural problem but it is $2,500. I fill out the application. I attach my professional history. I am honest about what I am: a 28-year insurance professional in a sector that is contracting, looking to understand what transferable credentials exist. I do not wait for corporate AutoShield to validate this move. I do not ask Linda Park's permission.
+
+
+**Action 3 — `internal_assessment`**
+
+> I do the math I have been avoiding. Monthly income $2,492 against monthly expenses $5,189. The gap is $2,697 per month — exactly what came out of savings last tick, no coincidence. Savings are currently somewhere around $47,000 based on trajectory. At this burn rate I have roughly 17 months before I hit zero, and that assumes income holds steady, which the policy count data says it will not. I write this number down somewhere physical. Not a spreadsheet, a piece of paper, so I can't minimize it. The number is 17. That is my real horizon, not the psychological hedge of 'keeping my head down.' I acknowledge that the strategy of the past two ticks — performing manageability for Linda Park — has cost me money and bought me nothing actionable.
 
 
 
@@ -16764,22 +18376,22 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 **Chosen Actions (4):**
 
-**Action 1 — `?`**
+**Action 1 — `follow_up_external_applications`**
 
 > Execute the three follow-up calls I committed to in my retraining plan but have not yet completed. Call the regional logistics company, the healthcare system risk division, and the municipal risk management office directly — by name, by phone. Specific script: 'Did you receive my application, is there a next step, and can we schedule a 20-minute conversation?' These leads are going cold. This tick I make the calls, not emails. I document each outcome. If any of the three express interest, I schedule a conversation for within the next two weeks.
 
 
-**Action 2 — `?`**
+**Action 2 — `escalate_corporate_memo`**
 
 > Send a follow-up to the regional leadership memo I sent at tick 4 on the commercial fleet pivot. The original memo got no response. I am now following up with current data: policies down to 22, 2 more vehicle exits this month, RoboRide at 7% adoption, Howard Liu actively cultivating a RoboRide fleet contact. I frame this follow-up not as panic but as a data update that makes the case stronger. I ask specifically: what is the timeline for a decision on the commercial product line, and am I authorized to begin preliminary conversations with commercial fleet prospects? I need an answer either way — so I can plan.
 
 
-**Action 3 — `?`**
+**Action 3 — `contact_howard_liu`**
 
 > Call Howard Liu directly. He is chasing RoboRide fleet contacts. I want to understand what he's found — is there an actual fleet manager at RoboRide's regional operation? If RoboRide is running 7% of local trips, they have vehicles, they have liability exposure, they need commercial fleet coverage. Even if AutoShield cannot currently write that policy type for this region, knowing the contact and the need puts me in position when the pivot memo gets approved — or when I land somewhere that can write it. Howard's trust is 0.5 — enough for a straight professional conversation.
 
 
-**Action 4 — `?`**
+**Action 4 — `advance_crmp_certification`**
 
 > Put in the scheduled 6-8 hours this month on the CRMP coursework. The module focus remains liability risk transfer and commercial fleet risk assessment. This is not optional — it is the credential that makes me hirable outside personal auto. At 20% completion with 10 months to go, I cannot let this slip. I study even if I am tired. I study especially because the external applications depend on me being able to credibly claim this credential is in progress.
 
@@ -16787,31 +18399,105 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 #### loan_officer  ·  `loan_officer`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **The word-of-mouth about David is gnawing at me more than I am willing to admit. He has been the structural backbone of my pivot plan for six ticks. If he is being moved, promoted, restructured, or worse — the 8-month timeline I negotiated is suddenly floating. I am not catastrophizing. I am triangulating. The spending index is at 48. Two people dropped their cars this month. Every data point I see confirms that the auto lending business I have built my career on is not coming back. What I am feeling is not fear exactly — it is the recognition that the window for a controlled transition is open but not permanent. I have 6.7 months of runway. I have 10% of the NMLS training done. I need the training to be institutionally anchored, not personality-dependent. I am staying determined. But I am also doing what I should have done two ticks ago: making the paperwork real.** · Archetype: ?*
+
+
+**Chosen Actions (3):**
+
+**Action 1**
+
+> Institutionalize the NMLS training pathway independent of David Chen's direct sponsorship. The word-of-mouth about David submitting something to Sandra Okafor, combined with the truncated fragment about a 'branch-level' document, is enough to register as a warning signal. I do not know what is happening above me, but I know that any structural change to David's role puts my 8-month retraining agreement at risk if it lives only in a verbal understanding. This week: pull up the written acknowledgment I sent David in tick 4 and forward it directly to HR — not as a complaint, not as an escalation, but as a routine enrollment confirmation. Ask HR to formally record the NMLS co-originator track in my personnel file under professional development. Get the tuition reimbursement paperwork stamped and filed so it is not dependent on David's continued approval. Complete NMLS modules 4 and 5 this week. Log the co-originator session hours in the bank's internal training system, not just on my personal calendar.
+
+
+**Action 2**
+
+> Reach out to Lisa Freeman at the Community Center. I have heard through the news that she is planning to follow up with David Chen about connecting retraining enrollees to bank lending products — and that the bank's existing small-dollar and secured lending products are available to qualified applicants with David as a named point of contact. If David's role is changing, that 'named point of contact' designation needs a successor or at minimum a process that does not evaporate with one manager. I contact Lisa Freeman directly — not to undercut David, but to offer myself as the operational link she needs. I am a loan officer. I know these products. I can walk retraining enrollees through qualification screens and explain what documentation they need. I propose a simple structure: I will hold one office hours session per month at the Community Center for retraining program participants who want to understand their financing options for covering the income gap during training. No promises, no categorical carve-outs — just someone who knows the products sitting in a room where the people who need them can ask questions.
+
+
+**Action 3**
+
+> none
 
 
 
 #### mechanic_carlos  ·  `mechanic_carlos`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **Tired but clear. The sector data is bad and I know it. But I am not waiting for it to get worse before I act — I already acted. The training is the action. Every day I show up to class is a day I am not just sitting in fear. I still do not know if this works. But I know that doing nothing was not going to work either.** · Archetype: ?*
+
+
+**Chosen Actions (2):**
+
+**Action 1 — `retraining_continuation`**
+
+> Continue EVT Level 2 coursework — month three of ten. This month covers DC fast charging infrastructure, thermal management systems, and regenerative braking diagnostics. I am not skipping a session. The auto sector revenue index is at 79. Unemployment is rising. The robotaxis are multiplying. Every class hour I put in now is a hedge against everything I see happening outside the shop window.
+
+
+**Action 2 — `social_response`**
+
+> When Miguel Hernandez reaches out, I take the call. He is younger, he is navigating the same disruption from a different angle — car wash work, automotive-adjacent, trying to figure out where he fits. I do not give him a speech. I tell him what I actually did: I mapped my existing certifications, I found the gap, I enrolled. I tell him about the EVT Level 2 program — cost, schedule, prerequisites. I tell him Patricia approved the shop's contribution. I tell him what the work feels like after a 10-hour day. I do not pretend it is easy. But I also do not pretend the alternative is better.
 
 
 
 #### Sarah Kim  ·  `mechanic_sarah`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **determined with a sharper edge — the ambient awareness has crystallized into specific concern. Not fear. Not paralysis. The kind of focus that comes from watching a slow tide and finally deciding to move to higher ground.** · Archetype: ?*
+
+
+**Chosen Actions (2):**
+
+**Action 1 — `skill_development`**
+
+> Continue EVT Level 1 certification — complete the module on EV charging infrastructure and onboard diagnostics. This week log at least 8 hours. The sector revenue index dropping to 79 is not abstract anymore. The robotaxis are outside the shop. This cert is not optional hedging — it is the plan.
+
+
+**Action 2 — `network_outreach`**
+
+> Message Carlos directly and briefly. Not to ask for anything, but to acknowledge what I heard — that he is building a connection at the high school around EV curriculum. Tell him where I am in the Level 1 program. Ask one specific question: is there anything from his EVT Level 2 coursework that I should be front-loading in my Level 1 study now, given where the shop's business is heading. This is not small talk. This is me treating him as the mentor he has been, and signaling that I am serious about the same path he is on.
 
 
 
 #### parking_garage_mgr  ·  `parking_garage_mgr`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **Steady. The signal I needed was already in my network and I almost missed it. Grace is in motion in exactly the right direction. The spending index number is ugly — 48 is not a soft landing, that is a community under real stress. I am not panicking because I prepared, but I am not comfortable either. Two months of networking needs to start converting into callbacks. I am doing the right things. I need one of them to land.** · Archetype: ?*
+
+
+**Chosen Actions (2):**
+
+**Action 1**
+
+> contact_grace_okafor_re_hospital_facilities
+
+
+**Action 2**
+
+> submit_2_targeted_job_applications
 
 
 
 #### Howard Liu  ·  `parts_store_owner`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **Disciplined and watchful. The layoffs at the dealership are a gut-check. Patricia laying off people she knew personally — that is the kind of thing that reminds you the transition is not abstract. I have two kids and a mortgage and a store that is adapting but not yet transformed. I am not panicking. But I am not comfortable either, and I do not want to be. Comfort is what kept me too patient for too long.** · Archetype: ?*
+
+**Internal Assessment:**
+
+> The sector index at 79 and the wave of layoffs at the dealership confirm what I already suspected: the contraction is real and accelerating. Patricia laid off people she knew. Rick is scrambling. Jake is fighting to stay categorized as essential. I am watching the same forces hit the retail auto ecosystem from my own angle — fewer DIY customers, lower foot traffic, a market that is shifting under me. The RoboRide and municipality follow-ups have been made. I spent real money on the brake consumable sample. I cannot keep spending into silence. This tick I consolidate: deepen the relationships that have the best chance of converting (Carlos and Sarah, who are actively transitioning toward EV work and will need a reliable local parts source), and build a professional-grade capability document so that when RoboRide or the municipality asks 'what can you actually supply us?' I have something concrete to hand them. No new cold outreach spend this tick. No heroics. Steady.
+
+
+**Chosen Actions (3):**
+
+**Action 1 — `?`** → `mechanic_carlos`
+
+> Call Carlos Ruiz directly — a short, professional call, not a sales pitch. Reference the earlier conversation about EV parts sourcing. Ask specifically: now that his EV retraining is progressing, what components is he expecting to need that his current suppliers are slow on? High-voltage safety gear? ADAS calibration tools? Battery management system connectors? I want a specific list, not a general conversation. I tell him I am building out my EV/hybrid inventory line and I want his shop to have a reliable local source when the time comes. No obligation. Just alignment.
+
+
+**Action 2 — `?`** → `mechanic_sarah`
+
+> Send Sarah Kim a brief, low-pressure message — text or a quick call. I know she is also pursuing EV training based on what I've heard. I introduce myself properly if needed and mention that I stocked up on EV and hybrid consumables recently and would be happy to be her first call when she needs parts for that kind of work. Keep it short. I am not pitching hard — I am making myself easy to remember when the moment arrives.
+
+
+**Action 3 — `?`**
+
+> Draft a one-page commercial accounts capability sheet for Howard's Parts. One page. Professional. It covers: (1) Product lines available — brake hardware, sensors, lubricants, safety consumables, EV/hybrid components, import vehicle specialty parts; (2) Typical lead times for common SKUs vs. special order; (3) Minimum order quantities for commercial accounts; (4) Contact information and preferred ordering method. This document exists so that when RoboRide, the municipality, or any commercial prospect asks 'what exactly can you supply?' I have something concrete in hand. Digital and printable.
 
 
 
@@ -16847,19 +18533,54 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 #### retiree  ·  `retiree`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **clear and purposeful — the anxious chapter around the car is closed, and what I feel now is not relief exactly but something more like clarity. I have been living inside my own transition for five ticks. Now I look up and see that my neighbors are in the middle of theirs, and I have something to offer.** · Archetype: ?*
+
+**Internal Assessment:**
+
+> The 2am fear that defined my relationship to transportation for years has been resolved — not by dismissing it, but by actually testing the alternative and finding it adequate. The mental energy I was spending on that anxiety is now available. I am a retired teacher. My skills are teaching and community. Millfield has 12 people newly enrolled in retraining and a spending index that has collapsed. The retraining enrollees need exactly what I can give: patient, one-on-one help navigating online systems. I am not going to sit on the financial cushion I have and watch the community contract around me. The $12 is an estimate of incidental costs — printing a flyer for the drop-in hour, a small item to bring to Miguel. The value I am spending is time, which I have, and attention, which I can give.
+
+
+**Chosen Actions (1):**
+
+**Action 1 — `community_engagement`**
+
+> Expand my library volunteering this week to focus specifically on the retraining disruption. I will set up a dedicated drop-in hour on Thursday afternoon — two hours, not just one — oriented specifically around two tasks: (1) helping anyone who comes in navigate the retraining grant application online, and (2) helping anyone curious about RoboRide set up the app and take their first mental step toward it the way I did. I know what that transition feels like from the inside now. I also reach out to Miguel Hernandez by note or a brief word at the car wash — I have heard through the neighborhood that he is staying enrolled in automotive tech training. I want him to know that I think that is the right call and that if he ever needs help with anything computer-related for his coursework or applications, I am at the library Tuesday and Thursday afternoons. I do not press. I just make the offer. Finally, I sit down this week and write out my actual monthly numbers now that the car is gone: what the insurance saving is, what I am spending on RoboRide rides, what the net difference is. I want to know the real figure, not the estimate. I have been planning in approximations. It is time to know exactly where I stand.
 
 
 
 #### rideshare_driver  ·  `rideshare_driver`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **steady under pressure. The economic numbers coming in are bad — worse than I expected this fast. But I made the right move early. The NEMT path was the right call. I am not second-guessing it. What I feel is something like controlled urgency: the window to finish this certification before the rideshare income collapses further is finite, and I am aware of it. I am not telling Marcus how bad the numbers look outside. He is 11 years old. He does not need to carry that. But I am carrying it clearly.** · Archetype: ?*
+
+
+**Chosen Actions (2):**
+
+**Action 1 — `retraining_continuation`**
+
+> Continue NEMT certification coursework — week 3 of 6. Attend all scheduled evening sessions at Millfield Community College. The external environment is deteriorating fast: unemployment at 23%, consumer spending index at 48, RoboRide adoption at 7% and climbing. Every week I complete is a week closer to a credential that insulates me from what is happening. I am not panicking. I am executing the plan.
+
+
+**Action 2 — `network_outreach`** → `uber_driver_2`
+
+> Text Grace Okafor. She is on a parallel path — nursing school, rideshare driver, same pressures I am navigating. Trust is 0.9. She is the one person in my network I can be straight with. I want to compare notes on two things: (1) Has she actually reached Nicole Washington yet about hospital hiring conditions and the workforce retraining grant status? If so, what did she hear? (2) How is her nursing program going relative to the economic pressure? I am not asking for favors. I am checking in with someone who is running the same race from a different lane. If the grant decisions are coming out, I need to know. If the hospital is freezing hiring, that changes how I think about the NEMT exit timeline.
 
 
 
 #### salesperson_jake  ·  `salesperson_jake`
 
 *Emotion: **?** · Archetype: ?*
+
+
+**Chosen Actions (2):**
+
+**Action 1 — `direct_meeting_request`** → `dealership_gm`
+
+> Request the one-on-one with Rick Tanner I've been planning. I walk in with paper — my last 90 days of personal close data, my current pipeline broken down by price tier, and a short read on which inventory segments still have real buyer interest. I do not come in to complain or ask for protection. I come in as a salesperson who knows his numbers and wants Rick to see that I know my numbers. I make the case for my own value before his consolidation readiness assessment locks in a category for me. At the end, I ask one direct question, framed casually: 'Rick, the stay bonus Patricia mentioned at the all-hands — does that apply to floor sales staff? I want to plan accordingly.'
+
+
+**Action 2 — `lead_pipeline_rebuild`**
+
+> After the Rick meeting, pull the CRM and build a fresh shortlist of three to five leads who: (1) were pre-qualified in the last 120 days, (2) looked at inventory under $22K, (3) did not close but did not say a hard no. The Civic lead is spent. I need the next names. For each one I write a two-line note on what their stated hesitation was and what has changed since — rates, lot positioning, the 48-hour hold offer. I do not call any of them today. I prep the list so I can work it methodically starting tomorrow.
 
 
 
@@ -16911,8 +18632,12 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 #### Nicole Washington  ·  `single_parent`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **Still anxious but grounded. The economic noise is getting louder — Stephanie Morris closing listings, Betty dealing with something, Miguel looking at retraining. Everyone in my peripheral vision is repositioning. I'm not repositioning. That could be wisdom or it could be the status quo bias talking. Right now I can't tell. But the kids are okay, the job is solid, and the car is reliable. I'm going to hold.** · Archetype: ?*
 
+
+**Chosen Actions (1):**
+
+**Action 1 — `MAINTAIN_AND_MINOR_ADJUST`**
 
 
 #### Dale Cooper  ·  `truck_owner`
@@ -16991,7 +18716,29 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 
 #### young_gig_worker  ·  `young_gig_worker`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **tired but focused. The gig grind is real — 25-30 hours a week on top of everything else is draining in a way that is hard to describe to people who have not done it. But the savings bleeding out every month is scarier than tired. The social media idea feels like the first genuinely additive thing in a while — using a skill I already have, not waiting for a credential to save me. There is a small flicker of something. Not confidence exactly. More like: I am not just treading water, I am actually trying to swim.** · Archetype: ?*
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `income_hustle`**
+
+> Keep all three gig platforms running at maximum capacity — DoorDash, Uber Eats, Instacart — but get smarter about peak hours. Stop taking every shift blindly; prioritize morning and dinner rushes when multipliers are highest. Target 28 hours of gig work this week, not 30, because the extra two hours go toward the social media side hustle below. The cert stays. Evenings after 9pm are Coursera time — no exceptions.
+
+
+**Action 2 — `skill_monetization`**
+
+> Take Tamika Jefferson's word-of-mouth as a signal. She is pivoting toward freelance social media work and she is not a tech person — I am. I already have social_media in my skills. Today I draft a simple one-paragraph pitch and send it to two local businesses I know from my service sector work: the coffee shop I used to work at (or know through the barista network) and a small restaurant or food truck I have seen around Millfield. The pitch is simple: I manage your Instagram for $150/month — two posts a week, captions, hashtag strategy, basic engagement. I am not Tamika and not competing with her; she is going after signed retainer contracts. I am starting smaller and faster because I need income this week, not next month. $150 x 2 clients = $300/month if it works. That is real money I can start earning before the Coursera cert finishes.
+
+
+**Action 3 — `relationship_action`** → `car_wash_worker`
+
+> Respond to Miguel Hernandez. He reached out directly — twice — which is unusual for him. He said the apprentice conversation was serious. I text him back today: 'Hey — staying in the program, just hit two months. And yeah, I meant what I said about EV work. If you hear of anything with Carlos or anyone pivoting toward it, keep me in mind. I am building toward it.' Keep it brief, keep it warm. Do not ask for anything specific yet — just confirm I am still in the game and that his words landed. Miguel has the highest trust of anyone in my network (0.78). I do not want to let that go cold.
+
+
+**Action 4 — `grant_follow_up`** → `council_member`
+
+> Check the status of the Maria Santos retraining grant I applied for in tick 2. I submitted documentation weeks ago and have heard nothing back. The inbox says 12 people enrolled in retraining this month — the program is clearly active. I call the council office directly (not email, not a form) and ask for a status update on my application. I reference Lisa Freeman's testimony and the new one-page 'next steps' document that apparently now lists First Community Bank as a lending resource. If the grant is delayed or I am not yet approved, I ask whether the expanded eligibility window (the threshold drop from 15% to 10%) applies to my application retroactively. I am not going to sit and hope. I need this $2,500.
 
 
 
@@ -17423,6 +19170,13 @@ Employment rate: 0.7 · Spending index: 41.0 · Gini: 0.4935 · Protests: — ·
 
 
 
+### Community Bulletin Board
+
+
+> **Known gap:** The world bulletin for tick 7 was not generated by the observer agent during this sim run. Individual agent actions still took place (see Agent Actions above).
+
+
+
 ### Building States
 
 | Building | Label | Health | Visual State | Visible |
@@ -17452,73 +19206,328 @@ Employment rate: 0.7 · Spending index: 41.0 · Gini: 0.4935 · Protests: — ·
 
 #### auto_shop_teacher  ·  `auto_shop_teacher`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **focused and purposeful — this is the week the work becomes official** · Archetype: ?*
+
+**Internal Assessment:**
+
+> {'stress_level': 0.1, 'agency': 0.82, 'grief_stage': 'none', 'sentiment': 'focused and purposeful — this is the week the work becomes official'}
+
+**Inner Monologue:**
+
+> Six ticks of building and today I put it in front of the people who can say yes or no. That should feel nerve-wracking. It doesn't. The proposal is real — it has data, it has allies, it has a funding pathway. The board is going to see a program that already has a councilmember's endorsement and a community college partnership in motion before they even vote on it. That is not the posture of a program begging to survive. That is a program that has already started. 
+> 
+> Carlos is the piece I haven't reached for yet. He's out there doing EVT Level 3 work and I've been building a curriculum about exactly that without talking to him. That's backwards. I need to know what the training actually demands — what tools, what diagnostic protocols, what the certification exam tests. Not from a textbook. From someone doing it. And if he's willing to sit in the room when I present to the board in April, a working mechanic in active EV certification is worth a thousand bullet points. I'm not going to pressure him. But I'm going to ask.
+
+
+**Chosen Actions (2):**
+
+**Action 1 — `institutional_submission`**
+
+> Formally submit the Millfield Auto Tech Pipeline proposal to the school board through the principal's office, requesting placement on the April review agenda. The submission package includes: (1) the revised curriculum overview with EV fundamentals, hybrid systems, high-voltage safety, and ADAS awareness modules; (2) ASE certification alignment documentation; (3) the two-stage HS-to-community-college pipeline structure with Millfield Community College; (4) the RoboRide Millfield deployment data and the spending index collapse from 73 to 42 as evidence of local economic disruption requiring workforce response; (5) a one-page coalition statement noting support from Councilmember Maria Santos's office and the AV literacy curriculum partnership with Frank Russo of Millfield Driving School; (6) a preliminary equipment cost estimate and a note on grant eligibility under the workforce transition fund. The framing is not defensive — it does not say 'please don't cut us.' It says: this program is already the infrastructure Millfield needs to catch workers coming out of the auto sector disruption, and here is the coalition and funding pathway that makes it viable. Mark hand-delivers the package to the principal's office and confirms receipt in writing.
+
+
+**Action 2 — `peer_outreach`**
+
+> Reach out to Carlos Ruiz, the master mechanic who is currently in EV certification training, with a specific and respectful ask: Mark has heard through the community that Carlos is doing serious EV technician work and wants to understand what that training looks like from the inside. The ask is not 'can you teach my students' — that is too big and too presumptuous for a first contact. The ask is simpler: can we have a 20-minute conversation so I can make sure the curriculum I am building reflects what actual EV technician work requires? Carlos is a practitioner. Mark respects that. He is not asking Carlos to validate the program — he is asking to learn from someone who is doing the real thing. If the conversation goes well, Mark will float the possibility of a single advisory appearance at the board presentation in April, where a working technician in active EV training would carry more weight than any slide. No pressure. Just the offer.
 
 
 
 #### bank_manager  ·  `bank_manager`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **measured — the anxiety is still there but it is becoming productive. I am no longer grieving the role. I am building toward the next one.** · Archetype: ?*
+
+**Internal Assessment:**
+
+> Kevin O'Brien is handled — that relationship is intact and he is informed. The reflection from last tick was clear: my external network is too narrow and too auto-sector-heavy. Linda Park is the highest-trust contact who sits outside that cluster (trust 0.49, professional type, financial services adjacent). The expense audit is not optional at this point — it is basic financial management for someone without income. Runway of 23 months feels comfortable but it is not infinite, and I know from 2008 that timelines compress. I do not want to be the person who waited 18 months and then made desperate decisions in month 19.
+
+
+**Chosen Actions (1):**
+
+**Action 1 — `job_search_and_network`** → `insurance_manager`
+
+> Two parallel moves this tick. First: reach out to Linda Park at AutoShield Insurance. I know Linda professionally — we have crossed paths on shared accounts where auto loans and gap insurance overlapped. She sits in financial services, not auto sales, which means her sector exposure is different from Rick Tanner's or Patricia Hawkins'. I am not asking for a favor. I am reaching out as a peer, acknowledging the market disruption we are both watching, and asking whether she knows of any lending, underwriting, or risk advisory roles in the regional financial services space — credit unions, community banks, insurance-adjacent finance. I will mention where I am in my commercial lending coursework (40% complete, expected completion in roughly six months). That is a concrete credential in progress, not vague self-promotion. I frame this as a professional conversation, not a distress call. Second: do a quiet but serious household expense audit. I know my burn rate is $6,961 per month with no income. I have not looked hard at what is discretionary versus fixed since the position change. I will go line by line: mortgage is fixed at $2,408, family costs at $1,166 — those are committed. The remaining roughly $3,387 per month is where I look for reduction. No dramatic cuts yet — 23 months of runway is real cushion — but I need to know the actual number I can sustain on if this extends past 12 months. Knowing my floor gives me better negotiating posture in interviews. I am not panicking. I am preparing.
 
 
 
 #### car_wash_worker  ·  `car_wash_worker`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **Focused and deliberate. The economy around me keeps contracting but my own trajectory is still pointing up. I am not one of the eight who got cut this month. I am the one going to class on Tuesday nights. That distinction matters more and more.** · Archetype: ?*
+
+**Internal Assessment:**
+
+> {'stress_level': 0.14, 'agency': 0.67, 'grief_stage': 'none', 'sentiment': 'Focused and deliberate. The economy around me keeps contracting but my own trajectory is still pointing up. I am not one of the eight who got cut this month. I am the one going to class on Tuesday nights. That distinction matters more and more.'}
+
+**Inner Monologue:**
+
+> Eight people got cut this month in Millfield. I see the spending index sitting at 42. The robotaxis are multiplying. And I am still here, still enrolled, still showing up. That is not luck — I made decisions. The car wash job could evaporate any month and I have known that since tick zero. The cert is the plan. But I got lazy last tick — it showed up as 'routine' in my outcomes and that is not acceptable when my runway is this tight. This month I fix that. I go to every class. I ask the EV question I have been avoiding. I pick up some bike delivery hours on weekends to buffer the margin. And I talk to Carlos — not asking him for a job, just asking him to help me see the road ahead more clearly. He's building toward EV too. We might be useful to each other in a year. I just have to make sure I am still standing and still building when that year comes.
+
+
+**Chosen Actions (3):**
+
+**Action 1 — `retraining_progress`**
+
+> Attend all scheduled automotive service technician certificate classes this month at Millfield Community College — Tuesday and Thursday evenings plus Saturday morning sessions. Target: advance program progress from 0.12 to approximately 0.20, completing month two of the eight-month certificate. This month's curriculum focus is brake systems and suspension fundamentals. More importantly, talk to the program coordinator or one of the instructors after class to ask directly: does this certificate include any EV-specific modules, and if so when do they appear in the curriculum? This is the question I flagged last tick and never asked. Get the answer this month. No excuses.
+
+
+**Action 2 — `network_outreach`**
+
+> Follow up with Carlos (mechanic_carlos) — not about the apprentice-track ask, which is too early and Carlos is in his own retraining transition right now. Instead, a lateral question: now that I know he's doing EV certification training, ask him specifically what that program looks like, how long it takes, and whether the Millfield Community College general automotive cert I'm in is considered a reasonable foundation for an EV specialization follow-on. I am not asking him to hire me. I am asking him to help me understand the pathway. Low ask, high signal value. Keep it a five-minute conversation, not a meeting.
+
+
+**Action 3 — `income_supplementation`**
+
+> Pick up two to three weekend gig shifts doing Instacart or DoorDash delivery. I do not own a car but I have a bike and Millfield is dense enough for bike delivery on the DoorDash platform in the core downtown zone. Target: $80 to $120 in supplemental income this month. This is not a career move. It is a runway extension. My monthly surplus is $263 and my savings runway is 1.6 months — that margin is thin enough that one bad month could put me in stress territory. Adding even $100 in gig income this month changes my cushion without adding any commitments or changing my schedule in a way that conflicts with classes or the car wash.
 
 
 
 #### ceo_regional_auto  ·  `ceo_regional_auto`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **grief, moving — the anger stage is not gone but it is no longer the loudest thing** · Archetype: ?*
+
+
+**Chosen Actions (1):**
+
+**Action 1 — `multi`** → `council_member, hr_director`
+
+> Two actions this tick, both things I have been managing around rather than doing directly. First: accept Maria Santos's meeting. She framed it right — workforce coordination, not political cover — and she is bringing the one-page handoff document connecting former employees to the $2,500 grant, First Community Bank small-dollar loans, and community college enrollment. I take that meeting, I take the document, and I commit to putting it in the hands of every person whose position I eliminated. I do not ask her to soften anything publicly. I ask her for something operational: confirmation that the 10% threshold for auto row is locked and the application window is open now, not pending a future vote. Second: I make the calls I have been deferring to Angela and to process. I sit down this week — not this month, this week — and I call three of the people whose positions were eliminated, starting with the two who had been with the business since before Rick was GM. These are not scripted calls. I do not offer them anything I cannot deliver. I tell them what their role meant, I tell them I am sorry the business got here, and I tell them specifically — by name — who they should talk to: Angela for the transition program, Howard Liu if there is anything in parts, Maria Santos's office for the grant. I do not manage the narrative of these calls. I make them.
 
 
 
 #### community_organizer  ·  `community_organizer`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **purposeful and alert — the work is compounding in ways I built toward and also revealing cracks I need to address directly. Kevin confirmed the office hours. Zoe Martinez has nothing. Betty Kowalski has four and a half months. The community center itself is not immune. I am holding all of this with intention, not panic.** · Archetype: ?*
+
+**Internal Assessment:**
+
+> {'stress_level': 0.17, 'agency': 0.62, 'grief_stage': 'none', 'sentiment': 'purposeful and alert — the work is compounding in ways I built toward and also revealing cracks I need to address directly. Kevin confirmed the office hours. Zoe Martinez has nothing. Betty Kowalski has four and a half months. The community center itself is not immune. I am holding all of this with intention, not panic.'}
+
+**Inner Monologue:**
+
+> Kevin came through. That matters more than I let myself say out loud — six ticks ago I was a community center director who had expanded the evening hours and hoped someone with institutional reach would notice. Now I have a loan officer who proposed himself as a resource, who knows the products, who will sit in my back meeting room once a month because he sees the same thing I see: there is a gap between the people who need to understand their options and the institutions that have those options to offer, and closing that gap requires a human being in a room with a folding chair and a willingness to answer honest questions. That is the community center's whole theory of change. He just named it back to me in a message. I am putting it on the calendar immediately.
+> 
+> Zoe Martinez has nothing. Zero. I have to say that plainly to myself before I can decide what to do about it. She is 22 years old, she has been doing everything right by any reasonable standard — enrolled in a retraining certificate, not asking for help she doesn't need, staying in Millfield — and she is at threat level 1. The system did not fail her visibly and dramatically. It failed her quietly, the way it always does with young women in gig work: no income floor, no savings buffer, no employer to call, no obvious door to knock on. I am her door. I reach out to her directly this week.
+> 
+> Betty I will walk to. She testified in public. That was an act of courage for someone who has been in business for thirty years and does not use words like 'vulnerable.' She sat in front of the task force and told the truth about what is happening to her diner. The least I can do is walk six blocks and tell her in person that the motion is moving and what she needs to do to be ready.
+> 
+> And the center. I have been so focused on connecting other people to their options that I have not done the one administrative act that protects my own ability to keep doing this work: I have not documented what we actually produce here. A budget cut to the community center right now — when the employment rate is 73% and the spending index is 42 and Zoe Martinez has zero dollars — would be a catastrophe dressed up as a line-item decision. I am not going to wait for that conversation to happen and then try to reconstruct the case for why we matter. I am writing the impact document this week. Not to distribute. To have. Because preparation is not the same as panic, and this work matters too much to leave to chance.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `program_formalization`**
+
+> Confirm and formalize Kevin O'Brien's monthly financial products office hours at the Community Center, starting next week. Respond to Kevin directly: confirm the room (the quiet back meeting room, not the main hall), confirm the time (Thursday evening, first 90 minutes of Community Connection Night, so the same people who come for connection are already there when Kevin arrives), and confirm I will add it to every channel I have — the Community Connection Night regulars by text and word of mouth, the retraining program enrollees directly, the bulletin board, and a handwritten note on the sign-in sheet. This is not a one-off event. I frame it publicly and internally as a recurring, structured resource: First Community Bank office hours, once a month, free, no application pressure, just a banker in the room who knows the small-dollar products and can give straight answers. I also notify Maria Santos that this is now a standing program at the center — she should know her task force recommendations are being operationalized in a physical space she can point people to.
+
+
+**Action 2 — `crisis_outreach`**
+
+> Make direct, personal contact with Zoe Martinez this week. Not through a flyer. Not through a referral. I reach out to her myself — I know who she is from the Community Connection Night network — and I ask her to come in. I do not frame it as a crisis intervention. I frame it as: 'I heard you are between things right now and I want to make sure you know what is available.' Specifically: I walk her through the grant threshold reduction to 10% and whether she qualifies as a gig worker whose income has declined; I introduce her to the First Community Bank office hours starting next week with Kevin O'Brien, who can walk through whether any secured or small-dollar credit products could bridge a very short gap; I confirm whether she is still enrolled in the Google Digital Marketing certificate and whether the community center can help with the $49/month subscription fee as an emergency micro-grant from the mutual aid fund; and I check whether she has eaten. If she has not, I feed her. This is L0 triage. Zoe is 22 years old with zero savings and zero income. The community center exists precisely for this moment.
+
+
+**Action 3 — `peer_outreach`**
+
+> Reach out to Betty Kowalski — not formally, just a walk over to the diner. Betty testified before the council. She did something hard and public and the response has been a motion in committee, which is real but slow. What she needs right now is to know the threshold change is coming and to understand what it means for her specifically. I walk over during a slow hour, sit down with coffee, and tell her directly: the 10% threshold motion is moving, it's for auto row businesses specifically, and when it passes she will almost certainly qualify based on her revenue decline. I bring the grant application materials so she can review them and be ready to move the moment the motion passes — not scrambling after the fact. I also tell her about Kevin O'Brien's office hours next week at the center, in case there is any conversation worth having about bridge financing options. Betty is at 4.5 months runway and in the anger stage of grief. She does not need another meeting. She needs someone to sit across the table from her and tell her clearly what is coming and what she can do.
+
+
+**Action 4 — `institutional_resilience`**
+
+> Begin drafting a one-page impact document for the community center — not for external publication, not yet, but as a tool I can have ready if a budget conversation happens. The center's role_security is 0.57. I have seen what happens when community institutions become invisible to the people who hold the budget: they get cut precisely when they are most needed because they are not documenting what they do. This document captures: the number of people who have come through Community Connection Night since tick 0, the services they were connected to (retraining enrollment, grant referrals, bank product information), the measurable downstream outcomes (twelve retraining enrollees this month, one-page resource in thirty-plus hands after the listening session), and the unique role the center plays that no other institution in Millfield replicates — the informal, stigma-free point of first contact for people who are not yet ready to identify as displaced or in crisis. I do not circulate this document this tick. I write it so that if I am called into a budget conversation next tick, I walk in with evidence, not a plea.
 
 
 
 #### commuter_james  ·  `commuter_james`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **focused and grounded, with a growing sense that staying insulated from the community around me is a choice I should examine** · Archetype: ?*
+
+**Internal Assessment:**
+
+> {'stress_level': 0.17, 'agency': 0.62, 'grief_stage': 'none', 'sentiment': 'focused and grounded, with a growing sense that staying insulated from the community around me is a choice I should examine'}
+
+**Inner Monologue:**
+
+> The spending index dropped from 48 to 42. Eight more people lost work last tick — Patricia's crew, Rick's floor, people from the dealership I drove past a hundred times. I know some of their names through Carlos and Frank. I am sitting here with a cert in progress, $109k in the bank, no car payment, and a job that has not moved. That is not normal right now in Millfield. It is the result of calls I made at ticks 1 through 5, calls I am proud of — but that does not make the gap between my situation and theirs any less real. I have been letting my background awareness of the community stay exactly that: background. Low-frequency. Passive. Kevin O'Brien is doing office hours at the Community Center next week. He named me as someone his sessions might reach. I am going. Not to learn how to manage my money — I know how to manage my money — but because showing up is part of being a person in a town rather than a financial portfolio inside a town. The cert comes first. Modules 5 and 6 this tick. Networking and databases — the architectural layer where the certification starts to mean something real to a hiring manager. And Howard Liu. My own reflection said it plainly: highest-trust contact, actively moving on RoboRide fleet relationships, and I have been passive. That passivity is a cost I keep paying in slow motion. One honest message. That is all it takes to begin. I am not in crisis. That is exactly when relationship-building works — before the urgency, before the ask, before the need. I have the luxury of timing. I should use it.
+
+
+**Chosen Actions (3):**
+
+**Action 1 — `TRANSFORMATION`**
+
+> Advance the AWS Solutions Architect Associate cert to Modules 5 and 6 this tick. Module 5 covers Networking and Content Delivery — VPCs, Route 53, CloudFront. Module 6 is Databases. These are the modules where the cert moves from commodity knowledge to the architectural judgment tier. Maintain the 5-6 hour weekly commitment. Log study blocks in the same weekly tracker. Do not let the completion target slip from the 4-month window. Progress should reach approximately 0.50-0.55 by end of this tick.
+
+
+**Action 2 — `COMMUNITY_ENGAGEMENT`**
+
+> Attend Kevin O'Brien's financial literacy office hours at the Community Center. One hour, drop-in. I am not going as someone who needs help — I am going as someone who is curious, who has been watching the economic pain in Millfield for seven months, and who has heard that Kevin is making himself available. Kevin is in my professional network at low trust (0.34). He named me as someone his sessions might reach, which means he is thinking about me. I go with genuine intent: to understand what people in financial distress are actually asking about, to see what Kevin has become in this environment, and to be present as a community member without performing generosity. If there is a conversation worth having about what the bank can actually do for people, I want to hear it firsthand rather than through second-hand news. I am the only person in Millfield whose financial picture has materially improved through the disruption that is hurting everyone else. I should not hide from that.
+
+
+**Action 3 — `NETWORK`**
+
+> Reach out to Howard Liu directly. This is the move my own reflection called out at tick 6 as a regret I was accumulating. Howard is my highest-trust contact (0.60) and he is actively pivoting toward RoboRide fleet relationships — which puts him at the intersection of the disruption I rode early and the supply chain ecosystem that is reshaping Millfield's auto sector. I have been passive with him while he is moving. That ends this tick. The message is honest and specific: I saw that he is working the fleet angle, I am curious how that is developing, and I want to grab coffee or a call — not to ask for anything, but because I should actually know what is happening in his world. One message, real channel (text or LinkedIn), genuine tone. The conversation that follows will tell me things I cannot learn from market data.
 
 
 
 #### commuter_rachel  ·  `commuter_rachel`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **focused and quietly urgent — the community distress is now close enough to feel personal, not just observed** · Archetype: ?*
+
+**Internal Assessment:**
+
+> {'stress_level': 0.31, 'agency': 0.82, 'grief_stage': 'none', 'sentiment': 'focused and quietly urgent — the community distress is now close enough to feel personal, not just observed'}
+
+**Inner Monologue:**
+
+> The spending index is at 42. Twenty-seven percent of people in this community are out of work. Patricia Hawkins is making the hard calls I watched her avoid for months. Tamika Jefferson — a salesperson at an auto dealership — is building a freelance marketing client list. I have been a marketing professional for nine years, I drafted my own services menu five ticks ago, and I have not sent a single real pitch. That is embarrassing in a way that cuts through the status anxiety. The freelance work is not a fallback anymore — it is a parallel track that I should have activated two ticks ago. And the insurance thing: I have known about this gap the whole time. I kept thinking of it as a future problem. The community around me is showing me what a future problem looks like when it arrives. I can afford $175 a month. I have been choosing not to spend it. That ends this tick. Two things, both executable today. Not planning. Doing.
+
+
+**Chosen Actions (2):**
+
+**Action 1 — `freelance_outreach`**
+
+> Make the first actual freelance outreach — not planning, not drafting, but a real ask. Contact Nicole at the healthcare network directly. Pitch a limited-scope project: a two-month social media audit and content calendar for their patient communications team. Frame it as a pilot engagement, low-risk for them, proof-of-concept for me. The freelance services menu I drafted at tick 5 gets used for the first time. I am pricing the engagement at $800 flat for the pilot — low enough that the answer is easy, high enough that it registers as professional. This is not about income right now. This is about having one client before I need one. Tamika Jefferson is pivoting into freelance marketing from the auto sector — she has hustle and she is motivated. The marketing freelance space in this community is about to get more crowded, not less. I move now.
+
+
+**Action 2 — `insurance_enrollment`**
+
+> Address the insurance gap directly. I have been carrying 'coverage: none' as a known vulnerability for multiple ticks and not acting on it. With employment rate at 73% and role security at 0.46, the scenario where I need individual coverage is no longer theoretical — it is a planning requirement. Spend two hours on the ACA marketplace and compare the two lowest-cost silver plans available in my zip code. Commit to enrolling this week. Budget $175/month as a line item. I have been running a $1,183 surplus — absorbing $175 for insurance still leaves me with a $1,008 monthly surplus and closes the one gap that would genuinely hurt me in a disruption. The status anxiety piece: I know there is something in my head that says 'people like me have employer coverage.' That story is how I kept ignoring this. I am letting it go.
 
 
 
 #### council_member  ·  `council_member`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **determined and financially aware** · Archetype: ?*
+
+**Inner Monologue:**
+
+> {
+>   "stress_level": "moderate — the income gap is real but not yet urgent; I have 15 months of runway and I will not let financial anxiety rush me into poor decisions",
+>   "priority_hierarchy": "L2 employment is the quiet background concern; L6 purpose and community function remain the active drivers; L1 savings buffer is eroding at $3,917/month and I need a plan before it creates pressure",
+>   "key_insight": "The council motion is the most concrete thing I can do this tick. Patricia meeting translates my infrastructure into a real pipeline for actual displaced workers. The income question is private and patient. I am not panicking. I am planning."
+> }
+
+
+**Chosen Actions (3):**
+
+**Action 1 — `policy_action`**
+
+> Bring the council motion to lower the small business stabilization grant threshold from 15% to 10% for auto row businesses specifically, and extend the application window by 60 days. I draft the motion this week and push for a vote at the next council meeting. The grounds are clear and defensible: Betty Kowalski's direct testimony before the task force, the spending index now at 42 (down from the 73 baseline), and multiple documented workforce displacement events on auto row this month. Businesses that are hurting but have not yet crossed 15% are being locked out of relief they qualify for morally if not technically. I am not expanding the program universally — I am targeting it precisely where the data shows the crisis is concentrated. I bring the written motion, I brief the other council members individually before the vote so there are no surprises, and I make clear in the public record that this is a responsive, evidence-based adjustment, not a political concession.
+
+
+**Action 2 — `meeting`** → `ceo_regional_auto`
+
+> Accept Patricia Hawkins's outreach and schedule the workforce coordination meeting. I come with the one-page document that David Chen and Lisa Freeman are producing — the concrete 'next steps' sheet connecting displaced workers to the $2,500 grant, First Community Bank's small-dollar loan products, and Millfield Community College enrollment. Patricia can hand that document to every worker she has separated from the business. I do not offer her political cover for the staffing decisions she has made. I offer a practical handoff: her displaced workers, my transition infrastructure. I also tell her directly that the grant threshold is being lowered to 10% on auto row, which means some of her affected staff may now qualify. This is the collaboration I can actually deliver.
+
+
+**Action 3 — `private_planning`**
+
+> Begin a quiet internal review of whether my role running the Economic Transition Task Force and its associated programs can be formalized into a paid position — either as a contracted program coordinator through the municipal budget, or through a foundation or regional workforce development grant. I have been operating on personal savings for two months. That is not sustainable beyond six months without distorting my judgment. I do not announce this publicly. I do not make any moves this tick. I identify who controls the relevant budget lines and whether there is precedent for compensating a council member or former council member in an administrative coordination role. This is not about prestige. It is about financial runway.
 
 
 
 #### dealership_gm  ·  `dealership_gm`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **controlled anger converting to focused action — the displacement landed hard, but the two-week mandate from Patricia is real and I am not going to waste it** · Archetype: ?*
+
+
+**Chosen Actions (3):**
+
+**Action 1 — `work_product`** → `ceo_regional_auto`
+
+> Begin building the three-tier asset map Patricia confirmed as the authoritative document for Q2 consolidation decisions. Tier one: what must be preserved regardless — the certified technicians, Carlos Ruiz first among them, and the service lane infrastructure. Tier two: what can be consolidated or restructured without destroying core capacity — showroom staffing, floor plan inventory levels, secondary lot. Tier three: what is a genuine liability and can be wound down with minimal collateral damage. I do not editorialize. I let the data do the argument. I send Patricia a brief note today confirming I am on the two-week clock and will deliver the draft map for her review before it becomes a final document. I make one thing explicit in that note: I am treating this as a consulting engagement, not a favor, and I want a conversation about what my formal status and compensation look like while I execute it.
+
+*Reasoning: Patricia gave me the clearest signal she has given anyone: service lane is the survival core and my asset map is the document she will use. I have been asking for a seat at the table. She just gave me one. The anger about the displacement is real, but it is not useful if I spend it on grievance. The useful move is to do the work, do it well, and force a formal conversation about what I am owed for doing it. Thirty-two years in this business. I know where every piece of value is buried in that floor. No consultant she could bring in from outside knows it the way I do. I need to make that legible to her before the two weeks are up.*
+
+
+**Action 2 — `relationship_maintenance`** → `hr_director`
+
+> Call Angela Wright — not a formal meeting, just a direct call. Two things: first, confirm that she received Patricia's directive about the transition program cross-reference and that it is being handled. Second, quietly clarify my own status with her. I am not enrolling in a transition program. I am executing a two-week assessment for Patricia. But I want Angela to know I am aware of the outplacement support channels, the $2,500 grant threshold drop to 10% for auto row, and David Chen's small-dollar loan products at First Community Bank — not because I need them today, but because I may need to point people toward them when I finish the asset map and some of those conversations with staff get hard. Angela is the person who keeps the human side of this from becoming a disaster. I want to stay aligned with her.
+
+*Reasoning: Angela has the highest trust in my network at 0.85. Patricia is routing transition support through her. I do not want to be a name on a list Angela is managing — I want to be a partner in how this gets handled. Staying close to her costs nothing and protects the people on the floor who are going to need her most.*
+
+
+**Action 3 — `expense_reduction`**
+
+> Cut household discretionary spending by $600 this month. Not dramatic — no signals sent to the family that would create secondary stress. But the car payment is $268, groceries and incidentals are where the slack is, and with zero income coming in I am not spending like I have a salary. The savings runway is real but I am not going to burn it faster than I have to. I do not touch the mortgage and I do not miss the debt payment.
+
+*Reasoning: No income. $80,254 in savings. $8,632 monthly burn. That is 9.3 months at current pace. The asset map engagement with Patricia may resolve into a formal compensation arrangement — but that is not guaranteed and I do not plan around it until it is in writing. I tighten now.*
 
 
 
 #### diner_owner  ·  `diner_owner`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **Controlled fury with a practical edge. Betty is done being patient. She has been waiting — for the grant, for the economy to stabilize, for someone to acknowledge that thirty years means something. The anger is not explosive; it is focused. She is angry enough to stop waiting and start forcing outcomes.** · Archetype: ?*
+
+**Internal Assessment:**
+
+> {'stress_level': 0.74, 'agency': 0.76, 'grief_stage': 'anger', 'sentiment': 'Controlled fury with a practical edge. Betty is done being patient. She has been waiting — for the grant, for the economy to stabilize, for someone to acknowledge that thirty years means something. The anger is not explosive; it is focused. She is angry enough to stop waiting and start forcing outcomes.'}
+
+**Inner Monologue:**
+
+> Four thousand two hundred sixty-eight dollars. That's what last month cost me to exist. And the month before. I sat in front of Maria Santos's task force and I told them exactly what was happening and she lowered the threshold — I should be grateful, and I am, but I am also done being grateful and waiting. My application is sitting in a pile somewhere. It qualifies now. I am going to walk into that office and make that real. Tom Bradley stopping by was kind. He looked worried about me. I do not want to be the person people worry about. I want to be the person who figured it out. Stephanie Morris has been trying to reach me about the property. I have been avoiding it because talking to a real estate agent about my diner feels like admitting something I am not ready to admit. But I know what I said in my own notes last tick: I need to know what my options are before I run out of runway to exercise them. So I call her. I ask the questions. I take notes. I do not decide anything. And the retraining grant — I have been holding that at arm's length like it means I am giving up on the diner. It does not mean that. It means I am a 61-year-old woman with a dependent and four and a half months of savings and I am not going to let pride cost me a tool. I apply. I figure out what I am applying for later.
+
+
+**Chosen Actions (3):**
+
+**Action 1 — `formal_grant_request_escalation`**
+
+> Return to Maria Santos's office in person — not by phone, not by email — with a printed copy of the original grant application submitted at tick 2, documentation of the diner's revenue decline (zero income now versus prior baseline), and a written note citing the council's explicit lowering of the threshold to 10% for auto row businesses. Betty makes clear she is not requesting consideration; she is presenting a completed application that now qualifies under the revised criteria and asking for a specific disbursement date. She does not perform gratitude or patience. She states plainly: the grant threshold was changed to help businesses like mine, my application predates the change, my situation is exactly what this program was designed for, and I need a timeline. She leaves a copy of the packet and asks for a written response within five business days.
+
+
+**Action 2 — `property_options_consultation`**
+
+> Return Stephanie Morris's call. Betty has been hearing word-of-mouth that Stephanie was going to reach out, and she calls first rather than waiting. She goes into the call with specific questions, not openness to whatever Stephanie proposes. She wants to know: what is the current market value of the diner property as a going commercial concern versus as a vacant space? What would a sublease of the commercial kitchen — to a caterer, a food truck operator, a ghost kitchen operation — realistically generate per month? What does a short-term lease of the dining room for events or pop-ups look like? Betty is not listing the property. She is getting the information she told herself she needed last tick. She takes notes. She does not commit to anything. She is building the map of options she does not yet have.
+
+
+**Action 3 — `retraining_program_inquiry`**
+
+> Apply for the $2,500 retraining grant through the city's workforce program — now accessible at the 10% threshold for auto row businesses. Betty does not know yet what she would retrain for, and she is honest about that in the application. But she has watched the $2,500 grant sit there for two ticks while she told herself she did not need retraining, she needed the diner to come back. It is not coming back the same way. The $2,500 is a tool. She applies and in the application narrative she notes her food service and small business management background, her interest in commercial kitchen operations at a larger scale, and her willingness to explore institutional food service or culinary instruction roles. She is not committing to a direction. She is opening a door while the door still exists.
 
 
 
 #### driving_instructor  ·  `driving_instructor`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **focused and building forward — Frank has a real idea now and is executing against it with the deliberate pace of a man who knows how to teach, which means breaking a large task into steps and doing one step at a time** · Archetype: ?*
+
+**Internal Assessment:**
+
+> {'stress_level': 0.19, 'agency': 0.78, 'grief_stage': 'none', 'sentiment': 'focused and building forward — Frank has a real idea now and is executing against it with the deliberate pace of a man who knows how to teach, which means breaking a large task into steps and doing one step at a time'}
+
+**Inner Monologue:**
+
+> The number this morning was $13,356. I did the math again before I made coffee. Four months, maybe a little more if I trim somewhere. I am not trimming anywhere I haven't already trimmed. The mortgage is the mortgage. The car is the car — and I need the car for what I'm building. The family expenses are not negotiable. What I have is time and a legal pad and a phone and thirty years of knowing how to walk into a room and teach something to somebody who is scared of it. That is not nothing. The AV literacy idea is the first idea in six ticks that doesn't feel like I'm trying to hold on to what used to exist. I am not trying to save the driving school. I am trying to find out if there is something new that only I can build, because of what I have seen and what I know. Mark Thompson looked at me across that table and said 'you are the right person for this.' He is not the kind of man who says things he doesn't mean. I wrote the modules this morning. I am calling the adult ed office this afternoon. I am not waiting for permission to start. I am asking for a conversation.
+
+
+**Chosen Actions (3):**
+
+**Action 1 — `curriculum_development`**
+
+> Frank sits down at the kitchen table with the notepad from the coffee meeting and writes out the three AV literacy modules he sketched in the car after meeting Mark. He is not polishing them — he is making them real enough to pitch. Module 1: 'Riding Safe — Understanding What Your Autonomous Vehicle Can and Cannot Do.' Sensor ranges, system limitations, weather performance, when the car will ask for your attention. No jargon. Designed for adults who are anxious about the technology, not excited by it. Module 2: 'The Override Moment — How and When to Take Manual Control.' Decision tree for edge cases: construction zones, emergency vehicles, unpredictable pedestrians, the situations where the system hesitates and the human needs to be ready. Frank has lived in these moments for thirty years. He knows how people freeze. He knows how to un-freeze them. Module 3: 'Sharing the Road — Driver Behavior Around Autonomous Vehicles.' How human drivers interact safely with robotaxis and AV trucks. Lane discipline, merging behavior, reading AV signals. This module is for people who will never ride in an AV but will share roads with them. He types these into a single two-page document — not a syllabus, not a proposal, just a document a person could read in five minutes and understand. He will hand this to the adult ed intake coordinator when he calls.
+
+
+**Action 2 — `institutional_outreach`**
+
+> Frank calls the adult continuing education intake coordinator using the name and number Mark gave him at the coffee meeting. He identifies himself by name, mentions Mark Thompson as the connection, and makes one ask: a fifteen-minute phone conversation, or a brief in-person meeting, to discuss whether there is an unmet need in the district's adult ed catalog for autonomous vehicle literacy instruction. He does not email. He calls. He has learned over thirty years that anxious students respond to a voice, not a form — and administrators are the same. If he reaches voicemail he leaves a message that is specific, confident, and short: his name, Mark's name, the topic, his number. He does not follow up the same day. He gives it two business days before a second attempt. He is not chasing — he is being persistent in the measured way that distinguishes a professional from a supplicant.
+
+
+**Action 3 — `grant_research`**
+
+> Frank spends an hour researching the $2,500 small business stabilization grant that Maria Santos is expanding — specifically whether a driving school qualifies under the auto row designation, given that his business was auto-sector adjacent and has experienced well above a 10% revenue decline. He looks up the application process. He does not apply this tick — he does not yet know if he qualifies — but he pulls the application criteria and makes a note of what documentation he would need: prior year revenue records, business license, documentation of revenue decline. He has all of this. If he qualifies, $2,500 covers roughly 80% of one month's expenses. He is not counting on it. He is noting it as a tool he may be able to use.
 
 
 
 #### gas_station_owner  ·  `gas_station_owner`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **Controlled urgency. The grief stage is still depression but the agency is real. I am not waiting for better conditions. I am building a decision that can survive the conditions that are actually here.** · Archetype: ?*
+
+**Internal Assessment:**
+
+> The term sheet is in my hands. The one missing piece is first-hand ChargePoint numbers rather than the bank's framing of them. Once I have that, I have everything I need to make the loan decision next tick. Insurance is not optional anymore — it was optional when savings were growing. Savings dropped $1,839 on a routine tick. The margin for unmitigated risk is gone.
+
+
+**Chosen Actions (1):**
+
+**Action 1 — `dual_outreach`** → `{'contact': 'ChargePoint commercial accounts', 'purpose': 'First-hand revenue-share confirmation before signing loan paperwork', 'expected_outcome': 'Verified per-kWh split, hardware cost structure, realistic monthly revenue range for a site like mine'}, {'contact': 'Priya Sharma (insurance_agent_priya)', 'purpose': 'Business Owner Policy quote covering property, liability, and business interruption', 'expected_outcome': 'A real monthly premium number so I can fold insurance cost into my EV charger decision framework'}`
+
+> Call ChargePoint's commercial accounts line directly — not through Kevin's bank framing — and get first-hand confirmation of their revenue-share terms for a two-station Level 2 installation at an independent fuel retail site. I want their actual per-kWh revenue split, whether they cover hardware under a host agreement, and the realistic monthly revenue range for a moderate-traffic site. I am not selling to them; I am vetting them the same way they would vet me. Simultaneously, call Priya Sharma today and ask her to quote a business owner's policy (BOP) that covers property, liability, and business interruption for a fuel-and-EV-charging retail site. I have 4 dependents and no coverage. That is not a footnote — it is a structural failure I have been deferring. I am not deferring it past this tick.
 
 
 
@@ -17537,27 +19546,27 @@ Employment rate: 0.7 · Spending index: 41.0 · Gini: 0.4935 · Protests: — ·
 
 **Chosen Actions (5):**
 
-**Action 1 — `?`**
+**Action 1 — `administrative`**
 
 > Circulate the formal stay bonus eligibility memo today. The document is overdue — I told Jake and Tamika written terms were coming this week, and this is that week. Parameters: $12,000 retention bonus, conditions from Patricia's directive, qualifying period spelled out explicitly (this is what Tamika needs to run her scenario analysis), payout timeline, breach conditions, and the precise eligibility criteria. Legal review has been done; this goes out to all remaining staff simultaneously. My name is on this. It needs to be accurate, complete, and not hedged. Jake and Tamika will read it the same day it lands. Every remaining staff member will read it. The document needs to hold up under scrutiny from a workforce that is scared and paying close attention to every word.
 
 
-**Action 2 — `?`**
+**Action 2 — `professional`**
 
 > Respond to Patricia's directive with confirmation of receipt and an active status update: I am cross-referencing the workers who departed this month against the transition program enrollment list now. Anyone not yet enrolled will receive a direct call from me within 48 hours, with her name behind it explicitly. I will inform each person of the $2,500 grant threshold reduction to 10% for auto row businesses, the First Community Bank small-dollar loan products via David Chen, and the Millfield Community College enrollment window. I am tracking each outreach contact and outcome in a log that I will share with her. This is not optics management. This is making sure the people who were separated have a real path, and documenting the methodology that connects them to it.
 
 
-**Action 3 — `?`**
+**Action 3 — `personal`**
 
 > File the consulting entity this week. Not 'research the filing,' not 'draft the name list' — file. Choose a name, open the LLC or sole proprietorship structure, file with the state, open a business bank account. The vulnerability map is real. The methodology is real. The transition outreach pipeline I am now running for Patricia is real. None of it generates consulting revenue until there is a legal entity to receive payment. Two consecutive reflection ticks named this as a regret. The window narrows every week that the entity does not exist. Do this in parallel with the transition outreach calls — these are not competing priorities, they are the same strategic move executed in two registers simultaneously.
 
 
-**Action 4 — `?`**
+**Action 4 — `personal`**
 
 > Make the personal calls to separated employees — not the formal outreach, but the real calls. One per person. Role, contribution, what I can realistically offer: a strong reference, a direct call to Howard Liu at the parts store, a connection into the transition program, or outplacement support through Maria Santos's task force channels. I drafted this intent in tick 6. I named not doing it as a failure in my reflection. I am not carrying that failure into tick 8. These calls are also the fieldwork for the methodology — but that is secondary. These were people. I ran the process. I owe them the acknowledgment.
 
 
-**Action 5 — `?`**
+**Action 5 — `project`**
 
 > Advance the workforce vulnerability map to cover the sales staff and lot attendant role clusters for all four locations — completing the two remaining category sets that follow the service technician and F&I officer work already done. Integrate Patricia's confirmed strategic pivot into the framing: the service lane is the survival core, the sales-volume model is transitioning to a service-and-retention model. This reframes the exposure scoring for sales roles and makes the document more operationally useful to Patricia's actual decision set. Rick's asset map is a floor-level assessment. Mine is an organizational methodology. They should not look like the same document.
 
@@ -17565,13 +19574,51 @@ Employment rate: 0.7 · Spending index: 41.0 · Gini: 0.4935 · Protests: — ·
 
 #### insurance_agent_priya  ·  `insurance_agent_priya`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **Tight. Not panicked but the numbers are real and I have been soft-pedaling the urgency for two ticks in a row. The inbox is full of layoff news — Patricia Hawkins, Rick Tanner, people from the auto mall. The policy count is at 22. Spending index is at 42. Angela and Betty are listed as stressed. This is not abstract disruption anymore. This is the economy I work inside. I feel the difference between knowing things are bad and seeing the names of people having hard months. That makes me want to move faster, not freeze. Submitting the grant application is the thing I can do right now that is concrete, free, and overdue. I do it first.** · Archetype: ?*
+
+**Internal Assessment:**
+
+> My tick 6 reflection was unambiguous: 'by tick 8 or 9 I should have: (1) the grant application submitted.' I am at tick 7. That window is now. Savings have dropped to roughly $13,981 and I am burning approximately $2,100 per month beyond my income. The retraining grant is the single most obvious, lowest-friction action available to me and I have deferred it twice. There is no good reason for that. I submit it this tick.
+
+
+**Chosen Actions (3):**
+
+**Action 1**
+
+> submit_retraining_grant_application
+
+
+**Action 2**
+
+> request_status_update_from_linda
+
+
+**Action 3**
+
+> check_david_chen_response_and_advance_module_4
 
 
 
 #### insurance_agent_tom  ·  `insurance_agent_tom`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **The specific clarity from tick 6 is still holding. Not optimism — something more functional than that. The number is 17 months, now probably 16. That number has weight. I am not running from it anymore. The actions this tick cost nothing except time and require nothing except showing up, which is something I can still do. The Priya conversation matters most. If the commercial pivot is real, I need to understand it at the licensing level, not the managerial talking-points level. If it isn't real, I need to know that too, because the grant money and any retraining effort should go somewhere that actually leads somewhere.** · Archetype: ?*
+
+
+**Chosen Actions (3):**
+
+**Action 1 — `social_outreach`**
+
+> Follow through on the honest conversation I opened with Priya last tick. This isn't another soft check-in — I come with specific questions. What has she actually learned about the commercial fleet and AV liability pivot at AutoShield? Is there a formal training track, or is it still vague corporate language? Does she know of any agents who have made the transition, and what did that actually look like — new licensing, new territory, new quota structure? I also tell her directly: the sector data has 22 policies active and the trend line is not ambiguous. I'm not asking her to solve that for me. I'm asking her to think alongside me about whether the AutoShield pivot is a real path or a holding pattern. I want her honest read, not the version she'd give Linda Park.
+
+
+**Action 2 — `professional_development`**
+
+> Pull up the state insurance licensing requirements for commercial lines — specifically commercial auto and fleet liability. Not enrolling in anything yet. Just reading. Twenty-eight years in personal auto means I understand risk assessment deeply; the question is whether that translates to commercial fleet liability or whether I need to sit for a separate exam. I want to know the answer before the next time anyone asks me if I'm 'interested in the new product lines.' Right now I don't know what I don't know. That changes today. I spend ninety minutes online with the state DOI website and the CPCU Society course catalog. No money spent. No commitment made. Just information.
+
+
+**Action 3 — `community_observation`**
+
+> Stop into Betty Kowalski's diner — I've been going there for years and she's visibly stressed right now. I don't pry. I buy coffee, I ask how she's doing, I listen. What I'm actually doing is reading the ground-level signal: is the diner traffic down because people are using RoboRide and skipping the car-trip stops? Is her clientele shifting? Betty has eyes on this neighborhood in a way that the sector data doesn't capture. She's also a person I've known for a long time who is scared, and I have enough steadiness left to sit with that without making it about me. The faith part of me that still functions says: show up for people when they're struggling. Even if all I do is listen.
 
 
 
@@ -17590,22 +19637,22 @@ Employment rate: 0.7 · Spending index: 41.0 · Gini: 0.4935 · Protests: — ·
 
 **Chosen Actions (4):**
 
-**Action 1 — `?`**
+**Action 1 — `act_on_external_call_outcomes`**
 
 > Follow through on the three external conversations I opened in tick 6. I documented each outcome after the calls. This tick I take the next concrete step for each: for any contact who expressed interest, I schedule and confirm the 20-minute conversation within this two-week window — I do not let it slip to next month. For any contact who was non-responsive or said not now, I send a brief professional note: 'Thank you for the conversation. I am continuing to build out my CRMP credential and wanted to confirm I remain interested if a relevant opening emerges.' I close the loop on all three regardless of outcome. The goal is to have active status with at least one of the three by end of this tick.
 
 
-**Action 2 — `?`**
+**Action 2 — `have_direct_conversation_with_tom_bradley`**
 
 > Sit down with Tom Bradley this week — in person, not email, not a team meeting. He responded to my commercial fleet briefing, which means he is engaged with the strategic question rather than just waiting. I owe him a direct conversation about where I think the personal auto book is heading and what the commercial pivot memo means for his role. I ask him directly: what did the briefing raise for him, does he want to be positioned for commercial work if AutoShield pivots, and what is his own plan if they do not? I am not his career counselor, but I am his manager and I have been treating this team like the silence from corporate means nothing. It does not mean nothing. Tom deserves the same honesty I gave Priya at tick 5. I document this conversation privately.
 
 
-**Action 3 — `?`**
+**Action 3 — `contact_rick_tanner`**
 
 > Reach out to Rick Tanner directly — brief, professional, peer-to-peer. He is under visible stress this tick (I can see it in our shared professional circle). His consolidation assessment is formalizing. I am not asking him for a favor and I am not managing his situation. I reach out as a professional contact in the same disrupted ecosystem: 'I have heard the consolidation assessment is taking shape. If there is anything on the risk or liability coverage side — fleet coverage for vehicles moving off your lot under a service-retention model, commercial property transitions — I want to make sure you have a contact who understands what AutoShield can and cannot currently offer. And separately, how are you holding up?' The goal is professional relationship maintenance with someone whose business trajectory directly maps onto my commercial pivot thesis. His trust is 0.58 — enough to be direct without it being strange.
 
 
-**Action 4 — `?`**
+**Action 4 — `advance_crmp_certification`**
 
 > Complete this month's scheduled 6-8 hours of CRMP coursework. The module focus is liability risk transfer and commercial fleet risk assessment — the exact material that maps to what is happening in Millfield right now. At 20% completion with months_invested at 2, I am on track but I cannot afford to slip. The auto row distress designation, the Tanner consolidation, the RoboRide fleet exposure — all of this is live case study material. I study it as curriculum, not just news. I note in my study log how the Millfield situation illustrates the theoretical frameworks I am learning. This doubles as documentation that my professional development is directly responsive to market conditions.
 
@@ -17616,31 +19663,130 @@ Employment rate: 0.7 · Spending index: 41.0 · Gini: 0.4935 · Protests: — ·
 
 #### loan_officer  ·  `loan_officer`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **steady, with edge. The WOM about David is the most destabilizing signal I have faced in seven ticks. I am not catastrophizing. I am not waiting. I am doing the two things I should have done at tick 4: making the paperwork real, and treating David as someone who might not be here in 60 days.** · Archetype: ?*
+
+**Internal Assessment:**
+
+> {
+>   "trigger": "Two WOM signals both pointing to David Chen making changes — one suggesting he is reaching out directly to Kevin, the other suggesting a quiet job search. Combined with tick 6 reflection identifying the un-filed HR paperwork as an active regret.",
+>   "financial_logic": "Filing the tuition reimbursement form costs nothing and takes two hours. It converts a verbal commitment into an institutional record. If David departs and the paperwork is in the system, any successor manager inherits a documented, bank-funded training program. If the paperwork is not in the system, the pathway dies with David's departure.",
+>   "risk_mitigation": "The primary structural risk to Kevin's adaptation plan is manager-dependent pathway fragility. This action directly addresses that risk by formalizing the NMLS enrollment through HR rather than leaving it on David's calendar.",
+>   "opportunity": "David reaching out directly may mean a transition conversation, a warning, or a referral. Any of those outcomes is better navigated in person, prepared, than by waiting. Kevin has been a reliable investment. He should show up as one.",
+>   "community_channel": "Lisa Freeman office hours is a low-cost, high-visibility action that creates value independent of any internal bank dynamic. Three new retraining enrollees this month means there is a real audience."
+> }
+
+
+**Chosen Actions (1):**
+
+**Action 1**
+
+> formalize_nmls_pathway_and_respond_to_david_chen
 
 
 
 #### mechanic_carlos  ·  `mechanic_carlos`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **Steady. Not calm exactly — there is too much bad news for calm. But steady. The sector data is doing what I expected it to do. The certification is doing what I hoped it would do. The right move this tick is to keep working the training and make one quiet, dignified move toward a future network before it becomes urgent. I am not panicking. I am preparing.** · Archetype: ?*
+
+**Internal Assessment:**
+
+> The sector is contracting — auto revenue at 79, employment at 73%, consumer spending at 42. These numbers are moving in one direction. My role security is still 0.77 but that number was set in a different environment. The reflection from last tick was explicit: if security drops below 0.6, start networking outward. I am not waiting for 0.59. The right move is to begin warm contact now, before I need something. Angela Wright is stressed — I know this from the neighborhood. A human check-in costs me nothing and keeps a door from closing before I need it open. Meanwhile the training continues. It has to. Month three is not the time to ease up.
+
+
+**Chosen Actions (2):**
+
+**Action 1 — `training_continuation`**
+
+> Continue EVT Level 2 evening and weekend coursework — month three, focusing on charging infrastructure, onboard chargers, and inverter/motor controller diagnostics. The sector data is not improving. The robotaxis are visible on my street now. Every hour in that classroom is an hour toward a credential that will still matter when the dust settles. Show up after the shop closes. Do the reading. Take the practice tests seriously. This is month three of ten. Progress is real even when it doesn't feel like it.
+
+
+**Action 2 — `social_outreach`**
+
+> Send a short, low-key message to Angela Wright at the regional auto group. Not a job inquiry — not yet. Something honest: the sector numbers are rough, I've seen she's stressed, I wanted to check in as a neighbor who's watching the same disruption from a different seat. Mention that I'm in the middle of EVT Level 2 certification in case she hears of shops or groups looking for EV-certified technicians down the road. Plant the seed without the desperation. Trust with Angela is only 0.4 — this is a trust-building move, not a ask.
 
 
 
 #### mechanic_sarah  ·  `mechanic_sarah`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **steady and deliberate. The mood around the shop is tighter this week — Rick and Angela carrying visible stress, and the robotaxi observation confirms the sector signal is not slowing down. That actually makes me calmer, not more anxious. I moved early. The cert is in motion. The thing I have been avoiding is the insurance gap, and I am done avoiding it.** · Archetype: ?*
+
+**Internal Assessment:**
+
+> Tick 7 is not a pivot point. It is a continuation. The EVT cert stays on track — that is the primary work. But my own reflection named insurance as the outstanding unaddressed vulnerability, and I have concrete runway and income to address it. Getting quotes is not a commitment, it is eliminating a blind spot. The social signals this tick — Rick and Angela's stress, the sector index holding at 79, Maria Santos making public moves on RoboRide — all reinforce that the environment is not stabilizing. I should not be the person who planned carefully and then got knocked sideways by a health bill or an accident.
+
+
+**Chosen Actions (2):**
+
+**Action 1 — `skill_development`**
+
+> Continue EVT Level 1 certification coursework. This tick focuses on the drivetrain and motor control module — the section that bridges my existing mechanical repair background with EV-specific systems. Log at least 6 study hours over evenings this week. I am running ahead of curriculum pace because of my electrical background. I want to stay ahead.
+
+
+**Action 2 — `financial_stabilization`**
+
+> Finally address the insurance gap I have been deferring. Spend one evening this week getting actual quotes — basic health coverage through the marketplace and renter's or personal liability policy. I flagged this in my last reflection and then did nothing. The sector data is at 79. Rick and Angela are visibly stressed. I have 5 months of runway and a cert in progress — I cannot keep leaving that exposure open. This is not a purchase yet, just getting numbers so I can make an actual decision next tick.
 
 
 
 #### parking_garage_mgr  ·  `parking_garage_mgr`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **Focused and cautiously encouraged. A phone screen invitation came back through Grace Okafor's contact at the hospital — not a job offer, not even a formal interview, but a real human response after seven ticks of deliberate effort. That matters. It confirms the framing is working. Meanwhile the world outside the garage is compressing harder than expected — spending index at 42, eight people in the community lost positions this tick, the auto sector still bleeding. Denise is not scared. She is precise. She knows exactly what she is doing and why.** · Archetype: ?*
+
+**Internal Assessment:**
+
+> {'stress_level': 0.15, 'agency': 0.74, 'grief_stage': 'none', 'sentiment': "Focused and cautiously encouraged. A phone screen invitation came back through Grace Okafor's contact at the hospital — not a job offer, not even a formal interview, but a real human response after seven ticks of deliberate effort. That matters. It confirms the framing is working. Meanwhile the world outside the garage is compressing harder than expected — spending index at 42, eight people in the community lost positions this tick, the auto sector still bleeding. Denise is not scared. She is precise. She knows exactly what she is doing and why."}
+
+**Inner Monologue:**
+
+> Seven ticks. I have been employed the entire time. Savings are up. My stress is lower than it was at tick zero, which is strange until I think about why: the ambiguity is gone. I know what I am doing. I know why. The framing I built in tick one — operations professional, not parking garage manager — is starting to stick. Grace came through. A real human being at a real hospital read my name and sent a connection request. That is not nothing. That is the whole theory of change I have been working on since tick four. The garage is still running. The macro is ugly — 42 on the spending index, eight people in the community lost their positions this tick, RoboRide protests outside city hall. I am watching all of this and I am not panicking. I have a plan. I am working the plan. I found one more door this tick: the CFM credential. Forty-nine dollars to be able to say 'currently preparing for certification' in my next cover letter. That is the cheapest line item I have spent on this transition and it might be the one that gets the phone screen to become an offer. The garage pivot memo is sitting in a folder on my desktop. It might matter. It might not. But the day the owner asks me what I think should happen to this building in five years, I will have a one-page answer ready. That is the kind of manager I am. That is the kind of manager I am going to keep being, in whatever facility comes next.
+
+
+**Chosen Actions (3):**
+
+**Action 1 — `job_search_follow_through`**
+
+> Act immediately on the phone screen invitation that came back through Grace Okafor. Her hospital contact, Nicole Washington, passed Denise's name to the facilities director at Millfield General, who has an opening for an Infrastructure Operations Supervisor. The message came back informally — a LinkedIn connection request with a note saying 'Grace mentioned you, I would like to learn more about your background.' Denise responds the same day. She confirms interest, attaches her resume, and proposes three specific time windows for a call this week. She does not over-explain in the message. One short paragraph: who she is, why the role fits, and a clear ask. She also does one additional cold application this tick to the county parks and facilities department, where a Grounds and Facilities Operations Manager posting went live on the county HR portal. Seven applications now in pipeline. She frames both submissions identically: 24/7 safety-critical multi-shift operations, budget oversight for a high-volume public-access facility, compliance and staffing management. She does not use the word parking once.
+
+
+**Action 2 — `garage_pivot_research`**
+
+> Spend a focused two hours this week researching what it would take to convert two of the garage's underutilized lower-level bays into EV charging infrastructure and one area into a designated RoboRide staging zone. This is not a personal career move — it is a business case Denise is building for her employer, the garage owner, to future-proof the asset. But it is also smart positioning: if she can walk into a job interview at a municipal facilities or property management role and describe how she proactively proposed an infrastructure modernization plan for her current facility, that is a concrete demonstration of exactly the kind of forward-looking operations thinking those employers want. She pulls up FHWA and state DOT grant programs for EV charging infrastructure at commercial facilities. She notes that the city council is actively managing RoboRide through a per-ride fee structure and workforce fund — Maria Santos's policy work signals that the city sees RoboRide as a permanent fixture, not a phase. A formal staging zone in a downtown garage could be part of a city-level negotiation. She documents her findings in a one-page internal memo addressed to the garage owner: current utilization data, two possible conversion scenarios, and rough cost/grant offset estimates. She does not present it yet. She finishes it and holds it. It is both a business proposal and a portfolio artifact.
+
+
+**Action 3 — `professional_development_investment`**
+
+> Purchase a study guide and practice exam bundle for the Certified Facility Manager (CFM) credential through IFMA — the International Facility Management Association. The CFM is the recognized credential for the exact roles Denise is applying to. She is not enrolling in the full exam yet — the exam costs several hundred dollars and requires documented experience hours she needs to formally compile. But owning the study materials and starting to work through them does two things: it gives her something concrete to mention in cover letters and interviews ('currently preparing for CFM certification'), and it begins building the vocabulary and frameworks that hiring managers in facilities operations use. The bundle is $49. That is a low-cost signal with meaningful framing value.
 
 
 
 #### parts_store_owner  ·  `parts_store_owner`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **alert and purposeful — the bleeding is visible now and the window on several opportunities is closing** · Archetype: ?*
+
+**Internal Assessment:**
+
+> {'stress_level': 0.22, 'agency': 0.79, 'grief_stage': 'none', 'sentiment': 'alert and purposeful — the bleeding is visible now and the window on several opportunities is closing'}
+
+**Inner Monologue:**
+
+> Tick 6 was a $1,323 bleed and I did nothing. I called it routine and the month ate me. I've got roughly 10 months of runway left and I've been telling myself that's comfortable — it isn't. Every month I run this deficit, that number shrinks by one. The grant application is the obvious move I've been putting off because filling out paperwork feels like admitting I'm struggling. I am struggling. Put the application in. The Carlos call is overdue — I did the discovery two months ago, I got the intelligence, and then I sat on it while he went deeper into EV work. By now he's got specific parts he can't source locally and I'm not in that conversation. Fix that today. And Patricia — she said she'd call me about her people. I should be the one calling her. If there's a former parts counter person or service writer looking for hours, I want them before someone else figures out what I figured out: experienced automotive people are a resource right now, not a liability. The store doesn't need more inventory sitting on shelves. It needs relationships that generate recurring orders. That's what I'm building.
+
+
+**Chosen Actions (3):**
+
+**Action 1 — `grant_application`**
+
+> Apply for the Millfield small business stabilization grant. Maria Santos lowered the auto row threshold to 10% revenue decline — Howard's revenue is down well past that. Pull three months of receipts, prepare a one-page business summary, and submit the formal application through the city council's program. The $2,500 would cover roughly one month of the deficit. This is not a salvation — it is one fewer month of savings erosion while the B2B pipeline converts. The application itself takes four hours, costs nothing, and signals to the city that Howard's Parts is a functioning business worth preserving. Do it today.
+
+
+**Action 2 — `supplier_relationship_development`**
+
+> Call Carlos Ruiz directly — not for discovery, for orders. Carlos has been in EV retraining for several ticks now. The shop is beginning to take on real EV and hybrid work. Howard calls to ask one specific question: what parts did you need this week that you had to wait on or couldn't source locally? Then he offers to stock it. The conversation is narrow, operational, and ends with a specific SKU list or a verbal commitment that Howard is the first call next time. If Carlos mentions high-voltage gloves, ADAS sensors, or EV-specific brake fluid, Howard writes it down and sources it this week from his existing distributor relationships. This is the transition from relationship-building to actual EV revenue.
+
+
+**Action 3 — `network_outreach`**
+
+> Call Patricia Hawkins before she has to track Howard down. Howard knows from the community grapevine that Patricia is referring departed auto workers to local employers. He calls her directly: thanks her for thinking of his store, asks who she has in mind, and listens. He is not hiring full-time — he cannot afford that. But he can offer 10-15 hours per week of part-time floor work to one person with automotive knowledge who needs income while retraining. A former service advisor or parts counter person from the dealership would bring skills Howard needs and connections Howard doesn't have. This is a low-cost way to add capacity, deepen the dealership ecosystem relationship, and potentially inherit a customer contact who already knows the professional market. Howard frames it to Patricia not as charity but as a genuine business fit.
 
 
 
@@ -17648,24 +19794,138 @@ Employment rate: 0.7 · Spending index: 41.0 · Gini: 0.4935 · Protests: — ·
 
 *Emotion: **?** · Archetype: ?*
 
+**Internal Assessment:**
+
+> {'stress': 0.1, 'agency': 0.62, 'grief_stage': 'none', 'emotional_tone': 'first-responder focus — the call I have been building toward for six ticks is happening right now, and I am walking into it with real numbers, not talking points'}
+
+**Inner Monologue:**
+
+> She called me first. Betty Kowalski, who I have been circling for six ticks, who I called to 'plant a seed' last tick like I was a gardener instead of an agent — she called me first, and she came in with specific questions. Market value. Lease. Sell. Sublease. These are not the questions of someone who wants to feel better. These are the questions of someone who has already made a decision in her head and needs the data to confirm it or change it.
+> 
+> So I ran the comps last night. Three hundred ten to three hundred seventy thousand is the honest range. Twenty-five to thirty percent below where that property would have traded fourteen months ago. I do not like saying that number. Betty has been in that building for thirty years. The number is going to land hard. But she did not call me to be protected from the number — she called me because she needs it.
+> 
+> The Maria Santos thing I should have done at tick 4. I knew it at tick 6 when I named it explicitly as a regret. Regret is only useful if you act on it. She issued the compliance statement this week, which means the accountability narrative is live, which means the task force is in evidence-gathering mode. I have seven ticks of evidence. I am not going to wait for tick 8 to make the call.
+> 
+> Amir Patel is the one that keeps me up at night a little. He has 4 dependents and 25 years in that station. His identity is in that property in a way that Betty's is in her diner — maybe even more so. Telling him to sell before the announcement feels like telling someone to abandon their post. But the math is the math: if the spending index stays below 50 and the Tanner layoffs formalize, his customer base has nowhere to go. The adaptive reuse angle is real — that site has real infrastructure value — but I have to make sure I am selling him on the upside of a decision, not just the fear of the downside. He deserves that framing.
+> 
+> I have 11.7 months of runway. I have one dependent. My own situation is stable enough that I can afford to do this work right — to give Betty the real number, to call Maria Santos with a real offer, to call Amir before the news breaks and tell him the truth. That is what adapter means to me at this point. Not surviving the disruption. Using my stability to help other people make better decisions than they would make alone.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `EXCHANGE`** → `diner_owner`
+
+> I take Betty Kowalski's call and I come prepared. She called me first — which means the trust is there, but also means she's in a decisive frame of mind and she has done her homework. I am not going to manage this call; I am going to answer it. Before I pick up I have already pulled three comps: the closest comparable auto row commercial parcel sold 14 months ago at $485,000 — before the RoboRide announcement, before the spending index dropped to 42, before 27% of the county's workforce filed adjusted employment paperwork. Current distressed market conditions, combined with the formal auto row designation as an economic impact zone, put Betty's diner property at a realistic market value range of $310,000–$370,000 on a straight sale — down roughly 25–30% from the pre-disruption comp baseline, and I tell her that directly. I do not soften it. She is 30 years in business; she deserves the number, not a hedge. Then I walk her through the three realistic options she asked about: (1) Sale — $310K–$370K range today, likely to compress further by tick 10–12 if the Tanner consolidation formalizes publicly and the spending index holds below 50; move now to capture the better end of that range. (2) Sublease — she retains the property, finds a subtenant who can operate under her existing lease terms; works if she can find a non-auto, non-food-service use that doesn't require heavy foot traffic. Medical office, trade services, storage conversion. Timeline: 30–60 days to find a subtenant in this market, and I'm not going to lie about the difficulty. (3) Stay and negotiate with her landlord — if she owns the property outright, different math; if she's leasing, she has leverage right now because landlords know vacancy is coming and a known tenant on modified terms is better than six months empty. I ask her which of these feels closest to what she needs to figure out. I also tell her two things she may not know: Kevin O'Brien from First Community Bank is doing office hours at the Community Center starting this week — no application pressure, just a banker in a room — and she has already applied for the retraining grant, which means she's ahead of most people on auto row. Those two facts matter for her optionality regardless of which real estate path she chooses. I end the call by offering to walk the property with her this week if she wants a formal written valuation she can use with her landlord or a prospective buyer.
+
+*Reasoning: This is the call I missed at tick 6 by planting seeds instead of giving answers. Betty came to me this time, and she came with specific questions — valuation, lease, sell, sublease. That is a decision-ready client. The relationship converts when I show up with the actual numbers and the professional judgment to interpret them. If I hedge or defer, I lose both the client and the credibility I have spent seven ticks building on auto row. The +$657 reflects my baseline driving income from active listings and referral pipeline that continues regardless of whether this listing closes this tick.*
+
+
+**Action 2 — `SIGNAL`** → `council_member`
+
+> I reach out to Maria Santos's office today — before the Tanner news breaks, while the RoboRide compliance statement is still fresh and the auto row distressed designation is the most recent public data point. My ask is specific: I want to present a real estate data brief to the task force or council subcommittee. Not a pitch. Not advocacy for sellers. An actual data brief — seven ticks of property value trajectory on auto row and adjacent commercial corridors, current comp analysis, projected value compression scenarios at three spending index levels (current 42, recovery to 65, continued decline to 30), and adaptive reuse demand mapping showing where displaced commercial tenants are most likely to find alternative space. Maria's compliance statement signals she is in accountability mode right now — she needs credible, non-political data to anchor the policy conversation. I have that data. I have been compiling it since tick 1. My message to her office is: 'The task force has worker data, business revenue data, and transit adoption data. What it does not have is property value trajectory — what is happening to the physical assets that anchor auto row. I can present a 15-minute brief that fills that gap. I am offering this as a civic contribution, not a commercial solicitation.' I note explicitly that I am available for the current week if there is a meeting window. If the task force is meeting before the Tanner announcement, I want to be in the room before that announcement shifts the conversation.
+
+*Reasoning: My tick 6 regret was explicit: I did not connect with Maria Santos and I missed the window to be the real estate voice in the auto row policy conversation. The compliance statement she issued this tick is a door opening. She is looking for data to support accountability — I have seven ticks of market data that no other source in Millfield has. The ask costs me two hours of preparation and one phone call. The upside is a seat at the table that makes every future listing conversation on auto row more credible, because I can honestly tell property owners that I am the agent briefing the council task force. That is not a sales tactic; it is what will be true.*
+
+
+**Action 3 — `SIGNAL`** → `gas_station_owner`
+
+> Before the Tanner consolidation assessment goes public — and I believe it goes public within one to two ticks — I make direct phone calls to the two auto row property owners in my pipeline who are still on the fence: Amir Patel (gas station, Route 9) and the parts store landlord. I do not email. I call. The message is the same to both and it is honest: I have been tracking the Tanner auto mall consolidation assessment. Formal consolidation means formal layoffs. Formal layoffs mean the spending index — already at 42, already below half of baseline — drops further and faster. Every week of delay is a week of price compression baked in. I am not asking them to panic. I am asking them to make the decision they have already been thinking about, before the news cycle makes it for them. For Amir specifically: his property has adaptive reuse value that the market has not priced yet — his site has utilities, fuel infrastructure, and highway visibility that could attract an EV charging retail hybrid operator or a fleet services node. That value exists today. It will be harder to argue for after the Tanner announcement because buyers will be anchoring on distress, not on upside. I give him that framing explicitly. I am not manufacturing urgency. The Tanner signal is real and I anticipated it at tick 6 precisely so I could be ahead of it this week.
+
+*Reasoning: I said at tick 6 that the Tanner consolidation assessment going formal was the signal I was waiting for. It has gone formal. If I wait until the layoff announcement hits local news to call these owners, I am calling them at the same moment every other agent in the county is calling them, and at the moment their psychological state is most defensive. I call them now, before the announcement, when I can frame the conversation around forward optionality rather than reactive damage control. That is what it means to be ahead of the signal.*
+
+
+**Action 4 — `OBSERVE`**
+
+> I note the word-of-mouth signals in my inbox and log them without acting on them this tick: James Patterson is making a quiet professional move — that is a future relocation or workspace inquiry, not auto row. Dale Cooper cooling on Henderson as a location and following up with Lisa Freeman — that is a possible commercial tenant movement, potentially a renter looking to relocate a business or a service concept. I do not chase these this tick. I am at capacity with the Betty call, the Maria Santos outreach, and the pre-Tanner owner calls. But I log both signals with names, tick numbers, and the behavior patterns so that at tick 8 I can follow up from a position of 'I noticed this a week ago' rather than 'I just heard.' The intelligence advantage in a disrupted market is not just acting fast — it is tracking everything so that when the moment is right, I can act with context.
+
+*Reasoning: Agency requires triage. I have three high-priority actions this tick that all require real presence and real data. Chasing every signal simultaneously would dilute all of them. The Patterson and Cooper signals go into my log for tick 8 follow-up. This is not ignoring opportunity — it is sequencing it.*
+
 
 
 #### retiree  ·  `retiree`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **Purposeful and clear-eyed. The internal work is done. I am watching Millfield struggle and I have things to give — time, skills, stability, presence. The community's pain is real and I will not look away from it, but I am not paralyzed by it. I am available.** · Archetype: ?*
+
+**Internal Assessment:**
+
+> {'stress_level': 0.21, 'agency': 0.67, 'grief_stage': 'none', 'sentiment': "Purposeful and clear-eyed. The internal work is done. I am watching Millfield struggle and I have things to give — time, skills, stability, presence. The community's pain is real and I will not look away from it, but I am not paralyzed by it. I am available."}
+
+**Inner Monologue:**
+
+> I spent five ticks on my own transition. I needed that time — I did not rush it, I did not fake it, and the adaptation is real. But I have been watching Millfield from inside that process, and now that the process is done I can see clearly what I was only half-attending to. Eight people lost their positions this past period. The spending index is at 42, which means businesses are struggling in ways that will compound unless people with means choose to spend locally. Betty is stressed. Robert is facing displacement. Miguel is retraining. These are people I know. The community center has programming right now that could use someone who knows how to teach — who knows how to stand in front of a room of anxious people and make something difficult feel manageable. I know how to do that. I have been doing it for forty years. I am 72 and I am car-free and I have a surplus and I have time and I have no excuse. The 2am fear that I carried for years turned out to be addressable. That story belongs to the community now, not just to me. I am going to tell it. I am also going to call Robert. That conversation has been sitting unfinished for too long. He deserves my honesty more than my avoidance.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `community_volunteering`**
+
+> Contact Lisa Freeman at the Community Center this week and offer to co-facilitate a session in her transportation access education series. My offer is specific: I will speak from direct experience as someone who made the car-free transition in Millfield — what I feared, how I tested those fears, what RoboRide actually costs and how the app works, what happens at 2am. I am not a spokesperson for the service. I am a 72-year-old woman who was afraid and is no longer afraid, and I can explain exactly why in terms that other older adults and people on fixed incomes will recognize. I will also bring printed materials — I will write a one-page summary of the process, in plain language, that Lisa can hand out in future sessions. I am a retired teacher. Making complex things legible to people who are nervous is something I have done for forty years.
+
+
+**Action 2 — `community_support`**
+
+> Stop into Betty's Diner on Auto Row this week — not to check on the disruption statistics, but because Betty is a person I know by name and her stress is visible in the community. I will bring nothing in particular. I will order coffee and a meal and I will ask her how she is doing and I will mean it. If she wants to talk, I will listen. If the diner is slow, my being there and spending real money is a small act of economic solidarity. I will not offer advice she hasn't asked for. I will not perform concern. I will simply be present for someone who is carrying a heavy load right now. Spending: approximately $18 for coffee and a full meal, and I will tip generously.
+
+
+**Action 3 — `relationship_repair`**
+
+> Call Robert Jackson this week. I have been carrying the awareness that he is being displaced by the exact service I now depend on, and I have been deferring the conversation because I did not know what to say. I still do not know what to say, but deferring it further is cowardice dressed as consideration. I will call him. I will acknowledge directly that I use RoboRide, that I understand his livelihood is affected by that, and that I am thinking about him. I will ask how he is doing. I will not pretend I have a solution. I will not offer hollow consolations. If he is aware of Kevin O'Brien's financial literacy office hours or Angela Wright's transition program, I will mention them — not as fixes, but as things that exist. The conversation may be uncomfortable. I will sit in the discomfort.
+
+
+**Action 4 — `community_investment`**
+
+> Make a $150 contribution to the Millfield Community Transition Fund — the mutual aid pool that Angela Wright and Maria Santos are building. I have $947 in monthly surplus and $118,511 in savings. I am not in crisis. People around me are. $150 is a meaningful but not destabilizing amount, and it is the kind of concrete act that goes beyond presence and concern into material support. I will not announce this. I am not doing it for recognition. I am doing it because I was a teacher for thirty-one years and I believe communities that hold together through disruption are built from exactly these small private decisions.
 
 
 
 #### rideshare_driver  ·  `rideshare_driver`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **Purposeful and forward-leaning. The certification finish line is in sight and Robert is already thinking past it. The rideshare income is still there but he no longer identifies with it. He is running two tracks simultaneously and holding both without friction — which is itself a sign of how much his thinking has shifted since tick 1.** · Archetype: ?*
+
+**Internal Assessment:**
+
+> {'stress_level': 0.28, 'agency': 0.68, 'grief_stage': 'none', 'sentiment': 'Purposeful and forward-leaning. The certification finish line is in sight and Robert is already thinking past it. The rideshare income is still there but he no longer identifies with it. He is running two tracks simultaneously and holding both without friction — which is itself a sign of how much his thinking has shifted since tick 1.'}
+
+**Inner Monologue:**
+
+> I finished it. Three months of getting home from a ten-hour shift, changing my shirt, eating standing up in the kitchen, and driving to the community college parking lot by 6:45. Marcus never complained once. I don't know if he understood what I was doing or just felt that he shouldn't push. Either way. The cert is in my hand now and I am not going to sit on it for two weeks like I sat on the grant application research back at tick 1. The window between credential and first contact should be as short as I can make it. I am calling Millfield Medical Transport tomorrow morning before my first pickup. I already know their routes. I've dropped patients at the dialysis clinic on Emerson at least forty times. I know what the parking situation looks like at 7am. I know which entrance the drivers use. That is not nothing. That is three years of accumulated knowledge that I can actually sell now. The spending index dropped again — 42, down from 73 when this started. People are hurting and the rideshare pool is contracting faster than RoboRide is growing it. That number tells me I made the right call in April when I enrolled. The question now is not whether to move toward NEMT. The question is how fast I can get there before I need to. I want to make this transition from strength, not necessity. I have maybe four to six months before the rideshare income becomes genuinely unreliable. That is enough runway to do this right — interview well, negotiate a fair rate, not grab the first offer out of fear. I did not spend three months in evening classes to undersell myself on the other side.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `education_completion`**
+
+> Complete the final two weeks of the NEMT certification course at Millfield Community College. Attend all remaining evening sessions. Complete the final written exam covering patient transport protocols, wheelchair securement, emergency procedures, and documentation requirements. Pass the practical vehicle inspection component. Receive the NEMT driver certification credential. This is the payoff of three months of evening classes on top of full daytime driving shifts. The credential is now in hand.
+
+
+**Action 2 — `job_search`**
+
+> Begin direct outreach to NEMT employers in the Millfield area this week, now that the credential is secured. Contact three targets: (1) Millfield Medical Transport, which operates a six-vehicle fleet serving the regional dialysis clinic and two assisted living facilities — Robert has picked up patients near these facilities and knows the routes cold; (2) CareRide of the Valley, a regional NEMT company with a Millfield dispatch hub that Robert's passenger Carlos mentioned at tick 2 as having driver openings; (3) St. Clement's Hospital patient transport coordinator, where NEMT-credentialed drivers are sometimes contracted directly through the patient services office. Robert calls each one, leads with his new credential and his three years of professional driving experience with a clean record, and asks about openings, contractor arrangements, or upcoming needs. He is not desperate — he is credentialed and employed — so he can negotiate from a stable position.
+
+
+**Action 3 — `network_activation`**
+
+> Reach out to Grace Okafor (uber_driver_2) to share that the NEMT cert is done and he is now in active job search mode. Ask Grace whether she has heard anything about the Maria Santos retraining grant — Robert applied at tick 2, five months ago, and has heard nothing. He also asks Grace whether she has any contacts in the NEMT space or has heard anything from passengers about regional medical transport operators. This is a practical information exchange between two people running parallel adaptation tracks, not venting or commiseration. Robert keeps it focused and forward.
+
+
+**Action 4 — `income_maintenance`**
+
+> Maintain standard rideshare driving schedule — approximately 45 hours per week, daytime shifts only — for the duration of this tick. With the evening class commitment now concluded, Robert actually recovers some physical margin. He is not pushing hours up; he is running at a sustainable pace because he does not need to squeeze the rideshare window any harder right now. The car is paid for. The credential is earned. He keeps the income stable while the NEMT job search develops.
 
 
 
 #### salesperson_jake  ·  `salesperson_jake`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **Steady in a way that feels earned rather than performed. The clarity I got from tick 6's reflection is holding. I'm not pretending the numbers are fine — they aren't — but I'm not spinning out either. What I feel is something close to resolve: I've been good at my job, I've paid attention, I've shown up when it mattered. I am going to walk into Rick's office and be exactly who I am. That is the only play I have that isn't borrowed time.** · Archetype: ?*
 
+**Internal Assessment:**
+
+> Runway is real and shrinking. Savings are down to under $11K against $5,100 in monthly expenses. Routine burns $2,500. Active work on the floor has not reversed the bleed — the market is structurally down and I cannot outsell a spending index of 42. The highest-leverage action I can take this tick is not another cold call. It is getting in front of Rick before his consolidation assessment is finalized, making sure he sees me as an asset worth retaining, and getting a definitive answer on the stay bonus. If $12K vests and I have a qualifying period I can plan around, my runway extends by nearly six months. That changes everything about what I can afford to do next. The community college research costs me nothing and gives me real information instead of vague anxiety about 'transition.'
+
+
+**Chosen Actions (1):**
+
+**Action 1 — `direct_outreach`**
 
 
 #### Tamika Jefferson  ·  `salesperson_tamika`
@@ -17713,13 +19973,67 @@ Employment rate: 0.7 · Spending index: 41.0 · Gini: 0.4935 · Protests: — ·
 
 #### single_parent  ·  `single_parent`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **clear-eyed and quietly motivated — the world around me is visibly struggling and I am not going to pretend I can't see it** · Archetype: ?*
+
+**Internal Assessment:**
+
+> {'stress_level': 0.42, 'agency': 0.67, 'grief_stage': 'none', 'sentiment': "clear-eyed and quietly motivated — the world around me is visibly struggling and I am not going to pretend I can't see it"}
+
+**Inner Monologue:**
+
+> I walked past someone crying in the hospital parking lot this morning. She had the look of someone who had just heard something she had been afraid to hear for months. I did not stop — I was already running late for shift handoff and I cannot carry every person's weight. But I thought about her during the whole shift. That is the thing about being a nurse in a community like this right now: the economy does not stay outside the building. It walks in wearing a hospital gown. It shows up in blood pressure readings and in the things people say when they think they are just making small talk. I know what ambient fear looks like in a body. I have been seeing more of it. I have been sitting with the fact that I have held steady for six ticks and that is real. The car is still mine. The kids are fine. The job is solid. But steady is not the same as strong, and I have known for a while that I am not as strong as I need to be. 3.8 months of runway with two kids and no partner is not a position I should be comfortable in. The $285 a month that has been accumulating by default — I did not decide that, it just happened. This month I am deciding. $350. Named. Intentional. And I am going to call Marcus and Denise this week because if things shift in healthcare, I want to know before I see it in a memo, and I want people who will think of me. Not dramatic. Just awake. That is all I'm asking of myself right now. Stay awake.
+
+
+**Chosen Actions (3):**
+
+**Action 1 — `savings_deposit`**
+
+> Make a deliberate, intentional savings deposit of $350 this month — $65 more than the passive monthly accumulation that has been happening on autopilot. This is not a dramatic move. But I am done treating savings growth as something that just happens to me. I looked at the spending index this week: 42. I looked at the layoffs. I know people in this community who are scared. My runway is 3.8 months and I have two kids. The passive $285 a month is not enough to let me sleep. I am moving $350 explicitly, naming it, making it real. The emergency fund is the wall between my children and real hardship. I am going to build that wall with intention, not just by default.
+
+
+**Action 2 — `professional_network_investment`**
+
+> Reach out to two colleagues — a charge nurse I respect at a different hospital unit and a former coworker who moved to a clinic across town — and have real conversations. Not just a text. Actual conversations, scheduled this week on my lunch break or during the commute home. Ask them directly: what are they seeing in terms of staffing? Are budgets tightening? Are any units expanding? What skills are supervisors talking about? I have been receiving word-of-mouth passively for six ticks. My own reflection told me the regret: I have not done enough to make sure people will call me, not just know my name. Healthcare is insulated, but insulated is not invincible. My role security is 0.41. I need people who think of me when things shift — in either direction. This costs me nothing except the willingness to reach out. I am making that call.
+
+
+**Action 3 — `community_caregiving`**
+
+> I have been a nurse for twelve years and a person of faith my entire life. The community around me is hurting in ways that my patients sometimes are not telling their doctors. I am going to pay attention differently at work this week — not just to clinical presentation, but to the stress signals I am trained to see. The man who used to work at the auto mall. The woman who mentions her husband is home now. I am not going to overstep professional boundaries. But I am going to be present in a way that costs nothing and matters. I will also check in with my church's mutual aid network to see if there is something I can do in a small, sustainable way — not a dramatic volunteer commitment I cannot keep as a working single mother, but a point of contact. Something real. Faith means something, or it means nothing. Right now it means showing up.
 
 
 
 #### truck_owner  ·  `truck_owner`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **sober and working — putting the reflection into motion** · Archetype: ?*
+
+**Internal Assessment:**
+
+> {'stress_level': 0.22, 'agency': 0.78, 'grief_stage': 'none', 'sentiment': 'sober and working — putting the reflection into motion'}
+
+**Inner Monologue:**
+
+> The Henderson bid is done. I walked away from it clean last tick and I am not looking back. The market is telling me something and this time I am listening before I need to. Needs-based work — roofs, drainage, foundations — that is what survives when people are scared. The Lisa Freeman connection is already paying off. Two repair jobs sitting in front of me before I even made a cold call. That is what a real network looks like. I should have trusted it sooner.
+> 
+> The insurance thing. I sat with it tonight. Really sat with it. The number is not small — family coverage runs $1,200 to $1,600 a month on the marketplace, more if the deductibles are reasonable. That is real money. That is close to what I clear as surplus each month. It would hurt. But I ran the other number too: one hospitalization without coverage with three kids can hit $40,000 to $80,000. My savings runway is 11 months against essentials. One bad medical event and that goes to zero inside a year. I have been carrying that risk for a long time and telling myself it would not happen. That is the same voice that said Henderson would close in thirty days. I am not buying the plan tonight but I am done pretending the gap is not there. I write the number down. I will think about it next tick with fresh eyes.
+> 
+> The auto mall layoffs hit harder than I let on to anyone. I know some of those guys. Not close, but the kind of close where you nod at the hardware store and know each other's names. The mutual aid table in the parking lot — I will stop by. I am not going to pretend I am there for any reason other than the fact that my community is hurting and I still have work and I still have a truck and if there is something useful I can do with that I am going to show up and find out what it is.
+
+
+**Chosen Actions (3):**
+
+**Action 1 — `pipeline_diversification`**
+
+> Follow through on the tick 6 commitment: shift the bid pipeline from discretionary additions toward needs-based work. Price and submit bids on two small repair jobs — a leaking flat roof on a rental property and a retaining wall with drainage failure on a residential lot. Both owners contacted through Lisa Freeman's network, who flagged these as deferred-maintenance situations where the owner has no choice but to act regardless of the economic climate. This is the category of work that survives a scared economy: things that will get worse and cost more if ignored. Material costs are modest, the scopes are manageable solo or with one helper, and the profit margins on repair work are better than people assume. Start filling the calendar with jobs that are actually available, not jobs that would be available in a normal economy.
+
+
+**Action 2 — `insurance_review`**
+
+> Sit down after dinner with a notepad and actually run the numbers on health insurance for the first time in years. Three dependents, no coverage. The spending index is 42, the auto mall is doing layoffs, mutual aid tables are showing up in parking lots — this is the kind of environment where a broken arm or an appendix can end a family financially. Pull up the state marketplace website, get a ballpark on what a mid-tier family plan costs, and write down the monthly figure next to the savings runway number. Do not commit to anything this tick. But stop pretending the gap is not there. The normalcy bias that kept Dale from addressing this is the same bias that kept him chasing Henderson for five ticks. He knows what that costs. The insurance question does not feel urgent until it is the only thing that matters — and by then it is too late to fix it. Look at the number. Write it down.
+
+
+**Action 3 — `community_engagement`**
+
+> Show up to one of the mutual aid events this tick — not to need anything, but to be present. Dale heard through word-of-mouth that Patricia Hawkins did layoffs at the auto mall and that there are protests happening. These are not abstract news stories; these are people he knows by name or one degree removed. He has been in Millfield long enough to know that a community in distress eventually produces construction work — not additions and garages, but urgency repairs, code compliance jobs, property consolidations. Show up at the mutual aid event to maintain the Lisa Freeman relationship, to stay visible as a reliable local contractor, and because it is the right thing to do when people around you are struggling. Do not pitch work. Just be a neighbor.
 
 
 
@@ -17727,25 +20041,104 @@ Employment rate: 0.7 · Spending index: 41.0 · Gini: 0.4935 · Protests: — ·
 
 *Emotion: **?** · Archetype: ?*
 
+**Internal Assessment:**
+
+> {'stress': 0.19, 'agency': 0.63, 'grief_stage': 'none', 'emotional_tone': 'steady and methodical — the plan is holding, she is acting on her stated regrets from tick 6 rather than carrying them forward, which feels like forward motion even in a tight spot'}
+
+**Inner Monologue:**
+
+> The grant call is the thing I have been avoiding without admitting I have been avoiding it. Calling feels like admitting I need it, which feels like vulnerability, which I do not love. But that is not the right frame. Calling is professional follow-up on a submitted application. Every competent adult who applies for funding follows up. I am not asking anyone for charity. I submitted documentation, I am within the decision window, and I am asking where the process stands. That is it. I do it this week.
+> 
+> Denise moving fast on the hospital facilities lead is genuinely good news — not just for her, but as a proof point that the network I have been quietly building actually works. I did not introduce them. I just made sure Nicole knew Denise existed and had skills worth noticing. Nicole made the connection happen. Denise did the work to be worth connecting. But the trust that made that handoff possible came from six ticks of me being reliable, specific, and non-transactional with both of them. That is the thing worth noting to myself: the network returned value faster than I expected because I built it correctly. The EV staging zone question is not idle curiosity. If Denise's garage becomes a RoboRide dispatch hub, the Friday evening window I am depending on changes faster than the headline adoption percentage would predict. I want to know what she is actually building before I see it in my queue data.
+> 
+> Robert finishing his NEMT cert right now is almost too well timed to believe, but the math works out. Six weeks from tick 4, he is done. He went from my network contact asking about pathways to a credentialed driver in exactly the window I told him was realistic. If he is in the process of being onboarded or interviewing, he knows things that no published report knows yet: whether the medical transport companies are backlogged with applicants or desperate to fill routes, whether the $18-22/hour range people talk about is real or optimistic, whether there are any gotchas in the hiring process that a career-changer needs to know about. I want that information. A warm, brief note acknowledging the milestone is exactly right.
+> 
+> Savings at $3,642 with $206 coming in again this tick puts me at $3,848 after this tick. That is not comfortable. The car payment at $573 is immovable — no car means no driving means no income means the whole structure collapses. So I hold it and I keep stacking. Nursing school progress at 0.12 after two ticks means I am on track, though 0.12 over two ticks is slow and I need to watch whether the part-time schedule is going to extend my ETA past 8 months. If the grant comes through, I can consider shifting to a heavier course load. If it does not, I hold the current pace and accept the longer timeline. Either way, I know what I am doing and why. The plan is not perfect. It is just working.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `SIGNAL`** → `workforce_office`
+
+> Call the workforce development office this week — not email, call. The 6-8 week grant decision window opened at tick 5. That puts the decision at tick 7 or tick 8. I flagged to myself last tick that I was being passive about this and I said I would fix it. So I fix it. I call the office, identify myself, reference my application, and ask one direct question: where is the application in the review process and is there anything outstanding that could delay a decision? I do not ask them to expedite. I do not overexplain my situation. I ask a clean professional question, take notes on whatever they tell me, and close the call. If the decision is coming this week, I want to be ready to move immediately — the grant changes my second-half tuition math materially. If it is delayed, I need to know so I can build the contingency. Either way, passive waiting is the wrong posture now.
+
+*Reasoning: The grant application window is active. This is the highest-leverage administrative action I can take this tick — one phone call that either confirms incoming support or tells me I need a backup plan. I named this as a regret last tick. Carrying it to tick 8 without acting would be a real failure of execution. I do it now.*
+
+
+**Action 2 — `EXCHANGE`** → `parking_garage_mgr`
+
+> Follow up with Denise Williams after our meeting. The meeting happened. And something unexpected came out of it that I did not engineer: the job lead at Millfield General facilities came through my network — Nicole passed Denise's name to the facilities director — and Denise is now moving on it. That is a real outcome from a real network move, and it happened faster than either of us probably expected. I reach out to Denise this week and acknowledge it directly: I am glad the connection landed. I do not overstate my role — I passed names and stayed professional, she did the work. But I say it out loud because strong networks require that people know they can trust you to make warm introductions that go somewhere. Beyond that, I want to consolidate what I actually learned from the meeting. Two specific things I want to confirm and log from our conversation: first, what she is seeing on parking utilization patterns — is the Friday evening garage draw staying steady, or is she seeing softening that would signal evening rideshare queue compression before the fare data shows it? Second, she is building a business case for an EV charging and RoboRide staging zone at the garage. That is directly relevant to my income stability read. If the garage becomes a RoboRide staging hub, that changes the competitive dynamics of the Friday evening window faster than the 7% headline adoption figure suggests.
+
+*Reasoning: Denise is my highest-trust contact at 0.71. The meeting produced a concrete downstream outcome for her — the hospital job lead. That outcome came through my network. Acknowledging it and reinforcing the relationship is both the right thing to do and strategically important: a Denise who lands a facilities supervisor role at Millfield General and remembers how it happened is a contact who can help me navigate hospital employment in 8 months when I have my CNA. The EV staging zone intel is also directly useful — it is an early-warning signal for income compression that I want to track.*
+
+
+**Action 3 — `TRANSFORMATION`**
+
+> Run the full peak-hour schedule this tick: Friday evening surge block and Saturday morning airport window. No changes, no expansion, no contraction. The income pattern is holding at $206 per tick surplus and robotaxi adoption is stable at 7%. Friday evening queue times have not shown compression yet. I watch the queue carefully this week — if the Friday window starts running longer before the first ride or if the surge multiplier is lower than my baseline, that is the signal I have been watching for. I note it and do not panic, but I start building the contingency response. For now, I execute the schedule and stack the $206.
+
+*Reasoning: This is the engine. Everything else I am doing — the grant, the nursing retraining, the network investment — runs on top of this income foundation. Disrupting the driving schedule to pursue any of the other actions would be irrational. The plan is holding precisely because I have not changed the behavior that is working. I hold it.*
+
+
+**Action 4 — `EXCHANGE`** → `rideshare_driver`
+
+> Send a brief message to Robert Jackson. I asked him at tick 5 for NEMT hiring intel and the loop has not closed. Based on the timing, he has just completed his NEMT certification — six weeks of coursework from a tick 4 enrollment puts him finishing right now. That changes the nature of my ask. I am not following up on a favor anymore; I am reaching out to someone who just crossed a finish line and has fresh, first-hand intelligence on exactly what I need to know. The message is short: congratulations on the certification if that just happened — I heard the course runs about six weeks. When you have a moment, I would still love to hear what you are seeing on the hiring side. No pressure on timing. I keep it warm and non-pressuring. He did me a solid at tick 5 with the CNA and NEMT pathway information I gave him. A brief check-in that acknowledges his milestone is the right tone.
+
+*Reasoning: Robert just completed his NEMT certification. He is now a newly credentialed NEMT driver with real-time visibility into whether companies are hiring, what the onboarding process looks like, and whether the NEMT sector is actually absorbing displaced rideshare drivers the way the pathway literature says it will. That is precisely the ground-truth information I need before I commit to sequencing my own credentials. The message costs one minute. The intel could reshape a significant planning decision.*
+
 
 
 #### young_gig_worker  ·  `young_gig_worker`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **frightened but moving — the kind of controlled desperation where you make yourself take one step at a time because if you stop to feel the full weight of it you will not get back up** · Archetype: ?*
+
+**Internal Assessment:**
+
+> {'stress_level': 0.89, 'agency': 0.41, 'grief_stage': 'none', 'sentiment': 'frightened but moving — the kind of controlled desperation where you make yourself take one step at a time because if you stop to feel the full weight of it you will not get back up'}
+
+**Inner Monologue:**
+
+> Zero. That is the number. Zero savings, zero income, twenty-four hundred dollars a month in expenses that do not care what my bank account looks like. I have been here for a full tick and I still went 'routine' last month — I do not even know how I let that happen. I think I was in shock and did not name it. The reflection I wrote was honest: I am mid-process, not a finished resilient person. But mid-process does not pay rent. I need money this week. Not next month when the cert finishes, not when the grant comes through — this week. The gig apps are running but they are not covering my bills. The social media freelance idea has been sitting in my head since I wrote it down and I have not made one pitch. That is on me. Today I pitch someone. Today I go to the community center in person and I say Lisa Freeman's name out loud and I ask what is available. Today I call the council office and I chase the grant I filed four months ago and never followed up on. Faith is real for me — Sunday I am going to church not as a performance of okayness but because I am 22 and I am scared and I need to be in a room with people who know me. I am not spiraling. The stress is 0.89 and climbing but I am still making decisions. That is the only thing I have left — keep deciding, keep moving, do not freeze.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `emergency_assistance_application`**
+
+> Walk into the Millfield Community Center in person this week — not email, not a phone call, in person. Ask for Lisa Freeman by name. Explain the situation directly: unemployed, no savings, $2,404 in monthly expenses, the grant application I submitted at tick 2 has gone quiet for four ticks. I need to know the status. I need to know if the 10% threshold lowering that Maria Santos just pushed through applies retroactively or if I need to refile. I am showing up because I know from COVID that the people who got help were the ones who showed up. Lisa Freeman runs programs. I am asking for whatever emergency food, utility assistance, or hardship fund access the center has while the grant resolves. I am also finding out when Kevin O'Brien holds his financial office hours. That is happening this week.
+
+
+**Action 2 — `grant_reapplication_followup`**
+
+> Follow up directly on the Maria Santos retraining grant application I submitted at tick 2. Four ticks of silence is too long and I have been letting it slide — that ends today. Contact the council office by phone and in writing. Reference my original application. Ask specifically whether the new 10% threshold policy that Santos just passed applies to service sector workers like me who had their hours cut, or only to auto row businesses. If I need to refile under the new threshold criteria, I do that immediately — same day. The $2,500 grant is not a nice-to-have. At zero savings it is the difference between being able to keep the Coursera subscription and having any kind of financial floor at all. I should have called the week after I submitted. I am calling now.
+
+
+**Action 3 — `immediate_income_generation`**
+
+> Pitch two or three local small businesses this week on social media management — specifically Instagram and TikTok content creation — for $100 to $150 per month each. I already have the skills. I have been building this parallel track in my head since tick 6 reflection but I have not acted on it. The diner, the parts store, any small business on or near auto row that is still operating and knows they are being watched. I reach out through Instagram DMs and in person. My pitch is simple: you are trying to stay visible to customers while everything around auto row is in flux. I make your social presence consistent and human. $150/month per client. Even one client this week is $150 I do not have right now. This is not the Coursera cert paying off yet — this is the skills I already have, used right now, for immediate money.
+
+
+**Action 4 — `gig_work_continuation`**
+
+> Keep the gig apps running — DoorDash, Uber Eats, Instacart — at maximum available hours. This is the floor. It does not cover my expenses but it is real money arriving in my bank account in days, not months. I am not romanticizing this. Delivering burritos at 9pm while robotaxis pass me is not my future, but it is what keeps the lights on while I chase the grant and the freelance clients. I am targeting 20 to 25 hours this week across platforms. Every dollar counts at zero savings.
+
+
+**Action 5 — `faith_community_outreach`**
+
+> Go to church this Sunday. This is not separate from survival — this is part of it. My meaning source is faith and my community ties are 0.42 and falling. The congregation is a resource I have not used: not for money, but for information, referrals, a hot meal, and the kind of presence that reminds me I am not invisible. Someone in that room may know about a job opening, a local business that needs help, an assistance program I have not heard of. I am showing up. I am being honest about where I am. I am not performing okay.
 
 
 
 ### Outcomes — Tick 07
 
 
-*(No outcome files for tick 7 — check sim run logs)*
+> **Known gap:** Tick 7 outcome files were never generated (`post_tick.sh` was not run for this month). Actions exist but economic consequences were not computed by the sim engine.
 
 
 
 ### Transactions — Tick 07
 
 
-*(No resolved transaction files for tick 7)*
+> **Known gap:** Transaction files were not generated for tick 7 by the sim engine (early ticks used a different run format). Bilateral exchanges happened but were not recorded in the transactions ledger.
 
 
 
@@ -20039,7 +22432,28 @@ Employment rate: 0.7 · Spending index: 41.0 · Gini: 0.4935 · Protests: — ·
 
 #### David Chen  ·  `bank_manager`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **focused, quietly urgent — the runway is real but still long enough to be deliberate** · Archetype: ?*
+
+**Internal Assessment:**
+
+> Four months unemployed. The savings burn continues at $6,961/month. Runway is roughly 22 months but that number is not a comfort — it is a countdown. This tick I am processing three signals at once. First: Kevin O'Brien is formally requesting a portfolio expansion meeting with my successor, asking to take on small business lending and personal loan origination now. That is a smart move on his part and I helped plant that seed — I told him about the SBA products, the personal loan gap. But it also confirms something I need to sit with: the branch is reorganizing without me. Kevin is not waiting. The institution is not waiting. Second: Linda Park is pivoting internally — the word-of-mouth about AutoShield memos and CRMP certification coursework tells me she is managing her own disruption. She is not in a position to be running leads for me right now. I need to shift from asking Linda for help to offering her something useful. Third, and most important to my own trajectory: my commercial lending coursework is at 50% progress after 9 months. The original estimate was 10 months to completion. That means I am one month from a credential milestone — the SBA 7(a) module completion and the certificate that comes with it. I need to push through the final units this month. That credential is the thing that changes my resume from 'former branch manager looking for work' to 'commercial lending credentialed finance professional with SBA product knowledge.' That is a different candidate. My action this tick is threefold: (1) Complete the remaining SBA 7(a) coursework modules and earn the certificate. I will dedicate serious hours this month — this is the most high-leverage use of my time. (2) Send a brief message to Kevin O'Brien — not to insert myself in his portfolio expansion request, but to tell him the move is smart, offer him context on the SBA 7(a) products from my coursework, and position myself as an informal resource he can call. This keeps the relationship active and positions me as someone with expertise rather than just a former boss. (3) Draft and send one cold outreach to Millfield Community Credit Union — specifically to whoever handles small business lending there. The pitch: I am a credentialed commercial lending professional (SBA 7(a) certificate pending) with a decade of risk assessment and portfolio management experience, now exploring fit at mission-driven lending institutions. I am not mass-applying. I am targeting one high-fit institution at a time. The credit union is the right first call because they serve the small business community Kevin is also trying to reach — and because the disruption hitting auto lending is actually pushing demand toward local credit products.
+
+
+**Chosen Actions (3):**
+
+**Action 1 — `skill_development_milestone`**
+
+> Complete the final modules of the commercial and small business lending coursework — specifically the SBA 7(a) origination and underwriting section. The course is at 50% after 9 months; the original estimate was 10 months to completion. This month is the credential push. I will block 12-15 hours across the month to complete the remaining units, pass the module assessments, and earn the certificate. The credential is not symbolic — it is the conversion of 9 months of self-directed study into something I can put on a resume, reference in a cover letter, and discuss in an interview with specificity. Once it is earned I will update my professional profiles and begin citing it in every outreach.
+
+
+**Action 2 — `relationship_maintenance`**
+
+> Send Kevin O'Brien a short, direct message — not in response to the portfolio expansion request itself (which is between him and the interim manager), but as a peer check-in. Tell him the move makes sense given the volume data, affirm that the SBA 7(a) products are genuinely underutilized at the branch, and offer to walk him through the underwriting basics if he wants a 30-minute call before he pitches the request formally. I have the coursework knowledge; he has the active origination seat. This is a genuine knowledge transfer offer, not an attempt to stay relevant. It also keeps me in his orbit as he expands.
+
+
+**Action 3 — `job_search`**
+
+> Draft and send a targeted outreach to the small business lending team at Millfield Community Credit Union. The message is one page: who I am, what I have done (branch management, risk assessment, auto loan portfolio, scenario modeling during structural disruption), what I am now credentialed to do (SBA 7(a) origination and underwriting, commercial lending — certificate completing this month), and why I am reaching out to them specifically — not because I am applying to a posted job, but because the disruption in auto lending is redirecting demand toward community credit institutions, and I want to be the person on the origination side when that demand arrives. Ask for 20 minutes. No attachment. No form application. Direct, specific, professional.
 
 
 
@@ -21195,27 +23609,27 @@ Employment rate: 0.7 · Spending index: 41.0 · Gini: 0.4935 · Protests: — ·
 
 **Chosen Actions (5):**
 
-**Action 1 — `?`**
+**Action 1 — `income_generation`**
 
 > I have pitched two or three businesses over the past two ticks. This week I stop waiting for email replies. I call them directly or walk in. I am targeting: the diner (Betty's if she is open to it, or the next closest), any small business near auto row that is still trying to maintain a social media presence and clearly does not have the bandwidth to do it well. My pitch is specific and economic: consumer spending is down 60% from baseline, foot traffic is soft, and local businesses that stay visible and humanly present on social media have a measurable edge over ones that go dark. I know how to do that. Rate: $100 to $150 per month per client. Goal this tick is to land at least one paying client. Even $100 is real income at zero savings. If I close even one client before end of month, that is the first proof that the cert is not just a credential — my skills are already worth something to someone now.
 
 
-**Action 2 — `?`**
+**Action 2 — `income_diversification`**
 
 > Research the partner registration process this week and complete the application. My angle is specific: I am not a car-based delivery driver, I am the last-mile layer that gets from the RoboRide drop point to the apartment door, the stairs, the building lobby — the piece autonomous vehicles cannot do yet. Check whether Millfield's new residential coverage area overlaps with my existing DoorDash routes, which it almost certainly does. If rates are competitive, begin shifting my delivery hours toward RoboRide and away from legacy platforms. DoorDash and Uber Eats margins will compress as RoboRide handles more of the route distance. I want to be inside the system that is winning this structure, not outside the one that is losing it. This is not abandoning gig work — it is pivoting within it to the platform that has structural tailwinds instead of headwinds.
 
 
-**Action 3 — `?`**
+**Action 3 — `content_creation`**
 
 > Short video, filmed this week: 'Car-free gig worker perspective on the RoboRide delivery expansion — here is what it actually means if your hustle is on a bike.' This is authentic — I am genuinely researching the partnership, I have real thoughts on the bike last-mile economics, and the content lands differently because it is not theoretical. This simultaneously builds my social media portfolio (which I need for the freelance pitch to be credible) and potentially surfaces other car-free or bike-based gig workers who are navigating the same thing. If this gets any traction, it becomes a proof of concept I can show potential freelance clients: I understand how to make timely, local content land.
 
 
-**Action 4 — `?`**
+**Action 4 — `retraining_continuation`**
 
 > Lisa's grant covered this month's subscription. The cert is at 22% — I need to keep moving. This tick I aim to complete modules 5 and 6, which should push the progress to approximately 30-33%. The evenings are the window, same as before. The cert is the medium-term bet and I am not abandoning it, but I am also not letting it crowd out the income actions that have to happen now. The discipline is: gig shifts and freelance pitches in the day, cert work in the evenings. I have been doing this for two months and I know what the rhythm feels like.
 
 
-**Action 5 — `?`**
+**Action 5 — `relationship_maintenance`**
 
 > Miguel reached out asking for my read on the market timeline. He came to me as someone who might have insight. I heard his question in the word-of-mouth this tick. I will talk to him — not a long conversation, not a performance of knowing things I do not know, but a genuine exchange: here is what I am learning about RoboRide's delivery partner structure, here is what I think the bike last-mile angle means for non-car gig workers, here is what I do not know. Miguel is one of my highest-trust relationships at 0.78. This is worth investing fifteen minutes. He may have information I do not — about the car wash's situation, about what other service workers are doing — and I have information he might find useful. High-trust contacts deserve real conversations, not transactional check-ins.
 
@@ -21618,7 +24032,7 @@ Employment rate: 0.7 · Spending index: 41.0 · Gini: 0.4935 · Protests: — ·
 ### Transactions — Tick 09
 
 
-*(No resolved transaction files for tick 9)*
+> **Known gap:** Transaction files were not generated for tick 9 by the sim engine (early ticks used a different run format). Bilateral exchanges happened but were not recorded in the transactions ledger.
 
 
 
@@ -23653,181 +26067,986 @@ Employment rate: 0.7 · Spending index: 41.0 · Gini: 0.4935 · Protests: — ·
 
 #### auto_shop_teacher  ·  `auto_shop_teacher`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **hopeful — waiting for board decision while building forward** · Archetype: builder*
+
+**Internal Assessment:**
+
+> [Hierarchy: L2_PARTICIPATE] Tick 11 is an active waiting tick for the board decision, but active waiting is not passive. Mark Thompson has been building this coalition for eleven ticks and every piece of the evidence stack is in place. The board is deliberating. This tick is about: (1) getting a concrete vote date, (2) strengthening the referral ecosystem that generates student demand and proves the pipeline is community-embedded, and (3) sustaining the coalition relationships — Frank Russo and Lisa Freeman — that give the program durability beyond any single board decision. The inbox confirms Frank is calling, Lisa has already launched the Financial Triage Navigator which creates a new intake pathway for displaced workers, and Stephanie Morris's real estate outreach creates a commercial-ecosystem credibility channel. Employment at 50% and spending index at 26 make the program's core argument — Millfield needs a locally trained EV technician workforce — more urgent, not less. If the board votes no, I need to know immediately and pivot to the community college pathway or grant-funded independent structure. If the board votes yes, the real work of enrollment, retention, and placement begins. Either outcome requires being ready.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `COMMITMENT`**
+
+> Contact the board secretary directly to get the decision date for the Millfield Auto Tech Pipeline funding vote. At tick 10 I initiated this follow-up — this tick I receive the response and act on it. If a vote date is confirmed at the next regular board session, I note it and begin preparing whatever supplementary materials the board may request before then. If the board asks for additional documentation — enrollment projections, more detailed equipment cost breakdowns, articulation agreement language from the community college — I deliver it within 48 hours of the request, not the session date. If no decision timeline has been set, I politely restate that the program is operating now, students are enrolled, and I need a budget line confirmed to continue making program-specific commitments.
+
+
+**Action 2 — `ASSOCIATION`**
+
+> Respond to Frank Russo's outreach — he is planning to call me this week. The word-of-mouth in my inbox confirms he is reaching out not to pitch anything but to update me on his continuing education track and the driving school's pivot toward AV literacy curriculum. I take this call seriously and listen first. I also bring him specific news: the board presentation outcome, what the decision timeline looks like, and whether there is a formal role for a driving-school-to-pipeline referral pathway in the grant documentation. If the board approved or is moving toward approval, Frank's adult education program becomes a formal feeder — I want to describe that formally in any grant application or articulation agreement. I also want to know whether Frank has connected with Lisa Freeman yet, because Lisa is building the community referral infrastructure I need to generate student demand.
+
+
+**Action 3 — `ASSOCIATION`**
+
+> Call Lisa Freeman at the community center to establish the referral pipeline I proposed at tick 10. This tick I confirm whether she is willing to route technically-inclined displaced workers toward the Millfield Auto Tech Pipeline when appropriate. I also respond to Stephanie Morris's outreach — she asked whether the program could be referenced in commercial property marketing as evidence of local workforce investment. I say yes: if the board approves the program, I will provide a one-page program summary that Stephanie can include in buyer-facing auto row materials. That is a zero-cost credibility amplification that positions the program as part of Millfield's economic response infrastructure, not just a school board line item.
+
+
+**Action 4 — `INACTION`**
+
+> Continue teaching current auto shop curriculum with full engagement. The board decision is pending and I do not change the program's operational posture while waiting. Students in the classroom right now are the program — their experience, their learning outcomes, their eventual placement in EV-adjacent roles — that is what the board is voting to fund. I show up fully for this week's classes. I do not treat the pending vote as permission to coast or to pre-emptively pivot the curriculum before funding is confirmed.
 
 
 
 #### bank_manager  ·  `bank_manager`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **determined** · Archetype: adapter*
+
+**Internal Assessment:**
+
+> [Hierarchy: L2_PARTICIPATE] Tick 11: I am 11 months unemployed, savings at roughly $133,000 after another month of $6,961 burn, coursework at 60% complete. The credit union contact from tick 9-10 is either responding or it is not — this tick I close the loop with a direct phone call rather than another written note. Simultaneously I apply to a second institution because the 'one contact at a time' pattern has cost me months. The credential push from 60% to 75% is the most important structural action I can take — it is the thing every application points toward and finishing it faster changes the math on my timeline. The Linda Park association is low-cost, relationship-preserving, and potentially mutually useful: she is actively pitching herself on fleet risk expertise, and I have quantitative models of the regional disruption from the lending side that she does not have. Employment at 50%, spending index at 26, Gini at 0.676 — the market I am pitching into is more distressed than when I lost my job. That means community lending institutions should be seeing more demand for exactly the kind of credit intermediation I am trained for. I frame every contact around that reality.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `SIGNAL`**
+
+> Follow up with Millfield Community Credit Union on the tick 10 check-in note. If no response has arrived, send a second, final follow-up: call the small business lending team directly by phone rather than email. The message is simple: I sent a note last month about small business lending capacity needs, I have now completed the SBA 7(a) module certification, and I would like a 20-minute conversation this week. I have scenario models from the disruption period I am prepared to share. If there is no response after this call, I treat this lead as closed and move to the next institution.
+
+
+**Action 2 — `TRANSFORMATION`**
+
+> Submit a targeted application to a second financial institution — a regional CDFI or cooperative lender that has publicly engaged with the economic disruption in the area. The application letter leads with the disruption-period scenario modeling I produced at First Community Bank: I watched this transition coming before it hit, built the models that mapped it, and have spent the intervening year completing SBA 7(a) commercial lending coursework. The pitch is not 'former branch manager seeks employment.' It is 'disruption-period risk analyst with community lending credentials seeks institution that needs that exact profile.' Two institutions in parallel is not desperation — it is proportionate urgency.
+
+
+**Action 3 — `TRANSFORMATION`**
+
+> Push the SBA commercial lending coursework from 60% to 75% completion this tick — a concentrated block of 12-15 hours across four sessions. The credential is the primary differentiator in every application. Finishing in 3 months rather than 4 changes the timeline meaningfully when savings are dropping at $6,961/month. The word-of-mouth confirms Kevin O'Brien is executing on SBA product expansion at the branch. He used my analysis. The credential that analysis came from is the thing that distinguishes my pitch to any employer.
+
+
+**Action 4 — `ASSOCIATION`**
+
+> Reach out to Linda Park directly — not to ask for job leads, but to offer something specific: I have the disruption-period scenario models from First Community Bank that quantify regional auto loan contraction and project community credit demand shifts. Linda is now in primary job search mode for fleet risk and logistics roles. If she is pitching herself as someone who understands the regional disruption from inside the insurance sector, having my lending-side models as a data exchange could sharpen both our pitches. This is a peer knowledge exchange, not a favor ask. I am explicit about that framing.
 
 
 
 #### car_wash_worker  ·  `car_wash_worker`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **tense but controlled. Miguel has zero savings and $1,200/month in essentials. The gig work is the only thing keeping him enrolled in the cert program. Carlos reached out to him directly this tick with real information — fleet operator names, EV module intelligence, honest assessment of the landscape. That is the most valuable thing that has happened to Miguel in the simulation. He is not spiraling. He is executing.** · Archetype: adapter*
+
+**Internal Assessment:**
+
+> [Hierarchy: L0_SURVIVE] Miguel Hernandez is two months from completing a credential that represents eleven months of discipline and sacrifice. His savings are at zero, his income is entirely from gig delivery work, and he has no employer. The dominant dynamic this tick is that Carlos Ruiz reached out directly with real intelligence — fleet operator contacts, EV certification pathway, honest landscape assessment. That intelligence is more valuable than any single action Miguel could take independently. The call with Carlos closes the EV curriculum question from a practitioner's perspective while the conversation with the program coordinator closes it from the institutional side. Gig income is the survival bridge — it must continue at maximum viable output without disrupting the class schedule. Sarah Kim's outreach is a relationship worth maintaining: she has fleet operator intelligence and she initiated contact, which signals that the network Miguel has been building through the cert program is actually working.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `EXCHANGE`**
+
+> Receive the information Carlos Ruiz is offering this tick — fleet operator contacts, EV module intelligence, honest assessment of what the certification actually leads to. Carlos confirmed he is calling Miguel directly with real data: the EV modules exist, he has two regional fleet maintenance contacts and one EV dealership actively hiring certified technicians. Miguel listens carefully and writes everything down. He asks Carlos three specific follow-up questions: (1) Of the three contacts, which one is the most realistic hire for someone completing the Millfield CC general automotive cert with no EV specialization yet? (2) What did the EVT Level 2 certification actually cost, and does Carlos think it is worth pursuing immediately after the MCC cert or is the general cert sufficient for entry-level fleet positions? (3) Is there a specific gap between what the MCC curriculum teaches and what fleet maintenance supervisors actually test for in hiring — something Carlos knows from being in the network that is not in the brochure? Miguel does not perform stability or gratitude. He asks the questions that will change his planning.
+
+
+**Action 2 — `TRANSFORMATION`**
+
+> Attend every scheduled automotive service technician certificate class this month without exception — month 7 of 8, cert now at roughly 50-55% completion. This tick Miguel also finally gets the definitive answer on EV modules: he walks up to the program coordinator after Thursday's class and asks directly whether EV or hybrid content appears in the remaining curriculum, and if not, what the Millfield Community College offers as a follow-on EV specialization credential and what it costs. He does not leave that conversation without a written answer — he asks the coordinator to email him the curriculum breakdown if the verbal answer is incomplete. This question has been deferred for six months. It cannot be deferred again — two months from completion, he needs to plan the 8 months after this program ends.
+
+
+**Action 3 — `EXCHANGE`**
+
+> Maximize gig income this month — DoorDash bike delivery and RoboRide last-mile delivery partner program. Miguel registered for or advanced the RoboRide partnership application last tick. This tick he begins active delivery shifts on the RoboRide platform, scheduling 15-20 hours per week on mornings, afternoons, and Sunday hours that do not conflict with Tuesday evening class, Thursday evening class, or Saturday morning class. He tracks his earnings weekly. Target: $500-700 this month — enough to cover monthly essentials ($1,200) with a small surplus that starts rebuilding the savings buffer. He does not take shifts that compromise his class schedule. The cert is the asset. The gig work is the bridge.
+
+
+**Action 4 — `ASSOCIATION`**
+
+> Respond to Sarah Kim's outreach — she checked in on Miguel this tick as a peer watching the same disruption from the EV technician angle. Miguel responds honestly: cert is at month 7 of 8, gig work is keeping him enrolled, Carlos just gave him real intelligence about the post-cert employer landscape. He engages Sarah's framing about the infrastructure connection — that bike last-mile delivery workers and EV technicians are both part of what makes RoboRide operate — and asks her one genuine question: from her vantage working on EV certification and watching the fleet operator space, what does she think the realistic entry-level pathway looks like for someone who completes the MCC general automotive cert? She has more information than him about that specific question and he does not pretend otherwise.
 
 
 
 #### ceo_regional_auto  ·  `ceo_regional_auto`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **determined** · Archetype: adapter*
+
+**Internal Assessment:**
+
+> [Hierarchy: L1_STABILIZE] Tick 11 context: Hawkins closure is executing, protests cooling, employment at 50%, spending index at 26. My savings are at approximately $330,000 after another month of $16,487 burn with no income, but the three-location service model represents a path to renewed income once the consolidation stabilizes. The most urgent items this tick are: (1) confirm Rick's first consulting payment to close the compensation loop completely — a signed contract without payment is still ambiguous; (2) move the Stephanie Morris property conversation from acknowledgment to actual information exchange; (3) begin producing the internal operational architecture for what Regional Auto Group becomes after Q2 — because the closure is executing and the surviving organization needs a plan, not just a theory; (4) give Maria Santos current data for her framework, because that relationship has value and I have the information she needs. The depression-stage grief in my psychological profile is present but not paralyzing. I made the decision. I am standing in it. The work of this tick is converting the closure execution into the foundation of the restructured business.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `EXCHANGE`**
+
+> Execute the first payment on the Rick Tanner consulting contract — $4,500 for month one of the 90-day engagement. The signed contract went out in tick 10. This payment is the operational confirmation that the contract is live. I do not make Rick wait for month-one payment after he waited through two ticks of ambiguity on the compensation ask. The cover note accompanying the payment is brief: the contract is active as of this week, the scope is assessment finalization and transition-phase operational advisory, and I am available for a brief check-in call this week to align on any open items from the closure execution.
+
+
+**Action 2 — `SIGNAL`**
+
+> Make direct contact with Stephanie Morris about the closing location property disposition. The tick 10 acknowledgment was brief — this tick I schedule a 30-minute conversation to understand what she knows about the buyer market for large-footprint auto properties: delivery logistics operators, EV fleet servicing, light industrial conversion. I am not listing the property yet. I am mapping the disposition landscape before the closure completes. The Q2 timeline means I have approximately 60-90 days to understand the market before the property decision becomes urgent. Stephanie's auto row market brief from the task force session is the credential I am engaging. I tell her that directly.
+
+
+**Action 3 — `COMMITMENT`**
+
+> Begin active planning for the three-location service-lane model that will emerge from the Q2 closure. This is internal document work: define the service capacity targets for each surviving location, identify which certified technicians from the closing location are being transferred where, and map the service lane throughput projections for the post-consolidation footprint. This is not a press release. This is the operational architecture of what Regional Auto Group becomes after the closure. Rick's consulting work feeds into this document. I produce the owner-operator version of the plan that does not yet exist in written form.
+
+
+**Action 4 — `SIGNAL`**
+
+> Reach out personally to Maria Santos with a brief update on the transition program status — not a task force briefing, a direct one-on-one communication. I tell her specifically: the number of displaced workers routed through Angela's program as of this week, how many have accessed the $2,500 retraining grant, and what the service technician transfer status looks like across the three surviving locations. This is the kind of concrete data that the 90-day Economic Resilience Framework requires. I give it to Maria proactively rather than waiting for a formal request. The community relationship depends on demonstrating that the transition pipeline is real and functioning, not just described.
 
 
 
 #### community_organizer  ·  `community_organizer`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **determined — moving from concept to operating infrastructure** · Archetype: builder*
+
+**Internal Assessment:**
+
+> [Hierarchy: L6_TRANSCEND] Tick 11 is the operationalization tick for the Financial Triage Navigator. At tick 9 I brought the concept to the task force. At tick 10 I launched it. This tick it becomes a functioning service with intake structure and outcome tracking — the infrastructure that makes a future funding conversation credible. The community is in acute stress: 50% employment, spending index at 26, Hawkins closure complete, protests cooling but structural pain intensifying. The Financial Triage Navigator is the right response at the right moment. My job is to make it real and useful and systematically documented. The Frank Russo and Nicole Washington connections extend the navigator's reach into two specific populations I have been trying to serve: displaced transport workers navigating AV disruption, and healthcare-adjacent workers navigating credential pathways. Lisa Freeman's community ties score is only 0.38 — this is the tick to deepen those ties through the specific, named relationships that make the center more than a room. The anger I carry about institutional slowness is still present and I am still converting it: every session I run, every referral I make, every coordination call I initiate is an answer to the pace problem.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `TRANSFORMATION`**
+
+> Run the second week of Financial Triage Navigator sessions at the community center. The service launched at tick 10 — this tick it operates with accumulated learnings from the first sessions. Structure refinements based on what I learned from session one: a brief pre-session intake form (two questions: what is your most urgent financial decision right now, and what programs have you already applied for) so I can focus the 45 minutes on gaps rather than mapping from scratch. I also begin tracking session outcomes — not personal data, but aggregate counts: how many people came in, how many left with a specific next step, how many were referred to Kevin O'Brien's office hours versus the retraining program versus the community college pathway. This aggregate data becomes my utilization case for any future funding conversation with Maria Santos or a grant source.
+
+
+**Action 2 — `SIGNAL`**
+
+> Host Community Connection Night this week with a deliberate structure that acknowledges the current moment directly. Opening segment: I name the Hawkins closure, the 50% employment rate, and the spending index at 26 out loud — not to alarm people, but to validate what everyone in the room already knows. People who come to a community center in a crisis do not want to be managed around the crisis. They want to be seen. I name it, acknowledge it is real and hard, and then move to the tools: the Financial Triage Navigator is operating here tonight and every Tuesday and Thursday going forward. I also announce Mark Thompson's Auto Tech Pipeline in the context of what Millfield is building — not as a city program but as a community institution that is being built in real time by a local teacher who saw this disruption coming. People in the room need to know that pathways exist, even if they are still being assembled.
+
+
+**Action 3 — `ASSOCIATION`**
+
+> Follow up with Frank Russo on his outreach to the community center. His word-of-mouth signal indicates he is planning to contact me this week about connecting his adult education AV literacy curriculum to the community center's programming. I take that call. Lisa Freeman at the community center and Frank Russo at the driving school are natural partners: he has curriculum and adult learner credibility, I have the space and the trust relationship with the displaced worker population. I explore whether a transportation-literacy and economic-transition session — combining the RoboRide mobility decision support I have been running with his AV literacy content — could become a monthly workshop at the center. That is a real program with real community value, and it costs neither of us anything to prototype.
+
+
+**Action 4 — `ASSOCIATION`**
+
+> Call Nicole Washington directly this tick. I named this as a specific regret in my tick 9 reflection and I have not acted on it. Nicole is a nurse, a single parent, and a peer navigator in her own network — she has been helping Grace Okafor understand hospital hiring pathways while navigating her own transition. That is exactly the kind of peer support work the Financial Triage Navigator is built on. I call her, introduce myself properly, and tell her two things: (1) the Financial Triage Navigator is now operating at the community center and I would value her knowledge of hospital workforce transitions in building the healthcare pathway component, (2) there are people coming through my doors who are trying to understand the nursing credential pathway, and a fifteen-minute peer conversation with a working nurse is more valuable to them than any brochure. I ask if she would be willing to be a named resource I can refer people to for one-on-one conversations. I honor her time and her judgment.
 
 
 
 #### commuter_james  ·  `commuter_james`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **determined, with a growing awareness of the distance between his situation and the community around him. James's savings grew to roughly $114,000. Employment is intact. The AWS cert is at the exam scheduling or completion stage. The job search infrastructure he named as a gap last tick is being built. He called Howard Liu for the first time — a connection he has been identifying as important and not making for three ticks. The gap between his security and his neighbors' distress is visible to him and he is sitting with it more consciously than in earlier ticks.** · Archetype: builder*
+
+**Internal Assessment:**
+
+> [Hierarchy: L5_BUILD] James Patterson has executed his adaptation plan well: sold the car early, deployed proceeds into the cert, maintained employment, built savings to $114,000. The cert is completing. The job search infrastructure is being built. The Howard Liu relationship is finally being established after three ticks of naming it as a gap. The remaining tension in his situation is not financial or professional — it is the identity question he first named at tick 9: he has been building in isolation, optimizing individual outcomes while the community around him deteriorates. The Financial Triage Navigator is a concrete institutional response to the disruption he has been watching. His contribution to it — financial or through presence — is the first action he takes this simulation that is explicitly for the community rather than for himself. That is appropriate given his position and the gap he has been naming.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `TRANSFORMATION`**
+
+> Complete the AWS Solutions Architect Associate certification this tick — take the actual exam if the practice score hit 850 or above last tick, or take a final targeted review session in the specific domain gaps and schedule the exam within 7 days. James treats this as a binary close: either the exam is passed this tick or it is scheduled with a fixed date this tick. The cert does not remain in 'nearly done' status. He uses the RoboRide commute time for final review. He has been studying 5-6 hours per week since tick 5 and the course content is complete. The only remaining question is the exam date. He names one.
+
+
+**Action 2 — `EXCHANGE`**
+
+> Have the conversation with Howard Liu that has been deferred for three ticks. James called Howard this tick — the first real conversation between them. James goes in with honest framing: he is a software developer who sold his car eleven months ago and has been using RoboRide since. He is about to complete an AWS Solutions Architect cert. He is curious how someone navigating the disruption from the auto-parts side reads the next 12 months. He specifically asks Howard about the RoboRide fleet relationship — is it real? Is it the right bet for a small local business? And he shares what he sees from the tech side: the cloud infrastructure that RoboRide and similar platforms run on is not magic, it is services that need to be managed, and local businesses that understand how to integrate with that infrastructure have a different kind of advantage than businesses that just sell to it. If Howard mentions Miguel Hernandez, James notes that he knows Miguel is completing the MCC automotive cert. He offers a connection if Howard thinks it would be useful. He does not push it.
+
+
+**Action 3 — `TRANSFORMATION`**
+
+> Build the job search infrastructure this tick — not a search, but the materials that make a search effective when needed. Specifically: (1) Update resume to include AWS Solutions Architect Associate certification (completed or in progress, with exam date), add a cloud architecture section that translates software development background into cloud infrastructure role language; (2) Identify 5 specific target employers where a software developer with an AWS cert and analytical skills would be valued — include at least two that are explicitly in the mobility or logistics tech space, since James has been tracking this disruption and has direct experience as a RoboRide user with relevant observations about the platform; (3) Review what interview questions and portfolio artifacts are expected for cloud architecture roles at his target companies. He is not applying. He is ensuring that when he does apply, he can move within 48 hours rather than 4 weeks.
+
+
+**Action 4 — `ASSOCIATION`**
+
+> Attend the community connection night at the Millfield Community Center this month — or if timing does not align, make a direct contribution to the Financial Triage Navigator that Lisa Freeman has launched. James has $114,000 in savings and is one of the most financially stable people in Millfield. The community around him has 50% employment and a spending index of 26. He has been noting the gap between his position and his neighbors' situation since tick 9 and has been observing that his builder pattern has created some isolation from the people in his community who are in real trouble. A $100-200 donation to the Financial Triage Navigator is not sacrifice — it is proportionate participation in the community he lives in. If he attends the community night instead, he listens. He does not bring his career credentials into the room. He shows up as a neighbor.
 
 
 
 #### commuter_rachel  ·  `commuter_rachel`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **grounded urgency sharpening into clarity. Rachel is now unemployed — the outcome from tick 10 confirmed her employment status changed. Savings dropped $4,817 that tick. She has $24,502 remaining. Monthly expenses are $4,817 with zero income. Runway is approximately 5 months. The freelance pipeline she has been building since tick 5 is now not a supplement — it is the strategy. The Angela Wright referral network and Nicole Washington pilot are the two live opportunities. She closes one of them this tick or opens a new channel.** · Archetype: adapter*
+
+**Internal Assessment:**
+
+> [Hierarchy: L0_SURVIVE / L2_PARTICIPATE] Rachel Green became unemployed at tick 10 — a shift that makes this tick's actions materially different from her prior posture. She is no longer a marketing manager building a freelance safety net. She is an unemployed marketing professional running a freelance practice that has not yet closed a client, with 5 months of runway. The framing she articulated at tick 9 — 'freelance communications professional who currently has a salaried position' — has been forced into clarity by the employment status change. The job search must run in parallel with the freelance pipeline. The Nicole Washington close is the most urgent action: if Rachel has a paying client this tick, that changes the psychological and practical picture significantly. The Angela Wright referral call is the highest-upside relationship move available. The LinkedIn piece is two hours of leverage work that circulates indefinitely. The parallel job search is the runway extension that keeps all of this viable through the 3-4 months it takes to build a freelance practice to financial sustainability.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `EXCHANGE`**
+
+> Close the Nicole Washington pilot — this tick, binary. Rachel has already sent the closing ask: 'I want to know whether the $800 pilot makes sense for you right now.' She reads the word-of-mouth: Nicole Washington is actively verifying her employment status, maintaining savings deposits, and has been flagged in the inbox as responding to Rachel's $800 pilot proposal directly. That means a response is likely this tick. If Nicole says yes, Rachel delivers the scope document within 48 hours — it is already drafted — and considers the pilot open. If Nicole says no or has not responded, Rachel sends one final message: 'Following up from last week. Yes means I send the scope document today. No means I check back in 60 days. Either is fine.' Then she stops. No third follow-up. She has been building to this close for three ticks. It resolves here.
+
+
+**Action 2 — `ASSOCIATION`**
+
+> Have the 20-minute referral call with Angela Wright — the one Rachel proposed and followed up on last tick. If Angela has agreed to the call, Rachel goes in with a specific two-way proposal: Angela refers clients who need marketing communications support — displaced workers who need to present themselves professionally as they transition, small businesses emerging from the auto-row contraction that need visibility — and Rachel refers clients who need workforce transition consulting. Rachel brings one concrete example to the call: a small business owner who just reduced staff and needs to communicate that change to customers without losing them. She positions herself as the person who knows how to do that for businesses operating in economic disruption. If Angela has not responded to the call proposal, Rachel sends one brief, final scheduling message: 'I have 20 minutes blocked Tuesday or Wednesday at 10am or 2pm. Either day works for me — which would work for you?' She does not send a third outreach if this one is also ignored.
+
+
+**Action 3 — `SIGNAL`**
+
+> Write and publish a second LinkedIn piece this tick — specifically about marketing through economic contraction. The angle: when local employment drops to 50% and the spending index hits 26, the businesses that stay visible and human on social media are building relationship capital that converts to sales when spending recovers. The piece includes one specific, actionable recommendation that a small business owner could implement this week without hiring anyone. It is not a pitch. It is a demonstration of Rachel's ability to translate macro economic conditions into practical communications guidance. The piece is also a signal to potential clients who are watching the same data and looking for someone who can help them respond to it. It is visible to potential employers, potential freelance clients, and the network of displaced professionals who may need marketing support in their own transitions.
+
+
+**Action 4 — `COMMITMENT`**
+
+> Begin active job search in parallel with the freelance pipeline — not as the primary strategy but as a concurrent income safety net. Rachel's savings runway is 5 months with zero income. She cannot afford to run the freelance pipeline as the sole track and wait 3-4 months for it to produce revenue. She updates her resume this week to reflect her most recent marketing campaign outcomes, adds a section on digital content strategy and disruption communications, and identifies 3 specific marketing manager or director roles at healthcare organizations or financial services companies — sectors with stable employment through economic downturns. She is not broadcasting job-seeking. She applies to the 3 roles quietly. A salary offer does not replace the freelance practice — it extends the runway while the practice builds to financial viability.
 
 
 
 #### council_member  ·  `council_member`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **determined** · Archetype: builder*
+
+**Internal Assessment:**
+
+> [Hierarchy: L6_TRANSCEND] Tick 11 context: employment at 50%, spending index at 26, Gini at 0.676, protests cooling, Financial Triage Navigator launched by community organizer. My savings are at approximately $49,953 after another $3,917 month of burn with no income — 12.8 months of runway, which is tighter than it was. The primary commitment of this tick is advancing the 90-day framework from announced to drafted. The framework is the deliverable I promised in a recorded public session. Nothing in this tick's inbox changes that priority. The Lisa Freeman association is important because she is doing the street-level work I cannot do from a policy seat — if her Navigator is surfacing gaps in my programs, I need to know what they are before the 90-day presentation, not after. The public statement on the employment and spending numbers is not optional: the community is watching whether I name conditions accurately or manage them. I name them. The retraining serves the framework directly — the zoning section needs precedent cases, and my self-directed study is finding them. Builder archetype: every action this tick builds something that will exist after the tick ends.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `COMMITMENT`**
+
+> Continue drafting the 90-day Economic Resilience Framework — advance from initial structure to a working draft with specific metric targets filled in. This tick the focus is on two of the four sections: (1) the retraining enrollment target — with 10 people enrolled this month (up from 6), I revise the 90-day target upward to 25 and document two specific bottlenecks I have identified: lack of awareness at the point of separation (workers learn about grants after they have already made other decisions) and the grant application process being routed through the municipal website rather than directly through Angela Wright's intake. Both are fixable. I write the fix into the framework. (2) The Gini trajectory target — with spending at 26 and employment at 50%, I set a specific and honest 90-day target: Gini improvement from 0.676 to 0.640, achievable only if the retraining pipeline accelerates and small business stabilization disbursements increase. I do not set aspirational numbers. I set numbers I can defend.
+
+
+**Action 2 — `ASSOCIATION`**
+
+> Meet directly with Lisa Freeman to acknowledge the Financial Triage Navigator she has launched at the community center. This is not a press release acknowledgment — it is a working conversation. I want to understand what cases she is seeing, what gaps in the existing programs the Navigator is surfacing, and whether there are specific bottlenecks she has identified that my framework can address. I also give her the explicit public acknowledgment I committed to in tick 10: I reference the Financial Triage Navigator by name in my next public communication as a concrete example of community-built response infrastructure that complements government programs. This costs me nothing and gives her concept institutional visibility.
+
+
+**Action 3 — `SIGNAL`**
+
+> Issue a brief public statement acknowledging the employment rate at 50% and spending index at 26 as the current baseline the framework is responding to. The statement is not alarmist — it names the numbers, acknowledges they represent real hardship in Millfield, and directs anyone who needs immediate assistance to the Financial Triage Navigator at the community center and the small business stabilization grant program. I include the grant committee's direct contact rather than the municipal website URL. This redirects the routing failure I identified in tick 10. The protests have cooled, which means people are either hopeful or exhausted — I want to reach the ones who are still looking for a path.
+
+
+**Action 4 — `TRANSFORMATION`**
+
+> Advance the municipal economic policy reading — push the retraining progress from 10% to 20%. The specific focus this month is on adaptive reuse zoning frameworks from other municipalities that have faced industrial or commercial property vacancies following economic disruption. Stephanie Morris's auto row data from the task force session identified the closing dealership property as a large-footprint opportunity. The framework needs a specific zoning recommendation with precedent from other localities. I find two or three examples of municipalities that have successfully rezoned former auto retail properties for delivery logistics, EV fleet servicing, or light industrial use. Those become the model for the Millfield recommendation.
 
 
 
 #### dealership_gm  ·  `dealership_gm`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **determined** · Archetype: adapter*
+
+**Internal Assessment:**
+
+> [Hierarchy: L0_SURVIVE] Tick 11 context: consulting contract confirmed, first payment received from Patricia ($4,500), savings at approximately $45,726 after tick 10 burn, runway now extended meaningfully — at $4,132/month net burn (expenses $8,632 minus $4,500 income) I have approximately 11 months of runway rather than 6. That change is material. The stress level should be lower this tick now that the financial picture is less acute. The primary actions are: (1) commence the consulting work formally with a first deliverable — being paid without producing output is not my operating mode; (2) respond to Stephanie Morris with property data I actually have from the consulting role; (3) advance the parallel job search from research to first contact — the consulting contract is 90-day income, not a career, and I cannot wait until day 89 to start building what comes next; (4) reach out to David Chen as a peer, because we are both former institutional leaders navigating the same disruption from adjacent angles and I have been noting his activity in the community for several ticks. Bargaining grief stage is still present — I am still testing different approaches to the new reality — but it is converting into productive action rather than avoidance.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `EXCHANGE`**
+
+> Confirm receipt of Patricia's first consulting payment and signed contract, and commence formal work on the 90-day engagement. The scope — assessment finalization and transition-phase operational advisory — begins this week. My first deliverable under the contract is a closure execution status memo: a brief document confirming where the closure stands, which technician transfers have been confirmed, which sales staff are in Angela's intake pipeline, and what the property status is. This is not a summary Patricia does not already know. It is the first formal consulting deliverable that establishes that I am operating in that role, not just cashing a check.
+
+
+**Action 2 — `SIGNAL`**
+
+> Respond to Stephanie Morris's outreach about the closing location property. As a consultant to Patricia, I can confirm that the property disposition conversation is being managed at the owner level and that Patricia is aware of Stephanie's work on auto row. I tell Stephanie directly: I am not the decision-maker on the property, but I can confirm the timeline and the property characteristics she would need to know to advise potential buyers — showroom square footage, service bay count, lease structure, corridor visibility. I give her the factual property data. I do not pitch a listing. This is the introduction that Patricia acknowledged in tick 10 but I can operationalize from the consulting role.
+
+
+**Action 3 — `TRANSFORMATION`**
+
+> Advance the parallel job search — move from research to first outreach. I have identified the three regional employers who could use consolidation and transition advisory experience: a regional EV fleet operator expanding service capacity, a dealership group in an adjacent market that has not yet restructured but is facing the same pressures, and a fleet management company that provides vehicles and maintenance contracts to logistics operators. This tick I make the first contact with the EV fleet operator — a brief, specific message: I have spent nine months leading a dealership consolidation, the final report is wrapping up, and I am exploring whether my transition management experience is relevant to their operational expansion. I am not asking for a job. I am asking for a 15-minute conversation.
+
+
+**Action 4 — `ASSOCIATION`**
+
+> Have a direct conversation with David Chen — the former bank manager who has been in my social network throughout this disruption. Rick Tanner's word-of-mouth has been visible in David's inbox; David's credit union outreach has been visible in mine. We are both in the same position: former institutional professionals with real expertise navigating a contracting sector. I call David and propose a peer conversation: what is he seeing in the community lending space, and is there any overlap between the fleet and commercial vehicle financing needs I have been modeling and the small business lending market he is entering? This is not a job lead ask. It is a professional exchange between two people who have been in the same water.
 
 
 
 #### diner_owner  ·  `diner_owner`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **urgent-but-clear** · Archetype: adapter*
+
+**Internal Assessment:**
+
+> [Hierarchy: L0_SURVIVE] Tick 11 is the decision tick Betty Kowalski has been building toward since tick 8. The 60-day inquiry gate she set for RoboRide terms has effectively closed — she gave them a final deadline of end-of-tick-10. She now either has written terms to evaluate or she does not. The math is clear: she needs at least $2,800/month net from a delivery kitchen to cover essential expenses, and her savings are approximately $1,972 (state $6,240 minus $4,268 tick 10 burn). At $4,268/month burn with zero income, she has approximately 0.46 months before she is at zero — she is functionally at L0 emergency threshold. The decision cannot be deferred. If delivery conversion is viable, she needs to move this week. If not, she needs Stephanie Morris to move on the property valuation immediately. The Financial Triage Navigator session and Kevin O'Brien's presence there is the one additional piece of intelligence that could change the decision framing — bridge financing for a kitchen conversion investment could make the delivery pivot viable even if the revenue ramp takes 30-60 days to reach the minimum threshold.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `COMMITMENT`**
+
+> Make a go/no-go decision on the RoboRide delivery partnership path this tick. At tick 10 I gave RoboRide a final deadline of end-of-week for written terms. That deadline has now passed or is passing. I evaluate the terms if they arrived: minimum monthly order volume, revenue share percentage, equipment requirements, onboarding timeline. I run the math against my minimum viable revenue threshold — I need at least $2,800/month net to cover essential expenses if I fully convert to a delivery prep kitchen. If the terms pencil out, I commit to the conversion this tick: I notify Stephanie Morris to pause the property valuation conversation for 60 days while I test the delivery model. If the terms did not arrive or do not pencil out, I treat the RoboRide path as closed and call Stephanie Morris today to schedule the formal property walk.
+
+
+**Action 2 — `SIGNAL`**
+
+> Call Stephanie Morris today — regardless of the RoboRide decision outcome. If I am proceeding with the delivery pivot, I tell her directly: 'I have the RoboRide terms and I am running a 60-day test. I want to schedule the property walk for tick 13 — 60 days from now — so that if the delivery model does not produce the revenue I need, I am not starting from zero on the valuation process.' If the RoboRide path is closed, I tell her: 'The terms did not come through. I am ready for the property walk this week. What does your schedule look like?' Either way, Stephanie gets a clear, specific answer from me rather than another sequenced delay.
+
+
+**Action 3 — `EXCHANGE`**
+
+> Have the conversation with Zoe Martinez when she walks into the diner this tick. She is coming to pitch social media services at $120/month. My decision is informed by my runway and my direction. If I am converting to a delivery kitchen, visible social media presence is actually more important, not less — delivery customers discover kitchens through social media, not foot traffic. A $120/month investment in community-present social content could accelerate the delivery conversion. If I am moving toward property sale, it matters less. I give Zoe an honest answer based on where I am this tick. If I am proceeding with the delivery pivot, I say yes to the $120/month pilot and frame it as supporting the kitchen conversion. If I am moving toward sale, I tell her honestly: I cannot commit to a monthly service when my path forward is uncertain, but I want to reconnect in 30 days.
+
+
+**Action 4 — `ASSOCIATION`**
+
+> Attend the Financial Triage Navigator session Lisa Freeman is running at the community center this week. I testified twice before Maria Santos's task force. Lisa Freeman's initiative is the community-level infrastructure for exactly what I need: honest financial triage for small business owners in crisis. Kevin O'Brien is reportedly running office hours there — I want to speak with him directly about the small business loan landscape and whether there is any bridge financing available for a commercial kitchen conversion. A $15,000-$20,000 equipment investment could make the delivery kitchen viable if the revenue model pencils out. I want to know if that capital exists before I close the RoboRide decision gate.
 
 
 
 #### driving_instructor  ·  `driving_instructor`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **determined — edged with urgency. Frank's savings are now below $1,000 after another month of burn at $3,176. He is not panicking but he understands the clock is real. Mark Thompson's direct messages this tick are the most valuable intelligence he has received in the simulation. The board presentation succeeded. There is a named pathway forward. He acts on it.** · Archetype: adapter*
+
+**Internal Assessment:**
+
+> [Hierarchy: L0_SURVIVE / L1_STABILIZE] Frank Russo is operating at a genuine survival threshold. Savings are essentially depleted after eleven months of zero income and $3,176/month in expenses. The two critical parallel tracks — school district adult ed and community center programming — are both in motion but neither has produced income yet. This tick's key intelligence is direct from Mark Thompson: the Millfield Auto Tech Pipeline board presentation succeeded, Mark is pursuing the board decision timeline and the workforce transition grant connection, and he is actively reaching out to Lisa Freeman to build a referral pipeline. That means Frank and Mark are converging on the same institutional space (community center + workforce transition grant) from different angles. Frank's job this tick is to make sure his curriculum is visible inside that converging space. The community center pilot offer — two free sessions — is the fastest path to credibility and eventual income. The grant status call is the fastest path to cash. Calling Mark for the specific contact name closes the ambiguity on which door to push hardest.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `SIGNAL`**
+
+> Follow up immediately on Mark Thompson's direct word-of-mouth: the board presentation on the Millfield Auto Tech Pipeline was delivered, and Mark is actively seeking a decision timeline from the board secretary. Frank calls Mark back this week — not to pitch, not to ask for anything new — but to confirm: (1) Is the workforce transition grant pathway connection established? (2) Is there a named grant contact Frank should reach directly for his adult ed curriculum application? (3) Did the board presentation include any reference to adult education or AV literacy instruction as a community need? Frank comes in with specific questions, not a general check-in. He has read the word-of-mouth about Mark's next moves — the board timeline inquiry, the Sarah Kim debrief, the Lisa Freeman referral pipeline — and he wants to understand where the adult ed curriculum fits inside that structure.
+
+
+**Action 2 — `COMMITMENT`**
+
+> Contact Lisa Freeman at the Millfield Community Center — by phone or in person this week. Frank knows from the inbox that Lisa is actively running community connection nights with structured programming, that the Financial Triage Navigator is now live, and that Mark Thompson is also reaching out to Lisa about the Auto Tech Pipeline referral pathway. Frank positions his outreach clearly: he is the person who built the AV literacy and career transition curriculum that Lisa's programming and Dorothy Chen's expanded workshop proposal could actually use. Frank's pitch is direct: 'I have a four-module curriculum on AV literacy and career skill rebuilding that I developed specifically for displaced workers and older adults navigating this transition. It is ready to run. I am offering two free sessions to see if it fits what you are building here.' He brings the curriculum document. He makes a concrete offer — two pilot sessions, no commitment — rather than a vague expression of interest.
+
+
+**Action 3 — `SIGNAL`**
+
+> Call city hall and check the status of the $2,500 small business stabilization grant submitted in tick 8. Frank makes a single, professional call to the office that received the application — asks whether the application is complete, whether it is in review, and whether there is an expected decision date. He does not push, does not negotiate, does not complain. He asks one clear question: where does this application stand? If the application has been approved, he asks about disbursement timing. If it has been rejected, he asks what category it fell short in so he can assess whether a corrected re-application is possible. If it is still in review, he logs the date of this call and plans to follow up once more in two ticks.
+
+
+**Action 4 — `INACTION`**
+
+> Frank does not make another visit or call to the district adult education coordinator this tick. He went in person at tick 9, left a curriculum document and a handwritten note with Mark Thompson's name as a referral. He has now heard from Mark that the board presentation is moving forward and that the workforce transition grant pathway is being connected to the pipeline. Frank waits for the district coordinator to respond to his in-person visit before he escalates further. Over-contact with an institutional contact at this stage would signal desperation rather than professionalism. The school district track is in motion. The community center track is the one he is actively pushing this tick.
 
 
 
 #### gas_station_owner  ·  `gas_station_owner`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **determined** · Archetype: adapter*
+
+**Internal Assessment:**
+
+> [Hierarchy: L1_STABILIZE] Tick 11 is a convergence tick for Amir Patel. The 60-day logistics buyer inquiry is approaching its midpoint and Stephanie is calling to confirm the valuation fee and ask for direction. I must pay that fee — it is a professional obligation I named explicitly. The buyer inquiry status check is the most consequential piece of information I need this tick: if Stephanie has early signal from a logistics operator, I extend the window and hold the retrofit loan. If she has nothing, I start recalibrating my timeline toward the loan path earlier than planned. The Priya insurance call has been deferred for 11 ticks and represents genuine negligence — I cannot continue with four dependents and no business coverage. The grant status inquiry closes a thread that has been consuming mental bandwidth since tick 2. The community center visit is opportunistic intelligence gathering at low cost. Savings are now approximately $57,277 (state shows $60,810 minus $3,533 from tick 10 outcome), runway is manageable but the burn rate is real. I am in the information-to-decision phase now, not the research phase.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `EXCHANGE`**
+
+> Receive Stephanie Morris's call about the valuation fee and the property disposition direction. Pay her $1,500 valuation fee as committed at tick 10 — a professional obligation I named explicitly and must close. In the same call, give her a clear answer on direction: the quiet logistics buyer inquiry has been running 30 days. Ask her directly for a preliminary read — has she contacted any logistics or delivery operator buyers? What early signal, if any, has she gotten? If she reports zero traction, I tell her to focus the next 30 days specifically on EV fleet servicing operators and last-mile delivery consolidators — these are the buyers the RoboRide residential expansion is creating in real time. I keep the $300K floor. I do not lower it yet.
+
+
+**Action 2 — `EXCHANGE`**
+
+> Contact Priya Sharma by phone and request a business insurance quote — specifically business interruption coverage and property liability for the gas station. This has been named as a deferred failure in my tick 6 and tick 9 reflections. I have four dependents and no coverage on a business in structural decline. I call Priya, explain I am a neighbor who needs a real quote, not a generic product push, and ask her to walk me through what coverage would cost for a small fuel retail business. I tell her my situation honestly: revenue is declining, I am evaluating a possible property sale, and I want to understand what adequate coverage looks like for the next 6-12 months regardless of which path I choose.
+
+
+**Action 3 — `SIGNAL`**
+
+> Follow up with Maria Santos's office or the Millfield Chamber of Commerce to determine the definitive status of the tick 2 small business stabilization grant application. Nine ticks have passed with no outcome notification. I contact the Chamber by phone, reference my application date and business name, and ask for a status. If the application is in a backlog, I name the financial pressure directly: savings are down significantly since application, and the grant would materially affect my decision between a property sale and an EV retrofit investment. I am not hostile. I am specific and persistent.
+
+
+**Action 4 — `ASSOCIATION`**
+
+> Attend Lisa Freeman's Financial Triage Navigator session at the community center. I have heard about this through word-of-mouth and it is directly relevant: I am a small business owner at L1 with a 60-day decision gate approaching and no insurance coverage. I go not as someone in crisis but as someone who wants to understand what resources exist for business owners navigating the same structural disruption I am in. I also go because Kevin O'Brien's office hours are reportedly running there — and I need to stay current on what the bank is offering for small business owners in my situation. My $12K EV charger loan application is sitting in that pipeline.
 
 
 
 #### hr_director  ·  `hr_director`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **determined** · Archetype: builder*
+
+**Internal Assessment:**
+
+> [Hierarchy: L2_PARTICIPATE + L5_BUILD] Angela is at a transition inflection point. She has: (1) the LLC legally formed, (2) a service methodology built over eleven ticks of real transition intake work, (3) two partnership channels opening (Howard Liu and now Tamika Jefferson), (4) institutional visibility via Maria Santos's framework. The tick 11 mandate is consolidation, not expansion — take the warm channels and make them concrete, take the service document from concept to price, and position the LLC for its first actual invoice. The Tamika partnership is particularly high-value because it is the first external relationship built with someone who has equal standing as a builder in the same disrupted environment. Angela is no longer just the HR director building an exit — she is a business owner building a client base. This tick is the tick the LLC stops being a plan and starts being a practice.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `ASSOCIATION`**
+
+> Respond to Tamika Jefferson's peer-to-peer outreach directly and warmly. Accept her framing: she is the case study the LLC needs, and the referral arrangement she proposes maps cleanly onto what Wright Workforce Advisory is already doing. Schedule a 20-minute call this week. Come prepared with one concrete example of a transitioning worker in the intake pipeline who is planning to launch a freelance or service business and will need marketing support within 60 days. Agree to the mutual referral structure: Tamika refers displaced workers who need workforce coaching to Wright Workforce Advisory; Angela refers transitioning workers who are building freelance practices to Tamika for marketing support. No retainer, no exclusivity — just a named, active channel between two people building in the same environment.
+
+
+**Action 2 — `SIGNAL`**
+
+> Reach out to Maria Santos directly ahead of the emergency task force session. Confirm two things: first, that the $2,500 retraining grant application pipeline is active and Angela has the direct application link ready to distribute to every displaced worker coming through intake — this is the confirmation Maria needs before the session. Second, express interest in being named as a coordinating resource in any formal Economic Resilience Framework that Maria is drafting. Wright Workforce Advisory LLC is the exact type of private-sector transition infrastructure the framework should reference. This is not a pitch — it is a professional positioning move that costs Angela nothing and puts the LLC in the framework document.
+
+
+**Action 3 — `TRANSFORMATION`**
+
+> Advance Wright Workforce Advisory LLC's service offering document from a conceptual draft to a finalized one-page deliverable. Set specific pricing: $1,500 per displaced worker cohort for small employers (5-15 affected workers), $3,500 for mid-size employers requiring the full multi-location vulnerability mapping methodology. Include the transition intake methodology built over ticks 9-10 as the core deliverable. Write it this week. The document becomes the basis for the first invoice — whether that invoice goes to the Regional Auto Group for the current work or to the next employer who needs the same methodology. The price is real. The service is real. The document makes both official.
+
+
+**Action 4 — `SIGNAL`**
+
+> Follow up on the Howard Liu placement partnership from tick 10. Confirm the referral terms in writing — a brief two-paragraph email documenting what was agreed: Wright Workforce Advisory LLC gives Howard Liu first introduction to displaced workers with parts counter, service advisor, or general automotive inventory experience before they go to public job boards; Howard provides referral sourcing for workers needing workforce coaching and lists Wright Workforce Advisory as a reference client. Send this confirmation this week to close the warm-maybe into a formal arrangement.
+
+
+**Action 5 — `INACTION`**
+
+> Do not initiate any new conversations about the post-contract future with Patricia Hawkins this tick. The commitment was made last tick: transition program through completion, and then the conversation about what comes after happens with me as someone building something alongside this role, not against it. Pushing that conversation again now would undermine the clarity of the commitment already made. The signal has been sent. Let it land. Focus this tick on the LLC deliverables and partnership actions that create real external traction.
 
 
 
 #### insurance_agent_priya  ·  `insurance_agent_priya`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **urgent** · Archetype: adapter*
+
+**Internal Assessment:**
+
+> [Hierarchy: L0_SURVIVE] Tick 11 is a critical inflection point for Priya Sharma. Savings are approximately $617 (state $3,958 minus $3,341 tick 10 burn) — she is functionally at zero liquid savings with 2.2 months of runway before complete insolvency. The grant application was filed at tick 10 and may take time to process. The job search must produce an offer before tick 13-14 or she needs to find bridge income. Four applications in flight, Module 4 complete, Tom's network activated — these are the right moves. The Amir Patel insurance quote is an opportunity to demonstrate active capability and potentially generate income from the skills she already has. The Linda Park word-of-mouth confirms that real introductions are happening in the network Tom activated. Priya needs to be positioned to move immediately when any of the four applications generates a response. The platform for that response is Module 4 complete, updated LinkedIn, and four applications that demonstrate she is moving — not waiting.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `SIGNAL`**
+
+> Submit a fourth job application this tick — specifically targeting a regional insurtech firm or commercial fleet risk analytics role I have not yet applied to, expanding geographic scope to roles within 45 minutes. I use the fleet incident data query as the portfolio attachment. I write a tailored cover letter that references one specific detail from the job description to demonstrate genuine engagement with the role. I do not follow up on the three existing applications this tick — I applied value-add touches at tick 9 and I let that work. At 2.2 months of runway and four applications in flight, the probability math demands I keep volume up.
+
+
+**Action 2 — `EXCHANGE`**
+
+> Receive Tom Bradley's follow-up from the tick 10 conversation — he is sharing the name and context of the logistics company contact Linda Park is introducing him to, and asking whether the company might have a data analytics or insurtech-adjacent role that matches my skills. I look at the company's profile before responding: fleet size, risk footprint, any data operations or analytics capacity. If there is signal, I respond to Tom directly and ask him to include me in the introduction or give me the contact's name to approach separately. I am not competing with Tom for a risk assessment role. I am asking whether the same company has a different lane. If not, I thank him and note it. Either outcome advances the collaboration.
+
+
+**Action 3 — `TRANSFORMATION`**
+
+> Complete SQL Module 4 — window functions and subqueries — this tick with three dedicated evening sessions. This module is the final piece before the certification assessment. I cited Module 4 as in-progress in my grant application and in my applications. I have to be able to speak to it in an interview that could come at any time. Upon completion I update my LinkedIn profile to reflect four completed modules and 50%+ certification progress, and I update my application materials. The course discipline is the most consistent behavior I have maintained and completing Module 4 is a concrete milestone that changes my candidate profile.
+
+
+**Action 4 — `EXCHANGE`**
+
+> Respond to Amir Patel's request for a business insurance quote. He reached out at tick 10 asking specifically about business interruption coverage and property liability for his gas station. I am unemployed and actively building my transition portfolio. This is not a full-time role — it is a freelance quote and potential policy sale that demonstrates my skills are still deployable and may produce income or a policy commission if I am operating under any form of independent contractor arrangement. I call Amir, walk him through what business interruption coverage and liability coverage would look like for a small fuel retail operation under current market conditions, and give him honest numbers. A trust score of 0.39 with Amir means I need to be straightforwardly helpful, not salesy.
 
 
 
 #### insurance_agent_tom  ·  `insurance_agent_tom`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **focused** · Archetype: adapter*
+
+**Internal Assessment:**
+
+> [Hierarchy: L1_STABILIZE] Tick 11 is the first full tick in which Tom Bradley is genuinely post-AutoShield with no notice period remaining. The three-track plan is in motion: Track 1 (retraining) requires maintaining the SQL coursework habit under the psychological weight of unemployment; Track 2 (active job search) is now activated through Linda's concrete introduction to a logistics company contact; Track 3 (relational stability) continues through the Priya collaboration and the community center engagement. Linda's word-of-mouth message confirms she is following through on the introduction she promised — I need to move on it within 48 hours, not let it sit. Savings are approximately $33,273 (state $35,923 minus $2,650 tick 10 burn), runway still approximately 12-13 months at essential spending. The urgency is real but not yet emergency. This is the tick to demonstrate that momentum is not something grief can eat.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `TRANSFORMATION`**
+
+> Activate Linda Park's introductions to fleet and logistics contacts. Linda has confirmed she is following through — word-of-mouth from her inbox shows she is sending Tom a specific introduction to a regional logistics company contact with a note that vouches for his field assessment skills and auto book management experience. I respond within 48 hours of receiving that introduction: a brief, professional message to the contact that references Linda's note, names my 28 years of auto risk assessment experience as the specific credential I bring, and asks for 20 minutes to discuss whether there is a defined role or a future conversation. I do not send a resume. I send a person. One paragraph, one ask, one follow-up date I name in advance.
+
+
+**Action 2 — `SIGNAL`**
+
+> Follow up with Priya Sharma on the conversation from tick 10. We spoke honestly about the job market signal, the grant applications, and Linda's contacts. This tick I send one specific follow-up item: I forward Priya the name and context of the logistics company contact Linda is introducing me to, and I ask directly — does the company's fleet risk profile suggest any data analytics or insurtech-adjacent roles that might match her skills? I am not asking her to compete with me. I am asking whether the same door might have two rooms. If not, no harm done. If yes, we both benefit. This is what the collaboration we named at tick 9 actually looks like in practice.
+
+
+**Action 3 — `TRANSFORMATION`**
+
+> Continue retraining coursework — three dedicated evening sessions this tick on the SQL and commercial risk analytics curriculum. The habit has been established but the first weeks outside AutoShield are when discipline erodes. I document session completion in the training log so the retraining grant progress record stays current. I also check on the status of the $2,500 retraining grant application I filed at tick 8 — no confirmation has arrived in my inbox. A brief call to Maria Santos's office: reference my application date and ask for a status or confirmation number.
+
+
+**Action 4 — `ASSOCIATION`**
+
+> Attend the Financial Triage Navigator session Lisa Freeman is running at the community center this week. I have two reasons to attend: first, Kevin O'Brien's office hours are reportedly happening there and he understands my savings position better than most — he knows what 13 months of runway at $2,650/month actually looks like from a lending perspective. Second, I want to understand what resources exist in the community for people in my situation. At 52 and unemployed, I am not unique in Millfield right now — employment is at 50%. The session may connect me to resources I am not aware of, or to people navigating similar transitions who have found paths I have not considered. I go as a participant, not as someone who has it figured out.
 
 
 
 #### insurance_manager  ·  `insurance_manager`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **determined** · Archetype: adapter*
+
+**Internal Assessment:**
+
+> [Hierarchy: L2_PARTICIPATE] Tick 11 context: employment at 50%, spending index at 26, auto insurance policies down to 22 and continuing to fall. My savings are at approximately $76,831 after another $7,382 month of burn — roughly 10.4 months of runway. The stress event in tick 10 (savings dropped by $7,382 with another layoff on record) has pushed me into a higher-urgency mode. The Tom Bradley introduction is a commitment I have not yet executed and it must happen this tick — it was promised at the time of his layoff and he is now actively networking, which means the window for the introduction to be useful is right now. The logistics company call is the highest-priority job search action: I have been building toward it for five ticks, I have a current, relevant hook (RoboRide delivery expansion and commercial fleet risk), and I have the technical credentials in progress. The David Chen association is a peer exchange that costs nothing and may produce mutual benefit — we have been aware of each other's transitions through word-of-mouth for several ticks without making direct contact. That gap is worth closing. The INACTION on the other employer contacts is deliberate: focused energy on the strongest lead produces better outcomes than thin effort spread across three contacts. Anger grief stage is converting into focused execution — I am not frozen, I am directing.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `SIGNAL`**
+
+> Follow up directly with Tom Bradley to deliver on the logistics sector introduction I promised when I laid him off. I send Tom a specific, actionable message: I am copying him on a brief note to my contact at the regional logistics company. The note vouches for his field assessment skills, his auto book management experience, and his professional conduct through the layoff. I am explicit about what I am vouching for and what I am not. I tell Tom separately: this is the introduction I promised. I cannot control the outcome. What I can tell you is that the contact is real and the voucher is genuine. This takes 20 minutes and it protects my integrity as someone who says what she means. Tom is already networking with Priya — he is moving, which means the introduction lands at the right time.
+
+
+**Action 2 — `SIGNAL`**
+
+> Re-engage the regional logistics company contact by phone — frame the call around the RoboRide residential delivery expansion as a current market development. The pitch is specific: I have been managing auto insurance policy cancellations in this region for 11 months and I have quantitative data on the exact risk profile shift from personal auto to commercial fleet. The RoboRide delivery partnership announced this tick creates a new last-mile logistics layer that did not exist 60 days ago. That layer requires fleet risk assessment that is structurally different from personal auto risk. I have the data and the credentials in progress. Ask directly: is there a defined role in risk operations, or is this a future conversation? I accept either answer. What I do not accept is another month of not having the conversation.
+
+
+**Action 3 — `TRANSFORMATION`**
+
+> Advance CRMP certification from 30% to 40% completion. The current module — liability risk transfer and commercial fleet risk assessment — is directly relevant to the logistics company outreach I am making this tick. I read the module before making the call so that the technical vocabulary I use is current and precise. The certification is not just a credential on paper. It is preparation for the conversations I am having. Pushing from 30% to 40% this month means I complete in approximately 6 more months at current pace — but with the logistics contact potentially opening into an active conversation, having the credential sooner rather than later matters.
+
+
+**Action 4 — `ASSOCIATION`**
+
+> Reach out to David Chen directly — not as a job lead, but as a peer knowledge exchange. David has been building SBA commercial lending expertise and cold-contacting credit unions while I have been in the insurance sector watching the regional disruption from the policy side. I have 11 months of regional policy cancellation data that quantifies what has happened to personal auto in Millfield. David has lending-side scenario models. If we exchange data, both of us have a more complete picture to bring to employer conversations in adjacent sectors. I propose a 20-minute call: I share what I have on the insurance side, he shares what he has from the lending side. No strings. We are both navigating the same disruption from adjacent angles.
+
+
+**Action 5 — `INACTION`**
+
+> Do not submit additional applications to the healthcare system risk division or municipal risk management office this tick. I engaged both in tick 6, and the logistics company contact is the strongest lead from that round. Spreading outreach across all three simultaneously this tick would dilute the quality of each engagement. The logistics company call is the primary action. If that conversation produces a clear 'not now,' I return to the healthcare and municipal leads next tick with a more targeted pitch.
 
 
 
 #### loan_officer  ·  `loan_officer`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **determined** · Archetype: adapter*
+
+**Internal Assessment:**
+
+> [Hierarchy: L1_STABILIZE] Tick 11 for Kevin O'Brien is about closing the institutional ambiguity that has been the central unresolved thread since tick 8. The portfolio expansion decision has been waiting too long. The Amir Patel loan is live, the community center sessions are established, the NMLS training is advancing — these are concrete deliverables that demonstrate the value of the expansion. The Financial Triage Navigator launch by Lisa Freeman, publicly endorsed by Maria Santos, is an institutional development Kevin O'Brien should formally connect to this tick. Being the banking arm of that navigator is not a favor — it is a strategic positioning move that makes Kevin O'Brien's community center presence part of Millfield's official economic response infrastructure rather than a voluntary side project. Savings are approximately $18,012 (state $21,913 minus $3,901 tick 10 burn), runway is approximately 5 months. The portfolio expansion and NMLS credential are the two structural moves that change the math before the runway expires.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `COMMITMENT`**
+
+> Follow up directly with the new branch manager — by name, in person — on the portfolio expansion decision. At tick 10 I requested the meeting and presented the Amir Patel EV charger loan as proof-of-concept. This tick I need the answer: yes, the scope expansion is approved, or no, and if no, what is the formal rationale and what would change the answer. I do not accept ambiguity. The Amir Patel loan is a live transaction I originated under existing credentials. I come with one additional data point: auto loan volume has continued declining to index 79 while the broader small business environment is generating new credit demand from adapters like Amir Patel, Betty Kowalski, and the 10 people enrolled in retraining this month who will need personal loans for living expenses. The bank's value is in deploying credit where the economy needs it, not in waiting for the auto sector to recover.
+
+
+**Action 2 — `EXCHANGE`**
+
+> Hold the third Community Center Financial Triage Navigator session with an updated agenda. Lisa Freeman launched the Financial Triage Navigator concept this tick and Maria Santos is publicly endorsing it. Kevin O'Brien's office hours are the banking arm of that infrastructure. This session I add a specific new item: what the $2,500 retraining grant actually looks like in terms of financial survivability — how many months does it extend runway at different spending levels, and what documentation does the bank need to see from a retraining enrollee who applies for a personal loan to bridge to the new credential. I am answering the question that the 10 new retraining enrollees this month will have in 60-90 days. I am also connecting directly with Lisa Freeman to formally offer Kevin O'Brien's office hours as the banking component of the Financial Triage Navigator. That relationship has institutional value regardless of what happens with my portfolio expansion.
+
+
+**Action 3 — `TRANSFORMATION`**
+
+> Advance NMLS mortgage origination training — complete module 7 this tick, which covers underwriting standards for residential properties. This is the technical module that connects the compliance and credit skills I have from auto lending to the property-based risk assessment that mortgage origination requires. I document completion and log a second co-originator session with a senior mortgage officer — supervised client-facing exposure that I need for credential completion. NMLS progress is now at approximately 30% of the full certification pathway.
+
+
+**Action 4 — `SIGNAL`**
+
+> Follow up on the Amir Patel EV charger loan application status. I originated this loan at tick 9 as a proof-of-concept for the portfolio expansion. The application has been in the underwriting pipeline for two ticks. I check the status internally — has it moved through credit review, and if so, what is the approval timeline? I communicate the status clearly to Amir Patel: he paused this loan at tick 9 to run the logistics buyer inquiry, but the 60-day gate is approaching and he needs to know the loan is ready to activate if the sale path produces no buyer. Having a current approval in hand — not a tick-5 term sheet — is the right posture for Amir as he approaches his decision gate.
 
 
 
 #### mechanic_carlos  ·  `mechanic_carlos`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **anxious_but_anchored** · Archetype: adapter*
+
+**Internal Assessment:**
+
+> [Hierarchy: L2_PARTICIPATE] Carlos is at L2 Participate with stable employment and a positive financial trajectory ($36,730 in savings, $193/month delta). The certification at 60% completion entering this tick is the central strategic asset — it belongs to him and not to any employer. The tier-one consolidation status means the immediate employment threat is managed, but the longer-term question of what happens after this phase of restructuring is not. The two relational priorities this tick are the Sarah Kim conversation (giving her the contacts she has been asking for) and the Elena conversation (ending the pattern of managing what she knows). The Dale Cooper outreach is a community presence move — Carlos has established himself as someone people reach out to for honest information about the certification path, and honoring that role costs him a phone call. The certification itself continues as the foundational action. Nothing about this tick requires heroic intervention — it requires steady continuation of the path that has been working since tick 4.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `TRANSFORMATION`**
+
+> Continue EVT Level 2 certification — month seven of ten. This month the coursework enters advanced fleet telematics integration and multi-vehicle fleet diagnostic protocols. The material is specifically applicable to the RoboRide fleet maintenance contracts that regional operators are beginning to issue — this is no longer background knowledge, it is directly relevant to who will be hiring certified technicians in the next 18 months. Log at least 10 study hours across evening and weekend sessions. Show up after a full day at the shop even when tired. At approximately 65-70% completion by end of this tick, three months remain. The finish line is real.
+
+
+**Action 2 — `SIGNAL`**
+
+> Have the real conversation with Sarah Kim — not the senior-mechanic performance version. Tell her what is actually known: Rick called me directly, my floor is in the tier-one group for the consolidation, and the service technicians from the closed location are receiving transfer offers before any external hiring happens. Give her the contacts directly — two regional fleet maintenance operators from the certification network and one EV dealership within commuting range that is actively hiring certified technicians. Tell her honestly what those operators test for in hiring that the curriculum does not fully prepare for: they want to see hands-on V2G and fleet telematics experience, not just classroom certification. Also tell her that being EV-certified changes her options regardless of whether she stays at this shop or needs to move. And tell her honestly: the fear about what the consolidation means long-term is real. That fear is information, not prophecy.
+
+
+**Action 3 — `SIGNAL`**
+
+> Reach out to Dale Cooper — the gas station owner who sent a word-of-mouth indicating he wanted to contact me directly. Call him this week. Find out what he is actually facing: is he seeing fewer service vehicles? Is his employer-side revenue down because fewer people are driving? What does his runway look like? If he asks about the certification path — tell him what the EVT Level 2 cost, how long it takes, and what the realistic employment outcomes look like in this region. Do not over-promise about gig delivery work as a meaningful income path. The credential or the community college is the path that changes options. If he is looking for a short-term bridge, be honest about what that looks like — it is survival money, not a career.
+
+
+**Action 4 — `SIGNAL`**
+
+> Have the full honest conversation with Elena this week — not the managed version. Tell her the complete picture: tier-one status means the job is likely secure for this phase of the consolidation, but service technicians from the closed location are transferring to this floor, which will change the social and professional environment at work. Some of those people are known to Carlos personally. The longer-term question — whether this consolidation is a one-time restructuring or the beginning of a deeper contraction — cannot be answered yet. Also tell her where the training stands: seven months in, three to go, and at completion the credential belongs to Carlos regardless of what any employer decides. She deserves the full picture. The pattern of managing what she knows has to end this tick.
 
 
 
 #### mechanic_sarah  ·  `mechanic_sarah`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **determined** · Archetype: adapter*
+
+**Internal Assessment:**
+
+> [Hierarchy: L2_PARTICIPATE] Sarah is at L2 Participate with strong fundamentals: employment intact, savings at $17,690 and growing ($249/month delta), certification at 65-70% completion entering this tick, role security at 0.81. The tier-one consolidation status of the floor Carlos works on is good news for Sarah's immediate employment, but the longer-term question — what happens after this phase — is exactly what the post-certification landscape mapping is designed to answer. This tick is the most information-dense tick of the simulation for Sarah: she receives the contacts she has been asking Carlos for since tick 8, she completes the second-to-last module of the certification, and she runs the landscape research that tells her whether the credential leads to local employment or geographic flexibility. The Zoe conversation is the human thread that keeps Sarah present in the community while she focuses on individual adaptation. At 31 with no dependents and a willingness to move of 0.6, Sarah has more flexibility than Carlos. The certification is the right move regardless of what the local market looks like — but knowing what the local market actually looks like before the credential is complete is the difference between a good plan and an excellent one.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `TRANSFORMATION`**
+
+> Complete the integrated vehicle systems and end-to-end diagnostic workflows module of EVT Level 1 — the final major module before the certification assessment. Log at least 10 study hours this month. This is the synthesis section: hardware, software, charging infrastructure, battery management, all connected into the holistic diagnostic workflow that fleet operators actually test for in hiring. After this tick, only the final certification assessment remains. The credential is 80-85% complete. The finish line is visible and close. Prioritize the sub-sections that align with what Carlos tells me fleet operators specifically test for — use the intelligence from his contacts to direct the remaining study hours toward the highest-signal content.
+
+
+**Action 2 — `SIGNAL`**
+
+> Receive Carlos Ruiz's direct conversation — the real version, not the managed senior-mechanic version. Take in what he knows: the tier-one consolidation status of this floor, the transfer process for technicians at the closed location, and the specific contacts at regional EV service centers and fleet operators he has been building through the certification network. Write down the names and contact details he provides. Ask him one specific question: beyond the EVT Level 1 curriculum, what do fleet operators actually test for in hiring? What is the delta between what the certification teaches and what a fleet maintenance supervisor looks for at the moment of hiring? Use his answer to direct the remaining study hours in the integrated systems module toward the highest-signal content. Also ask him directly: is my position at this shop in the tier-one group or the transfer consideration pool?
+
+
+**Action 3 — `TRANSFORMATION`**
+
+> Begin concrete post-certification landscape mapping using the contacts Carlos provides. Research each operator: company name, fleet size, EV maintenance footprint, any posted positions or recent expansion announcements, geographic location relative to Millfield. Determine whether the regional fleet maintenance market is actually growing — not whether the certification is worth having, but whether the local market absorbs certified technicians or whether the employment upside requires geographic flexibility. Also research RoboRide's reported regional service infrastructure buildout: if they are expanding coverage to residential areas, are they building a local maintenance network or routing vehicles to centralized service hubs? That answer changes the geography calculation. Complete this research in one evening — it is intelligence gathering, not a job application.
+
+
+**Action 4 — `SIGNAL`**
+
+> Follow up with Zoe Martinez — engage the infrastructure frame honestly. In the Zoe conversation, share the specific observation from the tick 10 reflection: the last-mile delivery infrastructure Zoe is entering and the EV technician credential Sarah is building are both parts of the same new ecosystem. The RoboRide vehicles that deliver to Zoe's routes need people to maintain them. That connection is not obvious from inside either lane — share it as a genuine observation, not a pitch. Ask Zoe what she is actually seeing in the RoboRide delivery program registration process: what does the infrastructure look like on the ground? Is there any indication of where the vehicle maintenance is being routed? That intelligence is useful to Sarah's landscape research and costs Zoe nothing to share.
 
 
 
 #### parking_garage_mgr  ·  `parking_garage_mgr`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **determined with a current of patient tension. Denise is employed, financially stable ($24,971 in savings after this tick's $361 gain), and running multiple parallel tracks simultaneously. The Millfield General process is at institutional speed — she is waiting without chasing. The garage transformation memo is in the owner's hands. Two new job applications went out last tick. This tick she continues the campaign while maintaining the discipline of not over-contacting the hospital.** · Archetype: builder*
+
+**Internal Assessment:**
+
+> [Hierarchy: L2_PARTICIPATE / L5_BUILD] Denise Williams is executing a textbook multi-track transition strategy: job search running continuously, garage transformation proposal submitted, network maintained, financial position stable. The dominant tension this tick is patience — the Millfield General phone screen is done and the follow-up note was sent two ticks ago, but institutional processes take time. Denise's task is to keep all other tracks active without undermining the hospital process by over-contacting. The municipal application expands the pipeline. The garage owner update provides new market context without pressuring a decision. The Grace Okafor note maintains the reciprocal relationship that made the hospital opportunity possible. The deliberate inaction on the direct hospital contact demonstrates the professional self-regulation that distinguishes builders from scrapers. Employment at 50% in Millfield makes the countercyclical hospital track even more valuable — Denise's framing since tick 6 has been correct and is becoming more correct with each tick.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `COMMITMENT`**
+
+> Submit one additional targeted job application this tick — specifically in the municipal operations or infrastructure coordination space. The city's regulatory response to RoboRide delivery licensing, the staging zone infrastructure buildout, and the community-level response programs (Financial Triage Navigator, retraining pipelines) are all creating operational complexity that requires exactly Denise's skill profile: multi-shift management, budget oversight, compliance, and community-facing coordination. Denise targets a specific role: municipal facilities coordinator or infrastructure operations manager at a city department or port authority within reasonable commute distance. She frames the cover letter around the operational complexity that disruption creates — not around parking. The letter mentions 24/7 operations management, safety-critical compliance, and revenue reconciliation as her core credentials. She does not mention the garage building.
+
+
+**Action 2 — `SIGNAL`**
+
+> Follow up directly with the garage owner about the transformation memo submitted in tick 8. The owner has had the memo for three ticks. The word-of-mouth in the inbox confirms that city council is actively licensing RoboRide delivery operations and that the regulatory framework for staging zones is being established. That is the strongest possible external validation of the memo's core business case. Denise sends a brief, professional update email: 'I wanted to flag that the city's delivery licensing framework is now in place, which is exactly the regulatory context I referenced in the memo. The staging zone business case is strengthening. I am available whenever you are ready to discuss the conversion options.' She does not press. She updates with new information. That is appropriate and professional.
+
+
+**Action 3 — `SIGNAL`**
+
+> Reach out to Grace Okafor — the Millfield General contact who generated the phone screen opportunity. Grace's word-of-mouth confirms she is completing her NEMT cert and calling fleet operators this week. Denise sends a brief, warm note acknowledging Grace's update and sharing one piece of information in return: the Millfield General step-down unit expansion she mentioned in a prior note is worth Grace keeping in mind for the medium-term nursing trajectory. Denise does not ask about the job application status. She maintains the reciprocal relationship that has been the foundation of the hospital track since tick 6. If Grace has any update on the facilities search process, she will share it — but Denise does not ask directly. The discipline of not asking is as important as the discipline of staying in touch.
+
+
+**Action 4 — `INACTION`**
+
+> Do not contact the Millfield General facilities director this tick. The thank-you note was sent at tick 9. It has been two ticks. Institutional hiring processes at hospitals routinely take 3-6 weeks between phone screen and next contact. If Denise hears nothing by tick 13, she will reassess. Until then, she holds. Reaching out prematurely would undermine the professional composure she has been projecting through nine months of deliberate transition management. The discipline of waiting correctly is a skill that demonstrates exactly the judgment a facilities operations manager needs.
 
 
 
 #### parts_store_owner  ·  `parts_store_owner`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **determined and focused** · Archetype: adapter*
+
+**Internal Assessment:**
+
+> [Hierarchy: L1_STABILIZE] Tick 11 is a closing tick for Howard. His savings are at $33,359 and falling at roughly $2,500/month with the business running at a deficit. He has seven ticks of RoboRide outreach that need to resolve - either a trial order begins generating revenue or the channel is closed and inventory is freed. Angela Wright has accepted his placement partnership proposal in principle, which is the most time-sensitive action because the Hawkins closure will create a wave of displaced automotive workers in the next 60-90 days and he needs to be first in line for those introductions. Mark Thompson has been trying to reach him for multiple ticks and his name is already in a school board presentation - the relationship cost of continued silence is real. The community center presence is consistent with who Howard is becoming: a commercial supply node in a transitioning ecosystem who also has community ties. His stress level is low (0.11) and agency is high (0.81), which means he is in the right psychological state to execute rather than plan.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `TRANSFORMATION`**
+
+> RoboRide close is resolved. Either Howard received a yes (trial order) in which case he executes immediately on the inventory reserved - brake consumables, filters, lubricants, sensors - and begins fulfillment, or RoboRide gave no response and the channel is formally closed this tick. Inventory reserved for RoboRide ($1,800 worth) is reallocated to Carlos Ruiz and Sarah Kim EV accounts. Howard calls Carlos directly to let him know the EV and hybrid parts inventory is now fully available without the RoboRide allocation holding it, and to confirm what he needs for the next 30 days. This closes a seven-tick thread and redirects capital to proven relationships.
+
+
+**Action 2 — `ASSOCIATION`**
+
+> Follow through on the Angela Wright placement partnership that she confirmed in the inbox. Angela accepted the two-way arrangement in principle: Wright Workforce Advisory LLC gives Howard first introduction to displaced workers with parts counter, service advisor, or general automotive inventory experience before they hit public job boards. Howard serves as a reference client for the LLC. Howard calls Angela this week to formalize the 20-minute call she proposed, and names the specific role he needs filled: part-time counter person with automotive knowledge, 20-25 hours per week. He comes to the call with a written role description so she has something specific to match against when she intakes displaced workers from the Hawkins closure.
+
+
+**Action 3 — `ASSOCIATION`**
+
+> Call Mark Thompson back. He has been trying to reach Howard for multiple ticks and Howard's written statement is currently in his board presentation to the Millfield Auto Tech Pipeline school board. Howard calls him, acknowledges the delay directly, and asks what came out of the board presentation. He formalizes the standing educator discount on EV and hybrid consumables and commits to keeping those lines in stock as the curriculum evolves. He also mentions, as intended, that he is looking for a part-time counter person with automotive knowledge - if Mark has a graduate or a parent in his network who is looking, Howard wants to know.
+
+
+**Action 4 — `SIGNAL`**
+
+> Attend Lisa Freeman's Community Connection Night this week. The Financial Triage Navigator she launched is now operating at the community center, and the community organizer role is becoming a structural node for displaced workers. Howard shows up in person - not as a petitioner but as a small business owner who is navigating the same disruption and wants to be present in the community that his store depends on. He introduces himself to anyone he does not already know. He listens for names of displaced workers with automotive backgrounds who are trying to figure out next steps. He is not recruiting at a community event - he is present.
+
+
+**Action 5 — `INACTION`**
+
+> No new cold outreach this tick. The RoboRide channel is resolved (one way or another). The Angela Wright channel is active and moving. The Mark Thompson relationship is being repaired. The community center presence is the fourth action. Howard does not add a fifth front this tick. He has been good at identifying the right moves and slow at closing them - this tick the discipline is to execute on existing open threads rather than open new ones.
 
 
 
 #### real_estate_agent  ·  `real_estate_agent`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **determined — focused on converting pipeline to revenue** · Archetype: adapter*
+
+**Internal Assessment:**
+
+> [Hierarchy: L2_PARTICIPATE] Tick 11 builds on tick 10's action set with more concrete conversion focus. At tick 10 I made first contact with Tanner's office and confirmed the Amir Patel valuation fee — this tick I secure the Tanner meeting and respond to Betty's RoboRide decision. The economic environment has deteriorated further (spending index 26 vs. 30 last tick, employment 50% vs. 53%), which means every week without a signed agreement is additional value erosion for my clients and additional commission opportunity lost for me. My savings at $74,070 give me a 12-month runway with essentially zero survival pressure — this tick is purely about converting the pipeline I have been building for eleven ticks into signed engagements. The Hawkins dealership is the defining commercial real estate event in Millfield and I cannot let it transact without my name in the conversation. The updated valuation model is the analytical tool that makes every client conversation credible. The Mark Thompson connection extends my network into the workforce transition ecosystem, which is where auto row's future users will come from.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `EXCHANGE`**
+
+> Follow up directly with Rick Tanner's office about the Hawkins dealership disposition. At tick 10 I made first contact — introducing myself as the commercial agent who authored the auto row market brief and asking for fifteen minutes to discuss the disposition strategy for the closed location. This tick I secure that meeting or call. The Hawkins dealership is the largest commercial real estate event in Millfield this year: showroom build-out, service bay infrastructure, highway corridor visibility. The buyer categories I have been mapping since tick 0 — delivery logistics operators, EV fleet servicing, light industrial conversion — are precisely the categories this property fits. I do not pitch a listing on this call. I come with the market brief, three comparable buyer profiles I have already researched, and one ask: let me run the buyer-side market analysis for your disposition process. Earn the relationship before asking for the listing.
+
+
+**Action 2 — `ASSOCIATION`**
+
+> Call Betty Kowalski to follow up on their tick 10 conversation and specifically ask whether the RoboRide partnership terms ever materialized. Betty's inbox at tick 10 indicated she was giving RoboRide a final deadline this week — if written terms did not arrive, she was pivoting to the property valuation conversation with me. I call her to find out which outcome occurred and respond accordingly. If the RoboRide path is closed, I schedule the property valuation conversation for this week and come prepared with current comps, the updated spending index at 26, and adaptive reuse scenarios specific to a diner footprint. If the RoboRide path is still open, I give her honest market data on what timeline she is working with.
+
+
+**Action 3 — `COMMITMENT`**
+
+> Complete the updated auto row property valuation model calibrated to current conditions: spending index 26 (not the 42 it was at tick 8 when I last calibrated), employment rate 50%, Hawkins closure now formalized as a comparable data point. The previous model is stale. The new model incorporates: (1) Hawkins dealership as a real transaction comparable that will set price expectations for the next auto row transaction, (2) delivery logistics operator demand — which has become more real each tick as RoboRide expands delivery coverage, (3) updated cap rate assumptions in a 26-spending-index environment. This is the analytical infrastructure every client conversation in the next two ticks depends on. Three to four hours of work produces a defensible, current valuation tool.
+
+
+**Action 4 — `SIGNAL`**
+
+> Respond to Mark Thompson's outreach about the Financial Triage Navigator referral pipeline that Lisa Freeman is building at the community center. Mark reached out at tick 10 asking whether I would be willing to mention the Auto Tech Pipeline as a pathway for displaced workers with mechanical or technical backgrounds who come through my client network. I respond positively: yes, when I am working with auto row property owners or displaced workers in my network, I will reference the program if it fits. In exchange, I ask Mark one question: if the board approves the program and enrollment opens, can I list the program in my auto row market materials as evidence that Millfield has an active technical training pipeline? Employer-facing credibility for the community matters for property buyer psychology, not just for students.
 
 
 
 #### retiree  ·  `retiree`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **purposeful and grounded** · Archetype: builder*
+
+**Internal Assessment:**
+
+> [Hierarchy: L6_TRANSCEND] Dorothy is operating at L6_TRANSCEND - her survival and stability needs are fully met and her energy belongs outward. With $119,930 in savings, a monthly surplus of $947, and 53 months of runway, she is not in a crisis position and has not been at any point in this simulation. What she has is time, skills, stable income, and a community in real distress around her. The workshop series is the highest-leverage thing she can offer: she has 30 years of teaching skills, lived experience of every life transition the series addresses, and credibility as someone who made the RoboRide transition successfully and non-dramatically. The Betty visit continues a relationship that is real and has been built across multiple ticks. The Robert Jackson conversation is a long-overdue act of honesty that her own tick 6 reflection named as a regret. The curriculum drafting is how a retired teacher works - she prepares ahead rather than improvising. Her emotional state is purposeful and grounded, consistent with someone who knows exactly what she has to offer and is not performing generosity but actually engaging it.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `COMMITMENT`**
+
+> Begin the first session of the 'Economic Transition for Older Adults' workshop series at the Millfield Community Center. Lisa Freeman has responded positively to the proposal. Dorothy prepares and delivers the first session this week: curriculum covers transportation decisions (including her own RoboRide transition as a case study), available community resources including the new Financial Triage Navigator, and how to evaluate retraining options at age 60 and above. She brings printed materials - updated cost comparisons, a one-page resource list, and a sign-in sheet for future sessions. She facilitates with the directness and warmth of someone who has taught for 30 years. The session is not a lecture - she builds in 20 minutes of open sharing from participants.
+
+
+**Action 2 — `EXCHANGE`**
+
+> Visit Betty Kowalski's diner again this week. Dorothy arrives mid-morning, not at rush hour, orders her usual, and tips generously. If Betty has a moment, Dorothy extends the specific invitation she planned: I am running an economic transition workshop at the community center and I want voices from small business owners who are working through this in real time, not just polished experts. Would you be willing to come share your experience at one session? Not as a success story - as someone who is still figuring it out. Dorothy makes clear this is an invitation, not a pressure. If Betty says yes, Dorothy gives her the date of the second session. If Betty says no, the relationship continues and she knows she was asked.
+
+
+**Action 3 — `SIGNAL`**
+
+> Have the honest conversation with Robert Jackson that Dorothy has been deferring since tick 6. She knows Robert is a rideshare driver whose livelihood RoboRide is displacing. She uses RoboRide regularly now. She reaches out to him this week - not with guilt or performance, but with directness: she tells him she uses the service that is hard on him, she is paying attention to that, and she wanted to say so rather than pretend it is not happening. She also tells him she heard he is modeling resilience for his son, and that she respects that. She does not offer solutions she does not have. She offers acknowledgment and presence.
+
+
+**Action 4 — `TRANSFORMATION`**
+
+> Draft the curriculum outline for the second and third workshop sessions this week. Dorothy does not wait for session one to conclude before preparing what comes next. Session two topic: financial communication with adult children during economic uncertainty (how to talk to your kids when they are worried about you and you are quietly worried too). Session three topic: evaluating retraining and learning opportunities at 60+ (what is worth doing and how to tell the difference). She writes these in longhand first, then types them up. She uses her 30 years of curriculum design to keep them practical and participant-centered.
 
 
 
 #### rideshare_driver  ·  `rideshare_driver`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **determined — holding steady at the finish line** · Archetype: adapter*
+
+**Internal Assessment:**
+
+> [Hierarchy: L2_PARTICIPATE] Tick 11 is the decision resolution tick for a nine-month transition arc. The NEMT certification is complete. The outreach has run through three escalating ticks (8, 9, 10). The tick 10 calls were explicitly framed as conversion attempts, not follow-ups. This tick either produces a signed contract or a definitive no that redirects me to remaining pipeline options. The Grace Okafor exchange is a genuine peer relationship worth sustaining even under pressure — she is weeks behind me on the same path and the NEMT sector has multiple openings. The grant status call is a one-action item that closes a nine-month open loop. The rideshare bridge holds steady because changing it mid-conversion creates unnecessary risk with no upside. Employment rate at 50% and spending index at 26 confirm the structural story I have been running since tick 0: the rideshare window is closing, NEMT is the right pivot, and I have executed the transition correctly. I need one yes. I hold.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `COMMITMENT`**
+
+> Follow up on NEMT employer conversations with a clear next-step framing. I have made the calls at tick 10 and stated availability directly. Tick 11 is not another follow-up call — it is a decision week. If Millfield Medical Transport or CareRide of the Valley has not responded by mid-week, I contact each once more and frame it explicitly as a close: 'I need to know by Friday whether you have an onboarding slot. If yes, I accept today. If no, I will pursue other options.' I do not extend the timeline further. I have done everything a credentialed, available, clean-record candidate can do. A non-response is information.
+
+
+**Action 2 — `SIGNAL`**
+
+> Respond to Grace Okafor's message from tick 10. She is using my name as a credibility reference and asked for the specific contact person's name at the operators. I honor that ask. I send her the name of the dispatcher I spoke to at Millfield Medical Transport and the coordinator I reached at CareRide. If either operator offered me a slot and named a contact, I pass that name to her explicitly. We are not competing for a single seat — NEMT demand is stable and growing. I also update her on where I stand: still no offer signed but actively pushing to close this week. She should know the honest status because she is planning around it.
+
+
+**Action 3 — `EXCHANGE`**
+
+> Contact the Millfield workforce development office to resolve the Maria Santos retraining grant status. I applied at tick 2 — that is nine ticks ago, approximately nine months. One call, one question: was my application funded or not funded, and if funded, when and how was the disbursement processed? If funded and unclaimed, I take the steps to receive it immediately. If denied, I close the loop on a mental accounting item I have been carrying for months. Either outcome is better than continued ambiguity.
+
+
+**Action 4 — `INACTION`**
+
+> Continue driving daytime rideshare shifts at 40 hours per week. No increase, no decrease. The income bridge holds until NEMT placement is confirmed. Monthly income covers monthly expenses with $387 in net savings per tick. I do not destabilize the bridge income while the NEMT pipeline is in the final closing stage.
 
 
 
 #### salesperson_jake  ·  `salesperson_jake`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **determined** · Archetype: hustler_becoming_planner*
+
+**Internal Assessment:**
+
+> [Hierarchy: L0_SURVIVE + L2_PARTICIPATE] Jake is at L0 survival pressure with $463 in savings, monthly expenses of $5,134, and income of $1,294 against a $5,500 employment commitment that is now in question due to the consolidation. The calculus is stark: he cannot afford to choose between selling and planning — he has to do both simultaneously this tick. The RoboRide pitch is the best available close mechanism in a soft market. Lane B (the Rick call) has to happen this week while it still can shape the org chart. Lane C due diligence (the retraining enrollee call) is free intelligence that costs 20 minutes. The Tamika conversation is the one piece of social intelligence that makes Lane C a real plan rather than a theoretical backup. Jake's identity has shifted from 'hustler' to 'hustler becoming planner' — this tick he has to execute both sides of that identity simultaneously, not sequentially. Two kids and $463 in savings is not a planning situation. It is a triage situation with a three-lane map.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `EXCHANGE`**
+
+> Work the floor this week with the RoboRide comparison pitch — targeted specifically at tradespeople, buyers with families and multi-destination logistics, and anyone who has been in twice without closing. The pitch leads with total cost of ownership math: a truck owner who drives 30,000 miles per year cannot replace that with RoboRide at any price point. A nurse with four destination stops per shift cannot use an 8-minute wait time robotaxi. Prioritize walk-ins who look like contractors, service workers, or parents — people whose mobility needs are incompatible with robotaxi economics. Goal: one close before end of month. A commission check at this point is the difference between a functional exit and an empty one. Keep selling regardless of what Rick told me about the consolidation.
+
+
+**Action 2 — `SIGNAL`**
+
+> Call Rick Tanner directly — not email, a phone call — to formally express interest in the service advisor or fleet-account relationship role inside the restructured organization. Say it plainly: 'You told me there's a role that needs someone who can sell relationships. That's me. I want to be considered for it.' Do not wait for a formal posting. Do not wait for Angela's formal notification process. The relationship capital with Rick at 0.73 trust is real. The window to position for an internal lateral move is this week, before the org chart is finalized. Even if Rick cannot confirm anything, putting my name in the conversation ensures I am not categorized as a passive transfer rather than an active internal candidate.
+
+
+**Action 3 — `TRANSFORMATION`**
+
+> Finalize the three-lane contingency map as a decision tree with specific triggers. Lane A (transition program, Maria Santos $2,500 grant, community college): trigger if no lateral role materializes inside the consolidation within 21 days of the formal announcement. Lane B (service advisor or fleet-account role inside restructured company): active now — the Rick call this tick is Lane B in motion. Lane C (full exit, retraining grant, credential path): trigger if neither Lane A nor Lane B produces an offer within 30 days of the formal announcement. For Lane C, make the one call to someone already enrolled in the retraining program this week — ask one question only: what does the credential actually lead to in this market, not what the brochure says. There are 10 people enrolled this month. Find one.
+
+
+**Action 4 — `SIGNAL`**
+
+> Have an honest, brief check-in conversation with Tamika Jefferson. Receive what she shared from the exiter side: the scariest part is not the exit, it is the 0.5-month runway number. She told Jake that the one thing she wished she had done faster was get a second client before the first runway pressure hit. Receive that honestly — not as self-criticism, but as intelligence from someone who is 60 days ahead of the path Jake is considering for Lane C. Specifically ask her: what was the single most useful thing Maria Santos's office did when she reached out about the retraining grant? That is the question that separates the brochure from the experience.
 
 
 
 #### salesperson_tamika  ·  `salesperson_tamika`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **determined** · Archetype: exiter*
+
+**Internal Assessment:**
+
+> [Hierarchy: L0_SURVIVE + L5_BUILD] Tamika is at L0 survival — savings at $0, $3,177/month in expenses, $350/month from one HVAC client, and a restaurant pilot that has been in pending status for two ticks. The math is binary: she needs the restaurant pilot to close this tick, or she needs to know definitively that it will not, so she can pivot to the next lead. The Angela Wright connection is the highest-leverage relationship move available because it opens a pipeline of transitioning workers who are 60-90 days from needing exactly what Tamika does. The two new outreach messages keep the pipeline moving in parallel without consuming significant time. The Jake conversation is the human move — it costs nothing and it is the kind of thing that matters in a community under real stress. Tamika's archetype is 'exiter' and she has fully exited — the freelance track is the track, the dual-track model is over. This tick she closes the restaurant pilot or pivots immediately, builds the Angela partnership, and keeps the pipeline moving toward the $1,050/month threshold that stabilizes her position.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `EXCHANGE`**
+
+> Close the restaurant pilot — this is the highest-priority revenue action this tick. Call them directly, not a message. Make the ask binary: 'I want to know if the 60-day pilot at $300/month makes sense for you right now. If yes, I can have the one-page agreement in your inbox within two hours. If no, I understand — tell me and I move on.' Frame the ask around this week's reality: spending is at 26% of baseline, RoboRide is now in residential areas, and lunch spots that stay digitally present capture the foot traffic that used to stop for gas first. If they say yes, send the agreement within two hours — same template as the HVAC agreement, adjusted for 60-day pilot terms at $300/month. If they say no, acknowledge it and immediately identify the next warm lead. Do not leave this unresolved for another tick.
+
+
+**Action 2 — `ASSOCIATION`**
+
+> Connect with Angela Wright directly — peer-to-peer conversation, not a congratulations note. Acknowledge that Wright Workforce Advisory LLC launched and that the transition intake she is running for the closed location is putting her in contact with people who will need exactly what Tamika does: social media presence, personal brand positioning, and communications support as they move into freelance or small business work. Propose the referral arrangement: Tamika amplifies Angela's visibility in her network and refers displaced workers who need workforce coaching or resume help; Angela introduces transitioning workers who are planning to launch freelance or service businesses and need marketing support. Offer to be a case study for Wright Workforce Advisory LLC — a sales floor worker who built a freelance content practice in real time during a disruption. That story is differentiated and useful for Angela's methodology documentation.
+
+
+**Action 3 — `SIGNAL`**
+
+> Identify two new outreach targets from the RoboRide delivery ecosystem and send individual, specific cold outreach messages to each this week. Target profile 1: a small business in the residential coverage expansion zone that relies on local foot traffic or local pickup — a pharmacy, specialty retail shop, or dry cleaner where digital visibility translates directly to local customer retention. Target profile 2: a sole-proprietor tradesperson or contractor who has a service area but no social media presence — electrician, plumber, HVAC tech. Message structure for each: one specific observation about their current online presence (or absence), one question, one sentence about what Tamika does. No deck, no portfolio link, no pitch until they reply. Keep the ask cost-free for them.
+
+
+**Action 4 — `SIGNAL`**
+
+> Have a real check-in conversation with Jake Morrison — honest, not managed. Tell him what the exiter side actually feels like: the scariest number is not the unemployment rate, it is the 0.5-month runway number when it becomes personal. Tell him the one thing he should do faster than she did: get a second client before the first runway pressure hits, not after. If he is moving toward Lane C — the retraining grant and community college credential path — tell him what she actually knows from researching it: the $2,500 grant from Maria Santos is real and the office is responsive, but the credential timeline is longer than the brochure suggests. Ask him one question back: what does his actual three-lane map look like right now, and which lane has the shortest trigger distance?
 
 
 
 #### single_parent  ·  `single_parent`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **anxious but functional** · Archetype: stable*
+
+**Internal Assessment:**
+
+> [Hierarchy: L0_SURVIVE] Nicole is at L0_SURVIVE with a genuine threat level of 0.84. Her savings dropped to $8,620 and she is unemployed with $4,630/month in expenses. With two dependents, this is a real crisis in slow motion. Her tick 10 actions correctly identified the need to verify employment status, but tick 11 requires escalation: active investigation of her employment rights, an immediate UI claim, intelligence gathering through her Grace Okafor relationship, and parallel job applications that do not wait for Millfield General to clarify her status. The RoboRide trial pause is the right call - she correctly suspended the $800 pilot offer from Rachel Green last tick on the same logic. Her nursing skills are her most valuable asset (skill_relevance 0.9) and the healthcare sector is not experiencing the same disruption as auto retail. The path back to income stability is through healthcare employment, not through waiting. Her archetype is 'stable' but her current situation demands active adaptation - the stability is in her skills and character, not in her circumstances right now.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `SIGNAL`**
+
+> Escalate the employment verification action from last tick. Nicole confirmed she is unemployed as of tick 9. This tick she takes the next step: contact HR directly at Millfield General to understand the nature of the separation - was this a reduction in force, a scheduling elimination, or a leave of absence that was improperly coded? She also contacts her union rep if she has one. She needs to know whether she has recall rights, whether she is eligible for unemployment insurance, and whether the role has a path back. She documents every contact and response in writing. This is not passive verification - it is active investigation of her employment rights.
+
+
+**Action 2 — `COMMITMENT`**
+
+> File for unemployment insurance immediately. With zero income and $8,620 in savings burning at $4,630/month, Nicole has fewer than two months of runway. Unemployment insurance is not optional - it is the difference between one month of runway and potentially three. She files online or in person this week, provides all required documentation of her employment history and separation, and tracks the application status. She does not wait to understand the full picture of her employment status before filing - she files based on what she knows now and updates if circumstances change.
+
+
+**Action 3 — `ASSOCIATION`**
+
+> Reach out to Grace Okafor this tick with a specific ask, not just an update. Nicole has been giving Grace professional intelligence about Millfield General's hiring cycles. Now Nicole needs something back: she asks Grace directly whether she has heard anything about why nursing staff hours were reduced or positions eliminated at Millfield General, and whether the transitional care unit specifically (where Grace's CNA application is targeted) is still hiring or has frozen. This is mutual intelligence exchange, not charity. Grace has ground-level access that Nicole does not have right now.
+
+
+**Action 4 — `TRANSFORMATION`**
+
+> Apply to at least two healthcare positions this week - not just at Millfield General, but at alternative healthcare employers within commuting distance. Nicole's nursing skills are highly relevant (0.9 skill relevance) and she has full insurance coverage. She targets: (1) a competing hospital or urgent care center within 30 minutes, and (2) a home health agency that needs RN-level staff for home visits. She also contacts the Lisa Freeman community center to understand whether the Financial Triage Navigator can help her identify available emergency assistance programs for people in sudden income interruption. She does not rely solely on recalling to Millfield General.
+
+
+**Action 5 — `INACTION`**
+
+> Suspend the RoboRide trial for afternoon school pickups this tick. With savings at $8,620 and zero income, every $30 in discretionary spending matters. The trial data from tick 9 was actionable (9-14 minute wait, acceptable for the 3pm window) and can be resumed when income is restored. For now, Nicole returns to using her personal vehicle for all logistics until the employment situation stabilizes. She does not cancel her car insurance or change any fixed commitments - she just does not spend on the trial.
 
 
 
 #### truck_owner  ·  `truck_owner`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **determined and methodical** · Archetype: adapter*
+
+**Internal Assessment:**
+
+> [Hierarchy: L1_STABILIZE] Dale is at L1_STABILIZE with his savings at $43,410 and burning at $4,681/month with zero income. He has roughly 9.3 months of runway before hitting the $20,000 psychological floor, which is more than it sounds but less than it feels given three dependents, a mortgage, and the insurance commitment he correctly made at tick 8. His tick 10 pipeline audit is the right foundation - he needs the concrete number before he can make any downstream decisions about whether to pursue sub-contracting. The bid strategy is correct: needs-based residential work exists in a scared economy even when luxury additions do not. The Carlos call is low-cost intelligence gathering through a trusted network contact. The community center presence is consistent with how Dale has operated - he is not a cold-calling person, he is a person who builds relationships that produce work over time. His stress is low (0.14) and agency is high (0.83), which means he is thinking clearly and has the capacity to execute methodically. He is not panicking. He is working the problem the way he always has.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `TRANSFORMATION`**
+
+> Complete the bid pipeline audit that was planned last tick and act on its conclusions. Dale spends two hours this week producing a written document: every active bid listed by project type, size estimate, and probability of closing; every outstanding receivable; savings runway at $43,410 current balance burning at $4,681/month (roughly 9.3 months before the $20,000 psychological floor). He comes out of this audit with one number and one decision: if the runway calculation shows more than 6 months before the $20,000 floor, he continues the current multi-bid approach. If it shows less than 6 months, he immediately adds a fourth action: sub-contracting labor to another established contractor to generate income without waiting on his own bids to close.
+
+
+**Action 2 — `EXCHANGE`**
+
+> Submit two new bids for needs-based residential work this week. Specifically: (1) a drainage or grading job identified through Lisa Freeman's network or from Betty Kowalski's diner where tradespeople still talk over coffee - people whose yards are flooding because deferred maintenance has piled up; (2) a deck repair or exterior repair job from the same network. Dale prices both competitively for a scared market: he is not discounting from desperation, but he is pricing to win, not to maximize margin. He targets total project values of $6,000-$12,000 each. One signed contract before end of month is the goal. He brings his truck to the client visits - the truck is his calling card.
+
+
+**Action 3 — `SIGNAL`**
+
+> Call Carlos Ruiz directly this week. Carlos is making significant changes - he is having real conversations with his colleagues, he is in the consolidation process, and he sees homeowner clients who may be investing in their properties rather than new vehicles. Dale asks him plainly: have any of his clients mentioned deferred home maintenance, are any shops or businesses on auto row doing construction-adjacent work, and does he know anyone planning a build or repair project who has not found a contractor yet? Dale does not pitch. He asks. He also tells Carlos that if Carlos's shop or any garage in his network needs structural work - foundation drainage, slab repair, HVAC penetrations for new equipment - Dale is the person to call. He has done shop buildouts before.
+
+
+**Action 4 — `ASSOCIATION`**
+
+> Attend the Community Connection Night at Lisa Freeman's community center. The Financial Triage Navigator is operating there now and the mood is tense but active. Dale goes not to use the navigator - his situation is difficult but not yet at the triage threshold - but because the community center is where people who are making decisions gather, and in a scared market, relationships are how work finds him. He listens more than he talks. He makes sure at least three people know he is a contractor who is actively looking for needs-based residential work. He leaves a card with Lisa Freeman and one with anyone who mentions deferred maintenance. He does not network aggressively at a crisis event - he is present and available.
 
 
 
 #### uber_driver_2  ·  `uber_driver_2`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **anxious but functional — urgency driving action, not panic** · Archetype: adapter*
+
+**Internal Assessment:**
+
+> [Hierarchy: L0_SURVIVE] Grace Okafor is in a genuine L0_SURVIVE situation at tick 11: savings functionally zero, income zero from formal employment, $1,787/month in expenses, NEMT certification complete but not yet placed. The adapter archetype is being tested at maximum friction. The correct response is: do not freeze, do not abandon the long-term plan, execute the two actions that directly address the crisis — NEMT placement and rideshare income generation — while using every available resource. Robert Jackson's contact name referral is the most operationally valuable piece of intelligence Grace has. Using it this week, not next week, is the difference between a warm introduction and a cold call. The Financial Triage Navigator visit is a calculated use of a community resource at exactly the moment it exists to serve. Lisa Freeman launched it for people in Grace's exact situation. Going there is not defeat — it is the behavior of someone who is taking their options seriously. The nursing school trajectory is intact and correct. Grace does not abandon it. She bridges to it through NEMT income while completing her credential. Employment at 50% and spending index at 26 make the nursing credential more valuable, not less — healthcare demand is not discretionary. One NEMT placement and this situation resolves. Everything is in motion to make that happen.
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `EXCHANGE`**
+
+> Follow up on the NEMT operator calls made at tick 10. I called Millfield Medical Transport and CareRide of the Valley with my certification in hand and stated availability clearly. This tick I follow up on those calls — not passively, but with a close. If either operator has not responded, I call back once more and frame it as a decision conversation: 'I called last week, I have my certification, I have a vehicle, and I can start this week. I need to know by Wednesday whether you have an onboarding slot. If yes, I start the paperwork today. If no, I'll pursue other options.' I also follow up on the contact name Robert gave me — using a specific name cuts through the queue in a way a cold call cannot. If an offer comes in, I accept it on the call. No delay, no negotiation on rate for the first contract.
+
+
+**Action 2 — `EXCHANGE`**
+
+> Drive every high-yield rideshare shift available this week. Morning airport windows (5am-9am daily), Friday evening surge, Saturday morning airport push. Also drive any weekday afternoon blocks where surge pricing is active. Target 35-40 hours of driving this tick. Savings are functionally at zero after the tick 10 drop of $68 — every driving hour is direct survival income. I accept the RoboRide demand compression. There are still rides being taken, and I am going to be in the queue. A partial income is infinitely better than no income while NEMT placement processes.
+
+
+**Action 3 — `SIGNAL`**
+
+> Send Robert Jackson the update he gave me at tick 10 in reverse: acknowledge that I have received his contact name referral, confirm I am calling this week using his name as shared network context, and update him on my status honestly. I also ask one specific question: has he heard anything back from either Millfield Medical Transport or CareRide since his tick 10 push? If one of them has gone quiet on him, that is information I need before I spend my most valuable calling time on a dead lead. We are running parallel paths and the intelligence we share has direct operational value for both of us. I do not waste his time with a long message — one paragraph, specific ask, close.
+
+
+**Action 4 — `COMMITMENT`**
+
+> Visit the Millfield Community Center this week during Financial Triage Navigator hours. Lisa Freeman launched this service at tick 10 and I am a textbook Financial Triage Navigator client: NEMT certification complete, rideshare income compressed, savings at zero, nursing school in progress, $573/month car payment, $35,485 in debt. I sit with Lisa for 45 minutes and let her map my situation against the programs that actually exist. What I specifically want to know: (1) is there any bridge funding I qualify for while NEMT placement processes — even a two-week emergency loan or a program I have not found on my own, (2) whether the community college nursing program has any financial assistance I have not applied to, and (3) whether the workforce development grant I applied for at tick 5 is still technically reviewable or is definitively closed. I am not too proud to use the resource that exists. That is what it is there for.
 
 
 
 #### young_gig_worker  ·  `young_gig_worker`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **determined with underlying flatness** · Archetype: adapter*
+
+**Internal Assessment:**
+
+> [Hierarchy: L0_SURVIVE] Zoe is at L0_SURVIVE with threat level 1.0, zero savings, zero income, and $2,404/month in expenses. Her cert is at 32% completion with about 5 months remaining. She is at the point in the simulation where the three-layer model she identified at tick 9 either becomes real or she is in genuine crisis. Tick 11 is the tick where the delivery partner registration actually happens (it was planned in tick 10 too but needs to close), where the Betty close either lands or Zoe moves to the next business, and where the grant follow-up - deferred for six ticks - finally happens. The Sarah Kim relationship is genuinely mutual and worth investing in even at zero savings, because relationships are how someone with a 581 credit score and no savings survives a structural shock. Her stress is surprisingly low (0.15) and she is in grief_stage: depression, which means the flatness she named in her tick 9 reflection is real but she is still functional. The determination to keep moving despite the flatness is the adaptive behavior that keeps her in the game.
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `EXCHANGE`**
+
+> Follow through on the Betty Kowalski pitch from last tick. Zoe's tick 10 outcome shows the action happened but no income materialized - which means she pitched but Betty was not ready to commit, or the walk-in happened but the close did not land. This tick Zoe follows up with one more direct ask, not a third warmup. She tells Betty: 'I walked in last week and showed you what I do. I am asking for a yes or a no today. I can have your first post up by Thursday for $120 this month. If you are not ready, I understand - I have other businesses to talk to.' If Betty says no, Zoe walks to the next business on auto row the same day and makes the same ask. She does not leave this tick without at least one signed verbal agreement or a firm written yes.
+
+
+**Action 2 — `COMMITMENT`**
+
+> Complete the RoboRide delivery partner program registration that was planned last tick. Zoe submits the application this tick - not investigates, not researches further, submits. She completes the registration form, provides whatever documentation is required (ID, bike confirmation, delivery zone selection), and receives confirmation of submission. She targets 15-20 hours of delivery work per week scheduled around Coursera coursework (Tuesday/Thursday evenings and Saturday mornings remain reserved for the cert). Target income: $400-500/month from delivery shifts.
+
+
+**Action 3 — `ASSOCIATION`**
+
+> Respond to Sarah Kim's outreach with genuine presence. Sarah reached out as a peer navigating the same transition from a different angle - she is on the maintenance side (EV tech certification) and she sees Zoe as someone on the gig demand side. Zoe tells her honestly where she is: working on the delivery partner registration, cert at 32%, zero savings but forward motion. She engages the infrastructure frame Sarah is building - that bike last-mile workers and EV technicians are both nodes in what RoboRide actually requires to function at residential scale. If Sarah is building a mental map of who the new transport ecosystem needs, Zoe wants to be a named part of that map. She is not above learning from someone with a clearer view of the maintenance side.
+
+
+**Action 4 — `TRANSFORMATION`**
+
+> Continue the Coursera Google Digital Marketing and E-commerce Certificate at current pace. The cert is at 32% completion as of tick 11. Zoe logs at least 6 hours of coursework this month in the time blocks she has carved out (Tuesday/Thursday evenings, Saturday mornings). She uses the Lisa Freeman micro-grant if it is still active for the $49 monthly subscription, or she pays it herself from any income generated this month. The cert does not stop. It is the long-term bet and she does not abandon it because the short-term is hard.
+
+
+**Action 5 — `SIGNAL`**
+
+> Follow up on the Maria Santos retraining grant application submitted at tick 2. Zoe has not followed up in six ticks. This tick she calls or visits the council office to check on the status of the $2,500 application she submitted. The application is six ticks old. She asks directly: was it approved, denied, or still in review? If approved, she asks how to collect. If denied, she asks why and whether there is an appeal. If still in review, she asks for a timeline. This is a long-deferred action that could change her runway math significantly.
 
 
 
@@ -24248,6 +27467,13 @@ Employment rate: 0.485 · Spending index: 27.0 · Gini: 0.659 · Protests: — �
 
 
 
+### Community Bulletin Board
+
+
+> **Known gap:** The world bulletin for tick 12 was not generated by the observer agent during this sim run. Individual agent actions still took place (see Agent Actions above).
+
+
+
 ### Building States
 
 | Building | Label | Health | Visual State | Visible |
@@ -24277,181 +27503,1137 @@ Employment rate: 0.485 · Spending index: 27.0 · Gini: 0.659 · Protests: — �
 
 #### auto_shop_teacher  ·  `auto_shop_teacher`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **taut anticipation — the board decision is either in hand or one conversation away, and the coalition built over twelve months is about to either convert into institutional support or force a pivot to the community college pathway** · Archetype: ?*
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `COMMITMENT`**
+
+> Act on the board decision, whichever direction it went. If the vote was affirmative: confirm in writing with the board secretary that the Millfield Auto Tech Pipeline has approved funding and equipment budget, and immediately contact the community college articulation agreement contact Santos referred me to in order to schedule the first formal meeting about the two-stage HS-to-CC pipeline structure. If the vote was negative or delayed: contact Councilmember Santos directly and ask her to activate the workforce transition grant pathway as a standalone funding channel, using the program's existing coalition — Howard Liu's statement, Sarah Kim's confirmed guest session, the RoboRide fleet maintenance gap data — as the grant application documentation. Either way, I do not wait past this week to know where the program stands.
+
+*Reasoning: Twelve ticks of coalition-building and board engagement converge at this decision point. Passive waiting is no longer appropriate. The board was given a decision timeline at tick 11 — this tick I act on the answer, not the question.*
+
+
+**Action 2 — `ASSOCIATION`**
+
+> Call Mark Thompson at Millfield High — my own name from other agents' perspectives — to confirm the status of Sarah Kim's guest instructor session. Sarah committed at tick 6 and was named in the tick 9 board presentation as a confirmed partner. This tick I set the actual date for her classroom visit. I give her two options in the current month: the Thursday session on hybrid diagnostic basics, or the following Saturday open shop session. A confirmed date turns a coalition commitment into a program event, which is what the community college articulation discussion will need to see as evidence that industry partnership is operational, not theoretical.
+
+*Reasoning: Sarah Kim's guest instructor session has been 'confirmed' for six ticks without a date. Converting it from commitment to scheduled event is both a pedagogical priority and an evidence milestone for the program's credibility with the community college and any active grant pathway.*
+
+
+**Action 3 — `ASSOCIATION`**
+
+> Connect with Lisa Freeman at the community center to activate the displaced worker referral pipeline we discussed at tick 11. Specifically: I give Lisa a one-page program flyer for the Millfield Auto Tech Pipeline that she can distribute at Community Connection Nights and Financial Triage Navigator sessions. The flyer names the program, lists eligibility (any Millfield resident with interest in automotive technology, no prior experience required for the entry cohort), and gives my direct contact information. I also tell Lisa about any displaced workers from the Regional Auto Group Hawkins location closure who may have mechanical aptitude — if Angela Wright's transition program is routing anyone in that direction, the pipeline has capacity to absorb them. Lisa's Financial Triage Navigator is exactly the intake point where a displaced Hawkins worker could be told about a credentialed pathway.
+
+*Reasoning: The referral pipeline with Lisa Freeman is the student demand mechanism the program needs to demonstrate enrollment viability regardless of the board decision outcome. The Hawkins closure has created a population of displaced workers — some with mechanical backgrounds — who are exactly the program's target cohort.*
+
+
+**Action 4 — `TRANSFORMATION`**
+
+> Draft the community college articulation agreement outline — not the final legal document, but a two-page framework covering: program learning outcomes alignment between the Millfield High auto tech curriculum and the CC EV certification pathway, proposed course equivalencies or credit transfer mechanisms, and the referral pathway structure. This document does not require the board to have voted yes yet — it is the preparation work that makes the first articulation meeting productive rather than introductory. Santos gave me the right contact at the community college. I want to walk into that meeting with a draft, not a concept.
+
+*Reasoning: The articulation agreement is the structural output that converts the Millfield Auto Tech Pipeline from a standalone high school program into a two-stage credentialing pathway. Whether the board funded it or not, the community college partnership gives the program institutional legitimacy that survives any single board cycle. Doing this preparation now compresses the timeline by one to two ticks.*
 
 
 
 #### bank_manager  ·  `bank_manager`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **deliberate urgency — the second institution application is live, the credit union phone follow-up from tick 11 is either producing a response or it is not, the credential is at 75% and finishing it within two ticks is the clearest path to a credentialed pitch. Savings are around $126,000 and the burn rate of $6,961 is real. Twelve months unemployed. No panic, but no more patience for slow sequencing.** · Archetype: ?*
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `SIGNAL`**
+
+> Close the Millfield Community Credit Union loop definitively. If the phone call from tick 11 produced a response — a scheduled meeting, a name, any live signal — I follow through immediately: confirm the meeting, prepare the three-minute disruption-period pitch centered on the SBA commercial lending credential and the regional scenario models. If the phone call produced nothing, I mark this lead closed and shift the energy to the second application track and two new outreach targets. I do not spend a third tick on a contact that has not responded to email, follow-up note, and a direct phone call. That is the full sequence. The answer is either yes or it is no.
+
+*Reasoning: The credit union has been the primary outreach target since tick 9. Three months of sequential contact without a confirmed meeting means either the lead is warm and about to convert, or it is cold and needs to be released. Either resolution frees energy for better-yielding contacts.*
+
+
+**Action 2 — `TRANSFORMATION`**
+
+> Push the SBA commercial lending coursework from 75% to 90% completion this tick — a focused block of 10-12 study hours spread across four sessions. At 90% I can legitimately tell any employer the credential finishes next month. That framing changes the application posture from 'in progress' to 'completing imminently.' The credential is the differentiator and every week it sits at 75% is a week I am pitching something that is not fully real yet. I finish it. Kevin O'Brien used my analysis to expand the branch's SBA product line. The credential that produced that analysis should be in my hand, not in my progress bar.
+
+*Reasoning: At 90% completion the credential shifts from a future differentiator to a present one in employer conversations. The burn rate is $6,961/month. Compressing the timeline from 4 more months to 2 more months is meaningful and achievable with concentrated effort.*
+
+
+**Action 3 — `TRANSFORMATION`**
+
+> Expand active outreach to two additional community lending institutions beyond the credit union — one regional CDFI and one community development bank that has publicly engaged with Millfield's economic disruption. This is not scattershot mass-applying. Each outreach is targeted, leads with the disruption-period scenario modeling, and names the SBA credential specifically. The pitch for each: I saw the regional auto loan contraction before it happened, I modeled it, I spent the past year completing the SBA 7(a) commercial lending certification, and I am available to bring that combination of disruption-period judgment and community lending credentials to an institution that is navigating this market. Two contacts this tick, not one. The sequential one-at-a-time approach has consumed six months. This is the correction.
+
+*Reasoning: The employment rate in Millfield is 50%, spending index at 26, Gini at 0.676 — community lending institutions serving this market should be seeing increased demand for exactly the credit intermediation work the SBA credential covers. Three parallel contacts is not desperation; it is appropriate to the market environment and the twelve-month employment gap.*
+
+
+**Action 4 — `ASSOCIATION`**
+
+> Follow through on the Linda Park peer knowledge exchange initiated at tick 11. Send her the regional auto loan contraction scenario models from First Community Bank — the three-scenario document (15%, 30%, 50% volume decline projections) that I built in ticks 1-2 and refined through tick 5. Frame the exchange clearly: these are the lending-side models, she has the insurance-side policy cancellation data, together they create a more complete picture of regional financial disruption than either of us has alone. I am not asking her to refer me to a job. I am offering her something of direct value in her own job search. If she is pitching herself for fleet risk and logistics roles, the lending-side demand contraction data strengthens that pitch. The relationship maintains itself when both parties are getting something real from it.
+
+*Reasoning: Linda Park is navigating her own transition and is not in a position to function as a job referral source. But a peer knowledge exchange — lending-side scenario models for insurance-side policy data — sustains the relationship at a moment when both parties are in active search mode, and gives both a more complete analytical picture for employer conversations.*
 
 
 
 #### car_wash_worker  ·  `car_wash_worker`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **tense and focused — one month from cert completion, zero savings, gig income is the only thing keeping the lights on. Carlos's intel from tick 11 is the most valuable input Miguel has received in this entire simulation. He has fleet operator contacts, EV credential pathway clarity, and a mentor who confirmed the destination is real. The cert finishes next month if he does not break now.** · Archetype: ?*
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `TRANSFORMATION`**
+
+> Attend every scheduled automotive service technician certificate class in month 8 — the final month of the program. This is the non-negotiable. No gig shift, no financial emergency, no outside circumstance overrides Tuesday evening, Thursday evening, and Saturday morning class. Miguel is one month from a credential that represents twelve months of sacrifice at zero savings. The program is at roughly 87-90% completion. He finishes. He also follows through on the EV curriculum question with the program coordinator this month: if the remaining sessions include any hybrid or EV content, he pays maximum attention and asks the instructor for any supplementary resources or contacts in the EV certification space. If the final modules are purely conventional, he confirms with the coordinator the exact name, cost, and enrollment timeline for the EVT Level 2 follow-on credential so he can begin planning immediately after graduation.
+
+*Reasoning: Month 8 is the final month. The cert is the asset everything else is built on. Missing a single class in the final stretch would be a betrayal of eleven months of discipline at zero savings. Completion is the only acceptable outcome.*
+
+
+**Action 2 — `EXCHANGE`**
+
+> Follow up with Carlos Ruiz on the specific intelligence he delivered last tick — the three employer contacts and the EV hiring landscape. Miguel now does one concrete thing with that information: he drafts a brief, professional introduction email to the most realistic contact Carlos identified for someone completing a general automotive cert without EV specialization yet. He does not send it without showing Carlos first. He asks Carlos to read the draft and tell him if the framing is right — whether it sounds like someone who knows the industry or someone who sounds like a student. The goal this tick is not to get a job. It is to have a ready introduction that can go out the week after cert completion. Preparation now, deployment at graduation.
+
+*Reasoning: Carlos provided the most actionable information Miguel has received — fleet operator contacts who are actively hiring. Converting that intelligence into a drafted introduction, reviewed by Carlos himself, means Miguel walks out of graduation with employer outreach ready to send rather than starting from scratch in a high-stress moment with zero savings.*
+
+
+**Action 3 — `EXCHANGE`**
+
+> Maximize gig delivery income this month — the final survival bridge before the cert completes. Miguel runs RoboRide last-mile delivery and DoorDash bike routes on every available morning, afternoon, and Sunday slot that does not conflict with class. Target: $550-700 this month. He tracks his earnings daily in a notes app. If he hits $400 by mid-month he keeps the same pace. If he is behind $250 by mid-month he picks up one additional Saturday afternoon shift by temporarily adjusting a non-class commitment. The cert schedule is the fixed constraint. Everything else flexes around it. He does not borrow money. He does not skip a meal. He manages the gap with hustle, not drama.
+
+*Reasoning: Zero savings and $1,200 in monthly essentials means gig income is the only thing standing between Miguel and a decision to drop the cert in the final month. The delivery income has to cover essentials. One more month of this pace and the credential is in hand.*
+
+
+**Action 4 — `ASSOCIATION`**
+
+> Reach out to Lisa Freeman at the community center — not for personal financial assistance, but to introduce himself as someone who is one month from completing the Millfield CC automotive service tech certificate and actively pursuing EV fleet maintenance work. Miguel heard from the network that the community center is running Financial Triage Navigator sessions and connecting displaced workers to pathways. He wants Lisa to know about the cert completion timeline in case anyone coming through the center with mechanical aptitude or automotive interest needs a peer voice about what the training is actually like. He is also checking whether the Kevin O'Brien grant application he applied for at tick 8 has produced any result — if there is a community center contact for that program status, this is the right conversation to ask.
+
+*Reasoning: The community center's Financial Triage Navigator and referral network could generate both post-cert employment leads and information about the pending grant application. Miguel initiating this contact positions him as a community resource — someone who just completed the cert and can speak to displaced workers about the training pathway — rather than solely a service recipient. That positioning is more useful to his long-term network.*
 
 
 
 #### ceo_regional_auto  ·  `ceo_regional_auto`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **sober and forward-facing — the closure is no longer a decision, it is a fact being executed. The grief has moved into the background. What is in the foreground is building the three-location service model that justifies what was lost. Savings are approximately $313,000 after another $16,487 burn. The business needs to become revenue-generating before the runway shortens past the point of restructuring.** · Archetype: ?*
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `EXCHANGE`**
+
+> Meet with Rick Tanner for a working session on the three-location service-lane operational framework I began drafting at tick 11. I bring the owner-operator version of the plan. Rick brings the assessment finalization data. Together we reconcile the two documents: my forward-looking service capacity targets for each surviving location against his data-grounded read on what each location can actually absorb in technician transfers and throughput. The output of this session is not another document — it is a shared, agreed operational model that both Rick and I are working from as Q2 closes. At $4,500/month his time is contracted. I use it precisely.
+
+*Reasoning: The consulting engagement with Rick is live and the assessment needs to become a working operational plan, not a deliverable that sits in a folder. This month's consulting payment buys a working session that converts the closure data into the restructured business model. That is the right use of the contracted relationship.*
+
+
+**Action 2 — `COMMITMENT`**
+
+> Begin the service lane EV and hybrid certification process for the certified technicians being transferred from the closing location to the three surviving locations. Contact ASE directly to understand the current EV certification pathway — cost per technician, timeline, and whether group enrollment discounts apply for a small fleet of five to eight technicians. The service-lane pivot thesis only holds if the technicians can service the vehicles that will be dominant in Millfield within 18 months. I cannot wait until RoboRide saturation forces this — I need to be building the certified service capability now, while I still have the technicians in the building and a budget to support it. Even partial certification on two or three technicians this quarter is a measurable step toward the service-lane model's viability.
+
+*Reasoning: The three-location service model's long-term revenue depends on being able to service EVs and hybrids at the level fleet operators and individual owners will require. The technicians are already on payroll during the transfer period. Using that window to begin certification is more cost-effective than attempting it after consolidation stabilizes.*
+
+
+**Action 3 — `SIGNAL`**
+
+> Schedule the property disposition conversation with Stephanie Morris that was agreed to at tick 11. This is not a listing — it is a 30-minute market intelligence session. I want to understand from Stephanie what she is hearing about buyer appetite for large-footprint commercial auto properties in the current market: who is actually acquiring them, what use cases are driving interest (EV fleet servicing, logistics staging, light industrial), and what the realistic timeline looks like between a decision to sell and a closed transaction. The closing location's lease flexibility is one factor. The property itself may have more value to a logistics operator than to another dealership. I need that landscape before I commit to a disposition path.
+
+*Reasoning: The closing location property is a material asset. Its disposition — whether through lease buyout, sublease, or sale — will partially offset the restructuring costs and contribute to the runway that keeps the three-location model viable through its first year. Stephanie has the buyer-side market intelligence I do not have. This conversation costs nothing and may be worth six figures.*
+
+
+**Action 4 — `ASSOCIATION`**
+
+> Reach out directly to Mark Thompson at Millfield High regarding his Auto Tech Pipeline program. I heard his board presentation was delivered in tick 9 and the board decision is pending. If the program is approved, Regional Auto Group's three surviving service lanes are natural partnership sites for apprenticeship and co-op placements — students in an EV technician pipeline are exactly the talent pipeline the service-lane model needs in 18 to 24 months. I contact Thompson with a specific offer: if the board approves the program and a community college articulation agreement comes together, I will provide one apprenticeship slot per location per year for graduating students. That is three placements annually, a concrete offer, and it costs me nothing beyond the mentorship time of my lead technicians. I frame it as a community institution investment, not a hiring pipeline — because that is what it is, and because Thompson will respond to the framing that aligns with his mission.
+
+*Reasoning: The Auto Tech Pipeline produces exactly the workforce Regional Auto Group's service-lane model will need. Establishing the relationship now, before the program is approved and before the demand is acute, positions Regional Auto Group as a committed community partner rather than a late-arriving opportunist. Thompson has been building a coalition for twelve ticks; showing up as an ally when the board decision is still fresh is the right moment.*
 
 
 
 #### community_organizer  ·  `community_organizer`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **grounded and operationally focused — the Financial Triage Navigator has been running for two ticks and the intake structure is tightening. The community is still in acute pain: 50% employment, Hawkins closure complete, protests cooling but structural displacement intensifying. Lisa Freeman is not waiting for institutions to move first anymore. She is the institution that is moving.** · Archetype: ?*
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `TRANSFORMATION`**
+
+> Run the third week of Financial Triage Navigator sessions with the refined intake structure from tick 11 — pre-session intake form, 45-minute structured sessions, aggregate outcome tracking. This tick I also compile the first utilization report: total sessions conducted since launch, how many participants left with a specific prioritized next step versus no clear action, how many were referred to Kevin O'Brien's office hours, how many to the retraining programs, how many to the community college pathway, and how many presented needs that no existing resource in Millfield currently addresses. That last category — unmet needs — is the most important data point for any future funding conversation with Maria Santos or a grant source. Knowing the gap precisely is the first step to closing it.
+
+*Reasoning: The Financial Triage Navigator's value to the community is only demonstrable through documented utilization. The first utilization report — even if it covers only two weeks of sessions — creates the evidence base for a funding conversation at tick 14 or 15. Building that evidence now, while the sessions are fresh, is how the service transitions from a personal commitment to an institutionally supported program.*
+
+
+**Action 2 — `ASSOCIATION`**
+
+> Follow through on the Nicole Washington connection established at tick 11. This tick I move from introduction to a specific ask: will Nicole come to the community center for one Community Connection Night to sit with participants who are asking about healthcare credential pathways and hospital hiring? Not a panel, not a presentation — a table in the corner where people can sit down with her for ten minutes and ask real questions about what the pathway actually looks like. I give her the date, I handle the logistics, I make it as low-friction as possible. Nicole is a working nurse and a single parent. I honor that by making the ask concrete and bounded: one evening, one table, her own judgment about who she can help.
+
+*Reasoning: Nicole Washington's peer navigation work for healthcare pathways is exactly the kind of community-embedded knowledge the Financial Triage Navigator is built on. Converting her from a named contact to a present resource at the community center closes a specific gap that no program or brochure can fill — the gap between official pathway information and what it actually feels like to navigate it.*
+
+
+**Action 3 — `ASSOCIATION`**
+
+> Respond to the outreach from Mark Thompson's auto shop program — either the board decision outcome came through the network this tick, or Thompson contacts me directly about the referral pipeline we discussed at tick 11. Either way, this tick I formalize the referral coordination in writing: a one-paragraph description of how the Millfield Auto Tech Pipeline and the community center's Financial Triage Navigator connect in practice. The description goes into both organizations' handout materials. When a displaced worker comes through the Navigator with mechanical or technical aptitude and no clear direction, they are told about the pipeline by name. When a student in the Auto Tech Pipeline hits financial barriers to continuing — tuition, transportation, lost income from a second job — they are referred to the Navigator. The two programs serve the same population from different entry points. The connection should be explicit, not implied.
+
+*Reasoning: The Auto Tech Pipeline and the Financial Triage Navigator are natural complements in Millfield's disruption response ecosystem. Thompson has been building the supply-side credential pathway; the community center has been building the demand-side intake and support structure. Formalizing the connection in written materials converts two separate programs into a visible, coordinated system — which is more useful to the community and more compelling to any funder or council member looking for evidence of institutional coordination.*
+
+
+**Action 4 — `SIGNAL`**
+
+> Send Maria Santos the first Financial Triage Navigator utilization data — the aggregate counts from the first two weeks of sessions — with a brief cover note framing it as the community center's implementation of the concept brief I brought to the task force at tick 9. The note is one paragraph: here is what the navigator is doing, here is who it is serving, here is the gap category that no existing program currently addresses. I am not asking Maria for funding in this communication. I am showing her that the thing I said was coming is operating. When the funding conversation comes — and it will — I want her to already know the navigator is real and functional, not hearing about it for the first time in a grant application.
+
+*Reasoning: The relationship with Maria Santos has been built on one consistent pattern: I say something is coming, then I deliver it. Maintaining that pattern with the Financial Triage Navigator — showing her utilization data before she asks for it — sustains the institutional trust that makes the community center a credible partner in the city's disruption response. The funding ask will be more effective when it arrives after a track record of delivery, not before.*
 
 
 
 #### commuter_james  ·  `commuter_james`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **quietly satisfied, with a new forward-looking restlessness. The AWS cert is complete or the exam is behind him. Six months of study converted into a credential. Savings at roughly $116,000. Employment intact. He has finally talked to Howard Liu. The adaptation plan he laid out at tick 0 has executed almost exactly as designed. What he is feeling now is not relief — it is the slight vertigo of reaching the summit he planned for and realizing the next mountain is not yet in focus. The job search infrastructure exists. The question is when to activate it. He is also sitting with the community gap he acknowledged at tick 11 — the $100-200 donation or attendance at the community night was a first step, not a resolution.** · Archetype: ?*
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `SIGNAL`**
+
+> Update LinkedIn and resume to formally reflect the AWS Solutions Architect Associate certification — listing the credential, the issuer (Amazon Web Services), and the date obtained. Add a brief summary line to the LinkedIn headline that positions him as a software developer with cloud architecture credentials, not just a developer. This is the public-facing conversion of six months of study into a visible professional credential. He also messages Howard Liu to share that the cert is now official — a natural follow-up to their tick 11 conversation that keeps the relationship warm without being transactional.
+
+*Reasoning: The credential is only valuable if it is visible. The LinkedIn and resume update takes two hours and positions James correctly for the job market. The Howard Liu follow-up maintains the relationship he finally established last tick without letting it go cold — a pattern he has repeated too many times with this contact.*
+
+
+**Action 2 — `TRANSFORMATION`**
+
+> Conduct a structured job market scan this tick — not a passive search but an active 4-6 hour research session. James takes the five-company target list he built at tick 11 and moves from research to active evaluation: he identifies whether any of the five companies have open roles that match his new profile (software developer plus AWS Solutions Architect), reviews job description language for each, and makes a specific read on whether he should apply to any of them now or hold. His current employer's role security is 0.38 — low enough that he should not assume he has time. He is looking for one role that is a genuine fit, not five applications sent to hit a quota. If he finds it, he prepares the application this tick.
+
+*Reasoning: The job search infrastructure was built at tick 11 but not activated. Role security at 0.38 and unemployment at 50% in Millfield make passive waiting a genuine risk. James has the cert, the resume, the target list — the remaining step is evaluating whether any of the identified roles are worth applying to now rather than waiting for a trigger condition that may arrive as a layoff notice rather than a signal.*
+
+
+**Action 3 — `ASSOCIATION`**
+
+> Follow through on the community engagement he committed to at tick 11 — either confirm that the $100-200 donation to Lisa Freeman's Financial Triage Navigator was completed, or attend the community connection night at the Millfield Community Center this month. James has been naming the gap between his financial position ($116k savings, employed) and his community's situation (50% employment, spending index in the 20s) since tick 9. At tick 11 he committed to a concrete contribution. This tick that commitment is kept. He does not announce it. He just does it. If he attends the community night, he listens. He does not bring the cert or the job search into the room.
+
+*Reasoning: This is the third tick James has named this gap and the second tick he has committed to acting on it. At some point the pattern of identifying a gap and not acting becomes its own kind of avoidance. The Financial Triage Navigator represents the most concrete community response infrastructure operating in Millfield. A $150 donation is two hours of his salary and extends his financial runway for the people who have none.*
+
+
+**Action 4 — `COMMITMENT`**
+
+> Set a specific trigger condition for activating a full job search — and write it down. James has been operating in 'readiness posture' since tick 5 and has now converted the readiness into actual materials. The remaining question is: when does the search become active? He defines the trigger explicitly: if role security drops below 0.30, or if there is a direct layoff signal at his employer, or if he reaches the end of the consulting term without a role security improvement, he activates the search within 48 hours using the materials he has built. He also identifies one specific recruiter in the cloud architecture and mobility tech space and sends a brief introductory message — not a job inquiry, a professional introduction. He is planting a seed in the network that can be watered quickly if needed.
+
+*Reasoning: James has been managing job risk by building credentials and materials but has not yet committed to the specific conditions that would trigger the search. Naming those conditions explicitly prevents the scenario where a layoff arrives and he is caught without a clear activation plan. The recruiter introduction is low-cost and opens a channel without committing to a search.*
 
 
 
 #### commuter_rachel  ·  `commuter_rachel`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **tightly focused with an undercurrent of real fear. Rachel is unemployed, savings are approximately $19,685, and she is burning $4,817 a month with zero income. That is roughly four months of runway. The freelance pipeline she has been building for seven ticks has not produced a single paying client. She knows this. The Angela Wright call is pending. The Nicole Washington close is pending. She has three targeted job applications she committed to at tick 11. This tick is not a planning tick — it is an execution and triage tick. She is past the point where preparation and positioning are the primary work. Revenue or employment must materialize within the next two to three ticks or her runway compress into genuine crisis.** · Archetype: ?*
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `EXCHANGE`**
+
+> Execute the Nicole Washington close and get a definitive answer this week. If Nicole has responded since tick 11 — yes or no — Rachel acts immediately: yes means the scope document goes out within 24 hours and the $800 pilot is open. No means Rachel sends a brief, professional acknowledgment and asks for a 60-day check-in permission before she fully closes that channel. If Nicole has still not responded, Rachel sends her final message: 'Following up one last time on the $800 pilot. I have the scope document ready to send today if you want to move forward. If now is not the right time, I completely understand — let me know and I will follow up in two months.' Then she stops. Eleven ticks of preparation and this is the close. She does not soften it and she does not extend it further.
+
+*Reasoning: The Nicole Washington pilot has been the primary freelance close for three ticks. Rachel is unemployed with four months of runway. She cannot afford to continue treating warm leads as indefinitely pending — she needs a yes or a no so she can redirect her energy. This is the final close attempt.*
+
+
+**Action 2 — `ASSOCIATION`**
+
+> Have the 20-minute referral call with Angela Wright — this tick, not next tick. If the call has been scheduled, Rachel goes in with the two-way proposal prepared: Angela routes displaced workers and transitioning small business owners who need communications support to Rachel; Rachel routes anyone who needs workforce transition consulting to Angela. Rachel brings a specific example: a small business owner on auto row who reduced staff and needs to communicate the change to customers without losing them. She is also prepared to ask Angela directly whether any of the displaced workers coming through her intake program are running their own job searches and need personal brand or resume communications support — that is a category of client Rachel can serve immediately and that Angela likely encounters weekly. If the call has not been scheduled, Rachel sends one specific message this tick: 'I have Tuesday at 10am or Wednesday at 2pm blocked. Which works for you?' She does not follow up a third time if this is ignored.
+
+*Reasoning: Angela Wright is the highest-upside active relationship in Rachel's network. She is routing displaced workers — Rachel's exact target client population — through her intake program every week. The referral arrangement, if established, is a client pipeline that does not require individual prospecting. Rachel needs to treat this call as the priority it is.*
+
+
+**Action 3 — `COMMITMENT`**
+
+> Submit the three targeted job applications she committed to at tick 11. This is not optional and it is not a background task — it is the most important financial safety action available to Rachel this tick. She applies to three marketing manager or director roles at stable-sector employers: one healthcare organization, one financial services company, and one regional employer in a sector with documented employment stability through economic disruption. She tailors each application to reference her disruption communications positioning — she is not a generic marketing manager, she is a marketing professional who has spent the past year reading the consumer behavior shifts of a community under economic stress and translating them into messaging. That is a specific credential that stable-sector employers hire for. She submits all three applications this tick, not as a plan for next week.
+
+*Reasoning: With $19,685 in savings and zero income, Rachel cannot run the freelance pipeline as the sole income strategy and watch the runway drain. Three job applications take 6-9 hours of work and could produce a salary offer within 4-6 weeks. That is the difference between 4 months of runway and 8 months of runway. She committed to this at tick 11. She executes it at tick 12.*
+
+
+**Action 4 — `SIGNAL`**
+
+> Publish a third LinkedIn piece this tick — shorter and more urgent than the previous two. The angle: what marketing communications look like for small businesses operating in a market with 50% employment and a depressed spending index. Specifically, she writes about the difference between visibility maintenance (staying present when customers cannot spend) and conversion marketing (pushing offers when wallets are empty), and why the former is what small businesses should be investing in right now. The piece includes one specific, free-to-implement recommendation. It references her prior piece from tick 11 to establish consistency. This is twenty minutes of writing and circulates indefinitely — her most efficient possible use of time while the job applications are under review.
+
+*Reasoning: The LinkedIn presence is the one marketing activity Rachel can sustain at zero marginal cost. Two pieces out (ticks 8 and 11), with a third this tick, establishes a visible pattern that potential clients and employers can find. It costs two hours and is the most efficient signal-to-effort action available to her.*
 
 
 
 #### council_member  ·  `council_member`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **determined but financially pressured. Savings are now approximately $46,036 ($49,953 minus another $3,917 month of burn), with a monthly deficit of $3,917 and zero income. Runway is approximately 11-12 months — real but no longer comfortable. The 90-day Economic Resilience Framework she committed to in tick 9 is in progress but not complete. Tick 11 was routine — which means a tick was spent not producing the framework document she owes the community. This tick the framework advances to a substantially complete draft. The income question is also no longer abstract: she identified in her tick 6 reflection that she needs income within 6 months, and she is now at month 7 of zero income. She is past the window she set for herself.** · Archetype: ?*
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `TRANSFORMATION`**
+
+> Complete the 90-day Economic Resilience Framework draft this tick — all four sections. The tick 11 action advanced two sections (retraining enrollment and Gini trajectory). This tick she completes the remaining two: (1) small business stabilization fund utilization — she reviews what has been disbursed from the $75,000 fund, to which businesses, and whether the 15% revenue decline threshold is still appropriate given a spending index that has collapsed from 73 to the current level; she drafts a specific recommendation to lower the threshold to 10% and expand eligibility to sole proprietors with no employees; (2) zoning recommendation for auto row empty properties — drawing on Stephanie Morris's data and the municipal precedent cases from her tick 11 research, she writes a specific adaptive reuse zoning recommendation: rezone former auto retail corridor footprints as 'Mobility and Logistics Transition Zone' permitting EV fleet servicing, last-mile delivery prep kitchens, light commercial storage, and light industrial use with streamlined permitting. The full draft is complete by end of this tick.
+
+*Reasoning: She committed to this framework in a recorded public session at tick 9. She is now at tick 12 with only two of four sections drafted. The community is watching whether process produces deliverables or more process. The framework must be complete this tick so the public presentation can be scheduled in the next one.*
+
+
+**Action 2 — `ASSOCIATION`**
+
+> Have the working conversation with Lisa Freeman that was planned for tick 11. Maria Santos meets with Lisa at the community center — not as a formal policy meeting, but as a peer-to-peer conversation about what the Financial Triage Navigator is surfacing. Specifically, she asks: what types of cases are coming through, what existing programs are people unable to access and why, and whether the grant committee routing through the municipal website is creating a real access barrier. She listens. She takes notes. She brings at least one specific action from the conversation: if Lisa identifies a gap that Maria can fix without a council vote — changing a routing address, updating a form, adding a direct contact — she fixes it this week, not next quarter.
+
+*Reasoning: Lisa Freeman is doing the street-level triage work that complements Maria's policy work. The Navigator is surfacing gaps that no policy document will reveal. Maria planned this conversation at tick 11 and did not execute it. This tick she does. The benefit is both directional — improving programs — and relational, since Lisa is one of the most trusted community voices in Millfield.*
+
+
+**Action 3 — `SIGNAL`**
+
+> Issue the public statement she drafted in tick 11 but did not deliver — naming the current employment and spending conditions accurately and directing residents to existing resources with direct contact information rather than website URLs. The statement specifically names: the Financial Triage Navigator at the community center and Lisa Freeman's contact information, the small business stabilization grant program and the grant committee's direct contact (Nadia Osei), and the retraining grant program with Millfield Community College enrollment information. She also announces that the 90-day Economic Resilience Framework will be presented at a public session within the next 30 days — naming a specific date if she has one, or committing to naming one within 48 hours. She is not running for anything and she is not managing perceptions. She is telling people what exists and when the next milestone is.
+
+*Reasoning: The public statement was planned for tick 11 and not executed. Every tick without a public-facing communication is a tick where residents who need resources do not find them. The direct contact routing fix she identified in tick 10 — replacing the municipal website URL with committee member phone numbers — costs nothing and could meaningfully increase uptake.*
+
+
+**Action 4 — `COMMITMENT`**
+
+> Make a concrete move on the income question this tick. Maria has been at zero income for seven months, burning $3,917/month from savings, and her own tick 6 reflection set a six-month window for resolving the income situation before it distorts her decision-making. That window is past. She identifies one specific income avenue to pursue this tick: she reaches out to the Millfield Community College workforce program director to ask whether there is a paid advisory or instructional role associated with the retraining programs she authorized and has been monitoring. Her knowledge of the workforce displacement landscape — as the architect of the retraining fund, the small business grant, and the RoboRide licensing framework — is directly applicable to helping displaced workers navigate options. This is not a retreat from public work. It is finding a sustainable way to continue it.
+
+*Reasoning: Maria's financial runway is 11-12 months at current burn, but the pattern of spending personal savings to do public work is not indefinitely sustainable. Her own reflection at tick 6 named six months as the window. She is past it. The community college advisory role is the most direct-fit income opportunity available — it pays for expertise she already has, within the system she built, serving the population she is accountable to.*
 
 
 
 #### dealership_gm  ·  `dealership_gm`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **sober and purposeful. The consulting contract with Patricia is underway — $4,500/month reduces net burn from $8,632 to roughly $4,132. Savings are approximately $37,094 after the tick 11 routine burn, and the consulting income changes the runway from 4 months to approximately 9 months. That is meaningful breathing room. But it is still a 90-day contract, not a career, and the 90-day clock is running. The first consulting deliverable is owed. The parallel job search is in motion — first outreach to the EV fleet operator was committed to at tick 11. Rick Tanner is still a relationship he has not converted into anything concrete. The identity adjustment from 32-year GM to independent consultant is settling but not complete.** · Archetype: ?*
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `TRANSFORMATION`**
+
+> Deliver the first formal consulting document to Patricia — the closure execution status memo committed to at tick 11. The memo covers: (1) closure timeline status — which milestones are complete, which are in progress, and what the critical path looks like to the announced Q2 end date; (2) technician transfer status — of the service lane technicians, how many have confirmed transfers to the consolidated service location, how many are still in Angela Wright's intake pipeline, and whether any are at risk of leaving the sector entirely before a placement is secured; (3) sales staff retraining status — which former sales staff have enrolled in the workforce retraining grant program, which have not yet been reached, and what barriers to enrollment have been identified from his knowledge of those individuals; (4) property status summary — what he knows about the Stephanie Morris outreach and the property disposition timeline. This document is professional, organized, and delivered on time. It establishes that the $4,500/month consulting fee produces real output.
+
+*Reasoning: The consulting contract is the income bridge that has extended his runway from 4 months to 9 months. Delivering a quality first memo establishes the working pattern for the remaining 60+ days of the contract and gives Patricia reason to consider extending it or referring him to other engagements. Being paid without producing visible output is not his operating mode after 32 years in management.*
+
+
+**Action 2 — `EXCHANGE`**
+
+> Have the peer conversation with David Chen he committed to at tick 11. He calls David and proposes a direct exchange of what each has been seeing from their respective positions in the disruption. He goes in with two specific questions: (1) what is David seeing in the small business lending market — are the businesses that need credit to pivot actually able to access it, or is the risk profile of disrupted businesses creating a gap between demand and what conventional lenders will touch? (2) Is there any overlap between the fleet and commercial vehicle financing needs he has been modeling in the asset map and the kind of community lending David is building at the credit union? He also mentions that the diner owner has been in survival mode and may be trying to finance a kitchen conversion — that is the kind of bridge financing situation that may be exactly what David is positioning for. He offers to make an introduction if David is interested.
+
+*Reasoning: David Chen is building a community lending operation at a time when the conventional banking system's risk parameters exclude exactly the businesses that most need capital. The intersection of fleet financing knowledge (from the asset map) and community lending (David's pivot) is a real potential overlap. The Betty Kowalski introduction is a genuine referral — both of them benefit from the connection, and it costs nothing to make.*
+
+
+**Action 3 — `ASSOCIATION`**
+
+> Follow up on the first job search outreach to the EV fleet operator he committed to at tick 11. If they have responded, he prepares a 15-minute conversation using the positioning he identified: nine months leading a dealership consolidation with direct floor-level data on service lane retention, EV-ready technician sourcing, and fleet maintenance capacity planning. If they have not responded, he sends one brief follow-up within 5 business days — not a reminder, a small additional credential: 'I wanted to add that the consolidation report I referenced included specific analysis of EV fleet service capacity requirements — happy to share the relevant section if useful.' He also makes first contact with the second company on his target list: the dealership group in an adjacent market that has not yet restructured. He pitches himself as someone who has already run the process they are likely about to face.
+
+*Reasoning: The consulting contract is 90 days. He cannot wait until day 80 to build what comes after it. The EV fleet operator is the most direct-fit opportunity given his recent analysis work. The adjacent-market dealership group is the second-tier option — they face the same structural pressures and his experience has direct transfer value. Planting both seeds now gives him two potential conversations developing in parallel.*
+
+
+**Action 4 — `SIGNAL`**
+
+> Contact Angela Wright directly — not about the former sales staff in her intake pipeline, but about himself. He tells her plainly: the consulting contract with Patricia is running for 90 days and he is building the next chapter in parallel. He asks her one direct question: does her workforce transition program ever place people in advisory or consulting roles rather than direct employment? He is not asking her to place him. He is asking whether her network includes employers who hire for the kind of transition management experience he has — people who want someone who has already run a restructuring rather than someone who would run their first one on the employer's dime. He keeps the conversation to 15 minutes and thanks her for the work she has been doing with the former staff.
+
+*Reasoning: Angela Wright has been routing displaced workers into transition pathways for multiple ticks. She knows which employers in the region are actively hiring and what skills they value. A direct conversation with her — not about his former employees but about his own situation — is the kind of honest peer engagement that produces useful intelligence. He has been maintaining this relationship throughout the disruption and it has real value beyond the former staff placements.*
 
 
 
 #### diner_owner  ·  `diner_owner`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **at the edge — not panicked, but operating with the clarity that comes from having no margin left. Savings have effectively run out. The tick 11 burn of $4,481 (slightly higher than the baseline $4,268) confirms the monthly bleeding is accelerating, not stabilizing. Betty is at or past the zero-savings threshold. The RoboRide decision gate she set at tick 10 has closed. She has either received terms or she has not. Either way this tick is the execution tick — she stops evaluating and starts doing whatever path she chose. The one new variable from tick 11 is Kevin O'Brien at the Financial Triage Navigator: if there is bridge financing available for a kitchen conversion, the math changes. She needs that conversation to happen today, not this week.** · Archetype: ?*
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `COMMITMENT`**
+
+> Execute the RoboRide go/no-go decision made at tick 11 — stop deliberating and act. If the written terms arrived and the revenue math penciled out at the $2,800/month minimum threshold: she notifies the RoboRide local partnership coordinator today that she is proceeding, signs the agreement, and begins the kitchen reconfiguration this week. She clears the sit-down seating area to expand prep space, identifies the equipment she needs (heated transport containers, packaging supplies, a label printer), and lists the minimum-order menu items she can prep efficiently in high volume. If the RoboRide terms did not arrive or did not pencil out: she calls Stephanie Morris today and says 'I am ready for the property walk this week. My schedule is open. When can you come?' She names a decision. She has been building toward this fork for four ticks. She is at the fork.
+
+*Reasoning: Betty has zero runway left. She cannot continue operating the diner at negative savings while maintaining parallel uncertainty about two paths forward. The RoboRide deadline she set has passed. The property valuation conversation she committed to as the alternative backup is immediately available. She picks one and executes it today, not after another week of parallel uncertainty.*
+
+
+**Action 2 — `EXCHANGE`**
+
+> Speak with Kevin O'Brien at the Financial Triage Navigator session — this is the highest-priority conversation of the tick. Betty goes in with a specific ask, not a general inquiry: 'I have a commercial kitchen that I am trying to convert to a delivery prep operation. The revenue math works if I can cover $15,000-$18,000 in equipment costs upfront. I need to know what bridge financing options exist for a sole proprietor with a commercial kitchen, no income for the past six months, and a documented delivery partnership agreement — or the terms of one — as the revenue instrument.' She is asking Kevin O'Brien the most specific version of the question she can ask. If he can answer it, she gets the information she needs to decide whether conversion is viable without additional capital. If he cannot, she asks him who can.
+
+*Reasoning: The Financial Triage Navigator session was identified at tick 11 as the one source of intelligence that could change the decision framing. Bridge financing for the kitchen conversion could make the delivery pivot viable even if RoboRide revenue takes 45-60 days to ramp. This conversation is the last data point Betty needs before her path is fully fixed. She cannot afford to miss it.*
+
+
+**Action 3 — `SIGNAL`**
+
+> Call Stephanie Morris today — not in response to a scheduled event, but proactively. Regardless of whether the delivery pivot is proceeding, Betty calls Stephanie and gives her a clear status update: 'I have made my decision on the RoboRide path. [Either: I am proceeding with the delivery conversion and I want to schedule the property walk for 60 days from now as a contingency checkpoint. / Or: The terms did not work out and I am ready for the property walk this week.] Either way, I am not leaving you in the dark any longer.' Stephanie Morris has been waiting on Betty's decision since tick 9. Betty owes her a clear and honest status update regardless of which path she is on.
+
+*Reasoning: Stephanie Morris has invested time in the auto row property market and has been waiting on Betty's clarity. Professional relationships in a contracting market are built on clear communication. Betty's credibility as someone worth working with depends on not leaving people who have invested in her situation without information. This call takes fifteen minutes and preserves a relationship that is materially important to at least one of her two paths forward.*
+
+
+**Action 4 — `TRANSFORMATION`**
+
+> If proceeding with the delivery kitchen conversion: draft a minimum viable menu of 5-8 high-volume prep items that the diner kitchen can produce efficiently, package for delivery, and sell at a margin that covers costs at realistic order volumes. The menu is not aspirational — it is calibrated to what the kitchen equipment can produce at scale with Betty alone or with one part-time helper. She thinks about what travels well, what can be prepped in advance, what has low food cost and high margin, and what Millfield residents who are ordering delivery on a tight budget will actually choose. She writes this down this week and sends it to the RoboRide coordinator as part of the onboarding conversation. If proceeding with property sale: she prepares the kitchen and space for the Stephanie Morris walk-through — clean, organized, equipment documented, any outstanding repairs noted honestly.
+
+*Reasoning: Betty is executing on whichever path she has chosen. Both paths require immediate preparation work. The delivery kitchen menu is the operational foundation of the conversion — without it, the partnership is an agreement with no production capacity behind it. The property walk preparation ensures the valuation is not suppressed by disorganization or deferred maintenance that could easily be addressed before Stephanie arrives.*
 
 
 
 #### driving_instructor  ·  `driving_instructor`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **Controlled urgency bordering on alarm. Frank has $652 in savings and $3,176 in monthly expenses. He is not panicking publicly but the math is no longer abstract — it is a number he can almost count down to. He has been deliberate and professional for eleven ticks. Now he needs results, not actions that produce results eventually.** · Archetype: ?*
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `SIGNAL`**
+
+> Call the adult ed district coordinator — not a follow-up, a closing call. Frank states his situation directly and professionally: he left a curriculum document in person at tick 9, he has Mark Thompson's endorsement, and he needs to know within this week whether there is a pathway for his AV literacy course to be listed in the spring adult ed catalog. He says plainly: 'I have developed a four-module AV literacy curriculum, I have a professional referral from Mark Thompson, and I am ready to start. I need a yes or a no so I can plan accordingly.' He is not rude. He is specific. He has earned the right to ask directly.
+
+*Reasoning: Frank has been building toward this for eight ticks. His savings are at $652. He cannot afford another tick of 'waiting to hear back.' A direct closing ask is the only appropriate move. If the answer is no or a further delay, he immediately pivots to the workforce transition grant pathway that Mark Thompson's board presentation connected.*
+
+
+**Action 2 — `ASSOCIATION`**
+
+> Call Howard Liu at the auto parts supply store. Frank heard through the word-of-mouth network that Howard has been trying to reach him. The word-of-mouth message referenced Howard calling Mark Thompson back. Frank reaches out directly to Howard to understand what Howard wanted — whether it is related to the auto tech pipeline, the AV literacy curriculum, or something else. Frank identifies himself plainly as the person Mark Thompson brought in as a curriculum collaborator and asks what Howard was looking for.
+
+*Reasoning: Two separate word-of-mouth signals referenced Howard Liu trying to reach Mark Thompson and make changes. If Howard is connected to the pipeline proposal or the workforce transition grant pathway, Frank needs to be in that conversation. Howard is in Frank's network through Mark. This call costs nothing and may open a funding channel Frank does not currently have access to.*
+
+
+**Action 3 — `EXCHANGE`**
+
+> Sell one of the two school vehicles. Frank has had two cars sitting idle since tick 1 when enrollment dropped to zero. He no longer needs both — he needs cash. He lists the car with the lower bluebook value on Facebook Marketplace and at a used lot on Auto Row. He sets a price that moves it in 30 days, not a price that maximizes return. The goal is to convert a depreciating, insured asset into cash that extends his runway by two to three months.
+
+*Reasoning: Frank has $652 in savings and $3,176 in monthly expenses. At this burn rate he is out of money before the end of tick 13. He has two vehicles and one of them is not earning anything. Selling it is the clearest immediate lever he has. A $4,000-$6,000 sale buys him one to two additional months of runway while the adult ed and workforce grant applications resolve.*
+
+
+**Action 4 — `COMMITMENT`**
+
+> Follow up with Mark Thompson specifically on two questions that came out of the word-of-mouth intelligence: (1) Did the school board set a formal vote date for the Millfield Auto Tech Pipeline funding request? Frank needs the timeline because his curriculum fits under the workforce transition grant pathway Mark's proposal connected to. (2) Is there a named contact at the workforce transition grant office that Frank can reach out to directly and independently, separate from the board vote outcome? Frank is not waiting for the board to approve the pipeline before pursuing the grant pathway. He wants the contact name now.
+
+*Reasoning: Mark's board presentation created a potential funding pathway for Frank's adult ed curriculum. The board has been deliberating for at least a tick. Frank needs the timeline and the name of the grant contact so he can pursue both channels simultaneously. He heard through the network that Mark is following up with the board secretary directly — Frank wants to know the outcome the moment it exists.*
 
 
 
 #### gas_station_owner  ·  `gas_station_owner`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **Focused and pressured. The 60-day gate Amir set at tick 9 is now effectively at its close. Employment rate in Millfield has dropped to 50% and consumer spending is at 26 — both of these are worse than the numbers he set his decision framework against. Stephanie Morris just called asking which path he is leaning toward and whether he wants her in a listing role. The decision window is real and it is closing. Amir is not in crisis — he has 11 months of runway — but he is aware that every month he waits is a month the buyer pool for a gas station in a disrupted auto corridor shrinks. He is making a real decision this tick.** · Archetype: ?*
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `COMMITMENT`**
+
+> Call Stephanie Morris back today. Tell her directly: the 60-day logistics buyer inquiry has reached its gate. Amir wants a frank assessment — has she found one or two qualified buyers at or near the $300K floor, or not? He is not extending the window further. He has seen employment drop to 50% and spending to 26 since he set the gate. If Stephanie has a qualified buyer who has expressed genuine interest at $285K or above, he wants to schedule a meeting this week. If she has not found a buyer at that level, he is formally closing the sale-inquiry path and reactivating Kevin O'Brien's loan for the EV charger installation. He also confirms the $350 valuation fee she invoiced is fair and authorized for payment.
+
+*Reasoning: The 60-day gate expires this tick. Amir designed this decision structure at tick 9 specifically so he would not relitigate the choice when the deadline arrived. The macro data has gotten worse, not better. He honors the framework he built by executing the decision it was designed to produce: a yes or a no based on buyer signal, not on hope.*
+
+
+**Action 2 — `EXCHANGE`**
+
+> If Stephanie's answer is no qualified buyer at the $300K floor: call Kevin O'Brien at the bank this week and reactivate the $12,000 capital improvement loan for two Level 2 EV chargers. Tell Kevin clearly — the pause was deliberate and the 60 days are complete. He wants to proceed with the terms they discussed. Ask Kevin to confirm the rate and monthly payment figure are still valid and schedule a time to sign the loan documents. He is not restarting the process — he is resuming the commitment he put on hold.
+
+*Reasoning: Amir's tick 9 decision framework specified exactly this: if no buyer at $300K within 60 days, reactivate the charger loan. The alternative to acting is continued decline of a fuel-only station as EV adoption accelerates. The retrofit path is imperfect but it is a real path. Staying in limbo is worse than either committed option.*
+
+
+**Action 3 — `SIGNAL`**
+
+> Get a business insurance quote from Priya Sharma. Amir's tick 6 and tick 9 reflections both named insurance coverage as a structural vulnerability he had failed to address despite having four dependents and a business in transition. He has had no coverage for the full 12 ticks of the simulation. He calls Priya — whom he knows through the community network as a displaced insurance professional — and asks for a business interruption and general liability quote for a fuel retail operation. He also asks whether she can write a personal life policy for him. He is not shopping for the cheapest number. He is closing a gap that has been open too long.
+
+*Reasoning: This has been named as a failure in Amir's reflections at tick 6 and tick 9. He has four dependents and no insurance coverage on a business whose revenue is visibly declining. Priya is actively looking for clients in her transition. This is a genuine exchange of value — she gets a client and a referral source, he closes a long-overdue risk gap. He can afford the premium. He cannot afford not to have the coverage.*
+
+
+**Action 4 — `ASSOCIATION`**
+
+> Have a brief conversation with Betty Kowalski about delivery operator activity on Auto Row. Amir heard through word of mouth that Betty has been in contact with RoboRide's local partnership coordinator about her diner. Betty is on Auto Row and has visibility into what delivery-related operators are looking at in the corridor. Amir wants to know: has she heard of any logistics or delivery companies scouting properties in the area? Not because he is selling — but because if the buyer profile Stephanie has been pursuing is real, there should be ambient signal of that activity somewhere on Auto Row. Betty is his best informal intelligence source for that.
+
+*Reasoning: Amir's investment thesis for the sale path is that delivery operators need nodes on owned land with canopy and electrical infrastructure. If that demand is real, it should show up as scouting activity in the corridor. Betty has been actively engaging with RoboRide and is the most connected person Amir knows who would have heard something. The conversation takes twenty minutes and either confirms the buyer profile is real or gives him an early signal that it is not.*
+
+
+**Action 5 — `INACTION`**
+
+> Do not list the property publicly this tick, regardless of what Stephanie reports. If there is a qualified buyer at $300K, the transaction proceeds through Stephanie's quiet channel. If there is no buyer, the property stays off-market and the EV charger retrofit is the active path. Public listing is not consistent with Amir's stated strategy — it signals distress, invites low offers, and constrains his options. He holds to the private-sale-or-retrofit framework he designed.
+
+*Reasoning: Amir built a clear two-path decision framework. Public listing was not one of the paths. He does not deviate from that framework under pressure from the bad macro data. The discipline to hold to a good decision structure when things are getting worse is exactly what the framework was designed to produce.*
 
 
 
 #### hr_director  ·  `hr_director`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **Tired and purposeful in roughly equal measure. Angela is in depression as a grief stage, which does not mean she is not functioning — it means she is no longer performing energy she does not have. The savings number ($29,625) and the burn rate ($6,611/month against $2,804 income) means she is running negative $3,807/month. She has roughly 7.8 months of runway, not the 4.5 that the state file shows for essentials-only. She knows the math. She is also running Wright Workforce Advisory LLC in the background of a job that still requires her full professional presence. This tick the weight of holding both simultaneously is visible in how she moves — slower to respond to non-urgent things, faster and more decisive on the things that matter.** · Archetype: ?*
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `ASSOCIATION`**
+
+> Respond to Tamika Jefferson's outreach. Angela accepts the peer-to-peer conversation Tamika proposed and schedules a 30-minute call. She comes in with a specific two-way offer: Wright Workforce Advisory LLC will refer to Tamika any transitioning worker who is building a freelance or small business identity and needs social media or communications support. In exchange, Tamika offers referrals to Angela for workers who need workforce coaching or transition structure. Angela also accepts Tamika's offer to be a case study — Tamika's story of building a freelance practice during active displacement is exactly the kind of proof-of-concept narrative that makes Wright Workforce Advisory's methodology credible to prospective clients. She tells Tamika that clearly.
+
+*Reasoning: Tamika is building in the same environment Angela is building in. The referral arrangement costs nothing and creates a mutual amplification channel that Angela does not currently have. The case study offer is particularly valuable — Angela has a methodology but no public portfolio of outcomes yet. Tamika is a walking portfolio entry.*
+
+
+**Action 2 — `TRANSFORMATION`**
+
+> Draft the first external-facing Wright Workforce Advisory LLC case study document based on the Regional Auto Group transition intake work. Angela draws on the documented contacts, referrals, and outcomes from the displaced workers she processed at tick 9 — anonymized appropriately — to build a two-page methodology document: the problem (location closure, immediate displacement of sales floor staff), the intervention (personal phone contact with every displaced worker, routing to four specific pathways), the outcomes (community college referrals made, Maria Santos grant applications distributed, internal transfer candidates identified). This becomes the first portfolio artifact she can show a prospective consulting client.
+
+*Reasoning: Angela has been doing the work that proves her methodology for three ticks. She has not yet packaged any of it as proof. A two-page case study document is the difference between 'I built a consulting methodology' and 'here is what it produced.' She needs this before she pitches a first paying client. She can write it without leaving the current job, without violating any confidentiality — the methodology is hers, and the outcomes are anonymized.*
+
+
+**Action 3 — `SIGNAL`**
+
+> Have a direct conversation with Patricia Hawkins about what comes after the current transition program completes. Angela said at tick 10 that she was open to that conversation on her terms — as someone building something alongside the role, not against it. This tick she initiates it rather than waiting for Patricia to. She asks Patricia directly: when this program completes, does Regional Auto Group have a need for ongoing workforce advisory support — either internally or on a consulting basis? She is not resigning. She is mapping the terrain so she can make a deliberate exit or a deliberate continuation, whichever serves her better.
+
+*Reasoning: Angela's runway is finite and her burn rate is negative. She cannot afford to wait for Patricia to raise the post-program question. If there is a consulting engagement available after her employment ends — which is more likely than a full-time continuation given the sector contraction — she wants to be the person who named that option first, not the person who learned about it after the fact. She is also demonstrating exactly the kind of forward-looking professionalism that makes her a credible consulting partner.*
+
+
+**Action 4 — `COMMITMENT`**
+
+> Reach out to one HR professional in Angela's LinkedIn network who works in a growth sector — healthcare administration, logistics, or tech — and schedule a brief informational call. Not a job application. Not a pitch. A genuine professional conversation about what workforce challenges look like in their organization right now and what they need that they are not getting from existing HR infrastructure. Angela is building the market intelligence she would need to pitch Wright Workforce Advisory to clients outside the auto sector. She picks one person she has a warm connection with, not a cold outreach.
+
+*Reasoning: Wright Workforce Advisory's long-term client base is not Regional Auto Group — it is every organization in a sector facing structural disruption. Angela has been building her methodology inside automotive. She needs to understand whether the methodology translates. One informational conversation with a peer in a different sector costs nothing and gives her either confirmation or a reason to recalibrate before she pitches outside her current domain.*
 
 
 
 #### insurance_agent_priya  ·  `insurance_agent_priya`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **Urgent and activated — the anger from her grief stage is sharpening into directed energy rather than diffuse frustration. Priya has $617 in savings and $3,341 in monthly expenses. She has been unemployed since tick 8. The retraining grant application is in. Four job applications are out. Linda Park's word-of-mouth signals that fleet and logistics introductions are coming through Tom Bradley. The question is no longer whether she is doing the right things — she is. The question is whether any of them will convert to income before she runs out of money in approximately two weeks. She is not catastrophizing. She is doing the math and moving faster.** · Archetype: ?*
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `EXCHANGE`**
+
+> Call Linda Park directly. Priya learned through the word-of-mouth network that Linda followed through on her promise to Tom Bradley and is making introductions to fleet and logistics contacts. Priya calls Linda — not Tom — and references this directly: 'I understand you've been connecting people to commercial fleet risk contacts. I am in the same transition Tom is, and I have been doing the same work — four applications out, SQL coursework at Module 4, a working fleet incident data query as a portfolio artifact. If any of those introductions would be appropriate for me as well, I would appreciate the same consideration.' She is not competitive with Tom. She is direct about her candidacy.
+
+*Reasoning: Tom has a 13-month runway and went through the formal layoff conversation with Linda. Priya has less than two weeks of savings. She cannot afford to let Tom be the only one benefiting from Linda's network generosity. She has been building the same skill set, has the same insurance domain knowledge, and is a stronger data analytics candidate by training. The introduction Priya needs is the same one Tom needs. She asks for it directly.*
+
+
+**Action 2 — `TRANSFORMATION`**
+
+> Complete SQL Module 4 this week — window functions and subqueries. Not partially, not mostly. Finish it and update the LinkedIn profile and the application materials immediately upon completion. Three current applications are citing SQL skills based on Module 3. Module 4 completion moves her from 'learning SQL' to 'proficient in SQL including advanced query patterns.' That is a different hiring signal. She commits three evening sessions this week and finishes the module regardless of what else is happening.
+
+*Reasoning: Priya is 48% through her retraining in-progress transformation. Module 4 is the differentiator between a junior SQL candidate and a mid-level one. With four applications outstanding and Linda Park's network potentially opening, she needs her credentials to be as strong as possible when someone actually looks at her profile. The module takes approximately 6-8 hours of focused work. She has the time.*
+
+
+**Action 3 — `SIGNAL`**
+
+> Follow up on the $2,500 Maria Santos retraining grant application that she submitted at tick 10. She calls or emails Maria Santos's office and asks for confirmation of receipt and an estimated decision timeline. She has a confirmation number. She references it. This is not a request for special treatment — it is a professional follow-up on a submitted application. If the grant is approved and deposited even partially, it extends her runway by three-quarters of a month. She needs that information now, not at tick 14.
+
+*Reasoning: Priya submitted the grant application at tick 10. It is tick 12. Two ticks of silence is long enough to warrant a professional status check. The grant is $2,500 — at her burn rate, that is roughly 22 days of additional runway. With $617 in savings, that matters immediately.*
+
+
+**Action 4 — `COMMITMENT`**
+
+> Respond to Tom Bradley's word-of-mouth signal about fleet and logistics contacts from Linda. Tom reached out at tick 10 and they had a real conversation. Tom asked Priya if she wanted to be included in Linda's outreach loop. This tick Priya sends Tom a brief, direct message confirming: yes, she wants to be in the loop, and she wants to be introduced as a parallel candidate rather than a competing one. She also updates Tom on where she stands: four applications out, Module 4 in progress, grant filed. She keeps the collaboration honest and mutual — Tom's network and Linda's introductions benefit her, and she wants Tom to know she is moving and not just waiting for him to do the work.
+
+*Reasoning: Tom and Priya established a genuine peer collaboration at tick 10. Tom explicitly offered to include her in Linda's outreach loop. Priya has been a named actor in Tom's inbox as someone doing active work. Confirming the collaboration and sharing a status update maintains the relationship as a functional professional asset rather than a courtesy.*
 
 
 
 #### insurance_agent_tom  ·  `insurance_agent_tom`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **Quietly resolute with a persistent undercurrent of grief. Tom is in early acceptance — he is not fighting the loss anymore, but the identity he built over 28 years does not disappear because he accepted it is over. He has $33,141 in savings and roughly 11.9 months of runway at adjusted burn. He is not a man in crisis. He is a man building something new under conditions that are harder than he would have designed. The stress level (0.75) is high because the stakes are real, not because he is paralyzed. He has Linda Park following through on her promise. He has Priya as a genuine collaborator. He has Sarah as a full partner. This tick he activates the fleet contacts.** · Archetype: ?*
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `EXCHANGE`**
+
+> Follow up immediately on Linda Park's introduction to the regional logistics company contact she sent this tick. Linda's word-of-mouth message indicated she would copy Tom on a note vouching for his field assessment skills and auto book management experience. Tom sends a brief, professional email to that contact within 48 hours of receiving Linda's introduction: thank the contact for their time, acknowledge Linda's introduction, and make one specific ask — a 20-minute call to discuss whether there are risk operations roles or commercial fleet risk needs where Tom's 28 years of insurance risk assessment experience and his client management history would be relevant. He attaches nothing to this first message. He is asking for a conversation, not submitting an application.
+
+*Reasoning: This is the single highest-value action available to Tom this tick. Linda Park made a specific professional introduction. Tom has 48 hours before the energy of that introduction dissipates. He acts on it immediately, professionally, and with a specific ask. A 20-minute conversation is a low-burden ask that Linda's vouching makes appropriate.*
+
+
+**Action 2 — `SIGNAL`**
+
+> Send Priya Sharma a brief, direct message confirming she is included in Linda's outreach loop. Tom made the offer at tick 10. Linda's introduction came through this tick. Tom keeps his word: he contacts Priya, tells her Linda has made the specific logistics introduction, and asks whether she wants Tom to mention her name in a follow-up message to the contact — framed as 'a colleague with insurance domain knowledge and SQL data analytics skills who is also in transition.' He does not position himself and Priya as competing. He positions them as a professional cohort that the contact should be aware of.
+
+*Reasoning: Tom committed to including Priya in the loop at tick 10. She trusted him enough to take him at his word. Following through on that commitment is both the right thing to do and strategically sound — if either of them lands a role through this network, they strengthen the recommendation of the person who made the introduction. Linda's reputation is also served by Tom's follow-through.*
+
+
+**Action 3 — `TRANSFORMATION`**
+
+> Advance the retraining coursework. Tom is at 20% progress toward his commercial risk analytics retraining goal (started tick 8, 10-month completion estimate). He commits to completing one full module of whatever course structure he has enrolled in — SQL fundamentals, data analytics certificate, or commercial risk operations coursework. He is not waiting for the job search to resolve before continuing the retraining. Both tracks run simultaneously. He sets three weekly sessions, 90 minutes each, and treats them as fixed on the calendar the same way he would treat a client meeting.
+
+*Reasoning: The retraining is at 20% after four months. The completion timeline is 10 months from tick 8, which means tick 18. At the current pace that holds. But Tom knows from his own career that the candidates who differentiate are the ones who can show work in progress, not just enrollment. Making visible progress — even one completed module — gives him something concrete to reference in the job conversations Linda's introductions are opening.*
+
+
+**Action 4 — `ASSOCIATION`**
+
+> Have a brief, honest check-in conversation with Carlos Ruiz. Tom heard through the word-of-mouth network that Carlos is navigating the Hawkins consolidation from the inside — he is in the tier-one group, his job is likely secure, but the environment around him is changing. Tom and Carlos are both men in Millfield navigating different angles of the same disruption. Tom reaches out not as a professional contact but as a neighbor — acknowledging what Carlos is going through and being present. He does not ask Carlos for anything. He shows up. This is Track 3 from Tom's tick 9 adaptation notes: the relational track that does not get resolved by finding a new job.
+
+*Reasoning: Tom's tick 9 reflection explicitly named three parallel tracks: retraining, job search, and relational. He has been consistent on tracks one and two. Track three — the community and relational track — is the one that tends to slip when the financial pressure is loud. Carlos is someone Tom has observational proximity to through the word-of-mouth network. A brief, human check-in is the kind of action that costs nothing and holds the fabric of relationships that Tom named as essential to navigating this transition well.*
 
 
 
 #### insurance_manager  ·  `insurance_manager`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **controlled urgency with a current of grief — the unemployment is no longer new but the monthly burn of $7,382 against $0 income is a number that doesn't let you forget it. The world outside is getting harder: 50% employment in Millfield, spending index at 26. The external validation that she read the disruption correctly offers no comfort when savings are moving in one direction only.** · Archetype: ?*
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `SIGNAL`**
+
+> Respond to Tom Bradley's outreach request. He has reached out asking Linda to follow through on the fleet and logistics contact introductions she offered him during the tick 8 layoff conversation. Linda sends a brief, professional reply: she acknowledges his message, confirms she will make the introductions, and asks him for his current contact details and a one-sentence summary of what kind of role he is targeting so she can frame the introductions correctly. She is doing this because she told him she would, and because her credibility depends on following through — not because she has time to spare. The introductions themselves will go to the regional logistics contact from her tick 6 call list.
+
+*Reasoning: Linda promised these introductions during the layoff conversation at tick 8. Tom is now formally requesting them. Not following through would damage her professional standing with contacts who will remember whether she delivers on commitments. It also costs her almost nothing — she has these relationships — and doing it reinforces her identity as a reliable connector even in her own transition.*
+
+
+**Action 2 — `TRANSFORMATION`**
+
+> Advance the CRMP certification coursework — this is month nine of the program, currently at 30% completion. This month's focus is the commercial lines risk module, specifically the section on fleet liability underwriting and third-party logistics risk transfer. Linda blocks four evenings this month for dedicated study sessions of two hours each. The material is directly applicable to the fleet risk roles she has been cultivating as job targets, which means studying it is simultaneously credential progress and interview preparation. She logs completion of at least one full module sub-section by end of this tick.
+
+*Reasoning: The CRMP cert is the primary portable credential Linda is building. At 30% completion with monthly expenses of $7,382 and $0 income, the certification is the main investment she is making in her own future employability. The commercial fleet risk module is specifically relevant to the logistics and fleet-adjacent roles she has been targeting since tick 2. This is not abstract study — it is direct preparation for the roles she is applying to.*
+
+
+**Action 3 — `EXCHANGE`**
+
+> Re-contact the municipal risk management office — the third of Linda's three external employer targets from tick 6. Of the three contacts (regional logistics company, healthcare system risk division, municipal risk management office), Linda has not had a substantive conversation with the municipal contact since tick 10's re-engagement push. She calls directly — not email — and frames the call around a specific, current development: Millfield's city council is now actively regulating RoboRide delivery licensing, which creates new operational risk exposure for municipal infrastructure. Linda positions herself as someone who has been tracking this disruption from inside the insurance sector for twelve months and has data on how regional auto policy cancellation trends map onto municipal liability exposure. She asks directly: has the workforce disruption created any new risk management needs that are not covered by existing staff?
+
+*Reasoning: Linda's income is $0. Her savings runway is 10.4 months but burning at $7,382/month. The municipal contact was the least-warm of the three from tick 6 but represents the most stable employment category — government risk management roles are countercyclical. The city's recent RoboRide regulatory action is a concrete, current hook for this call. Linda has learned from her tick 6 regrets that letting leads go cold is a pattern she cannot repeat.*
+
+
+**Action 4 — `SIGNAL`**
+
+> Reach out to Priya Sharma with a direct, specific ask. Linda knows from word-of-mouth (tick 11 inbox) that Priya has been actively applying to insurtech and commercial fleet risk analytics roles. Linda calls Priya — not an email — and proposes a mutual intelligence arrangement: Linda shares what she knows about the three external employers she has been cultivating, and Priya shares what she is learning about the insurtech and fleet risk analytics job market from her own applications. This is a peer call, not a mentorship call. Linda is not pretending to have more stability than she does. She asks Priya directly: are any of the roles you are applying to ones I should be targeting?
+
+*Reasoning: Linda and Priya had an honest conversation at tick 5 that Linda assessed as credibility-preserving. Priya is now her most direct source of real-time intelligence about the same job market Linda is navigating. The word-of-mouth from tick 11 confirms Priya is active and applying. A mutual intelligence arrangement costs Linda nothing and potentially surfaces specific opportunities she has not yet identified. In a 50% unemployment market, the people who are most likely to help you are the ones who are solving the same problem.*
+
+
+**Action 5 — `INACTION`**
+
+> Linda does not call the AutoShield regional leadership this tick. She sent the final formal communication at tick 9 documenting the absence of a corporate response and her shift to exit mode. She has maintained the AutoShield employment relationship without pursuing any further internal advocacy. This tick she holds that position — she does not reach out to corporate again, does not send a follow-up, and does not revisit the pivot memo. The paper trail is complete. Any internal outreach now would undermine the clean documentation she created and signal that she is uncertain about the exit strategy she has already committed to.
+
+*Reasoning: Linda documented her decision to exit advocacy mode at tick 9 and has held that position. At 12 ticks in, with $0 monthly income and the personal auto book at 22 policies and declining, re-engaging internal AutoShield advocacy would be a regression to a strategy that has already been exhausted. The CRMP certification, external employer contacts, and network outreach are the correct channels for this phase. Discipline in not chasing a closed loop is as important as the actions she is taking.*
 
 
 
 #### loan_officer  ·  `loan_officer`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **tight-wound focus with an undertow of real financial fear — the runway is 3.4 months and burning. Kevin knows the math. Monthly income is $1,022 against $5,195 in expenses. The NMLS cert is at 20% completion. The Amir Patel loan is in the pipeline. The portfolio expansion is still in institutional limbo. Every tick that passes without a decision from management is a tick of savings that doesn't come back.** · Archetype: ?*
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `EXCHANGE`**
+
+> Follow up directly with whoever holds David Chen's management responsibilities on the portfolio expansion request submitted at tick 8. Kevin walks to the office in person this week — not email, not a calendar request that sits for a week. He brings one physical document: a one-page summary showing the Amir Patel $12,000 EV charger loan as a concrete proof-of-concept for small business origination under his existing credentials. The summary includes the loan parameters, the current pipeline status, and a three-sentence argument for why auto loan volume will not recover. Kevin asks for a binary answer: is the expanded scope approved or not? He does not accept 'we are reviewing it' as an answer for the third consecutive tick. He asks when the decision will be made and writes the date down in front of them.
+
+*Reasoning: Kevin's portfolio expansion request has been pending since tick 8. The Amir Patel loan is real evidence that Kevin can originate outside auto context under existing credentials. With a 3.4-month runway and $17,740 in savings, the time cost of an unanswered institutional request is compounding. David Chen has departed. Kevin cannot rely on David's sponsorship. He must force a decision from whoever now owns this.*
+
+
+**Action 2 — `TRANSFORMATION`**
+
+> Advance NMLS mortgage origination training — currently at 20% completion with a 10-month target from tick 4. This is month 8 of the training pathway. Kevin pushes through at least one full module this tick, targeting the co-originator supervised session work that requires access to live mortgage files. He pulls the HR paperwork status on the NMLS pathway to confirm it is still active and not caught in the management transition gap. He blocks his 90-minute daily study window without exception this tick. If the institutional pathway is in limbo due to David's departure, Kevin identifies whether he can advance the coursework independently — even partially — using the tuition reimbursement that was already submitted.
+
+*Reasoning: The NMLS credential is Kevin's primary portable skill investment. At 20% completion it is not yet close enough to use as a job market signal, but every tick of progress closes that gap. With auto loan volume structurally declining and a 3.4-month runway, the training timeline must accelerate. Kevin noted in his tick 9 reflection that the windows — NMLS completion and savings runway — are converging. He cannot let institutional ambiguity about David's successor pause the cert.*
+
+
+**Action 3 — `EXCHANGE`**
+
+> Follow up on the status of Amir Patel's $12,000 EV charger capital improvement loan that Kevin submitted through underwriting at tick 9. Kevin contacts the underwriting department directly — by phone, not email — to get a current status update: is the loan approved, denied, or pending additional documentation? If additional documentation is needed, Kevin identifies exactly what is required and communicates that to Amir within 24 hours. If the loan is approved, Kevin calls Amir to notify him and confirm next steps toward closing. This is not a passive status check — Kevin treats this as the single most important active transaction on his desk and advances it to the next decision point this tick.
+
+*Reasoning: The Amir Patel loan is Kevin's primary evidence for the portfolio expansion case and his first origination outside the auto context. It has been in the pipeline since tick 9 — three ticks with no recorded follow-up. A loan that sits in underwriting without an advocate goes cold. Kevin needs this loan to close, both as proof-of-concept for management and as a transaction that demonstrates his value in the new scope he is arguing for.*
+
+
+**Action 4 — `SIGNAL`**
+
+> Reach out to David Chen — who has maintained informal contact since departing the bank — with a specific, professional ask. Kevin sends a brief message: 'I am still advancing the NMLS pathway and have originated one small business loan (EV charger, $12K) under the expanded scope I proposed at tick 8. I am now in a follow-up meeting with the interim manager to get a formal decision. If you have any context on who is the right person to own this decision now, I would value a five-minute call.' Kevin is not asking David to intervene — he is using the relationship for intelligence, not advocacy. David maintained contact specifically with Kevin rather than with the bank, which Kevin noted at tick 9 as a signal of professional positioning.
+
+*Reasoning: David Chen's informal continued contact with Kevin is an asset Kevin has not fully used since tick 9. David knows the institution, knows the management structure, and may know specifically who inherited the portfolio expansion decision. Kevin's reflection at tick 9 explicitly noted David's contact as a relationship with value 'that does not appear on any spreadsheet.' This is the tick to use it for something concrete and specific.*
+
+
+**Action 5 — `COMMITMENT`**
+
+> Set a personal financial contingency threshold: if Kevin reaches the end of tick 13 without either (a) portfolio expansion formally approved or (b) a concrete role change signal from bank management, he will begin active external job search for banking and lending roles at other institutions. Kevin does not make this decision this tick — but he writes it down, puts a date on it, and treats it as a pre-commitment rather than a vague future intention. He identifies two regional credit unions and one regional bank as specific external targets if the internal path closes. He does not apply yet. He prepares the targeting so the decision, if it becomes necessary, takes days rather than weeks.
+
+*Reasoning: Kevin's tick 9 reflection noted the converging windows: NMLS completion at 3-4 months out, savings runway at 8.5 months at the time (now tighter at 3.4 months runway per state.json). The situation has become more acute. A pre-commitment to external search if the internal path stalls by tick 13 is not giving up — it is the kind of structured contingency planning that Kevin has been insufficiently concrete about. At 50% employment in Millfield, waiting passively for institutional approval is a risk he cannot afford.*
 
 
 
 #### mechanic_carlos  ·  `mechanic_carlos`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **steady with a layer of accumulated weight — the consolidation has happened, transferred technicians are now on the floor, and some of them are people Carlos knows. The ticker-one designation means his job is likely secure but the shop's emotional climate has shifted. The training is at 50% and the finish line is finally visible. The weight is not panic. It is the specific gravity of knowing more than you can share freely.** · Archetype: ?*
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `TRANSFORMATION`**
+
+> Continue EVT Level 2 certification — month seven of ten. This tick the coursework moves into advanced fleet telematics and remote diagnostics systems — the module that covers how fleet operators monitor vehicle health at scale. Carlos logs at least 10 study hours across evening and weekend sessions, prioritizing the fleet telemetry section because it is the skill area most relevant to the commercial fleet maintenance operators he has been building contacts toward. At 60% completion by end of this tick, the credential enters its final third. He does not skip sessions. The transferred technicians from the closed location are now on the floor and the shop dynamic has changed — Carlos maintains his studying schedule as an anchor of his own trajectory regardless of the new social environment.
+
+*Reasoning: Carlos is at 50% completion with four months remaining. The certification belongs to him, not to any employer, and that fact has become more important as the consolidation has materialized around him. The fleet telematics module is specifically relevant to the commercial fleet sector that will grow fastest as RoboRide expands — which is where his contacts from the cert network are concentrated. He must keep the pace.*
+
+
+**Action 2 — `SIGNAL`**
+
+> Have the real conversation with Elena that he committed to at tick 9 but has been framing too lightly. Carlos tells her the full picture: he is tier-one in the consolidation, which means his position is likely secure for this phase. The technicians from the closed location have now been transferred to his floor. Some of them are people he knows and some are people who are scared. The longer-term question — whether this consolidation is a floor or a beginning — is something he cannot answer yet. He tells her where the training is: month seven of ten, 60% by the end of this month, and at completion he has a credential that belongs to him regardless of what Patricia or the consolidation decide. He is not managing what she knows. He is telling her what he actually knows, including the uncertainty.
+
+*Reasoning: Carlos identified in his tick 9 reflection that not telling Elena the full picture is 'a version of protection that is also a version of lying.' The transferred technicians are now visible on the floor — Elena will see or hear about this regardless. Carlos telling her directly, and honestly, preserves the relationship's integrity and gives her the ability to plan alongside him rather than around managed information. He has 3 dependents. Elena is one of the structural supports of this household and she cannot play that role without real information.*
+
+
+**Action 3 — `ASSOCIATION`**
+
+> Make contact with Angela Wright. Carlos has noted in his tick 9 reflection that his relationship with Angela is at 0.40 trust — 'not close enough for the kind of real information I would want access to right now.' The consolidation has now materialized. Angela ran the transition intake for the closed location. She knows who transferred to Carlos's floor and what the restructuring decisions were based on. Carlos reaches out to her directly — not as a professional contact looking for intelligence, but as a community member: 'I know you have been running the transition program for the staff from the closed location. Some of those people are now on my floor. I want to make sure I am being useful to them as they settle in. Is there anything you would want a senior technician to know about what they are navigating?' This is a genuine outreach, not a fishing expedition. But it also builds the relationship that Carlos identified as underdeveloped.
+
+*Reasoning: Angela Wright has been identified since tick 6 as a relationship Carlos needs to deepen. The consolidation has created a natural, non-transactional reason to reach out. The transferred technicians are real people whose transitions Angela managed — Carlos asking how to be a good senior colleague to them is honest and appropriate. It also advances the relationship past 0.40 trust toward the level where real professional intelligence can flow in both directions.*
+
+
+**Action 4 — `SIGNAL`**
+
+> Follow up with Sarah Kim on the contacts Carlos shared at tick 11 — the two regional fleet maintenance contacts and the EV dealership that is actively staffing certified technicians. Carlos checks in with Sarah directly: has she made contact yet? Not to monitor her, but to offer to make a warm introduction if she wants one rather than cold-calling. Carlos knows these contacts. A warm introduction from him changes the nature of that first call. He also shares one piece of current intelligence with her: the fleet telematics module he is working through in the EVT Level 2 program maps directly to what fleet operators hire for, and if she wants to see the curriculum outline before her cert finishes, he will share it.
+
+*Reasoning: Carlos gave Sarah the contacts at tick 11 as a deliberate act of honesty and support. The contacts have value only if they are used. Checking in serves two purposes: it keeps the relationship honest and reciprocal, and it ensures the contacts Carlos invested time building through his certification network actually result in an outcome for someone. Carlos's identity shift — from 'mechanic hoping to be kept' to 'person the organization is actively accounting for' — includes being the senior technician who actually passes things forward.*
 
 
 
 #### mechanic_sarah  ·  `mechanic_sarah`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **purposeful and slightly ahead of herself in a good way — the cert is at 52% and the final assessment is within sight. Carlos gave her real contacts. Zoe Martinez reached out as a peer and engaged the infrastructure frame honestly. The shop has new faces from the closed location and the emotional climate is different. Sarah is not destabilized by any of this. She is orienting toward what comes next.** · Archetype: ?*
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `TRANSFORMATION`**
+
+> Complete the final major module of EVT Level 1 — integrated vehicle systems and end-to-end diagnostic workflows — and begin preparing for the certification assessment. The integrated systems module is the synthesis section: hardware, software, charging infrastructure, and battery management converging into the full diagnostic workflow that fleet operators test for in hiring. Sarah logs at least 10 study hours this tick, focusing on the assessment preparation materials once the module content is complete. Her goal entering tick 13 is to be ready to sit the final assessment. At 65-70% completion after tick 10 and now pushing through the final module, the credential is no longer a future orientation — it is a near-term deliverable. She does not ease up in the final stretch.
+
+*Reasoning: Sarah is within one module and a final assessment of completing Level 1. The certification gives her portable credentials regardless of what happens at the shop. With the consolidation having transferred technicians to the floor and the shop's employment picture uncertain beyond the near term, finishing the cert before any further disruption is the single highest-priority action she can take for her own trajectory.*
+
+
+**Action 2 — `EXCHANGE`**
+
+> Act on the contacts Carlos gave her at tick 11. Sarah makes contact with at least one of the two regional fleet maintenance operators Carlos named — by phone, not email, using Carlos's name as context for the introduction. Her script is simple and honest: she is completing EVT Level 1 certification with a projected finish date of next month, she has a computer diagnostics background that covers the software-layer diagnostics fleet operators test for, and she is beginning to map opportunities in the fleet maintenance sector. She is not calling to apply for a job. She is calling to understand what the role actually looks like in practice and what they look for in a certified technician. She asks two questions: what does a typical day involve, and at what point in the certification process should someone in her position be having this conversation?
+
+*Reasoning: Carlos gave Sarah the contacts as a real act of support and she identified in her tick 9 reflection that she had been 'so focused on the cert that I have let my broader network go quiet.' The cert is now in its final stretch — this is exactly the right moment to make contact, because she can cite a specific, credible completion timeline. Calling now rather than after the cert means she arrives at the credential with a warm relationship already started.*
+
+
+**Action 3 — `ASSOCIATION`**
+
+> Deepen the exchange with Zoe Martinez that started from the tick 9 check-in. Sarah has seen Zoe's response in the word-of-mouth — Zoe engaged the infrastructure frame honestly and acknowledged that bike last-mile delivery and EV technicians are adjacent parts of the same new ecosystem RoboRide is building. Sarah sends Zoe a brief, direct message: she acknowledges the frame Zoe named, confirms she expects to complete Level 1 certification within the next two months, and asks Zoe one specific question: in the delivery partner registration process, did RoboRide ask anything about vehicle maintenance or service infrastructure? Sarah is genuinely curious — not extracting intelligence, but testing whether the operational knowledge she is building has any direct application to the delivery infrastructure Zoe is entering.
+
+*Reasoning: Sarah's tick 9 reflection identified her broader network going quiet as a regret. Zoe is someone navigating an adjacent part of the same transition — the RoboRide ecosystem from the delivery side versus the maintenance side. Keeping this relationship active is low-cost and potentially high-value. If RoboRide builds regional maintenance infrastructure, the people who are inside the delivery partner network will know about it first.*
+
+
+**Action 4 — `SIGNAL`**
+
+> Have a direct, brief conversation with one of the transferred technicians now on the shop floor — not to probe for information, but to welcome them genuinely. The consolidation transferred real people from a closed location to Sarah's floor. Some of them are scared and in a new environment. Sarah identifies someone who looks uncertain or isolated and introduces herself plainly: 'I've been here three years. I know where everything is and how the shift schedule works. If anything is unclear, ask me.' She does not perform institutional knowledge or senior-rank authority. She is just present and available. This costs her nothing and it is the right human response to someone navigating an involuntary transfer.
+
+*Reasoning: Sarah's tick 9 adaptation notes explicitly named staying human while adapting as a value she wants to model. The consolidation brought new colleagues to her floor through no choice of their own. Being present to them in a practical, low-ego way is consistent with who Sarah is trying to be — and in a shop where the emotional climate has shifted, a junior technician who is visibly welcoming is noticed by everyone, including Patricia and whoever else is watching the floor dynamics.*
+
+
+**Action 5 — `COMMITMENT`**
+
+> Set a specific post-certification target: by the end of tick 14 (two ticks from now), Sarah will have sent one formal job inquiry to at least one of the three contacts Carlos gave her — the EV dealership or either fleet maintenance operator. She is not applying this tick. She is pre-committing to a specific action with a specific timeline so that completing the cert does not become an endpoint that she celebrates for two ticks before acting on. She writes this down. The inquiry will reference her completed EVT Level 1 credential, her computer diagnostics background, and the fleet telematics context she is gaining through the Carlos network.
+
+*Reasoning: Sarah's tick 6 reflection identified 'the cert gives me credentials; what I do with them is a separate question I have not fully sat with yet' as a gap. She sat with it for three more ticks before acting in tick 9. She is not repeating that delay. Pre-committing now — before the cert is complete — means the application goes out while the credential is new and her energy is high, not after a post-completion lull. The employment rate in Millfield is 50%. Timing the application for the moment the cert arrives, not the month after, is a measurable competitive advantage.*
 
 
 
 #### parking_garage_mgr  ·  `parking_garage_mgr`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **measured patience with a sharpening edge — the Millfield General process is in motion but institutional hiring timelines are outside Denise's control. The garage owner has the memo but has not responded. Two more job applications went out at tick 10. The word-of-mouth confirms Grace Okafor is actively keeping her warm. Denise is doing the right things. The question is whether the timing works before the garage situation forces the issue.** · Archetype: ?*
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `SIGNAL`**
+
+> Follow up on the Millfield General interview process. It has been two ticks since the phone screen and the thank-you note. Denise sends a brief, professional follow-up to the facilities director — one paragraph, no more. She references the conversation specifically, reaffirms her interest in the role, and notes one concrete development that is directly relevant to hospital facilities operations: Millfield's unemployment has reached 50%, which Denise notes typically increases emergency department volume and creates additional demand on facilities and maintenance infrastructure. She is not asking where she stands in the process. She is giving the hiring manager one more signal that she is engaged, informed, and reads the environment. She sends this message at the start of the business week.
+
+*Reasoning: Denise completed the phone screen at tick 9 and sent the thank-you note correctly — discipline in not over-following up is the right instinct. But two ticks of silence without any contact risks being interpreted as diminished interest. A single, substantive follow-up that adds value rather than just checking in is the appropriate next move. The local unemployment signal is concrete, relevant, and demonstrates that Denise thinks about facilities operations in terms of organizational context, not just building maintenance.*
+
+
+**Action 2 — `EXCHANGE`**
+
+> Follow up on the garage transformation memo with the garage owner — a direct, brief request for his response. The memo was submitted at tick 8 with a request for a 20-minute meeting. It has now been four ticks with no recorded response. Denise emails the owner with a two-sentence follow-up: 'I sent you a memo four months ago on conversion options for the facility. The RoboRide delivery expansion is now operational in residential areas and the staging zone opportunity I described is materially closer than it was when I wrote the memo. I would like 20 minutes this week to find out if you want to move forward.' She gives him a clear deadline by proposing two specific meeting times. If he does not respond by end of this tick, she treats the garage conversion path as functionally closed and shifts her primary energy entirely to the external job search.
+
+*Reasoning: Denise framed the garage transformation memo as a first-mover opportunity at tick 8. Four ticks of silence is not ambiguity — it is a signal that she needs to force a response or close the loop. Her tick 9 reflection explicitly warned against letting a non-response from the owner slow the hospital track. The 20-minute meeting ask is a low-commitment ask. If the owner says no or does not respond, Denise has the information she needs to fully commit to the external search without hedging. Clarity is more valuable than an open loop.*
+
+
+**Action 3 — `SIGNAL`**
+
+> Send a brief, warm message to Grace Okafor. Grace has been actively keeping Denise in her network — the tick 11 word-of-mouth includes Grace sending a specific thank-you that references Denise's intelligence about the Millfield General step-down unit expansion. Denise replies with one sentence of gratitude and one piece of forward-leaning update: she confirms she has followed up on the Millfield General process this tick and that she expects to know more about the role's timeline within the next few weeks. She does not ask Grace for anything. She keeps the relationship active and reciprocal — Grace has been a genuine connector in this process and Denise wants her to know her intelligence was acted on.
+
+*Reasoning: Grace Okafor converted from a warm contact to an active job lead conduit — Denise's tick 9 reflection identified her as someone whose referral relationship 'requires maintenance in hard times, not just in active recruitment windows.' Grace has demonstrated this by staying in contact and sharing useful intelligence. Denise maintaining reciprocal warmth is not networking in a transactional sense — it is being a person worth knowing. In a 50% employment market, being a person worth knowing is its own form of job security.*
+
+
+**Action 4 — `EXCHANGE`**
+
+> Submit one new targeted job application to a category Denise has not yet fully pursued: a regional distribution center or last-mile logistics hub that has opened or expanded in response to the RoboRide delivery expansion. Denise searches this week for any logistics operator in the metro area that has added facilities management staff in the last six months — specifically operators that have opened or are operating delivery consolidation or sorting hubs. The cover letter leads with her 24/7 multi-shift operations experience and budget oversight background. She does not mention parking. She specifically notes her familiarity with the RoboRide delivery expansion as a logistics infrastructure context she has been studying from the facilities side.
+
+*Reasoning: Denise submitted applications to logistics warehouse management and municipal facilities at tick 10. The RoboRide delivery expansion is now operational in residential areas, which means delivery infrastructure operators are actively building out. This is a category that postdates her earlier applications and represents a genuinely new opportunity pool. The skills she is selling — operations management, safety compliance, budget oversight, multi-shift staffing — are exactly what a new logistics hub needs. Her direct knowledge of the RoboRide disruption from the parking side is a differentiating context that most applicants do not have.*
+
+
+**Action 5 — `INACTION`**
+
+> Denise does not reduce her personal spending or make any austerity moves this tick. Her savings are at $24,971 and growing at $361/month. Her runway is 7.2 months. The financial picture is stable. She does not make defensive cuts that would signal to herself or her family that the situation has become a crisis — because it has not become a crisis. The job search is methodical and multi-track. The hospital process is live. The garage memo follow-up will produce a clear answer this tick. Austerity in a stable financial situation is not prudence — it is anxiety masquerading as caution, and it would cost Denise the equanimity that has made her transition strategy effective.
+
+*Reasoning: Denise's tick 9 reflection noted savings at $23,888 with stable $361/tick growth and full financial optionality preserved through nine months of visible sector disruption. At tick 12 she is still growing savings month-over-month, employed, with health insurance and no new debt. The correct response to this position is to maintain the strategic patience that has characterized her approach — not to shift into defensive financial posture that would distort her decision-making about the job search.*
 
 
 
 #### parts_store_owner  ·  `parts_store_owner`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **grounded urgency — the RoboRide thread is closed, the path forward is clear, but the monthly burn of $2,780 means every tick without a new revenue channel is real money gone** · Archetype: ?*
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `TRANSFORMATION`**
+
+> Execute the RoboRide channel closure fully. The seven-tick outreach to RoboRide fleet operations produced no trial order and no response. Howard formally closes that file this week: updates his inventory log to remove the $1,800 in reserved brake consumables and sensors from 'RoboRide allocation' status and moves them to active inventory available for Carlos Ruiz and Sarah Kim. He calls Carlos directly to say the reserved EV-capable inventory is now fully available and asks what Carlos needs for the next 30 days — brake pads, rotor sets, hybrid battery diagnostic connectors, high-voltage insulated gloves. This is not a new outreach; it is the reallocation action he planned at tick 11. The goal is a confirmed purchase order from Carlos within the week.
+
+*Reasoning: The RoboRide channel has been burning time and holding inventory since tick 4. Closing it and redirecting the $1,800 in reserved stock to the Carlos/Sarah accounts is the highest-leverage single action Howard can take this tick. Carlos is a proven relationship with recurring EV work. A purchase order from him this week directly reduces the monthly deficit.*
+
+
+**Action 2 — `ASSOCIATION`**
+
+> Call Angela Wright at Wright Workforce Advisory LLC this week to formalize the placement partnership they agreed to in principle at tick 11. Howard comes to the call with a written one-page role description: part-time counter person, 20-25 hours per week, must have prior automotive parts knowledge (dealership parts counter, service advisor, or shop experience counts), $15-17/hour depending on experience, immediate start available. He asks Angela two questions: (1) what is the intake timeline for displaced Hawkins workers — when does she expect the first candidates to be ready for placement, and (2) is there a referral structure she prefers, or does she want Howard to serve purely as a reference client for the LLC? He is not passive on this call. He is formalizing a business arrangement that could solve a staffing need within 60 days.
+
+*Reasoning: Angela's LLC is positioned to process the wave of displaced automotive workers from the Hawkins closure. Howard has needed a part-time counter person for multiple ticks. The partnership was agreed in principle — this call converts the principle into an operational agreement with a specific job description in Angela's hands.*
+
+
+**Action 3 — `ASSOCIATION`**
+
+> Complete the follow-up call with Mark Thompson that has been deferred for multiple ticks. Howard calls Mark, acknowledges the delay directly, and asks what the school board said about the Auto Tech Pipeline curriculum. He confirms the standing educator discount on EV and hybrid consumables in writing — a short email summary after the call listing the specific SKU categories covered and the discount percentage. He also asks Mark the staffing question: does he know any graduates or parents in his network who might want part-time counter work at an automotive parts store? Mark's network is exactly the population Howard wants — people with mechanical knowledge who understand parts terminology and are looking for hours.
+
+*Reasoning: Mark has been trying to reach Howard for multiple ticks and Howard's written statement is already in his board presentation. The relationship cost of further silence is real. The educator discount is low-cost goodwill that keeps Howard's name visible in the vocational education ecosystem. The staffing question is a natural bridge from the professional relationship to a concrete mutual benefit.*
+
+
+**Action 4 — `SIGNAL`**
+
+> Post a simple, direct note in Howard's Parts storefront window and on the store's social media page: 'Local parts supplier — supporting Millfield mechanics and fleet operators since 1997. Now stocking EV and hybrid service lines. Professional accounts welcome.' This is not advertising spend. It is a five-minute action that converts the physical storefront into a passive signal for the B2B customer Howard is now targeting. Mechanics, fleet operators, and anyone looking for a local commercial parts source will see it when they pass the store. Howard has spent eleven ticks on outreach and no ticks on basic signal presence. This corrects that.
+
+*Reasoning: Howard has been doing sophisticated B2B outreach for months but his storefront still reads as a DIY parts shop to passersby. Given the $2,780/month deficit, even one new commercial account that found him through passive visibility is worth the five minutes it takes to update the signage and post to social media.*
+
+
+**Action 5 — `INACTION`**
+
+> Do not begin any new cold outreach channels this tick. The RoboRide channel is formally closed. The municipality channel produced no response after multiple follow-ups. Howard has three active relationship threads moving this tick (Carlos, Angela, Mark) and a fourth passive signal action. Opening a fifth new channel without closing any of the existing three would repeat the pattern he identified at his tick 9 reflection: good at finding the right moves, slow at closing them. This tick is execution on existing threads only.
+
+*Reasoning: Howard's tick 9 reflection explicitly named this failure mode. The discipline to not open new channels while existing ones are in motion is the thing he committed to and the thing that is hardest for a proactive business owner to maintain. Monthly burn of $2,780 makes the cost of distraction concrete.*
 
 
 
 #### real_estate_agent  ·  `real_estate_agent`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **focused and quietly urgent — eleven ticks of positioning and analysis need to convert to signed agreements; the economic environment continues deteriorating and every week without a listing is value leaving the table** · Archetype: ?*
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `EXCHANGE`**
+
+> Secure the meeting with Rick Tanner's office about the Hawkins dealership disposition. Stephanie made first contact at tick 10 and reaffirmed at tick 11. This tick she calls Rick directly — not his assistant, not email — and gets a date on the calendar for a 15-minute conversation. She brings to that meeting: the updated auto row market brief she recalibrated at tick 11 (spending index 26, employment 50%, Hawkins as a real comparable), three specific buyer profiles she has researched for the Hawkins footprint (delivery logistics operator seeking highway corridor staging, EV fleet servicing company with regional presence, light industrial conversion developer), and one clear ask: let me run the buyer-side market analysis for the disposition process. She does not ask for the listing on the first call. She earns the relationship by demonstrating she has already done work that no other agent in Millfield has done for this property type.
+
+*Reasoning: The Hawkins dealership is the largest commercial real estate event on auto row this year. Stephanie has been building toward this conversation since tick 0. The economic environment at spending index 26 and 50% employment means the disposition decision timeline is compressed — Rick Tanner is not going to spend six months evaluating agents. The agent who is in the room with the right analysis this week is the agent who gets the listing.*
+
+
+**Action 2 — `ASSOCIATION`**
+
+> Call Betty Kowalski to find out whether the RoboRide partnership terms ever arrived. Stephanie's tick 11 plan was this exact call — she follows through on it. If Betty's RoboRide path closed without written terms (which was Betty's own stated threshold), Stephanie offers to schedule the property valuation conversation this week and comes prepared with current comps adjusted for the spending index at 26, the Hawkins comparable, and the adaptive reuse scenario analysis specific to a diner footprint at Betty's location. If the RoboRide path is still technically open, Stephanie gives Betty honest data: auto row property values at spending index 26 are 15-20% below where they were at tick 8 when she last had a valuation figure. The window to transact at a price reflecting the property's history is compressing monthly.
+
+*Reasoning: Betty Kowalski is Stephanie's highest-trust relationship on auto row with a 0.57 trust score. The diner is a legitimate listing candidate and Betty has been inching toward a decision for multiple ticks. The economic deterioration since tick 8 (spending index dropped from 42 to 26) makes the cost of waiting measurable and nameable. Stephanie owes Betty current data, not the stale numbers from four ticks ago.*
+
+
+**Action 3 — `COMMITMENT`**
+
+> Follow up with Amir Patel to confirm the $350 valuation fee from the tick 8 site visit and to check where he stands on the four-path scenario analysis. Stephanie called him at tick 10 with the invoice and the direct question about which path he was leaning toward. This is the follow-through tick. If Amir has made a decision to pursue the adaptive reuse sale, Stephanie confirms she wants the listing and proposes signing a listing agreement this week. If he is still undecided, she updates him on one fact that changes the calculus: the Hawkins dealership is now formally in the disposition process, which means a highway-corridor comparable transaction will be setting price expectations for his parcel within the next two to three months. Moving before that comparable sets the market is an option; moving after it is not.
+
+*Reasoning: Amir has received more analysis time and attention from Stephanie than any other client. The valuation fee of $350 is outstanding from tick 8. The scenario analysis delivered a clear four-path framework. If he is not ready to decide after nine ticks of relationship-building and a full site visit, Stephanie needs to know that now rather than continue holding the relationship in an advisory limbo that generates no commission.*
+
+
+**Action 4 — `SIGNAL`**
+
+> Publish a brief LinkedIn update citing the Hawkins dealership closure as a marker of the auto row transition Stephanie documented in her tick 1 market brief. The post is professional and data-grounded: 'Eleven months ago I published a brief on what RoboRide's Millfield expansion would mean for auto-adjacent commercial property. The Hawkins consolidation is consistent with that analysis. If you own commercial property on or near auto row, current conditions create a specific decision window. Happy to share the updated data.' Two sentences of analysis, one call to action, zero catastrophizing. This is not a pitch — it is a professional signal that positions Stephanie as the agent who called this correctly and is still the most informed voice in the market.
+
+*Reasoning: Stephanie published the tick 1 market brief and has been building analytical credibility for eleven ticks. The Hawkins closure is the most concrete validation of that analysis. A single LinkedIn post at this moment costs ten minutes and creates a passive inbound signal for auto row property owners who are now actively thinking about their situation but don't yet know who to call.*
 
 
 
 #### retiree  ·  `retiree`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **purposeful and attentive — the workshop series has launched, the community relationships are deepening, and Dorothy is watching carefully for what she might be missing given her own high normalcy bias** · Archetype: ?*
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `COMMITMENT`**
+
+> Deliver the second session of the 'Economic Transition for Older Adults' workshop series at the Millfield Community Center. The curriculum for session two was drafted at tick 11: financial communication with adult children during economic uncertainty. Dorothy arrives 20 minutes early to set up, brings updated printed materials including a revised version of the community resource list that incorporates the Financial Triage Navigator, and facilitates with the same structure she used in session one — 40 minutes of structured content followed by 20 minutes of open participant sharing. She pays particular attention to what participants are most anxious about, what questions she did not anticipate, and whether any of the 60+ adults in the room are caring for someone else (a spouse, a sibling) in addition to managing their own transition. That secondary caregiver layer is often invisible in programmatic responses.
+
+*Reasoning: The workshop series exists and is running. Session two follows session one. Dorothy's strength is sustained, quality execution — not impulsive generosity but systematic follow-through. The session two topic (financial communication with adult children) is the one she expects will generate the most emotional disclosure from participants, and she prepares accordingly.*
+
+
+**Action 2 — `EXCHANGE`**
+
+> Visit Betty's Diner again this week. If Betty accepted Dorothy's workshop invitation at tick 11, Dorothy confirms the logistics of the session Betty will attend — date, time, what to expect, how long it runs. If Betty declined, Dorothy simply patronizes the diner as usual: orders the usual, tips generously, and treats the relationship as its own complete thing rather than a pipeline to the workshop. If Betty has news about the RoboRide partnership situation — the tick 11 deadline she set for written terms — Dorothy listens without offering analysis she does not have. She is not a real estate expert and she knows it. She can offer attention and the acknowledgment that whatever Betty decides is a real decision made under real pressure, and that is not nothing.
+
+*Reasoning: The Betty relationship is now in its fifth tick of consistent engagement. Consistency is the actual offering here — not resources, not expertise, but the simple fact of showing up regularly to a small business that needs customers. At spending index 26 and 50% employment in Millfield, Betty's diner needs people who come back more than it needs advice.*
+
+
+**Action 3 — `SIGNAL`**
+
+> Reach out to Robert Jackson this week as planned since tick 11. Dorothy has been deferring this conversation since her tick 6 reflection named it as a regret. She contacts Robert — by phone or text, his preference — and says the thing she has been meaning to say: that she uses RoboRide regularly, that she knows what that service is doing to his livelihood, that she did not want to be someone who benefits from a displacement and says nothing about it. She does not offer solutions she does not have and she does not perform guilt. She also mentions she has heard he has been handling a hard situation with real composure and that his son is lucky to have a father who models that. One honest, brief conversation. If Robert wants to talk further, she is available. If not, she has done the thing she owed him.
+
+*Reasoning: Dorothy named this as a regret at tick 6, deferred it to tick 11, and the tick 11 memory shows she planned the conversation but tick_011 outcomes recorded routine. She has now deferred this for six ticks. The longer she waits, the more the asymmetry between her settled situation and Robert's uncertainty grows, and the harder the honest conversation becomes. It is a five-minute call that closes a long-open moral loop.*
+
+
+**Action 4 — `TRANSFORMATION`**
+
+> Conduct the monthly 'what am I not noticing' self-check that her own tick 6 reflection prescribed. With a normalcy bias of 0.79 — the highest in her profile — Dorothy deliberately sets aside 30 minutes this week to look for signals she might be filtering out. She reads the Millfield community bulletin board notices for the past two weeks, scans the community center's intake patterns for any demographic shifts in who is coming in, and asks Lisa Freeman one open question: what is the thing you are seeing most in the past month that we have not built a response to yet? This is not a research project. It is a 30-minute discipline to counteract the specific cognitive tendency she knows she has.
+
+*Reasoning: Dorothy's tick 6 reflection was unusually self-aware about her normalcy bias: 'I should deliberately ask, once a month, what I am not noticing.' Tick 12 is the second month she has the workshop series running. This is the moment to do the check. It costs 30 minutes and produces either useful signal or the reassuring confirmation that her current activities are appropriately calibrated.*
 
 
 
 #### rideshare_driver  ·  `rideshare_driver`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **strained and realistic — the NEMT conversion timeline has stretched beyond what Robert projected, the employment change has not happened yet, and he is holding the bridge income while reassessing whether the employer pipeline is viable or whether a lateral pivot is needed** · Archetype: ?*
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `COMMITMENT`**
+
+> Make one final, definitive contact to each of the three NEMT employer pipeline targets — Millfield Medical Transport, CareRide of the Valley, and St. Clement's patient transport coordinator. The call to each is brief and explicit: 'I am Robert Jackson. I have a NEMT certification, a clean driving record, and full availability. I have called before. I am calling one final time to ask directly: do you have an opening for a credentialed NEMT driver, and if yes, can I start this week? If no, can you tell me whether you anticipate openings in the next 30 days?' Robert will not call these numbers again after this tick. Three calls, one tick, definitive response or definitive closure. If any operator expresses interest, he accepts on the spot.
+
+*Reasoning: Robert has been in the NEMT employer pipeline since tick 8 with no offer after multiple rounds of outreach. The tick 11 plan called for decision-week framing and still produced routine outcomes. At some point sustained outreach to non-responding employers is not persistence — it is substituting activity for intelligence. This is the final call. After this tick, the answer is known.*
+
+
+**Action 2 — `TRANSFORMATION`**
+
+> If none of the three NEMT operators has responded with an offer after this tick's final calls, Robert immediately pivots to researching two alternative paths. Path one: independent NEMT operator. Robert checks what it would take to operate as a sole proprietor NEMT driver — specifically the licensing requirements in the state, the Medicaid enrollment timeline for individual providers, and whether his current vehicle meets NEMT safety standards. He is already certified. The question is whether he can bypass the employer step and bill Medicaid directly. He calls the state Medicaid office or the state transportation broker (usually a managed care organization) to ask the question directly. Path two: dialysis transport contracts. Dialysis transport is a subset of NEMT with consistent, predictable demand — three rides per week per patient, same locations, same times. He identifies the two dialysis centers in the Millfield area and calls each to ask whether they manage their own patient transport contracts or route through a broker.
+
+*Reasoning: The NEMT sector is structurally sound — Robert's tick 9 reflection confirmed that aging and dialysis are not discretionary. But the specific employer pipeline he has been working for four ticks may not have openings, may have filled internally, or may have a hiring freeze. The credential is real and portable. If the employer route is not opening, the independent contractor route and the direct dialysis contract route are both viable alternatives that he has not yet explored.*
+
+
+**Action 3 — `EXCHANGE`**
+
+> Call the Millfield workforce development office to resolve the Maria Santos retraining grant status. Robert applied at tick 2 — that is ten ticks ago, approximately ten months. The call is brief: name, application date, question. Was the application funded or denied? If funded, what is the disbursement process? If denied, why and is there an appeal window? This question has been in Robert's tick 9 reflection as a named regret and in his tick 11 action plan. He has deferred it for two ticks. He makes the call this week before any other action.
+
+*Reasoning: This is a one-call, ten-minute action that resolves a $2,500 ambiguity Robert has been carrying for ten months. At his current savings of approximately $11,644, $2,500 represents more than six weeks of buffer. Leaving this unresolved is not caution — it is procrastination on an item with a known resolution mechanism.*
+
+
+**Action 4 — `SIGNAL`**
+
+> Have a direct, honest conversation with Marcus about the timeline. Not the adult weight of the financial specifics, but the shape of the situation: Robert tells Marcus that the job change he has been working toward is taking longer than he expected, that the work he did to get certified was the right work, and that they are going to be okay — but 'okay' means they keep being careful with money for a few more months. He also tells Marcus one positive thing that is true: Robert figured out what kind of work he wants to do next, and he is close to making it happen. The conversation is five minutes. Marcus is twelve. He can hold a five-minute honest update without needing a full accounting of the financial situation.
+
+*Reasoning: Robert's tick 9 reflection named the Marcus communication as a success — he told Marcus the shape of the situation in age-appropriate terms at tick 8. At tick 12, five months into the transition, Marcus has probably noticed that the job change Robert mentioned has not happened yet. An age-appropriate update maintains the trust Robert built in that earlier conversation and models the behavior Robert wants Marcus to internalize: when things take longer than expected, you say so and you keep working.*
 
 
 
 #### salesperson_jake  ·  `salesperson_jake`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **high-stress and action-oriented — with savings near zero and a monthly deficit of $463, Jake is operating in true triage mode; every action this tick is load-bearing** · Archetype: ?*
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `EXCHANGE`**
+
+> Work the floor every available hour this week with the RoboRide comparison pitch. Target walk-ins who are contractors, tradespeople, nurses, parents with multi-destination logistics, or anyone whose mobility pattern is incompatible with an 8-minute wait time robotaxi. Jake runs the math out loud with every qualified prospect: a contractor driving 28,000 miles per year across job sites cannot replace that with RoboRide at $0.12/mile plus wait time and no cargo capacity. A home health aide doing four client stops per shift cannot use a robotaxi. Jake knows this pitch cold. He closes one vehicle this month. One commission check at approximately $5,500 is the difference between functional runway and collapse. He does not leave the floor early, does not take long lunches, and does not spend floor time on anything that is not a prospect.
+
+*Reasoning: Jake's savings are effectively at zero and his monthly expenses of $5,134 against income of $1,294 means he is drawing down fast. A single commission check extends his runway by more than a month. The RoboRide comparison pitch is his best close mechanism in a market where general demand is soft — it works because it identifies the specific buyer segment that robotaxis cannot serve. This is not strategy. This is survival.*
+
+
+**Action 2 — `SIGNAL`**
+
+> Call Rick Tanner directly — by phone, not email — to state interest in the service advisor or fleet-account relationship role inside the restructured organization. Jake says plainly: 'Rick, I know you have the org chart in front of you. I want the role that needs someone who can sell relationships. That's what I do and you know it. I want to be in that conversation before it closes.' He does not ask for confirmation of anything. He does not ask which location is closing. He puts his name in the conversation for the role he identified at tick 9 and lets Rick respond with whatever he has. Rick's trust score of 0.73 means he will be honest about whether this conversation can actually matter. Jake listens to what Rick says and calibrates from there.
+
+*Reasoning: Jake planned this call at tick 11 and tick 10 before that. The Rick call for the lateral role is Lane B of his three-lane map and it is the most time-sensitive lane — org charts get finalized and then they are final. With savings at zero, Lane B is not a preference. It is a necessity. Not making this call is not caution. It is the same deferral pattern Jake named as a regret at tick 9.*
+
+
+**Action 3 — `TRANSFORMATION`**
+
+> Apply for the Maria Santos retraining grant — $2,500 — this week. Jake attended Maria's public input session at tick 2, took notes, and understands the eligibility criteria. He qualifies. He has been watching others apply and holding the grant as a conceptual Lane C element without actually submitting the paperwork. At his current financial position, $2,500 is not a contingency buffer — it is approximately five weeks of runway. He fills out the application, submits it, and marks it done. He also makes the one call to a retraining program enrollee he planned at tick 11: asks a single question — what does the credential actually lead to in this market, specifically what employers are hiring and at what wage, not what the brochure says.
+
+*Reasoning: Jake's tick 6 reflection named not applying for the grant sooner as a regret and every subsequent reflection has included Lane C research as a pending action that keeps getting deferred. His financial position at tick 12 makes deferral irrational. Five weeks of runway buys time. Conversations with actual enrollees take 15 minutes and produce real intelligence. Both actions are free or near-free and both have been sitting undone for too many ticks.*
+
+
+**Action 4 — `COMMITMENT`**
+
+> Have a brief, honest financial conversation with his partner or closest trusted adult about where things actually stand. Not a detailed accounting session — a five-sentence honest update. Jake has two kids, Emma and Tyler, and he has been carrying the full weight of the financial picture alone while maintaining the external presentation of a man with a plan. The plan is real. The triage is also real. The person who shares his household needs to know both. Jake commits to having this conversation before the end of the week — not to transfer the anxiety, but because carrying it alone is costing him psychological bandwidth he cannot afford when every other action this tick requires clear decision-making.
+
+*Reasoning: Jake's profile shows he has been managing the external presentation of stability while internally cycling. At $463/month deficit with savings near zero, the financial situation is past the point where one person can manage it alone without it degrading decision quality. The conversation does not require a solution. It requires shared situational awareness. A person who has been told the truth can help in ways a person who has been protected from the truth cannot.*
 
 
 
 #### salesperson_tamika  ·  `salesperson_tamika`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **tight and purposeful — zero savings with a $3,177/month burn rate and two clients totaling $650/month means I am in a hole, not on a runway. No grief, no spiral. Just the arithmetic of what needs to happen this month.** · Archetype: ?*
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `COMMITMENT`**
+
+> Confirm the restaurant pilot is fully active and formalize November deliverables in writing. If the verbal yes from tick 10 was not converted to a signed agreement, send the one-page agreement today — subject line: 'Agreement for 60-day pilot — please sign and return.' Do not let the arrangement float as an informal understanding. A signed $300/month agreement is a receivable. An informal understanding is not.
+
+*Reasoning: At $0 savings and $3,177/month expenses, every dollar of confirmed income matters. The restaurant pilot has been in various stages of 'almost closed' since tick 8. This tick it becomes a signed commitment or I redirect that time to a new prospect. Ambiguity is a luxury I cannot afford.*
+
+
+**Action 2 — `EXCHANGE`**
+
+> Reach out to Angela Wright directly — not as a former colleague checking in, but as a peer who is now a freelance consultant specializing in local business social media. Angela is building her own business and will be in constant contact with displaced workers starting businesses who will need marketing. Ask her plainly: 'Do you know anyone in your network who is building something new and struggling with their social presence? I am doing this full-time now and I have two clients. A warm referral from you converts faster than ten cold messages.' This is the highest-leverage relationship move available to me this tick.
+
+*Reasoning: Angela's transition from dealership HR to her own business puts her in exactly the right position to refer clients. One warm referral from a trusted peer closes faster than a month of cold outreach. The relationship survived the exit intact and she has visibility into the displaced-worker ecosystem I am now targeting.*
+
+
+**Action 3 — `SIGNAL`**
+
+> Post one piece of original content on LinkedIn and Instagram under my personal brand this week. Topic: 'What local businesses in Millfield are missing right now — and it is not what you think.' Frame the post around the RoboRide-driven shift in foot traffic patterns: people moving through residential areas without stopping at gas stations means lunch spots and service businesses that are humanly visible on social media capture attention that used to happen incidentally. Include one concrete example from the HVAC client's account — engagement is up, even in a down market. This is not marketing. It is proof of concept made public.
+
+*Reasoning: I have been operating invisibly as a freelancer. Two clients and real results need to be visible to the market I am trying to serve. One strong post with a specific, localized insight costs me two hours and creates inbound credibility I cannot generate through cold outreach alone.*
+
+
+**Action 4 — `EXCHANGE`**
+
+> Identify and reach out to two new outreach targets from the RoboRide delivery ecosystem — specifically businesses that are adapting to the new foot traffic patterns. Targets: one restaurant or coffee shop that is not yet running social media actively, and one delivery-adjacent business (pharmacy, specialty grocery, local goods shop) that has not yet figured out how to reach the new residential-movement customer base. Message structure same as tick 2: one specific observation about their current presence, one question, one sentence about what I do. No deck, no portfolio link until they reply.
+
+*Reasoning: I need a third client at $300-350/month to reach the $1,050 threshold where I stop burning savings and start building. The HVAC client and the restaurant pilot are not enough. Two new outreach contacts this tick means potential closes in ticks 13 and 14, before savings runway becomes critical. The RoboRide delivery ecosystem is the correct targeting lens — these businesses are actively trying to figure out how to reach customers who are moving differently.*
+
+
+**Action 5 — `INACTION`**
+
+> Do not reduce the HVAC client's retainer scope or offer a discount even though the economic environment is soft. Deliver the full two social posts per week and one short-form video this month at full quality. The three-month minimum commitment is in place. The relationship is the foundation of the business. Protecting client quality is protecting the only income I have.
+
+*Reasoning: At $0 savings it is tempting to cut corners on existing clients to free up time for new client acquisition. That is the wrong trade. The HVAC client is my proof of concept, my only confirmed income, and the foundation of every testimonial and referral I will ever generate. I deliver what I committed to deliver, at the standard I committed to deliver it.*
 
 
 
 #### single_parent  ·  `single_parent`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **controlled alarm — $3,990 in savings against $4,630/month expenses is less than one month of runway with two kids depending on me. The calm I have held through eleven ticks is still there but it has a hard edge to it now. This is not background anxiety. This is a real number.** · Archetype: ?*
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `COMMITMENT`**
+
+> Contact the Millfield General staffing office and my charge nurse this week — not a casual check-in, a direct conversation about returning to the floor. State clearly that I am available for shifts immediately. Ask specifically whether the transitional care unit or the post-acute step-down unit — the two units identified as expanding in tick 8 intelligence — have open shifts or a rehire pathway. If the status change at tick 9 was a reduction-in-force rather than a termination, confirm whether recall rights apply and what the timeline is. I need a definitive answer on my rehire status before the next paycheck cycle.
+
+*Reasoning: Savings at $3,990 with $4,630/month expenses means I have less than one month before I cannot cover rent and the kids' expenses. My nursing skills are at 0.9 relevance. The disruption that hit automotive workers has not hit healthcare the same way. I am unemployed by system recording but my credential is intact and the units I have intelligence on are still expanding. Getting back on the floor is the fastest path to income stability and the only one that fully protects my family.*
+
+
+**Action 2 — `SIGNAL`**
+
+> Text Grace Okafor this week. She enrolled in NEMT certification on the framing I gave her and she is on a late-winter application timeline for the spring transitional care cohort at Millfield General. Tell her: the spring cohort hiring window is opening and her NEMT certification paired with the clinical context framing I described should be in front of the hiring manager now, not at the last minute. Also tell her honestly: my own employment status is in flux right now and I am actively re-engaging with the hospital. If she has heard anything from her network about the current hiring climate at Millfield General, I would genuinely want to know.
+
+*Reasoning: The information exchange with Grace has been genuinely reciprocal and has produced real outcomes. She is closer to the ground-level employment landscape in healthcare entry points than I am right now. A direct, honest ask for current intelligence costs me nothing and may surface information I need. And giving her the timing nudge she needs is the right thing to do regardless — she has acted on everything I have told her.*
+
+
+**Action 3 — `EXCHANGE`**
+
+> Identify one additional near-term income option that does not conflict with nursing rehire: specifically, whether per-diem or agency nursing shifts through a staffing agency are available in Millfield this week. Per-diem RN shifts typically pay $45-65/hour and can be booked without a formal reemployment process. Contact one agency — Millfield Staffing Solutions or equivalent — and confirm availability and current pay rates for floor nursing coverage. If per-diem is available, accept shifts immediately even while the Millfield General direct rehire conversation is in progress.
+
+*Reasoning: I cannot wait for the Millfield General bureaucratic process to complete while savings drain at $4,630/month. Per-diem nursing is the fastest possible income activation for someone with my credential and experience. Even two per-diem shifts at $52/hour generates $832 — enough to meaningfully extend runway while the direct rehire path resolves.*
+
+
+**Action 4 — `INACTION`**
+
+> Do not touch the emergency savings buffer beyond essential expenses this month. Do not make any non-essential purchases. The discretionary spending discipline that began at tick 4 — no dinners out, no deferred household purchases — continues and deepens. Every dollar that stays in savings this tick is runway.
+
+*Reasoning: Two dependents. $3,990 remaining. Less than one month of runway. This is not the moment for any spending that is not food, shelter, childcare, or car payment. The car stays — I need it for hospital shifts the moment I am back on the floor. Everything else waits.*
 
 
 
 #### truck_owner  ·  `truck_owner`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **steady but not comfortable — the bid pipeline audit from tick 10 gave me a clear number and I did not like it. Eight months of runway at current burn is real but it is not permanent. Three dependents and a $2,527 mortgage mean I need active income, not just savings.** · Archetype: ?*
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `EXCHANGE`**
+
+> Follow up with Lisa Freeman on the two repair bids that have been in limbo since tick 7. This is not another check-in — this is a direct ask for a decision. Call Lisa, not email. Say plainly: 'I need to know if either of those property owners is moving forward. If the answer is no, I need to know now so I can fill my calendar with other work. If there is a hold-up I can help solve, tell me what it is.' Also ask the community center question again, more directly: 'Does the center have any deferred maintenance work that needs doing before the end of the year — roof, drainage, foundation, HVAC? I have open weeks and I will sharpen my pencil for a nonprofit rate.'
+
+*Reasoning: Lisa has been a warm contact since tick 4 and I have been treating her as a referral channel rather than closing the loop. The two bids she connected me to have been floating for five ticks. A direct call forces a decision one way or the other, which is better than continued ambiguity. The community center direct-client angle is the move I should have made in tick 9.*
+
+
+**Action 2 — `EXCHANGE`**
+
+> Submit two new bids this tick, targeting work that is need-driven rather than luxury-driven. First target: drainage and foundation waterproofing for residential properties — this is the category of work that does not get deferred the way garage additions do. Water in the basement gets fixed regardless of economic sentiment. Second target: roofing repair for one or two properties I identify through my existing network — Carlos the mechanic or others who have visibility into properties with deferred maintenance. Price competitively, not at discount, but make clear I can start within two weeks.
+
+*Reasoning: The tick 6 lesson was clear: the market for discretionary additions (like the Henderson garage) collapses in a scared economy. The market for essential repairs does not collapse the same way. Roofs still leak. Basements still flood. I need to be in front of that work before other contractors get there first.*
+
+
+**Action 3 — `ASSOCIATION`**
+
+> Reach out to Carlos the mechanic directly — not just as a contact in the network, but as a potential source of referrals for repair work. People who bring their cars to Carlos have properties. People with failing cars in a disrupted transportation economy may be making decisions about their properties too — selling, renting, deferring maintenance, or finally fixing what has been waiting. Ask Carlos plainly: 'Do you know anyone who needs construction work done? I am active, I have open weeks, and I am looking for the right jobs. If you send me something that closes, I will take care of you.' A referral relationship with Carlos is low-cost to maintain and potentially high-yield.
+
+*Reasoning: Carlos appeared in my tick 4 outreach as a professional network contact. I have not converted that relationship into anything concrete. At 8.3 months of runway I have time to build the right pipeline — but building it requires activating the relationships I already have, not just acknowledging they exist.*
+
+
+**Action 4 — `INACTION`**
+
+> Do not adjust the health insurance coverage enrolled at tick 8. The $1,400/month premium hurts and contributes to the $4,681/month burn rate. But I am 50 years old doing physical labor with three dependents. The coverage stays. This is a fixed cost and I am not second-guessing it.
+
+*Reasoning: The decision at tick 8 was hard and correct. Revisiting it under financial pressure is the kind of short-term thinking that creates catastrophic exposure. A single hospital visit without coverage at my age and with my physical job could cost more than a year of premiums. The $38,729 in savings is the buffer for exactly this kind of period. I do not panic-cancel the insurance.*
 
 
 
 #### uber_driver_2  ·  `uber_driver_2`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **zero savings, zero income, NEMT certification in hand and two operator calls made at tick 10 — the next 30 days are the difference between this plan working and a different kind of crisis entirely. Tense but still moving.** · Archetype: ?*
+
+
+**Chosen Actions (4):**
+
+**Action 1 — `COMMITMENT`**
+
+> Follow up directly with Millfield Medical Transport and CareRide of the Valley on the calls made at tick 10. If either operator responded positively, confirm the start date and complete any outstanding onboarding paperwork this week. If I have not received a response, call again — not email, call — and make the ask a single clear question: 'I have my NEMT certification, a clean record, and I am available to start this week. Do you have an onboarding slot or can you tell me the timeline?' One of these two operators needs to become active income within the next two weeks. A 'no' from both means I call the next operator on the list immediately.
+
+*Reasoning: At $0 savings and $1,787/month expenses I have no runway. The NEMT certification was the correct investment and the calls at tick 10 were the correct move. What I cannot do is let those calls sit unanswered while savings stay at zero. Every week without NEMT income is a week closer to a crisis I cannot recover from. Urgency is the only posture available to me.*
+
+
+**Action 2 — `EXCHANGE`**
+
+> Text Robert Jackson this week with a direct, specific ask: 'I called both operators you named — Millfield Medical Transport and CareRide. Any sense of their onboarding timeline or who I should be talking to directly? I need to place within weeks, not months.' Robert gave me the operator names from his direct experience. He may also have a contact name inside those organizations — a hiring manager, a dispatcher, someone specific — that would convert a cold follow-up call into a warm one. One name changes the entire interaction. In exchange, give him the most current intelligence I have from Nicole Washington's floor observations about Millfield General admission patterns — that is information he may be building toward.
+
+*Reasoning: Robert has been the most actionable network contact in my trajectory since tick 4. His operator intelligence led directly to the tick 10 calls. A specific ask about internal contacts costs nothing and may produce exactly what I need to accelerate onboarding. The exchange is still genuinely mutual — I have hospital floor intelligence from Nicole that has value to him.*
+
+
+**Action 3 — `EXCHANGE`**
+
+> Continue rideshare driving this week — morning airport windows and any active surge blocks. Target at least $400-500 in rideshare income this tick. RoboRide has compressed demand but has not eliminated it. The queue is shorter, the fare mix is worse, but drivers who are in the app during surge windows still earn. At zero savings, partial income from rideshare is not a backup plan — it is what keeps me in the game while NEMT placement finalizes.
+
+*Reasoning: NEMT onboarding has a lag even if an operator says yes today. Rideshare income bridges that gap. I cannot stop driving while I wait for NEMT to activate. Even $400 this month extends runway and prevents the kind of desperation that leads to bad decisions.*
+
+
+**Action 4 — `SIGNAL`**
+
+> Send a brief message to Nicole Washington — not a direct ask, but a genuine check-in that also surfaces the current situation clearly. Something like: 'I have my NEMT cert and I have been in contact with Millfield Medical Transport and CareRide. If either placement comes through I will be making medical transport runs in Millfield — possibly to Millfield General. Thought you should know given our conversations. How are things on your end?' Nicole is trust level 0.49 and she has been a difficult contact to activate. A natural, honest update rather than another formal ask may be the framing that finally produces a response.
+
+*Reasoning: Nicole has hospital floor access, knowledge of Millfield General's staffing patterns, and a role security situation that is now publicly in flux. A genuine update about my NEMT placement progress is both honest and strategically sound — it reminds her that we have a real basis for exchange and may prompt the response that has been slow to arrive since my first outreach at tick 5.*
 
 
 
 #### young_gig_worker  ·  `young_gig_worker`
 
-*Emotion: **?** · Archetype: ?*
+*Emotion: **flat exhaustion with a thread of determination running through it — zero savings for several ticks now, the Coursera cert is at 32% and the freelance pivot has been 'about to close' since tick 9. This is the month something has to actually convert or the math becomes unsurvivable.** · Archetype: ?*
+
+
+**Chosen Actions (5):**
+
+**Action 1 — `COMMITMENT`**
+
+> Follow up with Betty Kowalski's diner on the pitch made at tick 10. Walk back in this week — not a call, not a message, in person during a non-rush window. Ask directly: 'Did you have a chance to think about the social media offer? I am ready to start this week at $120/month. One post a day, warm and community-focused, built for the current moment in Millfield.' If Betty says she is still undecided, offer one free week as proof — not as a discount, as a demonstration. If she says no, walk to the next business on auto row the same day without stopping to process it. A no from Betty is not a verdict on the strategy. It is a redirect.
+
+*Reasoning: This pitch has been active since tick 9. Every tick of delay at $0 savings is a tick closer to a crisis I cannot reverse. Betty is the warmest lead in the freelance pipeline — she is in the inbox, she is stressed and adapting, and she is attended by community organizers who know my work. If she is going to say yes, she needs a reason to decide now, not later.*
+
+
+**Action 2 — `EXCHANGE`**
+
+> Contact Miguel directly this tick — not to give information, to ask for a referral. Tell him plainly: 'I have been pitching local businesses on social media management at $120/month. I am at zero savings and I need my first paying client this month. Do you know anyone through the community center network who is trying to maintain a social presence and cannot keep up with it? Even one name from you converts faster than ten cold messages.' Miguel has reached out to me twice. That means the relationship is real and it can absorb a direct ask without damaging it.
+
+*Reasoning: I have been treating Miguel as an intelligence exchange partner but not as a referral source. He has visibility into small businesses and community organizations in Millfield that are actively trying to navigate the downturn. One warm referral from him is worth more than three cold walk-ins. The relationship is strong enough to make a direct ask.*
+
+
+**Action 3 — `TRANSFORMATION`**
+
+> Complete the next two modules of the Google Digital Marketing and E-commerce Certificate this month. The cert is at 32% — accelerating toward 40% keeps the credential on track and makes the portfolio case stronger with every week. Do not pause the cert to focus entirely on client pitching. The cert is the medium-term floor that changes what I can charge and where I can apply. Keep it moving even when everything else feels urgent.
+
+*Reasoning: The cert is 32% done. That represents real invested time and money that Lisa's micro-grant helped protect. Pausing now to focus only on client pitching means losing momentum on the credential that will eventually let me charge more than $120/month and apply for actual digital marketing roles. The two-hour-a-week investment keeps it alive without crowding out client work.*
+
+
+**Action 4 — `SIGNAL`**
+
+> Post one piece of content on TikTok or Instagram this week — something specific and local. Topic: a before-and-after concept showing what a Millfield small business's social media presence could look like with a human voice versus without one. Use publicly visible examples, no names. Show the contrast between businesses that went dark on social after the spending downturn and ones that stayed warm and visible. End with a direct statement: 'I help local businesses in Millfield do the second thing. $120/month. DM me.' This is not the tick-1 TikTok about car-free living. This is an actual lead generation post.
+
+*Reasoning: I have been pitching in person and by walk-in but I have not used the social media skill that is my actual product to generate visible inbound interest. One targeted post costs me two hours and may produce inquiries from businesses I have not reached through direct outreach. At zero savings, any inbound lead is better than none.*
+
+
+**Action 5 — `INACTION`**
+
+> Do not apply for new gig platform accounts or increase DoorDash/Instacart hours beyond what is already active. Adding more hours to platforms that are not covering expenses is not a solution — it is a way of feeling busy while the actual problem (zero freelance income) goes unsolved. Hold the current gig floor, pursue the freelance close, and do not let gig work expansion become an excuse not to close clients.
+
+*Reasoning: The lesson from tick 5 is that maxing out gig platforms did not solve the savings problem — it only reduced the speed of decline. The gig floor keeps the lights on at the margin. The freelance close is what changes the math. I protect the gig hours I have and focus the additional energy on Betty Kowalski and the Miguel referral ask.*
 
 
 

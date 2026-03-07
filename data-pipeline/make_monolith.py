@@ -46,6 +46,8 @@ def hr():  return "\n\n---\n"
 def code(text, lang=""):
     return f"\n```{lang}\n{text}\n```\n"
 def blockquote(text):
+    if not isinstance(text, str):
+        text = j(text) if isinstance(text, (dict, list)) else str(text)
     lines = text.strip().splitlines()
     return "\n" + "\n".join(f"> {l}" for l in lines) + "\n"
 
@@ -373,6 +375,141 @@ def build_agent_profiles(lines):
         lines.append(hr())
 
 
+def extract_action_universal(action: dict, aid: str):
+    """
+    Universal action extractor — handles every schema variant found in the sim.
+
+    Returns: (name, emotion, archetype, monologue, assessment, chosen_actions_list, econ)
+
+    Known schemas:
+      Standard:   {agent_name, response:{chosen_actions, inner_monologue, internal_assessment, emotional_state}, economic_effects}
+      TypeA:      {agent_name, current_state_summary, threat_assessment, hierarchy_priority, chosen_actions, emotional_state, ...}
+      TypeB:      {agent_id, psychological_state, chosen_actions, internal_monologue}  (tick 7 some agents)
+      TypeC:      {emotional_state, primary_action, secondary_actions/secondary_action, internal_state}
+      TypeD:      {action_type, description, targets/target_agents, emotional_state}  (tick 7 some)
+      TypeE:      {emotional_state, reasoning, primary_action, ...}  (tick 9 bank_manager)
+      TypeF:      {hierarchy_level, emotional_state, archetype, actions:[...]}  (tick 11)
+      TypeG:      {emotional_state, actions:[...]}  (tick 12)
+      TypeH:      {action_type, primary_action, secondary_action, ...}  (tick 6 various)
+    """
+    name = action.get("agent_name", action.get("agent_id", aid))
+    econ = action.get("economic_effects", {})
+    archetype = "?"
+
+    # ── Standard schema (has "response" wrapper) ────────────────────────────
+    if "response" in action:
+        resp = action["response"]
+        emotion   = resp.get("emotional_state", action.get("emotional_state", "?"))
+        archetype = resp.get("archetype_self_assessment", "?")
+        monologue = resp.get("inner_monologue", "")
+        assessment = resp.get("internal_assessment", "")
+        chosen    = resp.get("chosen_actions", [])
+        return name, emotion, archetype, monologue, assessment, chosen, econ
+
+    # ── TypeF/G — {actions: [...], emotional_state} ─────────────────────────
+    if "actions" in action and isinstance(action["actions"], list):
+        emotion   = action.get("emotional_state", "?")
+        archetype = action.get("archetype", "?")
+        monologue = action.get("internal_monologue", action.get("inner_monologue", ""))
+        assessment = action.get("reasoning", action.get("internal_state", ""))
+        # hierarchy_level note
+        hl = action.get("hierarchy_level", "")
+        if hl:
+            assessment = (f"[Hierarchy: {hl}] " + assessment).strip()
+        chosen = action["actions"]
+        return name, emotion, archetype, monologue, assessment, chosen, econ
+
+    # ── TypeB — {psychological_state, chosen_actions, internal_monologue} ───
+    if "chosen_actions" in action:
+        ps = action.get("psychological_state", {})
+        emotion   = ps.get("sentiment", action.get("emotional_state", "?"))
+        monologue = action.get("internal_monologue", action.get("inner_monologue", ""))
+        assessment = str(ps) if ps else ""
+        chosen = action["chosen_actions"]
+        return name, emotion, archetype, monologue, assessment, chosen, econ
+
+    # ── TypeA — {current_state_summary, threat_assessment, hierarchy_priority} ──
+    if "current_state_summary" in action:
+        emotion    = action.get("emotional_state", "?")
+        css        = action.get("current_state_summary", {})
+        ta         = action.get("threat_assessment", {})
+        hp         = action.get("hierarchy_priority", {})
+        assessment = (
+            f"State: {j(css, 0)[:400]}\n"
+            f"Threat: {j(ta, 0)[:400]}\n"
+            f"Priority: {j(hp, 0)[:300]}"
+        )
+        # Chosen actions in various sub-keys
+        raw_chosen = (action.get("chosen_actions") or
+                      action.get("actions") or
+                      action.get("decisions") or [])
+        # Some TypeA files have action text under different keys
+        if not raw_chosen:
+            raw_chosen = []
+            for k in ["primary_action", "secondary_action", "action", "description"]:
+                if action.get(k):
+                    raw_chosen.append(action[k])
+        monologue  = action.get("inner_monologue", action.get("internal_monologue", ""))
+        return name, emotion, archetype, monologue, assessment, raw_chosen, econ
+
+    # ── TypeC — {primary_action, secondary_actions/secondary_action} ─────────
+    if "primary_action" in action:
+        emotion   = action.get("emotional_state", "?")
+        monologue = action.get("internal_state",
+                    action.get("inner_monologue",
+                    action.get("internal_monologue", "")))
+        assessment = action.get("reasoning", action.get("rationale", ""))
+        chosen = []
+        pa = action.get("primary_action")
+        if pa:
+            chosen.append(pa)
+        for k in ["secondary_action", "secondary_actions", "tertiary_action",
+                  "financial_action", "financial_decision", "resource_allocation"]:
+            v = action.get(k)
+            if v:
+                if isinstance(v, list):
+                    chosen.extend(v)
+                else:
+                    chosen.append(v)
+        return name, emotion, archetype, monologue, assessment, chosen, econ
+
+    # ── TypeD — {action_type, description, targets} ──────────────────────────
+    if "action_type" in action or "description" in action:
+        emotion   = action.get("emotional_state", "?")
+        monologue = action.get("internal_monologue", action.get("inner_monologue", ""))
+        assessment = action.get("rationale", action.get("reasoning", ""))
+        desc = action.get("description", "")
+        atype = action.get("action_type", "action")
+        targets = action.get("targets", action.get("target_agents", []))
+        chosen = [{
+            "type": atype,
+            "description": desc,
+            "target_agent": ", ".join(str(t) if not isinstance(t, dict) else t.get("agent_id", str(t)) for t in targets) if isinstance(targets, list) else str(targets),
+        }]
+        # Also grab any extra sub-actions
+        for k in ["secondary_action", "financial_action"]:
+            v = action.get(k)
+            if v:
+                chosen.append(v if isinstance(v, dict) else {"type": k, "description": str(v)})
+        return name, emotion, archetype, monologue, assessment, chosen, econ
+
+    # ── TypeE — {reasoning, primary_action} (tick 9 bank_manager) ───────────
+    if "reasoning" in action:
+        emotion    = action.get("emotional_state", "?")
+        monologue  = action.get("inner_monologue", "")
+        assessment = action.get("reasoning", "")
+        pa = action.get("primary_action")
+        chosen = [pa] if pa else []
+        return name, emotion, archetype, monologue, assessment, chosen, econ
+
+    # ── Fallback — dump everything as raw JSON so nothing is lost ────────────
+    emotion = action.get("emotional_state", "?")
+    monologue = ""
+    assessment = f"[Raw — schema unrecognized]\n{j(action)[:2000]}"
+    chosen = []
+    return name, emotion, archetype, monologue, assessment, chosen, econ
+
+
 def build_tick_record(lines):
     lines.append(h1("PART III — TICK-BY-TICK RECORD"))
     lines.append("> *Every month, fully documented. Inner lives, decisions, outcomes, transactions.*\n")
@@ -506,6 +643,7 @@ def build_tick_record(lines):
             lines.append(f"\n*(No market state data for tick {tick} — missing simulation file)*\n")
 
         # Bulletin
+        MISSING_BULLETINS = {7, 12}
         bulletin_path = WORLD / f"bulletin_{ts}.json"
         bulletin = load(bulletin_path)
         if bulletin:
@@ -517,6 +655,11 @@ def build_tick_record(lines):
                 desc = ev.get("description","")
                 lines.append(f"\n**[{etype.upper()}]** `{src}` *(visibility: {vis})*\n")
                 lines.append(blockquote(desc))
+        elif tick in MISSING_BULLETINS:
+            lines.append(h3("Community Bulletin Board"))
+            lines.append(f"\n> **Known gap:** The world bulletin for tick {tick} "
+                         f"was not generated by the observer agent during this sim run. "
+                         f"Individual agent actions still took place (see Agent Actions above).\n")
 
         # Building health
         tick_bstates = building_ticks.get(str(tick), {})
@@ -556,14 +699,9 @@ def build_tick_record(lines):
                         lines.append(f"\n- {act[:600]}")
                 continue
 
-            resp = action.get("response", {})
-            name = action.get("agent_name", aid)
-            emotion = resp.get("emotional_state", "?")
-            archetype = resp.get("archetype_self_assessment", "?")
-            monologue = resp.get("inner_monologue", "")
-            assessment = resp.get("internal_assessment", "")
-            chosen = resp.get("chosen_actions", [])
-            econ = action.get("economic_effects", {})
+            # Universal schema extractor — handles 7+ different sim formats
+            name, emotion, archetype, monologue, assessment, chosen, econ = \
+                extract_action_universal(action, aid)
 
             lines.append(h4(f"{name}  ·  `{aid}`"))
             lines.append(f"*Emotion: **{emotion}** · Archetype: {archetype}*\n")
@@ -579,14 +717,19 @@ def build_tick_record(lines):
             if chosen:
                 lines.append(f"\n**Chosen Actions ({len(chosen)}):**")
                 for i, act in enumerate(chosen, 1):
-                    atype = act.get("type", "?")
-                    desc  = act.get("description", "")
-                    target = act.get("target_agent")
-                    res   = act.get("resources_involved", "")
-                    reason = act.get("reasoning", "")
+                    if isinstance(act, str):
+                        lines.append(f"\n**Action {i}**")
+                        lines.append(blockquote(act))
+                        continue
+                    atype  = act.get("type", act.get("action_type", "?"))
+                    desc   = act.get("description", act.get("summary", act.get("action", "")))
+                    target = act.get("target_agent", act.get("to_agent"))
+                    res    = act.get("resources_involved", "")
+                    reason = act.get("reasoning", act.get("rationale", ""))
                     lines.append(f"\n**Action {i} — `{atype}`**"
                                  + (f" → `{target}`" if target else ""))
-                    lines.append(blockquote(desc))
+                    if desc:
+                        lines.append(blockquote(str(desc)))
                     if res:
                         lines.append(f"*Resources: {res}*\n")
                     if reason:
@@ -646,7 +789,12 @@ def build_tick_record(lines):
                                  f"employment: {snap.get('employment_status','?')}*\n")
 
         if not any_outcomes:
-            lines.append(f"\n*(No outcome files for tick {tick} — check sim run logs)*\n")
+            if tick == 7:
+                lines.append(f"\n> **Known gap:** Tick 7 outcome files were never generated "
+                             f"(`post_tick.sh` was not run for this month). Actions exist "
+                             f"but economic consequences were not computed by the sim engine.\n")
+            else:
+                lines.append(f"\n*(No outcome files for tick {tick} — check sim run logs)*\n")
 
         # ── Transactions ──────────────────────────────────────────────────
         lines.append(h3(f"Transactions — Tick {tick:02d}"))
@@ -658,6 +806,8 @@ def build_tick_record(lines):
                 if td:
                     txns_found.append(td)
 
+        # Ticks with no transaction files (structurally absent from sim)
+        NO_TXN_TICKS = {0,1,2,3,7,9}  # ticks where sim never generated txn files
         if txns_found:
             lines.append(f"*{len(txns_found)} agent transaction files this tick.*\n")
             for td in txns_found:
@@ -683,6 +833,11 @@ def build_tick_record(lines):
                     if exp:
                         exp_str = j(exp) if not isinstance(exp, str) else exp
                         lines.append(f"    *Expected: {exp_str[:300]}*")
+        elif tick in NO_TXN_TICKS:
+            lines.append(f"\n> **Known gap:** Transaction files were not generated "
+                         f"for tick {tick} by the sim engine (early ticks used a different "
+                         f"run format). Bilateral exchanges happened but were not recorded "
+                         f"in the transactions ledger.\n")
         else:
             lines.append(f"\n*(No resolved transaction files for tick {tick})*\n")
 
