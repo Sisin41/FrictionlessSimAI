@@ -535,13 +535,12 @@ AGENT_SECTOR = {
     "car_wash_worker": "service",
 }
 
-# Priority agents for each bulletin event type (ordered: highest news value first)
-_POLICY_AGENTS   = {"council_member", "ceo_regional_auto", "community_organizer", "bank_manager", "loan_officer"}
-_PROTEST_AGENTS  = {"council_member", "community_organizer", "insurance_manager",
-                    "parking_garage_mgr", "young_gig_worker", "rideshare_driver",
-                    "salesperson_jake", "salesperson_tamika", "truck_owner"}
-_LAYOFF_AGENTS   = {"ceo_regional_auto", "dealership_gm", "hr_director",
-                    "council_member", "insurance_manager", "real_estate_agent"}
+# Priority agents for each bulletin event type — only agents who PERFORM the event
+# (not just agents who mention it in passing)
+_POLICY_AGENTS   = {"council_member", "loan_officer"}          # only actual policy actors
+_PROTEST_AGENTS  = {"council_member", "community_organizer",   # only protest organizers
+                    "young_gig_worker", "rideshare_driver"}
+_LAYOFF_AGENTS   = {"ceo_regional_auto", "dealership_gm", "hr_director"}  # only actors causing/managing layoffs
 _CLOSURE_AGENTS  = {"diner_owner", "gas_station_owner", "dealership_gm",
                     "ceo_regional_auto", "parts_store_owner", "mechanic_carlos",
                     "driving_instructor"}
@@ -582,9 +581,86 @@ def synthesize_bulletin(tick: int) -> list:
     Scans all 30 agent action files, identifies community-visible events, and returns
     bulletin entries in the same {type, source_agent, sector, visibility, description}
     format as world/bulletin_tick_NNN.json events.
+
+    Strategy: search ONLY within action narrative text (not economic_effects JSON keys,
+    which contain field names like "protest": false that cause false positives).
+    Each agent gets one event per type max; event description uses the specific
+    action text most relevant to that event type, not just the first action.
     """
-    candidates: list[dict] = []
-    seen_keys: set = set()
+    def ev(etype, aid, sector, desc):
+        return {"type": etype, "source_agent": aid, "sector": sector,
+                "visibility": "local_news", "description": desc}
+
+    def action_text(action: dict, aid: str) -> str:
+        """Extract only narrative/description text, excluding economic_effects keys."""
+        parts = []
+        # Top-level description strings
+        for key in ("description", "internal_assessment", "strategic_intent",
+                    "contingencies", "resource_cost"):
+            v = action.get(key)
+            if isinstance(v, str):
+                parts.append(v)
+        # From response wrapper
+        resp = action.get("response", {})
+        if isinstance(resp, dict):
+            for key in ("internal_assessment", "inner_monologue", "chosen_actions"):
+                v = resp.get(key)
+                if isinstance(v, str):
+                    parts.append(v)
+                elif isinstance(v, list):
+                    for item in v:
+                        if isinstance(item, str):
+                            parts.append(item)
+                        elif isinstance(item, dict):
+                            parts.append(item.get("description", ""))
+        # psychological_state fields
+        ps = action.get("psychological_state", {})
+        if isinstance(ps, dict):
+            parts.append(str(ps.get("sentiment", "")))
+        # chosen_actions
+        for act in (action.get("chosen_actions") or action.get("actions") or []):
+            if isinstance(act, str):
+                parts.append(act)
+            elif isinstance(act, dict):
+                parts.append(act.get("description", ""))
+                parts.append(act.get("rationale", ""))
+        # primary/secondary actions
+        for key in ("primary_action", "secondary_action"):
+            v = action.get(key)
+            if isinstance(v, str):
+                parts.append(v)
+            elif isinstance(v, dict):
+                parts.append(v.get("description", ""))
+        return " ".join(p for p in parts if p).lower()
+
+    def best_desc(action: dict, aid: str, kw_priority: list[str], max_len: int = 550) -> str:
+        """Find the action description most relevant to a keyword list."""
+        _, _, _, monologue, assessment, chosen, _ = extract_action_universal(action, aid)
+        candidates_desc = []
+        # Collect all description strings with priority scores
+        for act in (chosen or []):
+            d = ""
+            if isinstance(act, str):
+                d = act if len(act) > 60 else ""   # skip short key-like strings
+            elif isinstance(act, dict):
+                d = act.get("description", act.get("summary", act.get("action", "")))
+            if d:
+                score = sum(1 for kw in kw_priority if kw in str(d).lower())
+                candidates_desc.append((score, str(d)))
+        # Also consider top-level description
+        top = action.get("description", "")
+        if isinstance(top, dict):
+            top = top.get("description", str(top))
+        if top:
+            score = sum(1 for kw in kw_priority if kw in str(top).lower())
+            candidates_desc.append((score, str(top)))
+        if candidates_desc:
+            candidates_desc.sort(key=lambda x: -x[0])
+            return candidates_desc[0][1][:max_len]
+        return _extract_primary_desc(action, aid, max_len)
+
+    results = []
+    seen = set()
 
     for adir in agent_dirs():
         aid = adir.name
@@ -597,78 +673,95 @@ def synthesize_bulletin(tick: int) -> list:
         if not action:
             continue
 
-        text = json.dumps(action).lower()
-        desc = _extract_primary_desc(action, aid)
+        # IMPORTANT: search only narrative text, not full JSON (avoids "protest": false hits)
+        txt = action_text(action, aid)
 
-        def add(etype: str, esector: str, label: str):
+        def add(etype, esector, desc_text):
             key = (etype, aid)
-            if key not in seen_keys:
-                seen_keys.add(key)
-                candidates.append({
-                    "type": etype,
-                    "source_agent": aid,
-                    "sector": esector,
-                    "visibility": "local_news",
-                    "description": f"{label}: {aname} — {desc}",
-                })
+            if key not in seen:
+                seen.add(key)
+                results.append(ev(etype, aid, esector, desc_text))
 
-        # POLICY — council motions, grant thresholds, ordinances
-        policy_kws = ["council motion", "grant threshold", "ordinance", "policy proposal",
-                      "licensing framework", "impact fee", "compliance", "workforce fund"]
-        if aid in _POLICY_AGENTS and any(kw in text for kw in policy_kws):
-            add("policy", "policy", "Policy proposal")
+        # ── POLICY: actual policy actions (motions, proposals, compliance) ──
+        policy_action_kws = ["bring the council motion", "draft the motion",
+                             "council vote", "ordinance", "workforce fund",
+                             "impact fee", "licensing framework", "grant threshold",
+                             "stabilization grant", "policy proposal", "economic resilience framework"]
+        if aid in _POLICY_AGENTS and any(kw in txt for kw in policy_action_kws):
+            d = best_desc(action, aid, policy_action_kws)
+            add("policy", "policy", f"Policy proposal: {aname} — {d}")
 
-        # PROTEST — active demonstrations
-        protest_kws = ["protest", "rally", "demonstration", "march", "picket",
-                       "community action", "community organizing"]
-        if aid in _PROTEST_AGENTS and any(kw in text for kw in protest_kws):
-            add("protest", "community", "Community action")
+        # ── PROTEST: agents who are ORGANIZING or LEADING protests ──
+        # Only fire if the agent's OWN action verb shows protest leadership
+        protest_action_kws = ["organize a protest", "lead the rally", "planning a rally",
+                              "organizing the demonstration", "march on", "picket",
+                              "call for a protest", "demand accountability"]
+        # Also accept: insurance_manager who explicitly has protest=true in economic_effects
+        econ = action.get("economic_effects", {})
+        if isinstance(econ, dict) and econ.get("protest") is True:
+            d = best_desc(action, aid, ["protest"])
+            add("protest", "community", f"Community action: {aname} — {d}")
+        elif aid in _PROTEST_AGENTS and any(kw in txt for kw in protest_action_kws):
+            d = best_desc(action, aid, protest_action_kws)
+            add("protest", "community", f"Community action: {aname} — {d}")
 
-        # LAYOFF — workforce displacement events
-        layoff_kws = ["laid off", "position eliminated", "workforce reduction",
-                      "separation", "displaced worker", "downsiz", "termination",
-                      "workers i laid off", "people i let go", "staffing decisions"]
-        if aid in _LAYOFF_AGENTS and any(kw in text for kw in layoff_kws):
-            add("layoff", sector, f"{aname} — workforce displacement")
+        # ── LAYOFF: agent is actively laying off or managing separated workers ──
+        layoff_action_kws = ["people whose positions were eliminated",
+                             "workers i laid off", "workers who were separated",
+                             "people i let go", "positions i eliminated",
+                             "workforce i reduced", "layoff notification",
+                             "formal separation", "employment termination notice",
+                             "cross-reference the workers who were separated",
+                             "cross-reference the people i laid off",
+                             "separated employees",   # hr_director action 4
+                             "workers who departed",  # hr_director action 2
+                             "calls to separated",    # hr_director personal calls
+                             "people i laid off",     # ceo action text
+                             "person whose position", # ceo/dealership GM texts
+                             ]
+        if aid in _LAYOFF_AGENTS and any(kw in txt for kw in layoff_action_kws):
+            d = best_desc(action, aid, layoff_action_kws)
+            add("layoff", sector, f"{aname} — workforce displacement: {d}")
 
-        # CLOSURE — business at risk or closing
-        closure_kws = ["closing", "shut down", "closure", "bankrupt", "foreclos",
-                       "going under", "wind down", "exit the business", "last month"]
-        # Only flag explicit closures for businesses (not just fear of closing)
-        strong_closure = ["shut down", "closing permanently", "business closing", "bankrupt",
-                          "foreclos", "wind down", "exit the business"]
-        if aid in _CLOSURE_AGENTS and any(kw in text for kw in strong_closure):
-            add("closure", sector, "Business closing")
+        # ── CLOSURE: business is actively closing or pivoting away ──
+        closure_action_kws = ["business is closing", "closing the station",
+                              "execute the roboride", "wind down the dealership",
+                              "sell the property", "list the building",
+                              "close the showroom", "shut down the", "hawkins closure",
+                              "accept the liquidation", "call stephanie morris",
+                              "closing permanently", "final day of operation"]
+        if aid in _CLOSURE_AGENTS and any(kw in txt for kw in closure_action_kws):
+            d = best_desc(action, aid, closure_action_kws)
+            add("closure", sector, f"Business closing: {aname} — {d}")
 
-        # NEW BUSINESS / PROGRAMS — formations and launches
-        newbiz_kws = ["consulting entity", "formal entity", "new organization",
-                      "financial triage navigator", "office hours", "new service",
-                      "bank office hours", "filing", "new program", "retraining program",
-                      "community connection night", "mutual aid"]
-        if aid in _NEWBIZ_AGENTS and any(kw in text for kw in newbiz_kws):
-            add("new_business", "new_economy", "New venture / program")
+        # ── NEW BUSINESS / PROGRAMS ──
+        newbiz_action_kws = ["formaliz", "office hours at the community center",
+                             "bank office hours", "financial triage navigator",
+                             "wright workforce advisory", "consulting entity",
+                             "file that form", "formal entity", "llc",
+                             "new organization", "launch the program",
+                             "community connection night", "mutual aid network"]
+        if aid in _NEWBIZ_AGENTS and any(kw in txt for kw in newbiz_action_kws):
+            d = best_desc(action, aid, newbiz_action_kws)
+            add("new_business", "new_economy", f"New venture / program: {aname} — {d}")
 
-        # RETRAINING — enrollment signals from any agent
-        retraining_kws = ["enroll", "retraining", "community college", "coursework",
-                          "certification program", "workforce development"]
-        if any(kw in text for kw in retraining_kws):
-            # Only add as trend, deduplicate heavily
+        # ── RETRAINING trend (deduplicated, one entry per tick) ──
+        retraining_kws = ["enrolled in retraining", "community college enrollment",
+                          "retraining enrollment", "enrolled this month",
+                          "three.*enrolled", "certification program"]
+        if any(kw in txt for kw in retraining_kws):
             trend_key = ("trend_retraining", tick)
-            if trend_key not in seen_keys:
-                seen_keys.add(trend_key)
-                candidates.append({
-                    "type": "trend",
-                    "source_agent": "",
-                    "sector": "education",
-                    "visibility": "local_news",
-                    "description": "Retraining enrollment activity reported across multiple agents this tick.",
-                })
+            if trend_key not in seen:
+                seen.add(trend_key)
+                results.append(ev("trend", "", "education",
+                                  "Retraining / workforce development enrollment activity "
+                                  "confirmed across multiple agents this tick."))
 
-    # Sort: policy first, then layoff, protest, closure, new_business, trend
-    ORDER = {"policy": 0, "layoff": 1, "protest": 2, "closure": 3,
-             "new_business": 4, "trend": 5}
-    candidates.sort(key=lambda e: ORDER.get(e["type"], 9))
-    return candidates
+    # Sort: policy, layoff, closure, new_business, protest, trend
+    ORDER = {"policy": 0, "layoff": 1, "closure": 2, "new_business": 3,
+             "protest": 4, "trend": 5}
+    results.sort(key=lambda e: ORDER.get(e["type"], 9))
+    return results
 
 
 def extract_targeted_txns(tick: int) -> list:
