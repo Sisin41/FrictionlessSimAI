@@ -632,13 +632,36 @@ def build_tick_record(lines):
                 lines.append(h4("Policy Proposals Active"))
                 for p in policy:
                     lines.append(blockquote(p[:600]))
-        elif ts_data:
-            lines.append(f"\n*Market data interpolated from phenomena timeseries:*\n")
-            lines.append(f"Employment rate: {ts_data.get('employment_rate','—')} · "
-                         f"Spending index: {ts_data.get('spending_index','—')} · "
-                         f"Gini: {ts_data.get('gini','—')} · "
-                         f"Protests: {ts_data.get('protests','—')} · "
-                         f"RoboTaxi rate: {ts_data.get('robotaxi_rate','—')}\n")
+        elif ts_data or tick in {7, 12}:
+            # RECOVERY: interpolate market state for ticks 7 and 12 (obs dirs missing)
+            # Use bracketing ticks from obs market state files + viz timeseries
+            prev_t = max([t for t in range(tick) if (OBS / f"tick_{t:03d}" / "market_state.json").exists()], default=None)
+            next_t = min([t for t in range(tick+1, 15) if (OBS / f"tick_{t:03d}" / "market_state.json").exists()], default=None)
+            prev_ms = load(OBS / f"tick_{prev_t:03d}" / "market_state.json") if prev_t is not None else {}
+            next_ms = load(OBS / f"tick_{next_t:03d}" / "market_state.json") if next_t is not None else {}
+
+            def interp_val(key, sub):
+                pv = (prev_ms.get(sub,{}) or {}).get(key)
+                nv = (next_ms.get(sub,{}) or {}).get(key)
+                if isinstance(pv, (int,float)) and isinstance(nv, (int,float)):
+                    frac = (tick - (prev_t or tick)) / max(1, (next_t or tick+1) - (prev_t or tick))
+                    return round(pv + (nv - pv) * frac, 1)
+                return ts_data.get(key, "—")
+
+            lines.append(h3("World Market State"))
+            lines.append(f"\n> *Reconstructed / interpolated between tick {prev_t} and tick {next_t} "
+                         f"(obs directory not generated for tick {tick}).*\n")
+            lines.append(f"""
+| Metric | Value (interpolated) |
+|--------|----------------------|
+| Employment rate | {interp_val('employment_rate','employment') or ts_data.get('employment_rate','—')} |
+| Spending index | {interp_val('spending_index','spending') or ts_data.get('spending_index','—')} |
+| Car ownership rate | {interp_val('ownership_rate','car_ownership') or ts_data.get('car_ownership_rate','—')} |
+| RoboTaxi adoption rate | {ts_data.get('robotaxi_rate','—')} |
+| Gini coefficient | {ts_data.get('gini','—')} |
+| Protests | {ts_data.get('protests','—')} |
+| Retraining enrollments | {ts_data.get('retraining_enrollments','—')} |
+""")
         else:
             lines.append(f"\n*(No market state data for tick {tick} — missing simulation file)*\n")
 
@@ -790,9 +813,28 @@ def build_tick_record(lines):
 
         if not any_outcomes:
             if tick == 7:
-                lines.append(f"\n> **Known gap:** Tick 7 outcome files were never generated "
-                             f"(`post_tick.sh` was not run for this month). Actions exist "
-                             f"but economic consequences were not computed by the sim engine.\n")
+                # RECOVERY: reconstruct tick 7 outcomes from viz-data derived history
+                lines.append(h4("Tick 7 Outcomes — Reconstructed from Derived History"))
+                lines.append("> *No outcome files exist. The following is reconstructed from the "
+                             "data-pipeline's derived per-tick history (savings/stress interpolated "
+                             "between tick 6 and tick 8 actual values).*\n")
+                lines.append("| Agent | Name | Savings Δ | End Savings | Stress | Employment |")
+                lines.append("|-------|------|-----------|-------------|--------|------------|")
+                for adir2 in agent_dirs():
+                    aid2 = adir2.name
+                    va = viz_agents.get(aid2)
+                    if not va: continue
+                    h6 = va.get("history",{}).get("6",{})
+                    h7 = va.get("history",{}).get("7",{})
+                    if not h7: continue
+                    s6 = h6.get("savings",0) or 0
+                    s7 = h7.get("savings",0) or 0
+                    delta = s7 - s6
+                    stress = h7.get("stress","?")
+                    emp = h7.get("employment_status","?")
+                    sign = "+" if delta >= 0 else ""
+                    lines.append(f"| `{aid2}` | {va.get('name',aid2)} | "
+                                 f"{sign}${delta:,} | ${s7:,} | {stress} | {emp} |")
             else:
                 lines.append(f"\n*(No outcome files for tick {tick} — check sim run logs)*\n")
 
@@ -808,6 +850,47 @@ def build_tick_record(lines):
 
         # Ticks with no transaction files (structurally absent from sim)
         NO_TXN_TICKS = {0,1,2,3,7,9}  # ticks where sim never generated txn files
+        # RECOVERY: for early ticks 0-3, extract bilateral interactions from obs_summary
+        # The obs/actions_summary.json records all agent actions — targeted interactions
+        # are the de facto transaction record for ticks without a formal ledger
+        if not txns_found and tick in {0,1,2,3} and obs_summary:
+            lines.append(h3(f"Bilateral Interactions — Tick {tick:02d}"))
+            lines.append("> *Reconstructed from observations/actions_summary.json. "
+                         "No formal transaction ledger exists for this tick. "
+                         "These are targeted actions between named agents.*\n")
+            # Known agent names → agent_ids mapping for cross-referencing
+            NAME_TO_ID = {
+                "Patricia": "ceo_regional_auto", "Rick": "dealership_gm",
+                "Maria": "council_member", "David": "bank_manager",
+                "Angela": "hr_director", "Kevin": "loan_officer",
+                "Linda": "insurance_manager", "Betty": "diner_owner",
+                "Howard": "parts_store_owner", "Carlos": "mechanic_carlos",
+                "Sarah": "mechanic_sarah", "Frank": "driving_instructor",
+                "Mark": "auto_shop_teacher", "Lisa": "community_organizer",
+                "Dorothy": "retiree", "Robert": "rideshare_driver",
+                "Jake": "salesperson_jake", "Tamika": "salesperson_tamika",
+                "Priya": "insurance_agent_priya", "Tom": "insurance_agent_tom",
+                "Zoe": "young_gig_worker", "Denise": "parking_garage_mgr",
+                "Amir": "gas_station_owner", "Stephanie": "real_estate_agent",
+                "James": "commuter_james", "Rachel": "commuter_rachel",
+            }
+            found_interactions = 0
+            for aid2, data in sorted(obs_summary.items()):
+                aname = data.get("name", aid2)
+                for act in data.get("actions", []):
+                    if not isinstance(act, str): continue
+                    # Find named targets
+                    targets = [n for n in NAME_TO_ID if n in act and
+                               NAME_TO_ID[n] != aid2]  # exclude self-references
+                    if targets:
+                        unique_targets = list(dict.fromkeys(targets))
+                        target_str = " + ".join(f"`{NAME_TO_ID[t]}`" for t in unique_targets[:3])
+                        lines.append(f"\n**{aname}** → {target_str}:")
+                        lines.append(blockquote(act[:400]))
+                        found_interactions += 1
+            if found_interactions == 0:
+                lines.append("*(No targeted bilateral interactions detected)*\n")
+
         if txns_found:
             lines.append(f"*{len(txns_found)} agent transaction files this tick.*\n")
             for td in txns_found:
@@ -834,10 +917,13 @@ def build_tick_record(lines):
                         exp_str = j(exp) if not isinstance(exp, str) else exp
                         lines.append(f"    *Expected: {exp_str[:300]}*")
         elif tick in NO_TXN_TICKS:
-            lines.append(f"\n> **Known gap:** Transaction files were not generated "
-                         f"for tick {tick} by the sim engine (early ticks used a different "
-                         f"run format). Bilateral exchanges happened but were not recorded "
-                         f"in the transactions ledger.\n")
+            if tick in {0, 1, 2, 3}:
+                lines.append(f"\n> *No formal transaction ledger for tick {tick}. "
+                             f"Bilateral interactions reconstructed above from obs/actions_summary.json.*\n")
+            else:
+                lines.append(f"\n> **Known gap:** No transaction ledger for tick {tick}. "
+                             f"Agent actions above describe intended exchanges but no bilateral "
+                             f"records were generated by the sim engine.\n")
         else:
             lines.append(f"\n*(No resolved transaction files for tick {tick})*\n")
 

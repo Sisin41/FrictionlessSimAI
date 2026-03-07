@@ -8744,7 +8744,18 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 ### Transactions — Tick 00
 
 
-> **Known gap:** Transaction files were not generated for tick 0 by the sim engine (early ticks used a different run format). Bilateral exchanges happened but were not recorded in the transactions ledger.
+
+### Bilateral Interactions — Tick 00
+
+> *Reconstructed from observations/actions_summary.json. No formal transaction ledger exists for this tick. These are targeted actions between named agents.*
+
+
+**Jake Morrison** → `ceo_regional_auto`:
+
+> Stay visible and positive with the team — show up early, be the energy in the room. Patricia's dinner last week was a good sign that morale matters here. I want to be seen as a leader on the floor, not someone who's rattled.
+
+
+> *No formal transaction ledger for tick 0. Bilateral interactions reconstructed above from obs/actions_summary.json.*
 
 
 
@@ -10657,7 +10668,93 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 ### Transactions — Tick 01
 
 
-> **Known gap:** Transaction files were not generated for tick 1 by the sim engine (early ticks used a different run format). Bilateral exchanges happened but were not recorded in the transactions ledger.
+
+### Bilateral Interactions — Tick 01
+
+> *Reconstructed from observations/actions_summary.json. No formal transaction ledger exists for this tick. These are targeted actions between named agents.*
+
+
+**David Chen** → `ceo_regional_auto` + `dealership_gm`:
+
+> Call Patricia Osei (CEO of Millfield Chamber — if she's in the simulation, the likely proxy for local business intelligence) and Rick Hernandez (dealership GM) — not to reveal the rumor, but to have routine check-in conversations that let me gauge whether they're hearing anything. Ask open questions about foot traffic, consumer sentiment, financing inquiries. Listen more than I talk. Do not disclo
+
+
+**David Chen** → `loan_officer`:
+
+> Accelerate the commercial and small business lending cross-training. Double my weekly hours from 2 to 4, and specifically pull the bank's internal materials on SBA loan products and small business credit underwriting. I'm also going to have a direct conversation with Kevin — acknowledge that I've seen him pivoting toward mortgage origination, tell him I support it, and ask him to share what he's b
+
+
+**Patricia Hawkins** → `council_member`:
+
+> Attend Maria Santos's economic resilience town hall and be visible, not as a victim, but as a voice. Regional Auto Group employs over 200 people in this county. I have standing at that table. I want to understand what policy responses are being considered, who else is in the room, and whether there are coalition opportunities with other business owners facing the same disruption. I am also gatheri
+
+
+**Lisa Freeman** → `council_member`:
+
+> Contact Maria Santos directly before the emergency council session — not to lobby, but to offer: real intake data from the drop-in hours, anecdotal testimony I can organize, and my center as a potential node in any council-coordinated response infrastructure. Position the community center as operational support for whatever the council decides, not a supplicant. Ask what she needs from me to make
+
+
+**James Patterson** → `auto_shop_teacher`:
+
+> List 2021 Honda Accord for private sale immediately at $19,400 on Facebook Marketplace and Craigslist. Price is set slightly above KBB private party to leave negotiation room. Target close within 3-4 weeks, before RoboRide launch softens used car demand.
+
+
+**James Patterson** → `mechanic_sarah`:
+
+> Sit down with Sarah tonight. Walk her through the full cost-benefit analysis: current car costs, projected RoboRide pricing, bridge plan, and the two-month timeline. Present it as a decision together, not a fait accompli — but come armed with the numbers.
+
+
+**Rick Tanner** → `ceo_regional_auto`:
+
+> Call Patricia Hawkins (CEO) under the framing of a routine post-dinner follow-up — thank her for the gathering, ask if there are any strategic priorities she wants GMs to be watching or preparing for from the floor level. Listen for what she volunteers, what she avoids, and how she sounds.
+
+
+**Rick Tanner** → `loan_officer`:
+
+> Schedule a casual call with Kevin O'Brien at the bank under the pretext of reviewing the dealership's commercial credit line and floor plan financing terms — standard end-of-quarter operational touch. Use the small talk before business to gauge Kevin's read on auto lending conditions and his own career trajectory.
+
+
+**Rick Tanner** → `salesperson_tamika`:
+
+> Run the floor as normal. Full sales meeting Monday morning, standard metrics review, no signals of distress to the team. Watch Tamika Jefferson's behavior closely — observe without confronting. She may be responding to something she's heard or just tightening her own household. Note it.
+
+
+**Amir Patel** → `ceo_regional_auto`:
+
+> Call — not visit, call — the service managers at Kowalski Ford and the Toyota lot. Ask directly: have they heard about RoboRide? What are they seeing in new car sales inquiries? What is Patricia saying at Regional Auto Group? Listen more than I talk. Take notes.
+
+
+**Kevin O'Brien** → `bank_manager`:
+
+> Request a focused 30-minute one-on-one with David Chen — not about the portfolio this time, but about Kevin's role. Frame it clearly: 'I flagged the auto loan decline early, you validated it, and now it's confirmed structural. I want to talk about how I fit into where the bank goes from here. I'm already in mortgage and SBA training. I'd like your support to make that transition formal.' Ask direc
+
+
+**Carlos Ruiz** → `ceo_regional_auto`:
+
+> Attend Patricia's all-hands meeting with full presence and without defensive posturing. Listen for concrete information about the Phase 2 timeline, any company pivot plans, and what leadership knows that workers don't. Take notes. Do not deflect.
+
+
+**Carlos Ruiz** → `young_gig_worker`:
+
+> Find a moment to talk to Zoe — not about DoorDash, not to judge, but to understand. She saw something. She's acting on it. Carlos needs to understand what she knows that he's been refusing to.
+
+
+**Sarah Kim** → `mechanic_carlos`:
+
+> Passively monitor Carlos's demeanor and the shop mood throughout the day without directly asking what is wrong. File it away as a low-grade anxiety signal.
+
+
+**Howard Liu** → `ceo_regional_auto`:
+
+> Pay closer attention to what mechanic customers say when they come in — specifically anything about changes at the fleet management company or shifts in how commercial vehicle maintenance is being handled locally. Don't ask directly; just listen. If the Patricia Hawkins rumor is about anything that affects how local mechanics get work, I want to understand it before it affects my orders.
+
+
+**Jake Morrison** → `ceo_regional_auto`:
+
+> Show up to Patricia's all-hands meeting tomorrow morning. Sit near the front. Listen without the filter of what I want to hear. Actually listen.
+
+
+> *No formal transaction ledger for tick 1. Bilateral interactions reconstructed above from obs/actions_summary.json.*
 
 
 
@@ -12620,7 +12717,213 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 ### Transactions — Tick 02
 
 
-> **Known gap:** Transaction files were not generated for tick 2 by the sim engine (early ticks used a different run format). Bilateral exchanges happened but were not recorded in the transactions ledger.
+
+### Bilateral Interactions — Tick 02
+
+> *Reconstructed from observations/actions_summary.json. No formal transaction ledger exists for this tick. These are targeted actions between named agents.*
+
+
+**Mark Thompson** → `council_member`:
+
+> Contact Councilmember Maria Santos's office directly — email or phone — to introduce the Millfield Auto Tech Pipeline program and ask about eligibility for the $150K workforce transition fund and the community college EV certification partnership track she just passed. Frame the outreach specifically: Millfield High's program could serve as a high school feeder into the community college certifica
+
+
+**David Chen** → `council_member`:
+
+> Send a follow-up communication to Sandra Okafor — not another memo, but a direct request for a 20-minute call this week. Reference the Maria Santos public statement and the RoboRide Phase 2 confirmation as the reason for urgency. Attach an updated scenario model with a third scenario added: 50% decline in auto loan origination over 18 months, reflecting a more aggressive adoption curve. Make clear
+
+
+**David Chen** → `ceo_regional_auto` + `dealership_gm` + `council_member`:
+
+> Call Patricia Hawkins at Regional Auto Group and Rick Hernandez for the direct conversation I couldn't have last tick. Maria's statement is now public — I don't need to protect a rumor source anymore. Open with: 'I know you've seen the council statement. I want to understand how you're thinking about the next 90 days, and I want to be straight with you about what we're watching on our end.' Listen
+
+
+**Patricia Hawkins** → `hr_director`:
+
+> Request a private, off-calendar meeting with Angela Wright — not in her office, not at HQ. Invite her to lunch at a location off auto row. The agenda is not 'I know you're talking to an attorney.' The agenda is: I want her to tell me, in her own words, what she is seeing in the organization and what she thinks we should be doing. Give her the conversational opening to be honest about her own posit
+
+
+**Patricia Hawkins** → `mechanic_carlos`:
+
+> Call Carlos Ruiz in for a direct conversation before the end of the week. He is my master mechanic. He is researching EV certification programs on his own time tonight — meaning he is weighing whether his future is here or somewhere else. Make him an offer before he finishes those browser tabs: Regional Auto Group will fully fund his EV and hybrid technician certification (estimated $3,500–$6,000
+
+
+**Patricia Hawkins** → `parts_store_owner`:
+
+> Call Howard Liu directly — not a check-in, a real conversation. Howard's parts store is the nerve center of mechanic intelligence in this county. He hears what mechanics are saying about fleet changes, about what work is drying up and what is being created. I trust him more than almost anyone in this network. Tell him what I am actually thinking: that I am trying to figure out whether the service
+
+
+**Patricia Hawkins** → `dealership_gm`:
+
+> Convene a closed-door session with Rick Tanner and the two other GMs — not the broad all-hands, but the four people who run the floors. The agenda is one question: if new vehicle sales decline 40% over the next 18 months, what does a solvent, smaller version of Regional Auto Group look like? I am not asking them to plan for closure. I am asking them to help me plan for a company that is half its c
+
+
+**Lisa Freeman** → `council_member`:
+
+> Compile and deliver anonymized intake data report to Maria Santos as requested. Report covers Community Connection Night attendees (Tuesdays/Thursdays): aggregate demographics, employment status categories, named stressors cited, services requested, and referral needs. Framed explicitly as evidence for the council vote. Delivered in writing within 48 hours — not at the end of the week, not after o
+
+
+**Lisa Freeman** → `council_member`:
+
+> Submit application for the community organizer seat on the Economic Transition Task Force Maria created. Application emphasizes: 15 years running Millfield Community Center, existing drop-in infrastructure already absorbing early displacement, direct relationships with the population the task force is trying to reach, and ability to serve as a real-time feedback loop between institutional programs
+
+
+**Lisa Freeman** → `council_member`:
+
+> Beginning immediately at Community Connection Night sessions: brief every drop-in visitor on Maria's programs — the $2,500 retraining grants, the small business grants, and how to apply. Create a one-page handout with plain-language eligibility criteria and next steps. Track how many people we connect to each program. This data becomes the proof of distribution in the next grant cycle.
+
+
+**James Patterson** → `council_member`:
+
+> Track Maria Santos's retraining and small business grant programs as a data analyst habit — not because I need them, but because the policy response to RoboRide is itself a leading indicator of how the town's power structure is reading the disruption. Note which sectors are being targeted, what the dollar amounts signal about projected job loss assumptions, and whether the programs are reactive or
+
+
+**Maria Santos** → `ceo_regional_auto` + `diner_owner` + `mechanic_carlos`:
+
+> Host the public input session I promised — two hours, open mic format, held at the community center the evening before the council vote. Personally call Patricia Hawkins, Betty Kowalski, and Carlos Ruiz directly to invite them and ask them to bring colleagues. Not a town hall for optics: a structured listening session where I take notes on paper, name the specific agenda items coming to vote the n
+
+
+**Maria Santos** → `ceo_regional_auto` + `diner_owner`:
+
+> After the council vote, issue a second public statement — this one specific and concrete. Name the programs, name the dollar amounts, name the RoboRide license requirement, name the task force. Include the application link for the small business stabilization grant and the enrollment contact for the community college retraining track. Post to the town website, send to local media, and ask Patricia
+
+
+**Rick Tanner** → `ceo_regional_auto`:
+
+> Request a private, one-on-one sit-down with Patricia Hawkins — not a phone call, an in-person meeting. Frame it as a GM operational briefing: floor plan financing concerns, staffing continuity, Q2 inventory strategy. But the real agenda is to get her to tell me, without a room full of people watching, what the actual plan is for this store. Is Regional Auto Group holding Millfield? Is there a time
+
+
+**Rick Tanner** → `hr_director`:
+
+> Pull Angela Wright into a private conversation before she escalates her attorney situation further. Don't address what I know — I can't, because the way I know it exposes how closely I've been watching. Instead: tell her I'm thinking about how to protect the team heading into a volatile period, ask her what she would need to feel secure in her role over the next six months, and listen. The goal is
+
+
+**Betty Kowalski** → `council_member`:
+
+> Apply for Maria Santos's $5,000 small business stabilization grant. Fill out the paperwork this week. The qualification criteria are met. The money is not for spending — it is for extending runway if the 60% drop scenario materializes. A $5,000 cushion converts a 6.4-month runway into something closer to 7.5 months at 60% revenue loss. That is the difference between having time to adapt and not ha
+
+
+**Amir Patel** → `council_member` + `insurance_agent_priya`:
+
+> Apply for Maria Chen's $5,000 small business stabilization grant. Fill out the full application this week. Frame it around the AV corridor impact on Auto Row-adjacent fuel retailers — which is exactly what the data supports. Do not over-dramatize. Do not under-state. Present the Phase 2 impact data from other cities as evidence. Have Priya review it before submission.
+
+
+**Angela Wright** → `ceo_regional_auto`:
+
+> Request a brief one-on-one with Patricia — framed as a professional check-in, nothing alarming. Objective: give Patricia the opening to surface the retention bonus she is apparently considering. Angela will not lead with it and will not tip her hand. But she will be present, calm, and available for the conversation Patricia is building toward. If Patricia raises retention, Angela listens, takes no
+
+
+**Priya Sharma** → `council_member`:
+
+> Look up Maria Santos's $2,500 retraining grant application process. Determine eligibility. If the application takes under an hour, complete and submit it tonight. If it takes longer, block Saturday morning for it — and actually write that in my calendar, not just think it.
+
+
+**Tom Bradley** → `council_member`:
+
+> Attend Maria Santos's town hall to learn about the $2,500 retraining grants. Go not as someone seeking a grant — go as someone who wants to understand what's happening in the community and what options exist. Sit in the back. Take notes on paper, not on a phone. Do not raise your hand unless the question is purely informational.
+
+
+**Kevin O'Brien** → `council_member`:
+
+> Apply today for Maria Santos's $2,500 retraining grant through the council program. The NMLS mortgage origination course costs approximately $300-600 depending on employer reimbursement status. The grant covers this and potentially additional SBA certification costs. Complete the application form, attach proof of enrollment in the NMLS-approved course, and submit before end of business. This is a
+
+
+**Kevin O'Brien** → `bank_manager`:
+
+> Request a specific, short conversation with David Chen this week — framed not as a career check-in but as a credit risk coordination meeting. Open with the portfolio: 'I want to make sure my dealer outreach is aligned with whatever criteria adjustments you're making.' This gives David an easy entry point that serves his current priority. Then pivot: 'I also want to give you a progress update on th
+
+
+**Kevin O'Brien** → `bank_manager`:
+
+> Pull the active auto loan file and identify any borrowers who (a) work in auto-adjacent sectors — dealership staff, fleet drivers, auto parts suppliers — and (b) have loans with more than 24 months remaining. Flag these accounts in the CRM with a soft watchlist tag. Do not contact borrowers yet — this is internal triage. Prepare a one-page summary for David: 'Here are the accounts I think warrant
+
+
+**Carlos Ruiz** → `ceo_regional_auto`:
+
+> Tell his wife Elena what actually happened at the all-hands. Not the reassuring version. The true version: Patricia said nothing concrete, the company has no visible plan, RoboRide is real and Millfield is Phase 2, and Carlos has been looking at a retraining page. Let her see the numbers — the savings, the runway, what the certification costs. She is a co-decision-maker and has been operating with
+
+
+**Carlos Ruiz** → `ceo_regional_auto`:
+
+> Find a moment tomorrow — not in front of the whole floor, not formally, just catching Patricia in the hallway or before the bay opens — and ask her one specific question: 'Are we keeping the service department?' Not accusatory. Not panicked. A craftsman asking a direct question. One sentence. Wait for the answer.
+
+
+**Sarah Kim** → `mechanic_carlos`:
+
+> Approach Carlos casually at end of shift — not a direct confrontation, but a low-stakes opening. Something like: 'Hey, you've been quiet this week. You doing anything interesting after work?' Let him lead. If he mentions EV certs, engage. If he deflects, back off and note that he deflected.
+
+
+**Howard Liu** → `mechanic_carlos`:
+
+> Have a direct conversation with Carlos Ruiz about his EV retraining — specifically ask what parts and consumables the shop is going to need as they take on more EV and hybrid work. Frame it as a business question, not small talk: what do they currently source, where from, what's hard to get, what lead times look like for ADAS sensors, high-voltage safety gear, EV battery diagnostic tools. This is
+
+
+**Howard Liu** → `council_member`:
+
+> Apply for Maria's $5,000 small business grant. Research the eligibility criteria and application requirements this week. Frame the application around the inventory transition toward professional-grade and emerging EV-adjacent parts — this is a legitimate business adaptation story, not a stretch. $5,000 is roughly one month of expenses and could fund the initial EV parts pilot inventory without tou
+
+
+**Howard Liu** → `hr_director`:
+
+> Stay attentive to the Angela Wright situation without overreacting. Her consulting an employment attorney means the restructuring at that employer is likely real and moving fast. The mechanics who do warranty or dealership-adjacent work may see volume changes. Do not reduce orders or pull back on the professional-grade inventory that is currently selling — the signal is not 'stop', it is 'watch th
+
+
+**Dorothy Chen** → `community_organizer`:
+
+> Download the RoboRide app on my phone this week — the library aide Marcus can help me if I get stuck — and book one short test ride. The destination will be the Millfield Community Center on Thursday afternoon, which I was already planning to walk to for the drop-in hours Lisa expanded. It is 1.4 miles. At $0.18/mile that is roughly 25 cents plus whatever base fare applies. I am not evaluating whe
+
+
+**Dorothy Chen** → `council_member` + `diner_owner` + `mechanic_carlos`:
+
+> Attend Maria Santos' public input session on the RoboRide rollout. Not as someone who has decided anything, but as someone who has done some homework and has questions worth contributing. I will listen for what the auto row workers are feeling. I heard through the book group that Betty's diner is worried about lunch traffic. Carlos Ruiz apparently has his eye on EV certification courses. These are
+
+
+**Robert Jackson** → `council_member`:
+
+> Apply for Maria's $2,500 workforce retraining grant this week. Not research it. Not bookmark it. Fill out the form and submit it. The council is expected to pass the program. I qualify. Waiting to apply until after it passes is the same logic that kept me from fixing the brakes — deferring a clear action because the timing feels slightly uncertain. The time to apply is now.
+
+
+**Robert Jackson** → `council_member` + `mechanic_carlos`:
+
+> Talk to Carlos Ruiz directly. He's researching EV certs. He's already asking the same questions I'm asking — what does the next version of my job look like? He's a mechanic, not a driver, but he is someone in this city who is actively pivoting, not just worrying about it. Find out what he knows. Specifically: does he know anything about Maria's grant, about local retraining timelines, about who el
+
+
+**Jake Morrison** → `council_member`:
+
+> Show up to Maria Santos's public input session. Sit in the room. Listen to what she's actually proposing, what the $2,500 retraining grant covers, what the timeline for the council vote looks like, and whether there are any conditions on eligibility. Take notes on paper, not on my phone. Don't speak unless I learn something from speaking.
+
+
+**Jake Morrison** → `dealership_gm` + `salesperson_tamika`:
+
+> Find a quiet moment with Tamika — not on the floor, not in front of Rick — and ask her directly what she's building. Not 'are you worried' small talk. Specific: what platforms, what kind of work, how long has she been at it. Frame it as curiosity, not desperation. She's building freelance profiles, which means she has already done the thinking I need to do.
+
+
+**Jake Morrison** → `commuter_james`:
+
+> Spend one hour this week looking at whether the $608/mo car payment can be restructured. Not selling the car yet — but understanding the actual options: refinance, voluntary downgrade, sell and buy something cheaper outright, or what the trade-in value is right now versus what it will be in four months when RoboRide Phase 2 is running. James Patterson already sold his car. I need to know what mine
+
+
+**Tamika Jefferson** → `council_member`:
+
+> Apply for Maria Santos's $2,500 retraining grant and separately research eligibility for the $5,000 small business stabilization fund. The retraining grant is the cleaner fit — I am actively building a freelance business, which is a documented career transition. Write the application tonight: describe the skills audit, the Upwork and Contra profiles, and the specific social media content direction
+
+
+**Tamika Jefferson** → `council_member`:
+
+> Attend Maria Santos's public town hall — not to perform concern, but to be in the room where local business owners and workers are having an honest conversation about the next two months. Introduce myself to three people I don't already know. Listen for two things: (1) businesses that are scared and don't know how to communicate that publicly, which is exactly the kind of client who needs social m
+
+
+**Tamika Jefferson** → `dealership_gm` + `council_member`:
+
+> Keep performing at the dealership without visible signal of exit planning. Close cars. Show up on time. Be pleasant to Rick. Do not discuss job searches, freelance work, or Maria's town hall at work. The $4,200/month income is still funding the bridge-build — every week I keep it is another week I can afford to take the right first client instead of any client. The exit is not this tick. The exit
+
+
+**Zoe Martinez** → `council_member`:
+
+> Research and formally apply for Maria Santos's $2,500 retraining grant before the application window opens or fills. Contact the council office directly, find the eligibility criteria for service sector workers, and submit all required documentation this week. This is real money, not potential money.
+
+
+> *No formal transaction ledger for tick 2. Bilateral interactions reconstructed above from obs/actions_summary.json.*
 
 
 
@@ -14468,7 +14771,15 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 ### Transactions — Tick 03
 
 
-> **Known gap:** Transaction files were not generated for tick 3 by the sim engine (early ticks used a different run format). Bilateral exchanges happened but were not recorded in the transactions ledger.
+
+### Bilateral Interactions — Tick 03
+
+> *Reconstructed from observations/actions_summary.json. No formal transaction ledger exists for this tick. These are targeted actions between named agents.*
+
+*(No targeted bilateral interactions detected)*
+
+
+> *No formal transaction ledger for tick 3. Bilateral interactions reconstructed above from obs/actions_summary.json.*
 
 
 
@@ -19164,9 +19475,22 @@ Progress: 66% · ETA: 8 months · Started: tick 4
 ### World Market State
 
 
-*Market data interpolated from phenomena timeseries:*
 
-Employment rate: 0.7 · Spending index: 41.0 · Gini: 0.4935 · Protests: — · RoboTaxi rate: —
+### World Market State
+
+
+> *Reconstructed / interpolated between tick 6 and tick 8 (obs directory not generated for tick 7).*
+
+
+| Metric | Value (interpolated) |
+|--------|----------------------|
+| Employment rate | 0.7 |
+| Spending index | 41.0 |
+| Car ownership rate | 0.7 |
+| RoboTaxi adoption rate | — |
+| Gini coefficient | 0.4935 |
+| Protests | — |
+| Retraining enrollments | — |
 
 
 
@@ -20131,14 +20455,49 @@ Employment rate: 0.7 · Spending index: 41.0 · Gini: 0.4935 · Protests: — ·
 ### Outcomes — Tick 07
 
 
-> **Known gap:** Tick 7 outcome files were never generated (`post_tick.sh` was not run for this month). Actions exist but economic consequences were not computed by the sim engine.
 
+#### Tick 7 Outcomes — Reconstructed from Derived History
+
+> *No outcome files exist. The following is reconstructed from the data-pipeline's derived per-tick history (savings/stress interpolated between tick 6 and tick 8 actual values).*
+
+| Agent | Name | Savings Δ | End Savings | Stress | Employment |
+|-------|------|-----------|-------------|--------|------------|
+| `auto_shop_teacher` | Mark Thompson | +$225 | $30,375 | 0.07 | employed |
+| `bank_manager` | David Chen | $-3,481 | $157,541 | 0.24 | unemployed |
+| `car_wash_worker` | Miguel Hernandez | $-1,069 | $2,248 | 0.11 | employed |
+| `ceo_regional_auto` | Patricia Hawkins | $-8,244 | $387,605 | 0.5 | employed |
+| `community_organizer` | Lisa Freeman | +$181 | $22,715 | 0.13 | employed |
+| `commuter_james` | James Patterson | +$548 | $110,220 | 0.14 | employed |
+| `commuter_rachel` | Rachel Green | +$295 | $28,432 | 0.21 | employed |
+| `council_member` | Maria Santos | $-209 | $61,912 | 0.14 | unemployed |
+| `dealership_gm` | Rick Tanner | $-4,316 | $75,938 | 0.64 | unemployed |
+| `diner_owner` | Betty Kowalski | $-2,134 | $16,910 | 0.62 | unemployed |
+| `driving_instructor` | Frank Russo | $-1,588 | $11,768 | 0.16 | unemployed |
+| `gas_station_owner` | Amir Patel | $-1,271 | $68,708 | 0.275 | employed |
+| `hr_director` | Angela Wright | $-462 | $39,071 | 0.62 | employed |
+| `insurance_agent_priya` | Priya Sharma | $-1,671 | $12,310 | 0.12 | employed |
+| `insurance_agent_tom` | Tom Bradley | $-2,595 | $43,817 | 0.595 | employed |
+| `insurance_manager` | Linda Park | $-2,772 | $101,749 | 0.05 | employed |
+| `loan_officer` | Kevin O'Brien | $-1,561 | $30,932 | 0.095 | employed |
+| `mechanic_carlos` | Carlos Ruiz | +$96 | $36,247 | 0.245 | employed |
+| `mechanic_sarah` | Sarah Kim | +$124 | $17,067 | 0.19 | employed |
+| `parking_garage_mgr` | Denise Williams | +$180 | $23,707 | 0.15 | employed |
+| `parts_store_owner` | Howard Liu | $-912 | $39,024 | 0.14 | employed |
+| `real_estate_agent` | Stephanie Morris | +$328 | $72,427 | 0.07 | employed |
+| `retiree` | Dorothy Chen | +$236 | $118,747 | 0.22 | employed |
+| `rideshare_driver` | Robert Jackson | +$193 | $9,902 | 0.24 | employed |
+| `salesperson_jake` | Jake Morrison | $-1,531 | $9,329 | 0.275 | employed |
+| `salesperson_tamika` | Tamika Jefferson | $-1,589 | $6,450 | 0.16 | employed |
+| `single_parent` | Nicole Washington | +$142 | $17,737 | 0.39 | employed |
+| `truck_owner` | Dale Cooper | +$454 | $52,317 | 0.17 | employed |
+| `uber_driver_2` | Grace Okafor | $-894 | $2,748 | 0.17 | employed |
+| `young_gig_worker` | Zoe Martinez | +$0 | $0 | 0.0 | unemployed |
 
 
 ### Transactions — Tick 07
 
 
-> **Known gap:** Transaction files were not generated for tick 7 by the sim engine (early ticks used a different run format). Bilateral exchanges happened but were not recorded in the transactions ledger.
+> **Known gap:** No transaction ledger for tick 7. Agent actions above describe intended exchanges but no bilateral records were generated by the sim engine.
 
 
 
@@ -24032,7 +24391,7 @@ Employment rate: 0.7 · Spending index: 41.0 · Gini: 0.4935 · Protests: — ·
 ### Transactions — Tick 09
 
 
-> **Known gap:** Transaction files were not generated for tick 9 by the sim engine (early ticks used a different run format). Bilateral exchanges happened but were not recorded in the transactions ledger.
+> **Known gap:** No transaction ledger for tick 9. Agent actions above describe intended exchanges but no bilateral records were generated by the sim engine.
 
 
 
@@ -27461,9 +27820,22 @@ Employment rate: 0.7 · Spending index: 41.0 · Gini: 0.4935 · Protests: — ·
 ### World Market State
 
 
-*Market data interpolated from phenomena timeseries:*
 
-Employment rate: 0.485 · Spending index: 27.0 · Gini: 0.659 · Protests: — · RoboTaxi rate: —
+### World Market State
+
+
+> *Reconstructed / interpolated between tick 11 and tick 13 (obs directory not generated for tick 12).*
+
+
+| Metric | Value (interpolated) |
+|--------|----------------------|
+| Employment rate | 0.5 |
+| Spending index | 27.0 |
+| Car ownership rate | 0.7 |
+| RoboTaxi adoption rate | — |
+| Gini coefficient | 0.659 |
+| Protests | — |
+| Retraining enrollments | — |
 
 
 
